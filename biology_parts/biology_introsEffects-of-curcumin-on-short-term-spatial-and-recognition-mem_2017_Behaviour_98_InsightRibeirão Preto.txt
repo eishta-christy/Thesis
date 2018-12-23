@@ -1,0 +1,132 @@
+
+Alzheimer’s disease (AD) is the most common progressive neurodegenerative disorder of the elderly, characterized by a decline in
+cognitive functions.  Sporadic AD (sAD; i. e. , late-onset AD), the most
+frequent form of AD with an unknown etiology, presents early abnormalities in brain glucose metabolism and insulin signaling, thus
+resulting in an insulin-resistant state in the brain, which has been
+suggested to be related to etiological events in its pathogenesis [1,2]. 
+Additionally, protein aggregates [3], mitochondrial dysfunctions [4],
+oxidative stress [5], neuroinﬂammation [6], brain cholinergic deﬁcits
+[7], and dysfunctions in adult neurogenesis [8–10] are among the main
+features of
+sAD.  These features may be modeled by a intracerebroventricular (ICV) injection of low, subdiabetogenic doses of
+streptozotocin (STZ) in rodents [11,12] and non-human primates [13]. 
+Adult neurogenesis is a multi-step process of the formation of new
+neurons in the mammalian brain throughout life.  Evidence suggests
+that newly generated neurons play a crucial role in hippocampus-dependent learning and memory (e. g. , spatial memory and orientation)
+and recovery from neuronal injury [14].  Neurogenesis starts from the
+proliferation of resident neural stem cells (NSC) and neural progenitor
+cells (NPC) in two neurogenic niches in the central nervous system
+(CNS): the subventricular zone (SVZ) of the lateral ventricles (LVs), and
+the subgranular zone (SGZ) ofthe dentate gyrus (DG) of
+Abbreviations: BDNF, brain-derived neurotrophic fator; CC, corpus callosum; CNS, central nervous system; DCX, doublecortin; DG, dentate gyrus; EPM, elevated plus maze; GFAP, glial
+ﬁbrillary acidic protein; Iba-1, ionized calcium binding adaptor molecule-1; ICV, intracerebroventricular; LVs, lateral ventricles; NSC, neural stem cells; NPC, neural progenitor cells; OFT,
+open ﬁeld test; OLT, object location test; ORT, object recognition test; sAD, sporadic Alzheimer’s disease; SGZ, subgranular zone; STZ, streptozotocin; SVZ, subventricular zone; TNF-α,
+tumor necrosis factor alfa
+⁎ Corresponding author. 
+E-mail address: taysa_bassani@yahoo. com. br (T. B.  Bassani). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 014
+Received 11 July 2017; Received in revised form 1 August 2017; Accepted 5 August 2017
+Available online 08 August 2017
+0166-4328/ 
+T. B.  Bassani Name
+Behavioural Brain Research 335 (2017) 41–54
+hippocampus.  The process of adult neurogenesis can be inﬂuenced by
+many intrinsic and extrinsic factors.  Growth factors and neurotrophins,
+such as brain-derived neurotrophic factor (BDNF),
+increase diﬀerentiation, maturation, and survival of proliferating NSC/NPC, stimulating neurogenesis.  In contrast, microglial activation and release of
+proinﬂammatory cytokines (e. g. , interleukin-1β (IL-1β), IL-6, and tumor
+necrosis factor-α (TNF-α)) have been demonstrated to inhibit neurogenesis by reducing the proliferation of NSC/NPC.  The consequence of
+inhibiting neurogenesis is cognitive deﬁcit, reﬂected by impairments in
+spatial and recognition learning and memory [15].  Several studies have
+reported an increase in neuroinﬂammation in the STZ model of sAD,
+reﬂected by reactive gliosis and an increase in proinﬂammatory markers that are associated with cognitive decline [16–19].  Other studies
+reported a decrease in neurogenesis associated with oxidative stress
+[20] or amyloid pathology [21]. 
+Current therapeutic options for AD are limited because most agents
+provide only symptomatic relief from cognitive deﬁcits.  A neuroprotective agent able to improve cognitive function along with slowing
+neuronal loss, decrease neuroinﬂammation and improve neurogenesis
+is needed.  Curcuma longa (turmeric) is a rhizomatous native plant from
+South and Southeast Asia which belongsZingiberaceae [22].  Traditionally curcumin, the main active ingredient
+in turmeric, has been used as a common food additive and herbal
+medicine [23].  Epidemiological studies have suggested that societies
+that widely use curcumin have a reduced incidence of AD and improved
+cognitive function [24,25]. 
+to the ginger
+The natural polyphenol curcumin possesses pleiotropic properties.  It
+has been reported to provide neuroprotection in cellular and animal
+models of neurodegenerative and neuropsychiatric disorders including
+AD, Parkinson’s disease, Huntington’s disease, multiple sclerosis, depression, and schizophrenia [26].  Neuroprotection provided by curcumin may be due to its antioxidant properties, by upregulation of the
+transcription factor Nrf2 [27], and anti-inﬂammatory properties, by
+suppression of NF-κB activation [28].  Curcumin also inhibits amyloid
+beta (Aβ)-oligomerization and tau-phosphorylation [29] and increases
+BDNF levels in corticosterone-treated rats [30], chronically stressed rats
+[31] and Wistar Kyoto rats [23]. 
+In addition, curcumin potentiates spatial and non-spatial memory in
+aged mice [32] and rats [33], in Aβ-induced [34] and STZ-induced
+models of AD [35–38].  The positive eﬀects of curcumin on cognition
+may be related to its capacity to enhance neurogenesis.  Curcumin has
+shown to increase neurite outgrowth and proliferation of NSC both in
+vitro and in vivo through the activation of the ERK and MAP kinase
+pathways [39,40].  Curcumin treatment
+increases neurogenesis in
+chronically stressed rats [41], aged rats [33] and in Aβ-induced model
+of AD [26].  Nevertheless, the eﬀects of prolonged curcumin treatment
+on adult neurogenesis were not studied in the STZ-ICV model of sAD. 
+Therefore, we hypothesized that curcumin treatment would be able to
+preserve cognitive functions of STZ-ICV injected rats by increasing
+adult neurogenesis and decreasing neuroinﬂammation. 
+<Middle> Methods. 
+2. 1.  Animals
+In this study, 3–4 months old male Wistar rats weighing 300–340 g
+at the beginning of the experiment were used.  All animals were obtained from our breeding colony.  The animals had free access to food
+and water, were maintained in a temperature-controlled room
+(22 °C ± 2 °C) on a 12 h/12 h light/dark cycle (lights on at 7:00 AM),
+and were randomly housed in groups of 3–4 in polypropylene cages
+with wood shavings as bedding.  The studies were performed in accordance with the guidelines of the Federal University of Paraná and
+were approved by the University Ethics Committee (protocol no.  735). 
+Fig.  1.  Experimental design.  The present study was designed to assess the eﬀects of
+prolonged curcumin treatment in three diﬀerent doses (25, 50 and 100 mg/kg) on shortterm spatial and recognition memory, neuroinﬂammation and adult neurogenesis in rats
+that received a single bilateral ICV injection of STZ.  IHC, immunohistochemistry; OFT,
+open ﬁeld test; EPM, elevated plus maze; OLT, object location test; ORT, object recognition test; Hab, habituation. 
+2. 2.  Drugs
+Streptozotocin (N-[methylnitrosocarbamoyl]-α-D-glucosamine) was
+purchased from Santa Cruz Biotechnology (Santa Cruz, CA, USA) and
+curcumin (from Curcuma longa) was purchased from Sigma-Aldrich (St. 
+Louis, MO, USA). 
+2. 3.  Experimental design
+The rats were randomly divided into ﬁve groups: sham (n = 7), STZ
+(n = 7), STZ + curcumin 25 mg/kg (STZ + cur 25; n = 6), STZ
++ curcumin 50 mg/kg (STZ + cur 50; n = 8), and STZ + curcumin
+100 mg/kg (STZ + cur 100; n = 7).  The STZ groups received a single
+bilateral ICV injection of STZ (3 mg/kg total dose) dissolved in sterile
+0. 9% saline (4. 5 μl per injection site).  The sham group received a single
+bilateral ICV injection of sterile 0. 9% saline (4. 5 μl per injection site;
+Fig.  1).  Treatment with curcumin (25, 50 and 100 mg/kg, per os) or its
+vehicle (0. 5% carboxymethylcelulose in distilled water with 1% Tween
+80) was performed over 30 days, once a day in the afternoon, and
+started 1 h before the beginning of stereotaxic surgeries. 
+The animals were allowed to recover for 3 weeks following surgery
+before behavioral evaluations.  These animals were assessed in the open
+ﬁeld test (OFT) to evaluate spontaneous locomotor activity on day 21
+after surgery and in the elevated plus maze (EPM) on day 22 to assess
+anxiety-like behavior.  Cognitive performance was evaluated in the
+object location test (OLT) on day 28, in the object recognition test
+(ORT) on day 29, and in the spatial version of the Y maze on day 30. 
+Right after the last behavioral analysis, blood glucose levels were
+measured using a G-Tech Free device using blood samples that were
+collected by tail prick. 
+i. p. ) and intracardially perfused for posterior
+Afterward, animals were deeply anesthetized with chloral hydrate
+(400 mg/kg,
+immunohistochemical evaluation of Doublecortin (DCX; a marker of
+newborn and migrating neurons), Ki-67 (a marker of cell proliferation),
+ionized calcium binding adaptor molecule (Iba-1; a marker of microglia), and glial ﬁbrillary acidic protein (GFAP; a marker of astrocytes). 
+2. 4.  Stereotaxic surgery
+The animals were deeply anesthetized with sodium thiopental
+(30 mg/kg, i. p. ) and chloral hydrate (150 mg/kg, i. p. ) and placed in a
+stereotaxic frame (David Kopf, USA).  The skull was exposed, and the
+following stereotaxic coordinates for the LVs, according to Paxinos and
+Watson [42], were calculated: anterior/posterior, −0. 8 mm from
+bregma; medial/lateral, ± 1. 5 mm from the midline; dorsal/ventral,
+−3. 8 mm from the skull.  A hole was drilled through the skull, and a 28gauge stainless steel needle was manually lowered into each LV.  An
+electronic pump (Insight, Ribeirão Preto, SP, Brazil) was used to controlT. B. 

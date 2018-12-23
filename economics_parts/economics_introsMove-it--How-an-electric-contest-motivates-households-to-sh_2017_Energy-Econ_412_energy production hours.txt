@@ -1,0 +1,451 @@
+
+Renewable energy sources are increasingly used in order to curb
+CO2 emissions and mitigate climate change.  In particular, solar photovoltaic systems are being deployed at an exponential rate (see e. g. ,
+IEA, 2016).  However, this technology has the drawback of generating electricity when residential demand is relatively low.  In fact, solar
+radiation is maximal around noon, when many homes are empty. 
+Conversely, households’ electricity usage peaks in the evening, when
+solar radiation is nil.  This mismatch constitutes a potential obstacle to the diffusion of electricity produced from solar sources, even
+if it can be mitigated in different ways.  Grid expansions would help
+in transporting electricity for remote consumption.  Storage capacities would allow delayed consumption.  Demand-response measures
+may be implemented so that electricity is used when and where it is
+produced. 
+While the ﬁrst two solutions are supply-side measures requiring high installation costs (Beaudin Name, 2010) and involving losses
+(Denholm and Hand, 2011), demand-side management might prove
+relatively inexpensive and easy to implement.  An additional advantage of demand-side interventions is that they can be implemented
+rapidly, while deployment of new technologies on a large scale can
+only be achieved in the long run (Dietz Name, 2009).  It has also been
+argued that different solutions like storage and demand management should be considered as complementing each other for grid
+balancing (Elliott, 2016). 
+Mitigating imbalances between electricity production and usage
+is a particularly serious issue in remote areas.  In fact, when large
+amounts of solar energy are produced in isolated regions at times of
+low demand, providers may ﬁnd the technical installations necessary
+to accommodate excess supply too expensive and could prefer to
+literally destroy the electricity produced. 1 This dismal anecdote
+illustrates how supply-side measures might fail when it comes to
+integrating electricity from renewable sources in the grid.  In such
+situations, demand-side management becomes crucial. 
+Even if this paper focuses on the misalignment of solar energy
+production and electricity consumption, its scope extends to the
+general issue of the increasing importance of renewable technologies.  Because the new renewable energy sources (sun and wind) are
+intermittent by nature, relying more on these will imply managing
+demand more actively in order to minimize the cost of using the
+electricity produced. 
+In this paper, using a randomized control trial, we investigate
+whether and by how much households shift intraday electricity
+usage when provided with incentives to do so.  More precisely, the
+objective of our intervention is to encourage households to increase
+their share of electricity used between 11 a. m.  and 3 p. m.  (when
+most solar radiation takes place), while discouraging any voluntary increase in overall consumption. 2 The ﬁrst treatment consists
+of information feedback sent monthly via paper mail.  Households
+included in this group obtain details about their own consumption,
+its pattern within the day, and similar information about households
+of comparable size.  The second treatment is a contest in which the
+best performers (i. e. , those who achieve the strongest shift in electricity usage while keeping total usage at reasonable levels) receive
+cash prizes determined by their position in the ranking. 
+Using a difference-in-differences approach, our results suggest
+that both treatments induce a reaction, but the type of reaction
+depends on the treatment.  Households exposed to information feedback globally decrease electricity usage regardless of the hours of the
+day, but they do not shift consumption toward the indicated hours. 
+Conversely, households exposed to ﬁnancial incentives display a signiﬁcant shift toward the solar energy production hours.  They achieve
+an increase in their proportion of electricity used between 11 a. m. 
+and 3 p. m.  by about 1 percentage point, which is not negligible
+considering this proportion is around 20% on average. 
+The remainder of the paper unfolds as follows.  Section 2 discusses how our contribution ﬁts into the recent literature.  Section 3
+presents our experimental design.  Section 4 describes our dataset
+and provides a descriptive analysis of the impacts of our intervention.  Section 5 explains our econometric strategy and reports our
+empirical results.  Section 6 discusses the policy implications and
+concludes. 
+2.  Literature review. 
+Our paper is located at the intersection of two distinct bodies
+of literature.  The ﬁrst is composed of technical contributions that
+examine the feasibility of integration of large amounts of variable
+renewable energy sources (sun and wind) into the energy system
+(see the review by Kondziella and Bruckner, 2016).  This branch of
+the literature focuses on engineering solutions and essentially analyzes supply-side measures, whereby the issue is to render electricity
+distribution amenable through grid expansion and/or storage, and it
+makes assumptions to simulate consumers’ behavior.  For instance,
+Denholm and Margolis (2007) evaluate scenarios where up to an
+arbitrary 10% of demand can be shifted to absorb excess photovoltaic
+generation, and Steinke Name (2013) simply keep demand constant. 
+In our study, we tackle a similar problem but look at it from an
+opposite perspective, that is, focusing on demand management. 
+We obtain exact consumption data and observe actual households’
+reaction, but we make simplifying assumptions concerning the
+supply of renewable energy. 
+Among the technical studies, Pina Name (2012) stand out as they
+analyze the impact of demand-side management strategies in an
+electricity mix characterized by high shares of renewable energy. 
+Their results are nevertheless based on simulations, both for the
+installation of new generation capacity and for electricity usage. 
+For example, they assume that because washing machines, dryers,
+and dishwashers can be easily programmed, these devices will be
+scheduled to operate when renewable electricity generation is high. 
+In some of their scenarios, around 40% of these activities are thus
+shifted.  The assumption that households (and other consumers) will
+actually change their habits is crucial, but far from obvious.  In the
+present paper, we are testing this assumption by investigating if
+and how real households do actually shift load when faced with
+incentives to do so. 
+The second relevant branch of the literature is composed of
+economic studies dealing with the effects of feedback on household
+electricity demand.  As documented in several literature reviews
+(Buchanan Name, 2015.  Faruqui Name, 2010.  Vine Name, 2013) and
+meta-analyses (Delmas Name, 2013.  Ehrhardt-Martinez Name, 2010),
+this research ﬁeld is growing fast. 3 In these contributions, the usual
+objective is to induce electricity conservation.  Instead, our goal here
+is to induce load shifting across hours of the day without requiring
+any decrease (but still prevent increases) in total electricity usage. 
+As such, the present study is among the ﬁrst economic contributions
+targeting load shifting, and the main novelty of our intervention is
+that we intend to attract electricity usage toward some speciﬁc (sunlight) hours instead of trying to push it away from some speciﬁc
+(peak) hours.  In that sense, our intervention is opposed to the usual
+paradigm of peak shaving and in fact seeks to create a consumption
+peak that coincides with the peak of solar energy production. 
+Other remarkable features of our contribution are the duration of
+the experiment and the response rate of the pre-experiment survey. 
+Our experiment was conducted over an exceptionally long period
+of 18 months.  three months of pre-treatment observation, twelve
+months of treatment, and three further months of observation after
+the treatment was terminated.  By comparison, 60% of the studies considered in the meta-analysis by Delmas Name (2013) lasted
+three months or less.  Most studies moreover discontinue observation once the treatment is terminated, so that the availability of
+a post-treatment observation period is also an exceptional feature. 
+Furthermore, our pre-experiment survey reached a response rate of
+about 16%, a considerable ﬁgure when compared to other studies. 4
+In Ito Name (2015) and Degen Name (2013), the response rates are
+about 1. 7% and 8. 7%, respectively.  Jessoe and Rapson (2014) sent
+60,000 e-mails but use only 437 households in their analysis (0. 7%). 
+A high response rate tends to minimize the self-selection problems
+that might plague this type of experiment.  Finally, our experiment
+fulﬁlls all conditions to qualify as a “high-quality study” according
+to Delmas Name (2013).  dedicated control group, weather controls,
+demographic and household controls, and randomization. 
+<Middle> Experimental design. 
+Our ﬁeld experiment was conducted on households living in
+Cernier, a village of around 2000 inhabitants located in the canton
+of Neuchâtel (Switzerland).  In 2012, in the frame of a pilot study,
+the electricity provider Groupe e started to equip households with
+smart meters recording electricity usage in 15-min intervals.  In April
+2013, we contacted 387 households already equipped or eligible to
+be equipped with smart meters, and invited them to ﬁll an online
+survey. 5 The invitation letter remained intentionally vague about the
+objective of the study, in order not to inﬂuence the households that
+would later be assigned to the control group.  It was simply stated
+that a “scientiﬁc study about electricity consumption” was undertaken to “investigate the ﬂexibility of electricity consumption, in
+order to adapt it to the production of electricity from renewable
+sources (in particular photovoltaic production). ” To foster participation, a lottery awarding CHF 200 in cash was organized among
+respondents, and a reminder letter was sent one month after the
+initial invitation letter. 
+For households of the control group, these two letters constitute
+the only direct interaction with the project.  A time lag of more than
+six months therefore took place between the information received by
+these households and the outset of the intervention in January 2014,
+and it appears very unlikely that their behavior could be affected by
+our letters.  Also, while we cannot formally exclude spillovers from
+households in the treatment groups to those in the control group,
+we argue that such effects are very unlikely to be strong, considering that the objective of the intervention is not straightforward.  If
+anything, potential spillovers would moreover tend to minimize the
+observed impact of our intervention, so that the treatment effects
+we obtain are possibly downward biased and can be considered as a
+lower bound of the true effects. 
+By mid-December 2013, 131 households had completed the
+online survey.  Among them, households facing a time-of-use tariff or already involved in other experiments were discarded, which
+left 65 households eligible to participate in our experiment. 7,8 The
+observation period lasted from October 2013 to March 2015, and
+treatments were administered from January to December 2014. 
+October–December 2013 thus constitute the pre-treatment period,
+while January–March 2015 constitute the post-treatment observation period. 
+In order to guarantee the internal validity of our study, the 65
+eligible households have been randomly assigned to one control
+and two treatment groups of equal size using a stratiﬁcation procedure.  The goal of the procedure was to create groups as similar as
+possible with respect to the following selected characteristics.  preexperiment electricity usage per household member, dwelling size,
+and highest education level achieved by a member of the household. 
+Two households ﬁlled the online survey after the stratiﬁcation
+had been conducted but before the intervention started, and they
+have been included in the control group.  The data (survey and electricity usage) are complete for these late respondents, but it was
+not possible to inform them in due time of the starting date of the
+treatment.  During the observation period, four households moved
+out (two from the control and two from the treatment 1), and we
+discard these attrition households from the analysis because their
+observation period is truncated.  Two out of these four households
+even moved out before the treatment started.  Finally, one household
+(from the treatment 2) appears as a clear outlier and is also excluded
+from the analysis. 9 Our estimations are thus conducted on a sample
+comprising 62 households (with 22/19/21 in the control/treatment
+1/treatment 2 groups). 
+To assess the outcome of the stratiﬁcation procedure, we test
+the average differences of the variables of interest between each
+treatment group and the control group.  As reported in Table B. 1
+in Appendix B, the treatment and control groups appear largely
+comparable.  Except for two categories of age, all tests do not reject
+the equivalence of the characteristics between groups. 
+3. 1.  Treatment 1.  Information feedback. 
+Treatment 1 consists of information feedback designed to foster
+shifts of electricity usage toward the period from 11 a. m.  to 3
+p. m.  Through this intervention, our goal is to assess whether information alone is a suﬃciently strong incentive for households to
+engage in load shifting.  The feedback is delivered via monthly letters and intended to enhance households’ knowledge and awareness
+of their electricity usage and load proﬁle. 11 The feedback concerns
+the household’s own electricity usage (what Fischer, 2008, deﬁnes
+as “historic” comparison) and that of households of similar size
+from the control group (“normative” comparison).  More precisely, as
+the sample letter reproduced in Fig.  C. 1 in Appendix C shows, the
+feedback refers to. 
+(i) The household’s electricity usage in the last three months,
+along with average usage of similar households (top right(ii) The household’s (average) daily load proﬁle, highlighting
+usage between 11 a. m.  and 3 p. m.  (bottom left graph). 
+(iii) The proportion of electricity used between 11 a. m.  and 3
+p. m.  and its evolution over the last three months (bottom
+right graph).  For the last month, the proportion for similar
+households is also provided as a benchmark. 
+Moreover, the text of the letter emphasizes the importance of
+shifting load toward the sunlight hours, as this would reduce imbalances between solar energy production and electricity consumption. 
+Every month, a different tip on how to shift electricity usage is also
+provided. 
+In order to facilitate participants’ understanding and mitigate
+potential boomerang effects (Schultz Name, 2007), we complement
+the letters with injunctive messages under the form of happy, neutral, or sad faces.  The ﬁrst faces are based on the monthly evolution of
+the proportion of electricity used between 11 a. m.  and 3 p. m.  by the
+household.  The second faces compare the proportion of the household
+against that of similar households.  Green happy faces signal desired
+outcomes, that is, a relatively high proportion of electricity consumed
+between 11 a. m.  and 3 p. m. , yellow neutral faces signal not good nor
+bad outcomes, and red sad faces signal undesired outcomes.  We use
+a scale going from three happy faces to three sad faces. 13
+Similar interventions, based on information feedback containing
+descriptive and injunctive norms related to past electricity usage,
+have been implemented in previous contributions (e. g. , Allcott, 2011. 
+Allcott and Rogers, 2014).  Again, their objective was to induce electricity conservation, while we here target load shifting. 
+3. 2.  Treatment 2.  Financial incentives. 
+Treatment 2 is implemented as a contest, in which cash prizes
+are awarded to the 15 top-ranked households on a monthly basis. 
+Ranks 1–5, 6–10, 11–15 ascribe respectively CHF 50, 30, and 10. 14,15
+Due to practical, political and legal aspects, the provider involved
+in the project decided not to implement any differentiated tariffs. 
+This is the main reason why this treatment is designed as a contest. 
+The objective of this intervention is to investigate whether monetary
+rewards without any precise information related to electricity usage
+can induce households to shift their load proﬁle. 
+In December 2013, a letter was sent to the selected households
+to inform them about the starting date of the contest (January 1,
+2014).  The letter also explained intuitively what should be done to
+be well-ranked in the contest.  maximize the proportion of electricity consumed during the period from 11 a. m.  to 3 p. m. , while keeping
+total consumption unaltered.  The exact criteria used to establish the
+ranking (E) were provided in a webpage, but it was deemed unnecessary or even counterproductive to include all technical details
+in the information letter.  In fact, knowing the precise rules would
+not confer any speciﬁc advantage, and the only reasons for making
+them available to the participants were transparency and fairness
+concerns. 
+From January to December 2014, at the end of every month,
+households were sent personalized mails indicating their position in
+the ranking (a sample letter is provided in Fig.  C. 22 in Appendix C). 
+The monthly letters also recalled the contest goal and provided tips
+on how to shift load.  However, nothing concerning electricity usage
+was indicated.  For those ranked in the top 15, prizes were included
+in the form of banknotes in the envelopes.  Participants could check
+the detailed and complete ranking on www. unine. ch/ﬂexirank, using
+a personalized password. 16
+We have to acknowledge that the design of our experiment makes
+rewards uncertain, unrelated to amounts of electricity used, and
+only indirectly linked to household’s actions.  In fact, a household
+increasing its proportion of electricity used between 11 a. m.  and 3
+p. m.  could remain unrewarded if others fared better.  Conversely, a
+household not having changed anything could end up rewarded if
+others did worse.  Our results thus cannot be used to infer about the
+price-elasticity of electricity demand, and the external validity of this
+treatment is diﬃcult to assess. 
+4.  Data and descriptive statistics. 
+4. 1.  Data. 
+Households’ electricity usage comes from the electricity provider
+Groupe e.  It was recorded in 15-min intervals by smart meters, but
+consumers had no in-home display or any other device showing their
+real-time electricity use. 17 All feedback provided to households was
+thus indirect (Bernstein and Collins, 2014.  Darby, 2006) and came
+exclusively from the letters we sent during the experiment. 
+The observation period ran from October 2013 to March 2015. 
+The period from October to December 2013 has been used to
+monitor households’ “standard” electricity usage and we deﬁne it
+as the before period.  The treatment period expands from January
+to December 2014.  The period between January and March 2015,
+deﬁned as the after period,
+is used to investigate households’
+behavior once the treatment was over. 
+Data on weather (temperature and radiation) were gathered from
+MeteoSwiss, the Swiss Meteorological Institute.  The data are available
+at the hour level and collected in a meteorological station located
+in Chaumont, which is 6 km away from Cernier and exactly at the
+same elevation.  Local holiday periods were retrieved from the oﬃcial
+calendars of the Canton of Neuchâtel. 
+Our ﬁnal dataset contains a total of 33,914 household-day observations.  62 households followed over 18 months (i. e. , 547 days). 
+When using hourly data, the dataset contains 813,812 householdhour observations. 
+Fig.  1 shows the monthly electricity usage for the control and
+treatment groups.  Average annual consumption is around 2850 kWh
+per household in our sample.  This value is slightly larger than the
+ﬁgures reported by Degen Name (2013) for their sample (2300 kWh)
+and the city of Zurich (2600 kWh).  Nevertheless, it only represents
+one fourth of the electricity used by an average US household, which
+is larger than 11,000 kWh (see Allcott and Rogers, 2014).  It is also
+twice smaller than the values reported by Ito Name (2015) concerning Japan.  By international standards, electricity used by Swiss
+households is thus low. 
+Before the beginning of the intervention, average household consumption in treatment 1 was above the corresponding series of the
+other two groups. 21 Since the beginning of the treatment, we observe
+a relative decrease for treatment 1, such that the series come closer
+during the experiment.  Electricity used by the control and treatment
+2 groups evolves quite similarly.  At the end of the observation period,
+the spread between the three groups is very narrow. 
+Fig.  1 moreover highlights the seasonal pattern of electricity
+usage.  When the weather is warm and sunny, people naturally
+tend to stay outside longer, eat lighter and colder, use less artiﬁcial lighting, and wear lighter clothes.  These behaviors lead to lower
+consumption in the period of the year when weather conditions are
+good.  Note also that air conditioning, which could involve signiﬁcant
+electricity usage during the warm season, is virtually non-existent
+in Swiss households because of tight regulation (see Winkler Name,
+2014).  In 2014, space cooling and ventilation only accounted for 2. 6%
+of ﬁnal energy consumption whereas heating accounted for 28. 9%
+(SFOE, 2015). 
+Fig.  2 displays the proportion of electricity used between 11 a. m. 
+and 3 p. m.  by group.  While the control group displays relatively little variation over time, there is a clear increase at the beginning of
+the intervention period for both treatment groups.  Their proportion
+reaches a maximum after some months of treatment and it thereafter
+decreases, gradually returning toward its pre-experiment level. 
+We observe that households in treatment 2 performed particularly well (i. e. , increased their proportion of electricity used between
+11 a. m.  and 3 p. m. ) from April to August.  Two alternative explanations (not mutually exclusive) might support this outcome.  First,
+the duration of the intervention might inﬂuence its effectiveness. 
+Households gradually changed their habits at the beginning of the
+treatment, but they stopped their efforts after some months.  The
+reversal observed after August would then be explained by some
+loss of enthusiasm or weariness caused by the intervention duration. 
+Second, because of the seasonal effects described above, it might be
+easier to shift load when the weather cooperates. 
+Because our intervention lasted 12 months and not more, it is
+complicated to assert which of these two explanations is correct.  One
+should either conduct a similar experiment over a longer period, or
+repeat the same experiment launching cohorts at different periods
+of the year to identify whether the pattern is aligned with calendar
+year or with intervention duration. 
+In their ﬁeld experiment on a sample of Swedish households,
+Bartusch Name (2011) make very similar observations.  After the
+introduction of peak (i. e. , weekdays between 7 a. m.  and 7 p. m. ) and
+off-peak pricing, they obtain substantial shifts in electricity consumption from peak to off-peak periods during the summer seasons
+but almost no change in the winter seasons.  Because their intervention spans two complete years, their ﬁndings support the explanation according to which the ability to shift load is related to the
+period of the year rather than to the duration of the intervention. 
+In Fig.  2, we ﬁnally observe that the average proportion 11 a. m. –3
+p. m.  of the control group becomes larger than that of the two treatment groups in the after period.  This observation suggests that the
+intervention did not form long-run habits in the households. 
+4. 2.  Possible strategies. 
+In order to achieve increases in the proportion of electricity
+used between 11 a. m.  and 3 p. m. , households could follow different
+strategies. 
+(i) Increase usage during the period 11 a. m. –3 p. m. 
+(ii) Decrease usage outside the period 11 a. m. –3 p. m. 
+(iii) (Ideally) do both (i) and (ii), i. e. , actually shift load toward the
+solar energy production hours. 
+In the letters sent to treated households, we tried to prevent strategy (i) by highlighting that increases in overall consumption were to
+avoid as much as possible and providing tips on how to shift consumption.  Yet, we had no means to ascertain that the households
+would correctly interpret the letters. 22 Fig.  3 shows the daily average
+load proﬁle for each group, separating before and treatment periods. 
+Panel A displays electricity usage for every hour, while panel B collapses the hours into ranges that are relevant to our analysis.  Panel B
+is less detailed but allows to spot more easily how electricity usage
+evolved between before and treatment periods for each group.  If
+our intervention was effective, we should observe relative increases
+between 11 a. m.  and 3 p. m.  and/or relative decreases outside this
+period for the treatment groups compared to the control group. 
+Fig.  3 ﬁrst shows that electricity usage is lower in the treatment period than in the before period.  This is primarily explained
+by seasonality.  The before period runs from October to December
+(i. e. , high-consumption months) while the treatment period spans an
+entire year.  Second, relative to the control group, treatment 1 households decrease usage in every hour of the day.  While their electricity
+usage was larger than that of the control group in the before period,
+the gap is much smaller in the treatment period.  This ﬁnding suggests that the content of the letters was probably not interpreted as
+intended.  What households might have understood from receiving
+frequent feedback is that they should conserve electricity, which is
+the message traditionally transmitted by actors of the energy sector. 
+For treatment 2, however, we observe a different pattern.  Relative
+to the control group, electricity usage decreased substantially in
+the evening and to a lesser extent in the morning, while it slightly
+increased between 11 a. m.  and 3 p. m.  Treatment 2 households thus
+seem to have succeeded in shifting electricity usage toward the solar
+energy production hours. 
+5.  Econometric strategy and results. 
+5. 1.  Treatment effect on proportion 11 a. m. –3 p. m. 
+To assess the impact of information feedback (treatment 1) and
+ﬁnancial incentives (treatment 2), we use the following differencein-differences speciﬁcation,
+where propigt is the proportion of electricity used between 11 a. m. 
+and 3 p. m.  by household i of group g in day t, ande igt is an errorThe variables of interest are the treatment group indicators, Tgt,
+whichtakethevalue1ifhousehold iisintreatmentgroupg(=1,2)and
+day t is in the treatment period, and 0 otherwise.  The time ﬁxed effect
+dt is set equal to 1 during the treatment period, that is, for every day
+of the year 2014, and 0 otherwise.  A group ﬁxed effect ag is included
+for each of the two treatment groups.  In alternative speciﬁcations, we
+include household ﬁxed effects and additional controls (or day ﬁxed
+effects). 
+Since the dependent variable is a proportion, the coeﬃcients in
+Eq.  (1) must be interpreted as changes in percentage points associated with a change in the independent variables.  Also, the time unit is
+the day, since the proportion of electricity used over 11 a. m. –3 p. m. 
+can obviously not be computed at a higher frequency. 
+Note that our dataset is a panel with few individuals (62 households), very few clusters (3 groups), and a very large number of
+time periods (547 days).  This setting renders serial correlation and
+heteroskedasticity very likely. 24 We therefore need to carefully
+choose the estimation technique in order to appropriately quantify
+the uncertainty surrounding our estimates.  More generally, there
+are some serious warnings in the literature about potential failures in difference-in-differences estimations.  In an inﬂuential paper,
+Bertrand Name (2004) show that because of serial correlation, conventional standard errors may be severely underestimated.  They
+recommend the use of generalized least squares (GLS) for the estimation of difference-in-differences models.  Brewer Name (2013) and
+Cameron and Miller (2015) argue in the same direction and show
+that feasible generalized least squares (FGLS) offer substantial eﬃciency gains compared to OLS, that is, FGLS estimations combined
+with robust inference technique can increase statistical power considerably while maintaining correct test size.  Beck and Katz (1995)
+nevertheless demonstrate that FGLS may underestimate the standard errors in the context of longitudinal data, and they advocate
+using panel corrected standard errors (PCSE) instead.  For all these
+reasons, we will report results obtained using both FGLS and PCSE
+techniques.  In all cases, we allow for cross-sectional correlation and
+serial correlation with an AR(1) coeﬃcient common to all households. 
+Table 1 reports the results obtained using various speciﬁcations
+of Eq.  (1).  Using FGLS, column (1) reports the basic difference-indifferences regression, without either ﬁxed effects or any control
+variables.  Column (2) contains household ﬁxed effects and additional controls for outdoor temperature (in and out of the period
+11 a. m. –3 p. m. ), holiday periods, and weekend days.  Finally, column
+(3) includes household ﬁxed effects and day ﬁxed effects.  Columns
+(4) to (6) repeat similar estimations using PCSE instead of FGLS. 
+In all estimations, the two treatment effect coeﬃcients display
+positive signs, implying that treated households tended to react as
+expected.  However, the coeﬃcients for the two treatments are of
+considerably different magnitude.  For the information feedback, the
+impact is small (0. 1–0. 5 percentage point) and at best weakly significant.  In contrast, the effect of ﬁnancial incentives is larger (0. 9–1. 4
+percentage point) and always highly signiﬁcant.  Households who
+were administered this treatment have thus increased their share of
+electricity used between 11 a. m.  and 3 p. m.  from 20% to around 21%,
+which corresponds to a 5% increase of this share. 
+As already noted, the cash prizes distributed to households in
+the contest were generous.  Ranging from CHF 10 to 50, they were
+in fact as large as the electricity bills for some households in some
+months.  In the end, the cost of this intervention appears high compared to the amount of load that was shifted.  Yet, one might wonder
+if the reaction of households would have been different with lower
+cash prizes and/or more participants in the contest.  Considering that
+the cash prizes received by one household were uncertain and only
+indirectly linked to this household’s actions, one possible conjecture
+is indeed that lower expected gains might not necessarily trigger
+weaker reactions by the participants, thereby reducing the cost of
+shifting one kWh.  Our results must therefore simply be interpreted
+as evidence that ﬁnancial incentives have the potential to induce
+behavioral changes and load shifting, but we cannot provide any estimation of the households’ sensitivity to a given subsidy or a given
+price variation. 
+5. 2.  Treatment effect on electricity usage. 
+The analysis offered in previous section about the proportion of
+electricity used between 11 a. m.  and 3 p. m.  investigates whether
+households did alter their load proﬁle or not.  It does however not
+unravel the strategy followed to reach this target.  Therefore, it is of
+interest to evaluate how electricity used in different periods of the
+day has been affected by the intervention.  To this end, we separate
+the day into three periods (before 11 a. m. , from 11 a. m.  to 3 p. m. , and
+after 3 p. m. ) on which the treatments are expected to exert different
+effects, where kwhight is electricity usage by household i of group g in hour
+h of day t.  We transform this dependent variable using logarithms,
+so that the coeﬃcient of a dummy variable approximately indicates
+its percentage effect on electricity usage.  For this analysis, the time
+unit is the hour. 
+The variables Tgh∗t take the value 1 if household i is in treatment
+group g (= 1, 2), hour h falls in hour range h
+and day t is in the
+treatment period, and 0 otherwise.  This equation also encompasses
+an hour-range ﬁxed effect kh∗ for each period of the day (0 a. m. –
+11 a. m. , 11 a. m. –3 p. m. , 3 p. m. –12 p. m. ).  If households did actually
+shift load toward the solar energy production hours in response to our
+intervention, we should observe for treatment groups a decrease in
+electricity usage in the morning (0 a. m. 

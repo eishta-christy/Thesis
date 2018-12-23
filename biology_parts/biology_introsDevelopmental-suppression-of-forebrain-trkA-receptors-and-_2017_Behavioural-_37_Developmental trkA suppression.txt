@@ -1,0 +1,56 @@
+
+Attention constitutes a constellation of cognitive processes responsible for directing awareness to relevant stimuli and ﬁltering out
+irrelevant information.  Attentional impairments are known to constitute performance reductions in other cognitive domains including
+memory and executive functions in patients suﬀering from Alzheimer’s
+disease (AD) [1,2].  The basal forebrain (BF) cholinergic system, consisting of cortically-projecting neurons in the nucleus basalis magnocellularis (nBM) and substantia innominata (SI) region, mediates essential aspects of attentional
+information processing [3,4], and
+cholinergic dysregulation is a common feature of the mild cognitive
+impairment (MCI) and AD pathology [5–8].  Thus, it is suggested that
+disruption in cholinergic signaling may underlie cognitive decline in
+MCI/AD.  Aging is a well-known risk factor for AD.  Although a gradual
+weakening of the cholinergic system and subtle decrements in attentional capacities have been reported in aging [9–13], the mechanisms
+responsible for the accelerated decline in cholinergic function in
+sporadic AD are not fully understood. 
+BF cholinergic neurons depend upon nerve growth factor (NGF) for
+survival, growth, and maturation [14–16].  Substantial evidence indicates that the cholinotrophic eﬀects of NGF are mediated by its
+binding to the high-aﬃnity tropomyosin kinase A (trkA) receptors
+[17–19].  Moreover, the loss of trkA receptors has been observed in the
+postmortem brains of AD subjects [20–22].  Together, these studies
+support the notion that perhaps deﬁcient trkA signaling in cholinergic
+neurons may underlie their exceptional vulnerability and lead to cognitive decline in AD [23,24].  However, neurotrophic modulation of the
+cholinergic system and cognitive capacities has not been thoroughly
+investigated in the context of aging, which is known to potentially increase the risk of developing AD [25]. 
+We previously found signiﬁcant attentional impairments and disrupted cholinergic signaling in aged but not adult trkA-suppressed rats
+[26].  In another follow-up study, we observed that cholinergic-attentional capacities were partially rescued by blocking proNGF, a precursor of NGF, in trkA-suppressed aged rats [27].  ProNGF is known to
+⁎ Corresponding author. 
+E-mail address: vinay. parikh@temple. edu (V.  Parikh). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 017
+Received 13 June 2017; Received in revised form 20 July 2017; Accepted 7 August 2017
+Available online 10 August 2017
+0166-4328/ 
+B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+induce apoptotic signaling via its interaction with high-aﬃnity p75
+receptors and the sortilin complex [28], and numerous studies indicated that the expression of this pro-neurotrophin is elevated in aging
+and AD [29–32].  Thus, age-related imbalance between proNGF/NGF
+and trkA/p75 signaling may account for increased vulnerability of the
+cholinergic system and associated cognitive impairments in AD. 
+Moreover, suppression of trkA signaling per se in young may not impose
+any inimical eﬀects on the BF cholinergic system.  This view is supported by a previous study showing that forebrain-speciﬁc targeted
+deletion of NGF or trkA receptors exerted detrimental eﬀects on BF
+cholinergic neurons during postnatal development but did not impact
+learning and memory performance when assessed in either young adult
+or intermediate-aged mice [33]. 
+During the progression of sporadic AD, cortical areas are aﬀected in
+a stereotypic sequence that recapitulates ontogenetic brain development [34].  Although the available evidence supports the idea that
+perhaps reduced trophic support during ontogenetic development and
+maturation of the cortical cholinergic input system may escalate into
+MCI and AD [35,36], the premise that developmental abrogation of BF
+trkA signaling would accelerate age-related decline in the cholinergic
+system and cognitive capacities has never been tested.  Here we conducted a longitudinal study to evaluate the life-long impact of developmental trkA suppression on attentional functions.  We utilized an
+adeno-associated viral (AAV) vector that expresses trkA-shRNA to selectively knockdown trkA receptors in the BF during the postnatal
+phase in rats when cholinergic projections make contact with cortical
+target regions.  The animals were trained in an operant sustained attention task (SAT), and performance was assessed throughout adulthood until old age, at which point cholinergic signaling and morphology were also evaluated.  Developmental trkA suppression neither
+accelerated the emergence, nor exacerbated the presence, of age-related
+attentional impairments.  Moreover, postnatal trkA disruption aﬀected
+only certain aspects of cholinergic transmission in aged rats. 

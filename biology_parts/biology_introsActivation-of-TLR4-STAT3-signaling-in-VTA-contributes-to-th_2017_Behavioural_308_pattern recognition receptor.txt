@@ -1,0 +1,311 @@
+
+Although morphine is a considerably eﬀective and extensive use of
+therapy for clinical pain, chronic use of morphine generally leads to
+physical and psychological dependence [1,2].  It is well known that
+activation of dopaminergic neurons in the ventral tegmental area (VTA)
+by long-term use of opioids leads to the increase of dopamine release
+into the nucleus accumbens (NAc), which is thought to play an important role in opioid reward [3].  Accumulating evidence showed that
+acute and chronic treatment with morphine induced a central proinﬂammatory response that contributes to the development of morphine
+addiction-related behavior [4].  Morphine-induced neuroinﬂammation
+is evidenced by the existence of glial cell activation and proinﬂammatory cytokines release in CNS [5].  Inhibition of glial cell activation in NAc prevented morphine-induced reward eﬀect [6].  Similarly,
+cytokines such as TNF-α or IL-6 in CNS are also emerging as the important modulators of addiction-related behavior [7,8].  These results
+suggested that inﬂammatory responses in VTA or NAc played an important role in the reward eﬀect of morphine.  Notably, recently studies
+showed that opioid via acting on the TLR4 receptor contributed to the
+various opioid eﬀects including hyperalgesia, tolerance and dependence [9].  Peer's study further revealed that the binding between
+morphine and TLR4/MD2 was also involved in the reward eﬀect of
+morphine, while knockout of TLR4 suppressed opioid-induced conditioned place preference [10].  Currently, whether the TLR4 in VTA
+participated in the acquisition and maintenance of reward eﬀect following morphine treatment is unclear. 
+Accumulating evidences indicated that upregulation of proinﬂammatory cytokine following morphine treatment might result from
+the activation of several intracellular signaling pathways [11].  Among
+these signaling pathways, Signal Transducers and Transcription Activator 3 (STAT3) pathway is involved in multiple pathophysiological
+process of CNS [12].  It has been reported that activation of STAT3 (pSTAT3) in VTA plays a critical role for the integration of motivated
+⁎ Corresponding author at: School of Health Management, Guangzhou Medical University, 195 Dongfeng West Road, Guangzhou, 510182, PR China. 
+E-mail address: gzzxq2005@126. com (X. -Q.  Zhang). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 022
+Received 19 January 2017; Received in revised form 19 June 2017; Accepted 14 August 2017
+Available online 18 August 2017
+0166-4328/ © 2017 Published by Elsevier B. V. 
+J. -X.  Chen Name
+Behavioural Brain Research 335 (2017) 151–157
+behavior [13], rewarding eﬀects of running and food intake [14,15]. 
+However, it remains unknown whether STAT3 signaling pathway in
+VTA contributes to the acquisition and maintenance of morphine reward eﬀect.  Additionally, STAT3, as a major mediator of signaling
+during immune responses, is involved in multiple steps in adaptive
+immune responses [16,17].  Whether the innate immune pattern-recognition receptor TLR4 via activation of STAT3 mediates the acquisition and maintenance of morphine-induced place preference is unclear. 
+<Middle> 2.  Material and methods
+2. 1.  Animals and drugs
+Male Sprague Dawley rats weighing 250–300 g were obtained from
+the Institute of Experimental Animals of Sun Yat-Sen University.  Mice
+used in this study were adult male animals on a C57BL/6 background
+(weight 20–30 g).  STAT3ﬂox/ﬂoxmice (ID: 016923) were purchased from
+the Jackson Laboratory.  All animals were housed in separated cages
+and the room was kept at 24 °C temperature and 50–60% humidity,
+under a 12/12 h light/dark cycle with ad libitum access to food and
+water.  All experimental procedures were approved by the Local Animal
+Care Committee and were carried out in accordance with the guidelines
+of the National Institutes of Health on animal care and the ethical
+guidelines.  All eﬀorts were made to minimize the number of animals
+used and their suﬀering. 
+Morphine hydrochloride (7. 5 mg/kg, Qing-hai Pharmaceutical
+Factory, Xining, China), TLR4 antagonist LPS-RS (Sigma, USA), STAT3
+activity antagonist S3I-201 (Selleckchem, USA), and all other chemicals
+were commercially obtained.  The antagonists were ﬁrst dissolved in
+DMSO to make a stock solution and were subsequently diluted with
+saline to a ﬁnal concentration and the ﬁnal concentration of DMSO was
+2%.  The vehicle group received the equal concentration of DMSO correspondence to the each group.  All of the antibodies were obtained
+from Cell Signaling Technology Co.  (USA), Santa Cruz Biotechnology,
+Inc.  (USA) or Abcam Ltd.  (USA). 
+2. 2.  Injection of adenovirus-associated vector (AAV)
+Recombinant adeno-associated virus encoding Cre and GFP marker
+(AAV8-Cre-GFP) and AAV encoding GFP (AAV8-GFP) were purchased
+from Beijing Vector Gene Technology Company Ltd.  0. 5 μl AAV8-CreGFP was bilateral microinjected into VTA area of STAT3ﬂox/ﬂox mice at
+rate of 0. 1 μl/min under the control of a micro-infusion pump.  Injector
+glass needles remained in place for 4 ∼ 5 min before being pulled out
+to allow the AAV to completely diﬀuse from the tips.  The stereotaxic
+coordinates for VTA of mouse were as follows: AP: −3. 44 mm;
+ML: ± 1. 1 mm; DV: −4. 6 mm; angle 10° (Paxinos & Franklin, 2001). 
+The animals in the control group were injected with the same amount of
+AAV encoding GFP (AAV8-GFP).  Morphine was subcutaneously injection on days 21 after the virus injection. 
+2. 3.  Surgery and infusion procedures
+The rats were anesthetized with sodium pentobarbital (50 mg/kg,
+i. p. ), and permanent guide cannulas (23 gauge) were implanted bilaterally 1 mm above VTA.  The stereotaxic coordinates for VTA was as
+follows: AP −5. 04 mm; ML ± 2. 2 mm; DV −8. 2 mm; angle 10° respectively [18].  The cannula was secured by dental cement and anchored to stainless steel screws ﬁxed to the skull.  To prevent clogging
+and infection, a stainless steel obturator was inserted into the guide
+cannula.  The animals were allowed to recover from surgery for 6 days. 
+Infusion were performed with a Hamilton syringe connected to a 30gauge injector (WRD), which was terminated 1 mm below the tip of the
+guide cannula.  The drugs were bilaterally infused into VTA over a 60-s
+period.  The injection needle was kept in place for 60 s to allow the
+drugs to completely diﬀuse from the tips, and then the obturator was
+reinserted into the guide cannula [19].  A total of 17 animals were excluded from the ﬁnal analysis due to the misplaced cannulas. 
+2. 4.  Conditioned place preferences
+The CPP apparatus was used as previously described [6,20].  Brieﬂy,
+the test apparatus consisted of a shuttle-box that was divided into two
+compartments of same size (30 × 30 × 53 cm3) by a central partition
+(1 cm thick) with a door.  One compartment was white with a grid ﬂoor
+and the other compartment was black with a smooth ﬂoor.  To minimize
+the eﬀect of novelty and stress associated with exposure to the apparatus during morphine CPP, rats were habituated to the apparatus for
+15 min for three consecutive days before the pre-conditioning test.  In
+the pre-conditioning test (day 0), animals were placed in the white
+compartment (non-preferred side) of CPP apparatus and the door was
+removed to allow animals with free access to both chambers for 15 min. 
+The time spent in each compartment was recorded.  In our experiment,
+most of rats exhibited natural preference for the black compartment
+(preferred side).  Therefore, we used a biased procedure and selected the
+white compartment (non-preferred side) as the morphine-paired side
+and the black compartment as the saline-paired side.  The animals
+showing strong unconditioned preference (> 800 s) were discarded. 
+During conditioning (day 1–5), rats were ﬁrstly injected with saline
+subcutaneously in the morning and immediately conﬁned to the black
+compartment for 30 min; about 6 h later, the rats were subcutaneously
+injected with morphine and immediately placed in the white compartment for 30 min.  On the next day, the animals received morphine
+administration in the morning and saline injection in the afternoon.  On
+the third and ﬁfth day of conditioning, the same schedule as the ﬁrst
+day was repeated.  The schedule on the fourth day was same as that of
+the second day.  For the CPP test on day 6, rats were placed in the white
+compartment and allowed to move freely between both compartments
+for 15 min.  The time spent in the white compartment was recorded for
+each animal, and the change of preference was calculated as the difference (in s) of the time spent in the drug-paired compartment (white
+compartment) between the postconditioning day and the preconditioning session. 
+2. 4. 1.  Acquisition experiment
+LPS-RS (0. 1, 0. 5 or 1 μg/μl/side) or S3I-201 (1, 10 or 50 nm/μl/
+side) was injected into the VTA 30 min prior to each morphine administration during conditioning.  CPP was evaluated on day 6 of the
+experiment as indicated in Fig.  1 (CPP Test 1).  To exclude the potential
+eﬀect of inhibitors themselves on the conditioning, LPS-RS or S3I-201
+alone was micro-injected into the VTA in the animals conditioned with2. 4. 2.  Expression experiment
+Following the acquisition of CPP, the rats received a single intraVTA injection of LPS-RS (0. 5 μg/μl/side) or S3I-201 (10 nm/μl/side) in
+Fig 1.  Experimental schedule for the morphine-induced conditioned place preference
+task.  Time spent in the white compartments was counted pre-experiment (day 0) for all
+groups.  Following 5 days of morphine conditioning phase, CPP was valued on day 6 by
+subtracting the time spent in the white compartments post morphine treatment from pre
+morphine treatment (CPP Test 1).  To investigate the maintenance of morphine CPP, rats
+were returned to home cages for 5 days following CPP induction and the behavioral test
+was conducted on day 11. J. -X.  Chen Name
+Behavioural Brain Research 335 (2017) 151–157
+Fig.  2.  Intra-VTA injection of LPS-RS prevented the acquisition of morphine CPP.  (A) The approximate placement of the drug injection.  (B) Eﬀect of chronic morphine treatment on the
+place preference (** p < 0. 001 compared with saline group, n = 12 in each group).  (C) Following intra-VTA microinjection of LPS-RS prior to each of morphine treatment during
+conditioning phase, the preference score was examined on day 6 (** P < 0. 01 versus the DMSO + saline group, ## P < 0. 01 versus the DMSO + morphine group, n = 12 in eachthe home cage on day 6, and CPP was tested 30 min later. 
+2. 4. 3.  Maintenance experiment
+Following the acquisition of CPP, the rats were given daily intraVTA injection of either LPS-RS or S3I-201 in the home cage for another
+5 days (day 6–10).  On day 11, the rats were tested for CPP (CPP Test 2,
+Fig.  1. )
+2. 5.  Histology
+After the end of experiments, the animals were immediately anesthetized with sodium pentobarbital (50 mg/kg, i. p. ), and then perfused through the ascending aorta with cold heparinized saline followed by 4% paraformaldehyde.  The intact brain was removed and
+post-ﬁxed for 3 h in the same ﬁxative, then stored in 30% sucrose until
+sectioning.  Sections (40 μm) were cut on a cryostat, and cannulas placements were assessed under light microscopy.  Dots in Fig.  2A represented the approximate placement of the cannulas in VTA. 
+2. 6.  Western blot
+Immunoblotting was processed as previously described with minor
+modiﬁcations [21].  Brieﬂy, the animals were immediately anesthetized
+with sodium pentobarbital (50 mg/kg, i. p. ) after the CPP paradigm was
+performed.  The brain was removed and sectioned in a cryostat for VTA
+(-4. 60 − −5. 04 mm relative to the bregma).  Tissue punches containing
+sample area were performed with a 15-gauge cannula and frozen at
+−80 °C until used.  Samples were homogenized on ice in 15 mmol/l Tris
+buﬀer containing a cocktail of proteinase inhibitors and phosphatase
+inhibitors.  Protein samples were separated by gel electrophoresis (SDSPAGE) and transferred onto a PVDF membrane.  The blots were placed
+in the block buﬀer for 1 h at room temperature and incubated with
+primary antibody against STAT3 (1:1000, CST), phospho-STAT3
+(1:1000, CST) overnight at 4 °C.  The blots were then incubated with
+horseradish peroxidase-conjugated secondary antibodies.  ECL (Pierce)
+was used to detect the immune complex.  The bands were quantiﬁed
+with computer-assisted imaging analysis system (NIH ImageJ).  β-actin
+was used as a loading control.  The experimenter was blinded to all
+treatments. 
+2. 7.  Immunohistochemistry
+Following the behavioral experiments at indicated time points, animals were immediately anesthetized with sodium pentobarbital
+(50 mg/kg, i. p. ) and perfused through the ascending aorta with cold
+heparinizedsaline, followed by 4% paraformaldehyde in 0. 1 M phosphate buﬀer (pH 7. 2–7. 4).  The brain was removed, post-ﬁxed for 3 h in
+the same ﬁxative and stored in 30% sucrose overnight.  Transverse
+sections were cut by cryostat and processed for immunohistochemical
+staining as previously described [20].  Sections were blocked with 3%
+donkey serum in 0. 3% Triton X-100 for 1 h at room temperature, and
+then incubated overnight at 4 °C with anti-TLR4 antibody (1:1000,
+Abcam) and anti-TH (1:1000, CST) antibody or anti-phosphorylated
+STAT3 (1:1000, CST) antibody.  The sections were then incubated for1 h
+at room temperature with FITC-conjugated secondary antibody (1:250)
+and Cy3-conjugated secondary antibody (1:500).  The stained sections
+were examined with a Leica ﬂuorescence microscope (Leica, Germany)
+and images were captured with a Leica DFC350 FX camera.  All the
+experiments were performed by blinded evaluators. 
+2. 8.  Statistical analysis
+All data were expressed as means ± SEM, and analyzed with SPSS
+13. 0 (SPSS, USA).  Western blot data were analyzed by two-way ANOVA
+followed by Tukey post hoc test.  For behavioral test, one-way or twoway ANOVA with repeated-measures followed by Tukey post hoc test
+was carried out.  The criterion for statistical signiﬁcance was P < 0. 05. 
+The sample size was based on our and peers’ experience in behavioral
+studies to provide power analysis. 
+3.  Results
+3. 1.  Acquisition of morphine CPP was impaired by inhibition of TLR4 in
+VTA area
+Consistent with our previous study, conditioning with morphine
+(7. 5 mg/kg) for ﬁve consecutive days induced signiﬁcant preference for
+the morphine-paired compartment compared with saline group, indicating the acquisition of morphine CPP (Fig.  2B).  However, a single
+conditioning with morphine induced no preference for the paired
+compartment when the behavioral test was performed on the next day
+(day 2).  In another experimental group, following 5 days of morphine
+administration, the rats were returned to home cages for another 5 days
+without any treatment.  Behavioral test on day 11 showed that the rats
+still displayed preference for the compartment previously paired with
+morphine, suggesting that morphine CPP maintained for at least 6 days
+after termination of morphine conditioning (Fig.  2B).  To determine
+whether the TLR4 is involved in the acquisition of morphine CPP, the
+TLR4 inhibitor LPS-RS was bilaterally microinjected into VTA area
+30 min prior to each of morphine treatment during conditioning phase. 
+As indicated in Fig.  2, LPS-RS at dose of 0. 5 or 1 μg/1 μl inhibited the
+acquisition of morphine CPP compared with DMSO plus morphine
+group, while LPS-RS at 0. 1 μg/1 μl had no signiﬁcant eﬀect (Fig.  2C). 
+These results suggested that the TLR4 signaling in the VTA area mightJ. -X.  Chen Name
+Behavioural Brain Research 335 (2017) 151–157
+Fig.  3.  The eﬀect of LPS-RS on the expression or
+maintenance of morphine CPP.  (A) Following 5 days
+of morphine conditioning sessions, LPS-RS (0. 5 μg)
+was injected into the VTA bilaterally 30 min before
+behavioral test on day 6 (n = 12 in each group).  (B)
+Behavioral test conducted on day 11 showed that
+LPS-RS (0. 5 μg) impaired the maintenance of morphine CPP (** P < 0. 01 versus the DMSO + morphine group, n = 12 in each group). 
+mediate the acquisition of morphine CPP. 
+3. 2.  Maintenance, but not expression, of morphine CPP was blocked by
+inhibition of TLR4 signaling in VTA area
+To determine whether the VTA TLR4 signaling contributes to the
+expression of morphine CPP, a single intra-VTA injection of LPS-RS
+(0. 5 μg) was administrated 30 min before behavior test on day 6.  The
+results showed that LPS-RS did not reduce the conditioning score
+compared with DMSO plus morphine group (Fig.  3A).  Next, we determined the role of TLR4 in the maintenance of morphine CPP.  It was
+shown that intra-VTA application of LPS-RS for 5 days following CPP
+induction blocked the maintenance of morphine CPP (Fig.  3B).  Taken
+together, these data indicated that TLR4 signaling in VTA area might
+contribute to the maintenance but not expression of morphine CPP. 
+3. 3.  Activation of STAT3 induced by chronic morphine treatment is
+involved in the acquisition of morphine CPP in VTA
+It has been suggested that activation of STAT3 is correlated with the
+CNS disease [12].  Therefore, the level of phosphorylated STAT3 in the
+VTA was investigated in the present study.  The results showed that the
+phosphorylated STAT3 was considerably increased on day 6 and 11
+following
+Immunohistochemical staining also conﬁrmed that the expression of pacquisition of morphine CPP (Fig.  4A). STAT3 was enhanced on day 6 after treatment of morphine when
+compared with that in the control group (Fig.  4B).  To determine whether the activation of STAT3 mediated the acquisition of morphine CPP,
+the STAT3 activity inhibitor S3I-201 were bilaterally micro-injected
+into the VTA area.  Behavioral test showed that pre-infusion of S3I-201
+at dose of 50 or 10 nm/μl, but not 1 nm/μl, before morphine treatment(F(5,66) = 121. 39,
+P < 0. 001).  Application of S3I-201 at dose of 10 nm/μl into the VTA
+alone did not induce CPP in the saline-paired group (Fig.  4C). 
+of morphine CPPacquisition
+To further examine the role of STAT3 in the acquisition of morphine, we ﬁrst explored the dose-response analysis for morphine CPP in
+mice.  The results showed that morphine at the doses of 12. 5 or 15 mg/
+kg, but not 10 and 5 mg/kg, signiﬁcantly increased the conditioned
+scores (Fig.  5A).  Next, the recombinant adeno-associated virus encoding Cre and GFP (AAV-Cre-GFP) was bilaterally injected into the
+VTA area of STAT3ﬂox/ﬂox mice.  Control mice were injected with AAV
+encoding GFP (AAV-GFP).  Twenty one days after virus injection,
+marked green ﬂuorescence was observed in TH-positive cells in the
+restricted VTA area (Fig.  5B), and PCR and western blot analysis indicated that the expression of both STAT3 protein (Fig.  5C) and mRNA
+(Fig.  5D) in VTA area were signiﬁcantly reduced on day 21 following
+AAV-Cre-GFP injection into STAT3ﬂox/ﬂox mice.  These results suggested
+a high eﬃciency of transfection.  Importantly, conditioning scores was
+greatly attenuated in AAV-Cre-GFP-injected STAT3ﬂox/ﬂox mice compared to that of AAV-GFP-injected STAT3ﬂox/ﬂox mice following
+Fig.  4.  Activation of STAT3 in VTA is involved in the morphine CPP.  (A) Western blot analysis revealed increase of STAT3 phosphorylation on day 6 and 11 following 5 days of morphine
+treatment (** P < 0. 01 versus the control group, n = 6 in each group).  (B) Immunohistochemistry staining showed an increased expression of p-STAT3 on day 6 after chronic morphine
+treatment (n = 4 in each group).  (C) Following intra-VTA microinjection of S3I-201 prior to each of morphine treatment during conditioning phase, the preference score was examined on
+day 6 (** P < 0. 01 versus the DMSO + morphine group, n = 12 in each group). J. -X.  Chen Name
+Behavioural Brain Research 335 (2017) 151–157
+Fig.  5.  Local depletion of STAT3 in VTA blocked the morphine CPP.  (A) Dose-dependent response of morphine on conditioning place preference (** P < 0. 01 versus the saline group,
+n = 12 in each group).  (B) The expression of AAV-Cre-GFP is colocalized with TH-positive cell in the VTA area of CXCR4ﬂox/ﬂox mice (n = 3 in each group).  (C) Representative blot and
+histogram showed that STAT3 expressions in VTA were signiﬁcantly decreased on day 21 after AAV-Cre-GFP injected STAT3ﬂox/ﬂox mice (** P < 0. 01 versus corresponding AAV-GFP
+group; n = 6 in each group).  (D) Intra-VTA microinjection of the AAV-Cre-GFP signiﬁcantly decreased the expression of STAT3 mRNA of STAT3 ﬂox/ﬂoxmice (** P < 0. 01 versus the
+AAV-GFP group, n = 6 in each group).  (E) Intra-VTA injection of AAV-Cre-GFP signiﬁcantly inhibited the acquisition of morphine CPP in STAT3ﬂox/ﬂox mice compared with the AAV-GFP
+plus morphine group (** P < 0. 01 versus corresponding vehicle group, ## P < 0. 01 versus corresponding AAV-GFP plus morphine group, n = 12 in each group). 
+repeated morphine conditioning (Fig.  5E). 
+3. 4.  Activation of STAT3 is involved in the maintenance, not expression, of
+morphine CPP
+Next, we examined whether STAT3 activation was also involved in
+the expression and maintenance of morphine CPP.  Behavioral results
+revealed that single intra-VTA injection of S3I-201 at dose of 10 nm/μl
+on 30 min before behavior test on day 6 did not reduce the conditioning
+score compared with morphine group (Fig.  6A).  However, following
+intra-VTA administration of S3I-201 at dose of 10 nm/μl for 5 days after
+induction of CPP, the conditioning score was signiﬁcantly lower than
+that in the morphine group on day 12 (Fig.  6B).  Taken together, these
+data indicated that STAT3 signaling in the VTA might contribute to the
+maintenance but not expression of morphine CPP. 
+Fig.  6.  The eﬀect of S3I-201 on the expression or
+maintenance of morphine CPP.  (A) Following 5 days
+of morphine conditioning sessions, S3I-201 (1 nm/
+μl) was injected into the VTA bilaterally 30 min before behavioral test on day 6 (n = 12 in each group). 
+(B) Behavioral test conducted on day 11 showed that
+S3I-201 (1 nm/μl) impaired the maintenance of
+morphine CPP (** P < 0. 01 versus the DMSO
++ morphine group, n = 12 in each group). J. -X.  Chen Name
+Behavioural Brain Research 335 (2017) 151–157
+Fig.  7.  TLR4 mediated activation of STAT3 in VTA
+following chronic morphine treatment.  (A) Double
+immunoﬂuorescence staining indicated colocalization of p-STAT3 with TLR4 in the VTA of rats (n = 4
+in each group).  (B) Microinjection of LPS-RS into the
+VTA prevented STAT3 activation induced by chronic
+morphine treatment (** P < 0. 01 versus control
+group, ## P < 0. 01 versus corresponding DMSO
++ morphine group, n = 6 in each group). 
+3. 5.  TLR4 mediated the activation of STAT3 induced by repeated morphine
+treatment
+To determine whether TLR4 signaling participated in the morphineinduced STAT3 activation, we ﬁrst performed the double staining of
+VTA area with p-STAT3 antibody and TLR4 antibody.  The results
+showed that TLR4 was expressed on the p-STAT3-positive cell in the
+VTA area on day 6 following the acquisition of morphine-induced CPP
+(Fig.  7A).  In addition, consecutive intra-VTA injection of LPS-RS at dose
+of 0. 5 μg/1 μl signiﬁcantly reduced the level of phosphorylated STAT3
+on day 6 following repeated morphine treatment (Fig.  7B).  These results suggest that activation of STAT3 in VTA area following repeated
+morphine treatment is dependent on TLR4 signaling pathway. 
+<Conclusion> 4.  Discussion
+The present study was designed to elaborate the role of TLR4/
+STAT3 signaling pathway in VTA in morphine-induced reward.  We
+found that bilateral microinjection of TLR4 antagonist LPS-RS or STAT3
+activity inhibitor S3I-201 into the VTA before each morphine treatment
+for 5 days suppressed the acquisition of morphine CPP.  Furthermore,
+local knockout of STAT3 by injected the AAV-Cre-GFP into the VTA
+area of STAT3 ﬂox/ﬂox mice also signiﬁcantly impaired the acquisition
+of morphine CPP.  Following the acquisition of morphine CPP, repeated
+injection of LPS-RS or S3I-201 signiﬁcantly decreased the preference
+score on day 12.  Importantly, the TLR4 expression is colocalized with pSTAT3-positive cell in VTA, and repeated injection of LPS-RS signiﬁcantly attenuated the STAT3 activation of VTA induced by chronic
+morphine treatment. 
+Evidences have suggested that repeated morphine treatments induce inﬂammatory response within many regions of CNS [22].  Furthermore, Toll-like receptor 4 (TLR4), as a key pattern recognition receptor, mediates the innate and adaptive immune inﬂammatory
+response processes related to morphine tolerance, dependence and
+withdrawal [9].  For example, it was reported that TLR4 in the spinal
+cord or periaqueductal gray mediated the neuroinﬂammation and tolerance following chronic morphine treatment [23,24]. 

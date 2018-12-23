@@ -1,0 +1,185 @@
+
+Stock liquidity is central to the efficient functioning of trade in the financial markets and is determined in part by
+information asymmetry among traders.  Since voluntary disclosure can affect information asymmetry among traders, theoretical research has shown that voluntary disclosure can affect stock liquidity (e. g. , Bushman and Indjejikian, 1995). 
+However, empirical tests of this mechanism must recognize that a manager's provision of disclosure is a product of many
+forces, all of which must be identified. 1 It has proved difficult to construct an empirical model of disclosure that incorporates
+all these forces (e. g. , Joos, 2000; Leuz and Verrecchia, 2000).  Index funds, by contrast, trade primarily for nonstrategic
+reasons, and theory suggests that such nonstrategic traders unambiguously prefer higher disclosure relative to privately
+informed managers and strategic investors.  This implies that I can use index funds' disclosure preferences to construct an
+empirical model of voluntary disclosure that abstracts away from managers' strategic disclosure motives.  Accordingly, I use
+an index-fund setting to construct a recursive model of voluntary disclosure, index fund ownership, and stock liquidity, and
+demonstrate that voluntary disclosure increases stock liquidity. 
+The effect of index fund ownership on liquidity can arise from two mechanisms: (1) index funds' unambiguous preference for additional disclosure, and (2) index fund ownership itself (e. g. , increased nonstrategic trading related to portfolio
+rebalancing).  Separating these two mechanisms is crucial for understanding the determinants of liquidity, but it cannot be
+done with simple OLS or regression discontinuity (RD) techniques.  For example, even if index funds elicit more disclosure
+from managers, instrumenting disclosure with index fund ownership does not solve the identification problem: Any effect
+on liquidity related to common variation in disclosure and index fund ownership could be due to either increased disclosure
+or index fund ownership itself (the same is true for RD designs).  An appropriate empirical solution for separating these
+effects is to construct structural equations for disclosure and index fund ownership, and then to use recursive estimation to
+obtain each mechanism's liquidity effect (Greene, 2002, p.  397). 2
+Constructing the recursive model requires that index fund ownership be properly identified.  To achieve this goal, I use an
+index-fund-inclusion setting.  An important feature of this setting is that changes in the index's constituent firms are made
+by the index's governing body (such as S&P), and are therefore exogenous to index funds themselves.  When a firm is added,
+index funds must take an ownership position in that firm, and this exogenous ownership position confers control rights. 
+When index funds acquire control rights through ownership, any link between an increase in voluntary disclosure due to
+this control and stock liquidity can be construed as causal.  By contrast, it is harder to make such claims for strategic investors
+(including managers) without explicitly modeling their endogenous preferences for disclosure, ownership, and liquidity.  The
+same goes for atomistic or retail traders, who can trade at will according to their disclosure preferences and are too small to
+influence managers' disclosure choices. 
+I use inclusion in the S&P 500 index as the key economic phenomenon to test whether disclosure affects stock liquidity.  At
+the time of a firm's index inclusion, the ownership level assumed by index funds is determined by their assets under management (AUM).  Since index fund AUM varies across time and index inclusions occur throughout time, the index-fund setting
+generates substantial variation in index fund ownership.  This setting has other benefits as well.  Since firm managers can
+neither influence index fund AUM nor control the timing of index inclusions, the index fund ownership stake is exogenous to
+the firm (see Section 3. 1).  From the index fund perspective, prior research suggests that variation in index fund ownership is
+not due to strategic stock selection (see Section 2).  In addition, S&P makes public their index-inclusion criteria, which I use to
+match each inclusion firm to a control firm (using propensity scores).  Exploiting each inclusion firm's behavior pre and post
+inclusion relative to the matched control firm results in a difference-in-differences (D-in-D) regression setting that eliminates
+any time-varying effects common to both firms and differences away any firm-fixed effects.  Importantly, the D-in-D design also
+controls for any “index-inclusion” effect common to all inclusion firms (for disclosure and liquidity). 
+I use a sample of 368 firms added to the S&P 500 index over the period of 1996–2010 (and 368 control firms).  In my
+sample, 78% of index inclusions occur due to a merger or an acquisition involving an existing index firm, which frees up a
+spot in the index.  Upon index inclusion, the ensuing index fund ownership level in my sample firms is economically
+meaningful, ranging from 3. 9% to 10. 2% of a firm's common shares outstanding. 
+In the first analysis, I regress several disclosure proxies on the change in index fund ownership resulting from index
+inclusion.  I find that for a one standard deviation increase in index fund ownership, management guidance disclosures
+increase by approximately 19. 35%, 8-K filings increase by 18. 99%, supplementary financial statement filings increase by
+9. 49%, and press releases increase by 7. 51% (relative to control firms).  I also find that less entrenched managers provide more
+disclosure for the same amount of increase in index fund shareholdings.  These results suggest that index funds are more
+effective at eliciting disclosure when they have a larger stake in a firm.  Inclusion firms also experience an improvement in
+their information environment, as measured by a reduction in analyst forecast errors. 3
+In the second analysis, I demonstrate that stock liquidity, as proxied for by bid-ask spreads and the Amihud (2002)
+illiquidity measure, increases for inclusion firms relative to control firms in a D-in-D manner when the inclusion firm gets a
+larger ownership stake from index funds.  However, recall that this increase in liquidity may be unrelated to the improved
+disclosure environment—it could occur simply because of index fund ownership by itself.  I use a recursive structural
+equation model to separate the disclosure effect and the index fund ownership effect on liquidity, and find that the disclosure effect is significant (see Section 4. 5).  This result implies that disclosure increases liquidity. 
+This study makes several contributions to the literature.  First, other studies relating disclosure to stock liquidity acknowledge identification challenges in modeling managers' strategic disclosure choices.  For example, Leuz and Verrecchia
+(2000) rely on the voluntary adoption of IFRS by German firms to represent a commitment to increased disclosure and find
+that voluntary adopters experience greater liquidity.  Shroff Name (2013) find that after the passage of the 2005 Securities
+Offering Reform, firms increased disclosure before seasoned equity offerings, which led to higher liquidity for these firms. 
+Balakrishnan Name (2014) find that increases in disclosure associated with reductions to analyst coverage lead to increased
+liquidity, but they do not explicitly model the increase in disclosure.  My study corroborates the prediction that disclosure
+increases liquidity, yet it abstracts away from any particular model of managers' strategic disclosure motives, which considerably simplifies the analysis.  I also highlight an important mechanism that gives rise to disclosure. 
+Second, through the use of index funds, I bypass an endogeneity concern that is specific to institutional holdings.  Prior
+studies such as Lang and Lundholm (1996) and Bushee and Noe (2000) show that disclosure is associated with institutional
+investor shareholdings.  These studies use these associations to argue that institutional investors are attracted to firms with
+certain disclosure practices, and that managers adopt disclosure practices to attract such investors.  However, these studies
+acknowledge that institutional investors may strategically invest and divest based on their unobservable investing strategy,
+which may ultimately affect their demand for disclosure.  Index funds, by contrast, have no such leeway in choosing their
+portfolio firms.  Instead, the funds appear to influence disclosure through ownership, an important consideration for future
+work on institutions and disclosure. 
+Third, my study differs in two important ways from that of Boone and White (2015), who argue (along lines similar to
+mine) that index funds prefer high disclosure because it decreases trading costs.  Boone and White (2015, Tables 3 and 5)
+show that firms moving from the Russell 1000 to the Russell 2000 index exhibit increased disclosure, increased liquidity,
+and higher institutional ownership.  They acknowledge that the liquidity effect could occur “via direct and indirect channels,” with the former related to index fund ownership and the latter related to disclosure.  But, unlike this study, theirs does
+not explicitly test for the two mechanisms and thus cannot address the economic question of whether disclosure and index
+fund ownership separately affect liquidity.  Another difference is that Boone and White (2015) measure institutional ownership at the “quasi-indexer” level.  Bushee and Noe (2000) find that this classification comprises not just index funds but
+also non-index funds that have strategic disclosure preferences.  By measuring index fund ownership directly from regulatory filings, I eliminate the possibility that institutions' strategic disclosure preferences drive my results. 4
+Lastly, my focus on index funds complements the work of Brav Name (2008), who show that other large owners, such as
+hedge funds, exercise their ownership power by intervening in managers' business decisions.  Such intervention, which
+requires the investor to acquire new management skills, is not feasible on a large scale for index funds, which aim to hold a
+large basket of stocks in many industries at low cost.  Nonetheless, as this study shows, index funds do exploit their ownership power for other purposes. 
+In Section 2, I motivate the hypotheses.  Sections 3 and 4 describe the data and empirical results, and Section 5 concludes. 
+2.  Hypothesis development. 
+The index-fund industry is dominated by a few large funds with economies of scale in a highly competitive market (as of
+2016, S&P's website notes that index fund holdings account for $2. 2 trillion of the $17. 7 trillion S&P 500 market capitalization, or 12. 4%).  Index funds maintain their competitive position by offering a significant cost advantage to owning a large
+index of stocks, and by keeping expense ratios and liquidity-related trading costs low (relative to managed funds).  According
+to my conversations with BlackRock independent trustees, the overwhelming majority of S&P 500 index-fund trade occurs
+in the open secondary markets, and a significant volume of such trade arises on a daily basis (the same is true for Fidelity
+and Vanguard).  Thus, the liquidity of the index fund and all of its associated vehicles depends on the liquidity of the
+underlying stocks.  To reduce their liquidity-related costs, index funds can improve liquidity in the underlying stocks by
+eliciting more disclosure from these firms.  High liquidity in these stocks lowers trading costs for clients, reduces absolute
+tracking error, preserves AUM, and increases the liquidity of derivative securities such as ETFs (see Appendix A).  More
+liquidity also ensures that ETF prices do not deviate from the underlying index or become highly exposed to the risk of
+adverse price movements in the underlying stocks (Madhavan, 2015). 5
+Given prior evidence that neither retail nor mutual fund flows are strategic (e. g. , Carhart, 1997; Fama and French, 2010;
+Frazzini and Lamont, 2008), I assume that index fund clients purchase and redeem index fund shares for nonstrategic (e. g. ,
+personal consumption) reasons.  That is, if a client has private information about a given firm, he may wish to trade in that
+firm directly, not through the index.  Consequently, index funds have an unambiguous preference for high disclosure, and I
+can use this characteristic to directly model their disclosure preferences. 6
+In theory, when index funds join a firm due to its S&P 500 index inclusion, disclosure moves to a new second-best level
+equilibrium that incorporates index funds' disclosure preferences.  In practice, reaching this new equilibrium requires that
+managers learn index funds' disclosure preferences.  Accordingly, large index funds such as BlackRock, Fidelity, and Vanguard retain teams of analysts and investor relations personnel who can check disclosure levels across an industry by
+examining media and financial reports, management disclosures and guidance activities, and earnings conference calls. 
+These funds can then communicate their preference for more disclosure directly to companies through investor conferences,
+private meetings, and phone conversations.  Index funds also clearly state their preference for more disclosure on their
+websites and governance materials (see Appendix B), and managers can observe and learn from the reporting practices of
+their new index peers (e. g. , Dye and Sridhar, 1995). 
+Of course, managers may resist index funds' preference for greater disclosure.  To overcome this obstacle, index funds
+must rely on both hard and soft power.  Hard power arises from index funds' ownership stakes, which confer control rights
+such as proxy votes.  These funds appear willing to use such leverage: Matvos and Ostrovsky (2010, Table 1) show that
+Vanguard's S&P 500 index fund withheld votes for management-proposed directors and proposals 17. 2% of the time from
+July 2003 to June 2004 (similar magnitudes were found for other index funds).  Given that many votes are decided by less
+than 5%, managers have a significant incentive to preserve the support of index funds (Appel Name, 2016; Gillian and Starks,
+2000).  Disclosing according to the preferences of these funds is one way to maintain their support. 7
+Soft power over management, by contrast, comes from a variety of sources, not least of which are informal negotiation
+settings.  In 2013, Glenn Booraem, the Controller of Vanguard's S&P 500 index fund, noted that “while our approach of quiet
+diplomacy has led some to conclude that our voice is silent on many debates, we believe that our effectiveness is maximized
+by taking our message directly to those companies where we believe changes are needed. ” Booraem noted further that
+Vanguard has “found through hundreds of direct discussions every year that we are frequently able to accomplish as much
+or more through dialogue as we are through voting.  Importantly, through engagement, we are able to put issues on the table
+for discussion that aren't on the proxy ballot” (Booraem, 2013).  Likewise, in 2015, Larry Fink, the CEO of BlackRock, called for
+“consistent and sustained” engagement by his firm (Fink, 2015).  These forms of private communication appear important
+not only to Vanguard and BlackRock: Matvos and Ostrovsky (2010) find that in 2003, after the SEC passed a new rule
+requiring disclosure of proxy votes, many index fund sponsors wrote comment letters to the SEC in which they expressed
+concern about being denied private communication with companies whose management the funds had voted against. 
+Soft power also comes from managers' and directors' concerns about their reputation and credibility.  Index fund
+sponsors such as BlackRock and Vanguard, by virtue of their size, have considerable soft influence in the director market due
+to personal relationships and other connections (e. g. , Cohen Name, 2008).  Information sharing between large shareholders
+may also drive managers to comply with index funds’ preferences.  For instance, if managers refuse to disclose more after
+meeting with an index fund sponsor, that sponsor could inform other large owners that management is uncooperative.  This,
+in turn, might cause these non-index fund owners to sell their stock or vote against management in the future.  Evidence of
+this type of information sharing—documented in Hong Name (2005) and the survey paper McCahery Name (2016)—suggests
+that such an outcome is indeed possible.  Proxy advisor firms such as ISS and Glass Lewis, who avow that their guidance
+arises solely from public information, and formal groups such as the Shareholder-Director Exchange further strengthen the
+collective influence of index funds.  Soft power thus appears to be quite salient in these settings. 
+Lastly, companies' disclosure motivations also depend on the general market for their shares; index funds are important
+players in such markets.  For example, Nagel (2005) and Boehmer and Kelley (2009) argue that index fund ownership
+increases the supply of a company's stock available for short sales, which can induce traders to act more aggressively on
+unfavorable information (Boehmer and Wu, 2013).  Managers may want to counteract the price effect of such trade, and can
+do so through disclosure.  Indeed, as Chen Name (2015) and Li and Zhang (2015) find, the possibility of short selling is
+associated with longer 10-K disclosures and more favorable and unfavorable earnings forecasts. 
+I rely primarily on the index fund ownership stake to measure index funds' influence over management.  The previous
+considerations lead to my first hypothesis:
+H1: When firms are included in the S&P 500 index, they increase disclosure more when they are more heavily owned by index funds. 
+The empirical analysis takes the difference in the disclosure levels for the index-inclusion firms from pre to post inclusion. 
+However, this difference can vary across inclusions because, for example, of shifting disclosure practices in the inclusion firm's
+industry.  I therefore set as a baseline the change in disclosure of a comparable firm that was not included in the index.  This
+results in a difference-in-differences or D-in-D estimation.  The advantage of using D-in-D estimation is that it does not require
+an explicit model of disclosure and index fund ownership.  To the extent that other drivers of disclosure such as proprietary
+costs change in the same manner across the inclusion and control firms (e. g. , time-varying effects), or are constant (e. g. , firmfixed effects), the D-in-D approach eliminates these factors from the analysis (Bertrand Name, 2004).  Of course, it could be that
+index inclusion itself affects disclosure.  I can isolate this effect from that of index fund ownership: the inclusion effect is the
+intercept, and the index fund ownership effect is the coefficient on the index fund ownership stake. 
+Although index funds have power over managers, they still must exert costly effort to induce disclosure from managers,
+who may be reluctant to increase disclosure for several reasons.  First, managers may want to preserve their private
+information advantage, which they partially relinquish by increasing disclosure (e. g. , Bushman and Indjejikian, 1995). 
+Second, managers may gain private benefits from withholding disclosure, as when managerial compensation is linked to
+stock price (e. g. , Nagar, 1999; Nagar Name, 2003).  Third, managers may withhold disclosure if they believe unfavorable
+information will soon reverse itself (e. g. , Graham Name, 2005).  Fourth, more disclosure may promote disclosure-related
+litigation (e. g. , Kothari Name, 2009; Skinner, 1994, 1997).  Fifth, more disclosure may induce further monitoring and scrutiny
+by a firm's board of directors or outside shareholders (e. g. , Adams and Ferreira, 2007). 
+As a result, index funds' demands for more disclosure could be hindered by the extent to which managers are less
+sensitive to such demands.  This is likely to occur when managers are entrenched.  In theory, entrenched managers have
+more power to resist shareholders' demands and preferences—regardless of their economic substance—and thus to maintain
+the status quo.  This idea has been validated by other studies in several empirical settings, including director demand for
+disclosure (e. g. , Armstrong Name, 2014), managerial stock ownership (e. g. , Cheng Name, 2004), blockholder governance (e. g. ,
+Bharath Name, 2013), executive compensation (e. g. , Core Name, 1999), and more broadly using measures of firm value (e. g. ,
+Bebchuk Name, 2009; Claessens Name, 2002).  I therefore expect that entrenched management teams will be less responsive to
+index funds' demands for disclosure. 8 Accordingly, I predict:
+H2: The results for H1 are stronger for firms whose managers are less entrenched. 
+For H1 and H2, I assume that managers and other large investors, who have incentives to gather firm-specific information privately and then act on it either by intervention or by trading, systematically want less public disclosure than
+index funds do.  I also assume that retail and atomistic traders are too small to influence companies' disclosure choices—they
+must invest in firms whose disclosures already meet their preferred level. 
+I next test whether disclosure affects stock liquidity.  Conventional wisdom suggests that public disclosure substitutes for
+private information gathering, thereby making markets more liquid by reducing adverse selection that results from private
+information in trade in securities (e. g. , Diamond and Verrecchia, 1991; Holmström and Tirole, 1993).  This wisdom notwithstanding, prior literature has also suggested the possibility that public disclosure actually complements—as opposed to
+substitutes for—private information gathering, thereby making markets less liquid by exacerbating adverse selection (e. g. ,
+Kim and Verrecchia, 1994).  Yet a third possibility is that disclosure will have no effect on liquidity in markets populated by
+many investors because disclosure relates primarily to idiosyncratic features of a firm, although here as well others have
+suggested why this logic may not apply (e. g. , Taylor and Verrecchia, 2015).  I also test for a concurrent liquidity effect arising
+from index fund ownership itself.  Index fund ownership might increase the volume of uninformed loss-absorbing trade,
+which could serve to make markets more liquid.  Similarly, index fund ownership might increase the supply of a firm's
+lendable shares, thereby facilitating the exposure of any unfavorable private information through informed short selling
+(Boehmer and Wu, 2013; Nagel, 2005).  Thus, I expect to find separate effects on stock liquidity due to disclosure and index
+fund ownership:
+H3: When firms are included in the S&P 500 index, their stock liquidity increases more when they are more heavily owned by
+index funds. 

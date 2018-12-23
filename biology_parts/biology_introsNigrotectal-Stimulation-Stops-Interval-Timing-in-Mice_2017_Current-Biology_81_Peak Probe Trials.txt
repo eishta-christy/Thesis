@@ -1,0 +1,117 @@
+Article
+Nigrotectal Stimulation Stops Interval Timing in Mice
+Highlights
+d Novel head-ﬁxed timing task allows rapid acquisition of
+timing behavior
+d Single-trial analysis reveals stepping dynamics and strong
+motivational modulation
+d Nigrotectal pathway activation delays timing of future
+behaviorKoji Toda, Nicholas A.  Lusk,
+Glenn D. R.  Watson, . . . , Haofang E.  Li,
+Warren H.  Meck, Henry H.  Yin
+Correspondence
+kt131@duke. edu (K. T. ),
+hy43@duke. edu (H. H. Y. )
+In Brief
+Toda Name design a novel paradigm to
+study interval timing in mice.  Using
+optogenetic manipulations, the authors
+show that activation of the nigrotectal
+pathway not only suppresses ongoing
+behavior but also delays timing of future
+behavior.  These results suggest that
+disrupting basal ganglia output can stop
+central networks underlying timing. 
+Toda Name, 2017, Current Biology 27, 3763–3770
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 003
+Current BiologyNigrotectal Stimulation
+Stops Interval Timing in Mice
+Koji Toda,1,2,3,5,* Nicholas A.  Lusk,1,5 Glenn D. R.  Watson,1 Namsoo Kim,1 Dongye Lu,4 Haofang E.  Li,1 Warren H.  Meck,1
+and Henry H.  Yin1,4,6,*
+1Department of Psychology and Neuroscience, Duke University, Durham, NC 27708, USA
+2Human Informatics Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Umezono 1-1-1, Tsukuba,
+Ibaraki 305-8568, Japan
+3Japan Society for the Promotion of Science, Kojimachi 5-3-1, Chiyoda-ku, Tokyo 102-0083, Japan
+4Department of Neurobiology, Duke University School of Medicine, Durham, NC 27708, USA
+5These authors contributed equally
+6Lead Contact
+*Correspondence: kt131@duke. edu (K. T. ), hy43@duke. edu (H. H. Y. )
+https://doi. org/10. 1016/j. cub. 2017. 11. 003Considerable evidence implicates the basal ganglia
+in interval timing, yet the underlying mechanisms
+remain poorly understood.  Using a novel behavioral
+task, we demonstrate that head-ﬁxed mice can be
+trained to show the key features of timing behavior
+within a few sessions.  Single-trial analysis of licking
+behavior reveals stepping dynamics with variable
+onset times, which is responsible for the canonical
+Gaussian distribution of timing behavior.  Moreover,
+the duration of licking bouts decreased as mice
+became sated, showing a strong motivational
+modulation of licking bout initiation and termination. 
+Using optogenetics, we examined the role of the
+basal ganglia output in interval timing.  We stimulated a pathway important for licking behavior, the
+GABAergic output projections from the substantia
+nigra pars reticulata to the deep layers of the superior
+colliculus.  We found that stimulation of this pathway
+not only cancelled licking but also delayed the initiation of anticipatory licking for the next interval in a
+frequency-dependent manner.  By combining quantitative behavioral analysis with optogenetics in the
+head-ﬁxed setup, we established a new approach
+for studying the neural basis of interval timing. 
+INTRODUCTION
+Time perception is unique because there are no dedicated sensory organs or receptors for time.  The brain appears to create the
+subjective sense of time by integrating a variety of sensory inputs
+and internal states [1].  Many studies have implicated corticobasal ganglia networks in interval timing in the seconds to minutes range [2–5].  However, it remains unclear how basal ganglia
+output contributes to timing behavior. 
+Traditional studies examining interval timing have two major
+limitations.  First, the behavioral methods are time consuming
+and yield results that are difﬁcult to interpret.  For example,
+operant procedures using lever pressing as the behavioral
+readout are commonly used across many species [6]. 
+Training typically takes months and produces complex stereotyped behaviors between lever presses.  Second, techniques
+commonly used in animal timing studies, like lesion, electrical stimulation, and pharmacological manipulations, cannot
+precisely manipulate speciﬁc neuronal populations and neuroimaging timing studies in humans rely on correlational
+analyses of brain activity and behavioral data [4, 7].  To overcome these limitations, we designed a novel task for studying
+interval timing in head-ﬁxed mice during optogenetic manipulation of deﬁned neuronal populations.  Using a ﬁxed time
+schedule of reinforcement, we trained mice to exhibit accurate timing behavior within a few hours.  Mice rapidly showed
+licking behavior that peaks at the expected time of reward
+delivery in accordance with previous studies using lever
+presses as a behavioral measure [8, 9].  Licking on this task
+can be precisely quantiﬁed and shows the hallmarks of interval timing. 
+Licking is also a behavioral measure with well-characterized
+neural circuits [10–12].  Previous work demonstrates the importance of a cortico-basal ganglia circuit, including the ventrolateral striatum and lateral substantia nigra pars reticulata (SNr) in
+orofacial behavior [10, 13].  In particular, a subset of GABAergic
+projections from the SNr to the deep layers of the superior
+colliculus (SC)
+is critical for the initiation and termination of
+self-paced licking behavior [10, 14].  The basal ganglia output
+regulates SC neurons in regulating licking bouts.  The SC output,
+in turn, regulates central pattern generators in the brainstem to
+generate orofacial and other movements [15, 16]. 
+Optogenetic stimulation of
+the nigrotectal pathway can
+directly terminate licking behavior by uniformly increasing
+inhibition of tectal projection neurons, thus disrupting descending motor commands [10].  By stimulating channelrhodopsin
+(ChR2)-expressing GABAergic projection neurons in the SNr,
+we could uniformly increase SNr output and interfere with the
+normal pattern of nigrotectal signaling, which is time locked to
+the licking bout [17].  Using this procedure combined with quantitative behavioral analysis, we examined the contribution of the
+basal ganglia output to interval timing behavior in mice. 
+Current Biology 27, 3763–3770, December 18, 2017 ª 2017 Elsevier Ltd.  3763
+In agreement with previous work in freely moving mice [10],
+voluntary licking behavior was highly stereotyped, consisting of
+bouts of rhythmic protrusion and retractions of the tongue at a
+relatively ﬁxed rate (6–10 Hz) for both anticipatory and consummatory licking [17].  After training, all mice showed anticipatory
+licking prior to each reward delivery (Figure 1C, left), starting
+4–6 s before the reward and peaking at roughly the expected
+time of reward delivery.  Consummatory licking stopped 2–4 s
+after the reward delivery.  As the mouse became sated during
+the session, anticipatory licking gradually decreased and
+consummatory licking decreased more abruptly (Figure S1).  After training, all mice showed anticipatory licking prior to each
+reward delivery (Figure 1C, left), starting 4–6 s before the reward
+and peaking at roughly the expected time of reward delivery. 
+Peak Probe Trials
+After 5–10 days of training on the ﬁxed-time task, peak probe
+trials were introduced (Figure 1B, right).  During these trials,
+reward delivery was omitted, followed by an extended period
+of no reward delivery. 

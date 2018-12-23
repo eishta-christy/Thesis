@@ -1,0 +1,1475 @@
+Applied Psycholinguistics 38 (2017), 633–656
+doi:10.1017/S0142716416000357
+
+Resolving referential ambiguity
+across ambiguous situations in young
+foreign language learners
+
+CHIEH-FANG HU
+University of Taipei
+
+Received: December 29, 2015
+
+Accepted for publication: June 28, 2016
+
+ADDRESS FOR CORRESPONDENCE
+Chieh-Fang Hu, Department of English Instruction, University of Taipei, Taipei, Republic of China.
+E-mail: chfu@utaipei.edu.tw
+
+ABSTRACT
+First language learners can track word-referent co-occurrence information across situations and eval-
+uate co-occurrence probabilities across situations to determine the best-of-ﬁt mappings. However,
+cross-situational word learning can be difﬁcult to foreign language learners, because in addition to ag-
+gregating information across situations, they have to build robust representations for foreign-sounding
+words. In Experiment 1, third-grade Mandarin-speaking children learned four English word-referent
+pairs in two conditions, varying in within-trial ambiguity. In one condition, information about word-
+referent association was determinable across trials but not within a trial. In the other, word-referent
+association within a trial was inferable. In Experiment 2, participants learned words in a condition
+where referential ambiguity across trials, though not within a trial, was reduced by successive presen-
+tation of certain word-referent pairs. The results revealed that participants learned more word-referent
+pairs than expected by chance. Reducing ambiguity within a trial facilitated word mapping and word
+retention (Experiment 1), but reducing ambiguity across trials did not (Experiment 2). Across two
+experiments, word mapping and retention performance was associated with phonological awareness,
+whether measured in children’s ﬁrst language or a foreign language, but not with digit span, suggesting
+that success in cross-situational word learning in a foreign language rests on speciﬁcation of word
+forms.
+
+The present study investigates cross-situational word learning in school-age for-
+eign language (FL) learners. Further, it takes an individual difference framework,
+exploring learner variables that may affect cross-situational learning in school-age
+FL learners. FL learners constantly encounter ambiguous situations (Ely, 1989).
+Ambiguity can occur in many aspects of a linguistic message, including sound
+pattern, word boundary, and/or word meaning. Current pedagogical trends em-
+phasize contextualized vocabulary learning in nonostensive contexts where words
+are mentioned but not directly taught. Not all input needs to be comprehensible
+(White, 1987). There are occasions when novel words are mentioned but not ex-
+plicitly taught, rendering ambiguity in form to meaning mappings, such as listening
+
+© Cambridge University Press 2016 0142-7164/16
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+634
+
+to stories, shared book reading, watching videos, or following directions in the
+classroom. In those ambiguous occasions, even when a word form is appropriately
+chunked from the continuous speech stream and encoded, a FL learner may still
+encounter multiple possible referents for that word. For example, during shared
+storybook reading, young FL leaners may hear a novel word in a picture that de-
+picts several objects that they cannot name yet. While FL learners nowadays have
+a greater chance to learn words in a variety of nonostensive contexts, not much
+is known about how FL learners resolve referential ambiguity and what learner
+variables are associated with their ability to disambiguate a word’s meaning.
+
+Children’s ability to make informed guesses about a word’s meaning in referen-
+tially ambiguous situations has been widely discussed and investigated in studies
+of ﬁrst language (L1) acquisition. When the situation is highly constrained, for
+example, when there is only one name-unknown object, children seem to circum-
+vent the problem of referential indeterminacy with some built-in biases. They are
+more likely to map a novel name onto an object for which they do not have a label
+than an object for which they already have a name (e.g., Au & Glusman, 1990;
+Golinkoff, Hirsh-Pasek, Bailey, & Wenger, 1992; Golinkoff, Mervis, & Hirsh-
+Pasek, 1994; Markman & Wachtel, 1988; Merriman & Bowman, 1989). Such
+lexical biases have been consistently demonstrated in L1 children and are con-
+sidered robust and fundamental in learning early L1 words (de Marchena, Eigsti,
+Worek, Ono, & Snedeker, 2011; Golinkoff et al., 1992). This pattern of responses
+has been replicated in children learning a nonnative language (e.g., Davidson &
+Tell, 2005; Hu, 2012; Kan & Kohnert, 2008; Wilkinson & Mazzitelli, 2003). For
+example, Hu (2012) found that when hearing a novel FL word in the presence of
+three objects, two name-known and one name-unknown, fourth-grade FL learners
+selected the name-unknown object as a referent for the novel word over 97% of
+the time. Nevertheless, the above learning condition is highly constraining, with
+one novel word in the presence of one name-unknown referent. Like L1 learners,
+FL learners also encounter situations where they hear multiple novel words in the
+presence of multiple name-unknown referents. Do school-age FL learners make
+connections between FL-sounding words and referents in those situations?
+
+WORD MAPPING ACROSS AMBIGUOUS SITUATIONS
+
+In recent years, researchers are interested in children’s ability to sort out poten-
+tial word to referent associations across multiple ambiguous situations, known
+as cross-situational word learning. Instead of one to one fast mapping through
+the application of some built-in lexical biases, the cross-situational word learn-
+ing paradigm requires learners to track word-referent co-occurrence information
+across learning trials and evaluate co-occurrence probabilities across trials to de-
+termine the best-of-ﬁt mappings (e.g., Scott & Fisher, 2012; Smith & Yu, 2008;
+Vlach & Johnson, 2013; Yu & Smith, 2007). Consider a situation in which a child
+hears a word clamp in the presence of multiple name-unknown objects. The child
+cannot determine the referent of the word by applying the strategy of lexical biases.
+However, the child can determine the referent of the word after hearing the word
+clamp in multiple situations where clamp consistently co-occurs with a particular
+type of object. Studies on L1 learners have demonstrated that adults, children, and
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+635
+
+infants are able to determine the intended referent of a word across situations de-
+spite referential uncertainty in each situation (e.g., Smith, Smith, & Blythe, 2011;
+Suanda, Mugwanya, & Namy, 2014; Vlach & Johnson, 2013; Yu & Smith, 2007,
+2011). There is evidence that the processes involved in cross-situational learning
+undergo developmental changes (Fitneva & Christiansen, 2015; Vlach & Johnson,
+2013). For example, young children beneﬁt from initial correct mappings whereas
+adults beneﬁt from erroneous associations in initial trials (Fitneva & Christiansen,
+2015).
+
+The cross-situational learning paradigm has rarely been investigated in school-
+age FL learners probably due to the assumption that in FL classrooms, the referent
+of a word is explicitly and directly pointed out by teachers. This assumption does
+not hold because many FL classrooms in today’s world involve activities that do not
+strictly control language. Can school-age FL learners discover a word’s referent
+by tracking FL-sounding words and ambiguous referents across situations? Cross-
+situational FL word learning can be seen as consisting of two steps. First, FL
+learners encode heard FL words in the presence of multiple potential referents. The
+encoding process can be highly demanding even for a single novel word because a
+FL-sounding word can be obscure in all aspects of phonological features, including
+overall word and syllabic shapes, segmental details, and articulatory gestures.
+Efﬁcient encoding may depend, to a substantial extent, on the learners’ sensitivity
+to the sound structure of the language (Hu & Schuele, 2005). Second, FL learners
+have to carry the word forms, partially or completely encoded, from one situation
+to the next situation so that they can accumulate and compare information across
+situations and discover the correct referents of the heard words. Thus, the encoded
+forms have to be durable and recognizable as the same forms when they are heard
+again across situations. The two steps may occur simultaneously or sequentially
+and may interfere with each other. For example, tracking information encoded
+in a previous learning event may be disrupted when one attempts to encode a
+newer word in the current situation. Thus, the task of tracking multiple ambiguous
+mappings across situations, plus the difﬁculties in encoding FL forms on the ﬂy,
+may tax young FL learners’ memory resources to such an extent that they may
+not actively and effectively resolve ambiguity in word-referent mappings and may
+even ignore the FL forms that are referentially ambiguous.
+
+Studies on cross-situational word learning have proposed several mechanisms to
+account for how L1 learners discover referents for words across multiple ambigu-
+ous situations. While these mechanisms revealed the nature of cross-situational
+word learning in L1 learners, they generally do not consider the additional dif-
+ﬁculties FL learners may face in encoding novel FL-sounding forms. According
+to the associative learning account (Smith & Yu, 2008; Vouloumanos, 2008; Yu
+& Smith, 2007), when encountering multiple novel words with referential inde-
+terminacy, learners track and maintain multiple hypotheses about the meanings
+of the words until sufﬁcient information from subsequent encounters conﬁrms or
+disconﬁrms the hypotheses. According to the hypothesis testing account (Medina,
+Snedeker, Trueswell, & Gleitman, 2011; Trueswell, Medina, Hafri, & Gleitman,
+2013), learners attend to one form at a time and do not attempt a second hypothesis
+until the ﬁrst hypothesis is veriﬁed (Medina et al., 2011). The debate is similar
+to the debate about delayed and immediate decisions made in syntactic parsing
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+636
+
+(Carroll, 2008). Whether by entertaining one or multiple associations at a time,
+mapping new words onto referents across time is a difﬁcult task due to the un-
+certainty in every learning trial. In addition to the uncertainty in word-referent
+mappings, FL leaners face another challenge, namely, efﬁciently encoding FL
+forms into durable and recognizable representations that allow comparison across
+time. Given the double difﬁculties, FL learners may experience total failure in
+cross-situational word learning. In that case, cross-situational word learning is not
+a realistic mechanism in FL acquisition. Thus, the ﬁrst goal of the study is to ex-
+amine FL learners’ capacity of resolving referential ambiguity cross-situationally.
+
+LEARNER VARIABLES
+
+Another goal of the study is to identify individual learner variables that may affect
+FL cross-situational word learning. It follows from the above discussion that some
+aspects of individual differences, such as phonological awareness and memory
+span, may be associated with school-age FL learners’ capacity for cross-situational
+learning. Phonological awareness refers to the awareness of the phonological
+composition of a spoken word. It is a universal predictor of reading abilities across
+alphabetic orthographies (Ziegler et al., 2010) and may also play a nontrivial role in
+learning to read a nonalphabetic orthography (Hu, 2013; Newman, Tardif, Huang,
+& Shu, 2011). In addition to reading, children with weakness in phonological
+awareness exhibit difﬁculties encoding phonological details for novel words in
+another language, whether in ostensive or nonostensive contexts (de Jong, Seveke,
+& van Veen, 2000; Hu, 2012; Hu & Schuele, 2005; McBride-Chang, Cheung,
+Chow, Chow, & Choi, 2006; Palladino & Ferrari, 2008). With reduced sensitivity
+to the phonological structure of a language, they demonstrate reduced capacity
+to extract recurring phonological patterns from input to support word learning
+(Hu, 2014). Sensitivity to the phonological composition of a word may also affect
+cross-situational learning. Escudero, Mulak, and Vlach (2015) found that adult
+learners had greater difﬁculty learning vowel minimal pairs (e.g., deet–det) than
+nonminimal pairs (e.g., deet–bon) or consonant minimal pairs (e.g., bon–ton).
+
+Another relevant learner variable is memory span. Memory capacity has been
+shown to be associated with FL learning difﬁculties (Palladino & Ferrari, 2008).
+It plays a constraining role when learning involves aggregating and comparing
+information over learning events and has been discussed in many published stud-
+ies of cross-situational learning (e.g., Kachergis, Yu, & Shiffrin, 2013; Medina
+et al., 2011; Smith et al., 2011; Trueswell et al., 2013; Vlach & Johnson, 2013;
+Yurovsky, Yu, & Smith, 2013). Children with better memory capacity are expected
+to ﬁnd word mapping across multiple ambiguous situations easier whether they
+hypothesize about a word’s meaning at one time (Medina et al., 2011) or track
+and store all the possible referents until they discover the correct mapping (Yu &
+Smith, 2007).
+
+THE CURRENT STUDY
+
+With two experiments,
+the study explored situational disambiguation skills
+in school-age FL learners and the learner variables that might contribute to
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+637
+
+individual differences in such learning. In both experiments, learners’ differences
+in memory span and phonological awareness were measured. Experiment 1 in-
+vestigated whether school-age FL learners were capable of mapping heard words
+onto their referents across ambiguous trials as opposed to nonambiguous trials.
+After establishing that school-age FL learners were capable of word mapping
+across multiple ambiguous situations but the overall learning was low, Experiment
+2 replicated the ﬁrst experiment and further investigated whether structuring the
+input into temporally contiguous trials facilitated mapping performance. Previous
+studies have shown that L1 learners demonstrate better mapping performance
+when some of the word-referent pairs appear in successive trials (Kachergis, Yu,
+& Shiffrin, 2013; Vlach & Johnson, 2013). It is thus interesting to see whether FL
+learners would beneﬁt from experiencing consecutive encounters with FL words
+in cross-situational learning. In typical FL settings, children are more likely to hear
+a novel word a number of times before hearing other novel words. For example,
+listening to the story Seven Blind Mice, FL learners will hear the novel animal
+name “mouse” on successive pages, each in conjunction with another novel animal
+name.
+
+It is worth noting that in order to evaluate word mapping in a more realistic
+setting, the target words were not presented in isolation as in the traditional cross-
+situational paradigm. Instead, the target words appeared in multiword, compre-
+hensible utterances, which helped narrow down the potential referents of a novel
+word. In FL classrooms, learners are unlikely to encounter multiple novel words
+with multiple ambiguous referents without any contextual support or without any
+direct and explicit instruction.
+
+EXPERIMENT 1
+
+Third-grade FL learners were randomly assigned to two word-mapping condi-
+tions: contrastive and noncontrastive. The two conditions were equivalent in terms
+of the total occurrences of each target word but differed in within-trial ambigu-
+ity. In the contrastive condition, children could determine word referents within
+a trial by resorting to lexical biases of mutual exclusivity or mapping a novel
+word to a nameless category. In the noncontrastive condition, children could not
+determine word referents unless they aggregated information across trials. Across
+trials, each novel word co-occurred consistently with only one referent. It was not
+clear whether FL learners would demonstrate any learning in the noncontrastive
+condition. It was also unclear which condition would result in better word map-
+ping performance. FL learners should intuitively demonstrate inferior mapping
+performance in the more ambiguous, noncontrastive condition when compared
+with the contrastive condition. However, it was also possible that the ambiguity in
+the noncontrastive condition might result in better retention as it required sustained
+attention to form-referent pairings over the learning trials, leading to elaborate and
+durable memory encoding (Vlach & Sandhofer, 2010, 2014).
+
+Method
+
+Participants. The participants were 120 third-grade Mandarin-speaking students
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+638
+
+recruited from six classes of an elementary school. The mean age of the children
+was 8 years 10 months. These students had received formal instruction of English
+as FL since Grade 1, with two 40-min classes per week. Third grade was con-
+sidered as the earliest point of development at which the FL learners were able
+to understand the carrier sentences in the present study. The students were not
+reported to have any evidence of neurological damage, emotional problems, sen-
+sory deﬁcits, or history of articulation/language impairments. All the participants
+had permission for participation from parents. The participants were randomly
+assigned to two learning conditions (N = 60 for each condition). The two groups
+of participants did not differ in general receptive vocabulary of English measured
+by a standardized vocabulary test, the Peabody Picture Vocabulary Test, t (118) =
+0.45, p > .05.
+
+Learner variables.
+
+PHONOLOGICAL AWARENESS. Phonological awareness was measured in chil-
+dren’s FL (English) and L1 (Mandarin Chinese). FL phonological awareness was
+composed of two subtests: oddity and deletion. The two subtests probed into
+the two essential aspects of phonological awareness, sound categorization (sound
+oddity) and phoneme segmentation (deletion), and have been successfully used
+in Mandarin-speaking children (e.g., Chen et al., 2004; Hu, 2013; Newman et al.,
+2011; Wang, Perfetti, & Liu, 2005). Sound oddity required the child to choose
+from three monosyllabic consonant–vowel–consonant words the one that sounded
+different than the others. Half of the 16 test trials required the child to contrast
+the words according to the initial consonants (e.g., pin, pig, top) and the other
+half according to the rimes (e.g., peg, cot, leg). Deletion required the child to
+say English words (e.g., book) without saying the initial consonants (e.g., –ook).
+There were 10 trials. For each individual, a composite score of FL phonological
+awareness was obtained by averaging the proportional scores from English sound
+oddity and deletion. L1 phonological awareness was also composed of the two
+subtests, except that the stimuli were Chinese words. For example, the stimuli
+for oddity were mao2 (hair), mei2 (plum), and niou2 (cow). In deletion, the child
+heard a Chinese word (e.g., fang2zi5 “house”) and said what was left after remov-
+ing the ﬁrst sound (e.g., –ang2zi5). The proportional scores from Chinese sound
+oddity and deletion were averaged to create a composite score of L1 phonological
+awareness for each individual.
+
+DIGIT SPAN. Participants’ memory capacity was measured by an auditory digit
+span test. The test giver read aloud lists of digits in children’s L1 at a rate of
+one digit per second, starting with two digits and continuing by increasing one
+digit at a time until the participant failed in two consecutive trials in the same
+span length. Given that children were already highly familiar with digit names,
+the digit span test reﬂected the storage and maintenance components of children’s
+memory capacity, independently of stimuli familiarity and phonological aware-
+ness. There were two practice trials. Span was the longest list length correctly
+recalled.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+Word mapping.
+
+639
+
+STIMULI AND DESIGN. Stimuli included four words: clamp, wedge, snood, and
+dart. These words were chosen because they were novel to the participants, they
+represented concrete objects, and they were not phonologically similar to one
+another. There were four blocks of six learning trials each. Each learning trial
+consisted of two pairs of target word-referent associations. Each target word-
+referent association appeared three times in each block. Participants heard a story
+about some kids taking two items to school and leaving one at home. In the
+contrastive condition, the two word-referent pairs in each trial were contrasted:
+one was described as an item taken to school and the other as the item left at home.
+In the noncontrastive condition, the two word-referent pairs referred to the two
+items taken to school.
+
+For each trial, the target words were embedded in a carrier sentence. The carrier
+sentence was “He/she takes an X and a Y to school, but he/she does not take a Z.”
+The three slots X, Y, and Z were ﬁlled in with two target words and one familiar
+word (e.g., book, pen, or dog). A pictured scene was simultaneously presented
+with the carrier sentence. As shown in Figure 1, the items taken to school were
+displayed on one side and the item left at home on the other. The referent locations
+for X and Y (left or right) and the order of the labels (ﬁrst or second) were
+counterbalanced across the learning trials in both conditions.
+
+In the contrastive condition, the target words were mentioned in slots X
+(or Y) and Z. Given that only one target word referred to one nameless object
+in the schoolbag, the referent of the target word was determinable, in a single
+learning trial, by mutual exclusivity and by the contrast between what was taken
+to school and what was left at home. In the noncontrastive condition, the target
+words were mentioned in slots X and Y, with no information about which target
+word referred to which object in the pictured scene in a single learning trial. Thus,
+the two conditions varied in within-trial ambiguity with respect to form-referent
+mappings.
+
+Each block was immediately followed by a referent selection test to assess
+children’s word mapping performance. In each test, there were six test items: four
+target words, one familiar word, and one novel word not heard in the learning trials
+nor carried over into the next referent selection test (i.e., sieve, chime, whisk, knob,
+or tong). The novel name-unknown object in the referent selection test allowed
+for an examination of whether the participants had acquired some knowledge of
+the target words even though they failed in exact one to one mappings.
+Procedure. The participants were randomly assigned to a condition (N = 60 for
+each condition) and were tested individually in a quiet room in the school. They
+were informed that they would hear a story about some students who took some
+items to school and left some at home each day. To familiarize the participant
+with the task, the test giver showed a pictured scene where a boy was on his way
+to school, with a book and a toy dog on one side of the scene and a pen on the
+other. The test giver made the comment, “He takes a book and a dog to school,
+but he does not take a pen.” The participant was then shown a second picture
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+640
+
+Figure 1. (Color online) Sample stimuli for the two conditions in Experiment 1. The object
+pictures were redrawn for illustration. The layout and the arrangement of the objects are
+identical to the stimuli used in the study.
+
+of six familiar objects, a book, a dog, a pen, a ball, a pig, and a cup, and asked
+to identify the three items mentioned in the sentence just heard. Following the
+familiarization task was the four blocks of learning, each followed by a referent
+selection test. In each learning trial, the participant experienced two target word-
+referent pairings together with one familiar word-referent pairing. The test giver
+presented a pictured scene and orally described the scene with a carrier sentence,
+where two target words, along with a familiar word, were embedded according
+to the designated slots of each condition. The test giver did not point to the
+corresponding referent.
+
+For each block, immediately after experiencing six learning trials, the participant
+took a referent selection test. The participant was shown six pictures, four target
+objects, one familiar nameable object (e.g., book), and one novel name-unknown
+object not shown in the learning trials (e.g., sieve). The test giver named the objects
+randomly, and the participant was instructed to point to the picture just named.
+Children received no feedback during the test. In total, each participant took the
+referent selection test ﬁve times: once immediately after each of the four blocks
+of learning and once in a delayed test taken 15 min after the last block of learning.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+641
+
+Table 1. Descriptive statistics of the principle variables for the two
+experiments
+
+Experiment 1
+
+Immediate
+
+Target words (max = 16)
+Known words (max = 4)
+Novel words (max = 4)
+Target words (max = 4)
+Known words (max = 1)
+Novel words (max = 1)
+
+Delayed
+
+Digit span
+L1 phonological awareness
+FL phonological awareness
+
+Experiment 2
+
+Immediate
+
+Target words (max = 16)
+Known words (max = 4)
+Novel words (max = 4)
+Target words (max = 4)
+Known words (max = 1)
+Novel words (max = 1)
+
+Delayed
+
+Digit span
+L1 phonological awareness
+FL phonological awareness
+
+Contrastive
+
+Noncontrastive
+
+M
+
+10.5
+4.0
+3.2
+
+2.9
+1.0
+0.8
+8.8
+78.6
+74.8
+
+SD
+
+3.7
+0.0
+1.1
+
+1.3
+0.0
+0.4
+1.3
+19.5
+18.7
+
+M
+
+7.6
+4.0
+3.2
+
+2.0
+1.0
+0.8
+9.1
+85.3
+82.9
+
+SD
+
+4.1
+0.0
+1.1
+
+1.4
+0.0
+0.4
+1.2
+13.4
+13.9
+
+Interleaved
+
+Repetitive
+
+M
+
+5.7
+4.0
+2.7
+
+1.6
+1.0
+0.5
+9.2
+85.9
+81.2
+
+SD
+
+3.4
+0.0
+1.2
+
+1.3
+0.0
+0.5
+0.9
+12.0
+13.8
+
+M
+
+6.4
+4.0
+2.7
+
+1.8
+1.0
+0.6
+8.8
+78.5
+79.3
+
+SD
+
+3.9
+0.0
+1.3
+
+1.4
+0.0
+0.5
+1.4
+14.2
+15.7
+
+Note: L1, First language; FL, foreign language.
+
+Results and discussion
+
+Table 1 presents the descriptive statistics of the principal variables in the study.
+Figure 2 displays mean accuracy scores in referent selection for each block in
+the noncontrastive and contrastive conditions. The results for the target words are
+shown in the top panel of the ﬁgure (max = 4 for each block); those for the novel
+words ﬁrst heard in the referent selection tests are shown in the bottom panel (max
+= 1). Children scored perfectly for the familiar words. The two conditions were
+identical, except that the referents of the target words were inferable by mutual
+exclusivity within a trial in the contrastive condition but had to be inferred by
+tracking co-occurrence information across trials in the noncontrastive condition.
+To examine whether children demonstrated word learning in the noncontrastive
+condition, single-sample t tests were performed to test whether children’s word
+mapping performance for the target words tests was above the level that would
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+642
+
+Figure 2. Mean accuracy for the noncontrastive and the contrastive conditions for the (top)
+target words and (bottom) novel words. Error bars show standard errors.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+643
+
+Table 2. Percentages of learners that had 100% or 0% accuracy for all the immediate
+tests and the delayed test
+
+Learners With 100% Accuracy
+
+Learners With 0% Accuracy
+
+Experiment 1
+
+Contrastive
+
+Noncontrastive
+
+Contrastive
+
+Noncontrastive
+
+Block 1
+Block 2
+Block 3
+Block 4
+Delayed
+
+16.7
+43.3
+43.3
+58.3
+46.7
+
+8.3
+26.7
+28.3
+31.7
+23.3
+
+8.3
+8.3
+3.3
+3.3
+3.3
+
+36.7
+13.3
+10.0
+16.7
+20.0
+
+Experiment 2
+
+Interleaved
+
+Repetitive
+
+Interleaved
+
+Repetitive
+
+Block 1
+Block 2
+Block 3
+Block 4
+Delayed
+
+3.2
+11.1
+12.7
+19.0
+14.3
+
+0.0
+13.3
+23.3
+30.0
+16.7
+
+38.1
+14.3
+36.5
+19.0
+22.2
+
+25.0
+30.0
+21.7
+18.3
+16.7
+
+be expected from chance. The chance level was estimated to be 0.8 for the four
+target words. Although for each target word, there was an array of six referents
+(four target objects, a familiar object, and a still novel, nameless object), only
+ﬁve were competitors because the participants were all accurate in the selection
+of the familiar object. Thus, the chance level was estimated to be 0.2 (1 out 5)
+for each target word. The chance level for the summed score of the four target
+words was thus 0.8 (0.2 × 4). The results of the t tests revealed that participants
+performed signiﬁcantly above chance in all the immediate and delayed tests of
+referent selection for the target words (ps < .01). These results indicate that even
+after one block of exposure, the FL learners were able to acquire some word-
+referent association from a small number of learning trials involving ambiguous
+referents.
+
+Nonetheless, resolving referential ambiguity cross-situationally appeared difﬁ-
+cult to many school-age FL learners. As shown in Table 2, after experiencing six
+trials of learning in Block 1, 36.7% of the participants in the noncontrastive condi-
+tion scored zero in selecting target referents, in contrast to 8.3% in the contrastive
+condition. In the ﬁnal immediate test, there were still 16.7% of the participants in
+the noncontrastive condition who scored zero in selecting referents for the target
+words.
+To examine whether word mapping differed across the two conditions, scores
+for target referent selection were subject to a 2× 4 analysis of variance (ANOVA)
+with learning condition (contrastive vs. noncontrastive) as a between-participants
+factor and block (1, 2, 3, 4) as a within-participants factor. The results revealed
+signiﬁcant effects of learning condition, F (1, 118) = 16.55, p < .001, partial
+η2 = 0.12, and block, F (3, 354) = 25.79, p < .001, partial η2 = 0.18. There was
+no interaction effect, F (3, 354) = 1.20, p > .05.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+644
+
+Table 3. Intercorrelations of the principal variables for the contrastive and
+non-contrastive conditions for Experiment 1
+
+Variable
+
+1
+
+2
+
+3
+
+4
+
+5
+
+1. L1 phonological awareness
+2. FL phonological awareness
+3. Digit span
+4. Referent selection (immediate)
+5. Referent selection (delayed)
+
+—
+
+.64***
+.27*
+.37**
+.22
+
+.54***
+
+—
+
+.09
+.47***
+.38**
+
+.27*
+.22
+—
+−.09
+−.16
+
+.49***
+.44***
+.08
+
+—
+
+.70***
+
+.27*
+.26*
+.06
+.58***
+
+—
+
+Note: Correlations above the diagonal are for the contrastive condition, and correlations
+below the diagonal are for noncontrastive condition. L1, First language; FL, foreign
+language.
+*p < .05. **p < .01. ***p < .001.
+
+To examine whether children’s target word-referent mappings dropped differ-
+entially in the delayed test, children’s performance for target words in the last
+referent selection test and the delayed test was subject to a 2 × 2 ANOVA with
+learning condition (contrastive vs. noncontrastive) as a between-participants factor
+and time (last immediate vs. delayed) as a within-participants factor. The results
+revealed an effect of learning condition, F (1, 118) = 15.17, p < .001, partial
+η2 = 0.11, but no effects of time or interaction between learning condition and
+time (ps > 0).
+
+With respect to the novel words the participants had not heard in the learning
+trials but heard the ﬁrst time in the referent selection test, the two groups of
+participants demonstrated a high rate of mapping accuracy (around 80%) for these
+words in both the immediate and the delayed tests, as shown in Figure 2. The
+results of a 2× 5 ANOVA with learning condition (contrastive vs. noncontrastive)
+as a between-participants factor and test time (blocks 1, 2, 3, 4, and delayed) as
+a within-participants factor revealed that none of the effects were signiﬁcant (all
+ps > .05).
+
+Table 3 displays the correlations between learner variables and word mapping
+performance in the two conditions. The referent selection scores for the immedi-
+ate tests in the two tables were the scores for target words summed over the four
+blocks. The correlations above the diagonal are the correlations for the contrastive
+condition, and those below the diagonal are for the noncontrastive condition. As
+shown in Table 3, referent selection in the noncontrastive condition was associated
+with the two phonological awareness variables in the immediate tests (r = .37 and
+.47) and with FL phonological awareness in the delayed test (r = .38). Neither
+the immediate nor the delayed referent selection was correlated with digit span. A
+similar pattern of the correlations was found for the contrastive condition. Chil-
+dren’s mapping performance was associated with the two phonological awareness
+variables both in the immediate tests (r = .49 and .44) and in the delayed test
+(r = .27 and .26), but not with digit span.
+
+Overall, the results of the current experiment indicated that school-age chil-
+dren, as a group, were capable of resolving referential ambiguity across trials,
+each involving multiple ambiguous FL-sounding words. Nonetheless, introducing
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+645
+
+ambiguity within a trial posed substantial challenges to some young FL learners. A
+substantial portion of the participants in the noncontrastive condition (37%) scored
+zero in word mapping for the target words after one block of learning. Moreover,
+participants in the noncontrastive condition consistently performed more poorly
+than participants in the contrastive condition across the four blocks of learning and
+the delayed test. It should be noted, however, that the difﬁculty in word mapping
+did not result in more fragile representations for retention. The word mapping per-
+formance for the target words in the noncontrastive condition did not decay faster
+than that in the contrastive condition. In addition, the word mapping performance
+for the still novel word in the referent selection test was not worse in the noncon-
+trastive condition than in the contrastive condition, indicating that children in the
+noncontrastive condition, though performing inferiorly in the one to one mapping,
+were not less able to distinguish the set of target words from the still novel word.
+The most interesting ﬁnding was perhaps that the word mapping performance
+in the two conditions was associated with children’s phonological awareness of L1
+and FL, but not with the commonly proposed variable: memory span. Phonological
+awareness, whether measured in L1 or FL, was particularly associated with target
+word mapping performance not only in the immediate tests but also in the delayed
+tests, probably reﬂecting the speciﬁc demand of encoding FL sound sequences.
+The lack of a correlation between digit span and word mapping performance in
+cross-situational learning warrants explanations. Memory capacity, as measured by
+digit span, should have affected how much information could have been carried
+and aggregated from one learning trial to another. One possibility was that the
+current task was too demanding of memory resources of school-age FL learners.
+
+EXPERIMENT 2
+
+Experiment 2 served three purposes: to replicate the results regarding cross-
+situational word learning in Experiment 1; to examine whether structuring word-
+referent pairs according to temporal contiguity facilitated learning; and to see
+whether children’s memory capacity emerged as a contributor to accounting for
+word mapping performance in a less demanding condition. Although young FL
+learners were able to learn words across situations, they showed signiﬁcantly lower
+accuracy in mapping when the within-trial ambiguity was high. In Experiment 1,
+the sequence of the word-referent pairs in the noncontrastive condition was ran-
+domly determined. However, in naturalistic settings, naming events for a particular
+object or a particular construction are not randomly and evenly distributed but fol-
+low a Zipﬁan distribution (e.g., Ellis & Ferreira, 2009; Goldberg, Casenhiser, &
+Sethuraman, 2004). Some words are just heard more often than others within
+a speciﬁc time window (Frank, Tenenbaum, & Fernald, 2013), due to the topic
+of a discourse or the focus of a story. In addition, given the time constraints in
+a FL class, FL teachers usually structure and manipulate FL input to maximize
+students’ learning. Structuring input affects different aspects of FL acquisition,
+for example, novel phonological contrast (Perrachione, Lee, Ha, & Wong, 2011)
+and sentence construction (McDonough & Nekrasova-Becker, 2012).
+
+Experiment 2 compared the effectiveness of word mapping in two cross-
+situational learning conditions: repetitive and interleaved. In both conditions,
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+646
+
+participants had to infer the correct word-referent mapping by tracking co-
+occurrence information across trials. In the repetitive condition, initial ambiguity
+was reduced by presenting certain word-referent pairs in successive trials. Kacher-
+gis et al. (2009) found that adult learners demonstrated better word mapping per-
+formance when some word-referent pairs were repeated in successive trials than
+when none of the pairs were repeated. Vlach and Johnson (2013) found that 16-
+month-old infants were capable of solving referential ambiguity for words pre-
+sented in successive trials but not for words evenly distributed in time. The authors
+attributed infants’ failure in the evenly distributed condition to memory constraints
+of the infants. Given that repetition of word-referent pairs seems to reduce memory
+load in resolving ambiguity across multiple trials, it is interesting to see whether
+school-age FL learners beneﬁt from such structuring and whether, in this less
+demanding cross-situational word learning task, FL learners’ memory capacity
+emerges as a contributor to accounting for their word mapping performance.
+
+Method
+
+Participants. The participants were 126 third-grade Mandarin-speaking students
+recruited from six classes of the same elementary school 2 years after Experiment
+1. Three were absent for testing, and thus the number of students in the two
+conditions was not equal (N = 63 for the interleaved condition, N = 60 for the
+repetitive condition). All the participants had permission for participation from
+parents. The mean age of the children was 8 years, 10 months. The two groups of
+participants did not differ in general receptive vocabulary of English measured by
+the Peabody Picture Vocabulary Test, t (121) = 0.21, p > .05.
+
+Learner variables. The measures of learner variables, including phonological
+awareness of L1 and FL and digit span, were identical to those used in Experiment
+1.
+
+Word mapping.
+
+STIMULI AND DESIGN. The target words, the manner of presentation, and the
+test procedure were identical to the noncontrastive condition of Experiment 1. The
+difference was in the manipulation of the sequence of the word-referent pairs. In the
+repetitive condition, two target words (e.g., A and D) appeared in three successive,
+adjacent trials (AB–AC–AD–BD–CD–CB) at some points during exposure. In the
+interleaved condition, no target words appeared in more than two successive trials
+(AB–CD–BD–AC–AD–CB). The ﬁrst trial and the last trial of the two conditions
+were made equal to control the potential primacy and recency effects in word
+mapping performance. In both conditions, the order of the labels and the positions
+of the referents within a trial were randomized so that the mapping between a
+word and its referent was uncertain in a single trial.
+
+Procedure. Like Experiment 1, participants were tested individually and were
+randomly assigned to condition. The procedure of the learning blocks and
+the referent selection test after each learning block were identical to those of
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+647
+
+Experiment 1. For each condition, there were four blocks of six learning trials.
+Each block was immediately followed by a referent selection test. After a 15-min
+delay, the participants took the referent selection test again. For each referent
+selection test, there were six test items, four target words, one familiar word, and
+one novel word just heard in the referent selection test.
+
+Results and discussion
+
+The descriptive statistics are shown in Table 1. Figure 3 displays mean accuracy
+scores in referent selection for each block in the interleaved and the repetitive
+conditions. The results for the target words are shown in the top panel (max
+= 4); those for the novel words ﬁrst heard in the referent selection tests in the
+bottom panel (max = 1). Children scored perfectly for the familiar words. With
+the exception of the ﬁrst block in the interleaved condition, t (62) = 1.67, p > .05,
+target referent selection for both conditions was signiﬁcantly above chance in all
+the immediate and the delayed tests (ps < .01). Nevertheless, as in Experiment
+1, there was a substantial portion of participants scoring zero after the ﬁrst block
+of exposure to the target words in the interleaved condition (38.1%) and in the
+repetitive condition (25.0%). See Table 2 for the percentages of learners that had
+100% or 0% accuracy for the immediate and delayed tests.
+Children’s scores in target referent selection were subject to a 2 × 4 ANOVA
+with learning condition (interleaved vs. repetitive) as a between-participants factor
+and block (1, 2, 3, 4) as a within-participants factor. The results revealed a signiﬁ-
+cant effect of block, F (3, 363) = 12.09, p < .001, partial η2 = 0.09. There were no
+effects of learning condition, F (1, 121) = 0.90, p > .05, or interaction, F (3, 354)
+= 1.20, p > .05. To examine whether children’s form-referent mapping dropped
+differentially in the delayed test, children’s performance in the last immediate test
+and the delayed test was subject to a 2 × 2 ANOVA with learning condition (in-
+terleaved vs. repetitive) as a between-participants factor and test (last immediate,
+delayed) as a within-participants factor. None of the effects were signiﬁcant (all
+ps > .05).
+
+To further understand whether consecutive presentation affected item-based
+mapping performance, scores obtained from each of the two words presented in
+three successive trials in the repetitive condition were analyzed by a 2×4 ANOVA
+with learning condition (interleaved vs. repetitive) as a between-participants fac-
+tor and block (1, 2, 3, 4) as a within-participants factor. The results revealed a
+signiﬁcant effect of block, F (3, 363) = 5.50, p = .001, partial η2 = 0.04 for the
+ﬁrst repeated word; F (3, 363) = 2.59, p = .05, partial η2 = 0.02 for the second
+repeated word. None of the effects involving learning condition were signiﬁcant
+(ps > .05).
+
+Another way to delve into the potential effect of temporal contiguity was to ex-
+amine whether words with varying degrees of successive repetitions were learned
+at different rates. Two words in the repetition condition were presented with three
+consecutive repetitions in each block, one with two repetitions and one with no
+consecutive repetitions. Scores for the four target words in the repetitive condition
+were subject to a 4× 4 ANOVA with number of repetition (ﬁrst three consecutive
+repetitions, second three consecutive repetitions, two consecutive repetitions, and
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+648
+
+Figure 3. Mean accuracy by the interleaved and the repetitive conditions for the (top) target
+words and (bottom) novel words. Error bars show standard errors.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+649
+
+Table 4. Intercorrelations of the principal variables for the repetitive and interleaved
+conditions collapsed together for Experiment 2
+
+Variable
+
+1. L1 phonological awareness
+2. FL phonological awareness
+3. Digit span
+4. Referent selection (immediate)
+5. Referent selection (delayed)
+
+1
+
+—
+
+.41***
+.13
+.19*
+.28**
+
+Note: L1, First language; FL, foreign language.
+*p < .05. **p < .01. ***p < .001.
+
+2
+
+3
+
+4
+
+5
+
+—
+
+.15
+.12
+.35***
+
+—
+.13
+.05
+
+—
+
+.62***
+
+—
+
+no repetitions) and block (1, 2, 3, 4) as within-participant factors. The results re-
+vealed a signiﬁcant effect of block, F (3, 177) = 7.84, p < .001, partial η2 = 0.12.
+The effect concerning the number of repetition was only marginally signiﬁcant,
+F (3, 177) = 2.47, p = .064. There was no interaction effect, F (9, 531) = 0.33,
+p > .05. Figure 4 displays the mean accuracy performance for words with varying
+degrees of consecutive repetitions in the repetitive condition. There is no indi-
+cation that words with varying degrees of successive repetitions in the repetition
+condition were learned at different rates.
+
+With respect to the novel words the participants just heard in the referent
+selection test, the two groups of participants demonstrated a fairly high rate of
+mapping accuracy (60%–70%) in the immediate tests, considering the presence
+of ﬁve unfamiliar and one familiar referents. The mapping accuracy for the novel
+word dropped slightly 15 min later in the delayed test, as shown in Figure 3. The
+results of a 2 × 5 ANOVA on the mapping performance of the novel words with
+learning condition (interleaved vs. repetitive) as a between-participants factor and
+test time (Blocks 1, 2, 3, 4 and delayed) as a within-participants factor revealed a
+signiﬁcant effect of test time, F (4, 484) = 3.4, p < .01, partial η2 = 0.03. Neither
+of the effects involving learning condition was signiﬁcant (ps > .05).
+
+Table 4 displays intercorrelations of the principal variables for the two learning
+conditions. Because none of the effects involving learning condition were sig-
+niﬁcant in the above analyses, scores obtained from the two learning conditions
+were collapsed and correlated with each other. As in Experiment 1, the scores
+for immediate referent selection were the scores summed over the four blocks of
+referent selection tests for the target words. Overall, the correlation pattern was
+similar to that in Experiment 1. Children’s referent selection was associated with
+L1 phonological awareness in the immediate tests (r = .19) and with both L1
+and FL phonological awareness in the delayed test (r = .28 and .35). Neither the
+immediate nor the delayed mapping performance was correlated with digit span.
+The results of Experiment 2 replicated the ﬁndings of Experiment 1, showing
+that despite difﬁculties encoding FL sound sequences, school-age FL learners
+acquired some word-referent association when the only clues to the association
+were the co-occurrence information across ambiguous situations. Presenting some
+word-referent pairs consecutively did not seem to facilitate word mapping to any
+
+Figure 4. Mean accuracy for words with varying degrees of consecutive repetitions in the repetitive condition. Error bars show
+standard errors.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+651
+
+degree in school-age FL learners. None of the effects involving learning condition
+were signiﬁcant whether the analyses were based on the target words as a whole,
+the individual target words repeated successively, or the still novel words in the
+referent selection tests.
+
+GENERAL DISCUSSION
+
+The present study extends earlier research on cross-situational word learning to
+school-age FL learners. Overall, the results of the two experiments reveal that like
+L1 adults and children, school-age FL learners are able to acquire word-referent
+mappings despite decoding difﬁculties and despite trial-by-trial ambiguity in the
+three cross-situational word learning conditions (one in Experiment 1 and two
+in Experiment 2). In both experiments, all the target words were referring FL
+words presented in FL utterances containing multiple nouns to better mimic the
+common practice FL learners were likely to encounter in nonostensive word
+learning situations. The school-age FL learners were able to map words at above-
+chance levels after experiencing a word three times, although from any one trial
+the referent was not inferable.
+
+Such learning appeared robust against decay in time, at least for short times.
+First, children’s mapping performance on the target words was still above the
+chance level in the delayed test taken 15 min after the last trial of learning in both
+experiments. Particularly in Experiment 1, the mapping performance in the cross-
+situational, noncontrastive condition did not decay to a larger extent than that in
+the more favorable, contrastive condition, where the participants could ascertain
+the referent of a target word in a single trial by resorting to lexical biases of mutual
+exclusivity (Markman & Wachtel, 1988) or novel name to nameless category
+(Golinkoff et al., 1992). Second, with respect to the novel words just heard in
+the referent selection test, the participants could map them onto their referents
+at a fairly high rate of accuracy not only after the very ﬁrst block of learning
+but also in the delayed test. To map a just-heard novel word to its referent in the
+presence of four other referents for the target words, the participants had to know
+that the word was not one of the target words and eliminate the target referents
+as a possible referent for the novel word (Horst, Scott, & Pollard, 2010). These
+results suggest that the participants had acquired some knowledge of the target
+words and their referents even though they failed in some one to one mappings
+and that the knowledge was durable 15 min after learning.
+
+Though school-age FL learners demonstrated robust learning despite trial-by-
+trial referential uncertainty, there was evidence that this uncertainty led to less
+reliable and slower learning when compared with a condition where the referent
+was deterministic in one trial. In Experiment 1, the major difference between the
+noncontrastive and the contrastive conditions was in whether referential ambiguity
+could be resolved in one single trial. FL learners performed consistently more
+inferiorly in the noncontrastive condition from the ﬁrst learning block till the
+delayed test than in the contrastive condition. In addition to the group-level results,
+the advantage of decreasing within-trial referential uncertainty was also evident
+when we looked at individual children’s performance. In the contrastive condition,
+only 8% of the participants failed to acquire any word-referent mapping after six
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+652
+
+trials of learning. However, 37% of the participants scored zero when the referent
+of a target word was not inferable in a single trial. Similarly in Experiment 2, there
+was a substantial portion of FL learners scoring zero after experiencing a block of
+cross-situational word learning (25%–38%).
+
+Although reducing referential ambiguity within a trial facilitated word-referent
+mapping in school-age FL learners, reducing trial-by-trial ambiguity did not fa-
+cilitate such learning. In Experiment 2, some word-referent pairs were repeated in
+successive trials. Theoretically, repetitive presentation of some word-referent pairs
+should have reduced trial-by-trial ambiguity and thus facilitated resolving map-
+ping ambiguity across time because it allowed participants to quickly strengthen
+the association that had just been correctly built or verify the hypothesis just made
+before anything already stored faded away. However, unlike the ﬁndings from adult
+L1 learners (e.g., Kachergis et al., 2009), there was no evidence in the immediate
+or the delayed tests that such manipulation beneﬁted FL learners in word mapping
+for the whole set of words or for the individual words presented in successive
+trials. To some extent, the null facilitative effect of repetitive presentation, coupled
+with the lack of correlation between mapping performance and digit span (to be
+discussed below), suggests that word mapping with trial-by-trial ambiguity is not
+a simple matter of rote memory process to young FL learners. The participants in
+the two conditions might have applied different approaches to resolving mapping
+to meaning ambiguity (Smith et al., 2011) even though the overall rate of success
+in the repetitive and the nonrepetitive (interleaved) conditions was similar. Future
+studies are needed to see whether successive repetition of some word-referent
+pairs enhances word mappings in more naturalistic contexts, for example, in the
+contexts where the words are the focus of a conversation or a story plot.
+
+The present study also contributed to our understanding of individual learner
+variables associated with FL cross-situational word learning. Unlike L1 learn-
+ers, FL learners experience another source of difﬁculty in mapping referentially
+ambiguous words, namely, in encoding and retaining FL words. A FL-sounding
+sequence is obscure along both the phonemic and the subphonemic dimensions
+at both segmental and suprasegmental levels. Consistent with the ﬁndings from
+previous research on the role of phonological awareness in FL word learning under
+ostensive instruction or in single ambiguous trials (de Jong et al., 2000; Hu, 2012;
+Hu & Schuele, 2005; McBride-Chang et al., 2006; Palladino & Ferrari, 2008), the
+results of the present study indicate that resolving FL mapping ambiguity across
+situations may rely on one’s sensitivity to the phonological composition of a spo-
+ken word. In the present study, FL learners with weaker phonological awareness
+demonstrated weaker mapping performance in the three cross-situational learn-
+ing conditions as well as in the contrastive condition, not only in the immediate
+tests but also in the delayed tests. FL learners with weak phonological awareness
+relative to their peers might have built some representations with underspeciﬁed
+segmental details or they might have encoded spoken words solely on the ba-
+sis of perceptual information without any segmental details. These impoverished
+representations were susceptible to disruption or degrading each time when their
+meanings were not yet resolved and when newer forms were added to the sys-
+tem. It is worth noting that in the present study, phonological awareness (whether
+measured in L1 or FL) is associated with target word mapping performance in
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+653
+
+both the immediate and the delayed tests. Thus, it seems that FL learners’ general
+sensitivity to the phonological structure of a language, as opposed to sensitivity
+to a speciﬁc language, contributes to encoding, representation, retention, and re-
+trieval of FL sound sequences over the course of resolving referential ambiguity.
+It is worth noting that the syllable structure of the children’s mother tongue, Man-
+darin Chinese, is relatively simple, containing only two coda consonants and no
+consonant clusters. Mandarin-speaking children may have particular difﬁculties
+encoding English word forms due to their limited insight into the phonological
+composition of words with complex syllable structure (Cheung, Chen, Lai, Wong,
+& Hills, 2001). Thus, future research may probe further into whether the pattern
+of the results in the present study is generalizable to other FL learners whose L1
+has relatively complex syllable structure.
+
+In contrast to phonological awareness, individual differences in memory span
+were not associated with word mapping performance in school-age FL learners.
+Caution should be taken to interpret the lack of correlations as the absence of
+memory processes in cross-situational word learning. The lack of correlations only
+suggests that FL learners with a longer memory span do not have an advantage in
+resolving referential ambiguity across trials. One reason for the lack of correlations
+may be the relatively small range of scores in the digit span. Digit span was used in
+the present study because unlike other memory tasks such as nonword repetition,
+which implicates phonological awareness and articulatory output skills (Metsala,
+1999; Snowling, Chiat, & Hulme, 1991), digit span is a relatively simple and pure
+measure of memory storage capacity. Another reason for the lack of correlations
+may be that the cross-situational learning in the present study was too demanding
+of attentional resources for school-age FL learners, leaving them with too few
+resources available to efﬁciently control for the multiple possible mappings in
+memory. As shown in Figure 2 and Figure 3, despite the small number of words
+to learn (four target word-referent pairs), children in the three cross-situational
+conditions learned no more than two target words in each block after experiencing
+six learning trials. In the present study, the referents of two newly heard forms
+were uncertain until children heard the words in a different trial, adjacent or not.
+When children could not determine the referents of the two forms in the ﬁrst
+encounter, they had to store and recall them in memory as meaningless sound-
+string representations and compare them with another new sound string whose
+reference was not yet determined either. Mapping words to meaningless pictures
+can be difﬁcult, even for adult learners (Cunillera, Laine, C`amara, & Rodr´ıguez-
+Fornells, 2010). It follows that retrieving, identifying, and distinguishing sound-
+string representations void of meaning might tax memory resources of young FL
+learners, rendering a lesser role of memory span in accounting for performance
+differences in word-referent mapping across trials.
+
+Alternatively, young FL learners might attend to one form at a time until its
+reference was determined or disconﬁrmed (Medina et al., 2011; Trueswell et al.,
+2013). They might not attend to multiple forms at a time because attending to
+multiple meaningless FL forms might be beyond their limits of processing. Young
+FL learners’ low capacity in retaining newly learned mappings was reﬂected
+by their performance in the contrastive condition. Children in the contrastive
+learning condition, on average, learned only two mappings after experiencing
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+654
+
+each word-referent pairing three times under a relatively low degree of referential
+uncertainty. If one form was attended at a time, success in such learning might
+rest on speciﬁcation of that form rather than the amount of information stored at
+a time. Obviously, the above interpretations on the role of memory span are only
+suggestive. Further research is needed to reveal the exact contribution of memory
+span to individual differences in cross-situational FL word learning.
+
+Limitations
+
+It is important to note that the results of the present study only reveal the extent
+to which FL learners resolve referential ambiguity in the moment of intensive
+exposure to multiple novel word-referent pairings. Longitudinal research will need
+to investigate whether the results hold for long-term learning. On the one hand,
+studies on adult L1 learners have shown that learning that is initially challenging
+(e.g., in a situation with a higher degree of referential ambiguity) may lead to better
+long-term retention (Fitneva & Christiansen, 2015; Vlach & Sandhofer, 2014). On
+the other hand, referential ambiguity may interact in a complex way with other
+cognitive and affect factors in FL acquisition such as ambiguity tolerance, anxiety,
+motivation, and learning styles as well as the long interval between exposures in
+FL acquisition settings.
+
+Conclusion
+
+The evidence from the current study suggests that although school-age FL learners
+are able to solve ambiguity across situations like L1 learners, their vocabulary
+learning may need to be guided in situations where referential uncertainty is
+high, particularly for learners with weak phonological awareness relative to their
+peers. When the short-term learning effect is considered, word mapping and
+word retention performance can be enhanced by reducing ambiguity within a
+single learning trial. Reducing the ambiguity of the system without reducing the
+ambiguity within a single trial is not as effective in facilitating word mapping and
+word retention in school-age FL learners.
+
+ACKNOWLEDGMENTS
+This study was supported by grants from the National Science Council (NSC101-2410-H-
+845-009-MY2) and the Ministry of Science and Technology of Taiwan, Republic of China
+(MOST103-2410-H-845-004-MY2).
+
+REFERENCES
+Au, T., & Glusman, M. (1990). The principle of mutual exclusivity in word learning: To honor or not
+
+to honor. Child Development, 61, 1474–1490.
+
+Carroll, D. W. (2008). Psychology of language (5th ed.). Belmont, CA: Thomson Wadsworth.
+Chen, X., Anderson, R. C., Li, W., Hao, M., Wu, X., & Shu, H. (2004). Phonological awareness of
+bilingual and monolingual Chinese children. Journal of Educational Psychology, 96, 142–151.
+Cheung, H., Chen, H. C., Lai, C. Y., Wong, O. C., & Hills, M. (2001). The development of phonological
+awareness: Effects of spoken language experience and orthography. Cognition, 81, 227–241.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+655
+
+Cunillera, T., Laine, M., C`amara, E., & Rodr´ıguez-Fornells, A. (2010). Bridging the gap between
+speech segmentation and word-to-world mappings: Evidence from an audiovisual statistical
+learning task. Journal of Memory and Language, 63, 295–305.
+
+Davidson, D., & Tell, D. (2005). Monolingual and bilingual children’s use of mutual exclusivity in the
+
+naming of whole objects. Journal of Experimental Child Psychology, 92, 25–45.
+
+de Jong, P. F., Seveke, M. J., & van Veen, M. (2000). Phonological sensitivity and the acquisition of
+
+new words in children. Journal of Experimental Child Psychology, 76, 275–301.
+
+de Marchena, A., Eigsti, I., Worek, A., Ono, K., & Snedeker, J. (2011). Mutual exclusivity in autism
+
+spectrum disorders: Testing the pragmatic hypothesis. Cognition, 119, 96–113.
+
+Ellis, N. C., & Ferreira, F., Jr. (2009). Constructional learning as a function of frequency, frequency
+
+distribution, and function. Modern Language Journal, 93, 370–386.
+
+Ely, C. M. (1989). Tolerance of ambiguity and use of second language learning strategies. Foreign
+
+Language Annals, 22, 437–445.
+
+Escudero, P., Mulak, K. E., & Vlach, H. A. (2015). Cross-situational learning of minimal word pairs.
+
+Cognitive Science. Advance online publication.
+
+Fitneva, S. A., & Christiansen, M. H. (2015). Developmental changes in cross-situational word learning:
+
+The inverse effect of initial accuracy. Cognitive Science. Advance online publication.
+
+Frank, M. C., Tenenbaum, J. B., & Fernald, A. (2013). Social and discourse contributions to the deter-
+mination of reference in cross-situational word learning. Language Learning and Development,
+9, 1–24.
+
+Goldberg, A., Casenhiser, D., & Sethuraman, N. (2004). Learning argument structure generalizations.
+
+Cognitive Linguistics, 15, 289–316.
+
+Golinkoff, R. M., Hirsh-Pasek, K., Bailey, L., & Wenger, N. (1992). Young children and adults use
+
+lexical principles to learn new nouns. Developmental Psychology, 28, 99–108.
+
+Golinkoff, R. M., Mervis, C., & Hirsh-Pasek, K. (1994). Early object labels: The case for lexical
+
+principles. Journal of Child Language, 21, 125–155.
+
+Horst, J. S., Scott, E. J., & Pollard, J. A. (2010). The role of competition in word learning via referent
+
+selection. Developmental Science, 13, 706–713.
+
+Hu, C. F. (2012). Fast-mapping and deliberate word-learning by EFL children. Modern Language
+
+Journal, 96, 439–453.
+
+Hu, C. F. (2013). Predictors of reading in children with Chinese as a ﬁrst Language: A developmental
+
+and cross-linguistic perspective. Reading and Writing, 26, 163–187.
+
+Hu, C. F. (2014). Extracting phonological patterns for L2 word learning: The effect of poor L1
+
+phonological awareness. Journal of Psycholinguistic Research, 43, 569–585.
+
+Hu, C. F., & Schuele, C. M. (2005). Learning nonnative names: The effect of poor native phonological
+
+awareness. Applied Psycholinguistics, 26, 343–362.
+
+Kachergis, G., Yu, C., & Shiffrin, R. M. (2009). Temporal contiguity in cross-situational statistical
+learning. In N. Taatgen, H. Van Rijn, J. Nerbonne, & L. Schomaker (Eds.), Proceedings of the
+31st Annual Meeting of the Cognitive Science Society (pp. 1704–1709). Austin, TX: Cognitive
+Science Society.
+
+Kachergis, G., Yu, C., & Shiffrin, R. M. (2013). Actively learning object names across ambiguous
+
+situations. Topics in Cognitive Science, 5, 200–213.
+
+Kan, P., & Kohnert, K. (2008). Fast mapping by bilingual preschool children. Journal of Child
+
+Language, 35, 495–514.
+
+Markman, E. M., & Wachtel, G. A. (1988). Children’s use of mutual exclusivity to constrain the
+
+meanings of words. Cognitive Psychology, 20, 121–157.
+
+McBride-Chang, C., Cheung, H., Chow, B. Y., Chow, C. L., & Choi, L. (2006). Metalinguistic skills and
+vocabulary knowledge in Chinese (L1) and English (L2). Reading and Writing, 19, 695–716.
+McDonough, K., & Nekrasova-Becker, T. (2012). Comparing the effect of repetitive and interleaved
+input on English as foreign language learners’ comprehension of the double-object dative
+construction. Applied Psycholinguistics, 24, 1–24.
+
+Applied Psycholinguistics 38:3
+Hu: Resolving referential ambiguity
+
+656
+
+Medina, T. N., Snedeker, J., Trueswell, J. C., & Gleitman, L. R. (2011). How words can and cannot be
+
+learned by observation. Proceedings of the National Academy of Sciences, 108, 9014–9019.
+
+Merriman, W. E., & Bowman, L. L. (1989). The mutual exclusivity bias in children’s word learning.
+Monographs of the Society for Research in Child Development, 54(3–4, Serial No. 220), 1–132.
+Metsala, J. L. (1999). Young children’s phonological awareness and nonword repetition as a function
+
+of vocabulary development. Journal of Educational Psychology, 91, 3–19.
+
+Newman, E. H., Tardif, T., Huang, J., & Shu, H. (2011). Phonemes matter: The role of phoneme-
+level awareness in emergent Chinese readers. Journal of Experimental Child Psychology, 108,
+242–259.
+
+Palladino, P., & Ferrari, M. (2008). Phonological sensitivity and memory in children with a foreign
+
+language learning difﬁculty. Memory, 16, 604–625.
+
+Perrachione, T. K., Lee, J., Ha, L. Y., & Wong, P. C. (2011). Learning a novel phonological contrast
+depends on interactions between individual differences and training paradigm design. Journal
+of the Acoustical Society of America, 130, 461–472.
+
+Scott, R. M., & Fisher, C. (2012). 2.5-year-olds use cross-situational consistency to learn verbs under
+
+referential ambiguity. Cognition, 122, 163–180.
+
+Smith, K., Smith, A. D. M., & Blythe, R. A. (2011). Cross-situational learning: An experimental study
+
+of word-learning mechanisms. Cognitive Science, 35, 480–498.
+
+Smith, L. B., & Yu, C. (2008). Infants rapidly learn word-referent mappings via cross-situational
+
+statistics. Cognition, 106, 1558–1568.
+
+Snowling, M., Chiat, S., & Hulme, C. (1991). Words, nonwords, and phonological processes: Some
+comments on Gathercole, Willis, Emslie, and Baddeley. Applied Psycholinguistics, 12, 369–
+373.
+
+Suanda, S. H., Mugwanya, N., & Namy, L. L. (2014). Cross-situational statistical word learning in
+
+young children. Journal of Experimental Child Psychology, 126, 395–411.
+
+Trueswell, J. C., Medina, T. N., Hafri, A., & Gleitman, L. R. (2013). Propose but verify: Fast mapping
+
+meets cross-situational word learning. Cognitive Psychology, 66, 126–156.
+
+Vlach, H. A., & Johnson, S. P. (2013). Memory constraints on infants’ cross-situational statistical
+
+learning. Cognition, 127, 375–382.
+
+Vlach, H. A., & Sandhofer, C. M. (2010). Desirable difﬁculties in cross-situational word learning.
+In S. Ohlsson & R. Catrambone (Eds.), Proceedings of the 32nd Annual Conference of the
+Cognitive Science Society (pp. 2470–2475). Portland, OR: Cognitive Science Society.
+
+Vlach, H. A., & Sandhofer, C. M. (2014). Retrieval dynamics and retention in cross-situational word
+
+learning. Cognitive Science, 38, 757–774.
+
+Vouloumanos, A. (2008). Fine-grained sensitivity to statistical information in adult word learning.
+
+Cognition, 107, 729–742.
+
+Wang, M., Perfetti, C. A., & Liu, Y. (2005). Chinese–English biliteracy acquisition: Cross-language
+
+and writing system transfer. Cognition, 97, 67–88.
+
+White, L. (1987). Against comprehensible input: The input hypothesis and the development of L2
+
+competence. Applied Linguistics, 8, 95–110.
+
+Wilkinson, K. M. & Mazzitelli, K. (2003). The effect of “missing” information on children’s retention
+
+of fast-mapped labels. Journal of Child Language, 30, 47–73.
+
+Yu, C., & Smith, L. B. (2007). Rapid word learning under uncertainty via cross-situational statistics.
+
+Psychological Science, 18, 414–420.
+
+Yu, C., & Smith, L. B. (2011). What you learn is what you see: Using eye movements to study infant
+
+cross-situational word learning. Developmental Science, 14, 165–180.
+
+Yurovsky, D., Yu, C., & Smith, L. B. (2013). Competitive processes in cross-situational word learning.
+
+Cognitive Science, 37, 891–921.
+
+Ziegler, J. C., Bertrand, D., T´oth, D., Cs´epe, V., Reis, A., Fa´ısca, L., & Blomert, L. (2010). Ortho-
+graphic depth and its impact on universal predictors of reading a cross-language investigation.
+Psychological Science, 21, 551–559.
+
+

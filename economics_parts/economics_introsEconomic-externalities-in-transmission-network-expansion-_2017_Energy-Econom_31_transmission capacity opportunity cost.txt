@@ -1,0 +1,51 @@
+
+The Transmission Network Expansion Planning Problem (TNEPP)
+is a classical problem in power electrical engineering and basically
+the problem consists in ﬁnding new transmission lines for an adequate operation over a planning horizon.  Traditionally, the problem
+was solved as a separate problem from the generation planning
+problem1, even though in the early days most electrical systems
+operated with a vertical structure and there was a central planner that somehow gave the conditions to coordinate the investment
+decisions in transmission and generation. 
+At the end of the 1970s competition was introduced in several
+electric utilities2.  In this competitive setting, no central planner is
+in charge of investments.  Instead, ﬁrst, generation companies decide
+their new capacity in function of their expected beneﬁts in the market. 
+Then, the transmission company decides the transmission capacity
+needed to transmit the energy from the new generators.  In mathematical terms, this interaction can be modeled by multilevel optimization
+problems.  In the specialized literature several multilevel models have
+been proposed.  an important remark is that the models implicitly assume that the opportunity cost of transmission capacity is
+determined by the price difference at the line endpoints 4. 
+This paper recognizes that the opportunity cost of transmission
+capacity not only depends on the difference of marginal costs at line
+endpoints, but also on the location of new generators.  Due to this,
+economic externalities arise when investment decisions are decentralized, so that the decentralized result does not lead to a Pareto
+optimal solution. 
+A good example of externalities in real power systems is the
+Peruvian case.  Before 2014, the Peruvian network consisted of two
+large areas (North and South) connected through a long transmission line (220 kV, 612 km).  The Southern area imports electricity
+from the North.  Moreover, the South has a large source of gas known
+as Camisea Gas and a gas pipeline was built in 2004 in order to
+deliver gas to the North.  After the entrance of the pipeline, many
+generation companies decided to invest in new capacity only in the
+North.  however, electricity demand in the South grew and no generation capacity was built there.  Due to this, a new transmission line
+(500 kV, 1000 km) between the North and South was placed in service in the year 2014.  Moreover, another line (500 kV, 1000 km)
+between the North and South is been constructed and will be placed
+in service by the year 2017.  Badly placed generators introduced
+negative externalities in the transmission planning.  Obviously, if
+generation companies had invested in the South, no transmission
+lines would have been needed. 
+In this context, we discuss how separating generation expansion
+from transmission planning can cause negative externalities to the
+transmission planning problem.  The organization of the paper is as
+follows.  in Section 2, we discuss how externalities can affect the
+TNEPP using a basic model.  in Section 3, we formulate a centralized
+multistage model for ﬁnding simultaneous optimal generation and
+transmission capacity.  The model is based on previous work of van
+der Weijde and Hobbs (2012) and O’Neill Name (2013).  The main purpose of the model is to show examples of externalities.  In Section 4,
+we present case studies for the 24-bus test system and the Peruvian
+system.  Finally, in Section 5 we present the conclusions of the article. 
+2.  A discussion about transmission capacity opportunity cost
+and externalities. 
+Some articles5 implicitly assume that the opportunity cost of
+transmission capacity is determined only by the price difference at
+the line endpoints. 

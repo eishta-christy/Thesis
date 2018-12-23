@@ -1,0 +1,88 @@
+Novel Microbial Diversity and Functional Potential in
+the Marine Mammal Oral MicrobiomeHighlights
+d Genomes were recovered from dolphin-associated
+candidate phyla bacteria
+d Two new bacterial phyla were deﬁned (C.  Delphibacteria and
+C.  Fertabacteria)
+d C.  Delphibacteria is common in the dolphin mouth and may
+affect host physiology
+d Novel functional diversity was identiﬁed, including unusual
+CRISPR-Cas9 systemsNatasha K.  Dudek, Christine L.  Sun,
+David Burstein, . . . , Brian C.  Thomas,
+Jillian F.  Banﬁeld, David A.  Relman
+Correspondence
+relman@stanford. edu
+In Brief
+Dudek Name reconstruct genomes from
+previously uncharacterized microbes
+living in the dolphin mouth.  Three of these
+genomes represent two new phyla, and
+22 come from members of nine relatively
+unexplored candidate phyla.  Novel
+taxonomic diversity in the community is
+accompanied by novel functional
+diversity, such as unusual CRISPR-Cas9
+systems. 
+Dudek Name, 2017, Current Biology 27, 3752–3762
+December 18, 2017 Published by Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 040
+Current BiologyNovel Microbial Diversity and Functional Potential
+in the Marine Mammal Oral Microbiome
+Natasha K.  Dudek,1 Christine L.  Sun,2,3 David Burstein,4 Rose S.  Kantor,5 Daniela S.  Aliaga Goltsman,2,3
+Elisabeth M.  Bik,2,8 Brian C.  Thomas,4 Jillian F.  Banﬁeld,4,6 and David A.  Relman2,3,7,9,*
+1Department of Ecology and Evolutionary Biology, University of California, Santa Cruz, Santa Cruz, CA 95064, USA
+2Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA
+3Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA
+4Department of Earth and Planetary Science, University of California, Berkeley, Berkeley, CA 94720, USA
+5Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA 94720, USA
+6Earth and Environmental Science, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA
+7Veterans Affairs Palo Alto Health Care System, Palo Alto, CA 94304, USA
+8Present address: uBiome, San Francisco, CA 94105, USA
+9Lead Contact
+*Correspondence: relman@stanford. edu
+https://doi. org/10. 1016/j. cub. 2017. 10. 040The vast majority of bacterial diversity lies within
+phylum-level
+lineages called ‘‘candidate phyla,’’
+which lack isolated representatives and are poorly
+understood.  These bacteria are surprisingly abundant in the oral cavity of marine mammals.  We employed a genome-resolved metagenomic approach
+to recover and characterize genomes and functional
+potential from microbes in the oral gingival sulcus of
+two bottlenose dolphins (Tursiops truncatus).  We detected organisms from 24 known bacterial phyla and
+one archaeal phylum.  We also recovered genomes
+from two deep-branching, previously uncharacterized phylum-level lineages (here named ‘‘Candidatus
+Delphibacteria’’ and ‘‘Candidatus Fertabacteria’’). 
+The Delphibacteria lineage is found in both managed
+and wild dolphins; its metabolic proﬁle suggests
+a capacity for denitriﬁcation and a possible role in
+dolphin health.  We uncovered a rich diversity of predicted Cas9 proteins, including the two longest predicted Cas9 proteins to date.  Notably, we identiﬁed
+the ﬁrst type II CRISPR-Cas systems encoded by
+members of the Candidate Phyla Radiation.  Using
+their spacer sequences, we subsequently identiﬁed
+and assembled a complete Saccharibacteria phage
+genome.  These ﬁndings underscore the immense
+microbial diversity and functional potential that await
+discovery in previously unexplored environments. 
+INTRODUCTION
+The vast majority of bacterial diversity is found within phylumlevel
+lineages that lack isolated representatives [1], commonly
+referred to as ‘‘candidate phyla. ’’ Candidate phyla constitute at
+least 103 out of approximately 142 widely recognized bacterial
+phyla for which there is genomic representation [1–3]; 46% of
+known bacterial phyla are clustered in the Candidate Phyla Radiation (CPR).  However, there remain many phylum-level bacterial
+lineages that have no genomic representation and are not yet
+formally recognized [4].  Genome-resolved metagenomic studies
+offer unique and unprecedented insights into the biology of these
+uncultured, poorly understood lineages and their biochemical
+diversity [3–8].  In addition to revealing the environmentally and
+economically important roles played by such bacteria, these
+studies contribute greatly to our understanding of the distribution
+of lifestyles across the tree of life.  For example, genomes from
+members of the CPR suggest that they are metabolically sparse
+and lack many biosynthetic pathways typically required for life,
+presumably because these organisms are dependent on other
+microbes for survival
+[6, 9].  Candidate phyla genomes may
+also reveal novel functional diversity, as phylogenetic diversity
+is correlated with novel proteomic diversity and biological properties [10, 11]. 
+Marine mammals are an ecologically important group of
+animals harboring little-explored microbial communities. 

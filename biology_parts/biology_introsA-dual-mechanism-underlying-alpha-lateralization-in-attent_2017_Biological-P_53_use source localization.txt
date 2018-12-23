@@ -1,0 +1,106 @@
+
+The visual system has limited processing capacity, so simultaneous
+stimuli present in the visual ﬁeld mutually suppress their evoked activity in the visual cortex.  Competition between stimuli can be resolved
+by top-down mechanisms, such as selective attention, or by bottom-up
+stimulus-driven mechanisms, such as saliency.  Selective attention to the
+behavioral relevant stimuli is considered a top-down process, in which
+high-level processing areas in the prefrontal and posterior parietal
+cortices, exert a biasing signal towards the visual regions processing the
+relevant items (Miller & D’Esposito, 2005).  As a consequence, sensory
+regions show increased activity for the relevant vs the irrelevant items
+(Armstrong, Fitzgerald, & Moore, 2006; Buﬀalo, Fries, Landman,
+Liang, & Desimone, 2010), making stimulus processing more accurate
+(Richter, Thompson, Bosman, & Fries, 2017).  Neural synchrony seems
+to be a key mechanism to enhance neural representation of the attended
+sensory input.  Several models postulate that gamma and alpha band
+oscillations play a pivotal role in top-down processes such as selective
+attention, with antagonist roles (Fries, Reynolds, Rorie, & Desimone,2008;
+Oostenveld, & Desimone,Womelsdorf,
+inhibition of
+Jensen & Mazaheri, 2010; Klimesch Name, 2007; Womelsdorf, Fries,
+Mitra, & Desimone, 2006).  Whereas gamma synchronization represents
+a high excitability state of the underlying neural population (Fries Name,
+2001), and is thus associated with processing of information; alpha
+synchronization represents a state of low excitability and has been associated with the functional
+task-irrelevant regions
+(Jensen & Mazaheri, 2010).  In this line, alpha modulation in visual
+areas represents an anticipatory visuospatial attention correlate.  Some
+experiments have found an alpha power increase (or alpha synchronization) ipsilateral to the attended hemiﬁeld related to the suppression
+of unattended neural representations (Kelly, Lalor, Reilly, & Foxe, 2006;
+Rihs, Michel, & Thut, 2007;Worden, Foxe, Wang, & Simpson, 2000),
+whereas others have found an alpha power decrease (or desynchronization) contralateral
+to the attended hemiﬁeld (Kelly, GomezRamirez, & Foxe, 2009; Sauseng Name, 2005; Yamagishi, Goda, Callan,
+Anderson, & Kawato, 2005) linked to enhancement of neural excitability in cortical areas processing the attended stimulus. 
+Like visuospatial attention, working memory (WM) has capacity
+⁎ Corresponding author. 
+E-mail address: pablo. campo@uam. es (P.  Campo). 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 015
+Received 8 March 2017; Received in revised form 17 July 2017; Accepted 18 July 2017
+Available online 23 July 2017
+0301-0511/ 
+C.  Poch Name
+Biological Psychology 128 (2017) 63–70
+restrictions, in which only limited amount of information can be represented during a short interval.  Top-down mechanisms have been
+shown to operate during the maintenance interval to optimize WM
+performance (Griﬃn & Nobre, 2003; Lepsien & Nobre, 2007).  Additionally, recent theoretical conceptualizations highlight the ﬂexible
+nature of memory representations, which are maintained in diﬀerent
+accessibility states and the allocation of attention can move them into a
+high prioritized state (Lewis-Peacock & Postle, 2012; LaRocque, LewisPeacock, Drysdale, Oberauer, & Postle, 2013; Zokaei, Manohar,
+Husain, & Feredoes, 2013, Zokaei, Ning, Manohar, Feredoes, & Husain,
+2014; Heuer & Schubö, 2016a).  An eﬃcient experimental strategy to
+study the beneﬁt of orienting attention to representations already held
+in WM is presenting a spatial cue during the retention period indicating
+which item is likely to be probed.  This is widely known as the retro-cue
+paradigm, because the cue is provided after the memory set is encoded. 
+The use of this paradigm has demonstrated that orienting attention to
+perceptual representation, this is, before encoding, and orienting attention to memory representation, this is, after encoding, exhibit a similar behavioral beneﬁt (Griﬃn & Nobre, 2003; Myers, Walther, Wallis,
+Stokes, & Nobre, 2015).  In addition, both processes elicit a similar
+modulation of evoked visual activity (Griﬃn & Nobre, 2003).  These
+results suggest that a common set of attentional control (i. e.  top-down)
+mechanisms can be used in both cognitive contexts, this is, when selecting items in the outside world, and when selecting items among
+internal representations (i. e. , WM).  While there is abundant research
+about the patterns of neural oscillatory activity underlying attentional
+processes in the perceptual domain, the modulation of oscillatory activity by the retro-cue has been much less studied. 
+Similarly to orienting attention to the perceptual space, retro-cue
+experiments also ﬁnd an alpha modulation related to orienting attention to memory representations (Nobre, Gitelman, Dias, & Mesulam,
+2000; Kastner & Ungerleider, 2001; Poch, Campo, & Barnes, 2014;
+Wallis, Stokes, Cousijn, Woolrich, & Nobre, 2015; Mok, Myers,
+Wallis, & Nobre, 2016; Schneider, Mertes, & Wascher, 2016).  However,
+contrary to the much studied phenomenon in perception, the characteristics of alpha modulations in WM are still under examination. 
+Visuospatial attention experiments have proven useful to disentangle the neural generators of alpha modulation in order to determine
+its functionality.  A recent MEG study found two dissociated generators
+of alpha activity related to diﬀerent attentional mechanisms (Capilla,
+Schoﬀelen, Paterson, Thut, & Gross, 2014).  While alpha ipsilateral increases arised from the dorsal stream to support attentional shifts,
+contralateral alpha suppression in the ventral occipital cortex was related to feature processing.  This dissociation would be of great relevance in WM as it could provide further understanding of sensory
+recruitment proposals which posit that maintenance of information is
+accomplished by sensory cortices (Postle, 2006; Serences, Ester,
+Vogel, & Awh, 2009). 
+Whether item prioritization needs sustained attention to encoded
+information or not is matter of debate.  Some authors have argued that
+retro-cue guides attention to the relevant item, and that it stays under
+focal attention until probe presentation (Makovsik & Jiang, 2007;
+Matsukura, Luck, & Vecera, 2007; Makovski, Sussman, & Jiang, 2008;
+Pertzov, Bays, Joseph, & Husain, 2013).  However, other authors have
+found that sustained attention is not needed for the beneﬁt of the retro
+cue (Hollingworth & Maxcey-Richard, 2013; Rerko, Souza, & Oberauer,
+2014).  Convergently, electrophysiological experiments have found a
+transient alpha lateralization related to attentional orienting (Mok
+Name, 2016; Myers Name, 2015; Wallis Name, 2015).  In this line, it has
+been proposed that transient alpha desynchronization is an index of
+access to memory representation and, once a representation is accessed,
+a change in the representational state takes place and alpha modulation
+is no longer needed (Wolﬀ, Jochim, Akyürek, & Stokes, 2017). 
+Behavioural studies have found divergent results about the extent of
+the retro-cue beneﬁt.  Some authors reported that retrocue beneﬁts are
+observed only for one single item (Makovsik & Jiang, 2007), whileothers have found that is possible to retrospectively orient attention to
+more than one (Heuer & Schubö, 2016b).  Electrophysiological retro-cue
+studies have mainly explored the eﬀects of retro-cueing one item
+(Griﬃn & Nobre, 2003; Myers, Stokes, & Nobre, 2017; Schneider Name,
+2016).  To our knowledge, the only electrophysiological work manipulating retro-cued load found that alpha power was modulated by relevant cued information (Manza, Hau, & Leung, 2014).  However, this
+study used bilateral arrays, so it did not address alpha lateralization
+diﬀerences related to selecting varying amounts of items. 
+In the present study we use a retro-cue paradigm with three conditions, one-cue, two-cue, and neutral-cue.  We explore the dynamics of
+alpha band activity related to the retro-cue and use source localization
+to address the issues previously exposed.  We hypothesized that according to a current theory of item prioritization (Myers Name, 2017),
+alpha desynchronization would transiently emerge from areas coding
+sensory information. 

@@ -1,0 +1,365 @@
+
+This paper examines whether the quality of mergers and acquisitions (M&As) is higher when the acquiring firm and
+target firm share the same external auditor. 1 Our intuition is that the acquisition process often involves considerable
+uncertainty, including information asymmetry between bidders and targets regarding their operations, financial health, risk
+and prospects as well as uncertainty related to post-acquisition operational synergies.  This uncertainty can negatively
+impact M&A quality by reducing managers' ability to identify the most profitable investment projects (Goodman Name,
+2014).  We argue that when an acquirer and target share a common auditor, the auditor can help reduce uncertainty along
+several dimensions. 
+First, auditors accumulate a considerable amount of information about their clients through conducting their audit
+procedures and through informal discussions with top management, allowing them to be helpful as information
+intermediaries both before the M&A (e. g. , identifying potential merger counterparties and assisting with due diligence) and
+after the M&A (e. g. , integrating accounting systems and internal controls). 
+Second, since each audit firm has its own unique style of interpreting and implementing accounting rules (Kothari Name,
+2010), firms represented by a common auditor are likely to have more comparable financial statements (Francis Name, 2014),
+which leads to a reduction in uncertainty (De Franco Name, 2011).  That is, a merging firm can better understand the
+assumptions and choices underlying accounting numbers in financial statements from other firms that share the same
+auditor.  In turn, this leads to a better understanding (i. e. , reduced uncertainty) of those firms' economics, as compared to
+those of firms using different auditors. 
+Finally, common auditors may be more likely to limit misreporting that asymmetrically benefits one party over the other. 
+Prior research indicates that acquirers (Louis, 2004; Gong Name, 2008) and targets (Anilowski Name, 2009) manage earnings
+before M&As.  Thus, auditors that audit both the acquirer and target face greater litigation risk, as the common auditor may
+be sued for earnings management undertaken by either party.  Moreover, common auditors likely face greater scrutiny by
+stakeholders, given the potential for conflicts of interest.  As Agrawal Name (2013) show, deals with common M&A advisors
+attract securities class action lawsuits with greater frequency than deals with separate advisors.  Thus, a common auditor has
+arguably higher incentives to limit misreporting ex ante, leading to reduced uncertainty regarding the accuracy of the
+reported numbers.  By reducing uncertainty during the M&A process, common auditors can help firms allocate capital more
+efficiently, resulting in higher quality acquisitions. 
+To test whether common auditors are associated with higher quality M&As, we use a sample of 1971 U. S.  acquisitions
+between 1988 and 2010, where both the acquirer and the target are public firms and the acquirer obtains complete control
+of the target after the acquisition.  To capture M&A quality, we use the acquisition announcement return following a large
+body of research (e. g. , Asquith Name, 1983; Bradley Name, 1988; Cai and Sevilir, 2012; Agrawal Name, 2013; Goodman Name,We find that M&As involving firms with a common auditor are of higher quality than M&As involving firms with
+different auditors. 2 Further, we test and find that the common-auditor effect is stronger when there is greater preacquisition uncertainty, proxied by targets with higher growth, more volatility, greater research and development (R&D)
+intensity, and larger bid–ask spreads.  Our results are robust to the inclusion of numerous control variables for auditor, firm
+and deal characteristics, the merging firms' previous business relationships and geographical proximity, the existence of
+shared M&A advisors and/or directors, and additional testing to address endogeneity concerns related to auditor selection. 
+Collectively, these results are consistent with common auditors reducing uncertainty during the M&A process, which leads
+to higher quality M&As. 
+To get a sense of the economic magnitude of the common auditor effect, consider that the announcement period
+abnormal returns are 1. 064% points higher in common-auditor deals than those in non-common-auditor deals.  Given that
+the average market capitalization of an acquirer (target) in our sample is $8. 99 billion ($870 million), this difference in
+announcement returns translates into an increase in the combined firm's market capitalization of $104. 9 million. 3
+We then examine the three mechanisms (discussed above) through which common auditors reduce M&A uncertainty:
+(1) discussions with the M&A parties, (2) financial statement comparability, and (3) limited misreporting.  With respect to
+the first mechanism, we employ two different empirical approaches.  First, we show that the common-auditor effect is larger
+when the acquirer and target use the same local office of the common auditor, as the auditor can more easily facilitate
+discussions between these clients if they are all in the same location.  Second, we show that there is an increased probability
+of an M&A for firms with a common auditor, as the auditor can both better match clients interested in engaging in M&A
+deals and reduce uncertainties throughout the process that might otherwise derail the deal. 
+To explore the second mechanism, i. e. , financial statement comparability, we examine whether firms in common-auditor
+deals have more comparable financial statements than do firms in non-common-auditor deals.  Using differences in yearspecific total accruals (Francis Name, 2014) and the covariance of earnings across time (Barth Name, 2012; De Franco Name,
+2011; Lang Name, 2010) as proxies for comparability, we find that acquirers and targets with common auditors have more
+comparable financial statements than do those with different auditors. 
+We also find less misreporting for common-auditor mergers, the third mechanism, using performance-matched
+abnormal accruals (Kothari Name, 2005) and financial statement restatements (Bens Name, 2012) as proxies for misreporting. 
+Combined, these results support our inferences that common auditors reduce uncertainty in the M&A process by improving
+(public and private) communication channels. 
+Finally, we examine whether the common-auditor effect is mitigated after the Sarbanes–Oxley Act (SOX).  Section 201 of
+SOX prohibits auditors from engaging in non-audit services, such as M&A advisory and consulting services.  To the extent
+auditors were engaged in non-audit services before SOX and common auditors used these services to help their clients
+engage in better acquisitions, the common-auditor effect should be mitigated post-SOX.  However, we find that the
+common-auditor effect remains after SOX.  This result suggests that the role of common auditors in reducing uncertainty is
+unlikely driven by non-audit function communications. 
+An important caveat to our findings is that, despite all our empirical analyses, discussions between auditors and their
+clients are unobservable.  Thus, we cannot directly speak to the amount or type of information provided by common auditors
+during M&As.  Given that American Institute of Certified Public Accountants (AICPA) Rule 301 prohibits disclosure of
+confidential
+information without consent from the client, if auditor discussions do indeed contain relevant private
+information, it should be approved by the appropriate parties; that said, we recognize that there is potential for conflicts
+of interest to arise.  We leave this for future research and regulators to determine. 4
+Our study makes several important contributions.  First, we add to the literature that examines the role of auditors in
+M&As.  Prior studies generally examine the roles of acquirer auditors and target auditors separately.  For example, Louis
+(2005) studies the role of acquirer auditors in M&A transactions and finds higher acquisition announcement returns for nonBig 4 firms, while other studies find that targets with Big 4 auditors are more likely to get acquired (Xie Name, 2013) and have
+greater acquisition synergy and higher acquirer announcement returns (Golubov Name, 2012).  In this study, we consider both
+acquirer auditors and target auditors in examining how sharing an auditor influences acquisition performance, providing
+new insights into the role of auditors in M&As. 
+Second, our paper contributes to the emerging literature on the real effects of accounting and auditing.  In particular,
+prior research finds that accounting information facilitates more efficient corporate investment by reducing agency
+problems caused by information asymmetry (e. g. , Biddle Name, 2009; Biddle and Hilary, 2006), by providing peer firms with
+more information (e. g. , Badertscher Name, 2013), and by providing information to managers within the firm (Shroff, 2014;
+McNichols and Stubben, 2008).  In addition, Kausar Name (2014) show that firms' choice to obtain an audit helps lower
+information asymmetry and leads to more efficient investment.  We contribute to this line of research by showing that
+common auditors reduce uncertainty in the M&A process, and thus improve M&A quality. 
+Third, we contribute to the large literature examining the effect of sharing an agent on economic outcomes.  For example,
+the economics literature analyzes the use of a common agent as a way for competitors to achieve implicit collusion (e. g. ,
+Bernheim and Whinston, 1985; Gal-Or, 1985, 1986; Vives, 1990).  In this setting, a common agent behaves passively and
+information transfers among competitors can be widely observed.  In contrast, Villas-Boas (1994) and Gardiner Name (2007)
+consider a setting where a common agent can act strategically, and examine conflicts that arise from sharing the same
+advertising agency and sharing the same real estate agent.  More closely related to our study, Agrawal Name (2013) examine
+the role of common investment bank advisors in M&As, and find that such deals are somewhat better for acquirers than they
+are for targets.  Similarly, Cai and Sevilir (2012) find that board connections favor the acquirer, but the manner of benefit is a
+function of the type of board connection.  We contribute to this literature by providing evidence on the impact of sharing an
+auditor on M&A outcomes as well as the mechanisms through which these outcomes manifest. 
+Finally, our study complements concurrent work by Dhaliwal Name (2015), who also examine the role of common
+auditors in M&A transactions.  Our study delves into the mechanisms through which common auditors affect M&A
+outcomes.  We find evidence consistent with the common auditor resolving information uncertainty between the parties in
+the transaction.  Dhaliwal Name (2015) examine whether one party reaps greater benefits from the deals and find evidence
+consistent with the acquirer capturing the benefits, as indicated by higher acquirer event returns.  In addition, Dhaliwal Name's study suggests that target firm shareholders may be worse off because target event returns and deal premiums are
+lower.  While Dhaliwal Name's wealth transfer result is certainly interesting, we find that the overall combined
+announcement return is positive.  We caution, however, that the studies use somewhat different samples and tests, and
+thus the results cannot be fully interpreted together.  We leave it to future research to further examine the various aspects
+and consequences of a common auditor in M&A transactions. 
+The rest of this paper is organized as follows.  In Section 2, we discuss the M&A process as well as how a common auditor
+can help reduce uncertainties in that process.  Section 3 describes the sample selection process, and Section 4 details the
+research design and empirical results.  We present additional analyses in Section 5 and conclude in Section 6. 
+2.  Motivation
+Mergers and acquisitions represent significant corporate events that involve a thorough and dynamic process that can
+vary from several months to several years to complete.  In general, the M&A process starts with the identification of potential
+target candidates, which is a function of the firm's strategic objectives and requires some preliminary screening of the
+candidates.  After a candidate is chosen, the firm engages in a lengthy due diligence process, which includes developing an
+extensive understanding of the target value as a stand-alone business as well as the value of potential synergies (Copeland
+Name, 2000).  As GE Capital (2012) indicates,
+“Due diligence is not a courtship, a negotiation, or an inquisition; it's a fact-finding mission…[y]our business review of
+the target becomes a true audit, aimed at gaining a thorough understanding of the target's operations, assets,
+liabilities, and outlook.  Your due diligence team will be looking to confirm the target's representations, validate its
+valuation, probe any legal, regulatory and compliance concerns, and affirm expected synergies and integration plans. ”
+After obtaining considerable information through the due diligence phase, negotiations begin between the acquirer and target
+regarding the acquisition price, the deal structure, etc.  When the negotiations are done and the deal is complete, the firms enter the
+final phase—the integration of the two firms.  There are numerous factors for the acquiring firm to consider during the integration
+phase, such as the development and articulation of the vision for the new entity to employees and other stakeholders, legal and tax
+issues, human resource issues (e. g. , employee retention/severance), and fixed asset allocations.  Further, underlying all of these
+factors is the integration of the accounting information systems to capture these economic changes. 
+As becomes apparent through the above discussion of the M&A process, each phase contains significant uncertainty. 
+From identifying merger partners to conducting due diligence to valuing and negotiating the deal to post-M&A integration,
+managers face uncertainty throughout the process and its negative impact on firm value.  In particular, extant research
+indicates that uncertainty negatively affects acquirer announcement returns and post-acquisition performance (McNichols
+and Stubben, 2015; Erickson Name, 2012) and that having more firm-specific target information helps improve acquirer
+returns and the expected value of combined firms (Martin and Shalev, 2009).  Given that M&As are typically large and
+important corporate transactions, managerial incentives are strong to combat adverse selection inherent in the identification and valuation of potential deals.  As a result, firms often turn to investment bankers to serve as advisors during the M&A
+process.  Consistent with uncertainty driving firms' decisions to retain M&A advisors, Servaes and Zenner (1996) find that
+acquirers hire advisors when the deals are more complex and when the acquirer lacks prior acquisition experience. 
+Investment banks can help match acquirers with targets, advise acquirers on target valuation, and/or counsel firms in
+negotiating the deal price and structure (Goodman Name, 2014). 
+While firms hire investment banks to reduce uncertainty in an attempt to make better investment decisions, we argue
+that auditors can also serve to reduce uncertainty in the M&A process, even though they are not explicitly retained by firms
+to do so.  In particular, auditors that audit both the acquirer and target (i. e. , common auditors) can reduce M&A uncertainty
+through several channels.  The first, and arguably most important, channel is the direct communication of information
+between the common auditor and the acquirers and targets, which can happen throughout the M&A process.  As indicated to
+us in a private conversation with a Big 4 accounting partner, auditors often introduce their clients as potential acquisition
+partners.  Thus, the auditor can facilitate discussions at the initial stage of the M&A process. 
+Auditors can also provide considerable value during the due diligence phase, which includes assessing the target firm's
+financial health, risks, prospects, etc.  After all, many of these assessments (or similar assessments) are made by the auditor
+during an audit, so they can assist by providing both structure to the due diligence processes/analyses and insights into the
+target based on their extensive knowledge of the firm.  In fact, further discussion with the Big 4 partner revealed that, with
+the consent of clients, audit team members of the acquirer and the target often exchange information. 5 These discussions
+can be very useful in appropriately valuing firms, and thus in negotiating the deal. 
+The transfer of information between common-auditor clients continues even after the M&A as well.  For example,
+common auditors can help integrate accounting information systems and internal control systems following deal
+completion, which is a nontrivial task that is vital to the success of the M&A.  Since common auditors are familiar with
+these systems for both the acquiring firm and the target firm, they can more efficiently amalgamate the systems to better
+capture the firm's economics.  Erickson Name (2012) report increases in uncertainty after M&As, which contributes to
+acquirers' post-acquisition wealth losses.  Common auditors can help reduce this uncertainty by assisting with the
+integration of the accounting information systems to better capture the underlying economics of the firm. 
+The second channel through which common auditors can reduce uncertainty is via financial statement comparability.  Kothari
+Name (2010) argue that each accounting firm has its own unique set of internal working rules that guide and standardize the audit
+firm's application of accounting and auditing standards. 6 Francis Name (2014) argue that because these systematic differences exist
+across audit firms, financial statements are more similar for firms with a common auditor than they are for firms with different
+auditors.  In addition, clients often seek guidance from their auditors when preparing financial reports, which further contributes to
+increased comparability of financial statements across firms with a common auditor. 7 Consistent with common auditors influencing
+comparability between firms' financial statements, Francis Name (2014) provide evidence that firms audited by the same auditor
+have more comparable earnings than firms audited by different auditors.  By enhancing financial statement comparability, common
+auditors indirectly provide their clients information that other (non-client) firms may not be able to efficiently obtain.  In particular,
+a client firm can better understand the assumptions and accounting choices underlying the financial statement numbers of other
+client firms.  In turn, this knowledge leads to a reduction in uncertainty regarding those firms' economics. 
+The third channel through which common auditors can reduce M&A uncertainty is by limiting financial statement
+misreporting.  Erickson and Wang (1999) find that acquirers boost earnings prior to stock-for-stock acquisitions in an effort
+to increase their stock price and reduce the number of shares issued in exchange.  Louis (2004) and Gong Name (2008)
+confirm these findings and show that the long-term post-acquisition underperformance of stock-for-stock acquirers and
+post-acquisition lawsuits can be attributed to pre-acquisition abnormal accruals.  Anilowski Name (2009) find that targets
+also engage in earnings management and sell via auctions to avoid the risk of detection.  The authors also find that such
+deals result in higher wealth gains to target shareholders. 
+Given the incentives for both acquirers and targets to manage earnings before M&As, auditors that audit both the acquirer
+and target face greater litigation risk, as the common auditor may be sued for earnings management undertaken by either
+party.  Moreover, common auditors likely face greater scrutiny by stakeholders, given their role as a common agent with the
+opportunity for conflicts of interest.  As Agrawal Name (2013) document, deals with common M&A advisors attract securities
+class action lawsuits with greater frequency than deals with separate advisors.  To the extent common auditors face greater
+litigation (and potentially reputational) risk, they have greater incentives to limit misreporting that asymmetrically benefits
+one party over the other, resulting in more transparent financial information and reduced uncertainty. 
+Collectively, common auditors can help reduce uncertainty throughout the various stages of the M&A process both
+directly through private communications with the acquirer and target and indirectly through more comparable and more
+transparent public financial reports.  This reduction in uncertainty regarding the firms' underlying economics facilitates
+better matching and integration of acquirers with targets, which leads to higher quality investment decisions. 
+<Middle> Sample selection. 
+To conduct our analyses, we obtain a sample of acquisitions from the Thomson Reuters Securities Data Company (SDC)
+U. S.  Mergers and Acquisitions database.  We identify all completed domestic mergers and acquisitions of public acquirers
+and public targets with announcement dates between 1988 and 2010.  We start our sample period in 1988 because we
+obtain auditor information from Compustat, and its auditor coverage prior to 1988 is limited to Big 8 auditors.  We exclude
+small transactions in which the deal value is less than $1 million and/or less than 1% of the acquirer's market capitalization
+prior to the announcement date.  We also require the acquirer to control
+less than 50% of the target before the
+announcement and own 100% after the deal completion to ensure a complete change in control. 8 We further limit our
+sample to deals in which both the acquirer and the target have daily stock return data from the Center for Research in
+Security Prices (CRSP) and the annual accounting data and auditor information from Compustat for at least one year prior to
+the deal announcement.  Applying these filters leaves a final sample of 1971 acquisitions, where 547 (1424) acquisitions are
+classified as common-auditor (non-common-auditor) deals. 
+Table 1, Panel A presents the distribution of our sample by deal announcement year.  Consistent with the M&A literature,
+the number of acquisitions drops in the early 2000s from its highest level in the late 1990s.  We also observe a significant
+slowdown following the 2007–2008 financial crisis.  The patterns of common-auditor deals and non-common-auditor deals
+across years follow trends similar to that of the overall sample. 
+Table 1, Panel B shows the industry composition for the acquiring firms in our sample using the Fama and French 48
+industry classification (Fama and French, 1997).  Business services, computers, and pharmaceutical products are the most
+active industries in our sample in terms of the number of acquisitions.  We observe a similar pattern in common-auditor
+deals and non-common-auditor deals.  Given the variations in merger activity both across time and across industry, as
+observed in Table 1, we include both year and industry fixed effects in our multivariate analyses. 
+4.  Research design and empirical results
+In this section, we discuss our research design and empirical results related to our three main analyses.  First, we examine
+the relation between common auditors and M&A quality.  Second, we test whether the relation between common auditors
+and M&A quality is stronger when there is greater pre-M&A uncertainty.  Finally, we analyze the three mechanisms through
+which common auditors reduce uncertainty in the M&A process, namely via (i) private discussions with the acquirer and
+target, (ii) enhanced financial statement comparability, and (iii) limited misreporting. 
+4. 1.  Common auditors and M&A quality
+4. 1. 1.  M&A quality measure
+As discussed earlier, we predict that M&As with a common auditor are of higher quality because common auditors are
+able to reduce uncertainty throughout the M&A process, which allows the parties to better identify profitable investment
+opportunities.  We use the acquisition announcement return as our proxy for M&A quality following a large body of research
+(e. g. , Asquith Name, 1983; Bradley Name, 1988; Kale Name, 2003; Cai and Sevilir, 2012; Agrawal Name, 2013; Goodman Name,
+2014).  In particular, following Bradley Name (1988), Kale Name (2003) and Cai and Sevilir (2012), we measure portfolio
+cumulative abnormal returns of the combined portfolio of the acquirer and the target around the acquisition announcement, ANN_CAR.  We obtain the announcement dates from the SDC U. S.  Mergers and Acquisitions database and estimate
+portfolio abnormal returns using the standard event study method developed by Brown and Warner (1985).  We use the
+CRSP value-weighted return as the market return and estimate the market model parameters over the 200 trading days
+ending two months before the merger announcement. 9 For each acquisition, we form a value-weighted portfolio of the
+acquirer and the target, with the weights based on their market capitalization at two months prior to the acquisition
+announcement date.  To avoid double counting the acquirer's existing ownership in the target, we subtract the market value
+of the target equity held by the acquirer from the target's market capitalization.  We then calculate the three-day ANN_CARs
+over the event window ( 1,þ1), where event day 0 is the acquisition announcement date. 
+4. 1. 2.  Empirical design – common auditors and M&A quality
+To test whether acquisitions are of higher quality in common-auditor deals than in non-common-auditor deals, we
+estimate the following ordinary least squares (OLS) regression model, where the dependent variable, ANN_CAR, is defined above.  Our main variable of interest, Common auditor, is an indicator
+variable that equals one if the acquirer and the target share a common auditor and zero otherwise.  We include calendar year
+fixed effects and Fama and French 48 industry fixed effects, and the t-statistics are based on standard errors clustered by
+acquirer. 
+Controls represents numerous control variables for auditor, firm, and deal characteristics shown by prior research to
+impact M&A quality, where all of the control variables are defined in Appendix A.  Specifically, with respect to auditor
+characteristics, we control for whether the acquirer and/or target have a Big 4 auditor, Big 4 Auditor, as Louis (2004) finds
+that acquirers audited by non-Big 4 firms outperform those audited by Big 4 firms, and Xie Name (2013) and Golubov Name
+(2012) show that target auditor size is associated with various deal outcomes. 10 We also control for the industry dominance
+of auditors, Auditor industry dominance, as auditors with more industry expertise may lead to better acquisition outcomes
+(Craswell Name, 1995; Hogan and Jeter, 1999; Solomon Name, 1999; Owhoso Name, 2002).  With respect to firm characteristics,
+we control for Size, Operating cash flows and Tobin's Q to capture a firm's growth opportunities and financing availability
+(Moeller Name, 2004; Dong Name, 2006).  We also include Leverage to control for creditor monitoring (Maloney Name, 1993;
+Masulis Name, 2007) and Pre-announcement stock price run-up (Rosen, 2006) for both the acquirer and target.  Finally, we
+include several commonly used deal characteristic control variables, i. e. , Relative deal size (Asquith Name, 1983), Percentage of
+stock financing (Travlos, 1987; Moeller Name, 2004), Tender offer indicator, Hostile bid indicator (Schwert, 2000), Multiple
+bidders indicator (Mitchell Name, 2004), and High-tech firms indicator (Masulis Name, 2007). 
+In addition to the auditor, firm and deal characteristic controls, we control for several additional variables.  In particular,
+Morck Name (1990) show that when the acquirer and target are similar, the acquisition has greater announcement returns.  If
+firms with greater similarity tend to hire the same accounting firm as well, firm similarity could be a correlated omitted
+variable.  Accordingly, we control for whether the deal is a diversifying acquisition, Diversifying acquisition, as well as the
+daily stock return correlation between the acquirer and the target prior to the acquisition announcement, Corr(stock return),
+following Fama and French (1992). 11
+We also include several controls for M&As where the acquirer and target may already have considerable knowledge of
+one another.  In particular, we control for whether the acquirer and target have had a previous business relationship (i. e. ,
+strategic alliance or joint venture) in the three years before the acquisition, Previous business relation, as Higgins and
+Rodriguez (2006) find that acquisitions generate better announcement returns if they are preceded by strategic alliance
+activity between the acquirer and the target.  In a similar vein, we also control for the acquirer's equity ownership
+percentage in the target before the deal announcement, Toehold. 12 Finally, we control for whether the acquirer's
+headquarters are in close geographic proximity to the headquarters of the target, Local deal, as Uysal Name (2008) find
+that acquirer announcement returns in local deals are higher than those in nonlocal deals. 13
+4. 1. 3.  Descriptive statistics
+Table 2 reports descriptive statistics for our M&A quality measure, ANN_CAR, in Panel A as well as our control variables in
+Panel B.  As indicated in Panel A, the mean and median three-day ANN_CARs for the full sample are 1. 91% and 1. 22%,
+respectively, and both are statistically significant at the 1% level.  These positive portfolio returns are consistent with prior
+research (e. g. , Andrade Name, 2001; Wang and Xie, 2009).  Columns 2 and 3 present the subsample statistics where we split
+the full sample into common-auditor deals and non-common-auditor deals.  As shown, the mean (median) difference in
+three-day ANN_CAR between common-auditor deals and non-common-auditor deals is 1. 06% (0. 30%), which is statistically
+significantly at the 1% (5%) level.  To ensure that these results are not sensitive to the length of the return window, we also
+examine five-day and seven-day announcement windows and continue to find significantly higher ANN_CARs in commonauditor deals than in non-common-auditor deals.  For our main analyses, we report the results using the three-day ANN_CAR
+for brevity. 
+As shown in Panel B of Table 2, the majority of acquirers (97%) and targets (94%) in our sample have Big 4 auditors. 
+Moreover, common-auditor deals are more likely than non-common-auditor deals to involve Big 4 auditors for both the
+acquirer and the target.  Target firms' auditors in common-auditor deals have more industry expertise, as they are more
+likely to be the dominant auditor in the two-digit standard industrial classification (SIC) industry.  We also find that target
+firms are associated with lower Operating cash flows in common-auditor deals and that such acquisitions are less likely to be
+hostile takeovers and less likely to have competing bidders.  In addition, acquirer and target returns are more highly
+correlated, acquirers own more of the targets' stock prior to the acquisitions, and acquirer and target headquarters are more
+likely to be located in the same geographical area in common-auditor deals than in non-common-auditor deals.  We control
+for these auditor, firm, and deal characteristics in our analyses. 
+4. 1. 4.  Multivariate analysis – common auditors and M&A quality
+Table 3 presents the results from estimating Eq.  (1) using OLS.  In Column 1, we do not include any control variables and
+find that common auditors have a positive and significant effect on ANN_CAR.  In Column 2, we include auditor, firm, and
+deal characteristic control variables as well as controls for firm similarity, previous business relations, and geographic
+proximity.  Our baseline finding continues to hold with these control variables; the coefficient estimate for Common auditor
+is 1. 064 and statistically significant at the 1% level, suggesting that M&As involving firms with a common auditor are of
+higher quality. 
+The coefficients for the control variables are also consistent with findings in the literature.  For example, we observe a
+negative correlation between acquirer size and announcement returns (Kimbrough and Louis, 2011; Golubov Name, 2012),
+acquisitions with greater relative deal size have higher announcement returns (Louis and Sun, 2010), highly stock-financed
+deals are associated with lower announcement returns (Louis, 2005), announcement returns are higher in tender offers
+(Golubov Name, 2012; Cai and Sevilir, 2012), and deals in which the acquirer and the target are in different industries are
+associated with lower announcement returns (Morck Name, 1990). 
+4. 2.  Common-auditor effect and uncertainty
+We next examine the impact of common auditors on M&A quality conditioned on the amount of pre-M&A uncertainty.  If
+common auditors are associated with higher quality M&As because they reduce uncertainty in the M&A process, then we
+should observe a larger common-auditor effect when there is a greater degree of uncertainty before the M&A.  To test this
+prediction, we adjust Eq.  (1) to include a proxy of uncertainty and interact it with the common-auditor indicator, as shown
+below, where ANN_CAR and Common auditor are defined previously.  We predict that β3 is positive, as this indicates that the
+common-auditor effect is larger when there is greater pre-M&A uncertainty.  We focus on the acquirer's uncertainty
+regarding the target (rather than vice versa), because while the target faces some uncertainty regarding its asking price and
+the associated contract terms, the acquirer faces significant uncertainty regarding the target valuation in addition to
+determining its bid price and associated contract terms.  Moreover, while the target no longer exists after the merger, the
+acquirer still faces considerable post-acquisition uncertainty associated with synergistic incorporation of the target (as
+outlined in Section 2).  Thus, common auditors can be much more helpful for acquirers than they can for targets in reducing
+uncertainty.  Accordingly, we focus on uncertainty regarding the target. 
+Our first proxy for uncertainty is based on the target firm's sales growth.  Smith and Watts (1992) argue that high growth
+firms are associated with a higher degree of information asymmetry.  Thus we expect uncertainty regarding the target to be
+more severe, and thus the common-auditor effect on acquisition quality to be more pronounced, when the target is growing
+at a more rapid pace.  We define Target sales growth as the percentage change in the target's sales from the previous year. 
+Our second proxy for uncertainty is the stock return volatility of the target firm.  Estimating the true underlying value of
+target firms that have higher stock return volatilities is more difficult (Officer Name, 2009; McNichols and Stubben, 2015),
+and common auditors could play a more important role in such deals.  We define Target stock return volatility as the daily
+stock return volatility of the target over the one-year period ending two months prior to the deal announcement. 
+Our third measure of uncertainty is based on the target firm's R&D intensity (Aboody and Lev, 2000; Huddart and Ke,
+2010; Chen Name, 2010).  Aboody and Lev (2000) argue that interpreting financial information is difficult for firms with high
+R&D intensity because (i) R&D investments are more unique than investments in tangible assets, (ii) no liquid market exists
+for R&D investments, and (iii) the information necessary to determine the value of assets that emerge from R&D
+investments is harder to obtain.  We define Target R&D intensity as the ratio of current year R&D expenditure to sales in
+the year prior to the deal announcement. 
+Our fourth measure of uncertainty is the bid–ask spread of the target firm.  The bid–ask spread is a proxy for the degree of
+information asymmetry because it represents one way that market makers protect themselves from expected losses in
+trading with more informed traders (Leuz and Verrecchia, 2000).  Following LaFond and Watts (2008) and Khan and Watts
+(2009), we obtain daily bid–ask spread from CRSP and scale it by the midpoint of the spread.  We define Target bid–ask
+spread as the average of the daily spreads of the target firm over the one-year period ending two months prior to the deal
+announcement. 14
+Table 4 presents the results from estimating Eq.  (2), where the results are based on using Target sales growth, Target stock
+return volatility, Target R&D intensity, and Target bid–ask spread as proxies for uncertainty in Column 1, 2, 3 and 4,
+respectively.  In particular, the coefficient estimate for the interaction of Common auditor and the uncertainty proxies (i. e, β3)
+is positive and statistically significant at the 5% level or better across all four specifications.  The evidence in Table 4 suggests
+that common auditors have a greater impact on M&A quality when there is more uncertainty before the acquisition. 15
+4. 3.  Mechanisms of reductions in uncertainty
+Next, we examine the three main channels through which common auditors reduce uncertainty in the M&A process: (i)
+discussions with the acquirer and target regarding the M&A, (ii) enhanced financial statement comparability, and (iii)
+increased reporting transparency. 
+4. 3. 1.  Primary information channel – discussions regarding M&A
+The primary channel through which common auditors can reduce M&A uncertainty is via direct discussions with the
+acquirer and target.  As discussed in Section 2, common auditors can help reduce uncertainty throughout the M&A process,
+from assistance in the identification and matching of potential M&A targets to help during the due diligence phase with
+valuing the target to post-acquisition integration of information systems.  Unfortunately, these discussions are not
+observable; as such, we employ two different empirical approaches.  First, we examine whether the common-auditor effect
+is larger when the acquirer and target use the same local office of the common auditor.  The intuition is that the auditor can
+more easily facilitate discussions between clients if they are in the same location as both the acquirer and the target.  Second,
+we examine whether there is an increased probability of an M&A for firms with a common auditor.  Since an auditor is much
+more knowledgeable about its own clients, it can not only better match clients interested in engaging in M&A transactions,
+but also reduce uncertainties throughout the process that might otherwise derail the M&A.  Accordingly, we predict that if
+common auditors help facilitate information flow via discussions with their clients, there should be a higher probability of
+an M&A with other firms that share the same auditor. 
+To conduct our first analysis (i. e. , same-office test), we collect auditor office location data from Audit Analytics, which
+provides audit office location data starting in 2002.  For deals announced before 2002 and/or with missing auditor office data
+in Audit Analytics, we manually collect the data from the audit report in Form 10-K filings.  Because Form 10-K filings are
+unavailable in the SEC EDGAR system before 1996, our sample is reduced to 1591 observations.  Of the 1591 observations,
+459 deals (28. 8%) involve a common auditor, and 120 deals (7. 5%) consist of a common auditor in the same local office.  Using
+these data, we adapt Eq.  (1) by splitting Common auditor into two measures, Same-office common auditor and Different-office
+common auditor, where Same-office common auditor is an indicator equal to one if the acquirer and the target share a
+common auditor from the same local office and zero otherwise, and Different-office common auditor is an indicator equal to
+one if the acquirer and the target share a common auditor from different local offices and zero otherwise. 
+We report the results on same-office common auditors in Table 5.  Column 1 reports the results from estimating Eq.  (1)
+using the reduced sample.  We find that common auditors are associated with significantly higher combined announcement
+returns, consistent with the results in Table 3.  In Column 2, we report the results from estimating Eq.  (1), where we split
+Common auditor into the two measures: Same-office common auditor and Different-office common auditor.  While the
+coefficients on both variables are significantly positive, the coefficient on Same-office common auditor is greater than the
+coefficient on Different-office common auditor, and this difference is statistically significant at the 10% level.  This result
+suggests that while common auditors can enhance M&A quality, they are more effective at doing so when the acquirer and
+target are audited by the same local audit office. 
+To conduct our second analysis (i. e. , common-auditor M&A likelihood test), we follow a method similar to that in
+Bodnaruk Name (2009) in examining the probability of two firms engaging in M&A activities.  Specifically, for each actual
+acquirer, we define the set of all potential acquirers as those covered by Compustat in the same three-digit SIC industry and
+of a similar size (within a 20% band of market capitalization). 

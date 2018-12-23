@@ -1,0 +1,304 @@
+Tension-Dependent Stretching Activates ZO-1 to
+Control the Junctional Localization of Its InteractorsGraphical AbstractDomenica Spadaro, Shimin Le,
+Thierry Laroche, Isabelle Mean,
+Lionel Jond, Jie Yan, Sandra Citi
+Correspondence
+sandra. citi@unige. ch
+In Brief
+Spadaro Name use super-resolution
+microscopy to show that ZO-1, a protein
+that connects tight junction membrane
+proteins to the actin cytoskeleton, exists
+in either stretched or folded
+conformations, depending on
+actomyosin-dependent force, resulting in
+changes in the localization, stability, and
+downstream signaling of its interactors. 
+Highlights
+d The tight junction protein ZO-1 exists in stretched and folded
+conformations
+d Actin organization, myosin activity, and heterodimerization
+control ZO-1 conformation
+d The stretched conformation of ZO-1 recruits DbpA and
+occludin to junctions
+d Barrier function and proliferation are controlled by
+actomyosin through ZO proteins
+Spadaro Name, 2017, Current Biology 27, 3783–3795
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 014
+Current BiologyTension-Dependent Stretching Activates
+ZO-1 to Control the Junctional
+Localization of Its Interactors
+Domenica Spadaro,1,2 Shimin Le,3,4 Thierry Laroche,5 Isabelle Mean,1,2 Lionel Jond,1,2 Jie Yan,3,4 and Sandra Citi1,2,6,*
+1Department of Cell Biology, Faculty of Sciences
+2Institute of Genetics and Genomics of Geneva (iGE3)
+University of Geneva, 30 Quai Ernest Ansermet, 1211 Geneva 4, Switzerland
+3Department of Physics
+4Mechanobiology Institute
+National University of Singapore, 5A Engineering Drive 1, Singapore 117411, Singapore
+5EPFL School of Life Sciences PTBIOP, Station 19, 1015 Lausanne, Switzerland
+6Lead Contact
+*Correspondence: sandra. citi@unige. ch
+https://doi. org/10. 1016/j. cub. 2017. 11. 014Tensile forces regulate epithelial homeostasis, but
+the molecular mechanisms behind this regulation
+are poorly understood.  Using structured illumination microscopy and proximity ligation assays, we
+show that the tight junction protein ZO-1 exists in
+stretched and folded conformations within epithelial cells, depending on actomyosin-generated
+force.  We also show that ZO-1 and ZO-2 regulate
+the localization of the transcription factor DbpA
+and the tight junction membrane protein occludin
+in a manner that depends on the organization of
+the actin cytoskeleton, myosin-II activity, and substrate stiffness, resulting in modulation of gene
+expression, cell proliferation, barrier function, and
+cyst morphogenesis.  Pull-down experiments show
+that interactions between N-terminal (ZPSG) and
+C-terminal domains of ZO-1 prevent binding of
+DbpA to the ZPSG, suggesting that force-dependent
+interactions regulate ZPSG
+binding to ligands within cells.  In vivo and in vitro
+experiments also suggest that ZO-1 heterodimerization with ZO-2 promotes the stretched conformation and ZPSG interaction with ligands.  Magnetic
+tweezers single-molecule experiments suggest
+that pN-scale tensions (2–4 pN) are sufﬁcient to
+maintain the stretched conformation of ZO-1, while
+keeping its structured domains intact, and that
+5–20 pN force is required to disrupt the interaction
+between the extreme C-terminal and the ZPSG
+domains of ZO-1.  We propose that tensile forces
+regulate epithelial homeostasis by activating ZO
+proteins through stretching, to control the junctional recruitment and downstream signaling of
+their interactors. 
+intra-molecular
+INTRODUCTION
+Extrinsic and intrinsic forces control the conformation of mechanosensing proteins at cadherin- and integrin-based junctions,
+regulating their association with the actin cytoskeleton and the
+strength of adhesion; however, little is known about how force
+regulates homeostasis, proliferation, and morphogenesis [1, 2]. 
+Cytoplasmic actomyosin controls the nuclear shuttling of transcription factors [3], and junctional actomyosin affects tight
+junction (TJ) barrier function [4–8], but it is not known whether
+any TJ protein can respond to tension by changing its conformation and how this may affect proteins involved in barrier function
+and signaling to the nucleus. 
+ZO-1 and ZO-2 (Zonula Occludens-1 and -2) [9, 10] are cytoplasmic TJ proteins, which anchor actin ﬁlaments to membrane
+proteins through their C-terminal regions [11, 12].  The C-terminal
+half of ZO-1 comprises actin-binding and ZU5 domains [13] and,
+when exogenously expressed, does not localize at junctions but
+in the cytoplasm, associated with actin ﬁlaments [11, 12, 14].  The
+N-terminal half of ZO-1 comprises three PDZ domains, followed
+by Src homology-3 (SH3), unique-5 (U5), guanylate kinase
+(GUK), and unique-6 (U6) domains [15, 16].  The PDZ1 and
+PDZ3 domains bind to the TJ membrane proteins claudins and
+JAM [17, 18], and the PDZ2 domain promotes heterodimerization between ZO-1 and either ZO-2 or ZO-3, another member
+of the ZO family of proteins [11, 19, 20], which is not expressed
+in Eph4 epithelial cells [21].  The region of ZO-1 comprising PDZ3,
+SH3, U5, and GUK domains (ZPSG-1) interacts with and recruits
+to junctions the transmembrane TJ protein occludin [11, 22], the
+Y-box transcription factor DbpA/ZONAB (DNA-binding protein
+A/ZO-1-associated Nucleic Acid Binding protein) [23, 24], and
+other ligands [13].  ZO-2 is also critical for the junctional recruitment and function of occludin [25, 26].  DbpA regulates gene
+expression and cell proliferation, and its sequestration by ZO-1
+and ZO-2 at junctions of conﬂuent monolayers inhibits its nuclear
+activity [23, 24, 27, 28].  Occludin is implicated in the regulation
+of TJ barrier function [29–31], although occludin knockout
+mice have normal TJ [32].  Because ZO-1 and ZO-2 link TJ
+membrane proteins to actin ﬁlaments, we hypothesized that
+Current Biology 27, 3783–3795, December 18, 2017 ª 2017 Elsevier Ltd.  3783
+their conformation and downstream interactions and signaling
+might be modulated by force.  Here, we show that ZO-1 exists
+in different force-dependent conformations and that the organization and contractility of the actomyosin cytoskeleton control
+the ability of ZO-1 and ZO-2 to recruit to junctions DbpA and
+occludin, to modulate gene expression, cell proliferation, barrier
+function, and epithelial morphogenesis. 
+<Middle> RESULTS. 
+Structured Illumination Microscopy and Proximity
+Ligation Assay Demonstrate Tension-Dependent
+Changes in ZO-1 Conformation within Cells
+To test whether force controls ZO-1 conformation, we expressed
+ZO-1 tagged with myc and hemagglutinin (HA) at its N-terminal
+and C-terminal ends (Figure 1A) in ZO-1-KO (knockout) epithelial
+(Eph4) cells.  Structured illumination microscopy (SIM) and proximity ligation assay (PLA) were used to examine the global spatial
+relationships between the ends of ZO-1 either in control cells or
+in cells depleted of ZO-2, with or without treatment with blebbistatin, which inhibits myosin-II activity.  Exogenous ZO-1 was targeted to junctions and was detectable in the cytoplasm only in
+overexpressing cells (Figures S1A and S1B).  A shift in the distribution of signal corresponding to myc and HA was detected in
+cells treated with a control small interfering RNA (siRNA), regardless of the absence (Figure 1B) or the presence (Figure 1C) of
+blebbistatin, and in cells depleted of ZO-2 and not treated with
+blebbistatin (Figure 1D), indicating a spatial separation between
+the ends of ZO-1.  In contrast, depletion of ZO-2 plus blebbistatin
+treatment resulted in overlapped myc and HA signals (Figure 1E). 
+Imaging of multicolor beads showed negligible chromatic shift
+(Figures 1F–1F’’ and S1C), excluding the possibility that the shift
+between the two ZO-1 tags reﬂects spherical aberrations.  In
+junctions between two cells expressing tagged ZO-1, a central
+myc-(N-terminal)-labeled region was ﬂanked by two HA-(C-terminal)-labeled regions (Figure 1G), corresponding to a mirrorlike arrangement of ZO-1 molecules on the two sides.  The
+tagged cingulin, which contains a z130-nm-longdomain [33], were also imaged as separate (Figures S1D–S1F). 
+Plotting the intensity of the signals as a function of the linear distance across the junction indicated a shift of z75 nm between
+the peaks of green and red ﬂuorophores of ZO-1 when the
+signals were separated and z1 nm when they overlapped
+(Figures 1H and 1I).  When measured across the two sides of
+a junction, the distance between the green ﬂuorophores was
+z200 nm (Figure S1G). 
+Next, we examined tension-dependent changes in ZO-1
+conformation using the PLA assay (Figures 1J and 1K).  Little or
+no PLA signal was generated by myc and HA in the absence
+(H) Distribution of ﬂuorophores/tags signal intensities as a function of distance. 
+(I) Distance between intensity peaks.  Error bars indicate SD. 
+(J and K) PLA analysis on cells expressing myc-ZO-1HA, with the indicated
+treatments. 
+Arrows and arrowheads indicate strong or weak PLA signal, respectively.  The
+scale bars represent 5 mm (B–E) and 30 mm (J and K).  Related Figure S1 shows
+experimental system, control experiments, and additional measures and
+quantiﬁcations.  Related Figure S7 shows schemes of ZO-1 in stretched and
+folded conformations under the different experimental conditions. 
+Figure 1.  Stretched and Folded and/or Disordered ZO-1 Conformations Are Detected by SIM and PLA
+(A) Scheme of myc-ZO-1-HA expressed in ZO-1-KO Eph4 cells. 
+(B–G) SIM images of cells expressing exogenous myc-ZO-1-HA, and treated
+either with control siRNA either in the absence (B, F, and G) or in the presence (C)
+of blebbistatin, or with si-ZO-2 either in the absence (D and F’) or in the presence
+(E and F’’) of blebbistatin.  Red (Cy3) and green (Alexa 488) ﬂuorophores (insets/
+arrows) label N- and C-terminal ends of ZO-1.  Yellow arrows indicate overlapped signal.  Experimental treatments (siRNA and blebbistatin) are indicated
+on the left of images.  (F) si-control, (F’) si-ZO-2, and (F’’) si-ZO2+blebbistatin
+show calibration of chromatic shift, where junctions are imaged next to
+TetraSpeck Fluorescent microspheres (b, beads; merge image in bottom right
+panel).  (G) The junction between two cells expressing tagged ZO-1. 
+3784 Current Biology 27, 3783–3795, December 18, 2017
+Figure 2.  Mechanical Stretching of Single
+Full-Length ZO-1 Molecules In Vitro
+(A) Scheme of experimental setup. 
+(B) Force-extension curves of ZO-1 unfolding
+(colored) and refolding (gray). 
+(C) Zoom-in of
+refolding events during forcedecrease scans (loading rate =  0. 1 pN/s) from (B). 
+(D) Distribution of the ZO-1 domains unfolding
+forces (loading rate = 1 pN/s). 
+(E) Distribution of number of residues involved in
+the individual unfolding events (N, number of unfolding events).  The inset shows the distribution of
+total number of residues involved in unfolding in
+individual
+force-increase scans (N, number of(F) Theoretical calculation of the force-extension
+curves of full-length ZO-1.  Numbers of residues
+assumed to be non-structured are indicated. 
+Related Figure S2 shows additional extension/
+refolding curves and step size measurements. 
+can be estimated based on the step
+size.  This was mainly in the range of
+50–200 aa (Figure 2E), consistent with
+the number of residues in the structured
+domains of ZO-1 (Figure S2J).  Furthermore, the estimated total number of residues (600–900 residues) involved in the
+unfolding events spans 35%–50% of the
+full-length ZO-1 sequence (Figure 2E,
+inset), most likely within the N-terminal
+half of ZO-1, which contains most
+(500 aa) of the known structured domains (Figure S2J).  The rest of the molecule, most likely the C-terminal half of the
+molecule, might be either in an intrinsically disordered conformation or mechanically too weak to be
+determined experimentally.  Based on an assumption that the
+fraction (50%–65%) of ZO-1 that does not give detectable unfolding events exists in a disordered conformation, we estimate
+that a force of 2–4 pN is needed to maintain the stretched
+conformation of ZO-1 (Figure 2F), with an N-to-C distance of
+75 nm (Figures 1H and 1I).  This force is smaller than that
+needed to unfold the structured domains (>5 pN; Figures 2B–
+2D) and in the range of refolding forces (<5 pN; Figure 2C). 
+Interestingly, occasionally large extension jumps involving
+>500 residues were observed (Figures 2E and S2E), which
+might be related to intra-molecular interactions between distal
+regions of ZO-1. 
+The Stretched Conformation of ZO Proteins Promotes
+the Junctional Localization of DbpA and Occludin In Vivo
+Next, we asked how the stretched versus folded and/or disordered conformations of ZO-1 affected the junctional accumulation of DbpA (Figure 3) and occludin (Figure S3).  In wild-type
+(WT) cells in the absence of blebbistatin, DbpA was detectedthe presence/depletion of ZO-2
+(Figures 3A and 3C) [24].  However, upon blebbistatin treatment,
+DbpA labeling was reduced at junctions of ZO-2-depleted, but
+junctions regardless of
+Current Biology 27, 3783–3795, December 18, 2017 3785
+of blebbistatin, regardless of the presence/depletion of ZO-2
+(arrowheads, Figure 1J),
+indicating that the N-terminal and
+C-terminal regions of ZO-1 are >30–40 nm apart, and no headto-tail aggregation of ZO-1 occurs.  In contrast, in the presence
+of blebbistatin,
+the PLA signal was dramatically increased
+upon depletion of ZO-2 and was detectable both at junctions
+and in the cytoplasm of overexpressing cells (arrows,
+Figure 1K; quantiﬁcation, Figures S1H and S1I).  This indicates
+that depletion of ZO-2 and low tension promote the proximity
+(<30–40 nm) between the ends of ZO-1. 
+The Mechanical Stability of Full-Length ZO-1 In Vitro
+To probe the mechanical stability of ZO-1, we applied force to
+puriﬁed recombinant full-length single molecules using magnetic tweezers [34, 35] (Figure 2A).  When force was linearly
+increased (loading rate 1 pN/s), the domains of ZO-1 were mechanically unfolded at forces of 5–60 pN, as indicated by multiple extension steps (Figures 2B, S2A, S2C, S2E, and S2G–S2I). 
+The unfolded domains of ZO-1 could be refolded at forces <5
+pN (loading rate  0. 1 pN/s; Figures 2C, 2D, S2B, S2D, and
+S2F).  The distribution of unfolding forces shows that the majority of the domains unfold at 5–25 pN (Figure 2D).  For each unfolding event, the number of residues of the unfolding domain
+Figure 3.  The Junctional Accumulation and Expression of DbpA Are Regulated by Force in a ZO-Dependent Manner
+(A, B, E, and F) Immunoﬂuorescent localization of DbpA, ZO-2, PLEKHA7 (internal reference for junctions), and ZO-1 either in WT (A and B) or mixed WT+ZO-1-KO
+(E and F) cells following treatment with either si-control or si-ZO-2, with the indicated drugs treatment.  The scale bar represents 5 mm.  The localization of occludin
+(legend continued on next page)
+3786 Current Biology 27, 3783–3795, December 18, 2017
+not WT cells (Figures 3B and 3C).  DbpA levels were reduced in
+cells depleted of ZO-2 and treated with blebbistatin (red box,
+Figure 3D), similar to ZO-1-KO cells depleted of ZO-2 [24].  Junctional
+in WT and ZO-2-KD
+(knockdown) cells in the absence of blebbistatin (Figure S3A)
+but was dramatically reduced by blebbistatin only in ZO-2-KD
+cells (Figure S3B). 
+labeling for occludin was normal
+Because DbpA and occludin interact with both ZO-1 and
+ZO-2 [11, 22, 24], we used ZO-1-KO cells to ask whether tension affects not only ZO-1- but also ZO-2-dependent junctional
+accumulation of DbpA and occludin.  In addition, we tested
+drugs that affect the organization of the actin cytoskeleton by
+treating mixed cultures of WT and ZO-1-KO cells with either latrunculin A, which prevents the polymerization of actin ﬁlaments; CK-869, which inhibits Arp2/3-dependent nucleation
+of branched actin ﬁlaments; SMIFH2, which inhibits the
+formin-dependent nucleation of bundled actin ﬁlaments
+(Figure 3E); and blebbistatin (Figure 3F).  DbpA was localized at
+junctions of ZO-1-KO cells without any drug (arrows, Figure 3E,
+control), consistent with the notion that ZO-2 alone, in the
+absence of ZO-1, can sequester DbpA at junctions of conﬂuent
+cells [24].  However, upon treatment with drugs that inhibit actin
+ﬁlament polymerization, DbpA was undetectable at junctions
+of ZO-1-KO, but not WT cells (arrowheads, Figure 3E).  Similarly, treatment of mixed WT/ZO-1-KO cells with blebbistatin
+induced loss of junctional DbpA only in cells expressing one
+ZO protein, but not in WT cells (arrowheads, Figure 3F, BL). 
+Similar to what was observed upon depletion of both ZO proteins [24], DbpA protein levels were decreased in ZO-1-KO
+cells treated with blebbistatin and normal DbpA levels were
+rescued by treatment with the proteasome inhibitor MG132
+(Figures 3G and 3H),
+leading to detection of DbpA in the
+cytoplasm and nucleus of ZO-1 KO cells (‘‘n,’’ panel BL/MG,
+Figure 3F).  Occludin was also localized at junctions of both
+WT and ZO-1-KO cells (arrows in Figure S3C, control), but,
+upon treatment with blebbistatin, occludin labeling was
+decreased at junctions of ZO-1-KO, but not WT cells (arrowhead, Figure S3C, BL).  PLA, used to detect proximity between
+ZO-1 and occludin, conﬁrmed that, without blebbistatin, ZO-1
+and occludin were in close proximity, regardless of ZO-2
+depletion (arrows, Figure S3D).  However, in the presence of
+blebbistatin, ZO-1 was not associated with occludin when
+ZO-2 was depleted (arrowhead, Figure S3E). 
+In summary,
+loss of either actin ﬁlament organization or
+myosin activity in cells lacking one ZO protein, e. g. , conditions
+that lead to the folded and/or disordered conformation of ZO-1
+(Figure 1), results in decreased junctional localization of DbpA
+and occludin, suggesting loss of
+interaction with the other
+ZO protein.  These results also suggest that, similarly to ZO-1,
+ZO-2 undergoes tension-dependent stretching, and that stretching activates both ZO proteins by promoting their interaction with
+DbpA and occludin. 
+Tension Controls Gene Expression, Cell Proliferation,
+and Paracellular Barrier Function through ZO Proteins
+To probe the cellular consequences of force-dependent conformational changes of ZO proteins, we analyzed signaling outputs
+by DbpA [23, 28] and occludin [29–31]. 
+In ZO-1-KO cells treated with blebbistatin and MG132, which
+display nuclear DbpA labeling (Figure 3F), cell proliferation was
+increased, as determined by Ki67 labeling, and this increase
+was reduced upon depletion of DbpA, indicating that it was
+DbpA dependent (Figures 4A–4B’).  When DbpA was nuclear,
+qRT-PCR showed increased expression of the DbpA target
+genes cyclin D1 (CCD1) and PCNA (Figure 4C) and decreased
+expression of ErbB2 (Figure 4D).  These changes did not occur
+in ZO-1-KO cells treated with blebbistatin alone (Figures 4C and
+4D), when DbpA is not nuclear, and its levels are reduced (Figures
+3F–3H).  The changes in DbpA localization cannot be due to the
+effect of treatments on other proteins, because only ZO-1 and
+ZO-2 regulate DbpA junctional localization in conﬂuent cells [24]. 
+Regarding barrier function, in the absence of blebbistatin, no
+signiﬁcant differences were observed in permeability either to
+ions (transepithelial electrical resistance [TEER]; Figure 4E) or
+larger molecules (Papp; Figure 4F) when comparing monolayers
+of WT and ZO-1-KO cells, in agreement with previous results
+[21]. 

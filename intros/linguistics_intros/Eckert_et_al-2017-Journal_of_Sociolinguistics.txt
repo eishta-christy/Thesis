@@ -1,0 +1,1892 @@
+Journal of Sociolinguistics 21/4, 2017: 467–496
+
+Phonetics, phonology and social meaning
+
+Penelope Eckert
+
+and William Labov
+
+Stanford University, California, U.S.A. and
+
+University of Pennsylvania, U.S.A.
+
+Linguistic variation has consistently been found to have social meaning in
+its association with the status and stance of speakers in the context of
+interaction. This indexical
+function of variation can contribute to the
+advancement of ongoing linguistic change. Style shifting in individual
+sociolinguistic interviews is an indirect indication of social meaning, but
+the clearest demonstrations are found in studies of speakers in a range of
+social contexts. We explore and clarify the nature of social meaning in
+variation, and its relation to linguistic change. Phonological variables are
+most readily adapted to convey social meaning by their frequency,
+ﬂexibility and freedom from referential functions. After providing several
+kinds of evidence of social meaning in phonological variation, we argue
+that meaning accrues speciﬁcally to concrete sounds – to phonetic elements
+– and not to the phonological structures in which those sounds participate.
+Mergers, near mergers, splits, chain shifts and parallel shifts are not
+generally objects of social perception, conscious or unconscious, and are
+motivated by more abstract principles of change.
+
+indication indirecte de la signiﬁcation sociale, mais
+
+On trouve regulierement que la variation linguistique a une signiﬁcation
+sociale, ce qui est fondee dans son association avec le groupe sociale et la
+position du locuteur dans le contexte de l’interaction. Cette fonction
+indexicale de la variation peut contribuer a l’avancement des changements
+linguistiques. La variation stylistique dans les interviews sociolinguistiques
+est une
+les
+manifestations les plus claires se trouvent dans les etudes de locuteurs
+dans une variete de contextes sociaux. On explore et clariﬁe la nature de la
+signiﬁcation sociale, et sa relation avec les changements linguistiques. Les
+les mieux adaptees a communiquer la
+variables phonologiques sont
+signiﬁcation sociale gr^ace a leur frequence, leur ﬂexibilite et leur manque
+de fonctions referentielles. Le porteur typique de signiﬁcation sociale est
+l’usage d’un allophone donne dans son contexte phonemique; des
+structures phonologiques plus complexes sont moins disponibles a servir
+cette fonction. On suggere que ce sont les sons eux-m^emes – les elements
+phonetiques – et pas
+la
+signiﬁcation sociale. Les confusions, les quasi-confusions, les scissions, les
+les changements paralleles ne sont pas
+changements en cha^ıne et
+normalement des objets de perception sociale,
+soit consciente ou
+inconsciente, car ils sont motives par des principes de changement plus
+abstraits. [French]
+
+les
+
+structures phonologiques qui portent
+
+© 2017 John Wiley & Sons Ltd
+
+468
+
+ECKERT AND LABOV
+
+KEYWORDS: Variation, social meaning, phonological structure, sound
+change
+
+FOREWORD
+
+The authors of this article approach the study of social meaning from a joint
+background in the approach to linguistic variation as ‘orderly heterogeneity,’
+reﬂecting the inﬂuence of Uriel Weinreich at Columbia University in the 1960s.
+We both spent our youth immersed in the sociolinguistic currents of New
+Jersey’s Bergen County, where we learned early that the exponents of social
+class were realized as distance from local phonology, and where we
+experienced similar day-to-day interaction with socially distinctive and class-
+related character types. In the years that followed, Labov has studied the larger
+structure of variation with a focus on linguistic change, as evidenced by studies
+of random samples, neighborhoods, and small group interaction. Eckert’s
+focus, based on long-term ethnographic studies, has been on meaning as
+evidenced in the use of a wide range of variables in the stylistic construction of
+socially located personae. The variables we consider in this paper are those that
+coincide in our work – variables that have been found to show both clear
+macro-social patterns and stylistic sensitivity to interpersonal context,
+particularly sound changes in progress. And while the authors continue to
+debate issues of awareness and agency in this process, our differences are
+independent of the observations that follow.
+
+INTRODUCTION
+
+Over the past six decades, sociolinguistic research has correlated linguistic
+variation with many aspects of social behavior: characteristics of the speakers,
+of interaction with the listeners, and with the speech situation more generally.
+This systematic social variability of
+form is generally said to have social
+meaning, hence to be available for social expression. The ﬁrst quantitative
+study of a sound change (Labov 1963) showed that locally-constructed social
+meaning, furthermore, can serve as motivation for sound change. With the
+accumulation of survey, ethnographic, and case-study evidence, and with the
+increasing diversity and sophistication of experimental and statistical methods,
+the study of sociolinguistic variation is engaging ever more deeply with social
+meaning. Our aim in this paper is to explore and clarify the notion of social
+meaning in variation, its role in phonological change, and its locus in the
+phonological system. We argue that social meaning accrues to concrete sounds
+– to phonetic elements – and not to the phonological structures in which those
+sounds participate.
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+469
+
+For the purposes of this discussion, we deﬁne meaning as the conventional
+association of distinctions in the world with distinctions in linguistic form. In
+other words, variables are signs. Peirce (1931–1935) distinguishes three kinds
+of signs on the basis of the relation between form and content: symbols by pure
+convention,
+icons by resemblance, and indexes by association in fact. The
+indexical realm is based in contiguity within the speech situation, as form
+‘points to’ the immediate context from the speaker’s perspective. While this
+pointing may serve a referential function, as in the case of spatial and temporal
+deictics, sociolinguistic variables have no referential function.1 In the case of
+morpho-syntactic variables (e.g. negative concord), the presence of negation is
+referential, but variation in the number of negative particles is used as an
+intensiﬁer; that is, the degree of investment the speaker is making for this
+proposition (Labov 1984b). In this case, variation imbues a referential sign
+with additional,
+indexical, meaning. In the case of some lexico-pragmatic
+variables, such as the use of totally with non-gradable predicates, the semantics
+of the sign may actually contribute to its indexical potential (Acton and Potts
+2014; Beltrama 2016). In this paper, we deal exclusively with phonological
+variation, whose indexicality is entirely independent of reference. The double
+articulation of language (Hockett 1960; Martinet 1968), in which phonology
+provides meaningless elements to combine to yield meaningful elements, leaves
+phonological units free to register distinctions in the collective co-existence
+that is the social world.
+
+We commonly refer to the meaning of variation as ‘social meaning.’ But in
+an important sense, all meaning is social inasmuch as it is constructed for the
+purposes of, and in the course of, social exchange. The distinction between
+child and adult is based on conventional notions of what makes someone a child
+or an adult – notions based in shared understandings of age and development.2
+Even the distinction between a table and a bench is social inasmuch as it is
+based in conventional understandings of the differential characteristics and
+uses of these objects. These conventions will change over time as our needs,
+activities etc. affect the distinctions we live by.
+
+While all symbols are social in this sense that they are socially constructed,
+the meaning of variation is purely social. It has no reference – it does nothing
+but index something about the speaker as a social actor in the speech situation.
+It is this indexical association that we refer to when we speak of social
+meaning. There can be variation without social meaning – a difference in form
+it becomes
+becomes a sign through a process of enregisterment, as
+term
+conventionally
+‘enregisterment,’ as introduced by Agha (2003)
+the
+emergence of RP, is most commonly associated with a higher level sign – a
+register (e.g. Johnstone, Andrus and Danielson 2006). Variables become
+enregistered in the give and take of discourse, as hearers construe a relation
+between form and some aspect of the speaker in the situation, such as stance
+(Kiesling 2005) or qualities (Eckert 2016). Macro-social correlations (i.e. class,
+
+distinction. The
+in the context of
+
+associated with some
+
+social
+
+© 2017 John Wiley & Sons Ltd
+
+470
+
+ECKERT AND LABOV
+
+age, gender, ethnicity, geography) are not in themselves indications of social
+meaning, inasmuch as it is possible for such correlations to be well below the
+level of social awareness (see, e.g., Tamminga 2016). But they do indicate a
+probability that such meaning is at work at the local level. For example, gender
+correlations on a macro-social scale point to the culturally central male-female
+distinction, which in turn abstracts over a range of globally constrained but
+locally constructed practices and potentials. Thus, correlation of a variable
+with a gender category is likely to index that category only indirectly (Ochs
+in virtue of some immediately salient quality that is commonly
+1991),
+associated with that gender category,
+toughness,
+emotionality or trendiness. It is at the level of salient qualities that variation
+is put to use and takes on meaning, and one could even say that the use of a
+variable to index a quality plays a role in making that quality salient.
+
+reﬁnement,
+
+such as
+
+The meaning of a variable emerges not simply in the speaker’s production,
+but in the hearer’s interpretation in the moment. Working with the highly
+enregistered and robustly studied (ING) variable, Kathryn Campbell-Kibler has
+shown that hearers do not interpret the coronal and dorsal variants of (ING) in
+the same way on every hearing. Rather, their interpretation in the moment is a
+function of their mood and of their social perception of the speaker (Campbell-
+Kibler 2008). It is in this process of interpretation that variation takes on
+meaning, and that this meaning can change.
+
+Like reference, the indexicality of a variable emerges in use and can change
+over time, along with changes in the social distinctions it picks out. The
+potential for continual change in meaning is speciﬁcally related to variation in
+Silverstein’s (2003) notion of orders of indexicality, through which a variable
+can progress from indexing a social position (e.g. with a region, a class
+position, an ethnic group) to indexing some quality apparently associated with
+the people occupying that social position. Indexical order primarily concerns
+change in social meaning. It is related to levels of awareness, but in a different
+way from the indicator, marker, stereotype taxonomy which is based on the
+behavior of speakers in the interview context (Labov 1971). Both approaches
+register theoretical points in a continuum of awareness through which
+variables may progress as they become increasingly enregistered (Agha 2003).
+We become aware of indexical orders as variables achieve marker status, but
+how much awareness is required for a speaker to exercise agency in this
+process remains an empirical question.
+
+This report will begin by reviewing the evidence for the social meaning of
+phonological variation, before considering the extent of its intersection with
+linguistic structure and its role as a driving force in changes within that
+structure. It will appear that socially meaningful variation is not equally
+distributed over all phases of language structure, and that the more abstract
+categories and processes may not be socially evaluated by users of the
+language. We will explore the most characteristic and vigorous domains of
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+471
+
+social evaluation, yet show how the impact of social meaning can reach
+beyond its normal limits in the most favorable situations.
+
+FIELDS OF EVIDENCE FOR SOCIAL MEANING
+
+Since meaning is constructed in the interaction between speaker and hearer,
+evidence of social meaning ultimately must be sought by bringing together
+data on production and perception. Over the years, work on perception from
+the earliest matched guise tests (Lambert et al. 1960) has shown that hearers
+use phonetic cues to place speakers in the social order, and that those perceived
+placements evoke a range of social evaluations. When these placements
+correspond to production facts (e.g. Labov 2006 [1966]), there is potential for
+social meaning. But if the evaluations associated with those placements are
+evidence of social meaning, they must be reﬂected in speakers’ situated use of
+the variation. Because the meanings of variables are not ﬁxed but constitute
+something like an indexical ﬁeld (Eckert 2008a), the study of perception must
+ﬁnd a way to get at situated meaning. More recent work on perception (e.g.
+Campbell-Kibler 2008; Podesva et al. 2015) has shown that hearers perceive
+meanings as a function of their perceptions of the context of utterance. This
+work is extremely promising, but in its early stages. In what follows, we will
+focus on evidence of social meaning in production only.
+
+We take as evidence of social meaning a patterning of variation along some
+aspect of differentiation in the local social context. Thus, we ﬁnd social
+meaning where variables shift signiﬁcantly across local social settings and
+situations, across different communities of practice, and in the speech of
+individuals who stand out as exceptional or prototypical.
+
+The same individual in varying social settings
+
+The original studies of the speech community focused on random samples of
+single speakers, each in a similar social setting – the sociolinguistic interview.
+In the interview, the degree of formality is deliberately varied, in order to vary
+the amount of attention the interviewee pays to his or her speech (Labov
+1984a). The resulting shift of stylistically sensitive variables gives an indirect
+indication of how they may operate in community interaction. In actual
+practice,
+factors giving rise to
+variability, as will attention to speech. A direct view of how speakers change
+their variable resources from one social context to another has been obtained
+in several studies in which unobtrusive recordings were made of a given
+individual in changing social settings.
+
+formality will be only one of a variety of
+
+Coupland (1980) recorded the speech of a travel agent in Cardiff over ﬁve
+days at work, talking with friends and work-associates, clients and tour
+operators, in person and over the telephone. He examined the shifts of ﬁve
+phonological variables with the status of Cardiff markers across these social
+
+© 2017 John Wiley & Sons Ltd
+
+472
+
+ECKERT AND LABOV
+
+contexts, and found that while the topic of conversation was not important in
+style shifting, channel,
+friendship status and work relations were. The
+speaker’s use of the Cardiff variants decreased from casual chat to informal
+work-related conversation to talk with clients, and ﬁnally to doing business on
+the telephone. Coupland also noted that these variables did not all vary in the
+same way – that
+the more highly stigmatized stereotypes (h-dropping,
+intervocalic /t/ ﬂapping, and word-ﬁnal cluster reduction) appeared regularly
+in informal speech with her ofﬁce mates, but quite rarely with clients or on the
+phone, while the remaining variables showed a more gradual variability across
+all situations.
+
+In the early stages of
+
+the study of Linguistic Change and Variation
+(henceforward LCV) in Philadelphia (Labov 1980, 2001), Arvilla Payne
+recorded ‘Carol Meyers’ (CM), a 48-year-old Philadelphia woman whom she
+knew intimately, over a two-day period. These recordings took place in three
+social contexts: in the travel agency where Carol worked (Ofﬁce:O); at dinner
+with CM’s family (Home:H); and at a weekly bridge session, featuring lively
+interaction among four close female friends (Game:G). Hindle (1979) analyzed
+the shifts of CM’s vowel system across these three social contexts, using the
+LPC analyses then available to the LCV project. The FAVE program
+(Rosenfelder et al. 2011) has allowed us to complete the analysis for 18,352
+vowels.3 Figure 1, publishing this reanalysis for the ﬁrst time, shows the values
+of normalized F1 and F2 in the three social contexts for the back upgliding
+vowels of Philadelphia.
+
+(cid:129) (aw): the raising of /aw/ (down, out)
+(cid:129) (owC): the fronting of /ow/ in non-ﬁnal position (boat, road, lower)
+(cid:129) (owF): the fronting of /ow/ in ﬁnal position (go, snow)
+(cid:129) (Tuw): the fronting of /uw/ after coronals (two, noon)
+(cid:129) (Kuw): the fronting of /uw/ after non-coronals (move, who)
+
+Table 1 shows the results of regression analysis of the effect of social setting on
+the fronting of these vowels with stress and duration taken into account. This
+single speaker’s contextual shifting takes place against the background of a
+community pattern in apparent time, where all Vw vowels are fronting and
+/aw/ is raising (Labov 2001: Ch. 5). For each vowel, the Game context is at the
+forefront of the change in progress and the Home context is the most
+conservative. We also ﬁnd that for these Philadelphia shifts, as for most sound
+changes, women are in the lead (Labov 1990, 2001). Thus, Hindle (1979:
+142) notes that CM’s pronunciation of these vowels in the Game context
+contributes to a particular female and perhaps youthful persona that she
+assumes in intimate and lively interaction with peers.
+
+Before proceeding, it can be noted that an alternative interpretation of these
+data looks to the character of CM’s behavior in terms of the phonetic gestures
+involved. In four vowels of Figure 1, the Game setting is shifted further front.
+Gordon and Heath (1998) have argued that the frequency code (Ohala 1994),
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+473
+
+1900
+
+1800
+
+1700
+
+1600
+
+F2
+
+1500
+
+1400
+
+1300
+
+1200
+
+H
+
+G
+
+O
+
+H
+
+O
+
+G
+
+G
+
+H
+
+H
+
+O
+
+G
+
+O
+
+G
+
+O
+
+H
+
+400
+
+F1
+
+450
+
+500
+
+550
+
+owC
+
+owF
+
+Kuw
+
+Tuw
+
+aw
+
+600
+
+650
+
+700
+
+750
+
+800
+
+850
+
+Figure 1: Mean values of ﬁve vowels of Carol Meyers in three social settings: Bridge
+Game
+at
+wileyonlinelibrary.com]
+
+(G); Home
+
+(H); Ofﬁce
+
+(O).
+
+[Colour
+
+ﬁgure
+
+can be
+
+viewed
+
+Table 1: Mixed level analysis of effect of social setting on realization of back
+upgliding allophones of Carol Meyers
+
+Social setting
+
+/owF/
+
+/owC/
+
+/uwC/
+
+/aw/
+
+Vowel
+
+Dependent variable
+Bridge Game
+Travel agency
+Dinner at home
+
+n
+p
+
+F2
+66
+4
+-70
+
+490
+.0002
+
+Not signiﬁcant: stress, duration.
+
+F2
+45
+1
+-43
+
+934
+0004
+
+F2
+87
+3
+-84
+
+115
+.0002
+
+F1
+-28
+9
+18
+
+422
+.0006
+
+by which high and low acoustic frequency are associated with small and large
+size respectively, leads female speakers to lead in vowel fronting. If this is so,
+one would expect it to hold regardless of the direction of the change. Thus, we
+might have expected CM to front (aw) in the Game setting, but she instead
+emphasizes the raising component of the change. We note also that the
+
+© 2017 John Wiley & Sons Ltd
+
+474
+
+ECKERT AND LABOV
+
+centralization of (ay) is male-dominated in one community (Philadelphia,
+Labov 1990) and female-dominated in another (Detroit, Eckert 2000). This is
+not to say that the frequency code plays no role in variation (see below), but it
+is unlikely to explain gender on its own. If the frequency code is at work in the
+construction of gender,
+it is based on an embodied experience of relative
+smallness – or of desired smallness. And while smallness plays a role in
+hegemonic ideologies of femininity, it does not ﬁgure in all feminine expression
+(e.g. Mendoza-Denton 1996, 2008). Thus, one can expect the frequency code
+to actually differentiate among women.
+
+A parallel
+
+investigation of the effect of social setting on speech style is
+reported in Podesva (2011), comparing the speech of Regan, a young Asian
+American gay man, in three settings that vary along dimensions similar to the
+CM study: a meeting with his supervisor at work; dinner with a close friend;
+and ‘Boys’ Night Out,’ a weekly gathering of friends for dinner, drinks, and
+dancing. Podesva emphasizes that Regan’s linguistic style in the Night Out
+situation is part of a ‘partier’ persona, quite possibly analogous to CM’s card
+game persona.
+
+Podesva analyzed Regan’s vowels in these three settings in relation to the
+California Vowel Shift (CVS), one of the objects of study by the Voices of
+California group.4
+
+short-a before nasals (BAN) and elsewhere (BAT) (Eckert 2008b);
+
+(cid:129) incrementation of the nasal system,
+increasing the distance between
+(cid:129) a chain shift involving the low back merger of BOT and BOUGHT, backing of
+/æ/ (BAT) and lowering and backing of /e/ (BET) (D’Onofrio 2015;
+D’Onofrio et al. in press);
+(cid:129) the parallel fronting of /ow/ after coronals (TOE) and non-coronals (BOAT)
+and of /uw/ after coronals (TOO) and non-coronals (BOOT) (Eckert 2011b;
+Podesva et al. 2015).
+
+Figure 2 shows mean values of F1 and F2 for eight vowels in the three social
+settings. Three of the CVS shifts are more advanced in the Night Out setting. It
+is evident that BAN is much more different from BAT in the Night Out than in
+the other settings, and the shifts of BOAT and BOOT and are most fronted in that
+setting5 (thus closing the gap between vowels with non-coronal onsets and the
+TOO, TOE vowels with coronal onsets).
+
+At this point we must note the aspect of Figure 2 that is parallel to the
+gestural interpretation of Figure 1, more general than the conﬁguration of
+speciﬁc vowels. For all eight of Regan’s vowels, F1 is clearly highest for the
+Night Out setting, indicating greater sonority. For the high and mid vowels, F1
+values for the Friend setting are intermediate between Night Out and
+Supervisor. Podesva also observes Regan’s use of
+falsetto intonation:
+frequent in Night Out, intermediate in Friend and rare in Supervisor. Thus,
+we observe global shifts of articulation in the construction of a social persona,
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+475
+
+400
+
+500
+
+600
+
+2
+F
+700
+
+800
+
+900
+
+BEAT
+
+Supervisor
+
+Friend
+
+Night Out
+
+BOOT
+
+TOO
+
+BOAT
+
+TOE
+
+BAN
+
+BOT
+
+BAT
+
+1000
+
+2400
+
+2200
+
+2000
+
+1800
+
+F1
+
+1600
+
+1400
+
+1200
+
+1000
+
+Figure 2: Mean F1 and F2 values for Regan in three social settings (based on the
+Appendix to Podesva 2011)
+
+while reﬂections of linguistic change in progress are embedded in these shifts in
+the relative positions of particular vowels.
+
+lexical
+
+Situations can also differ in affective key. The merged low back vowel in
+California is in the process of backing and raising as part of the California Shift
+(D’Onofrio et al. in press), commonly replaced by /æ/ as the lowest vowel in
+the system. Backed variants of this vowel emerge frequently in negative
+expressive uses of particular
+items and perhaps particularly
+exclamatives (e.g. gosh, oh my God). But it emerges as well in longer affective
+stretches. Eckert (2011a) compared the realization of this vowel in the speech
+of a preadolescent girl, ‘Colette,’ in two conversations with different affective
+keys: one in which Colette presented herself as a happy-go-lucky girl, talking
+about the things she liked to do, and one in which she complained at some
+length about what jerks boys are. Her merged /o~oh/ vowel was signiﬁcantly
+higher and further back (F1 p<.001; F2 p<.025) in the negative conversation
+than in the positive one, as was the nucleus of (ay) (F1 p<.025; F2 p<.001).
+Affect in and of itself is eminently social, but in addition, it is clear that Colette
+
+© 2017 John Wiley & Sons Ltd
+
+476
+
+ECKERT AND LABOV
+
+considers her negative affect in this conversation to be indicative of her
+emerging status as a teenager – as having boys to complain about.
+
+The affective use of vowel fronting and backing conforms to the frequency
+code mentioned above, and corresponds closely to Silverstein’s (1994) ﬁnding
+in Wasco Wishram of an association between positive and negative judgment
+and vowel
+fronting and backing. This raises broader issues of phonetic
+processes and even embodiment, which we return to below.
+
+The studies discussed above each focus on a single individual, but they bear
+crucially upon the social patterns that emerge in the larger community studies.
+As mentioned in the introduction, the demographic patterns found in large
+survey studies abstract over a variety of adaptations of semiotic resources to
+speciﬁc situations. The individual’s use of variation animates distinctions found
+in the patterns of increasingly broader communities. Intermediate between
+individuals such as those discussed above and the macro-social structure are
+local social networks and communities of practice.
+
+Social networks and communities of practice
+
+Linguistic change ﬂows through networks of contacts between and among
+individuals. These contacts cluster, and they cluster differently depending on
+the nature of the tie on which the network is based. Each individual’s social
+network will include a variety of clusters – a friendship group, a neighborhood,
+an ofﬁce, a garage band. These clusters arise in response to the conditions of
+life encountered jointly in institutions, regions, social classes, etc., and
+constitute communities of practice (Lave and Wenger 1991; Eckert and
+McConnell-Ginet 1992). The network outlines individual contacts, which
+underlie the mechanics of spread. But while the mechanism of some
+innovations may be mechanical, most innovations are adopted in the service
+of the joint meaning-making enterprise that constitutes practice, and that is
+central to the construction of communities of practice. The situational shifting
+discussed in the previous section in some cases commonly involves individuals’
+movement among multiple communities of practice. In this section, we will
+take up the community of practice as a locus of social meaning.
+
+In an ethnographic study in the all-white high schools of the Detroit
+suburbs, Eckert (2000) found a hegemonic opposition between two class-based
+communities of practice – the Jocks, a middle-class, institution-based suburban
+culture; and the Burnouts, a working-class, neighborhood-based and urban-
+oriented one. While the Jocks avoid the urban area, the Burnouts frequent the
+parks and strip malls of the urban periphery, and seek out contact with their
+more urban peers, whose toughness and street
+they admire.
+Comparisons of schools across the suburban area (Eckert 2000) show that
+three sound changes – the backing of (ʌ) and (e) and the backing and raising of
+the nucleus of (ay) – are spreading outwards from the urban periphery, giving
+them the potential to index urban status and the qualities that go with that
+
+smarts
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+477
+
+status.6 As shown in Figure 3, the Burnouts’ urban orientation shows up in
+their lead in the use of all three of these changes.
+
+While the correlation of the urban variants with these two communities of
+practice is evidence of their indexical value, further evidence emerges when we
+look to the more general school population, including those who afﬁliate with
+neither the Jocks nor the Burnouts, and who commonly refer to themselves as
+‘In-Betweens.’ People across the school population who engage in the practice
+of urban cruising (driving repeatedly along designated urban strips) use the
+urban variants signiﬁcantly more than those who do not (Figure 4).
+
+In their ethnographic work on Ocracoke Island, Wolfram and Schilling Estes
+(1995) identiﬁed a community of practice in the ‘Poker Players,’ a group of
+men who engaged in a regular poker game several times a week. They also
+socialized in other contexts, worked in marine-related jobs, and shared strong
+ideologies about maintaining the traditional island life in the face of tourism
+and migration from the mainland. These men stood out signiﬁcantly from their
+peers in their retention of the conservative mid back [ɔy] pronunciation of (ay),
+as stereotyped in the designation of islanders as hoi toiders (high tiders). This
+case is strikingly similar to Labov’s (1963) ﬁndings on Martha’s Vineyard,
+where the use of the conservative central nucleus of (ay) and (aw) indexed an
+
+Figure 3: Urban variables in Belten High by gender and community of practice
+(p values: ****< .0001; *** < .001; **<.01; * < .05)
+
+© 2017 John Wiley & Sons Ltd
+
+478
+
+ECKERT AND LABOV
+
+Figure 4: Correlation of urban variables with cruising in the general Belten High
+population (p values: ****< .0001; *** < .001; **<.01; * < .05)
+
+emerging local ideological alignment against the threat of mainland economic
+incursion. There, also, it was those engaged in the traditional local ﬁshing
+economy who were most opposed to this incursion and who led in the reversal
+of the lowering. Thus, the original centralized form, a ﬁrst order index of
+island-born status, was recruited to create a new (‘second order’) index of
+island-based ideology.
+
+Prototypical and exceptional individuals
+
+If variables had no social meaning, we would expect speakers to conform
+linguistically to those around them, with differences between individuals
+predictable purely on the basis of density of contact. We ﬁnd, though, that
+some speakers stand out from their linguistic surroundings as exceptional in a
+way that indicates a meaningful use of variables.
+
+Nathan B. A striking linguistic standout is Nathan B., discussed in Labov
+(2006 [1966]: 157–161). An upper-middle-class and highly educated man
+from New York’s Lower East Side, Nathan B. stood out starkly from the other
+speakers in his socio-economic stratum, with a use of stopped variants of (th)
+and (dh) that matched that of lower or working-class speakers. Whatever the
+cause of the pattern, it had clear social meaning for those around him, for it
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+479
+
+was sufﬁcient to bar him from an academic position. He was told that
+continuing at the university would be contingent on improving his speech –
+something he was unwilling or unable to do.
+
+Variation works in an analog fashion. The augmentation of a variable can
+intensify its social meaning. This intensiﬁcation can be achieved through
+increased frequency of use, and through phonetic intensiﬁcation as well. In the
+case of sound change, it can be an exaggerated movement in the direction of
+variation – or away from it. By intensifying her use of
+female-led sound
+changes in her bridge game with ‘the girls,’ Carol Meyers (Figure 1) achieved
+heightened expressivity appropriate to that particular context. Some speakers
+are particularly prone to stylizing more generally, and consequently become
+outliers in the use of variables. These speakers, whom we’ve referred to as
+‘linguistic icons,’ (e.g. Eckert 2000) have been pinpointed as leaders of
+linguistic change.
+
+Celeste S. The study of linguistic change and variation in Philadelphia focused
+on ten socially stratiﬁed neighborhoods. Celeste S. was a central ﬁgure in Clark
+Street, studied by Anne Bower, who was introduced to leading members of the
+neighborhood social networks at the weekly coffee hour at Celeste’s home.
+Social network analysis showed Celeste to have the highest index of interaction
+within the neighborhood (Labov 2001: Ch. 12). She was also the most
+advanced in the raising and fronting of (eyC) in made, pain and (aw) in out,
+down. Celeste was not only a prototypical exponent of Philadelphia phonology;
+she exempliﬁed the social ethos of the working-class community in her
+insistence on correcting violations of the social order. This often led to
+violations of correct and polite behavior on her part, echoing another aspect of
+her linguistic pattern, a relatively high use of stops in the (dh) variable (but not
+as high as that of Nathan B.).
+
+Celeste’s life pattern supports the general conclusion of the Philadelphia
+study that the leaders of linguistic change were among the highest status
+persons in their local neighborhoods. Her position as a social
+leader was
+doubtless enhanced by her moral strength and powerful stances. These
+characteristics show a striking parallel with Haeri’s description of the leaders of
+linguistic change in Cairene Arabic, women who refuse to conform to the
+conventions of proper behavior and denounce those conventions when they
+recognize them as unjust (Haeri 1996; Labov 2001: 409). In this respect, we
+can see some connection with the adolescent patterns of rebellion from
+established norms in the next case to be considered.
+
+The Burned-out Burnouts. The Jocks and Burnouts are distinguished by
+multiple ethnographic means, from their membership in distinct clusters in the
+school’s social network to their practices to what they even call themselves.
+They mark the two extremes in the school’s culture. But they are, nonetheless,
+grouped speakers, and just as the rest of the school’s population falls between
+
+© 2017 John Wiley & Sons Ltd
+
+480
+
+ECKERT AND LABOV
+
+Figure 5: Burned-out Burnouts’ use of urban variables
+
+them, there are differences within the two polar categories. Most particularly,
+the Burnout girls constitute two distinct network clusters. The majority of the
+Burnout girls, commonly referred to as the ‘Regular Burnouts,’ identify as
+Burnouts primarily on the basis of ideologies related to friendship and school
+participation, and they are connected loosely to the rest of the school
+population. There is also a small cluster of girls commonly referred to as the
+‘Burned-out Burnouts.’ These girls are at the edge of the Burnout cluster,
+connected not to Jocks or In-Betweens, but to people outside the school. They
+pride themselves on being the ‘biggest Burnouts,’ on being ‘wilder,’ and on
+being quite separate from the other Burnouts. The Burned-out Burnouts lead
+the entire school, including the other Burnouts, in their use of the urban
+variants of (ay), (e) and (ʌ). Since there is no similar distinction among male
+Burnouts, Figure 5 shows the relation of the Burned-out Burnouts to other
+girls – Regular Burnouts and Jocks. One of the Burned-out Burnouts, Judy,
+stands out in the school as a clear stylistic icon as THE most Burned-out
+Burnout. She leads all speakers in all categories in the raising of (ay) and the
+backing of (ʌ).
+
+WHAT KINDS OF PHONOLOGICAL STRUCTURES TAKE ON SOCIAL
+MEANING?
+
+We then approach the central question of
+types of
+phonological structures carry social meaning? In the case studies considered
+so far, social meaning accrues to variables that are composed of alternate
+realizations of particular phonological objects. But the nature of linguistic
+objects is to combine with other objects in hierarchical
+levels of abstract
+
+this report: what
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+481
+
+relations. This raises the issue of the level of abstraction at which linguistic
+variation is identiﬁed and social meaning assigned.
+
+First, it may be pointed out that the socially meaningful variants we have
+been discussing are not the physical sounds that are subject to measurement.
+People frequently say, in rejecting a certain social variant, that it ‘sounds so
+ugly.’ However, it is not the sound that is so evaluated, but rather the use of
+that sound as the particular allophone representing a certain phoneme. Thus,
+the use of high ingliding [i:ə] in man or bad is stigmatized in the Middle Atlantic
+States, but no one reacts in the same way to the use of the same sound in idea.
+The use of a medial voiced ﬂap in brother as [brʌɾɚ] is widely rejected as
+uneducated and vulgar speech, but the same sound in utter is accepted as
+normal or as a regional variant. In other words, social meaning is assigned to
+sounds at a ﬁrst level of abstraction from concrete production. The variables we
+have considered so far are changes in the range and frequency of allophones of
+a given phoneme.
+
+We have seen that such sound changes take on social meaning as they move
+through communities.
+In English, continuous variation in the phonetic
+realization of vowel allophones is the most heavily employed resource for the
+construction of social meaning. Having no referential function, a phonological
+variable is free to take on purely contextual meaning as it ranges within the
+limits set by neighboring phonemes. Furthermore, the high frequency of
+occurrence of most phonological variables in discourse offers a potential for the
+construction of social meaning through momentary situated use.
+
+While phonological variables seem well designed to take on social meaning,
+the same may not be true for more abstract structures, inferred from relations
+among phonological entities. For these, the evidence for the absence or
+presence of social meaning needs to be examined separately. Variables take on
+social meaning in the fast give and take of interaction, as people associate what
+they articulate and what they hear with aspects of the context. It follows that
+social meaning attaches to forms close to the surface, and not to the structural
+relations behind those forms. While these structural relations may in some
+cases achieve meta-discursive status – usually in the very late stages of change
+– they do not play a role in the actual use of variables. In this section, we
+consider a variety of structural relations that play an important role in sound
+change, beginning with the simplest structural change: the opposition of two
+distinct phonemes to a single merged one.
+
+Mergers
+
+Major factors differentiating North American dialects have to do with the
+inventory of phonological categories. The records of dialect geography show
+some sixteen mergers in North America (Kurath and McDavid 1961; Labov,
+Ash and Boberg 2006) – all but one are conditioned mergers, and all but one
+concern vowels:
+
+© 2017 John Wiley & Sons Ltd
+
+482
+
+ECKERT AND LABOV
+
+(cid:129) The merger of /hw/ and /w/ in which and witch
+(cid:129) The merger of /ohr/ and /ɔhr/ in four and for
+(cid:129) The merger of /iw/ and /uw/ in dew and do
+(cid:129) The merger of /eyr/ and /er/ in Mary and merry
+(cid:129) The merger of /er/ and /ær/ in merry and marry
+(cid:129) The merger of /iyr/ and /eyr/ in fear and fair
+(cid:129) The merger of /iyrV/ and /irV/ in nearer and mirror
+(cid:129) The merger of /o/ and /oh/ in cot and caught
+(cid:129) The merger of /uwr/ and /owr/ in moor and more
+(cid:129) The merger of /in/ and /en/ in pin and pen
+(cid:129) The merger of /iyl/ and /il/ in feel and ﬁll
+(cid:129) The merger of /uwl/ and /ul/ in fool and full
+(cid:129) The merger of /owl/ and /ʌl/ in goal and gull
+(cid:129) The merger of /ahr/ and /ohr/ in far and for
+(cid:129) The merger of /owl/ and /ul/ in pole and pull
+(cid:129) The merger of /iyg/ and /ig/ in big and league
+(cid:129) The merger of /æg/ and /eyg/ in haggle and Hegel
+Evidence for the presence or absence of a merger is quite different from the
+quantitative measures of the stream of speech we have been considering so far.
+Mergers are detected by paratactic examination of the phonemic inventory,
+most commonly by metalinguistic discourse (minimal pairs or commutation
+tests). This does not form a part of ordinary discourse, even when it focuses on
+the use of
+language. In fact, these have one feature in common: their
+invisibility to social observation, comment or pressure. Whether we are dealing
+with nearly completed mergers like /w/ and /hw/ or incipient mergers like
+/owl/ and /ʌl/, the structural facts are equally immune to the acquisition of
+social meaning. This is not to say that the movement of either of the variants in
+the accomplishment of merger is socially meaningless. The merger of /i/ and
+/e/ before nasals in California,
+is clearly associated with an
+‘outdoorsy’ lifestyle (Geenberg 2014) and is often the subject of comment. But
+when social comment about a merger does arise,
+focuses on the
+pronunciation of
+two words rather than on the
+absence of the distinction. Thus, the merger of /i/ and /e/ before nasals is more
+likely to be noted as ‘He says pin for pen,’ than ‘He says pin and pen the same.’7
+Mergers are sometimes perceived as reversals. The merger of /ahr/ and /ohr/
+in Utah and St. Louis has been encapsulated in the stereotyped phrase, ‘Put the
+harse in the born,’ indicating some degree of social awareness (Labov, Yaeger
+and Steiner 1972: 267). The merger of oil and Earl in New York City is often
+reported by outsiders as ‘He says oil for Earl and Earl for oil’ (Labov 1972b:
+316).
+
+the more common of
+
+for example,
+
+it
+
+The social invisibility of mergers may be related to the kinds of paradigmatic
+inspection required to detect their presence or absence. But frequency, cited so
+often in our discussion of sociolinguistic variables, is also involved. Consider
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+483
+
+the frequencies involved in the style shifting of ﬁnal /ow/ by Carol Meyers in
+Figure 1. In the three hours and 27 minutes of the three recorded sessions, she
+used 10,389 measurable vowels. The fronting of ﬁnal /ow/ in the Bridge Game
+is based on 137 tokens; the values for the Ofﬁce on 203, and for Home, on 70.
+In the course of these three conversations, listeners were subjected to a stream
+of 400 of Carol Meyers’ productions of know, go, so, no, etc., at approximately
+the rate of one a minute.
+
+Let us suppose that we wanted to use the same data to detect the state of a
+potential merger in Carol Meyers’ speech. One candidate is the merger of /uw/
+and /ow/ before /r/. This is the result of a long-standing chain shift in
+Philadelphia, the backing of car, mar, bar towards core, more, bore and the
+raising of those allophones towards Coor, moor, boor. Since most speakers do
+not front the high back vowel /uw/ before /r/, this can lead to a merger of Coor
+and core, moor and more, boor and bore.
+
+In the Carol Meyers data, the most common words in the /uwr/ class are
+sure, you’re and your. These do occur in small numbers in the Bridge Game and
+Ofﬁce, where we also ﬁnd brochure and they are considerably fronted from the
+/owr/ class. But that fronting effect must be ascribed to the palatal onsets /y, S/
+unless we can contrast it with shore or chore, which are not present in the data
+set. The only hard evidence for a contrast between /uwr/ and /owr/ is seen in
+Figure 6, based on two pronunciations of tour in the Ofﬁce as against /owr/ in
+door, store and torn. The contrast is marginal. But even if the listener came to a
+conclusion about the state of Carol Meyers’ system in the Ofﬁce, there is no
+basis for contrast with the other discourse settings. We conclude that low
+frequency and sparse distribution prevent most of these potential mergers from
+developing social meaning.
+
+The one unconditioned merger in our list of mergers is an exception to the
+low frequency feature and may therefore show that mergers in general may
+have the potential for carrying social meaning. The low back merger of /o/ and
+
+1500
+
+F2
+
+1300
+
+1100
+
+900
+
+700
+
+500
+
+300
+
+door
+
+store
+
+tour
+
+torn
+
+door
+
+tour
+
+door
+
+uwr
+owr
+
+400
+
+500
+
+600
+
+700
+F1
+
+Figure 6: Data on /uwr/ and /owr/ in the Ofﬁce recording of Carol Meyers
+
+© 2017 John Wiley & Sons Ltd
+
+484
+
+ECKERT AND LABOV
+
+/oh/ in cot and caught, hock and Hawk, Don and dawn, etc., involves much
+higher frequencies of the vocabulary involved but also illustrates the social
+invisibility of a major language division. Merged areas now cover half of North
+America (eastern New England, western Pennsylvania, Canada, the West) and
+the process is advancing in every boundary area. But this ongoing process has
+never taken on the traits of a sociolinguistic variable in the way of style
+shifting, gender construction, or association with a community of practice.8
+Moreover, the literature has yet to record a single case of speakers being
+reprimanded, ridiculed, or corrected for their failure to distinguish cot from
+caught, don from dawn. Rather, social meaning attaches to the individual shifts
+that bring about the merger.9
+
+The evidence for the absence of social signiﬁcance of mergers is necessarily
+negative but it is extensive (see Labov 1994: 343–353). We have seen that the
+actual events that identify mergers – misunderstandings where one word class
+is wrongly identiﬁed as another – are of too low a frequency to play a part in
+the exchange of social meanings in daily interaction. We ﬁnd evidence for this
+in a collection of 923 misunderstandings in everyday life recorded by
+linguistically trained observers (Labov 2010: Ch. 2). Of these, 53 can be
+speciﬁcally attributed to phonological mergers, and 27 to the low back merger.
+Many do not
+the most common
+confusions is between copy and coffee (11 instances). The rounded allophone
+before /p/ of the merged dialect is mistaken for the back rounded /oh/ of the
+unmerged dialect, and the /p ~ f/ opposition does little to prevent the
+confusion.
+
+include strictly minimal pairs; one of
+
+David Sankoff (Montreal): It’s time to make the copies.
+
+William Labov (northern New Jersey): But I’ve already had my coffee.
+
+This misunderstanding was repeated several times during the 1988 NWAV
+meeting in Montreal. Traveling in the West, Ohioan Kyle Gorman reports:
+
+I am currently at a cafe in Portland, OR. The barista, who was born and raised in
+Oregon, asked me if I’d like a ‘copy [of] the receipt.’ I heard ‘coffee with the
+receipt,’ though I recovered from the misunderstanding a second later.
+
+is
+
+that
+
+they reﬂect
+
+is
+
+these reports
+
+startling about
+
+What
+repeated
+misunderstandings on the part of individuals who are fully informed of the
+linguistic situation, yet continue to process language as if they knew nothing
+about it. This is quite different from someone who reacts negatively to an
+advanced allophone [i:ə] in bad but correctly identiﬁes it with the phoneme /æ/.
+One exceptional case of merger reversal has appeared in the sociolinguistic
+record: the unmerger of fear and fair, beer and bare in Charleston, South
+Carolina, a case that deﬁes Garde’s principle on the irreversibility of mergers.
+Baranowski (2007: Fig. 5.27) shows that the restoration of contrast follows an
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+485
+
+s-shaped curve, decade by decade, without any social class differentiation. He
+also points out that this rare reversal is subject to some comment in the
+community. From an upper-class lawyer, John M.:
+
+When I was in the Navy, I would say I want a brew, in order to avoid the usual
+laughter and good-natured teasing I got about the way that I pronounced the
+word, and I tried to learn to say BEER [high vowel]. (Baranowski 2007: 236)
+
+Such comments are as unusual as the reversal of the merger itself.10
+
+While the realization of a phonological variable is a short (and frequent)
+event in a syntactic series of events, merger is a paratactic phenomenon
+whose location in time is not a particular event in the chain of speech. We
+pointed to the high frequency of phonological variables as a factor in their
+acquisition and transfer of social meaning. The listener’s search for evidence
+for or against merger must extend over a considerable period of time given
+the rarity of the critical data cited above – minimal pairs in ambiguous
+contexts.
+
+The spread of mergers
+
+When a community shows a variable merger, one can expect that it will
+expand in a unidirectional manner at the expense of distinctions (Herzog’s
+principle; Labov 1994: Part C). This holds true for all of the regional mergers
+studied in The Atlas of North American English (ANAE; Labov, Ash and Boberg
+2006: Ch. 8, 9). This expansion is normally complete in a single generation
+(Herold 1990; Johnson 2007). Johnson attributes the expansion of the low
+back merger of Don and dawn in Seekonk to the in-migration of families from
+the Boston area, where the merger is complete. One might project a scenario
+in which the prestige of the great metropolis is associated with the merger.
+However, Yang (n.d.) calculates the likelihood of the merger being adopted
+by word frequency and vowel confusability of
+the two classes, with a
+minimum of 21.7 percent of the population using the merged system, and
+this ﬁgure corresponds closely to the percent of in-migrants in the schools
+studied by Johnson. In this case, no further contribution of social meaning is
+required.
+
+Near mergers
+
+The traditional evidence for phonemic contrast is provided by minimal pair
+tests, and this is expected to correspond to statistically signiﬁcant differences in
+production as heard or measured. This agreement
+in production and
+perception is shown in Table 2 as cases 1 and 4. Cases 1 and 4 show the
+expected agreement of production and perception. Case 2, where speakers
+pronounce the pairs in the same way but judge them to be different is a
+common result of orthographic differences, and is of little linguistic interest.
+But case 3, where speakers make a difference that they cannot hear, was until
+
+© 2017 John Wiley & Sons Ltd
+
+486
+
+ECKERT AND LABOV
+
+Table 2: The four possible outcomes of a minimal pair test
+
+Production
+
+Same
+Different
+
+Judgment
+
+Same
+
+1
+3
+
+Different
+
+2
+4
+
+recently thought to be empty; for how could speakers learn to produce a
+difference that they cannot hear? But beginning in 1972, sociolinguistic
+studies of vowel systems found an increasing number of such near-mergers:
+
+(cid:129) r-less source vs. sauce in New York City (Labov, Yaeger and Steiner 1972);
+(cid:129) fool vs. full in Salt Lake City (Di Paolo and Faber 1990);
+(cid:129) palatalized Russian consonants (Diehm and Johnson 1997);
+(cid:129) voicing contrasts in German ﬁnal obstruents (Dinnsen 1985);
+(cid:129) ferry vs. furry in Philadelphia (Labov, Karen and Miller 1991).
+
+It should be clear that the ‘same’ judgments made in minimal pair tests do not
+represent an absence of perception so much as a suspension of the labeling
+function.11
+
+From the point of view of our present inquiry, the near-mergers present the
+clearest case of
+the divergence between social meaning and linguistic
+structure. When we try to direct speakers’ attention to the difference, they
+cannot ﬁnd it. But it is not only the absence of the labeling function that
+removes these contrasts from social meaning. Every case found so far shows
+idiosyncratic social distributions. In the case of Philadelphia ferry vs. furry,
+about one third of the subjects showed a clear distinction, one third a complete
+merger, and one third the near-merger in question. This might be considered
+the opposite of enregisterment: let us say deregisterment.
+
+Splits
+
+Throughout the Mid-Atlantic States, the short-a word class undergoes a split
+into tense and lax forms which may be described by a lexically conditioned rule
+(Kiparsky 1995). These are if anything less visible than mergers. In both New
+York City (Trager 1930; Labov 2006 [1966]) and Philadelphia (Ferguson
+1975; Labov 1989), such structural developments involve lexical and
+grammatical irregularities that in themselves carry no social meaning, do
+not vary with social situations, and are never the topic of comment in meta-
+discourse. Thus, the traditional Philadelphia pattern has:
+
+(cid:129) Tense mad, bad, glad but lax in sad, brad, lad, cad, had and all other words
+
+with /d/ codas.
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+487
+
+began.
+
+(cid:129) Tense man, hand, ham, slam but lax in the irregular verbs ran, swam,
+(cid:129) Tense pan, pants, panning but lax in open syllable words like panel.
+(cid:129) Tense ask but lax in the polysyllables asterisk, aspirin.
+(cid:129) Tense aunt, ant, can’t, [tin] can but lax in the function words and, am, [I]
+
+can.
+
+There is nothing here comparable to the social meaning of the lexical distribution
+of the British ‘broad a’ class, an essential feature of Received Pronunciation,
+which speciﬁes /ah/ in answer but not in cancer, in grass but not in lass. The
+Philadelphia distributions are invisible to social observation, which focuses only
+on the height of the tense vowel rather than on the distribution of tense and lax.
+Recently, a new system has arisen in competition with this, among a rather
+large population of young speakers oriented to higher education (in non-
+Catholic schools with special admission requirements; Labov et al. in press).
+This is the nasal system, rather similar to that found with increasing frequency
+in many parts of the U.S. It is easy to describe:
+
+Tense all and only all vowels before nasal consonants.
+
+But to shift from the traditional Philadelphia to the nasal system requires a
+number of opposing moves:
+
+a. Tense /æ/ before intervocalic nasals (Spanish, Miami, damage).
+b. Tense /æ/ before velar nasals (bank, bang, hang).
+c. Tense /æ/ in function words with nasal codas (can, am, an).
+d. Lax all other /æ/.
+
+In tracing this development across the last two decades, we ﬁnd that steps (a)–
+(d) occur simultaneously. It is not a step-by-step conversion that terminates in
+the nasal system but rather a single shift from traditional to nasal. The new
+nasal system is well deﬁned in macro-social terms. It remains to be seen if its
+use ﬂuctuates with changing social context in a way comparable to the
+linguistic variables in the studies of Carol Meyers and Regan, above.
+
+Some lexical splits are triggered by the opacity of a phonological rule, the
+result of a separate following process. Thus, the Philadelphia raising of /ay/
+before voiceless obstruents became opaque when intervocalic /t/ was voiced to
+a ﬂap. Then Snyder and tiger were raised, joining bike and right (Fruehwald
+2007). Though the raising has been referred to in recent popular videos of
+‘Philly Tawk’ as buyght and ruyght, any public recognition is limited to the
+original core group of words with underlying voiceless consonants.
+
+The origins of lexical splits are obscure but challenging. In Old English,
+short-a underwent a backing to short-o before nasals which was almost
+complete in the Durham region of England, except for Class III preterit strong
+verbs. The sole surviving members of this class are ran, swam and began, which
+are sole exceptions to the tensing of short-a before front nasals in Philadelphia.
+
+© 2017 John Wiley & Sons Ltd
+
+488
+
+ECKERT AND LABOV
+
+Whatever factor has led to a similar partitioning of the short-a word class after
+a millennium is not likely to be an object of social perception.
+
+Chain shifts
+
+The obverse of a merger is a chain shift, which rotates two or more vowels in a
+way that preserves their capacity to signal referential meaning. This end result
+is not visible to the speakers involved in the rotation of the system: the chain
+shift as a whole is not an object of social perception.
+
+The Northern Cities Shift is a set of ﬁve intimately related vowel shifts
+(Figure 7). It is one of the most complex conﬁgurations that have been
+recognized in the study of chain shifts, past and present. Labov traced the
+progress of the ﬁrst four stages in a vast area from western New York State to
+the Great Lakes Region (Labov, Yaeger and Steiner 1972; Labov, Ash and
+Boberg 2006). The ﬁnal link, the backing of /ʌ/, emerged in Eckert’s study of
+Belten High in the suburbs of Detroit.12 Our question is whether this complex
+phenomenon itself has social meaning.
+
+Stages 4 and 5 (Figure 7), the backing of (ʌ) and (e), have been traced in the
+discussion of social meaning in Figures 3, 4 and 5. In the Detroit area, they are
+still spreading outwards from the urban periphery, while the older changes
+show less geographic differentiation. And while the older changes show only or
+primarily a gender difference with girls leading, these ‘urban’ changes show
+Burnouts leading with few gender differences.
+
+This is evident in Figure 8 for the ﬁve stages of the Northern Cities Shift: the
+three black lines follow a completely different pattern from the two grey lines.
+The ﬁrst two stages of the Northern Cities Shift are correlated primarily with
+gender, while the later three are associated primarily with the Jock/Burnout
+opposition. Yet it is also evident here that two adjacent components of a chain
+can share social meaning. The backing of (e) and (ʌ) in the Detroit suburbs co-
+vary, but neither of them shares social meaning with earlier stages of the shift
+
+Figure 7: Five components of the Northern Cities Shift in the notation of Atlas of
+North American English. Numbers represent relative ordering in time.
+
+1. Raising and fronting of short-a, (æ) in bat, ban, etc.
+2. Fronting and unrounding of short-o, (o) in bot, don, etc.
+3. Lowering and fronting of long open-o, (oh) in bought, dawn, etc.
+4. Backing of short-e, (e) in bet, bend, etc.
+5. Backing of short-u, (ʌ) in but, bun, etc.
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+489
+
+Figure 8: Northern Cities Shift in Belten High (p values: ****< .0001; *** < .001;
+**<.01; * < .05)
+
+the fronting of
+
+(ae) and (o)). The lowering and fronting of
+
+(e.g.
+(oh),
+furthermore, combines the social constraints of the backing and fronting
+portions of the shift, led by both girls and Burnouts. The internal correlations of
+the Northern Cities Shift across the entire Northern region in the ANAE data
+conﬁrm this view of its bipartite character. The two highest correlations among
+the vowel shifts of Figure 7 are found for:
+
+(cid:129) the fronting of /æ/ and the fronting of /o/ (.46); and
+(cid:129) the backing of /e/ and the backing of /ʌ/ (.42).
+
+We conclude that it is possible that two adjacent members of a shift can share
+social meaning, but more complex chains do not seem to be objects of social
+perception.
+
+Parallel shifts
+
+Some sequences of vowel shifts may appear as the generalization of a single
+phonological process. Thus, the raising of car and the raising of core may be
+seen as a general raising of back vowels before /r/, rather than a structurally
+motivated sequence. And social meaning might be attributed to this general
+raising.
+
+The social evaluation of parallel shifts appears in the series of sociolinguistic
+changes that took place in the Philadelphia Neighborhood Corpus following
+
+© 2017 John Wiley & Sons Ltd
+
+490
+
+ECKERT AND LABOV
+
+the study of Carol Myers in Figure 1. The ﬁrst two-thirds of the century showed
+a steady fronting of /aw, ow, uw/, with women in the lead (Labov, Rosenfelder
+and Fruehwald 2013: Fig. 14). Beginning with speakers born in 1950, this
+movement was reversed. This phenomenon was attributed to the general
+recession of Southern dialect features under the pressure of the negative social
+evaluation that has been documented in recent years (Preston 1996). The
+social motivation of the Philadelphia reversal is further indicated by the fact
+that it is conﬁned to the female component of the Philadelphia Neighborhood
+Corpus: men preserve their lower values until they converge with women in
+the most recent period. Speakers with higher education are also seen to lead in
+this reversal of Vw.
+
+A good part of the motivation for parallel shifts must be attributed to the
+general tendency of rules to expand their domain of application and so simplify
+their form. Thus, the generalization of the fronting of /uw/ to include /ow/ and
+/aw/ may be represented by
+½þhigh  [½ back=
+
+  [½ back=
+
+w ! ½
+
+The addition of social motivation to this generalizing process cannot easily be
+motivated by the social evaluation of structure at this level. It may seem more
+plausible to argue that the degree of fronting of the nuclei of /aw/, /ow/ and
+/uw/ are evaluated independently. This seems more likely in the light of the
+fact that, in Philadelphia, /uw/ after coronals is exempted from the general
+reversal. While the general
+long been
+characteristic of the South, the fronting of /uw/ after coronals is now found
+throughout North America (Labov, Ash and Boberg 2006: Ch. 12). Though
+Figure 1 and Table 1 show parallel response of Vw allophones to changes of
+social setting, there is no evidence that such parallel shift of allophones has a
+social meaning in addition to the general tendency of rules to expand their
+application and so be simpliﬁed.
+
+/Vw/ vowels has
+
+fronting of
+
+The analysis of parallel shifts is not easily separated from the analysis of
+chain shifts. In place of the tendency towards maximal dispersion, stages 4 and
+5 of the Northern Cities Shift may be considered as a generalized backing of
+short mid vowels. However, this argument cannot be applied to all ﬁve stages
+as a whole: there is no generalized feature adjustment that will produce this
+pattern. Following through, we can suggest that social meaning may be
+assigned to those portions of a chain shift that can be analyzed as a parallel
+shift but not to the maximal dispersion of vowels within a single subsystem.
+The question, then, is what are the limitations on the generalization of social
+meaning to more than one variable?
+
+Eckert (2011b) found that the same local use was made of the fronting of
+/ow/ and /uw/ among Northern California preadolescents. And evidence of
+sound symbolism, as in the case of the frequency code discussed above, leads us
+to consider that some parallel shifts may be a generalization of a phonetic
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+491
+
+gesture that in itself has some potential meaning. Eckert (2011a) found the
+frequency code at work in both (o) and (ay), indexing positive and negative
+affect among preadolescents in Northern California, with anecdotal evidence
+that it is also at work in /ow/. Silverstein (1994) found the frequency code at
+work also indexing affect in multiple vowels in Wasco Wishram as well. Eckert
+(2008a) has suggested that the use of stop release to express emphasis and
+even anger and impatience could be based in the iconization (Irvine and Gal
+2000) of fortition – the association of fortis consonants with physical and
+affective force, and that the process of fortition could itself take on meaning,
+generalizing to other consonants. Sound symbolism would build on both
+acoustics and proprioception. Bourdieu (1990: 63) has described the habitus
+as ‘society written into the body,’ and equates class with articulatory setting,
+based in norms of how to use the mouth more generally (eating, laughing, etc.;
+Bourdieu 1977). This is a meta-view of articulatory setting that connects to
+general ideological dispositions having to do with social tension, which we
+may or may not be able to link to phonetics. But any such link would be likely
+to function above the level of the individual variable.
+
+CONCLUSION
+
+Our review ﬁrst assembles evidence that social meaning is deeply involved in
+phonological variation and that phonological change is frequently motivated
+and accelerated by the association of social meaning with the more concrete
+components of
+linguistic structure. The transmission of social meaning is
+enhanced by the basic design of human language – a small number of empty
+elements that combine to form an unlimited number of meaningful sentences.
+Without the burden of referential meaning, variation in these ‘empty’ elements
+is free to signal information about the speakers and their social relations.
+Though sound change is only one of many mechanisms of change, it is the
+most intimately connected to the give and take of everyday life and it is likely to
+be found whenever we listen closely to what people are saying.
+
+On the other hand, change in the more abstract levels of phonological
+organization is not likely to generate social meaning. The great majority of
+mergers proceed well below the level of social awareness. The details of a
+lexical split that distinguish one dialect from another are hidden from the
+speakers who follow this pattern. The full scope of a complex chain shift is
+beyond the grasp of speakers whose vowel systems are being re-organized. The
+parallel structure of phonological space will be reﬂected in social distributions,
+but social awareness will normally be focused on individual elements. The
+unobservability of paradigmatic structure appears to be a general operating
+characteristic of phonology and phonological change. Social meaning is not
+generally assigned to the paradigmatic relations among phonological
+categories, which are not freely perceived and evaluated by speakers of the
+language.
+
+© 2017 John Wiley & Sons Ltd
+
+492
+
+NOTES
+
+ECKERT AND LABOV
+
+1. For an in-depth discussion of these issues see Silverstein (1976).
+2. An attempt was made to apply the framework for the study of variation in the
+designation of concrete objects (Labov 1972a) to the distinction between child
+and adult. It was abandoned because no deﬁnition could be found independent
+of the particular social privileges in view.
+
+3. Hindle’s (1979) analysis was based on a total of 871 measurements, while here
+
+we are dealing with 18,352.
+
+4. We preserve the lexical identiﬁers of the vowel classes to maintain continuity
+
+with Podesva (2011).
+
+5. And Podesva argues that this sound change is reﬂected in the fact that BOT is
+frontest in Night Out, reducing the Euclidean distance between BOT and BAT.
+6. The backing of (e) and (ʌ) are late stages of the more complex Northern Cities
+
+Shift, to be presented in Figure 7.
+
+7. Among the many mergers listed here, the lexical pair pin/pen comes closest to
+serving as a symbol of public recognition. It remains to be shown that social
+meaning is equally attached to the raising of the vowel in wend and win.
+
+8. We can ask, how would this be possible? Of the four known mechanisms of
+merger (Trudgill and Foxcroft 1978; Herold 1990), implosion is the most likely
+candidate: the rapid reorganization of one phoneme into a space once occupied
+by two. One might imagine the imploded system in one social context and the
+binary one in another.
+
+9. One of our reviewers recalls vividly being reprimanded for the failure to
+
+articulate the initial /h/ in /hw/ words.
+
+10. This Charleston development may be related to the unusual relation of the
+upper class to the community as a whole. The general trend towards a North
+Midland phonology is led by the prominent upper class who were formerly the
+chief exponents of the traditional Charleston dialect.
+11. We are indebted to Leigh Lisker for this observation.
+12. The numbers in Figure 7 represent the best consensus on the ordering of these
+events in time. There remains some evidence that the unrounding of /o/ may
+have preceded the raising of /æ/, and the downward movement of /oh/ appears
+to be quite variable.
+
+REFERENCES
+
+Acton, Eric K. and Christopher Potts. 2014. That straight talk: Sarah Palin and the
+
+sociolinguistics of demonstratives. Journal of Sociolinguistics 18: 3–31.
+
+Agha, Asif. 2003. The social life of a cultural value. Language and Communication 23: 231–
+
+273.
+
+Baranowski, Maciej. 2007. Phonological Variation and Change in the Dialect of Charleston, South
+
+Carolina. Durham, North Carolina: Duke University Press.
+
+Beltrama, Andrea. 2016. Bridging the gap: Intensiﬁers between semantic and social meaning.
+
+Unpublished PhD dissertation. Chicago, Illinois: University of Chicago.
+
+Bourdieu, Pierre. 1977. The economics of linguistic exchanges. Social Science Information 16:
+
+645–668.
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+493
+
+Bourdieu, Pierre. 1990. The Logic of Practice (transl. Richard Nice). Stanford, California:
+
+Stanford University Press.
+
+Campbell-Kibler, Kathryn. 2008. I’ll be the judge of that: Diversity in social perceptions of
+
+(ING). Language in Society 37: 6–37.
+
+Coupland, Nikolas. 1980. Style-shifting in a Cardiff work setting. Language in Society 9: 1–12.
+Diehm, Erin and Keith Johnson. 1997. Near-merger in Russian palatalization. Ohio State
+
+Working Papers in Linguistics 50: 11–18.
+
+Dinnsen, Daniel. 1985. A re-examination of phonological neutralization. Journal of Linguistics
+
+21: 265–279.
+
+Di Paolo, Marianna and Alice Faber. 1990. Phonation differences and the phonetic content of
+
+the tense-lax contrast in Utah English. Language Variation and Change 2: 155–204.
+
+D’Onofrio, Annette. 2015. Persona-based information shapes linguistic perception: Valley girls
+
+and California vowels. Journal of Sociolinguistics 19: 241–256.
+
+D’Onofrio, Annette, Penelope Eckert, Robert Podesva and Janneke Van Hofwegen. In press.
+Low vowel variation in California’s Central Valley. In Betsy Evans, Valerie Fridland, Tyler
+Kendall and Alicia Wassink (Eds.) Speech of the West. Volume I: The Paciﬁc Coast. Durham,
+North Carolina: American Dialect Society, Duke University Press.
+
+Eckert, Penelope. 2000. Linguistic Variation as Social Practice. Oxford, U.K.: Blackwell.
+Eckert, Penelope. 2008a. Variation and the indexical ﬁeld. Journal of Sociolinguistics 12: 453–
+
+476.
+
+Eckert, Penelope. 2008b. Where do ethnolects stop? International Journal of Bilingualism 12:
+
+25–42.
+
+Eckert, Penelope. 2011a. Where does the social stop? In Jeffrey K. Parrott, Pia Quist and Frans
+Gregersen (eds.) Language Variation: European Perspectives III. Amsterdam, The Netherlands/
+Philadelphia, Pennsylvania: John Benjamins. 13–30.
+
+Eckert, Penelope. 2011b. Language and power in the preadolescent heterosexual market.
+
+American Speech 86: 85–97.
+
+Eckert, Penelope. 2016. Variation, meaning and social change. In Nikolas Coupland (ed.)
+
+Sociolinguistics: Theoretical Debates. Cambridge, U.K.: Cambridge University Press. 68–85.
+
+Eckert, Penelope and Sally McConnell-Ginet. 1992. Think practically and look locally:
+Language and gender as community-based practice. Annual Review of Anthropology 21:
+461–490.
+
+Ferguson, Charles. 1975. ‘Short a’ in Philadelphia English. In M. Estellie Smith (ed.) Studies in
+Linguistics in Honor of George L. Trager. The Hague, The Netherlands: Mouton. 259–274.
+Fruehwald, Josef. 2007. The spread of raising: A case of lexical diffusion. Unpublished Honors
+
+Senior thesis. Philadelphia, Pennsylvania: University of Pennsylvania.
+
+Fruehwald, Josef. 2013. The phonological inﬂuence on phonetic change. Unpublished PhD
+
+dissertation. Philadelphia, Pennsylvania: University of Pennsylvania.
+
+Geenberg, Katherine. 2014. The other California: Marginalization and sociolinguistic
+variation in Trinity County. Unpublished PhD dissertation. Stanford, California: Stanford
+University.
+
+Gordon, Matthew and Jeffrey Heath. 1998. Sex, sound, symbolism, and sociolinguistics.
+
+Current Anthropology 39: 421–449.
+
+Haeri, Niloofar. 1996. Why do women do this?: Sex and gender differences in speech. In
+Gregory R. Guy and John Baugh (eds.) Towards a Social Science of Language. Amsterdam, The
+Netherlands: John Benjamins. 101–114.
+
+© 2017 John Wiley & Sons Ltd
+
+494
+
+ECKERT AND LABOV
+
+Herold, Ruth. 1990. Mechanisms of merger: The implementation and distribution of the low
+back merger in Eastern Pennsylvania. Unpublished PhD dissertation. Philadelphia,
+Pennsylvania: University of Pennsylvania.
+
+Hindle, Donald. 1979. The social and situational conditioning of phonetic variation.
+
+Unpublished PhD dissertation. Philadelphia, Pennsylvania: University of Pennsylvania.
+
+Hockett, Charles F. 1960. The origin of speech. Scientiﬁc American 203: 88–111.
+Irvine, Judith T. and Susan Gal. 2000. Language ideology and linguistic differentiation. In
+Paul V. Kroskrity (ed.) Regimes of Language: Ideologies, Polities, and Identities. Santa Fe, New
+Mexico: SAR Press. 35–83.
+
+Johnson, Daniel Ezra. 2007. Stability and change along a dialect boundary: The low vowels of
+southeastern New England. Unpublished PhD dissertation. Philadelphia, Pennsylvania:
+University of Pennsylvania.
+
+Johnstone, Barbara, Jennifer Andrus and Andrew E. Danielson. 2006. Mobility, indexicality,
+
+and the enregisterment of ‘Pittsburghese’. Journal of English Linguistics 34: 77–104.
+
+Kiesling, Scott. 2005. Variation, stance and style. English World-Wide 26: 1–42.
+Kiparsky, Paul. 1995. The phonological basis of sound change.
+
+In John Goldsmith
+
+(ed.) Handbook of Phonological Theory. Oxford, U.K.: Blackwell. 640–670.
+
+Kurath, Hans and Raven McDavid. 1961. The Pronunciation of English in the Atlantic States.
+
+Ann Arbor, Michigan: University of Michigan Press.
+
+Labov, William. 1963. The social motivation of a sound change. Word 18: 1–42.
+Labov, William. 1971. Some principles of linguistic methodology. Language in Society 1: 97–
+
+120.
+
+Labov, William. 1972a. The boundaries of words and their meanings. In Charles-James Bailey
+and Roger Shuy (eds.) New Ways of Analyzing Variation in English. Washington, D.C.:
+Georgetown University Press. 340–373.
+
+Labov, William. 1972b. Sociolinguistic Patterns. Philadelphia, Pennsylvania: University of
+
+Pennsylvania Press.
+
+Labov, William. 1980. The social origins of sound change. In William Labov (ed.) Locating
+
+Language in Time and Space. New York: Academic Press. 251–266.
+
+Labov, William. 1984a. Field methods of the project on linguistic change and variation. In
+John Baugh and Joel Sherzer (eds.) Language in Use: Readings in Sociolinguistics. Englewood
+Cliffs, New Jersey: Prentice Hall. 28–66.
+
+Labov, William. 1984b. Intensity. In Deborah Schiffrin (ed.) Meaning, Form, and Use in Context:
+Linguistic Applications/Gurt ‘84 (Georgetown University Roundtable on Language and
+Linguistics). Washington, D.C.: Georgetown University Press. 43–70.
+
+Labov, William. 1989. The exact description of
+
+the speech community: Short a in
+Philadelphia. In Ralph Fasold and Deborah Schiffrin (eds.) Language Change and Variation.
+Washington, D.C.: Georgetown University Press. 1–57.
+
+Labov, William. 1990. The intersection of sex and social class in the course of linguistic
+
+change. Language Variation and Change 2: 205–251.
+
+Labov, William. 1994. Principles of Linguistic Change: Internal Factors. Oxford, U.K.: Basil
+
+Blackwell.
+
+Labov, William. 2001. Principles of Linguistic Change. Volume II: Social Factors. Cambridge, U.K.:
+
+Blackwell.
+
+Labov, William. 2006 [1966]. The Social Stratiﬁcation of English in New York City (2nd edition).
+
+Cambridge, U.K.: Cambridge University Press.
+
+Labov, William. 2010. Principles of Linguistic Change. Volume III: Cognitive and Cultural Factors.
+
+Oxford, U.K.: Wiley Blackwell.
+
+© 2017 John Wiley & Sons Ltd
+
+PHONETICS, PHONOLOGY AND SOCIAL MEANING
+
+495
+
+Labov, William, Sharon Ash and Charles Boberg. 2006. The Atlas of North American English:
+
+Phonetics, Phonology and Sound Change. Berlin, Germany: Mouton de Gruyter.
+
+Labov, William, Sabriya Fisher, Duna Gylfadottir, Anita Henderson and Betsy Sneller. In press.
+
+Competing systems in Philadelphia phonology. Language Variation and Change.
+
+Labov, William, Mark Karen and Corey Miller. 1991. Near-mergers and the suspension of
+
+phonemic contrast. Language Variation and Change 3: 33–74.
+
+Labov, William, Ingrid Rosenfelder and Josef Fruehwald. 2013. 100 years of sound change in
+
+Philadelphia: Linear incrementation, reversal and re-analysis. Language 89: 30–66.
+
+Labov, William, Malcah Yaeger and Richard Steiner. 1972. A Quantitative Study of Sound
+
+Change in Progress. Philadelphia, Pennsylvania: U.S. Regional Survey.
+
+Lambert, Wallace, Richard C. Hodgson, Robert C. Gardner and Samuel Fillenbaum. 1960.
+Evaluative reactions to spoken language. Journal of Abnormal and Social Psychology 60: 44–
+51.
+
+Lave, Jean and Etienne Wenger. 1991. Situated Learning: Legitimate Peripheral Participation.
+
+Cambridge, U.K.: Cambridge University Press.
+
+Martinet, Andre. 1968. Elements de linguistique generale. Paris, France: Colin.
+Mendoza-Denton, Norma. 1996. Muy macha: Gender and ideology in gang girls’ discourse
+
+about makeup. Ethnos 61: 47–63.
+
+Mendoza-Denton, Norma. 2008. Home Girls. Cambridge, U.K./New York: Blackwell.
+Ochs, Elinor. 1991. Indexing gender. In Alessandro Duranti and Charles Goodwin (eds.)
+
+Rethinking Context. Cambridge, U.K.: Cambridge University Press.
+
+Ohala, John. 1994. The biological bases of sound symbolism. In Leanne Hinton, Johanna
+Nichols and John J. Ohala (eds.) Sound Symbolism. Cambridge, U.K.: Cambridge University
+Press. 222–236.
+
+Peirce, Charles Sanders. 1931–1935. Collected Papers of Charles Sanders Peirce (Volumes 1–6).
+Charles Hartshorne and Paul Weiss (eds.). Volumes 7–8 (1958), Arthur W. Burks (ed.).
+Cambridge, Massachusetts: Harvard University Press.
+
+Podesva, Robert J. 2011. The California vowel shift and gay identity. American Speech 86: 32–
+
+51.
+
+Podesva, Robert J., Annette D’Onofrio, Janneke Van Hofwegen and Seung Kyung Kim. 2015.
+Country ideology and the California Vowel Shift. Language Variation and Change 27: 157–
+186.
+
+Preston, Dennis. 1996. Where the worst English is spoken. In Edgar Schneider (ed.) Focus on
+
+the USA. Amsterdam, The Netherlands: Benjamins. 297–360.
+
+Rosenfelder, Ingrid, Joe Fruehwald, Keelan Evanini and Jiahong Yuan. 2011. FAVE (Forced
+
+Alignment and Vowel Extraction) program suite. Available at http://fave.ling.upenn.edu
+
+Silverstein, Michael. 1994. Relative motivation in denotational and indexical sound
+symbolism of Wasco-Wishram Chinookan. In Leanne Hinton, Johanna Nichols and John
+J. Ohala (eds.) Sound Symbolism. Cambridge, U.K.: Cambridge University Press. 40–60.
+
+Silverstein, Michael. 2003. Indexical order and the dialectics of sociolinguistic life. Language
+
+and Communication 23: 193–229.
+
+Tamminga, Meredith. 2016. Individual differences in matched guise performance. Paper
+presented at Sociolinguistic Variation and Language Processing (SVALP) conference, March
+31–April 2, Virginia Polytechnic Institute and State University, Blacksburg, Virginia.
+
+Trager, George L. 1930. The pronunciation of
+
+‘short A’ in American Standard English.
+
+American Speech 5: 396–400.
+
+© 2017 John Wiley & Sons Ltd
+
+496
+
+ECKERT AND LABOV
+
+Trudgill, Peter and Tina Foxcroft. 1978. On the sociolinguistics of vocalic mergers: Transfer
+and approximation in East Anglia. In Peter Trudgill (ed.) Sociolinguistic Patterns in British
+English. London: Edwin Arnold. 69–79.
+
+Weiner, Judith and William Labov. 1983. Constraints on the agentless passive. Journal of
+
+Linguistics 19: 29–58.
+
+Wolfram, Walt and Natalie Schilling-Estes. 1995. Moribund dialects and the endangerment
+
+canon: The case of the Okracoke Brogue. Language 71: 696–721.
+
+Yang, Charles. No date. Population structure and language change. Unpublished manuscript.
+
+Address correspondence to:
+
+Penelope Eckert
+Department of Linguistics
+Stanford University
+Stanford CA 94305-2150
+U.S.A.
+
+eckert@stanford.edu
+
+© 2017 John Wiley & Sons Ltd
+
+

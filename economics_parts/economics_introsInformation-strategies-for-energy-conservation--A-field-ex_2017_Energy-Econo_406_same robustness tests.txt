@@ -1,0 +1,606 @@
+
+Strategies that provide information about the environmental impact
+of activities are increasingly seen as an effective way to encourage conservation behavior (Evans Name, 2009).  The environmental impact of
+everyday activities is often invisible to consumers who cannot gauge
+the impact of their actions.  Information strategies that aim to correct
+this information asymmetry are increasingly common (Foulon Name,
+2002.  Kennedy Name, 1994).  These include mercury and air pollution
+advisories (Cutter and Neidell, 2009.  Shimshack and Ward, 2010. 
+Shimshack Name, 2007.  Zivin and Neidell, 2009).  mandatory and
+voluntary corporate disclosure (Bennear and Olmstead, 2008.  Delmas
+Name, 2010.  Evans Name, 2009.  Khanna, 2001.  Konar and Cohen, 1997. 
+Lyon and Maxwell, 2007.  Powers Name, 2011) and ecolabels (Hallstein
+and Villas-Boas, 2013.  Teisl Name, 2002).  Such strategies are based on
+the principle that more and better information about the environmental
+impact of activities will encourage consumers to conserve. 
+Electricity conservation has been an especially active context
+for the deployment of information strategies.  Electricity and heat generation accounts for over 40% of greenhouse gases across the world
+(International Energy Agency, 2014) and effective conservation programs could contribute to signiﬁcant environmental improvements.  A
+large number of energy conservation experiments have been conducted using various information strategies to reduce energy use
+(Allcott, 2011.  Allcott and Rogers, 2014.  Asensio and Delmas, 2015. 
+Delmas and Lessem, 2014.  Jessoe and Rapson, 2014).  These include
+providing users with energy saving tips, historical individual usage,
+real time energy usage, peer usage, etc.  Meta-analyses of these ﬁeld
+experiments ﬁnd these strategies to be effective for conservation
+(Delmas Name, 2013), although effectiveness varies with the type of
+message provided. 
+However, until very recently (McRae, 2015.  Pellerano Name 2015),
+there have been no ﬁeld experiments in developing countries that focus
+on information strategies for energy conservation behavior.  Indeed, a recent meta-analysis based on 156 ﬁeld trials published in peer-reviewed
+journals from 1975 to 2012 found that 100% of the studies were conducted in developed countries, mostly Europe and the United States (Delmas
+Name, 2013).  Developing countries differ in many characteristics from developed countries, including income and education levels, and information technology infrastructure, and it is unclear how energy information
+strategies would perform in such contexts.  For example, conducting
+ﬁeld experiments in developing countries could allow researchers to provide meaningful monetary gains and losses with the same amount that
+would be considered trivial in developed countries (Harrison and List,
+2004.  Kachelmeier and Shehata, 1992.  Slonim and Roth, 1998). 1 At the
+same time, the demographic stratiﬁcation of developing countries is
+changing rapidly, with an increase share of middle classes with higher income levels.  For example, the middle class population of India is estimated at 267 million individuals and to double to 547 million individuals by
+2026. 2 We still know little about the attitudes of these middle class
+households towards energy conservation and how to best engage them
+in conservation behavior (Mawdsley, 2004).  Some have described middle
+classes as particularly responsive to environmental issues because they
+have inherited a culture of conservation due to scarcity of resources
+(Vyas, 2012).  Others have suggested that middle class exhibit a lack of
+concern about the public good because they are swept into the global
+frenzy of consumption (Gidwani and Reddy, 2011).  So it is unclear how
+middle class households in developing countries will engage with information about energy conservation and act on it. 
+Since the majority of the growth in energy demand over the next
+few decades will come from the developing world (Wolfram Name,
+2012), and because of the rapid growth of middle class households,
+identifying cost-effective strategies for promoting energy conservation
+behavior for the middle class in these countries could have a profound
+impact on greenhouse gas emissions. 
+In this study, we contribute to the energy conservation behavior
+literature by conducting a ﬁeld experiment on electricity conservation
+behavior in urban India.  In recent years, India has emerged as one
+of the fastest growing economies of the world, entailing an equally
+rapid increase in energy consumption (Balachandra Name, 2010).  The
+estimated electricity consumption in India was of 882,592 GWh in
+2013, showing an annual growth rate of 9% since 2006 (Government
+of India, 2015).  India's consumption of energy is now the fourth largest
+in the world, behind China, the U. S and Russia (IEA, 2012).  Although
+the Indian economy is gradually becoming more energy efﬁcient,
+India is still among the least energy efﬁcient countries in the world
+(Balachandra Name, 2010). 
+Most importantly, electricity generation is a major source of air
+pollution in India (Guttikunda Name, 2013), since 66% of the electricity
+generation is derived from coal power plants (Guttikunda and Jawahar,
+2014). 3 The pollution from these plants resulted in an estimated
+80,000–115,000 premature deaths and N20 million asthma cases from
+exposure to total particulate matter (PM) 2. 5 pollution (Guttikunda
+and Jawahar, 2014).  Because of the signiﬁcant health impact of electricity generation in India, we decided to conduct a randomized ﬁeld
+experiment to test how motivations on the health impact of energy
+use motivate consumers to conserve electricity as compared to more
+conventional monetary motivations to conserve. 
+Buildings in India account for N30% (264,778 GWh) of overall
+energy consumption and residential building are responsible for 93%
+(246,243 GWh) of building energy consumption (Batra Name, 2013. 
+CEA, 2012).  Indian residential energy use is expected to increase by
+around 65–75% in 2050 compared to 2005 (Van Ruijven Name, 2011). 
+The urban population constitutes about a third of the total population
+and a major share of the residential energy consumption (Chaturvedi
+Name, 2014).  Studying middle class urban households is particularly important because research shows that the impact of urbanization on
+emissions is more pronounced in the middle-income group than in
+the other income groups (Poumanyvong and Kaneko, 2010).  We therefore focus our research on identifying the most effective information
+strategies for energy conservation behavior in the residential sector
+for urban middle class households. 
+We replicated the methodology used in a randomized ﬁeld experiment conducted in the U. S.  by Asensio and Delmas (2015, 2016).  We
+provided real-time, smart metering energy feedback to 19 Indian
+households over an academic year, to test the effectiveness of two
+different messaging strategies based either on the environmental
+and health impacts of electricity consumption, or on the monetary
+savings of reducing electricity consumption.  While our sample size
+was relatively small, our advanced energy metering system enabled
+us to collect high frequency data with the statistical power necessary
+to detect changes in energy consumption behaviors.  This aspect
+of our energy metering system is remarkable as low technology
+electricity infrastructure as often been the main barrier to conduct
+energy information experiments in developing countries.  Indeed, in
+India, electriﬁcation rates are low, and the electricity grid frequently
+fails to provide a reliable supply of power when people need it
+(Urpelainen, 2014). 
+Furthermore, our system allowed us to identify participants' level
+of engagement with the treatment messages.  Namely how many
+times participants actually read the messages we sent them and how
+many times they visited their personalized electricity usage dashboard. 
+This feature allows us to assess the effect of the actual treatment,
+speciﬁcally when people access their energy feedback information,
+rather than just measuring the effect of the intent to treat, that is
+to say sending the email or making the information available on
+the dashboard.  This contrasts with previous energy conservation messaging strategies that relied mostly on “intent to treat” study designs
+(Schultz Name, 2007.  Allcott, 2011).  This method also allows us to
+measure the link between engagement with the information and conservation behavior. 
+Our results show that non-monetary messages that framed electricity
+consumption in terms of environmental and health impacts were more
+effective than monetary messages that framed electricity consumption
+in terms of ﬁnancial savings.  Households in the environmental/health
+treatment group were more engaged with their electricity feedback,
+and reduced their electricity usage by 18. 4% relative to the control
+group, while households in the monetary group did not make signiﬁcant changes in their usage throughout the 12 weeks of the experiment
+relative to the control group.  These revealed preferences provide stark
+contrast to the stated preferences disclosed in a survey of 1820 residents of urban India, in which survey participants identiﬁed monetary
+savings, not health protection, as their main motivation for energy
+conservation. 
+Our ﬁndings illustrate the advantage of ﬁeld experimental techniques to reveal conservation behavior and the potential for nonmonetary information strategies for encouraging energy conservation
+behavior in developing countries. 
+The failure to engage in energy efﬁciency has been characterized as a
+market failure associated with imperfect information.  individuals lack
+the relevant information or knowledge to engage in energy saving
+behaviors (Golove and Eto, 1996.  Brown, 2001.  Gillingham Name, 2009)
+and acquiring such information is costly.  One potentially effective informational tool is the provision of frequent feedback to consumers regarding their energy usage.  Such information can allow consumers to
+better understand when and how they are using electricity, and help
+them improve energy usage decisions (Fischer, 2008).  Being reminded
+of energy usage periodically may also help trigger conservation activities by making energy usage more salient. 
+Conservation strategies based on energy feedback and information
+increase individual awareness of the issues and of the possibilities to inﬂuence the problem.  However, they do not automatically lead to energy
+conservation behavior.  Once individuals have this information, they
+weigh the beneﬁts versus the cost of their actions before deciding to engage in conservation.  Information strategies can focus on different types
+of motivations of behavior, such as for example pecuniary motivations
+or moral payoffs.  Yet, it is unclear which strategies are more effective
+depending on the context in which they are implemented.  Furthermore,
+bounded rationality suggests that consumers are rational but face cognitive constraints in processing information that lead to deviations from
+rationality in certain circumstances (Gillingham Name, 2009.  Yoeli
+Name 2017).  Thus the need to investigate the effectiveness of different
+information framing for energy conservation. 
+2. 1.  Pecuniary strategies. 
+Pecuniary strategies represent a set of strategies commonly used in
+conservation behavior studies.  Lowered energy use results in ﬁnancial
+beneﬁts to households that pay their own electricity bills.  Individuals
+should be expected to take up energy conservation as long as the beneﬁts of doing so are larger than the costs. 
+Many energy conservation experiments inform participants about
+the ﬁnancial expenses and/or savings potential associated with their energy usage (see Delmas Name, 2013 for a review).  Some studies found
+strong effects of price signals on the timing of electricity consumption
+(Faruqui Name, 2010.  Newsham and Bowker, 2010), or total energy consumption (Gillingham Name, 2009.  Ito Name, 2015), demonstrating that
+price signals affect behavior.  However, other studies indicate that pecuniary incentives might be counterproductive for energy conservation
+because they might crowd out more altruistic or prosocial motivations
+(Bénabou and Tirole, 2006.  Bowles, 2008).  Furthermore, pecuniary
+strategies might not be effective if the monetary incentives are small. 
+The literature is therefore divided on the effectiveness of pecuniary
+strategies for energy conservation. 
+2. 2.  Moral payoffs. 
+There is a rich literature on the importance of moral payoffs and social norms on household consumption decisions.  Research has shown
+that normative strategies can motivate human behavior in the interests
+of the long-term beneﬁts of the social group rather than the short-term,
+self-interested behavior of the individual (Nolan Name, 2008). 
+Learning that one's marginal consumption imposes social costs on
+others can lead to different moral sensitivities to the health impact on
+others.  Research suggests that disclosing environment and healthbased externalities to consumers can be effective at shifting conservation preferences by increasing the perceived moral beneﬁts of conservation (Thaler and Sunstein, 2008).  However, health motivations differ
+from purely moral motivations since conservation provide not only
+health beneﬁts to others, but also potential health beneﬁts to the individual taking the conservation action. 
+Asensio and Delmas (2015, 2016) studied the effectiveness of monetary savings and environmental and health messaging strategies on energy conservation behavior in the U. S.  They conducted a randomized
+controlled trial in 118 apartments in Los Angeles over 8 months and
+found that environment and health-based information treatments motivated 8% energy savings versus control, and were particularly effective
+on families with children, who achieved up to 19% energy savings.  They
+did not ﬁnd any signiﬁcant impact on energy conservation of a message
+on monetary savings.  However, it is unclear how such information
+strategies would work when implemented in a developing country.  For
+example, because monetary gains in developing countries might be a
+more salient motivation than in developed countries, we might expect
+framing based on monetary savings to be a more effective strategy
+(Harrison and List, 2004). 
+Indeed, cultural attitudes toward energy conservation might differ
+in developing countries from those in developed countries and lead
+to different responses to information.  In India, for example, some
+have argued that people living in urban areas have a culture of ‘deep
+conservation’, where conservation is a learned habit due to scarcity
+of resources (Shrinivasan Name, 2013), and that the potential for conservation has already been tapped.  This is in contrast to conservation attitudes observed in developed countries (Brounen Name, 2013).  In order
+to explore attitudes towards energy conservation in India, a door-todoor survey of 1820 residents of urban India was conducted in 2013
+(Batra Name, 2013). 4 The goal of this survey was to better understand
+the motivations to conserve energy as well as opinions about the use
+of information technologies for conservation.  Middle- and highincome households in urban India were chosen as the focus population
+because they have access to electricity and own multiple types of appliances, allowing for various conservation strategies. 5
+Among other things, each participant was asked how often they
+engage in speciﬁc energy conservation behaviors as well as their motivations for engaging in those behaviors.  The most common action to
+conserve electricity was unplugging appliances, with 86% of respondents stating they always or often engage in this behavior.  This was
+followed by turning off the air conditioner (81%), buying energy efﬁcient appliances (80%), turning off lights (67%), and changing appliance
+settings (55%). 
+We were particularly interested in the motivations for taking speciﬁc
+actions to reduce electricity consumption.  The responses from this survey are summarized in Table 1.  Health was among the least common
+motivation for almost every energy conservation behavior.  Overall, for
+respondents that always or often engage in energy conservation behaviors, 84% cited saving money as a motivation and 43% cited habits.  Only
+9% of respondents cited the health of themselves or their family as a motivating factor for engaging in energy conservation. 6 For example, regarding unplugging appliances, as shown in Table 1, out of the households
+who unplug appliances always or often, 70% said they do so to save
+money, whereas 29% did so out of habit.  Only 0. 6% of these households
+unplugged their appliances because of health concerns. 
+The relatively low percentage of respondents who indicated health
+as a motivation for energy conservation was quite surprising since energy production in India is a major cause of air pollution.  This might
+indicate a lack of understanding of the link between energy use, the
+generation of electricity, and its associated air pollution.  Most studies
+tend to show low awareness of the health impact of air pollution and
+low understanding of how electricity is generated (Dunlap Name, 1993. 
+Bickerstaff, 2004.  Lee Name, 2015).  Although existing studies tend to be
+focused on North America, Europe and Japan.  One survey of 1724 respondents in India showed that while 78% were quite aware of the air
+pollution in their locality, very few respondents could identify the
+cause of air pollution. 
+Based on the motivations from the survey, we would expect that information about monetary savings would be more effective to drive
+conservation behavior than information about health beneﬁts since
+monetary motivations were cited more often than health motivations. 
+However, research shows that there is often a gap between intentions
+and behavior.  Thus this importance of conducting
+a ﬁeld experiment. 
+<Middle> Methodology. 
+While the survey is useful to gather information about energy conservation attitudes, it is limited in its ability to assess real conservation
+behavior.  In order to test the effectiveness of monetary and nonmonetary information strategies on electricity conservation behavior in
+India, we conducted a randomized controlled ﬁeld experiment in a modern faculty apartment building located at the Indraprastha Institute of Information Technology (IIIT-D) in New Delhi. 
+Our data includes 375,805 ﬁfteen-minute electricity readings from
+19 households over an academic year.  Our ﬁeld experiment, while
+small in size, takes advantage of two randomized treatment groups
+and a control group, high-frequency electricity data, detailed personalized electricity feedback, and knowledge of each participant's engagement with their electricity consumption feedback.  This experimental
+design allowed us to test the impact of information strategies on energy
+conservation as well as the impact engagement with energy usage information has on conservation. 
+In one treatment, households received energy feedback messages
+describing the additional cost of their energy consumption in comparison to their most efﬁcient neighbors.  In the other treatment, households
+received feedback about their consumption in the metric of reduced air
+pollution emissions rather than as dollar costs to the household.  That is,
+one group received information about how energy efﬁciency was serving their self-interest, and the other about how energy efﬁciency was
+contributing to the common good of reduced air pollution.  The control
+group didn't receive energy feedback messages. 
+own electricity bills, our experimental results therefore represent
+outcomes of real-life consumptions decisions in their natural settings. 
+Second, apartments are standardized across the building with the
+same size and layout.  This helps to control for differences in infrastructure to isolate energy use behavior.  Third, our experimental design required the installation of an energy monitoring system that could
+record and process electricity usage, as well as distribute this information to participants on a web-based dashboard.  Choosing a modern
+faculty housing complex on the IIIT-D campus ensured that 1) the infrastructure was in place that allowed the monitoring system to be
+installed, 2) there was an engineer on site that could immediately troubleshoot any issues with the system, and 3) the study participants
+would have internet access in their apartments and have the opportunity to view and interact with the treatment messages. 
+The apartment building was built in 2012 and consists of 28 individual faculty apartment units.  In summer 2013, we sent an email to
+the faculty members in these apartments to describe the experiment
+and provided a link for each household to complete the consent
+process and entry survey. 9 Of the 28 households that were contacted,
+19 (68%) agreed to participate in the study.  To test for differences in average electricity consumption for the participants and non-participants,
+electricity consumption data were collected for all apartments in the
+complex.  no statistically signiﬁcant differences were found for the participating and non-participating households (P-value = 0. 86). 
+Each apartment has three bedrooms and three bathrooms and is approximately 1700 square feet. 10 While individual appliances present in
+each apartment are not directly observable, the typical apartment includes multiple room-level air conditioners, a refrigerator, water heater,
+microwave, lights, fans, a television, and a computer.  At the beginning of
+the study, each of the 19 participating households completed a brief survey that asked for basic household demographic information.  Summary
+statistics for these demographics are presented in Table 2.  Of the 19
+households in the sample, 31. 6% have children.  The typical apartment
+has two adults with approximately 84% having a male head of household.  While not shown in Table 2, the average household income for
+all of the participants is approximately 125,000–170,000 Rupees
+per month and their average monthly electric bill is approximately
+1551 Rupees per month. 11 We recognize that our participating households are more educated and have higher income levels than the average
+household in India.  While the sample may not be representative of the
+3. 1.  Field site and recruitment. 
+Our ﬁeld site has several important characteristics that facilitated
+the implementation of the experiment.  First, all residents pay their
+broader population of India, they are typical of urban households in India
+that could have smart metering technology installed in their homes. 
+When comparing these households to the sample in the survey of
+urban residents of New Delhi, we ﬁnd that the average number of adults
+living in the household is slightly lower with 2 adults as compared to 3
+in the survey, and that the number of bedroom is similar with 3 bedrooms in both cases.  When we limit the survey responses to a more
+comparable sample of highly educated people living in apartments,
+we ﬁnd that the responses regarding the importance of money versus
+health as a driver for conservation remains the same as with the main
+survey sample.  That is to say, monetary motivations dominate, while
+health is seldom mentioned.  In Appendix Table AI, we report the survey
+results for respondents with a bachelor's degree or higher, who live in a
+household with two or three adults, and have an income below ﬁve
+lakhs per year.  The results show that for all conservation behaviors,
+money is cited as the main driver for above 60% of the respondents
+while health is about 1% or less.  These results are not signiﬁcantly different from those of the full sample. 
+Results based on the intake survey of our participating households,
+showed that only a minority of the participants thought their community was energy conscious (37%), but a majority believed it was possible to
+conserve energy (58%).  This is important since if individuals perceive
+they can't have a signiﬁcant impact on energy consumption, they might
+not behave in a pro-social manner (Larrick and Soll, 2008).  In addition
+they exhibited slightly more pro-environmental attitudes than US households participating in Asensio and Delmas (2015, 2016).  Our participants
+were more likely to agree with the statements that “when humans interfere with nature it often produces disastrous consequences” and
+“plants and animals have as much right as human to exist. ”
+3. 2.  Experimental design. 
+To test the effectiveness of our information messaging strategy on
+energy conservation, we followed the study design used in Asensio
+and Delmas (2015, 2016).  Each participating household was randomly
+assigned to one of the two treatment groups or to the control group. 
+Both treatment groups had access to an online dashboard that
+displayed thirty-second, daily, weekly, and monthly electricity data. 
+The electricity consumption of the control group was observed but
+this group did not receive any information about their electricity
+consumption. 
+The data presented on the dashboard included electricity consumption data for the past month, week, and day as well as real-time readings
+that would update every thirty seconds.  Lastly, electricity consumption
+for the 20% most efﬁcient apartments was calculated and presented on
+each apartment's dashboard as a benchmark for energy efﬁciency. 12 The
+dashboard can be seen in Fig.  1 and was accessible to the participants
+any time.  In addition, personalized weekly emails were sent to each
+household in the treatment groups and summarized their past week's
+electricity consumption with a link to their personal energy dashboard. 
+Randomly selected households were assigned into one of the two
+treatment messages as displayed in Table 3.  Households that were
+assigned to the monetary group were provided their actual electricity
+consumption in kWh along with information about much money they
+would spend over one year compared to their most efﬁcient neighbor
+(₹7/kWh).  Another group of households received energy use feedback
+with tailored information about the environmental health consequences of their consumption.  Along with their actual electricity consumption in kWh, these households were told how many additional
+kilograms (kg) of pollutants were emitted (0. 753 kg/kWh) as a result
+of their electricity consumption compared to their most efﬁcient
+neighbor. 13 The messaging included a comparison to their most efﬁcient
+neighbors, and therefore used descriptive norms.  They were also told
+that these pollutants are known to contribute to health effects such as
+childhood asthma and cancer.  As an example, of what the participants
+saw, we present below a message for each treatment that uses the
+same amount of electricity usage. 
+Monetary message.  “Last week you used 20% more electricity than
+your efﬁcient neighbors.  You spend ₹1820 more over one year. ”
+Environment/health message.  “Last week you used 20% more electricity than your efﬁcient neighbors.  Over one year, you are adding
+195 kg of pollutants which contribute to health impacts such as
+childhood asthma and cancer. ”
+With the exception of the treatment messages, the dashboards for
+the health and ﬁnancial groups were identical.  This ensured that the
+average treatment effects that were estimated were a function of
+the treatment message and not of the availability of detailed historical
+electricity data. 
+One concern might be that some of the households in the control
+group might be aware of the experiment and that they behavior might
+be impacted by this knowledge.  Although this is a possibility, it is unclear how this information would impact the behavior of the control
+group since they had no information about their electricity usage.  In
+other words, they did not know whether they were above or below average users in the complex.  If households in the control group did take
+measures to reduce their electricity during the experiment, then this
+would reduce the magnitude of our results, and therefore would indicate that our results are conservative. 
+Summary statistics for the treatment and control groups are presented in Table 4.  Observable household characteristics are balanced
+across the treatment groups, but differences do exist in pre-treatment
+electricity consumption.  Household ﬁxed effects are included in the regressions below to control for any time-invariant differences between
+the treatment and control groups. 
+3. 3.  Technology. 
+As is shown in Fig.  2, each apartment in this faculty complex
+was equipped with an energy metering system that allowed highfrequency electricity readings to be recorded every thirty seconds and
+stored on a server.  Building on the system described in Chen Name
+(2015), a script was written to automatically process the data as it
+was received by the server and then push the results to a personalized
+energy web dashboard for each apartment. 
+High-frequency electricity data was collected for each of the 19 participating households from August 1, 2013 to May 12, 2014.  The data
+collection period corresponds to the academic year. 14 The baseline
+period lasted about 6 months.  On February 18, 2014, participants in
+the two treatment groups received the ﬁrst email with the treatment
+messages and were provided access to their personal energy dashboard. 
+The treatment period lasted about 3 months. 
+This data was used to calculate electricity consumption over ﬁfteenand thirty-minute intervals as well as hourly and daily electricity
+readings.  Even though the study site was able to provide electricity reliably, there were still several instances when the metering system failed
+to record electricity data.  If the metering system failed to record data
+at non-random times, or non-randomly across treatments, there is a
+concern that the average treatment effects could be biased.  This problem was mitigated by calculating electricity usage as the difference
+in cumulative energy consumption at two points in time, not by aggregating the thirty second readings.  This ensured that electricity consumption can be accurately estimated even when there are periodic
+disruptions with the metering system.  For example, electricity
+consumption for a ﬁfteen-minute window for a speciﬁc apartment
+was calculated as Eit − Eit − 15 where E is cumulative energy for apartment i.  Calculating electricity consumption using this method ensured
+that electricity consumption can be accurately estimated even if there
+is a network failure between time periods t and t − 15. 15
+There were also several instances where data were missing for longer intervals so that electricity usage could not be estimated reliably
+using the method described above.  As long as the data were missing
+randomly, unbiased average treatment effects can still be estimated. 
+The patterns of missing data were investigated by calculating the
+share of missing observations for each hour of the day, and for each
+day of the week.  Missing data appears to be randomly distributed across
+days of the week.  With the exception of 1–3 a. m. , missing data also appears to be distributed randomly throughout the day.  During 1–3 a. m. ,
+there are signiﬁcantly fewer missing observations compared to all
+other hours.  As a robustness test, the share of missing values for each
+apartment-day-hour was calculated and included in regression Eq.  (1)
+described below. 
+One concern might be that some households were away for long
+time periods during the experiment and thus had a lower consumption,
+or that some households could have replaced one or more appliances
+with some that are more energy efﬁcient.  We asked for these possibilities in the exit survey and respondents told us that they were present
+most of the time during the experimental period, which took place
+during the academic year. 
+The ﬁnal sample included 375,805 ﬁfteen-minute observations to be
+used in the analysis.  The data is available at Delmas (2017).  The average
+household used approximately 8. 94 kWh of electricity per day (272
+kWh/month) which is slightly below the household average of 374
+kWh/month in Delhi shown in Tewathia (2014).  Since the apartments
+in the study area are relatively new compared to the rest of Delhi, the
+lower level of electricity consumption is not surprising.  As shown in
+Table 5, pre- and post-treatment electricity consumption is signiﬁcantly
+different for the health group (P b 0. 001).  There is also a slight decrease
+in consumption for the control group (P b 0. 1) but no signiﬁcant difference for the monetary group. 
+3. 4.  Econometric speciﬁcation. 
+Data was collected for over 9 months for each of the 19 households
+in the sample.  Since the number of time periods is signiﬁcantly greater
+than the number of households, treatment effects can be estimated
+using an efﬁcient generalized least squares estimation (Cameron
+and Trivedi, 2010).  The long panel characteristics of our data allows individual household effects to be accounted for using apartment-speciﬁc
+ﬁxed effects and a more robust model of the error term than what is
+typically used. 16 The following difference-in-differences speciﬁcation
+is estimated like this where Yit is the log of electricity usage for apartment i at time t.  We observe electricity usage at the daily, hourly, thirty-minute, or ﬁfteenminute intervals and provide the results for all these different time
+intervals.  Postt is a dummy variable equal to one for all observations
+after treatment messages started, and healthi and ﬁnanciali are dummy
+variables indicating which treatment group to which each household
+was assigned.  αi represents household-speciﬁc ﬁxed effects that account for any time-invariant household speciﬁc effects, and γt include
+a cubic time trend as well as day-of-week and hour-of-day dummy
+variables. 17 εit is the error term and accounts for auto-correlated errors
+within household. 18 Additionally, the standard errors are corrected
+for heteroskedasticity.  If both of the hypotheses discussed above are
+correct, β2 b 0 and β3 = 0.  We also run robustness tests with additional
+speciﬁcations as described after the main results. 
+In what follows, the average treatment effect refers to the β2 and β3
+coefﬁcients in Eq.  (1) above.  Since a difference-in-differences speciﬁcation is used, the average treatment effects measure the difference in
+electricity usage for the treatment group pre-and post-treatment
+minus the difference in electricity usage for the control group pre- and
+post-treatment.  More formally, the average treatment effect is approximately [YT,Post − YT,Pre − (YC,Post − YC,Pre)] where Y measures average
+electricity usage for the treatment and control groups pre- and posttreatment.  A negative average treatment effect would indicate that the
+reduction in electricity usage for the treatment group is larger than
+any reduction in electricity usage for the control group.  That is, the average treatment effects that are discussed below measure energy savings
+relative to the control group. 19
+4.  Results. 
+4. 1.  Main speciﬁcation. 
+Results from the primary speciﬁcation in Eq.  (1) are shown in
+Table 6.  Column 1 of Table 6 uses ﬁfteen-minute electricity readings as
+the dependent variable, which is similar to the reading frequency available with most modern electricity smart meters.  As such, this frequency
+of electricity data is what would likely be used to estimate the impact
+of information strategies on energy conservation on a large scale.  For
+example, Jessoe and Rapson (2014) uses fifteen-minute electricity
+smart meter data to measure the impact of real-time electricity pricing
+information.  Using the fifteen-minute data as the dependent variable
+reveals a statistically significant average treatment effect of −18. 4%
+for households in the health group and no statistically significant difference
+for households in the financial group. 
+In addition, to determine how sensitive the average treatment
+effects are to the frequency of data use, Eq.  (1) was estimated using
+daily, hourly, and thirty-minute electricity readings as the dependent
+variable.  Results that use thirty-minute electricity readings as the dependent
+variable are used in Column 2 and an average treatment effect
+of −15. 1% is estimated for those in the health group.  For the financial
+group, amarginally significant average treatment effect of−4. 45% is estimated. 
+In Column 3, hourly electricity readings are used as the dependent
+variable and an average treatment effect of −12. 1% is estimated
+for those in the health group.  An average treatment effect of −6. 1% is
+estimated for households in the financial group, but this effect is not significant
+at conventional levels.  In column 4, daily electricity readings are
+used as the dependent variable and the results showno significant average
+treatment effects for the health or financial groups.  Given the relatively
+small number of participants in this study, it is not surprising
+that such low-frequency data are unable to detect any significant differences
+in the treatment groups. 
+Cumulative average treatment effects for the health and financial
+groups are shown in Fig.  3.  Eq.  (1) was estimated using all fifteenminute
+energy readings (pre- and post-treatment) collected through
+the end of each seven-day period past treatment as the dependent
+variable to determine how energy conservation behavior evolves over
+time.  The estimated β2 and β3 coefficients from Eq.  (1) are shown in
+Fig.  3.  In the earlyweeks of treatment,we find positive treatment effects
+for both treatment groups indicating that both treatment groups were
+saving less electricity post treatment relative to the control group. 
+After approximately week six, electricity consumption for the financial
+group was not statistically different from the control group and this
+pattern continued throughout the remainder of the experiment.  After
+week 12, or approximately six weeks of treatment, the estimated average
+treatment effects for the health groupwere negative and statistically
+significant indicating that electricity usage for the health group fell
+relative to the control group by the end of the study. 
+In summary, the health and ﬁnancial treatment messages had different effects on electricity savings.  The health treatment messages led
+to statistically signiﬁcant reduction in electricity usage relative to the
+control while the ﬁnancial treatment messages were less effective in
+promoting energy conservation.  Except for the marginally signiﬁcant
+savings that were estimated using thirty-minute electricity data, on
+average, the ﬁnancial treatment messages did not lead to a reduction
+in electricity usage relative to the control group. 
+Interviews with the participants after the study revealed that the
+savings in the health group were mostly a result of reduced heating
+and air condition and turning off lights and fans. 21 None of the households in the ﬁnancial group who were interviewed indicated they
+took any actions to reduce their electricity consumption.  Our results
+are therefore the opposite of what we hypothesized based on the motivations stated in the survey of urban Indians. 
+4. 2.  Treatment effects and participant engagement. 
+The next set of results takes advantage of data on each household's
+engagement with the treatment messages and electricity dashboard to
+determine if the treatment effects depended on the level of engagement
+with the information provided.  Engagement was measured two different ways.  The ﬁrst measured counts the number of weekly treatment
+emails that were opened, and the second counts the number of times
+each household viewed their personalized electricity dashboard.  Summary statistics for the engagement variables are presented in Table 7. 
+As shown in the top panel of Table 7, of the thirteen emails that were
+sent, the average participant in the health group opened ten emails
+with a standard deviation of 2. 58, and the average participant in the ﬁnancial group opened nine with a standard deviation of 5. 43.  For both
+groups, the most engaged participants in both groups opened all thirteen emails containing the treatment messages.  The least engaged
+household in the health group opened just under half of the emails,
+but at least one participant in the ﬁnancial group never viewed the
+treatment message.  These summary statistics provide assurance that
+households in the health treatment group were exposed to the treatment messages, while it is possible that at least one member of the ﬁnancial group never viewed the treatment messages. 
+The second measure of engagement indicates how many times each
+household viewed their personalized web-based electricity dashboard. 
+Each dashboard had the embedded ability to track unique visits to the
+dashboard, the amount of time spent viewing the data, and which
+pages within the dashboard were viewed.  Of these different measures,
+the number of sessions was determined to be the best measure of engagement with the dashboard. 22 This variable is summarized in the
+bottom panel of Table 7.  The average household in the health group
+logged six unique sessions to their electricity dashboard with a standard
+deviation of seven sessions, while the average household in the ﬁnancial
+group logged only two sessions with a standard deviation of two
+sessions.  While both treatment groups had as least one household that
+never viewed the online dashboard, the most engaged household
+in the health group logged over three times as many sessions as the
+most engaged household in the ﬁnancial group.  A lack of engagement
+with the treatment messages and electricity data for this group could
+partially explain the insigniﬁcant average treatment effects for this
+group in Table 6. 
+The impact of engagement on energy conservation is estimated
+by interacting each household's level of engagement with the groupspeciﬁc post-treatment interaction variable in Eq.  (1).  Table 8 provides
+the results with the number of emails opened as a measure of
+engagement. 
+For the ﬁnancial group, each additional email that is opened leads to
+an average treatment effect that is 1. 05% larger (more electricity used
+relative to control) when the dependent variable is ﬁfteen-minute electricity usage (column 1) and 0. 69% larger when thirty-minute electricity
+readings are used as the dependent variable (column 2).  For the health
+group, each additional email that is opened leads to additional savings
+relative to the control group of 4. 67% when ﬁfteen-minute electricity
+readings are used as the dependent variable (column 1) and 3. 39%
+when thirty-minute electricity usage is used as the dependent variable
+(column 2).  The engagement interaction variables are not statistically
+signiﬁcant for either treatment group when daily and hourly electricity
+readings are used.  While statistically signiﬁcant differences do exist
+across the four frequencies of data used, the estimated differences in
+kWh savings are quite small.  For example, multiplying the additional
+savings (relative to the control group) of 4. 67% per email opened by
+the daily average kWh of 8. 49 kWh/day results in a savings for the health
+group of only 0. 40 kWh/day for each additional email that is opened. 
+Results using the number of unique sessions to the web-based electricity dashboard as a measure of engagement are presented in Table 9. 
+When hourly data is used as the dependent variable (column 3), each
+additional session is associated with an average treatment effect that is
+1. 35% larger (more savings relative to the control group).  Similar to the
+previous measure of engagement, this effect is also robust the frequency
+of data that is used.  The smallest reduction relative to the control group of
+1. 30% per session is estimated using thirty-minute electricity readings as
+the dependent variable, and the largest effect of 1. 55% is estimated using
+the ﬁfteen-minute electricity readings as the dependent variable.  Once
+again, no signiﬁcant treatment effects are detected for either group
+when daily electricity readings are used.  For the ﬁnancial group, regardless of the frequency of data that is used, additional dashboard views
+have no signiﬁcant effect on electricity consumption. 
+The estimated average treatment effects for different levels of
+engagement are presented in Table 10 for the health group.  Using
+estimates from the speciﬁcations that use ﬁfteen-minute electricity
+readings as the dependent variable and the number of emails opened
+as the measure of engagement, the average treatment effect evaluated
+at the mean number of emails opened −16. 7%.  Evaluating the average
+treatment effect at thirteen emails opened (the maximum) shows an
+average treatment effect of just over 30%.  Similar average treatment
+effects are found when evaluating the “Health × Post × # of Sessions”
+variable at the mean and maximum number of sessions. 
+In summary, the effect of engagement on energy conservation
+was signiﬁcantly different for the health and ﬁnancial groups.  Each additional email opened by members of the health group was associated
+with additional energy savings relative to the control group, while the
+opposite effect was found for the ﬁnancial group.  For the ﬁnancial
+group, it is possible that each additional email revealed how small the
+monetary costs of additional electricity consumption was relative to
+the private beneﬁts of their electricity consumption.  This imbalance of
+costs and beneﬁts would be more salient for households that viewed
+the treatment messages more frequently leading to the more engaged
+users consuming more electricity than the least engaged.  For the
+health group, the private and external costs of additional electricity
+consumption would become more salient to households that viewed
+the treatment messages more frequently, leading to the most engaged
+participants to have the largest relative electricity savings. 
+Also, the estimates show that additional visits to the electricity dashboard had a smaller effect on electricity consumption than additional
+weekly emails being opened.  For the health group, the marginal savings
+of an additional visit to the electricity dashboard ranged from 1. 30 to
+1. 55%, while the marginal savings of viewing an additional email ranged
+from 1. 88 to 4. 67%.  Since all the treatment information that was available on the dashboard was also contained in the weekly emails, the
+marginal savings of viewing the treatment message on the dashboard
+should be smaller for those who opened their emails.  In addition,
+since there was a direct link to the electricity dashboard in the weekly
+email, most of the dashboard views come directly after being exposed
+to the treatment message in the emails. 
+4. 3.  Robustness tests. 
+We conducted several robustness tests that are reported in the
+Appendix. 
+The ﬁrst set of robustness tests using 15-minute electricity readings
+as the dependent variable is shown in Table AII.  In each column, the
+more efﬁcient GLS method with household ﬁxed effects is used.  For
+reference, column 1 presents the coefﬁcients from Colum 1 in Table 6. 
+In Column 2, week ﬁxed effects are used instead of a cubic time trend
+to allow for a more ﬂexible non-linear effect in energy usage across
+longer periods of time.  The average treatment effect is slightly larger
+while the standard errors are slightly smaller.  In column 3, day-of-theweek and hour-of-day ﬁxed effects were omitted and the average
+treatment effect is slightly smaller.  In column 4, we include the share
+of missing observations.  The estimated average treatment effects remain robust. 
+The second set of robustness test are shown in Table AIII and are
+estimated using ﬁxed effects with clustered standard errors (not
+the more efﬁcient GLS method) and 15-minute electricity readings as
+the dependent variable.  In Column 1, the average treatment effect for
+the health group is −19. 1% compared to −18. 4% in Table 6 Column 1. 
+In Column 2, we drop the apartment that never viewed the email
+messages containing the treatment information, and in Column 3 we
+dropped the participant that lived in an apartment that was made up
+of two regular apartments.  In each speciﬁcation, the average treatment
+effect remains robust and signiﬁcant at the 10% level. 23 In Table AIV, we
+conduct the same robustness tests using ﬁxed effects with clustered
+standard errors for the speciﬁcations that use the number of treatment
+emails opened as a measure of engagement.  In each speciﬁcation, the
+results are similar to the main speciﬁcation in Table 8. 

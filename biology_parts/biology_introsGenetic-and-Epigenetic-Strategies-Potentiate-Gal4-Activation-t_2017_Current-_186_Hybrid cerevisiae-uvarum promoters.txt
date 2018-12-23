@@ -1,0 +1,291 @@
+Article
+Genetic and Epigenetic Strategies Potentiate Gal4
+Activation to Enhance Fitness in Recently Diverged
+Yeast Species
+Highlights
+d GAL epigenetic transcriptional memory promotes fasterVarun Sood, Jason H.  Brickner
+reactivation of GAL genes
+d Previously produced Gal1 provides a large future ﬁtness
+beneﬁt in galactose
+d Epigenetic GAL memory most likely evolved from genetically
+encoded priming
+d The Gal4 central domain promotes both Gal80 repression and
+maximal activation
+Correspondence
+j-brickner@northwestern. edu
+In Brief
+Sood and Brickner ﬁnd that faster GAL
+gene induction during transcriptional
+memory accelerates adaptation to
+galactose and requires both previously
+produced Gal1 to relieve Gal80
+repression and the Gal4 central domain,
+which potentiates stronger activation. 
+Related yeasts use either genetic or
+epigenetic means to alter GAL gene
+activation rates. 
+Sood & Brickner, 2017, Current Biology 27, 3591–3602
+December 4, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 035
+Current BiologyGenetic and Epigenetic Strategies
+Potentiate Gal4 Activation to Enhance
+Fitness in Recently Diverged Yeast Species
+Varun Sood1 and Jason H.  Brickner1,2,*
+1Department of Molecular Biosciences, Northwestern University, Evanston, IL 60208, USA
+2Lead Contact
+*Correspondence: j-brickner@northwestern. edu
+https://doi. org/10. 1016/j. cub. 2017. 10. 035Certain genes show more rapid reactivation for
+several generations following repression, a conserved
+phenomenon called epigenetic transcriptional memory.  Following previous growth in galactose, GAL
+gene transcriptional memory confers a strong ﬁtness
+beneﬁt in Saccharomyces cerevisiae adapting to
+growth in galactose for up to 8 generations.  A genetic
+screen for mutants defective for GAL gene memory revealed new insights into the molecular mechanism,
+adaptive consequences, and evolutionary history of
+memory.  A point mutation in the Gal1 co-activator
+that disrupts the interaction with the Gal80 inhibitor
+speciﬁcally and completely disrupted memory.  This
+mutation conﬁrms that cytoplasmically inherited
+Gal1 produced during previous growth in galactose
+directly interferes with Gal80 repression to promote
+faster induction of GAL genes.  This mitotically heritable mode of regulation is recently evolved;diverged Saccharomyces species, GAL genes show
+constitutively faster activation due to genetically
+encoded basal expression of Gal1.  Thus, recently
+diverged species utilize either epigenetic or genetic
+strategies to regulate the same molecular mechanism.  The screen also revealed that the central
+domain of the Gal4 transcription factor both regulates
+the stochasticity of GAL gene expression and potentiates stronger GAL gene activation in the presence
+of Gal1.  The central domain is critical for GAL gene
+transcriptional memory; Gal4 lacking the central
+domain fails to potentiate GAL gene expression and
+is unresponsive to previous Gal1 expression. 
+INTRODUCTION
+Transcriptional adaptation to ﬂuctuations in nutrient availability is
+critical for ﬁtness [1].  In response to previous experiences,
+certain inducible genes show a mitotically heritable increase in
+the rate of transcription [2–12].  This epigenetic phenomenon,
+referred as transcriptional memory,
+is observed in yeast,
+Drosophila, and humans [5, 7, 13].  However, its evolutionary
+history and adaptive impact have not been explored.  Also,
+whereas some aspects of transcriptional memory are deeply
+conserved, gene-speciﬁc features also occur [4, 6, 8, 14], suggesting that gene-speciﬁc regulatory systems can be regulated
+by transcriptional memory. 
+In S.  cerevisiae, GAL genes exhibit transcriptional memory. 
+These genes are speciﬁcally induced in galactose to mediate
+galactose utilization [15, 16].  When cells are shifted from glucose
+to galactose, the initial rate of induction of GAL genes is very
+slow; the Gal1 protein reaches steady-state levels 10 hr after
+shifting from glucose to galactose (Figure 1B; compared with
+the doubling time of budding yeast, 1. 5–2 hr).  However, in cells
+that have been previously grown in galactose, GAL genes are
+rapidly reactivated.  This phenomenon persists in the population
+for 7 or 8 cell divisions after repression in glucose [2, 11, 14, 17]. 
+Like other genes that show memory, GAL transcriptional
+memory is also associated with changes in chromatin structure,
+leading to a state that is poised for faster reactivation [14]. 
+The initial induction of GAL genes is slow in part because, in
+most cells, there are fewer molecules of the Gal3 co-activator
+than the Gal80 inhibitor [11, 18].  Consequently, the expression
+is initially heterogeneous, with some cells responding and others
+not [18].  On the other hand, during memory, reactivation is more
+uniform [18].  GAL memory requires the Gal1 galactokinase, a
+paralog of Gal3 [2, 11, 14, 17].  Gal1 is abundantly produced in
+galactose, extremely stable, and diluted very slowly after repression in glucose [14].  A few hundred molecules of Gal1 are necessary and sufﬁcient to produce the effects of memory, including
+the changes in chromatin structure over the GAL1 promoter
+and uniformity of expression [11, 14].  Because both Gal1 and
+Gal3 can interact with Gal80 to relieve inhibition of the Gal4 activator [19–23], this leads to a model whereby residual Gal1 allows
+cells to more rapidly overcome Gal80 repression and rapidly
+induce GAL genes during memory (Figure 1A). 
+Here, we explored the adaptive value, evolutionary history,
+and molecular mechanism of GAL gene transcriptional memory. 
+In S.  cerevisiae, GAL transcriptional memory confers a strong
+adaptive advantage, allowing much faster adaptation to
+galactose and better utilization of mixed sugars.  In contrast,
+S.  uvarum, a divergent Saccharomyces species, does not beneﬁt
+from previous growth in galactose but instead shows constitutively fast GAL gene activation due to basal GAL1 expression. 
+Replacing the GAL1 promoter in S.  cerevisiae with that from
+S.  uvarum recapitulated this difference in behavior, conﬁrming
+that the basal expression of Gal1 and the resulting fast activation
+Current Biology 27, 3591–3602, December 4, 2017 ª 2017 Elsevier Ltd.  3591
+Figure 1.  Expression Changes during GAL Memory and Their Fitness Effect
+For a Figure360 author presentation of Figure 1, see the ﬁgure legend at https://doi. org/10. 1016/j. cub. 2017. 10. 035. 
+(A) Model for GAL1 regulation and memory.  Top: during activation, Gal3 sequesters the Gal80 repressor from the Gal4 activator, leading to GAL gene expression. 
+Bottom: during reactivation, residual Gal1 augments Gal3 co-activation, leading to faster expression kinetics. 
+(B–G) Naive cells (ACT), naive cells expressing ectopic Gal1 (ACT + eGAL1), or cells that were grown in galactose overnight and shifted to glucose for 12 hr
+(REACT) were shifted to media containing galactose and either GAL1-mCherry ﬂuorescence (B–D and F) or optical density 600 (OD600) (E and G) were measured. 
+GAL1-mCherry ﬂuorescence was measured relative to constitutively expressed CFP using ﬂow cytometry.  (C and D) Effect of Gal80 inhibition on Gal1-mCherry
+expression.  (D) Overlay of histograms for Gal1-mCherry from corresponding strains at the indicated times in (B) and (C).  (E) At time = 0, all cultures were diluted to
+an OD600 of 0. 1 in galactose, and OD600 was measured every 20 min using 96-well plate reader.  Open circles represent the ratio of OD600 between REACT and
+ACT.  (F) Gal1-mCherry levels relative to CFP control after 7 hr in different concentration of galactose, plotted as fraction of expression in 1% galactose.  (G) Growth
+and Gal1-mCherry expression (inset) in 0. 2% glucose + 1. 8% galactose.  *p % 0. 05; Student’s t test. 
+Error bars for Gal1mCherry ﬂuorescence represent SEM from R3 biological replicates.  The line and the bounding envelope for the OD600 measurements are the
+mean and SEM, respectively, from R5 biological replicates.  The yeast strains and the number of biological replicates for all experiments are listed in Tables S1
+and S2, respectively. 
+of other GAL genes are genetically encoded by this promoter. 
+Using a point mutation in Gal1 that disrupts the interaction with
+Gal80, we demonstrate that fast induction of GAL genes in
+both species results from a physical interaction between Gal1
+and Gal80.  A screen for mutants that block GAL memory downstream of Gal1 identiﬁed a mutation in Gal4 central domain (CD),
+revealing a critical role for this domain in transcriptional memory
+downstream of both Gal1 and Gal80.  The CD serves to potentiate Gal4 activation, and this function is regulated by Gal80. 
+Ectopically expressed CD complemented deletion of the CD in
+trans and was recruited to chromatin-bound Gal4Dcd, suggesting that potentiation is the result of an inter-domain interaction
+within Gal4.  Thus, recently diverged species employ either
+3592 Current Biology 27, 3591–3602, December 4, 2017
+epigenetic or genetic strategies to alter the transcriptional
+potency of a transcription factor, promoting faster adaptation
+to changes in carbon source. 
+<Middle> RESULTS. 
+Transcriptional Memory Enhances Fitness by Promoting
+Uniform, Rapid Activation of GAL Genes
+Because Gal1 is both necessary and sufﬁcient to promote faster
+induction of GAL genes during memory, Gal1 most likely interacts with Gal80 to allow rapid de-repression of GAL genes
+(Figure 1A).  The relative rates of GAL1 transcription can be
+compared by measuring Gal1-mCherry ﬂuorescence expressed
+Figure 2.  Genetic Screen for Mutants Defective for GAL Memory Identiﬁes gal1-D117V
+(A) Schematic of the 2-step FACS-based screen (see STAR Methods for details). 
+(B) Gal1-mCherry intensity relative to CFP internal control in wild-type and gal1-D117V mutant, measured by ﬂow cytometry.  Cells were shifted from glucose to
+galactose for activation (ACT) or grown in galactose overnight, shifted to glucose for 12 hr, and then shifted to galactose for reactivation (REACT).  Error bar
+represents SEM from R4 biological replicates. 
+(C) Growth of wild-type and gal1-D117V mutant cells assayed by measuring OD600 every 20 min during continuous growth in galactose (gal / gal), during
+activation (ACT) or reactivation (REACT) after 12 hr of repression.  The line represents the mean, and the envelope represents the SEM from R4 biological
+replicates. 
+(D) Co-crystal structure between Gal3 (pink) and Gal80 (blue), highlighting the salt bridge between the Gal3-Asp111 and Gal80-Arg367 (inset). 
+(legend continued on next page)
+Current Biology 27, 3591–3602, December 4, 2017 3593
+using ﬂow cytometry [11, 14].  In cells that had not been previously exposed to galactose (i. e. , naive cells), Gal1-mCherry
+was undetectable for the ﬁrst 4 hr after shifting from glucose to
+galactose (Figures 1B and 1D, ACT).  Between 4 hr and 8 hr after
+switching cells to galactose, expression of Gal1-mCherry was
+apparent in a subset of cells in the population (i. e. , bimodal
+expression; Figures 1B and 1D, ACT).  After 10 hr in galactose,
+the entire population expressed Gal1-mCherry (Figure 1D,
+ACT).  In contrast, in cells that were previously grown in galactose
+and then repressed for 12 hr (7 or 8 cell divisions; i. e. , memory),
+the population responded uniformly and rapidly; Gal1-mCherry
+ﬂuorescence was measurable within 4 hr after shifting back to
+galactose (unimodal expression; Figures 1B and 1D, REACT). 
+Likewise, ectopic expression of GAL1 promoted both rapid
+and unimodal accumulation of Gal1-mCherry (Figures 1B and
+1D, ACT + eGAL1) [11, 14, 17, 24].  Furthermore, consistent
+with the model in Figure 1A, either loss of Gal80 or a point mutation in Gal4 (V864E) that disrupts the interaction with Gal80 [25]
+also resulted in rapid, unimodal expression of Gal1-mCherry
+(Figures 1C and 1D).  Thus, memory leads to faster and more
+uniform GAL1 transcriptional activation, most likely by promoting rapid and uniform relief of Gal80 repression. 
+To quantify the adaptive effect of faster reactivation of GAL
+genes during memory, we followed the growth kinetics upon
+shifting cells from glucose to galactose (Figure 1E).  Naive cells
+exhibited a long growth lag before entering exponential phase
+(Figure 1E, ACT).  In contrast, during memory or in cells ectopically expressing Gal1, adaptation was much faster (Figure 1E,
+REACT and ACT + eGAL1).  Although the growth rates were ultimately similar once cells reached exponential phase, memory
+confers a large ﬁtness beneﬁt by decreasing the growth lag after
+shifting cells from glucose to galactose (Figure 1E, gray circles). 
+Rapid GAL gene activation in fungal species is also associated
+with increased responsiveness to low concentrations of galactose [26–28].  During memory or in cells expressing ectopic
+Gal1, Gal1-mCherry was expressed at higher levels in media
+with low concentrations of galactose (Figure 1F).  Because yeast
+cells are most likely exposed to mixtures of sugars in nature, we
+asked whether this higher sensitivity for galactose also impacts
+the expression of Gal1-mCherry in the presence of glucose. 
+S.  cerevisiae normally does not induce GAL genes in the presence of low levels of glucose (0. 2% glucose and 1. 8% galactose;
+Figure 1G, inset).  However, during memory or in the presence of
+ectopic Gal1, Gal1-mCherry expression was observed in the
+presence of glucose (Figure 1G,
+inset).  This Gal1-mCherry
+expression correlated with a ﬁtness beneﬁt in 0. 2% glucose +
+1. 8% galactose medium. 
+In this medium, once glucose is
+exhausted after 7 hr of growth, naive cells exhibited a signiﬁcant lag before adapting to galactose (Figure 1G) [27, 29, 30]. 
+However, during memory or in the presence of ectopic Gal1,
+this lag was absent and cells adapted immediately to galactose
+(Figure 1G).  Thus, transcriptional memory provides a strong
+adaptive advantage in both galactose and glucose-galactose
+mixtures. 
+Gal1-D117V Disrupts the Interaction with Gal80,
+Speciﬁcally Blocking GAL Transcriptional Memory
+To explore the molecular basis of faster reactivation of GAL
+genes during memory, we performed a genetic screen based
+on ﬂuorescence-activated cell sorting (FACS).  After 4 hr in galactose, strong expression of Gal1-mCherry occurs during reactivation, but not during activation (Figures 1D and 2A).  We exploited
+this difference to sort for GAL memory mutants: UV-mutagenized cells that failed to express Gal1-mCherry after 4 hr of
+reactivation (Figure 2A; sort I) but expressed Gal1-mCherry after
+12 hr in galactose (Figure 2A; sort II).  This second sort removed
+mutants or those that had lost Gal1-mCherry expression. The recovered cells were colony puriﬁed and screened by ﬂow
+cytometry to identify those that speciﬁcally lost rapid GAL1
+reactivation during memory. Based on the model in Figure 1A, we expected to identify null
+alleles of Gal1.  We removed many such mutants by focusing on
+those that were able to grow on galactose (Gal1 is required to
+grow on galactose; data not shown).  The screen also identiﬁed
+an allele of GAL1 that was Gal+ but speciﬁcally blocked memory;
+gal1-D117V reduced the rate of Gal1-mCherry reactivation
+during memory without altering the rate of activation of Gal1mCherry (Figure 2B).  Reconstruction of the gal1-D117V mutation
+into the GAL1 locus recapitulated these phenotypes (data not
+shown), conﬁrming that this mutation is causative.  gal1-D117V
+cells also lost the ﬁtness beneﬁt of memory; the growth of
+gal1-D117V during reactivation closely resembled the growth
+of naive wild-type cells during activation (Figure 2C).  This mutation had no effect on Gal1-mCherry stability (Figure S1B) or the
+rate of activation (Figure 2B) and only slightly affected the rate
+of exponential growth in galactose (Figure 2C).  Finally, the
+effects of this mutation were recessive because ectopic expression of Gal1 in gal1-D117V led to faster Gal1-mCherry expression (Figure S1C) and rapid adaptation to growth in galactose
+(Figure S1D).  Thus,
+the gal1-D117V mutation speciﬁcally
+disrupts memory without signiﬁcantly affecting other functions
+of Gal1. 
+The structures of Gal1, Gal3, and Gal3-Gal80 are known
+[20, 31].  Gal1 and Gal3 show 74% sequence identity and are
+structurally superimposable with a root mean square deviation
+of 1. 1 A˚
+(Figure S1A) [20, 31].  Aspartate 117 maps to the
+predicted interaction surface between Gal1 and Gal80.  In the
+Gal3-Gal80 structure, Gal3-Asp111 is at the structurally equivalent position to Gal1-Asp117 and forms an ionic bond with
+Gal80-Arg367 (Figures 2D and S1A)
+[20].  To test whether
+disrupting this salt bridge reduces the afﬁnity between Gal1
+and Gal80, we performed co-immunoprecipitation of wild-type
+and D117V Gal1-mCherry with Gal80-myc.  Although these
+proteins were expressed at similar levels, immunoprecipitation
+(E) Lysates from strains expressing Gal80-13xmyc and Gal1-mCherry were subjected to co-immunoprecipitation using anti-myc antibody.  The immunoprecipitated fractions (IP) (top), the input fractions (middle), and the supernatant fraction after immunodepletion (bottom) were resolved by SDS-PAGE and
+immunoblotted against either mCherry (top two panels) or the myc epitope tag (bottom panels). 
+(F) Overlay of histograms for ACT and REACT of gal1D117V in (B). 
+The yeast strains and the number of biological replicates for all experiments are listed in Tables S1 and S2, respectively.  Additional characterization of gal1-D117V
+mutant is shown in Figure S1. 
+3594 Current Biology 27, 3591–3602, December 4, 2017
+of Gal80 recovered only 20% of Gal1-D117V compared with
+wild-type Gal1 (Figure 2E).  This reduced afﬁnity for Gal80 led
+to slow, bimodal expression of Gal1-mCherry during both activation and reactivation (Figure 2F).  Furthermore, a complementary
+mutant in Gal80 (R367L) predicted to disrupt the salt bridge
+phenotype
+between Gal80 and both Gal3 and Gal1 led to a Gal
+(data not shown).  Thus, interaction between Gal1 and Gal80
+plays a critical role in GAL gene transcriptional memory. Constitutively Fast GAL Expression in S.  uvarum Is due
+to Higher Basal Expression of Gal1
+S.  uvarum diverged from S.  cerevisiae 20 million years ago and
+has evolved a distinct strategy for adapting to growth in galactose (Figure S2A) [27, 32, 33].  We asked whether this species
+beneﬁts from previous growth in galactose.  Although the rate
+of Gal1-mCherry reactivation during memory was slightly faster
+than the rate of activation in S.  uvarum (Figures 3A and S2B),
+this difference was much smaller than that observed in S.  cerevisiae (Figure 3B).  Moreover, in S.  uvarum, previous growth in
+galactose did not lead to a ﬁtness beneﬁt (Figure 3C).  This
+suggests that the rapid initial GAL gene induction in S.  uvarum
+is sufﬁcient
+to provide maximal ﬁtness beneﬁt and that
+increasing this rate further provides no additional effect. 
+Several differences between S.  uvarum and S.  cerevisiae
+might explain the difference in their response to previous growth
+in galactose; S.  uvarum has higher basal expression of the key
+activators GAL1, GAL3, and GAL4 and lower expression of
+the GAL80 inhibitor [27, 33].  Thus, differences in cis-acting
+elements in the promoter, trans-acting factors, or both could
+lead to constitutive fast GAL gene expression.  To investigate
+these possibilities, we substituted the GAL1 promoter (PGAL1)
+in S.  cerevisiae with PGAL1 from S.  uvarum.  In this strain, induction of Gal1-mCherry during both activation and reactivation
+was as fast as reactivation in wild-type cells (Figure 3D).  Thus,
+PGAL1 from S.  uvarum is sufﬁcient to induce constitutively fast
+GAL1 expression in S.  cerevisiae without any other uvarum
+factors. 
+The effects of PGAL1 from S.  uvarum are consistent with this
+promoter being more easily induced.  Hybrid cerevisiae-uvarum
+promoters suggest that this effect is largely explained by differences in the UASGAL elements and GAL1-proximal sequences
+(Figures S2C–S2E)
+[34].  However, because epigenetic GAL
+gene transcriptional memory in S. 

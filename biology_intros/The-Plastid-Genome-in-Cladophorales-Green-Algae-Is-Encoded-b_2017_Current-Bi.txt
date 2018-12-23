@@ -1,0 +1,471 @@
+
+INTRODUCTION
+Photosynthetic eukaryotes possibly originated 1.9 billion years
+ago following an endosymbiotic event in which a heterotrophic
+ancestor of the Archaeplastida engulfed a cyanobacterium that
+became stably integrated and evolved into a membrane-bound
+organelle, the plastid [1, 2]. Following this primary endosymbi-
+osis, an intricate history of plastid acquisition via eukaryote-
+eukaryote endosymbioses resulted in the spread of plastids to
+distantly related eukaryotic lineages [3].
+
+Plastids have retained a reduced version of the genome in-
+herited from their cyanobacterial ancestor. A core set of genes
+involved in the light reactions of photosynthesis, ATP generation,
+and functions related to transcription and translation is typically
+retained [4]. Many genes have been lost or transferred to the nu-
+clear genome and, as a result, plastids are dependent on nu-
+clear-encoded, plastid-targeted proteins for the maintenance
+of essential biochemical pathways and other functions such as
+genome replication, gene expression, and DNA repair [5]. Nearly
+all plastid genomes consist of a single circular-mapping chromo-
+some, typically between 100 and 200 kb and encoding circa
+80–250 genes [4, 6]. Diversity in size, gene content, density,
+and organization of plastid genomes among different eukaryotic
+lineages [7–9] is by and large limited, especially when compared
+to mitochondria.
+
+Whereas fragmented mitochondrial genomes evolved several
+times independently during the evolution of eukaryotes [8, 10],
+fragmented plastid genomes are only known in dinoﬂagellates
+[11] and a single green algal species [12]. In peridinin-containing
+dinoﬂagellates,
+the chloroplast genome is fragmented into
+DNA minicircles of 2–3 kb, most of which carry one gene only
+[11, 13]. Larger minicircles of up to 12 kb have also been
+described [14], as well as minicircles containing two genes [15]
+and ‘‘empty’’ minicircles without genes [16]. The genes located
+on these minicircles mostly encode key components of the major
+plasmid-like DNA that has been observed
+in the chloroplasts of several species
+[29, 30]. These plasmid-like DNA mole-
+cules represent a low-molecular-weight
+(LMW) DNA fraction, visible on agarose
+gels of total DNA extracts (Figure 1D). Pio-
+neering work revealed that these struc-
+tures are single-stranded DNA (ssDNA)
+molecules of 1.5–3.0 kb that fold into a
+hairpin conﬁguration and lack sequence
+similarity to the nuclear DNA [31, 32].
+Some of
+the hairpin-like DNAs contain
+putatively transcribed sequences with
+similarity to chloroplast genes encoding
+(psaB, psbB, psbC, and
+
+subunits of photosystems I and II
+psbF) [31].
+
+Here we describe intriguing features of the plastid genome of
+Cladophorales, focusing on Boodlea composita. Through the
+integration of different DNA sequencing methods, combined
+with RNA sequencing, we found that chloroplast protein-coding
+genes are highly expressed and encoded on 1- to 7-kb linear
+ssDNA molecules. Due to the widespread presence of inverted
+repeats, these molecules fold into a hairpin conﬁguration. A chlo-
+roplast genome that is composed only of linear DNA molecules is
+unprecedented among eukaryotes, and highlights unexpected
+variation in plastid genome architecture.
+
+<Middle> RESULTS AND DISCUSSION.
+DNA and RNA Sequencing Data
+Our reconstruction of the chloroplast genome of B. composita is
+based on different high-throughput DNA sequencing methods
+(Figure S1; STAR Methods). The choice of short-read DNA
+sequencing of isolated intact chloroplasts (chloroplast-enriched
+fraction) using Roche 454 technology was based on comparable
+sequencing approaches in other plants and algae that success-
+fully resulted in assembly of chloroplast genomes [25]. To over-
+come possible assembly artifacts in a hypothetical scenario of
+an inﬂated chloroplast genome bloated by repetitive elements,
+long-read sequencing of
+(HMW)
+DNA fraction using the Paciﬁc Biosciences Single-Molecule
+Real-Time (SMRT) method was applied, whereas long-read
+sequencing of the LMW DNA fraction allowed characterization
+of the previously observed plasmid-like DNA in the chloroplast
+[29, 30]. To allow comparison of the results of Boodlea with
+
+the high-molecular-weight
+
+photosynthetic complexes, including subunits of photosystems I
+and II, the cytochrome b6f complex, and ATP synthase, as well
+as rRNAs and a few tRNAs [11]. The only other alga with a frag-
+mented chloroplast genome is the green alga Koshicola spirode-
+lophila, but here the level of fragmentation is minor: the plastid
+genome is divided into three large circular chromosomes totaling
+385 kb, with a gene content comparable to other green algae
+[12]. In addition, plastid minicircles that coexist with a conven-
+tional plastid genome have been observed in a few algae,
+including dinoﬂagellates with haptophyte-derived plastids [17]
+and the green alga Acetabularia [18, 19].
+
+Although plastid genomes generally assemble as circular-
+mapping DNAs, they can take multiple complex conformations
+in vivo, including multigenomic, linear-branched structures with
+discrete termini [20, 21]. The alveolate Chromera velia is the
+only known alga with a linear-mapping plastid genome with telo-
+meric arrangement [22], and is also atypical in that several core
+photosynthesis genes are fragmented. Linear plastid genomes,
+however, may be more widespread, as several plastid genomes
+currently do not map as a circle [23].
+
+Currently, and in stark contrast to other algae [9, 24–26], little
+is known about the gene content and structure of the chloro-
+plast genome in the Cladophorales (Ulvophyceae), an ecologi-
+cally important group of marine and freshwater green algae,
+which includes several hundreds of species. These macro-
+scopic multicellular algae have giant, multinucleate cells con-
+taining numerous chloroplasts (Figures 1A–1C). Most attempts
+to amplify common chloroplast genes have failed [27], with only
+one highly divergent rbcL sequence published thus far for
+Chaetomorpha valida [28]. An atypical plastid genome in
+the Cladophorales is suggested by the presence of abundant
+other species of Cladophorales, we generated additional DNA
+sequence data from nine other species using Illumina HiSeq 2000
+technology. Finally, two deep-coverage RNA-seq (sequencing)
+libraries, a total-RNA library, and an mRNA library enriched for
+nuclear transcripts were generated to conﬁrm the transcription
+of genes and to inform whether genes are nuclear versus plastid
+encoded.
+
+A Prodigious Chloroplast Genome with a Reduced
+Gene Set
+Assembly of the chloroplast-enriched DNA reads generated us-
+ing Roche 454 technology did not result in a typical circular chlo-
+roplast genome. Instead, 21 chloroplast protein-coding genes
+were found on 58 short contigs (1,203–5,426 bp): atpA, atpB,
+atpH, atpI, petA, petB, petD, psaA, psaB, psaC, psbA, psbB,
+psbC, psbD, psbE, psbF, psbJ, psbK, psbL, psbT, and rbcL.
+All but the rbcL gene code for components of the major thylakoid
+transmembrane protein complexes (ATP synthase, cytochrome
+b6f, and photosystems I and II). The contigs contained inverted
+repeats at their termini and, despite high coverage by sequence
+reads, could not be extended by iterative contig extension.
+Sequence similarity searches and a metagenomic binning
+approach (distribution analysis of 4-mers) demonstrated that
+the inverted repeats were also found on contigs with no
+sequence similarity to known proteins, raising the number of
+contigs of chloroplast origin to 136. These contigs are further
+referred to as ‘‘chloroplast 454 contigs.’’ The length distribution
+of the chloroplast 454 contigs was consistent with the size of the
+LMW DNA fraction as estimated by agarose gel electrophoresis
+of Boodlea genomic DNA (Figure 1D; Figures S6A and S6B).
+
+The failure to assemble a circular chloroplast genome might be
+due to repetitive elements that impair the performance of short-
+read assemblers [33]. Inﬂated chloroplast genomes bloated by
+repetitive elements have been documented in several green
+algae [34–36]. To overcome assembly artifacts and close puta-
+tive gaps in the chloroplast 454 contigs, we applied SMRT
+sequencing to the HMW and LMW DNA fractions. Only 22
+HMW DNA reads (ca. 0.044%) harbored protein-coding genes
+commonly present in chloroplast genomes of Archaeplastida
+(Figure 2A). All but three of these genes (psbA, psbB, and
+psbC, which likely correspond to carry-over LMW DNA) con-
+tained spliceosomal introns, were absent in the chloroplast 454
+contigs, and revealed a high ratio between mapped mRNA and
+total-RNA reads, altogether suggesting that they are encoded
+in the nucleus (Figure S2A). Conversely, 22 chloroplast genes
+(that is, the 21 protein-coding genes identiﬁed in chloroplast
+454 contigs as well as the 16S rRNA gene) were found in the
+LMW DNA reads (Figure 2A). An orthology-guided assembly,
+
+where the chloroplast 454 contigs harboring protein-coding
+genes guided the assembly of LMW DNA reads with sequence
+similarity to chloroplast genes, resulted in 34 contigs between
+1,179 and 6,925 bp in length, henceforth referred to as the ‘‘chlo-
+roplast genome’’ (Figure 2B; Table S1).
+
+Four contigs of the Boodlea chloroplast genome (contigs 10,
+19, 32, and 33) display long palindromic sequences that include
+full-length coding sequences (CDSs) and a less conserved tail
+region (Figure 2B). The remaining contigs have similar palin-
+dromic structures but appear to be not completely assembled.
+Such palindromes allow regions of the single-stranded LMW
+DNA molecules to fold into hairpin-like secondary structures.
+Additional smaller inverted repeats were identiﬁed in many of
+the contigs (Figure 2B), which may result in more complex sec-
+ondary structures.
+
+Chloroplast 454 contigs could not be scaffolded with long
+HMW DNA reads, nor did a hybrid assembly between chloro-
+plast 454 contigs and long HMW DNA reads generate a circular
+chloroplast genome (Figure S1; STAR Methods). The LMW DNA
+reads are concordant and consistent with the palindromic se-
+quences of the assembled chloroplast genome, indicating that
+the palindromes are not a result of assembly artifacts (Figure 3;
+Table S1). As a consequence, we conclude that the chloroplast
+genome is not a single large molecule but that it is instead frag-
+mented into several molecules in the LMW DNA.
+
+A chloroplast genome that is entirely fragmented into hairpin
+chromosomes is in line with earlier observations of abundant
+LMW DNA in chloroplasts of several species of Cladophorales
+[29]. The hairpin conﬁguration of the chromosomes derived
+from our sequence data corresponds to earlier data based on
+electron microscopy, endo- and exonuclease digestion experi-
+ments, acridine orange staining, and denaturing gel electropho-
+resis [29, 32]. Fluorescence in situ hybridization and Southern
+blot hybridization indicated that these plasmid-like DNA mole-
+cules are present within the chloroplast only [30], supporting
+the congruence between chloroplast 454 contigs and se-
+quences from the LMW fraction (Figure 3; Figure S7A).
+
+The chloroplast genome contigs of Boodlea feature an excep-
+tionally high GC content, ranging from 54% to 60% in the gene-
+containing contigs (average 57%) (Table S1). These values are
+concordant with the high density of the LMW fraction observed
+in CsCl/bisbenzimide gradients [29], and also with sequence
+data from cloned plasmids of Ernodesmis (51%–59% GC) [31].
+Plastid genomes are generally AT rich and, in green algal spe-
+cies, GC content typically ranges between 26% and 43%
+[9, 37]. GC-rich plastid genomes are very rare, but higher values
+have been reported for the trebouxiophycean green algae Coc-
+comyxa subellipsoidea, Paradoxia multiseta (both 51% GC), and
+Trebouxiophyceae sp. MX-AZ01 (58%)
+however, feature standard plastid genome architectures.
+
+[24]. These species,
+
+The size of the Boodlea chloroplast genome could not be esti-
+mated by inspection of k-mer frequency distributions of the
+reads in the 454 library nor from those of the uncorrected and
+
+corrected LMW DNA reads [38]. Histograms of k-mer frequency
+distributions revealed several small peaks, indicating a hetero-
+geneous population of molecules present in different stoichiom-
+etries, and the signal-to-noise ratio was too small to make a
+comfortable estimation of the sizes (Figure S3). The cumulative
+length of the 34 Boodlea chloroplast genome contigs is 91 kb
+(Table S3). However, if we consider the large and heterogeneous
+population of LMW DNA reads bearing no similarity to protein-
+coding genes (empty hairpin chromosomes; see below) as part
+of the chloroplast genome, its size could be regarded as much
+larger.
+The largest known circular-mapping chloroplast genomes
+have been documented in the red algae Bulboplastis apyrenoi-
+dosa (610 kb) and Corynoplastis japonica (1.127 Mb), where
+the genomes are bloated by group II introns and include trans-
+posable elements of possible bacterial origin [8]. Within green
+algae, expanded chloroplast genomes have been reported in
+two distinct clades: the Chlorophyceae and the Ulvophyceae.
+Inﬂation of the 521-kb chloroplast genome of Floydiella terrestris
+(Chlorophyceae)
+resulted mainly from the proliferation of
+dispersed, heterogeneous repeats (>30 bp) in intergenic regions,
+representing more than half of the genome length [36]. Intergenic
+regions of the Volvox carteri
+(Chlorophyceae) chloroplast
+genome, instead, are populated with short palindromic repeats
+(average size of 50 bp) that constitute ca. 64% of the predicted
+525-kb genome [34]. The mechanisms by which such palin-
+dromic selﬁsh DNA spreads throughout the Volvox chloroplast
+genome are not clear, but the presence of a reverse transcrip-
+tase and endonuclease may point toward retrotranscription
+[34, 39]. For Acetabularia acetabulum (Ulvophyceae),
+the
+chloroplast genome was sequenced only partially and its size
+was estimated to exceed 1 Mb; it has exceptionally long inter-
+genic regions and features long repetitive elements (>10 kb)
+arranged in tandem [35, 40]. The Boodlea chloroplast genome
+is rich as well
+in non-coding DNA, constituting 92.2% of the
+136 chloroplast 454 contigs and 72.8% of the assembled chloro-
+plast genome, comparable to that
+in inﬂated chloroplast
+genomes of other green algae (F. terrestris, 82.1%; V. carteri,
+ca. 80%; A. acetabulum, ca. 87% of the sequenced chloroplast
+genome) [34, 35].
+
+The non-coding DNA (ncDNA) regions of the hairpins showed
+high sequence similarity among one another (52.5%–100%
+sequence similarity). Within the ncDNA, we identiﬁed six
+conserved motifs, 20–35 bp in length and with a GC content
+ranging from 36% to 84%, which lack similarity to known regu-
+latory elements (Figure 4). Motifs 1, 2, and 5 were always present
+upstream of the start codon of the chloroplast genes, occasion-
+ally in more than one copy. Although their distances from the
+start codon were variable, their orientations relative to the gene
+were conserved, indicating a potential function as a regulatory
+element of gene expression and/or replication of the hairpin
+chromosomes.
+
+These motifs were also present in 1,966 (ca. 1.8%) LMW DNA
+reads lacking genes. This observation supports earlier ﬁndings
+of abundant non-coding LMW DNA molecules in the Cladophor-
+ales [29, 31]. In contrast, a very small fraction of the HMW DNA
+reads (15 corrected reads) displayed the same ncDNA motifs,
+and these were present exclusively on long terminal repeat retro-
+transposons (RT-LTRs) (Figures S2D and S2E). RT-LTRs were
+also abundant in the 454 contigs (Figure S6D). The abundance
+of RT-LTRs in the 454 contigs and the presence of ncDNA motifs
+in both the Boodlea chloroplast genome and nuclear RT-LTRs
+are suggestive of DNA transfer between the nucleus and chloro-
+plast and may allude to the origin of the hairpin chromosomes.
+Hypothetically, an invasion of nuclear RT-LTRs in the chloroplast
+genome may have resulted in an expansion of the chloroplast
+genome and its subsequent fragmentation into hairpin chromo-
+somes during replication. Chloroplast genome fragmentation
+could be caused by recombination between repetitive elements
+and displacement of the palindromic sequences from the lagging
+strand during the chloroplast genome replication [41, 42], and is
+consistent with the expectation that recombination and cleavage
+of repetitive DNA will produce a heterogeneous population of
+molecules, as observed in dinoﬂagellate plastid genomes [11]
+and in the Boodlea LMW DNA.
+
+A Fragmented Chloroplast Genome Is a Common
+Feature of Cladophorales
+DNA sequence data were obtained from 9 additional Cladophor-
+ales species, representing the main lineages of the order:
+Chaetomorpha aerea, Cladophora albida, Cladophora socialis,
+Cladophora vadorum, Dictyosphaeria cavernosa, Pithophora
+sp., Siphonocladus tropicus, Struvea elegans, and Valonia
+was not conserved, and therefore the
+amino acid coded by the UGA codon could
+not be determined with certainty.
+
+utricularis (Tables S2 and S4). Although comparable sequencing
+approaches resulted in the assembly of circular chloroplast ge-
+nomes for other algae, including green seaweeds [43, 44], only
+short chloroplast contigs (ca. 200–8,000 bp) were assembled
+from these libraries, similar to B. composita. Interestingly, a
+similar set of chloroplast genes was identiﬁed in all sequenced
+Cladophorales species (Table S5). In contrast to the genes found
+in the Boodlea hairpin chromosomes, however, most of the chlo-
+roplast genes identiﬁed in the additional Cladophorales libraries
+were fragmented, possibly due to assembly of the shorter
+Illumina reads (Table S3). These ﬁndings support the idea that
+fragmentation of the chloroplast genome occurred before or
+early in the evolution of the Cladophorales.
+
+Highly Divergent Chloroplast Genes
+The 21 chloroplast protein-coding genes of Boodlea and the
+other species of Cladophorales display extremely high sequence
+divergence compared to orthologous genes in other photosyn-
+thetic organisms (Figure 5). A maximum-likelihood phylogenetic
+tree based on a concatenated amino acid alignment of 19 chlo-
+roplast genes from Archaeplastida and Cyanobacteria species
+(Figure 5) shows that despite their high divergence, the Clado-
+phorales sequences form a monophyletic group within the core
+Chlorophyta (Figure S4), a position that is supported by phyloge-
+netic analyses of nuclear genes [45]. The high sequence diver-
+gence of chloroplast genes in the Cladophorales supports the
+notion that organellar genomes with extremely derived architec-
+tures, including those of peridinin-containing dinoﬂagellates,
+also tend to fall at the extreme ends of the range observed at
+the mutation rate (or gene sequence divergence) level [7, 46].
+
+For some Boodlea chloroplast genes, the identiﬁcation of start
+and stop codons was uncertain and a non-canonical genetic
+code was identiﬁed (Figure 6). The canonical stop codon UGA
+was found 11 times internally in six genes (petA, psaA, psaB,
+psaC, psbC, and rbcL) but was also present as a genuine termi-
+nation codon in several genes, petA and psaA included. At seven
+of these 11 positions, the corresponding amino acid residue in
+orthologous genes was conserved (i.e., present in more than
+75% of the taxa in the alignment), but different amino acids
+were observed at these positions: V, Q, I, L, and C (Figure 6).
+The reassignment of the stop codon UGA to C has been docu-
+mented in the nuclear genetic code of several species of ciliates
+[47]. For the remaining positions, the amino acid in the alignment
+
+Deviations from the universal genetic code are widespread
+among mitochondrial genomes, and include loss of start
+and stop codons in some groups,
+including dinoﬂagellates
+[11, 48, 49].
+In contrast, non-canonical genetic codes are
+much rarer in plastid genomes, and up to now have only been
+detected in the apicomplexans Neospora caninum [50], C. velia
+[22], and the dinoﬂagellate Lepidodinium chlorophorum [51]. In
+genomes of primary plastids, a non-canonical genetic code is
+unprecedented.
+
+Dual meaning of UGA as both stop and sense codons has
+recently been reported from a number of unrelated protists
+[47, 52, 53]. Although in Saccharomyces cerevisiae the tetranu-
+cleotide UGA-C allows increased incorporation of the near-
+cognate Cys-tRNA for the UGA premature termination codon
+[54], such preference was not observed in the Boodlea chloro-
+plasts.
+Importantly, a non-canonical genetic code has also
+been described for Cladophorales nuclear genes, where UAG
+and UAA codons are reassigned to glutamine [55], which implies
+two independent departures from the standard genetic code in a
+single organism.
+
+Unexpectedly, we found that the 16S rRNA gene in the Boo-
+dlea chloroplast genome is split across two distinct hairpin chro-
+mosomes and that its size is much smaller compared to its algal
+and bacterial homologs (Figures 2B and 7). Fragmentation of
+rRNA genes has been observed in organellar genomes, including
+Apicomplexa, dinoﬂagellates, and many green algae [10]. In gen-
+eral, fragmentation of protein-coding and rRNA genes is more
+common in mitochondrial genomes than in plastid genomes
+[17, 22, 56]. Despite considerable effort, we could not detect
+the 23S rRNA gene nor the 5S rRNA gene.
+
+The transcription of the aberrant chloroplast genes was
+conﬁrmed using RNA-seq, and is concordant with previous re-
+sults of northern blots [31]. Transcripts of 21 chloroplast genes
+(that is, 20 protein-coding genes as well as the 16S rRNA
+gene) were identical to the genes encoded by the chloroplast
+454 contigs (Figures 2A and 3; Figure S5), providing evidence
+for the absence of RNA editing and corroborating the use of a
+non-canonical genetic code (Figure S5). Lack of RNA editing
+was also evidenced for the 11 internal occurrences of UGA (Fig-
+ure S5). This observation, in combination with conservation of
+the sequence after the UGA codon, serves as evidence that it
+is not a termination codon but an alternative code. The high
+total-RNA-to-mRNA ratio observed for reads that mapped to
+the chloroplast 454 contigs conﬁrmed that these genes were not
+transcribed in the nucleus (Figure S6C). All coding sequences of
+the same protein-coding genes found on different contigs of the
+Boodlea chloroplast genome were expressed, despite minor dif-
+ferences in their nucleotide sequences (Table S1).
+
+Additional transcripts of 66 genes that have been located in
+the chloroplast in other Archaeplastida were identiﬁed (Fig-
+ure 2A). Although their subcellular origin was not determined
+experimentally, they are probably all nuclear encoded, based
+on high mRNA-to-total-RNA read ratios and their presence on
+high molecular weight (HMW) DNA reads.
+
+<Conclusion> Conclusions.
+We collected several lines of evidence indicating that B. compo-
+sita lacks a typical large circular chloroplast genome. The chlo-
+roplast genome is instead fragmented into multiple linear hairpin
+chromosomes, and has a highly reduced gene repertoire
+compared to other chloroplast genomes. Thirty-four hairpin
+chromosomes were identiﬁed, harboring 21 protein-coding
+genes and the 16S rRNA gene, which are highly divergent in
+sequence compared to orthologs in other algae and display an
+alternative genetic code. The exact set of Boodlea chloroplast
+genes remains elusive, but at least 19 genes coding for chloro-
+plast products appear to be nuclear encoded, of which nine
+are always chloroplast encoded in related green algae (Fig-
+ure 2A). This suggests that fragmentation of a conventional chlo-
+roplast genome in the Cladophorales has been accompanied by
+an elevated transfer of genes to the nucleus, similar to the situa-
+tion in peridinin-containing dinoﬂagellates [11], with plastid ge-
+nomes encoding about 12 genes or fewer [11, 57]. Notably, the
+two distantly related algal groups have converged on a very
+similar gene distribution: chloroplast genes code only for the
+subunits of photosynthetic complexes (and also for Rubisco in
+Boodlea), whereas the expression machinery appears to be fully
+nuclear encoded (Figure 2A). Other nonstandard chloroplast
+genome architectures have recently been observed, such as
+a monomeric linear chromosome in the alveolate microalga
+C. velia [22] and three circular chromosomes in the green alga
+K. spirodelophila [12], but these represent relatively small devia-
+tions from the paradigm, when compared to the chloroplast
+genome of the Cladophorales. The highly fragmented chloro-
+plast genome in the Cladophorales is wholly unprecedented,
+and will be of signiﬁcance to understanding processes driving
+organellar genome fragmentation and gene reduction, endo-
+symbiotic gene transfer, and the minimal functional chloroplast
+gene set.
+
+References

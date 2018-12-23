@@ -1,0 +1,186 @@
+ 
+In the Dodd–Frank Wall Street Reform and Consumer Protection Act of 2010 (hereafter, the “Dodd–Frank Act”), policymakers made an unprecedented move towards using securities regulation to address issues unrelated to the Securities 
+and Exchange Commission’s (SEC) core mission of protecting investors and maintaining the fair and eﬃcient functioning 
+of ﬁnancial markets ( Lynn, 2011 ).  Section 1503 of the Dodd–Frank Act requires SEC-registered ﬁrms to include information regarding mine-safety performance in their ﬁnancial reports.  In this paper, we examine the real effects (i. e. , changes 
+in mining-related citations, injuries, and labor productivity) of the mandatory inclusion of mine-safety disclosures in the 
+ﬁnancial reports (“MSD”) of the 151 SEC-registered ﬁrms whose ownership of a U. S.  mine make them subject to Section 
+1503 of the Dodd–Frank legislation.  A key feature of our setting is that the information provided through MSD is already 
+publicly available on the Mine Safety and Health Administration’s (MSHA) website; this allows us to isolate and estimate 
+the magnitude of the incremental real effects of including information in ﬁnancial reports.  
+Section 1503 of the Dodd–Frank Act requires reporting citations for violations of mine-safety regulations both periodically in mine owners’ ﬁnancial reports (i. e. , Forms 10K and 10Q) and immediately upon the receipt of an imminent danger 
+order (IDO) through a Form 8K ﬁling.  MSD advocates make the implicit argument that including this information in ﬁnancial reports has implications that such information does not have when only disclosed on the MSHA website.  However, it 
+is unclear whether the information included in MSD is news to investors or other interested parties.  One reason the inclusion of safety information in ﬁnancial reports could have an incremental effect is because ﬁnancial reports broadcast the 
+information to a wide range of interested parties, thereby increasing awareness of ﬁrms’ safety records.  
+If MSD increases awareness of ﬁrms’ safety records, then political costs, reputational concerns, and/or activism by investors or other parties could provide an incentive for managers to improve mine safety.  For example, if managers anticipate 
+that the revelation of poor safety performance will have a negative effect on ﬁrm value, they may invest more in safety to 
+limit such effects.  Investors may react negatively to poor safety performance either because of the future cash ﬂow consequences or because of their non-cash-ﬂow-based preferences.  Cash ﬂow effects could occur, for example, through ﬁnes, 
+mine closures, or other costs imposed by activists.  Non-cash-ﬂow-based preferences could also lead investors to require 
+higher returns for ﬁnancing the operations of ﬁrms engaging in activities that conﬂict with those preferences, such as maintaining relatively unsafe working conditions (e. g. , Fama and French, 2007; Friedman and Heinle, 2016 ).  If MSD increases the 
+implications of safety issues for ﬁrm value, then MSD will give managers an incentive to alter resource allocation decisions 
+to improve safety.  It is also possible that MSD could affect managers’ safety-investment decisions through channels other 
+than ﬁrm value, such as, for example, negative reputational costs arising from the public revelation that a manager operates 
+a ﬁrm with poor safety conditions.  
+Using data obtained from the MSHA, we ﬁrst assess the effect of MSD on the incidence rate of citations for violations 
+of mine-safety regulations.  For these analyses, we employ a difference-in-differences (“DiD”) design that compares changes 
+in citations issued to mines owned by SEC registrants (“MSD mines”) with those issued to mines owned by non-SEC registrants (“non-MSD mines”) around the effective date of Dodd–Frank.  We control for ﬂexible time trends and static, mine-level 
+differences by including both year and mine ﬁxed effects.  We document a decrease in citations per inspection hour of approximately 11% for MSD mines relative to non-MSD mines.  Our evidence suggests this reduction in citations is attributable 
+to an increase in compliance with mine safety regulations rather than a change in inspector behavior.  
+Next, we analyze the effect of MSD on injury rates.  An im plicit assum ption of MSD, which focuses almost exclusively on 
+the reporting of citations for safety violations, is that a decrease in citations will translate into a reduction in injuries.  
+However,  the  link  between  compliance  with  mine  safety  regulations  and  actual  safety  improvements  is  debatable  (e. g. , 
+Ruffennach, 2002; Gowrisankaran Name, 2015 ).  Consistent with a meaningful improvement in safety, we document a 13% 
+decrease in injuries for MSD mines relative to non-MSD mines.  For the average ﬁrm, this 13% reduction translates into 
+approximately 0. 2 fewer injuries annually per 100 full-time employees (the equivalent of 200,000 mine-hours worked).  
+While the above results suggest that MSD has substantial beneﬁts, it is unlikely that the observed safety improvements 
+are costless.  Gowrisankaran Name (2015) posit that mines produce a joint output of safety and mineral production, which 
+suggests that an increase in safety could lead to lower mineral production per hour worked.  We examine this tradeoff by 
+testing whether productivity in coal mines, where we have measures of production and labor quantities, changes around the 
+adoption of MSD.  Using a DiD research design, we ﬁnd evidence of a signiﬁcant reduction in labor productivity following the 
+implementation of MSD.  The observed decline translates into increased labor costs of approximately 0. 9% of total revenue.  
+A critical assumption of our identiﬁcation strategy is that the trends in mine safety and productivity for MSD and nonMSD mines would have been the same in the absence of MSD (i. e. , the parallel-trends assumption).  We assess the validity 
+of this assumption by mapping out the counterfactual treatment effect of MSD in the pre-MSD period (from 2002 to 2009).  
+This analysis shows that the trends for MSD and non-MSD mines are similar.  Even given similar pre-treatment trends, other 
+factors, such as public outrage over a mining disaster, which differentially affect MSD and non-MSD mines, could potentially 
+confound our inferences.  To address this possibility, we ﬁrst demonstrate that there is no difference in the reactions of MSD 
+and non-MSD mines to another major regulatory event (the 2006 MINER Act) that pertains to all mines and was triggered 
+by events similar to those that led to MSD.  
+To provide evidence that an increased public awareness of safety issues is a likely explanation for the observed real 
+effects, we assess whether more attention is paid to safety after MSD.  First, we provide descriptive evidence of an increase in 
+media and analyst coverage.  Second, we compare short-window stock returns and changes in mutual fund holdings around 
+IDO disclosures before and after MSD.  We ﬁnd a 155 (140) basis point more negative average (median) market reaction 
+when a safety citation is reported in an 8K ﬁling and disclosed on the MSHA’s website, compared to the period when such 
+citations are disclosed only on the website.  These market reactions are most negative for ﬁrms operating primarily in the 
+mining industry, where safety violations likely have the greatest implications for ﬁrm value.  
+For mutual fund holdings, in the pre-MSD period, we ﬁnd a signiﬁcant reduction in ownership in the quarter following an 
+IDO announcement, indicating that some sophisticated investors were aware of, and responded to, IDO website disclosures 
+prior to MSD.  In the post-MSD period, the reduction in ownership when the safety information is also disseminated through 
+an 8K is signiﬁcantly larger, which suggests that mutual fund managers care more about safety issues when other parties’ 
+awareness of these issues increases.  These effects are particularly pronounced for funds with explicitly stated preferences 
+for socially responsible investment.  
+Our paper contributes to the existing literature by documenting the magnitude of the real effects of including information 
+on social responsibility in ﬁnancial reports.  Prior research shows accounting disclosures can have real effects because: (i) 
+disclosure reduces information asymmetry and agency costs (e. g. , Biddle and Hilary, 2006 ; Biddle Name, 2009 ; McNichols and 
+Stubben, 2008 ), (ii) accounting numbers are used in contracts and regulation (e. g. , Holthausen and Leftwich, 1983 ), and (iii) 
+managers learn new information from their own disclosures and the disclosures of peers (e. g. , Shroff, 2017 ).  There is also a 
+literature that shows that disclosure through channels other than ﬁnancial reports can have real effects ( Jin and Leslie, 2003; 
+Chuk, 2013 ).  Our paper contributes to this prior work primarily because mine-safety records are already publicly available 
+outside of a ﬁrm’s ﬁnancial reports, which allows us to isolate and estimate the incremental effect of including information 
+in ﬁnancial reports as opposed to the effects of disclosing information not previously publicly released elsewhere.  
+Understanding  the  real  effects  of  regulations  requiring  information  on  social  responsibility  in  ﬁnancial  reports  is  increasingly important given the recent trend towards employing such policies ( Leuz and Wysocki, 2016 ).  U. S.  policymakers 
+are currently considering implementing similar reporting requirements for political contributions, conﬂict minerals from 
+the Democratic Republic of the Congo, and, more broadly, the standards issued by the Sustainability Accounting Standards 
+Board.  The European Union (EU) also recently mandated disclosures related to ﬁrms’ environmental, social, and governance 
+performance ( Grewal Name, 2015 ).  Although our relatively narrow focus on the mining industry and MSD regulation could 
+limit the generalizability of our ﬁndings, our study nonetheless provides direct evidence on the real effects of mandating the 
+inclusion of information on social responsibility in ﬁnancial reports—a feature that is common to all of the aforementioned 
+initiatives.  
+2.  Institutional background. 
+The mining industry is both an economically important and historically unsafe sector of the U. S.  economy.  In 2014, the 
+mining industry contributed $225. 1 billion to GDP and nearly two million jobs to the U. S.  economy ( NMA, 2014 ).  Since 1900, 
+more than 10 0,0 0 0 workers have died and many more have been injured in U. S.  mines ( MSHA, 2014 ).  Although mining is 
+no longer among the ten most dangerous jobs in the U. S.  (based on fatalities), it remains one of the most heavily regulated 
+sectors in terms of employee health and safety.  
+As is often the case with policy interventions, catastrophic events frequently trigger mine-safety regulation ( Ruffennach, 
+2002 ).  The Upper Big Branch disaster, which killed twenty-nine miners in West Virginia on April 5, 2010, is among these.  
+However, in an unprecedented move, policy-makers turned to securities regulation for a solution.  Following the congressional practice of tacking off-topic provisions onto other pieces of proposed legislation, West Virginia Senator Jay Rockefeller 
+IV introduced MSD into the Dodd–Frank Act, which primarily focuses on regulations intended to reform the ﬁnancial services sector.  Public comments suggest that MSD was explicitly motivated by the intention to improve safety rather than aid 
+1 Senator Rockefeller himself publicly indicated that the goal of the 
+investors in assessing ﬁnancial performance ( Lynn, 2011 ).  
+regulation was to “make mine safety a top priority” (Senator John D.  Rockefeller IV, Press Release May 07, 2010), and, not 
+surprisingly, the strongest supporters of MSD in comment letters on the regulation written to the SEC were organizations 
+representing mine workers (e. g. , the United Mine Workers of America).  
+Dodd–Frank Section 1503(a) requires SEC-registered mine owners to include their safety records for U. S.  mines in their 
+periodic reports (i. e. , 10Qs and 10Ks for domestic issuers and 20Fs and 40Fs for foreign issuers).  Under the Federal Mine 
+Safety and Health Act of 1977 (the Mine Act), the MSHA is required to inspect surface mines at least twice a year and 
+underground mines at least four times a year.  Inspections are also conducted in response to hazardous condition complaints.  
+If inspectors identify violations of safety and health standards, they issue citations or orders, which may carry monetary 
+penalties or, in some cases, result in mine closures.  Under MSD, from these inspections, issuers must report: severe citations 
+for violations of the Mine Act, proposed penalties, legal actions, and fatalities.  Section 1503(b) of the Act also requires issuers 
+Unlike most SEC reporting requirements, 
+issuers must report safety records even if their omission is unlikely to inﬂuence the decisions of ﬁnancial report users (i. e. , 
+there is no materiality threshold for MSD ﬁlings).  In Appendix A , we provide an example of a typical MSD 8K and 10K ﬁling, 
+a screenshot from the MSHA website, and a more detailed description of the MSD reporting requirements.  
+Importantly, since 20 0 0, the MSHA has disclosed all information included in MSD ﬁlings on its website, typically within 
+twenty-four hours, making it a timelier source than the ﬁnancial reports.  The prior disclosure of the safety records allows
+us to estimate the effect of including this information in ﬁnancial reports independent from the effects of disclosing the 
+information for the ﬁrst time.  
+<Middle> Reasons MSD could have real effects. 
+If the inclusion of safety information in ﬁnancial reports increases public awareness of safety records, MSD could have 
+real effects through managers’ rational anticipation of its implications for cash ﬂows, discount rates, and/or their own reputation.  MSD could affect cash ﬂows by exposing a ﬁrm to heightened political costs, reputational concerns, and activism 
+by safety-conscious stakeholders.  
+Information on safety could affect a ﬁrm’s discount rate if a signiﬁcant proportion of investors prefer owning ﬁrms with 
+strong safety records for reasons independent of the cash ﬂow implications of those safety records.  If a ﬁrm conducts an 
+activity in opposition to some investors’ non-cash-ﬂow-based preferences, revelation of this activity will likely decrease the 
+demand of those investors, which could in turn affect the ﬁrm’s stock price ( Fama and French, 2007 ).  Friedman and Heinle 
+(2016) build on Fama and French (2007) to model the asset pricing implications of CSR, which, given the subject of MSD, is 
+directly relevant in our setting.  Their model predicts that, given a suﬃcient number of investors with non-cash-ﬂow-based 
+preferences, the market will price CSR disclosures.  
+It is also possible that MSD affects managers’ safety-investment decisions through channels other than ﬁrm value.  In the 
+mining industry, because of the potential political consequences, the importance of safety goes beyond its direct implications 
+for ﬁrm value.  For instance, managers are likely to face reputational costs from the public revelation that they operate 
+a ﬁrm with poor safety conditions.  Such costs could manifest on a personal (e. g. , shame) or professional level (e. g. , career 
+5 Dewatripont Name (1999) show how managerial incentives can be shaped not only by explicit incentive contracts 
+concerns).  
+but also by personal reputation and career concerns.  If managers of ﬁrms with poor safety records are less attractive labor 
+market candidates, they have a strong incentive to improve safety performance.  
+Regardless of the explanation for why safety information affects safety, what creates tension, and allows us to separate the effect of including information in ﬁnancial reports from the ﬁrst-time disclosure of that information, is that all 
+mine-safety records in the ﬁnancial reports are already publicly available on the MSHA’s website.  Thus, for MSD to affect 
+managers’ incentives to invest in safety, it must increase awareness of ﬁrms’ safety records or lead some interested parties 
+to assign greater importance to safety issues.  
+One reason MSD could increase awareness is that the information in ﬁnancial reports is more broadly disseminated than 
+the information on the MSHA website.  SEC-required disclosures on Forms 8K, 10Q, and 10K are effectively the billboards 
+of the ﬁnancial community.  Since ﬁnancial reports are so widely disseminated and have such low incremental acquisition 
+costs, after MSD, investors, ﬁnancial analysts, and the news media that follow SEC ﬁlings are more likely to become aware 
+of violations of the Mine Act—even if they are not explicitly looking for them.  
+Even if relatively sophisticated investors were already familiar with mine safety records prior to MSD, as less sophisticated parties also become aware of safety violations, the cost of investing in a ﬁrm that owns an unsafe mine could increase 
+after MSD.  For example, increased awareness that an institutional investor owns a company with a poor safety record could 
+lead to heightened public disapproval—particularly if third parties, such as the news media, scrutinize the investor’s portfolio holdings (as may be the case, for example, with university endowments, public pensions, or mutual funds).  
+Even if all investors were already fully informed about safety issues, citations might nevertheless become more costly to ﬁrms if other 
+stakeholders able to impose costs on ﬁrms (e. g. , activists) become aware of safety issues after MSD.  
+In the end, whether the mandatory inclusion of information on social responsibility in ﬁnancial reports has economically 
+signiﬁcant real effects is an empirical question.  Our goal in this paper is to estimate the magnitude of any such effects.  
+4.  Real effects of MSD. 
+In our analyses of the real effects of MSD, we focus on changes in safety citations, mining-related injuries, and labor 
+productivity around the enactment of MSD.  
+4. 1.  Implications of MSD for mine safety. 
+In this section, we assess the effect of MSD on the incidence rate of citations for violations of the Mine Act and miningrelated injuries.  Our empirical strategy relies on the fact that only SEC-registered ﬁrms are subject to Dodd–Frank and, 
+hence,  only  mines  owned  by  SEC-registrants  have  their  safety  records  included  in  ﬁnancial  reports.   We  use  a  standard 
+difference-in-differences (DiD) framework, where mines owned by non-SEC registrants are the control group.  Our baseline 
+model, suppressing year and mine subscripts. 
+The dependent variable is either the incidence rate of citations per inspection hour ( Citations ) or injuries per 20 0,0 0 0 
+hours worked ( Injuries ).  To mitigate the concern that our inferences could be affected by a change in inspection hours, in 
+the citation analysis, we alternatively include the log of inspection hours as a control variable and scale by mine hours 
+worked (see Internet Appendix Table IA1).  MSD , the variable of interest, is an indicator coded as one after Dodd–Frank for 
+mines disclosed in ﬁnancial reports.  We include year ﬁxed effects to control for changes over time in safety technology and 
+regulations other than Dodd–Frank, which likely have a similar effect on both MSD and non-MSD mines.  We include mine 
+ﬁxed effects to control for differences in production technologies and other time-invariant factors among mines.  
+In this speciﬁcation, we identify the effect of MSD from changes in incidence rates around the entry-into-force date of Dodd–Frank 
+for MSD relative to non-MSD mines.  We estimate block-bootstrapped standard errors at the mine-owner level, which adjust 
+for the lack of independence within mine owner (e. g. , Bertrand Name, 2004 ).  
+The block bootstrap approach adjusts standard errors to account for the lack of independence within mine owner by 
+resampling observations (over 100 iterations) at the mine-owner level (i. e. , keeping mine-level observations for a speciﬁc 
+owner together).  As an alternative approach, we cluster observations at the mine-owner level using the OLS speciﬁcation 
+(see Internet Appendix Table IA1).  
+We estimate Eq.  (1) using a standard OLS regression, where we measure incidence rates over both one- and two-year periods.  Although one-year incidence rates are consistent with the length of the 10K reporting period, one year is a relatively 
+short interval over which to measure infrequent outcomes such as citations and injuries.  To mitigate this concern, we also 
+estimate Eq.  (1) using incidence rates measured over two years.  However, even when measured over two years, the infrequency of citations and injuries still results in a high density of observations at zero.  An OLS regression does not effectively 
+account for this concentration of observations, which could lead to biased estimates of the treatment effect ( Wooldridge, 
+2002 ).  We therefore also estimate Eq.  (1) using a Poisson regression.  
+The Poisson probability distribution captures the infrequent and discrete nature of citations and injuries and is widely 
+used to model similar events (e. g. , Rose, 1990; Li Name, 2012 ).  In the Poisson speciﬁcation, the dependent variable is the 
+count of citations or injuries.  In the case of citations (injuries), we use inspection hours (hours worked) as the exposure 
+variable—meaning the interpretation of the estimated coeﬃcient on MSD is comparable to the OLS speciﬁcation.  We report 
+average  treatment  effects  for  both  the  OLS  and  Poisson  regressions  where  incidence  rates  are  measured  over  one-  and 
+two-year periods, but because it conceptually best addresses low incidence rates, our preferred speciﬁcation is the Poisson 
+regression with incidence rates measured over two years.  
+We  obtain  mine-level  data  from  the  U. S.   Department  of  Labor  MSHA  Open  Government  Data  website,  which  compiles 
+an array of datasets on health and safety for mining operations located in the U. S.  We use the Inspection, Violation, Accident/Injuries , and CDC Address/Employment (AE) databases.  We include all observations from 2002 to 2013 that meet our 
+sample criteria.  We restrict the analyses of injuries to mine-years with at least ﬁve full-time equivalent employees (i. e. , 
+more than 10,0 0 0 hours worked) to reduce the inﬂuence of very small mines.  In the OLS regressions, we truncate the top 
+1% of incident rates.  We do not truncate the incidence rates in the Poisson speciﬁcation because it is essentially a log-linear 
+model, which can effectively deal with outliers without truncation.  We include a relatively long pre-period (six years) to 
+enable a better assessment of the parallel-trends assumption (see Section 4. 3. 2 ).  
+We determine which mines in the MSHA database are disclosed in ﬁnancial reports (and therefore are included in our 
+treatment sample) through a comprehensive search of all relevant ﬁlings in the SEC’s Edgar database.  We provide a detailed 
+description of this data collection procedure in Appendix B .  Our control sample consists of all non-MSD mines available in 
+the MSHA database (i. 

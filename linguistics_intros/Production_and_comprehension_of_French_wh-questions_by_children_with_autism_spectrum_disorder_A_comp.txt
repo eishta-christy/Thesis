@@ -1,0 +1,2642 @@
+Applied Psycholinguistics 38 (2017), 1095–1131
+doi:10.1017/S0142716417000078
+
+Production and comprehension
+of French wh-questions by children
+with autism spectrum disorder: A
+comparative study with speciﬁc
+language impairment
+
+PHILIPPE PRÉVOST and LAURICE TULLER
+Université François Rabelais de Tours
+
+MARIE ANNE BARTHEZ
+Tours Regional University Hospital Center
+
+JOËLLE MALVY and FRÉDÉRIQUE BONNET-BRILHAULT
+Université François Rabelais de Tours and Clocheville Children’s Hospital,
+Tours
+
+Received: March 16, 2016
+
+Accepted for publication: January 15, 2017
+
+ADDRESS FOR CORRESPONDENCE
+Philippe Prévost, UMR Inserm U930, Université François Rabelais de Tours, Tours, France.
+E-mail: philippe.prevost@univ-tours.fr
+
+ABSTRACT
+The nature of structural language difﬁculties in children with autism spectrum disorder (ASD) was
+explored in a comparative study with speciﬁc language impairment (SLI) through investigation of the
+frequently reported ASD weakness in receptive skills relative to expressive skills. Twenty French-
+speaking children with ASD aged 6 to 12 were compared to age-matched children with SLI on produc-
+tion and comprehension of wh-questions. The two groups displayed similar effects of the complexity
+of the different wh-strategies. In the ASD group (as in the SLI group), these effects were not greater in
+comprehension compared to production; moreover, nonverbal ability (which varied from normal to im-
+paired) was not related to language performance. Observed ASD-SLI differences are argued to largely
+be due to ASD pragmatic deﬁcits, rather than to a qualitative difference in structural language skills.
+
+Human communication involves linguistic knowledge (grammar, lexicon, and
+sound structure), as well as knowledge about the context within which it is used
+(what can be inferred about the speaker’s intentions, etc.). This latter type of
+knowledge, pragmatics, has received considerable attention in studies on autism,
+and impairment in this domain is considered a core feature of autism spectrum dis-
+order (ASD; see Baron-Cohen, 1988; Boucher, 2003). By contrast, formal aspects
+of language (those concerning sound, word, and sentence structure) have been
+
+© Cambridge University Press 2017 0142-7164/17
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1096
+
+much less investigated in ASD, especially in languages other than English. This
+is despite consensus among scholars regarding the existence of frequent formal
+language impairment in children with ASD (for overviews, see Boucher, 2012;
+Eigsti, de Marchena, Schuh, & Kelley, 2011; and Groen, Zwiers, Van der Gaag, &
+Buitelaar, 2008), though rates and underlying nature of this impairment have been
+understudied. Recent work has brought this issue to the forefront in the context of
+the question of whether the language difﬁculties observed in some children with
+ASD are similar to those found in children with speciﬁc language impairment
+(SLI; for a review, see Williams, Botting, & Boucher, 2008).1 Moreover, it has
+been suggested that an “inverse” production–comprehension dissociation charac-
+terizes language in children with ASD, with comprehension difﬁculties overshad-
+owing production difﬁculties (for a review, see Boucher, 2012), and persistence
+of comprehension problems constituting a signiﬁcant difference with SLI (Rutter,
+Mawhood, & Howlin, 1992), though the validity of this characterization remains
+unclear (Kwok, Brown, Smyth, & Cardy, 2015). This paper aims to contribute to
+this inquiry with a study comparing children with ASD to children with SLI on
+alternative ways of forming wh-questions in French. Our goal was to determine if
+production and comprehension of wh-questions show the same patterns of relative
+avoidance/preference in production and difﬁculty in comprehension in these two
+populations.
+
+LANGUAGE DEVELOPMENT IN ASD AND SLI
+
+According to the International Classiﬁcation of Diseases, 10th edition (ICD-10;
+World Health Organization, 2010), both ASD and SLI are disorders of psycholog-
+ical development. ASD is characterized by impaired communication and social
+interactions and by restricted, repetitive, and stereotyped behavior (see DSM-5;
+American Psychiatric Association, 2013). A large proportion of children with
+ASD also have intellectual deﬁcits. Regarding language skills, there is consider-
+able variation among children with ASD. In addition to the well-known pragmatic
+difﬁculties experienced by children with ASD, some children also experience vary-
+ing degrees of semantic, morphosyntactic, and/or phonological impairment (Lord,
+Risi, & Pickles, 2004; Tager-Flusberg, 2006; Wilkinson, 1998). SLI is a disor-
+der affecting language in the absence of any primary disorder such as intellectual
+disability, auditory/perceptual impairment, or obvious neurological dysfunction.
+One language domain particularly affected in children with SLI is morphosyntax
+(Leonard, 2014). Because morphosyntax may also be impaired in children with
+ASD, the question arises as to the extent, the nature, and the implications of the in-
+tersection between ASD and SLI (see Bishop, 2010; Kjelgaard & Tager-Flusberg,
+2001; Tager-Flusberg, 2004, 2006; Tomblin, 2011). ASD-SLI studies that have
+sought to elucidate these questions through direct, comparative investigation of
+these two populations are relatively few in number. These began with Bartak, Rut-
+ter, and Cox’s (1975) study, and the large clinical cohort studies undertaken by
+Allen and Rapin (1992), Rapin (1996), and Tuchman, Rapin, and Shinnar (1991;
+for an overview and an integrative analysis of these, see also Rapin & Dunn,
+2003). These have been followed by a dozen other, smaller studies published in
+the last decade, which have also focused on English-speaking children (Leyfer,
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1097
+
+Tager-Flusberg, Dowd, Tomblin, & Folstein, 2008; Lloyd, Paintin, & Botting,
+2006; Loucas et al., 2008, 2010, 2013; Pickles et al., 2009; Whitehouse, Barry,
+& Bishop, 2008; Williams, Payne, & Marshall, 2013), with few exceptions (De-
+mouy et al., 2011; Durrleman & Delage, 2016; Geurts & Embrechts, 2008; Zebib,
+Tuller, Prévost, & Morin, 2013). Ultimately, identifying the nature of language
+deﬁcits that some children with ASD have could lead to the identiﬁcation of spe-
+ciﬁc subgroups of children with autism, which in turn would contribute to better
+understanding of autism and the development of appropriate care.
+
+The principal objective of this paper is to explore aspects of structural lan-
+guage in children with ASD in both production and comprehension, as part of the
+overarching goal of documenting language proﬁles in these children. It has often
+been reported that children with ASD have higher abilities in expression than in
+reception (Boucher, 2003, 2012; Charman et al., 2003; Lloyd et al., 2006; Rutter
+et al., 1992), and these reports echo observations frequently made by clinicians. In
+a recent review, Kwok et al. (2015) found that the (few) studies directly comparing
+receptive/expressive modalities did not all show an advantage for production over
+reception, with some showing the opposite dissociation, and some no dissociation
+at all. Furthermore, their meta-analysis of 74 studies reporting on either receptive
+or expressive language found no evidence for a typical expression-over-reception
+pattern in children with ASD. This was true for studies of vocabulary, as well as for
+studies that included measures of global language ability. However, Kwok et al.
+underlined several important lacuna in the literature, concluding that the number
+of studies reporting measures of structural language made it impossible for them to
+run a separate analysis for this domain, and thus to determine whether there might
+be some kind of receptive–expressive dissociation for this aspect of language. One
+of the major conclusions for their study was the need for further exploration of
+grammar and syntax.
+
+Moreover, Kwok et al. (2015) found that the participants in the extant literature
+did not form a representative sample, and speciﬁcally that low-functioning chil-
+dren were underrepresented in studies of children after age 6, making it probable,
+in their view, that language abilities in school-age children and youth might be
+overestimated. The underlying assumption here is that it is reasonable to imagine
+that language should be more affected in children with ASD who have intellec-
+tual disability than in those who do not, and perhaps comprehension might be
+even more affected in children with this proﬁle. If this is the case, then potential
+receptive–expressive language gaps may not have been adequately explored in
+these children. It might further be supposed that, more generally, performance on
+speciﬁc aspects of language could be more affected by nonverbal ability. A few
+studies have reported on difﬁculties in comprehension of particular morphosyntac-
+tic constructions, such as object relative clauses (Durrlemann & Zafferey, 2013),
+accusative clitics (Terzi, Marinis, Kotsopoulou, & Konstantinos, 2014), passives
+(Perovic, Modyanova, Hanson, Nelson, & Wexler, 2007; Terzi et al., 2014), and
+binding (Perovic, Modyanovs, & Wexler, 2013a, 2013b). However, these did not
+all include children from the entire autism spectrum (some only included high-
+functioning children), which suggests that the question of the relationship between
+nonverbal ability and language comprehension/language performance in ASD is
+still very much an open, empirical question.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1098
+
+The relationship between language skills and cognitive development in ASD
+has received attention in the literature. Some studies suggest that children with
+ASD have language skills similar to typically or atypically developing children of
+the same cognitive level (Howlin, 1984; Tager-Flusberg et al., 1990); others argue
+that linguistic deﬁcits in children with ASD may be speciﬁc, independent of their
+nonverbal ability (Eigsti, Bennetto, & Dadlani, 2007; Kjelgaard & Tager-Flusberg,
+2001; Perovic et al., 2013b). These latter studies appear to go in the same direction
+as studies investigating SLI, which is, by deﬁnition, independent of nonverbal IQ,
+and so-called nonspeciﬁc language impairment, children with language impair-
+ment and low cognition, but no other developmental disability (see Rice, 2016,
+for recent discussion). The question of a possible overlap between SLI and ASD
+is in this way tightly connected to the issue of whether low nonverbal IQ can be
+regarded as “the driver for language impairments in children” (Rice, 2016). ASD-
+SLI comparative studies differ in how this question is approached. Some studies
+have focused on whether there are children with ASD who resemble children with
+SLI in having both normal nonverbal IQ and impaired structural language (Geurts
+& Embrechts, 2008; Leyfer et al., 2008; Loucas et al., 2008, 2010, 2013; Riches,
+Loucas, Baird, Charman, & Simonoff, 2010, 2011; Whitehouse et al., 2008;
+Williams, Payne, & Marshall, 2013). Others have sought to document language
+proﬁles in verbal children with ASD, regardless of nonverbal cognitive proﬁles and
+to explore the incidence of structural language impairment more widely (Demouy
+et al., 2011; Durrleman & Delage, 2016; Lloyd et al., 2006; Pickles et al., 2009;
+Rapin 1996; Rey, Tardif, Delahaie, Thomas, & Massion, 2001; Tuchman et al.,
+1991). We will be pursuing this second approach, bearing in mind, however, the
+possible inﬂuence of nonverbal ability, which will be directly addressed, as will
+the question of how ASD language proﬁles might best be explored.
+
+SYNTACTIC COMPLEXITY AND LANGUAGE DEVELOPMENT:
+WH-QUESTIONS IN FRENCH
+
+In this paper, we address the question of the nature of structural language impair-
+ment, and, more speciﬁcally, of the reported receptive disadvantage in verbal chil-
+dren with ASD, by focusing on the complexity of syntactic computation in children
+with ASD. Recent research shows that both typical and atypical language devel-
+opment is constrained by computational complexity, with more complex construc-
+tions emerging later than constructions involving less complexity (Chillier et al.,
+2001; Friedmann, Belletti, & Rizzi, 2009; Hamman, Tuller, Monjauze, Delage, &
+Henry, 2007; Jakubowicz & Nash, 2001; van der Lely, 2005). Among proposals
+that have aimed at characterizing particular aspects of complexity, Jakubowicz’s
+(2011) computational complexity hypothesis postulated that accumulation of the
+operations involved in linguistic computation, in particular internal merge and ex-
+ternal merge, is quite challenging for young children and individuals with language
+pathology. We focus in this study on this speciﬁc aspect of computational com-
+plexity. Children may in effect avoid a complex structure by producing an alterna-
+tive sentence involving fewer operations, or by adopting compensatory strategies,
+such as omission or substitution, which reduce the computational complexity of a
+derivation. Computational complexity may also impact on comprehension. A clear
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1099
+
+example is that of object relative clauses, which have been argued to involve a high
+degree of complexity, and are exceedingly difﬁcult for young children and for chil-
+dren with SLI, yielding subject relative interpretations, in comprehension, and, in
+production, alternative structures that are simpler, though sometimes inappropriate
+or ungrammatical (Friedmann et al., 2009).
+
+Wh-questions are a particularly useful area of French syntax for assessing com-
+putational complexity and its impact on language development, in that several
+grammatical constructions varying in complexity are available, from wh–in situ to
+wh-fronting with V-to-I movement followed by I-to-C movement (which we refer
+to by the traditional term subject/verb inversion), some of which are illustrated
+in (1), where wh-constructions are listed according to increasing complexity, and
+which are all ways of asking a question about the object of the verb push.2
+
+Wh–in situ
+
+(1) a. Tu
+you
+b. Quii
+
+pousses qui?
+push
+
+who(m)
+
+tu
+you
+est-ce
+is it
+d. C’est qui(i)
+
+who(m)
+
+c. Quii
+
+who(m)
+pousses ti?
+push
+que
+that
+[Opi
+
+it is
+e. Quii
+
+who(m)
+
+f. Quii
+
+who(m)
+
+g. Qui
+
+[Opi
+
+who(m)
+c’est ti
+it is
+poussesj
+push
+est-ce que pousse Max ?
+is it
+
+that pushes Max
+
+-tu tj ti?
+you
+
+who(m)
+“Who is Max pushing?”
+
+Plain wh-fronting
+Wh-fronting + est-ce que
+Wh-fronting + cleft
+pousses ti]?
+pousses ti]? Wh-fronting + cleft
+
+pousses ti?
+
+tu
+you push
+que
+that
+que
+that
+
+tu
+you push
+tu
+you push
+
+(+ wh-fronting)
+Wh-fronting + subject/verb
+inversion
+Wh-fonting + est-ce que
++ stylistic inversion
+
+In (1a), the object wh-word qui “who” follows the verb pousses “push,” the so-
+called in situ position. This matches the canonical verb–object order in French. In
+contrast, the sentences in (1b)–(1e) all display the object wh-word qui in a pre-
+verbal position, which renders them more complex than the wh–in situ strategy in
+(1a). Speciﬁcally, it is assumed that the wh-word moves from its base-generated
+postverbal position via internal merge to a higher position in the structure of the
+sentence (Chomsky, 1995).3 A dependency relation is therefore established be-
+tween the wh-word and its base-generated position, and it is precisely this kind of
+relationship that children with SLI are assumed to have difﬁculties with (see, e.g.,
+van der Lely, 2005). Under this assumption, wh-questions with wh-fronting and
+subject/verb inversion (which involves a subject clitic), as in (1f), or wh-fronting
+and stylistic inversion (which involves a full lexical subject DP), as in (1g), rep-
+resent the most complex types since they involve two internal merge operations:
+that of the wh-word to the front of the sentence as well as that involved in the
+noncanonical order of the verb with respect to its subject: I-to-C in the case of
+subject/verb inversion and overt movement of the subject to a position higher than
+SpecVP in the case of stylistic inversion (see Kayne & Pollock, 2001). In these
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1100
+
+sentences, two dependency relationships must be established, which is particu-
+larly difﬁcult for children with SLI (see van der Lely, 2005). As to (1b) and (1c),
+both involve wh-fronting, but (1c) is more complex than (1b) since it also includes
+external merge of a question marker est-ce que (ESK; also part of the derivation
+of (1g)). Jakubowicz (2011) argued that clefts ((1d)–(1e)) are more complex, as
+they entail both external merge (of the wh-word in the matrix clause) and internal
+merge (of an empty operator, identiﬁed by the overt wh-word). Firthermore, (1e)
+includes a cleft construction and movement of the clefted wh-word, which makes
+it more complex than (1d).
+
+Some of the interrogative strategies, wh–in situ, plain wh-fronting, and wh-
+fronting with ESK, are very frequent in spoken French, while wh-fronting with
+subject/verb inversion is much rarer (see Coveney, 1996; Quillard, 2000, for some
+quantitative ﬁndings), but not altogether absent from the input received by children
+(see Prévost, Tuller, Galloux, & Barthez, in press). In particular, it is part of high-
+frequency ﬁxed expressions (e.g., Que veux-tu? “What do you want?”) and can be
+found in literature for children. It is also associated with a more formal register,
+in contrast to the other strategies that are more neutral (although they can occur in
+formal contexts; see Coveney, 1996; Quillard, 2000).
+
+Several studies on the development of wh-questions in French by typically de-
+veloping (TD) children and children and adolescents with SLI (aged 3 years, 10
+months [3;10] to 14;0) have shown that wh–in situ is largely favored in the ear-
+liest stages of acquisition, be it in spontaneous production or elicited production.
+In contrast, wh-fronting with subject/verb inversion is extremely rare in the pro-
+duction data of young children and children with SLI (for typical development,
+see Hamann, 2006; Hulk, 1996; Hulk & Zuckerman, 2000; Plunkett, 1999; Strik,
+2007; for SLI, see Hamann, 2006; Jakubowicz, 2011).
+
+Studies on the comprehension of wh-questions in French are quite rare, and their
+objective has not been to compare performance across wh-strategies. For instance,
+Plunkett (2010) looked at object versus subject wh-questions and showed, in dif-
+ferent experiments, that object wh-questions with wh–in situ and with wh-fronting
++ ESK were well understood. In patients suffering from agrammatic aphasia, how-
+ever, van der Meulen (2004) showed that object questions with wh–in situ were
+signiﬁcantly better understood than questions involving wh-fronting. Studies look-
+ing at both production and comprehension of other complex structures in French
+have generally reported low rates of production despite good comprehension, in-
+cluding in children with SLI. Such is the case of object clitics, which appear in
+a (noncanonical) preverbal position in French (e.g., Pierre la pousse “Peter her
+pushes”; Grüter, 2005; Jakubowicz, Nash, Rigaut, & Giraud, 1998; see Jakubowicz
+& Tuller, 2008, for review of other such cases).
+
+Some studies suggest that complex sentences are problematic for children with
+ASD. For instance, Condouris, Meyer, and Tager-Flusberg (2003) found that in-
+terrogatives are affected in autism. In an analysis of spontaneous speech of 44
+individuals with ASD (mean age = 7;3 and normal and impaired nonverbal IQ),
+they found low scores on the question/negation subscale of the Index of Pro-
+ductive Syntax, a measure assessing the child’s emergent use of particular struc-
+tures (Scarborough, 1990). Durrleman and Zufferey (2009), analyzing production
+data from two high-functioning children with ASD (aged 3;9 and 5;8), argue that
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1101
+
+complex structures are affected by truncation, namely, the top layers of the struc-
+tural representations are not systematically projected (Rizzi, 2000). In a study
+speciﬁcally investigating the effect of complexity in language performance, Riches
+et al. (2010) reported that both high-functioning adolescents with ASD and lan-
+guage impairment (mean age = 14;8, n = 16) and adolescents with SLI (mean
+age = 15;3, n = 14) were affected by complexity, but more so in the latter. Al-
+though individuals with ASD and individuals with SLI tended to make more errors
+than age-matched TD adolescents in the production of subject and object relative
+clauses, individuals with SLI struggled even more than individuals with ASD on
+object relative clauses (deemed to be more complex).
+
+Our goal in the study presented here was to explore the issue of ASD-SLI simi-
+larities/differences by focusing on a comparison of production and comprehension
+of structures involving varying degrees of computational complexity. We sought
+to provide concrete answers to the following speciﬁc questions:
+
+(2) a. Do children with ASD resemble children with SLI in avoiding complex strategies
+when they produce wh-questions? Are favored wh-strategies and error types similar
+or different in the two groups?
+
+b. Are children with ASD sensitive to complexity in their comprehension of wh-
+questions like children with SLI are? Are the same types of questions difﬁcult/easy
+to understand in the two groups?
+
+c. Does the nonverbal ability of children with ASD correlate with their performance
+on the production and/or comprehension of wh-questions, with lower levels corre-
+sponding to greater difﬁculty with complex wh-questions?
+
+GENERAL METHOD
+
+Participants
+Twenty verbal children with ASD aged 6;3 to 12;9 (M = 8;7, SD = 1;9) and
+20 age-matched children with SLI (range = 6;5–11;2, M = 8;7, SD = 1;8) were
+recruited from medical records of specialized sections of French hospitals for this
+study (see Appendix A for a detailed presentation of these two groups, and Table 1
+below for a summary). All children with ASD had been diagnosed according to
+ICD-10 criteria via the Autism Diagnosis Interview—Revised (Lord, Rutter, & Le
+Couteur, 1994) and conﬁrmed by the Autism Diagnostic Observation Schedule,
+module 2 or 3 (Lord, Rutter, DiLavore, & Risi, 1989).4 This group was composed
+of 4 girls and 16 boys. Although all the children had language (children who did
+not produce three-word utterances regularly were excluded), they differed in terms
+of verbal and nonverbal ability, as shown in the Appendix A.5 Available nonverbal
+IQ scores, which came from different tests administered at time intervals ranging
+from a few months to several years prior to testing time, varied from 48 to 108. In
+order to have comparable nonverbal scores, Raven’s Coloured Progressive Matrices
+(RPM; Raven, Court, & Raven, 1986) was administered to all children. Seven of
+the 20 children with ASD (6 boys, 1 girl) had scores below the ninth percentile,
+which corresponds to a standard score of 80, and were therefore considered low
+functioning (LF). These 7 children were aged 6;4 to 10;2 (M = 8;1, SD = 1;5),
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1102
+
+Table 1. Characteristics of the participants in the ASD and SLI groups and ASD-SLI
+comparisons (Mann–Whitney tests)
+
+ASD (n = 20)
+
+SLI (n = 20)
+
+Range
+
+Mean
+
+SD
+
+Range
+
+Mean
+
+SD
+
+p
+
+Age (years;months)
+RPMa
+MLUb
+z scores
+
+Phonologyc
+Morphosyntaxd
+Vocabularye
+
+6;3–12;9
+2.5–92.5
+3.9–9.0
+
+8;7
+31.8
+5.3e
+−12.6 to 0.4 −4.0
+−5.3 to 0.8 −2.0
+−4.0 to 0.3 −1.2
+
+6;5–11;2
+2.5–92.5
+3.8–7.9
+
+1;9
+8;7
+1;5
+28.2
+43.0 29.1
+0.9
+5.7
+1.3
+4.5 −23.7 to –1.8 −7.9
+1.5 −4.0 to –0.4 −1.9
+1.3 −4.0 to 1.1 −0.7
+
+.758
+.201
+.683
+
+5.3 <.0001
+.081
+1.0
+1.2
+.242
+
+Note: ASD, autism spectrum disorder; SLI, speciﬁc language impairment; RPM, Raven’s
+Progressive Matrices; MLU, mean length of utterance.
+aPercentile ranges were converted into midpoint percentiles (e.g., 5th to 10th percentile
+was transformed into percentile 7.5), as suggested by Botting and Conti-Ramsden (2008).
+bBased on 16 children with ASD and on 17 children with SLI.
+c(Real) word repetition subtest from Bilan informatisé de langage oral au Cycle III et au
+collège (Khomsi et al., 2007).
+dSentence completion subtest from Bilan informatisé de langage oral au Cycle III et au
+collège.
+eReceptive vocabulary from Batterie d’évaluation du langage oral de l’enfant aphasique
+(De Agostini et al., 1998).
+compared to an age range of 6;3 to 12;9 (M = 8;10, SD = 1;10) for the 13 other
+children, who were high functioning (HF).6
+
+Performance on standardized tests assessing phonology (real-word repetition
+from Bilan informatisé de langage oral au Cycle III et au collège; Khomsi, Khomsi,
+Parbeau-Guéno, & Pasquet, 2007), morphosyntax (sentence completion from Bi-
+lan informatisé de langage oral au Cycle III et au collège), and receptive vocabulary
+(Batterie d’évaluation du langage oral de l’enfant aphasique; De Agostini et al.,
+1998) showed that 6 children with ASD did not display severe language impair-
+ment (set at the –1.65 SD threshold, a cutoff often used in clinical settings in
+France; Ramus et al., 2003) in any of the three domains tested. This included 5 HF
+children and 1 LF child (see Appendix A). Low scores were obtained by the rest
+of the children. In particular, 10 of the 20 children had severe difﬁculties in both
+morphosyntax and phonology, while 4 had severe difﬁculties in one and moderate
+or no difﬁculties in the other. (See Tuller et al., 2017, for discussion of phonological
+impairment in ASD, its incidence, and its nature.)
+
+Crossing performance on nonverbal and verbal standardized tests identiﬁed chil-
+dren in each of the logically possible proﬁles: (a) children with HF autism and
+normal language abilities (n = 5), (b) children with HF autism and language im-
+pairment (n = 8), (c) children with LF autism and normal language abilities (n =
+1), and (d) children with LF autism and language impairment (n = 6).7
+However, no signiﬁcant correlations were found between nonverbal and ver-
+bal performance in the ASD group (receptive vocabulary: rs = .171, p = .485,
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1103
+df = 17; morphosyntax: rs = .273, p = .243, df = 18; phonology: rs = .397, p =
+.083, df = 18). Throughout this paper, we will report on the performances of the
+ASD group as a whole, but also of particular subgroups.
+
+The children with SLI were recruited from neuropediatric units of university
+teaching hospitals in France. They all had had a conventional diagnosis based on
+severely impaired language performance on standardized language batteries com-
+monly used by speech and language therapists in this country, in conjunction with
+usual exclusionary criteria, including intellectual disability (as measured by the
+Wechsler Intelligence Scale for Children [performance IQ < 80], or an equivalent
+evaluation). The SLI group was composed of 12 boys and 8 girls (see Table 1 and
+Appendix A for details).
+
+The children with SLI were administered the same standardized language tests
+as the children with ASD, as well as RPM. All RPM scores were within norms,
+except in three cases (see Appendix A). It was decided to nonetheless keep these
+children in the SLI group as they had obtained normal nonverbal ability scores
+during clinical assessment. With respect to language, all children with SLI were
+severely impaired in at least morphosyntax or phonology, with 12 of 20 having
+severe difﬁculties in both domains. In contrast, only 2 children had z scores below
+norms in receptive vocabulary. This pattern of results, that is, mean z scores well
+below norms on phonology and morphosyntax, and only moderate difﬁculties in
+vocabulary, was similar to that observed in the ASD group.8 Mann–Whitney tests
+showed no signiﬁcant difference between the ASD group and the SLI group on
+receptive vocabulary, U (38) = 156, p = .242, and morphosyntax, U (39) = 135,
+p = .081.9 Regarding phonology, the children with SLI performed signiﬁcantly
+worse than the children with ASD, U (39) = 75, p < .001, r = –.535, though
+strong correlations arose between phonology and morphosyntax in both groups of
+children (ASD: rs = .560, p = .012, df = 18; SLI: rs = .731, p < .0001, df =
+18). The same tendencies were found when comparing the subgroup of 8 children
+with high-functioning autism and language impairment (the HFA-LI subgroup) to
+a subgroup of 8 children with SLI matched on nonverbal ability and age.
+Finally, our study involved two control groups of TD children, one comprising
+17 4-year-olds (M = 4;3, SD = 0;2), approximate language controls for the SLI
+group, and the other 12 6-year-olds (M = 6;5, SD = 0;2), who were the same age
+as the youngest children in the SLI and ASD groups.
+
+Procedure
+
+Written consent was obtained from the parents of the children who participated
+in the study. Testing was organized individually and took place in a quiet room.
+The experimental protocol contained standardized measures of language (as seen
+above), nonverbal ability (via RPMs), and memory abilities (via forward digit span
+and backward digit span, which will not be reported on here). Experimental tasks
+included a task of elicited production of clitic pronouns (reported elsewhere) and
+two tasks focusing on wh-questions: a production task and a comprehension task
+(see below). The protocol, whose total duration was about 2 hr, was divided into
+two 1-hr sessions. As the tasks targeting production and comprehension of wh-
+questions were relatively long (see below), they were each divided into two equal
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1104
+
+Figure 1. (Color online) Sequence of pictures for an item eliciting production of an (animate)
+object wh-question.
+
+parts, which were randomly assigned to the ﬁrst or second testing session (with the
+production part always preceding the comprehension part). For the ASD group,
+the number of testing sessions varied from one child to another, due to behavior
+issues.
+
+EXPERIMENT 1: ELICITED PRODUCTION OF WH-QUESTIONS
+
+Method
+
+In the wh-question production task (Jakubowicz, 2005, an adaptation of an ex-
+periment created by Naama Friedmann), the examiner showed the child a picture
+containing a character performing an action and a hidden part, as illustrated by
+Figure 1a. The child was then told to ask the character a question about the hidden
+part (e.g., “Look, here the rabbit is pushing someone, but we can’t see who. To
+know who the rabbit is pushing, ask him”). Following the child’s response, the
+hidden part was then revealed, as shown in Figure 1b.
+Different types of questions were elicited in this task, which were presented in
+(pseudo)randomized order: subject (n = 12), object (n = 24; 12 animate and
+12 inanimate), and adjunct questions (with comment “how,” où “where,” and
+pourquoi “why”; n = 18), for a total of 54 items. The task contained 5 train-
+ing items, which followed the same format as the test items. Note that after the 5
+training items and the ﬁrst 4 test items, the stimulus only included a description
+of the picture (e.g., “Here, the rabbit is pushing someone but we can’t see who”)
+followed by “Ask him/her.” In other words, it stopped including an embedded
+question (e.g., “To know who the rabbit is pushing”), making the stimulus less
+complex.
+In this probe, each interrogative strategy illustrated in (1) used by the chil-
+dren was analyzed (wh–in situ, plain wh-fronting, wh-fronting + est-ce que, or
+wh-fronting + subject/verb inversion) in order to determine whether the children
+tended to avoid constructions involving more complex computation.
+
+Results
+
+General success on the task, that is, the number of wh-questions produced by each
+child that were appropriate in that they consisted of a wh-question of the type
+elicited, provided a base measure upon which use of particular wh-strategies was
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1105
+
+Figure 2. Elicited production of wh-questions: number of appropriate wh-questions (/54). *p
+< .01, **p < .001.
+
+explored. We also compared error typologies in the wh-questions produced by the
+children.
+
+Appropriate responses and wh-strategies. Figure 2 presents the results concern-
+ing the number of appropriate responses produced by the different groups of chil-
+dren (/54). The difference between the four groups was signiﬁcant, χ2 (3, N =
+69) = 25.830, p < .0001. The children with ASD produced signiﬁcantly fewer
+appropriate questions than the children with SLI (ASD: M = 32.7, SD = 14.9 vs.
+SLI: M = 46.7, SD = 6.0); U (39) = 87.5, p = .002, r = –.482, the TD4 children (M
+= 46.4, SD = 5.9); U (36) = 78.5, p = .005, r = –.459, and the TD6 children (M =
+52.3, SD = 1.6); U (31) = 17.5, p < .0001, r = –.708. In particular, 8 children with
+ASD (out of 20) produced fewer than 27 expected wh-questions (less than 50%),
+compared to 1 child with SLI. The ASD/SLI difference held when the subgroup of
+8 children with HFA and LI was compared to an RPM- and age-matched subgroup
+of children with SLI, U (15) = 2, p = .002, r = –.788. More generally, there was no
+signiﬁcant correlation between the number of appropriate wh-questions produced
+and nonverbal ability in the ASD group (rs = .111, p = .643, df = 19).
+This difference between the children with ASD and the children with SLI can
+be attributed, we argue, to the well-known pragmatic deﬁcit associated with ASD.
+Speciﬁcally, the children with ASD may have had difﬁculties with the pragmatics of
+a task requiring them to address a character in a picture on a computer screen. One
+child explicitly asked if we wanted him to talk to the computer, for example. Instead
+of wh-questions, they used yes/no questions, or they tried to guess the answer to
+the question they were being asked to formulate (see Sukenik, Friedmann, Tuller,
+& Morin, 2015).
+
+When appropriate wh-questions were produced, we sought to determine, ﬁrst
+of all, if children with ASD avoided complex wh-strategies, in the same way as
+children with SLI. We begin with the wh–in situ strategy (e.g., Tu pousses quoi?
+“You push what?”), a strategy that entails avoidance of wh-movement. Figure 3
+displays the rate of wh–in situ found in the appropriate wh-questions produced by
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1106
+
+Figure 3. Elicited production of wh-questions: percentage of questions with wh–in situ. *p <
+.01, **p < .001.
+
+the different groups. Note that the calculations did not include subject wh-questions
+(to which we return below) as these include structures that are ambiguous between
+wh–in situ and wh-fronting, since the subject position is sentence initial in French,
+the same linear position as that of wh-fronted constituents (e.g., Qui te pousse?
+“Who pushes you?”), and wh-questions with pourquoi “why” since it has been
+argued that pourquoi is base generated in the fronted position (and thus not subject
+to overt wh-movement; Rizzi, 1990).
+The difference across groups was signiﬁcant, χ2 (3, N= 69)= 23.312, p < .0001.
+As can be seen in Figure 3, the children with ASD, like the children with SLI, used
+wh -in situ, the least complex strategy, more frequently than the TD 6-year-olds.
+Wh–in situ was found in 31.8% (SD = 38.5) of the appropriate questions produced
+by the ASD group and in 62.8% (SD = 34.8) of those produced by the SLI group,
+compared to 3% (SD = 10.5) in the TD6 group. The differences between the TD
+6-year-olds and the children with ASD and SLI were signiﬁcant, ASD/TD6: U
+(31) = 51.5, p = .003, r = –.520; SLI/TD6: U (31) = 11.5, p < .0001, r = –.767.
+This suggests that, like the children with SLI, many children with ASD avoided
+constructions that entail complex syntactic computation. Although the children
+with SLI used wh–in situ questions more frequently than the children with ASD,
+the difference between the two groups was not signiﬁcant, after corrections for
+multiple comparisons were applied, U (39) = 114.5, p = .02, r = –.367. The
+children with ASD seemed to behave similarly to the TD4 group, who produced
+25.9% (SD = 37.5) of questions with wh–in situ; the difference between the two
+groups was not statistically signiﬁcant, U (36) = 149.5, p = .520. In contrast,
+the children with SLI seemed to avoid constructions that entail complex syntactic
+computation even more often than the TD4 group, U (36) = 72, p = .003, r =
+–.493. These tendencies were maintained when comparing the performance of
+children of the HFA-LI subgroup (M = 36.9%, SD = 42.8) to that of the matched
+children with SLI (M = 66.9%, SD = 37.4), although the difference was not
+statistically signiﬁcant, presumably due to the small size of the samples, U (15) =
+22, p= .293. It is also worth mentioning that no signiﬁcant correlations were found
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1107
+
+Figure 4. Elicited production of wh-questions: types of nonsubject wh-fronting strategies used
+by the four groups.
+
+between nonverbal ability and percentage of questions with wh–in situ in the ASD
+group (rs = .256, p = .276, df = 19). Finally, since the wh-questions investigated in
+the comprehension probe all targeted animate objects, we also looked at the rate of
+wh–in situ in qui “who” object questions produced by the children (e.g., Il pousse
+qui? “He pushes who?”). The same tendencies reported above were observed.
+
+Another way of determining whether the children with ASD resembled the
+children with SLI in avoiding complex wh- production strategies was to see if
+they avoided the most complex of the fronting strategies in questions produced
+with wh-fronting, that involving wh-fronting and subject/verb inversion. This was
+the case, as is seen in Figure 4, which displays the incidence of the different wh-
+fronting strategies with respect to the total of questions produced with wh-fronting
+(excluding subject questions, since these may be produced with structures that
+are ambiguous as to whether wh-fronting has occurred or not, and why-questions,
+because why occurs only clause initially). Signiﬁcant differences were found across
+groups, χ2 (3, N = 69) = 28.055, p < .0001. Both groups of atypically developing
+children produced signiﬁcantly fewer questions with wh-fronting + subject/verb
+inversion (e.g., Qui pousses-tu? “Who do you push?”) than the TD 6-year-olds.
+Subject/verb inversion was found in 2.4% of all wh-fronted questions produced
+by the children with ASD (SD = 10.8) and in 1.1% (SD = 3.4) of those produced
+by the children with SLI, compared with 22.2% (SD = 27.5) in the TD6 group,
+ASD/TD6: U (31) = 49, p < .0001, r = –.616; SLI/TD6: U (31) = 48, p = .001,
+r = –.603. Very few children in the ASD and SLI groups produced wh-questions
+with subject/verb inversion, including 1 child with ASD (a high-functioning child
+with no language impairment) and 2 children with SLI, versus 8 (out of 12) in the
+TD6 group. The children with ASD and those with SLI were more comparable to
+the TD 4-year-olds, who did not produce any questions with subject/verb inversion
+at all. No signiﬁcant differences were found between the ASD and SLI groups, U
+(39) = 191, p = .594.
+
+The children in the ASD and SLI groups not only avoided the most complex
+fronting strategy but also mainly used the least complex strategy, plain wh-fronting
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1108
+
+(e.g., Où tu caches les bonbons? “Where you hide the candy?”), as did the TD chil-
+dren. The difference across groups was signiﬁcant, χ2 (3, N= 69)= 11.1, p= .011,
+which was due to a difference between the SLI and TD6 groups, U (31) = 27.5,
+p < .0001, r = –.642. The rate of plain wh-fronting in the ASD group did not
+differ signiﬁcantly from that of the TD groups, ASD/TD4: U (36) = 92.5, p =
+.092; ASD/TD6: U (31) = 90, p = .616. However, the children with ASD pro-
+duced less plain wh-fronting (M = 58.6%, SD = 39.7) than the SLI group (M =
+87.6%, SD = 15.5), although the difference was not signiﬁcant, U (39) = 132,
+p = .068. Whereas the children with SLI used plain wh-fronting far more fre-
+quently than any other fronting strategy, the children with ASD produced wh-
+questions with ESK (e.g., Comment est-ce que tu mélanges la pâte? “How ESK
+you mix the batter?”) relatively often (M = 31.2%, SD = 37.5), and to a signif-
+icantly larger extent than the children with SLI (M = 4%, SD = 8.9), U (39) =
+110, p = .006, r = –.435. In this respect, the children with ASD behaved similarly
+to the TD 4-year-olds (M = 19.8%, SD = 22.2); U (36) = 151.5, p = .560, and
+the TD 6-year-olds (M = 18.5%, SD = 14.3); U (31) = 116, p = .874. In contrast,
+the differences between the children with SLI and the TD children on use of ESK
+were signiﬁcant, SLI/TD4: U (36) = 97, p = .011, r = –.419; SLI/TD6: U (31) =
+44.5, p = .001, r = –.573.
+
+The children with ASD, then, did not seem to favor exactly the same strategies
+as the children with SLI. This apparent difference is due to their high use of the
+ESK strategy. The status of this strategy for many of the questions produced by
+the children with ASD, however, may have been the result of adoption of a single,
+rigid wh-strategy, applied over and over again. Out of the 12 children with ASD
+who produced ESK questions, 7 of these children did so in over 50% of their
+questions with wh-fronting, and only in a ﬁxed form qu’est-ce que “what+ESK,”
+which they generalized to all of their wh-questions. For example, AUJ (age 9;2)
+used qu’est-ce que in all of his wh-questions, except for 4, without distinguishing
+between different wh-words, as shown in (3). In some cases, the wh-questions
+that he produced were (fortuitously) appropriate (10/50 questions produced with
+qu’est-ce que), as in (3a), but most of the time (37/50) they were not, as in (3b). With
+adjunct questions, use of qu’est-ce que was both inappropriate and ungrammatical,
+as in (3c).
+
+(3) a. Qu’ est-ce que
+
+(Target: inanimate object question)
+
+peins?
+paint
+
+what ESK
+“What are you painting?”
+
+b. Qu’ est-ce que
+
+what ESK
+“What are you biting?”
+
+tu
+you
+
+tu
+you
+
+mords?
+bite
+
+(Target: [animate] subject question)
+
+c. *Qu’ est-ce que
+
+what ESK
+“What are you running?”
+
+tu
+you
+
+cours?
+run
+
+(Target: why-question)
+
+It would seem therefore plausible that for at least some of the children with ASD
+qu’est-ce que was used as a kind of unanalyzed wh-form and thus that their ESK
+questions did not constitute evidence for greater complexity than that involved in
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1109
+
+wh-questions with plain wh-fronting. The high rate of ESK is furthermore likely
+to be a reﬂection of perseveration, which was observed for several of the children
+with ASD in this task (see Sukenik et al., 2015). We also note that perseveration
+of “qu’est-ce que,” which involves wh-fronting, had a mechanical consequence on
+the lower rate of wh–in situ in the ASD group when compared to the SLI group
+(see above).
+
+Finally, production of clefted wh-questions (e.g., C’est qui que tu pousses? “It
+is who that you push?”) did not yield any signiﬁcant difference across groups, χ2
+(3, N = 69) = 3.555, p = .314. In the ASD and SLI groups, these constructions
+were used less often than wh-questions with plain wh-fronting, but more often than
+wh-fronting with subject/verb inversion (ASD: M = 7.8%, SD = 22.6; SLI: M =
+7.3%, SD = 11.7), which matches the predictions of the computational complexity
+hypothesis since clefting is more complex than plain-fronting but less complex
+than wh-fronting with subject/verb inversion. Likewise, in the TD4 group, clefting
+(M = 6.1%, SD = 15.1) was less frequently produced than plain wh-fronting
+(M = 74.1%, SD = 23.6), but more frequently than wh-fronting with subject/verb
+inversion (M = 0%), whereas, for the older TD6 children, the rate of clefting
+(M = 3.6%, SD = 8) was lower than that of subject/verb inversion (M = 22.2%,
+SD = 27.5).
+
+With respect to the six children with ASD and no severe impairment on the
+standardized language tests, we found that two of them used plain wh-fronting in
+almost all of their questions involving wh-movement (at least 75%), whereas for
+the four others the rate of plain wh-fronting was below 40%. It was interesting
+that this group of six children included the only child with ASD who produced
+wh-questions with subject/verb inversion (KIH, age 10;5), and most of these chil-
+dren (ﬁve/six) did not make frequent use of wh-fronting + ESK (less than 30%
+of the time), compared to six children in the rest of the children with ASD for
+whom wh-fronting + ESK represented at least 80% of their questions with wh-
+movement (half with normal nonverbal ability). This suggests that the children
+with ASD and no severe language impairment tended to perseverate with qu’est-
+ce que? less than the other children. Finally, in the ASD group, no signiﬁcant
+correlations were found between nonverbal ability and use of plain wh-fronting
+(rs = –.073, p = .760), wh-fronting + ESK (rs = .131, p = .583), and clefting
+(rs = .082, p = .732) (all dfs = 19). Note that correlations were not calculated with
+wh-fronting and subject/verb inversion as this strategy was produced by only one
+child.
+
+Did the production of subject wh-questions follow the same trends just reported
+for object and adjunct questions, with the ASD group generally resembling the SLI
+group in displaying avoidance of the most complex wh- strategies, and high rates for
+the least complex strategies? Four different strategies were used by children in the
+production of subject wh-questions (see Figure 5): those structurally ambiguous
+between plain wh-fronting and wh–in situ (e.g., Qui te mord? “Who bites you?”),
+and questions with wh-fronting + ESK (e.g., Qui est-ce qui te mord? “Who is it
+that bites you?”), with wh-fronting + c’est (e.g., Qui c’est qui te mord? “Who
+it is that bites you?”), and with clefting (e.g., C’est qui qui te mord? “It is who
+that bites you?”).10 The ﬁrst type of questions is the least complex since these
+questions involve either a subject wh-phrase in situ or a plain-fronted subject
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1110
+
+Figure 5. Elicited production of wh-questions: types of subject wh-questions used by the four
+groups.
+
+wh-phrase, whereas the other types of questions involve at least an additional
+operation besides wh-fronting.
+Signiﬁcant group differences were found for subject wh-questions structurally
+ambiguous between wh–in situ and wh-fronting, χ2 (3, N = 69) = 8.945, p = .030,
+and clefts, χ2 (3, N= 69)= 12.120, p= .007, but not for questions with ESK, χ2 (3,
+N = 69) = 5.767, p = .124. As shown in Figure 5, structurally ambiguous subject
+wh-questions were used to a greater extent (M = 56.9%, SD = 47.2) than other
+subject questions by the children with ASD, in particular wh-fronting + ESK (M =
+23%, SD = 41.7) and clefts (M = 16.8%, SD = 33.9). This trend was observed in
+all of the children with ASD, including the six children who did not display severe
+impairment on the standardized language tests. The children with SLI also used
+structurally ambiguous wh-questions most of the time (M = 49.2%, SD = 41.6), at
+about the same rate as the children with ASD, U (39) = 150.5, p = .538. Clefting
+was, however, more frequent in the SLI group (M = 46.4%, SD = 40.7) than in the
+ASD group, U (39) = 90, p = .010, r = –.423. However, the clefts produced by
+the children with SLI were largely ungrammatical, and their syntax was probably
+more akin to the syntax of wh–in situ, the least complex strategy. Wh-fronting +
+ESK was again less frequent in the SLI group (SLI: M = 0.5%, SD = 2). Only
+one child with SLI produced any such subject questions (representing 9.1% of the
+total of his subject questions), whereas ﬁve children with ASD did, and four of
+them repeatedly (at least 80% of their subject questions). These same children,
+three of them HF, also used wh-fronting + ESK in all of their object questions,
+lending support to the hypothesis these high rates are due to perseveration of this
+strategy. Note that the differences between the ASD and SLI groups on subject
+wh-questions displaying ESK or clefting held when comparing the HFA-LI group
+and their matched group of children with SLI.
+
+No signiﬁcant differences were found between the children with ASD and the
+TD children with respect to subject questions syntactically ambiguous between
+wh–in situ and plain wh-fronting, and clefts; however, signiﬁcant differences arose
+when the children with SLI and the TD6 children were compared, syntactically
+ambiguous questions: U (31) = 45.5, p = .002, r = –.545; clefts: U (31) = 45,
+p = .002 r = –.554.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1111
+
+Figure 6. Elicited production of wh-questions: mean percentage of erroneous wh-questions.
+*p < .05, **p < .01, ***p < .001.
+
+Finally, no signiﬁcant correlations were found between nonverbal ability and
+the production of the different subject wh-questions in the ASD group (structurally
+ambiguous questions: rs = –.282, p = .272, df = 19; wh-fronting + ESK: rs =
+.425, p = .089, df = 19; clefts: rs = –.278, p = .280, df = 19).
+
+Error analysis. Figure 6 reports, for each group, the percentage of appropriate
+wh-questions produced in each group that contained at least one error. Signiﬁcant
+differences were found across groups, χ2 (3, N = 69) = 31.227, p < .0001. As can
+be seen in Figure 6, the rate of erroneous questions found in the ASD group (M =
+17.3%, SD = 16.2) was signiﬁcantly higher than in the two younger TD groups,
+TD4: M = 6.1%, SD = 7.1; U (36) = 87, p = .011, r = –.418; TD6: M = 1.2%,
+SD = 2; U (31) = 18, p < .0001, r = –.711. The same pattern was observed in the
+children with SLI, whose mean rate of erroneous wh-questions was 35.2% (SD =
+31.2), SLI/TD4: U (36) = 60.5, p = .001, r = –.551; SLI/TD6: U (31) = 14.5, p <
+.0001, r = –.737.11 The incidence of errors was higher in the SLI group than in the
+ASD group, although the difference was not signiﬁcant, U (39) = 138.5, p = .096.
+As expected, the 6 children with ASD who did not display severe impairment on the
+standardized language tests produced very few errors in their wh-questions; their
+rate of erroneous questions was 6.2% (SD = 5.3), compared to 22% (SD = 17.1)
+for the 14 other children with ASD. Eight of these other children, who formed
+the HFA-LI subgroup, had a comparable rate of erroneous wh-questions as the
+matched SLI subgroup (25.4% versus 32.4% respectively); U (15) = 28.5, p =
+.713. Finally, no signiﬁcant correlations were found between nonverbal ability and
+the percentage of erroneous questions produced by the children with ASD (rs =
+.089, p = .709, df = 19).
+Were the error types found in the children with ASD similar to those found in
+the SLI group? The same error types were found in each of the groups: errors on
+the wh-word, on the subject, on the object, on the verb, and on the complementizer
+(C). However, the frequency of these error types was quite different, as can be seen
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+Table 2. Number (percentage) of errors in each group
+
+1112
+
+Group Wh-Word Complementizer
+
+Subject
+
+Verb
+
+Object
+
+Other
+
+Total
+
+(39.8%)
+
+(2.3%)
+
+(9.1%)
+
+(5.7%)
+
+(25%)
+
+(18.2%)
+
+(22.1%)
+
+(21.7%)
+
+(18.9%)
+
+(21.9%)
+
+(10%)
+
+ASD
+
+SLI
+
+TD4
+
+TD6
+
+35
+
+23
+
+17
+
+1
+
+(5.4%)
+
+(37%)
+
+(14.3%)
+
+2
+
+95
+
+12
+
+(26.1%)
+
+0
+
+(0%)
+
+8
+
+93
+
+2
+
+0
+
+5
+
+81
+
+0
+
+0
+
+22
+
+94
+
+13
+
+6
+
+16
+
+43
+
+2
+
+0
+
+88
+
+429
+
+46
+
+7
+
+(4.3%)
+
+(0%)
+
+(28.3%)
+
+(4.3%)
+
+(0%)
+
+(0%)
+
+(85.7%)
+
+(0%)
+
+Note: ASD, autism spectrum disorder; SLI, speciﬁc language impairment; TD, typically
+developing.
+
+in Table 2, which reports the number of errors for each type and the percentage
+these errors represent based on the total number of errors for each group.
+
+Errors on wh-words were the most frequent error type observed in the children
+with ASD; they were much less frequent in the SLI group. It was argued in the
+previous section that in the children with ASD, many of these may be due to
+perseveration: some children with ASD started using a wh-word in one question,
+and kept using the same wh-word in the questions that followed (see (3) above).
+There were also ﬁve instances of fronted quoi “what” (four in the same child,
+ARE), which is ungrammatical in French and likely to be a result of repetition of
+the task stimulus, which contained the target wh-word as an object (“The woman
+is washing something, but we can’t see what”).12 This is illustrated in (4).
+
+(4) Experimenter: La dame lave quelque chose, mais on ne voit pas quoi. Demande-lui.
+“The woman is washing something but we can’t see what. Ask her.”
+* Quoi
+what
+
+tu
+you wash
+
+(ASD, 8;7)
+
+laves ?
+
+ARE:
+
+Neither of these types of perseveration/repetition errors was found in the SLI group.
+Complementizer errors, in contrast, were very frequent in the SLI group, but
+rare in the ASD group. These errors, illustrated in (5), occurred when children
+appeared to have attempted production of a subject cleft question, and omitted C
+or substituted it with a central vowel, a so-called protoform. Clefts were rare in
+the ASD group, and hence the opportunity to make C errors was rare as well.
+
+(5) a. ANE: *C’est qui (qui)
+
+it’s
+
+(it) is
+
+who (that)
+
+te
+you
+mord
+who (that) bites
+
+peigne ?
+combs
+
+(SLI, 11;7)
+
+derrière ?
+behind
+
+(SLI, 9;8)
+
+b. SEL: *(C’)est qui [e]
+
+Two other errors were frequent in the SLI group, but not in the ASD group: errors
+on the subject and errors on the verb. The former, like the C errors, consisted of
+either omission or substitution of the subject clitic by a protoform, as illustrated
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1113
+
+in (6). Errors on the verb were mostly due to use of inﬁnitival morphology, as in
+(7). Restricted to a subset of the most severely impaired children with SLI (e.g.,
+three children with SLI omitted the subject and used inﬁnitival forms in over 30%
+of their wh-questions), the rarity of these two error types in the children with ASD
+suggests that language impairment in this group was less severe (e.g., no child
+with ASD used protoforms).
+
+(6) a. DOP: *(Tu)
+
+fais comment
+
+(SLI, 7;1)
+
+b. CLS: *Comment
+
+pour
+to
+répare
+repair
+
+how
+
+(you) do how
+[e]
+(you)
+qui courir
+après toi?
+who run.INF after you
+
+garcon,
+boy
+
+ton
+your bike
+
+réparer
+repair
+
+ton
+your
+
+vélo ?
+bike
+
+vélo ?
+
+(SLI, 10;1)
+
+(SLI, 6;3)
+
+(7) KIB: *Le
+the
+
+Errors on the object were frequent in both the ASD and the SLI groups. These
+
+were most notably due to object omission, as in (8).
+
+(8) a. LUJ: Tu dessines
+
+you draw
+
+(le clown)
+(the clown) where
+
+où?
+
+(ASD, 8;1)
+
+b. THB: *Elle
+she
+
+achète
+buys
+
+(la glace)
+(the ice cream) where
+
+où?
+
+(SLI, 9;1)
+
+Errors on objects also included three errors committed by the children with ASD
+in which an object trace was lexicalized. In other words, in addition to the object
+wh-word, an object was found to occur after the verb, in the form of a quantiﬁer
+(quelque chose “something” or quelqu’un “someone”), as illustrated in (9).
+
+(9) FRA: a. *C’est qui
+
+it is who(m)
+
+que
+that
+qu’est-ce-que
+what ESK
+
+tu
+you
+tu
+you
+
+pousses quelqu’un?
+push
+mords
+bite
+
+someone
+quelque chose?
+something
+
+b. *Chien,
+
+dog
+
+(ASD, 6;2)
+
+(ASD, 6;2)
+
+This error may again be due to repetition of part of the stimulus by these children
+with ASD (e.g., Le lapin pousse quelqu’un mais on ne voit pas qui “The rabbit is
+pushing someone but we can’t see who”). Such errors were not found in the other
+groups.
+
+An error on objects that was largely restricted to the SLI group, and that was rel-
+atively frequent, involved the substitution of an object clitic with a strong pronoun
+(28/94 = 29.8%, vs. 2/22 = 9.1% for the children with ASD). These occurred
+in subject wh-questions in which the second person singular clitic te “you” was
+expected (e.g., Qui te mord? “Who bites you?”). Instead, the corresponding strong
+pronoun toi was produced, as shown in (10). In the same context, the children with
+ASD omitted the object, as shown in (11).
+
+(10) FLD: *Hippopotame,
+
+qui
+hippopotamus who
+
+sèche
+dries
+
+toi?
+you
+
+(11) BRR: Qui (te)
+
+pousse?
+
+(ASD, 7;2)
+
+who (you) push
+
+(SLI, 7;6)
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1114
+
+Although morphosyntactic errors were less frequent in the ASD group, it should
+be pointed out that when they occurred, they tended to be found in the subset of
+children with LI. In particular, four children in the HFA-LI subgroup produced
+subject omission, object omission, and root inﬁnitives in over 10% of their wh-
+questions, versus none in the subgroup of ﬁve children with HFA and no language
+impairment.
+
+Finally, we compared error rates on the production of wh-questions with two
+measures of morphosyntactic development: mean length of utterance (MLU) and
+the standardized measure of morphosyntax (sentence completion). Signiﬁcant neg-
+ative correlations were found between the number of erroneous wh-questions and
+the standardized score for morphosyntax in the ASD group (rs = –.512, p = .021,
+df = 19) and MLU in the SLI group (rs = –.725, p < .0001, df = 19).
+
+Discussion
+
+The children with ASD tended, like the children with SLI, to use questions with
+wh–in situ, which corresponds to the least complex structure, signiﬁcantly more
+often than the TD 6-year-olds (see Jakubowicz, 2005; Jakubowicz & Tuller, 2008;
+Zebib et al., 2013). With questions entailing wh-fronting, both the ASD group
+and the SLI group favored plain wh-fronting over more complex structures. In
+particular, they produced signiﬁcantly fewer questions with subject/verb inversion,
+the most complex structure, compared to the TD 6-year-olds. In other words, the
+children with ASD and the children with SLI, whose mean age was 8;7, used
+computationally less complex derivations signiﬁcantly more often than younger
+TD6 children.
+
+The tendency to avoid computational complexity was found more frequently in
+the children with SLI than in the children with ASD. We suggest that this result
+is due to more generalized difﬁculties in the SLI group, whereas the ASD group
+is more heterogeneous, which is reﬂected by the fact that while all the children
+with SLI produced at least one wh-question with wh–in situ, only 13 children
+with ASD (out of 20) used this strategy. This nonetheless suggests that a large
+proportion of the ASD group behaved similarly to the children with SLI. Most
+ASD-SLI differences, in both frequency of particular wh-strategies deployed and
+error types, were due to behaviors having to do with perseveration of a speciﬁc
+wh-word/strategy (e.g., wh-fronting + ESK) or repetition of the task stimulus for
+eliciting wh-question production (ungrammatical fronting of object “what” and
+ﬁlled object gaps) on the part of the children with ASD. Other differences were
+found with respect to morphosyntactic errors, in particular a more frequent rate
+of complementizer omission and nonﬁnite verbs in the SLI group than in the
+ASD group. Some of these errors would appear to be manifestations of severely
+immature syntax (subject omission, complementizer omission, use of protoforms,
+and use of inﬁnitival verb forms in place of a ﬁnite verb) on the part of a few
+children with SLI. It is not at all clear, however, that these errors are indicative of
+fundamental differences between the two groups. First, complementizer omission
+was observed in clefted wh-questions, and these were mainly produced by the
+children with SLI, thus preventing any direct comparisons between the two groups
+about use of complementizers. Second, analysis of spontaneous production on
+a subgroup of 17 children with ASD and 18 children with SLI did not reveal
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1115
+
+Figure 7. (Color online) Example of a picture from the wh-question comprehension task.
+
+any notable differences for errors on verb inﬂectional morphology, including root
+inﬁnitives (Morin, 2011).
+
+Finally, no signiﬁcant correlations were observed in the ASD group between
+nonverbal ability and any measures of production taken from this task, including
+number of expected wh-questions, rate of the different wh-strategies, and rate of
+erroneous questions. This echoes the lack of correlations found between RPM
+scores and performance on the three standardized tasks (receptive vocabulary,
+morphosyntax, and phonology).
+
+EXPERIMENT 2: COMPREHENSION OF WH-QUESTIONS
+
+Method
+
+In the comprehension task, there were 72 pictures each displaying three characters
+who were performing the same action on each other. One of the characters appeared
+in the middle, one was located on its right, and one on its left, as shown in Figure 7.
+For each picture, a subject or object wh-question was asked about the central
+character, targeting one of the two other characters (e.g., “Look here! There’s a cat,
+a penguin, and a rabbit. Tell me: Who is the penguin pushing?”). The participants
+were invited to answer the question by pointing to the appropriate character. All
+question words were animate (with the wh-word qui “who”).
+
+There were 48 object questions, 12 with wh–in situ (e.g., Le pingouin pousse qui?
+“The penguin pushes who[m]?”), 12 with plain wh-fronting (e.g., Qui le pingouin
+pousse? “Who[m] is the penguin pushing?”), 12 with wh-fronting and ESK (e.g.,
+Qui est-ce que le pingouin pousse? “Who[m] is the penguin pushing?”), and 12 with
+wh-fronting, ESK, and stylistic inversion (e.g., Qui est-ce que pousse le pingouin?
+“Who[m] ESK pushes the penguin?”). The latter construction was deemed the most
+complex. There were also 24 subject questions: 12 were ambiguous between wh–in
+situ and wh-fronting (e.g., Qui pousse le pingouin? “Who pushes the penguin?”)
+and 12 displayed wh-fronting and ESK (e.g., Qui est-ce qui pousse le pingouin?
+“Who ESK pushes the penguin?”). The different question types were presented in
+(pseudo)randomized order.
+
+Results
+
+In the comprehension task, as we have seen, the non-wh-word in the question
+was always represented by the central character in the picture, and the picture in
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1116
+
+Figure 8. Comprehension of object wh-questions.
+
+Figure 7 was used to test comprehension of questions such as “Who is the penguin
+pushing?” as well as “Who is pushing the penguin?” Notice that selection of the
+central character amounted to the child interpreting the question as a reﬂexive.
+Children in all groups only very rarely gave such answers (less than 1.5% of
+all answers, in each group). In other words, children interpreted the questions
+in this task as either (nonreﬂexive) subject wh-questions or object wh-questions,
+a binary choice. Accordingly, we analyzed each child’s performance for chance,
+using the results of a binomial test based on a binary choice. This analysis revealed
+that one of the children with ASD and one of the children in the TD4 group
+performed at chance on every question type (between 4 and 8 correct responses
+out of the 12 possible items), and thus it was impossible to conclude anything about
+their ability to comprehend the different wh-strategies tested. These children were
+therefore excluded from any further analyses of the wh-question comprehension
+task. None of the children with SLI or those in the TD6 group had uniformly
+chance performance.
+
+Beginning with the proportion of correct responses for comprehension of object
+wh-questions, presented in Figure 8, the children in all four groups performed
+very well on questions involving wh–in situ (e.g., Le pingouin pousse qui? “The
+penguin pushes who?”), plain wh-fronting (e.g., Qui le pingouin pousse? “Who
+the penguin pushes?”), and wh-fronting with ESK (e.g., Qui est-ce que le pingouin
+pousse? “Who ESK the penguin pushes?”) strategies. No signiﬁcant differences
+were observed between the different groups for any of these types of object wh-
+questions.13 Performance was signiﬁcantly worse, in each group, on the most
+complex type, namely, questions whose derivation involves wh-fronting, ESK, and
+stylistic inversion (e.g., Qui est-ce que pousse le pingouin? “Who ESK ﬁlms the
+penguin?”); a Kruskal–Wallis test, corrected for tied ranks, showed no signiﬁcant
+group effect on comprehension accuracy on these questions, χ2 (3, N = 66) =
+4.048, p = .256. As can be seen in Figure 9, most children in the SLI, TD4, and
+TD6 groups displayed performance either at chance or below chance on these
+items (16 out of the 20 children with SLI, 15/16 TD4, and 8/12 TD6). However,
+while the proportions in the SLI group appear to resemble most closely those in the
+TD4 group, in the ASD group, about half of the children (9/19) displayed above
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1117
+
+Figure 9. Comprehension of object wh-questions with wh-fronting+ ESK+ stylistic inversion:
+number and proportion of children above chance, at chance, and below chance.
+
+Figure 10. Comprehension of subject wh-questions. *p < .05, **p < .01.
+
+chance performance (3 of them LF); we return to this result below in relation to
+the relatively poor results on subject questions found in the ASD group.
+
+In addition, there was no signiﬁcant negative correlation between the production
+of wh-questions with wh–in situ and the comprehension of object wh-questions
+with wh-fronting. In other words, there was no relationship between the ten-
+dency to use the wh–in situ strategy, the least complex, in production, and dif-
+ﬁculties in understanding wh-questions that did not use this strategy (but rather
+wh-fronting), in either the ASD group or the SLI group. While many children in
+the SLI group (16/20) and the ASD group only rarely (or never) used the wh-
+fronting + ESK strategy in production (i.e., in less than 10% of the wh-questions
+displaying wh-fronting), comprehension of this construction was basically at
+ceiling.
+With respect to subject wh-questions, group differences were found on struc-
+turally ambiguous constructions, χ2 (3, N = 66) = 8.389, p = .039, but not on
+questions with ESK, χ2 (3, N = 66) = 4.43, p = .070. Figure 10 shows that the
+children with ASD scored lower than the TD6 children on both ambiguous wh–
+in situ/wh-fronting questions (ASD: 70.2% vs. TD6: 95.6%); U (30) = 52, p =
+.009, r = –.468, and wh-fronting + ESK (ASD: 70.1% vs. TD6: 94.4%). No
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+Table 3. Children (n = 5) with above chance performance for all types of object
+questions, but not for either type of subject question
+
+1118
+
+% Correct Object Questions
+
+% Correct Subject Questions
+
+Plain
+Wh-
+
+Fronting
+
+Wh-
+Fronting
++ ESK
+
+In
+Situ
+
+Wh-Fronting + Ambiguous Wh–
+ESK + Styl.
+In Situ/Plain
+Inversion
+Wh-Fronting
+
+Wh-
+Fronting
++ ESK
+
+ASD
+
+91.7
+WAE
+LUJ
+100
+MAM 91.7
+ROD
+100
+
+SLI
+
+THB
+
+91.7
+
+100
+100
+91.7
+100
+
+83.3
+
+91.7
+83.3
+91.7
+91.7
+
+83.3
+
+91.7
+91.7
+83.3
+100
+
+91.7
+
+33.3
+33.3
+16.7
+16.7
+
+16.7
+
+0
+25.0
+8.3
+25.0
+
+66,7
+
+Note: Bold values indicate below chance performance, and underlined values indicate
+at chance performance. ESK, est-ce que; ASD, autism spectrum disorder; SLI, speciﬁc
+language impairment.
+
+signiﬁcant differences were found on structurally ambiguous subject questions
+between the children with SLI and the TD 6-year-olds following corrections for
+multiple comparisons, U (30) = 61.5, p = .026, and between the SLI and ASD
+groups, U (37) = 158, p = .504. There were likewise no signiﬁcant differences
+between the accuracy rates on the two subject wh-question types, in any group.
+
+As reported above, children almost never selected the central character in the
+comprehension task (the ungrammatical reﬂexive interpretation), and thus error
+analysis on subject wh-questions revealed that almost every time children gave an
+erroneous answer, they pointed to the character corresponding to the object of the
+verb. We believe that these errors could be due to a perseveration strategy adopted
+by some children in this task. As the task involved a large majority of object wh-
+questions (48/72), the children with ASD may have surmised that the task involved
+asking questions about the character toward whom the action was directed by the
+character located in the middle. This strategy also entails the fact reported above
+that these children had relatively high performance on the most difﬁcult object wh-
+questions (wh-fronting + ESK + stylistic inversion). This pattern is particularly
+visible in four children with ASD, whose comprehension scores are given in Table 3
+(WAE, LUJ, MAM, and ROD), who were below (<26%) or at chance for subject
+questions, and well above chance (>74%) for all object questions, including those
+with stylistic inversion. Only one child with SLI displayed this pattern (THB). In
+the TD groups, all children displayed above chance performance on both types
+of subject questions, except for two TD4 children who performed at chance on
+structurally ambiguous questions.
+
+Finally, correlation analyses, reported in Table 4, revealed that nonverbal ability
+was not signiﬁcantly correlated with measures from the wh-question comprehen-
+sion task in the ASD group, including those involving the most complex deriva-
+tions.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1119
+
+Table 4. Correlation coefﬁcients (Spearman rho) for Raven’s Progressive
+Matrices and measures of comprehension of wh-question in the autism
+spectrum disorder group
+
+Plain wh-fronting (object wh-questions)
+Wh-fronting + ESK (object wh-questions)
+Wh-fronting + ESK + styl. inv. (object wh-questions)
+In situ/plain wh-fronting (subject wh-questions)
+Wh-fronting + ESK (subject wh-questions)
+
+rs
+
+.148
+.260
+–.011
+.160
+.180
+
+p
+
+.545
+.283
+.965
+.514
+.462
+
+Note: The group excludes BRL, the child who had uniformly chance perfor-
+mance on this task. ESK, est-ce que.
+
+Discussion
+
+The comprehension task results point to overall similarities in performance be-
+tween the children with ASD and the children with SLI. Both groups had ceiling
+performance on the same object wh-questions, those involving wh–in situ, plain
+wh-fronting, and wh-fronting + ESK. These results show clearly that the children
+had no difﬁculties understanding object wh-questions involving a certain degree
+of complexity, including wh-fronting and ESK insertion. Both groups of children
+displayed poorer performance on the most complex wh-constructions (with wh-
+fronting, stylistic inversion, and ESK). These constructions were also problematic
+for the TD children. This illustrates that when complexity is very high, compre-
+hension may also be affected, not only in populations with pathology, but also in
+TD children.
+
+Some differences were also found between the ASD group and the SLI group
+that concerned comprehension of subject wh-questions. Accuracy was lower in
+the children with ASD than in the children with SLI, which we have argued could
+be due to a perseveration strategy on the part of some children with ASD to point
+to the character corresponding to the object of the verb, a strategy that also ac-
+counts for the extremely high scores in these same children for comprehension
+of the most difﬁcult object wh-questions. Alternatively, or perhaps in addition,
+the object interpretation could be taken to be evidence for rigid adherence to
+information structure considerations on the part of children with ASD, as the
+direct object is the canonical position for new information (and hence the wh-
+phrase) and the subject, particularly in a language like French, is almost exclu-
+sively reserved for old information. Clefting, which highlights new information,
+provides subjects with structural salience that they would not have in situ. Children
+with SLI used this strategy in subject questions far more often than children with
+ASD.
+
+One of our goals in looking at comprehension in children with ASD was to see
+whether nonverbal ability in these children was linked to comprehension perfor-
+mance, which, if so, would provide support for the assumption that children with
+low nonverbal reasoning might have more difﬁculty with comprehension than
+children with unimpaired nonverbal reasoning. No support for such a relationship
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1120
+
+was found for any of the wh-structures tested in the comprehension task, and in
+particular not for the structure that was computationally the most complex. This
+result suggests that comprehension of complex syntax may not be related to non-
+verbal reasoning in verbal children with ASD.
+
+SUMMARY AND CONCLUDING DISCUSSION
+
+The overall objective of this study was to examine the structural language of
+children with ASD, in both production and comprehension, and to explore the
+nature of potential similarities/differences between language performance in ASD
+and in SLI. Seeking to contribute to knowledge of language proﬁles in children with
+ASD, formal aspects of language were analyzed in a group of 20 verbal school-
+age children with ASD, which included children with and without intellectual
+disability, through comparison with a group of 20 age-matched children with SLI.
+On baseline language measures, a large proportion of children in both groups
+scored substantially below norms in phonology and morphosyntax. All of the
+children with SLI scored below the 5th percentile (–1.65 SD) on one or both
+of these tests, whereas 6 children with ASD were above this threshold on both
+(and on receptive vocabulary), and thus the children with ASD included children
+with seemingly impaired structural language and children with seemingly normal
+structural language.
+
+Children in the ASD and SLI groups (and TD controls of the same age as the
+youngest children in the two clinical groups, and younger TD controls aged 4) were
+administered two tasks designed to examine the effects of the computational com-
+plexity entailed in the production and comprehension of wh-questions in French,
+which encompass a wide variety of syntactic strategies ranging in complexity as
+measured by the number of internal and external merge operations involved in their
+derivation. We sought, ﬁrst of all, to see whether children with ASD resembled
+children with SLI in avoiding the more complex strategies and thus favoring in
+the production task those strategies that were the simplest. Overall, this was the
+case. Children in both groups tended to more often use the least complex strate-
+gies, wh–in situ, and avoid the most complex strategy, wh-fronting + subject/verb
+inversion, than younger TD children aged 6. This result is consonant with Riches
+et al.’s (2010) ﬁnding that syntactic complexity affected in similar ways children
+with ASD-LI and children with SLI, though they also found that difﬁculties were
+greater in the SLI group compared with the ASD group, which they interpreted as
+a contradiction for the claim that there may be strong phenotypic overlap between
+the two. Some differences were also found between the ASD and SLI groups we
+studied, with respect to use of some types of wh-questions, in particular a larger
+use of wh-fronting + ESK by the children with ASD; we return to these dif-
+ferences below, arguing for a different conclusion from that put forth by Riches
+et al.
+
+Our objective in focusing on wh-questions in French was to explore the ques-
+tion of relative performance on production versus comprehension from the angle
+of computational complexity in syntax. It has often been held that one of the
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1121
+
+notable features of language in ASD, and one that putatively distinguishes lan-
+guage impairment in these children from that in children with SLI, is that reception
+is comparatively more impaired than production. Thorough cross-study compari-
+son (Kwok et al., 2015) has shown that this has not been established, at least for
+vocabulary and composite language measures, and for structural language, studies
+were too sparse to draw any conclusions. We did not uncover any evidence for
+an expression-over-reception bias, or a weak reception bias, in syntax in children
+with ASD. Accuracy in understanding most object wh-questions was very high
+(over 90%), including object wh-questions involving some degree of complexity,
+such as wh-fronting and ESK. Accuracy was found to decline when complexity
+was the highest, for most children. However, this was also the case for most chil-
+dren in each of the other groups, and the children with SLI. This decline cannot
+therefore be attributed to general failure, on the part of children with ASD, to
+understand what they were told. This shows that like production, comprehension
+may be affected by computational complexity. The difference between production
+and comprehension regarding the effect of complexity is that in comprehension, a
+higher level of complexity may be necessary before a breakdown is observed (and
+thus, as we found, plain wh-fronting and wh-fronting with ESK were equally well
+understood, but the former was produced much more frequently than the latter),
+while avoidance of complexity may be found in production with less complex
+structures as production involves not only the grammatical mechanisms necessary
+for the building of sentences but also other factors such as articulatory planning
+and coordination, which are not involved in comprehension (Lobley, Baddeley,
+& Gathercole, 2005). The children with ASD, overall, did not behave any differ-
+ently from the children in the other groups in this regard. For some children with
+ASD, however, difﬁculties also arose in comprehension of subject wh-questions,
+but, as seen above, this may be due to a tendency to perseverate in the kinds of
+answers given, rather than to a deﬁcit in receptive syntax. If it were a deﬁcit in
+receptive syntax, these children should have had difﬁculties on all wh-questions
+types, and certainly not just subject questions, which are clearly syntactically the
+simplest.
+
+Our third research question was whether language performance, and compre-
+hension in particular, is related to nonverbal ability in children with ASD. This is
+a fundamental part of the wider question of the nature and prevalence of different
+language proﬁles in ASD. Are there children who, like children with SLI, have
+language impairment and normal nonverbal ability (Eigsti et al., 2007; Kjelgaard
+& Tager-Flusberg, 2001), or is language impairment in ASD dependent on gen-
+eral cognitive ability (Howlin, 2003; Tager-Flusberg et al., 1990)? We reasoned
+that any effects of low nonverbal ability ought to be visible in the most complex
+formal aspects of language, if it is true that low nonverbal ability can be a cause of
+structural language impairment. The results revealed that language performance
+in the children with ASD was not related to their nonverbal ability as measured
+via Raven’s Progressive Matrices (for which midpoint percentile scores ranged
+from 2.5 to 92.5, as shown in Table 1 above). This was true for performance on
+elicited production of wh-questions, and thus whether children favored more or
+less complex wh-strategies in producing wh-questions did not depend on their
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1122
+
+nonverbal ability. This was also true for comprehension of wh-questions, includ-
+ing the most complex strategy tested. This result suggests that nonverbal reasoning
+is not related to (at least these manifestations of) formal language impairment in
+children with ASD, and more speciﬁcally, that performance on these measures of
+complex language does not appear to depend on nonverbal level in verbal children
+with ASD, even in comprehension. In short, our results support the hypothesis of
+a “speciﬁc” language disorder in children with ASD, one that can occur indepen-
+dently of nonverbal ability. More generally, this conclusion was also supported
+by performance on standardized language measures (see Appendix A). Perovic
+et al. (2013b) reached the same conclusion, through comparison of an ASD-LI
+group including children both with and without intellectual disability not only to
+a group with ASD and normal language but also to mental-age-matched children
+with William syndrome and to TD children matched in raw scores for nonverbal
+reasoning: the children in the ﬁrst group all displayed impairment not found in the
+other three groups.
+
+However, it is important to emphasize the need for investigation of the intersect-
+ing relationships between structural language impairment and nonverbal ability in
+ASD through studies of four groups with adequate numbers of verbal children
+with ASD: (a) children with normal language and normal nonverbal ability, (b)
+children with normal language and impaired nonverbal ability, (c) children with
+LI and normal nonverbal ability, and (d) children with LI and impaired nonverbal
+ability. We have explored language in a group of children with ASD that did not
+exclude any of these categories, but each of them was not equally represented.14
+The relative prevalence of these proﬁles constitutes an empirical question that re-
+mains to be explored. While our results support the ﬁnding that language proﬁles
+may vary in ASD, independently of nonverbal ability, and that one of these proﬁles
+appears to coincide with the SLI proﬁle (language impairment in the absence of
+impaired nonverbal IQ), it is premature to conclude that children with this latter
+proﬁle have comorbid ASD and SLI.
+
+Alongside the overwhelming similarities in structural language performance
+displayed by the ASD group and the SLI group, it must be emphasized that rather
+striking, recurring differences were also found between the two groups. The chil-
+dren with ASD produced inappropriate answers more frequently than the children
+with SLI did on the wh-question production task. Moreover, when they did produce
+wh-questions, wh-strategy frequency and error patterns were sometimes affected by
+perseveration. Thus, wh-fronting with ESK was found in the majority of questions
+produced by seven children, sometimes resulting in ungrammatical constructions;
+this was not found in children with SLI. Similarly, some ASD-speciﬁc error pat-
+terns could be attributed to repetition of parts of the elicitation prompt given by the
+experimenter. In comprehension, one child with ASD performed at chance on all
+types of wh-questions, whereas no child with SLI did. Four children with ASD in-
+terpreted nearly all wh-questions as object questions, which resulted in low scores
+for subject wh-questions and surprisingly high scores for the object wh-questions
+that caused difﬁculties for nearly all children, in all groups (only one child with SLI
+displayed this behavior). As there were twice as many object wh-questions than
+subject wh-questions in the task, these children may have generalized the former
+to the latter, displaying perseveration, once again. Using an experimental task with
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1123
+
+a balanced number of subject and object wh-questions would help us conﬁrm this
+hypothesis (in which case a bias for object wh-questions would not be expected),
+or, should the bias for object wh-questions persist, it would be indicative that chil-
+dren with ASD tend to rely on information structure considerations, as suggested
+above.
+
+Taken together, these differences between the children with ASD compared to
+the children with SLI seem to point in the same direction, namely, that difﬁcul-
+ties in appropriate use of language in context, pragmatics, may have an effect
+on performance on tasks designed to assess structural language, and may par-
+tially obscure fundamental similarities in the structural language difﬁculties in
+the two populations. These difﬁculties also raise the complementary question of
+the extent to which low structural language performance could be the result of
+pragmatic difﬁculties, in some children with ASD. Disentangling these factors
+could proﬁtably be explored through studies based on both focused measures
+of structural language (including eye tracking and other online processing tech-
+niques (see Léger, Prévost, & Tuller, 2015) and thorough assessment of aspects of
+pragmatics.
+
+APPENDIX A
+
+Age, gender, nonverbal scores, and language performance of the children with ASD
+and children with SLI
+
+Children With ASD
+
+Children With SLI
+
+Child Age Gender RPMa
+
+Stand. Lang.
+Perform.b
+
+Child Age Gender RPMa
+
+Stand. Lang.
+Perform.b
+
+6;3
+M
+FRA
+6;4
+M
+JOC
+BRL
+6;10 M
+WAE 6;11 M
+M
+7;2
+BRR
+F
+LIK
+7;3
+HEG 7;5
+F
+M
+8;0
+JUF
+M
+LUJ
+8;1
+M
+MAV 8;1
+M
+8;7
+ARE
+ETG
+8;9
+M
+M
+AUJ
+9;1
+M
+MAD 9;2
+F
+SEG
+9;4
+MAM 9;5
+F
+ROD 10;1 M
+KIH 10;5 M
+11;5 M
+HEJ
+ARF
+12;9 M
+
+62.5
+2.5
+2.5
+75
+2.5
+50
+92.5
+50
+7.5
+37.5
+7.5
+17.5
+37.5
+37.5
+5
+10
+7.5
+75
+17.5
+37.5
+
+NL
+LI
+LI
+LI
+LI
+NL
+NL
+LI
+NL
+NL
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+NL
+LI
+LI
+
+KIB 6;5
+M
+ROA 6;8
+M
+DOP 7;1
+F
+JOC 7;4
+M
+FIB 7;6
+F
+FLD 7;6
+M
+CAB 7;7
+F
+MAB 7;7
+M
+AUB 8;1
+F
+JEM 8;4
+M
+SEL 8;6
+M
+FLC 9;1
+F
+THB 9;1
+M
+ESD 9;3
+F
+ELG 9;4
+M
+CLS 10;1
+F
+LUM 10;4
+F
+ANE 10;5 M
+COD 10;7 M
+DYR 11;2 M
+
+62.5
+25.0
+37.5
+92.5
+90.0
+37.5
+37.5
+62.5
+7.5
+90.0
+75.0
+37.5
+10.0
+7.5
+17.5
+37.5
+17.5
+50.0
+2.5
+62.5
+
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+LI
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+APPENDIX A (cont.)
+
+1124
+
+Children With ASD
+
+Children With SLI
+
+Child Age Gender RPMa
+
+Mean 8;7
+1;9
+SD
+
+31.8
+28.2
+
+Stand. Lang.
+Perform.b
+
+Child Age Gender RPMa
+
+Stand. Lang.
+Perform.b
+
+8;7
+1;5
+
+43.0
+29.1
+
+Note: Ages are in years;months. ASD, autism spectrum disorder; SLI, speciﬁc language
+impairment; RPM, Raven’s Progressive Matrices; LI, language impairment; NL, normal
+language.
+aPercentile ranges were converted into midpoint percentiles, as suggested by Botting and
+Conti-Ramsden (2008).
+bLanguage was assessed on the basis of performance on three standardized tests focusing
+on receptive vocabulary (Bilan informatisé de langage oral au Cycle III et au collège,
+Khomsi et al., 2007), morphosyntax (sentence completion, Bilan informatisé de langage
+oral au Cycle III et au collège), and receptive vocabulary (Batterie d’évaluation du langage
+oral de l’enfant aphasique, De Agostini et al., 1998). Children performing below –1.65 SD
+in morphosyntax and/or phonology were considered to be language impaired. Note that
+one child with ASD did not take the vocabulary task.
+
+ACKNOWLEDGMENTS
+This research was supported by French National Research Agency Grant BLAN-0328-
+01. We are grateful to the clinicians at autism centers at university teaching hospitals in
+Tours and in Brest: C. Barthe´le ´my, M. Bataille, P. Dansart, E. Lemonnier, and J. Rozec. The
+comparison with SLI was possible thanks to E. Sizaret and A.-G. Piller, and A. Galloux at the
+Language Reference Center of the Children’s Hospital in Tours. We also thank the students
+and postdoctoral researchers involved in this study: S. Gale`s, E. Morin, M. Scheidnes, and
+R. Zebib.
+
+NOTES
+1.
+
+SLI does not appear in DSM-5 (American Psychiatric Association, 2013). Instead,
+different types of disorders are mentioned, that is, language disorder (F80.9), speech
+sound disorder (F80.0), and social (pragmatic) communication disorder (F80.89),
+accompanied by the usual exclusionary criteria (for a recent discussion, see Rice,
+2016). For ease of exposition, and in order to facilitate references and comparisons
+with previous research, we will continue using SLI in this paper.
+
+2. The syntax of wh-questions in French is subject to intense debate among researchers,
+regarding the derivation of wh–in situ, which may involve covert or overt movement,
+or no movement at all (for an overview, see Cheng, 2009). We follow Jakubowicz’
+hypothesis that the computational complexity hypothesis applies to overt movement
+(see Prévost et al., in press) and that wh–in situ does not involve overt movement.
+The semantics of wh–in situ has also been debated. For some, wh–in situ is restricted
+to questions with a strong presupposition (Cheng & Rooryck, 2000; but see Mathieu,
+2004). It is important to mention that a strong presuppositional context does not
+preclude use of wh-fronting.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1125
+
+3. A more recent account of movement than the one adopted in this paper can be found in
+Chomsky (2001, 2008). However, assuming a more traditional approach to syntactic
+derivations does not impact on the basic points raised in this paper.
+
+4. Unfortunately, we did not have access to the Autism Diagnosis Interview and Autism
+
+5. Analysis of spontaneous production by 17 of the children we recruited showed that
+
+Diagnostic Observation Schedule scores for all children.
+they had MLUs ranging from 3.9 to 9.0 (M = 5.81, SD = 2.9; Morin, 2011).
+6. Even though nonverbal IQ scores for the children with ASD were based on different
+tasks, a signiﬁcant correlation was nevertheless found with RPM scores (rs = .70;
+p < .001, df = 18). Furthermore, basing our search for correlations with language on
+RPM (see below) is strongly supported by studies on ASD such as Dawson, Soulières,
+Gernsbacher, and Mottron (2007).
+
+8.
+
+7. We note that the four female participants with ASD did not cluster into any one of
+these four proﬁles. Regarding gender, we furthermore note that the greater degree of
+gender imbalance found in the ASD group compared to the SLI group reﬂects what
+is known for these two pathologies; the ASD and SLI groups were thus not matched
+for gender.
+Spontaneous language samples available for 18 of the children with SLI (Morin,
+2011) showed MLUs ranging from 4.03 to 7.92, with a mean of 5.79 (SD = 3.1),
+which did not differ signiﬁcantly from that of the children with ASD, U (32) = 198,
+p = .968.
+Statistical analyses were run using nonparametric tests because nonnormal distribu-
+tion of the data was obtained through our measures (Shapiro–Wilk tests). Furthermore,
+corrections for multiple comparisons were applied.
+
+9.
+
+11.
+
+10. However, very few questions with wh-fronting with c’est were found: seven in each of
+the atypically developing groups, one in the TD4 group, and none in the TD6 group.
+We will therefore not report about them any further.
+Similar results were found when taking into account the mean number of errors per
+question produced. It was signiﬁcantly higher in the ASD (M = 0.19, SD = 0.19) and
+SLI (M = 0.54, SD = 0.57) groups compared to the TD4 (M = 0.06, SD = 0.007) and
+the TD6 (M = 0.01, SD = 0.02) groups. The difference between the ASD and SLI
+groups was not signiﬁcant following corrections for multiple comparisons, U (39) =
+126.5, p = .046, r = –.315.
+In French, the wh-word “what” appears as que when fronted. The grammatical al-
+ternatives to (4) are Qu’est-ce que tu laves (Wh-fronting + ESK) or Que laves-tu
+(Wh-fronting + subject/verb inversion). Que tu laves is also ungrammatical, as the
+wh-word que is a verbal clitic in French.
+
+12.
+
+13. An anonymous reviewer wondered whether in each case, by hearing le pingouin
+pousse __ “The penguin is pushing __,” the children may have associated pingouin to
+the agent and choose the other character as the answer, which thus may be unrelated
+to complexity issues. While this is possible for wh-questions with wh–in situ, where
+the ﬁrst element heard by the children corresponds to the agent, it is a little more
+complicated in questions where wh-fronting has applied. In these cases (e.g., Qui le
+penguin pousse?), the ﬁrst element heard is an animate wh-word, which the children
+may associate with the agent (see Frauenfelder, Segui, & Mehler, 1980). Hearing le
+pingouin pousse __ would then force them to reinterpret the role of the ﬁrst element
+and look for its base-generated position. It is this reinterpretation process that, by
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1126
+
+being intimately related to chain formation (and movement operations), may yield
+complexity problems.
+
+14. This was also the case in Perovic et al.’s (2013b) study, which included 21 children in
+Category (a), 1 in Category (b), 5 in Category (c), and 21 in Category (d), and Roberts,
+Rice, and Tager-Flusberg’s (2004) study, which included 21 children in Category (a),
+6 in Category (b), 4 in Category (c), and 15 in Category (d), as well as 13 children
+with borderline language, 9 with intellectual disability, and 7 without.
+
+REFERENCES
+Allen, D. A., & Rapin, I. (1992). Autistic children are also dysphasic. In H. Naruse & E. Ornitz (Eds.),
+
+Neurobiology of infantile autism (pp. 73–80). Amsterdam: Excerpta Medica.
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders (5th
+
+ed.). Washington, DC: Author.
+
+Baron-Cohen, S. (1988). Social and pragmatic deﬁcits in autism: Cognitive or affective? Journal of
+
+Autism and Developmental Disorders, 18, 379–402.
+
+Bartak, L., Rutter, M., & Cox, A. (1975). A comparative study of infantile autism and speciﬁc devel-
+
+opmental receptive language disorder. British Journal of Psychiatry, 126, 127–145.
+
+Bishop, D. (2010). Overlaps between autism and language impairment: Phenomimicry or shared eti-
+
+ology? Behavior Genetics, 40, 618–629.
+
+Botting, N., & Conti-Ramsden, G. (2008). Characteristics of children with speciﬁc language impair-
+ment. In L. Verhoeven & H. van Balkom (Eds.), Classiﬁcation of developmental language
+disorders: Theoretical issues and clinical implications (pp. 23–38). Mahwah, NJ: Erlbaum.
+
+Boucher, J. (2003). Language development in autism. International Journal of Pediatrical Otorhino-
+
+laryngoly, 67(Suppl. 1), 59–63.
+
+Boucher, J. (2012). Research review: Structural language in autistic spectrum disorder—Characteristics
+
+and causes. Journal of Child Psychology and Psychiatry, 53, 219–233.
+
+Charman, T., Baron-Cohen, S., Swettenham, J., Baird, G., Drew, A., & Cox, A. (2003). Predicting
+language outcome in infants with autism and pervasive developmental disorder. International
+Journal of Language & Communication Disorders, 38, 265–285.
+
+Cheng, L. (2009). Wh-in-situ, from the 1980’s to now. Language and Linguistics Compass, 3, 767–791.
+Cheng, L., & Rooryck, J. (2000). Licensing wh-in-situ. Syntax, 3, 1–19.
+Chillier, L., Arabatzi, M., Baranzini, L., Cronel-Ohayon, S., Deonna, T., Dubé, S., . . . Zesiger, P. (2001).
+The acquisition of French pronouns in normal children and in children with speciﬁc language
+impairment (SLI). Paper presented at Early Lexicon Acquisition (ELA), Lyon, France.
+
+Chomsky, N. (1995). The minimalist program. Cambridge, MA: MIT Press.
+Chomsky, N. (2001). Derivation by phase. In M. Kenstowicz (Ed.), Ken Hale: A life in language (pp.
+
+1–52). Cambridge, MA: MIT Press.
+
+Chomsky, N. (2008). On phases. In R. Freidin, C. P. Otero, & M.-L. Zubizarreta (Eds.), Foundational
+issues in linguistic theory: Essays in honor of Jean-Roger Vergnaud (pp. 133–166). Cambridge,
+MA: MIT Press.
+
+Condouris, K., Meyer, E., & Tager-Flusberg, H. (2003). The relationship between standardized mea-
+sures of language and measures of spontaneous speech in children with autism. American
+Journal of Speech and Language Pathology, 12, 349–358.
+
+Coveney, A. (1996). Variability in spoken French: A sociolinguistic study of interrogation and negation.
+
+Exeter: Elm Bank Publications.
+
+Dawson, M., Soulières, I., Gernsbacher, M. A., & Mottron, L. (2007). The level and nature of autistic
+
+intelligence. Psychological Science, 18, 657–662.
+
+De Agostini, M., Metz-Lutz, M.-N., Van Hout, A., Chavance, M., Deloche, G., Pavao-Martins, I., &
+Dellatolas, G. (1998). Batterie d’évaluation du langage oral de l’enfant aphasique (ELOLA):
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1127
+
+Standardisation française (4–12 ans) [Test battery for the evaluation of oral speech of children
+with aphasia: French standardization]. Revue de Neuropsychologie, 8, 319–367.
+
+Demouy, J., Plaza, M., Xavier, J., Ringeval, F., Chetouani, M., Perisse, D., & Robel, L. (2011). Differ-
+ential language markers of pathology in autism, pervasive developmental disorder not otherwise
+speciﬁed and speciﬁc language impairment. Research in Autism Spectrum Disorders, 5, 1402–
+1412.
+
+Durrleman, S., & Delage, H. (2016). Autism spectrum disorder and speciﬁc language impairment:
+
+Overlaps in syntactic proﬁles. Language Acquisition. Advance online publication.
+
+Durrleman, S., & Zufferey, S. (2009). The nature of syntactic impairment in autism. Rivista di Gram-
+
+matica Generativa, 3, 57–86.
+
+Durrleman, S., & Zufferey, S. (2013). Investigating complex syntax in autism. In S. Stavrakaki, M. Lali-
+oti, & P. Konstantinopoulou (Eds.), Advances in language acquisition (pp. 405–415). Newcastle:
+Cambridge Scholars Publishing.
+
+Eigsti, I. M., Bennetto, L., & Dadlani, M. B. (2007). Beyond pragmatics: Morphosyntactic development
+
+in autism. Journal of Autism and Developmental Disorders, 37, 1007–1023.
+
+Eigsti, I. M., de Marchena, A. B., Schuh, J. M., & Kelley, E. (2011). Language acquisition in autism
+spectrum disorders: A developmental review. Research in Autism Spectrum Disorders, 5, 681–
+691.
+
+Frauenfelder, U., Segui, J., & Mehler, J. (1980). Monitoring around the relative clause. Journal of
+
+Verbal Learning and Verbal Behaviour, 19, 328–337.
+
+Friedmann, N., Belletti, A., & Rizzi, L. (2009). Relativized relatives: Types of intervention in the
+
+acquisition of A-bar dependencies. Lingua, 119, 67–88.
+
+Geurts, H. M., & Embrechts, M. (2008). Language proﬁles in ASD, SLI, and ADHD. Journal of Autism
+
+Developmental Disorders, 38, 1931–1943.
+
+Groen, W. B., Zwiers, M. P., Van der Gaag, R.-J., & Buitelaar, J. K. (2008). The phenotype and neu-
+ral correlates of language in autism: An integrative review. Neuroscience and Biobehavioral
+Reviews, 32, 1416–1425.
+
+Grüter, T. (2005). Comprehension and production of French object clitics by child second language
+learners and children with speciﬁc language impairment. Applied Psycholinguistics, 26, 363–
+391.
+
+Hamann, C. (2006). Speculations about early syntax: The production of wh-questions by normally
+developing French children and French children with SLI. Catalan Journal of Linguistics, 5,
+143–189.
+
+Hamann, C., Tuller, L., Monjauze, C., Delage, H., & Henry, C. (2007). (Un)successful sub-
+ordination in French-speaking children and adolescents with SLI. In H. Caunt-Nulton,
+S. Kulatilake, & I. Woo (Eds.), Proceedings of
+the 31st Annual Boston Univer-
+sity Conference on Language Development (pp. 286–297). Somerville, MA: Cascadilla
+Press.
+
+Howlin, P. (1984). The acquisition of grammatical morphemes in autistic children: A critique and
+replication of the ﬁndings of Bartolucci, Pierce, and Streiner, 1980. Journal of Autism and
+Developmental Disorders, 14, 127–136.
+
+Howlin, P. (2003). Outcome in high-functioning adults with autism with and without early language
+delays: Implications for the differentiation between autism and Asperger syndrome. Autism and
+Development Disorders, 33, 3–13.
+
+Hulk, A. (1996). Parameter setting and the acquisition of wh-questions in L2 French. In P. Jordens &
+J. Lalleman (Eds.), Investigating second language acquisition (pp. 237–259). New York: de
+Gruyter.
+
+Hulk, A., & Zuckerman, S. (2000). The interaction between input and economy: Acquiring optionality
+in French wh-questions. In S. C. Howell, S. A. Fish, & T. Keith-Lucas (Eds.), Proceedings
+of the 24th Annual Boston University Conference on Language Development (pp. 438–449).
+Somerville, MA: Cascadilla Press.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1128
+
+Jakubowicz, C. (2005). The language faculty: (Ab)normal development and interface constraints. Paper
+
+presented at GALA 2005, University of Siena, Siena, Italy.
+
+Jakubowicz, C. (2011). Measuring derivational complexity: New evidence from typically-developing
+
+and SLI learners of L1-French. Lingua, 121, 339–351.
+
+Jakubowicz, C., & Nash, L. (2001). Functional categories and syntactic operations in (ab)normal
+
+language acquisition. Brain and Language, 77, 321–339.
+
+Jakubowicz, C., Nash, L., Rigaut, C., & Giraud, C. L. (1998). Determiners and clitic pronouns in
+
+French-speaking children with SLI. Language Acquisition, 7, 113–160.
+
+Jakubowicz, C., & Tuller, L. (2008). Speciﬁc language impairment in French. In D. Ayoun (Ed.),
+
+Studies in French applied linguistics (pp. 97–134). Amsterdam: Benjamins.
+
+Kayne, R., & Pollock, J.-Y. (2001). New thoughts on stylistic inversion. In A. Hulk & J.-Y. Pollock
+(Eds.), Subject inversion in Romance and the theory of universal grammar (pp. 107–161).
+Oxford: Oxford University Press.
+
+Khomsi, A., Khomsi, J., Parbeau-Guéno, A., & Pasquet, F. (2007). Bilan informatisé de langage oral
+au Cycle III et au collège (BILO3C). [Computerized evaluation of oral language at elementary
+and middle school]. Paris: Editions du CPA.
+
+Kjelgaard, M., & Tager-Flusberg, H. (2001). An investigation of language impairment in autism:
+
+Implications for genetic subgroups. Language and Cognitive Processes, 16, 287–308.
+
+Kwok, E. Y., Brown, H. M., Smyth, R. E., & Cardy, J. O. (2015). Meta-analysis of receptive and
+expressive language skills in autism spectrum disorder. Research in Autism Spectrum Disorders,
+9, 202–222.
+
+Léger, E., Prévost, P., & Tuller, L. (2015). The development of object clitics in French: A compar-
+ative study between production and real-time interpretation via eye-tracking while listening.
+In C Hamann & E. Ruigendijk (Eds.), Language acquisition and development: Proceedings of
+GALA 2013 (pp. 232–258). Newcastle: Cambridge Scholar Publishers.
+
+Leonard, L. B. (2014). Children with speciﬁc language impairment (2nd ed.). Cambridge, MA: MIT
+
+Press.
+
+Leyfer, O. T., Tager-Flusberg, H., Dowd, M., Tomblin, B., & Folstein, S. E. (2008). Overlap between
+autism and speciﬁc language impairment: Comparison of Autism Diagnostic Interview and
+Autism Diagnostic Observation Schedule scores. Autism Research, 1, 284–296.
+
+Lloyd, H., Paintin, K., & Botting, N. (2006). Performance of children with different types of com-
+munication impairment on the Clinical Evaluation of Language Fundamentals (CELF). Child
+Language Teaching and Therapy, 22, 47–67.
+
+Lobley, K. J., Baddeley, A. D., & Gathercole, S. E. (2005). Phonological similarity effect in verbal
+
+complex span. Quarterly Journal of Experimental Psychology, 58A, 1462–1478.
+
+Lord, C., Risi, S., & Pickles, A. (2004). Trajectory of language development in autistic spectrum
+disorders. In M. L. Rice & S. F. Warren (Eds.), Developmental language disorders: From
+phenotypes to etiologies (pp. 7–29). Mahwah, NJ: Erlbaum.
+
+Lord, C., Rutter, M., DiLavore, P. C., & Risi, S. (1989). Autism Diagnostic Observation Schedule
+
+(ADOS) [French adaptation]. Paris: Editions Hogrefe.
+
+Lord, C., Rutter, M., & Le Couteur, A. (l994). Autism Diagnostic Interview—Revised: A revised version
+of a diagnostic interview for caregivers of individuals with possible pervasive developmental
+disorders. Journal of Autism and Developmental Disorders, 24, 659–685.
+
+Loucas, T., Charman, T., Pickles, A., Simonoff, E., Chandler, S., Meldrum, D., & Baird, G. (2008).
+Autistic symptomatology and language ability in autism spectrum disorder and speciﬁc lan-
+guage impairment. Journal of Child Psychology and Psychiatry, 49, 1184–1192.
+
+Loucas, T., Riches, N. G., Baird, G., Pickles, A., Simonoff, E., Chandler, S., & Charman, T. (2013).
+Spoken word recognition in adolescents with autism spectrum disorders and speciﬁc language
+impairment. Applied Psycholinguistics, 34, 301–322.
+
+Loucas, T., Riches, N. G., Charman, T., Pickles, A., Simonoff, E., Chandler, S., & Baird, G. (2010).
+Speech perception and phonological short-term memory capacity in language impairment:
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1129
+
+Preliminary evidence from adolescents with speciﬁc language impairment (SLI) and autism
+spectrum disorders (ASD). International Journal of Language & Communication Disorders,
+45, 275–286.
+
+Mathieu, E. (2004). The mapping of form and interpretation: The case of optional wh-movement in
+
+French. Lingua, 114, 1090–1132.
+
+Morin, E. (2011). Analyse morphosyntaxique du langage spontané dans l’autisme: un proﬁl sim-
+ilaire avec la dysphasie? [Morphosyntactic analysis of spontaneous language in autism: A
+similar proﬁle to SLI?] (Unpublished master’s thesis, Université François Rabelais de Tours,
+France).
+
+Perovic, A., Modyanova, N., Hanson, E., Nelson, C., & Wexler, K. (2007). Investigations of language
+in autism: Evidence for a grammatical deﬁciency. Poster presented at Autism Research in the
+UK (ARUK): From Diagnosis to Intervention, Open University, Milton Keynes.
+
+Perovic, A., Modyanova, N., & Wexler, K. (2013a) Comprehension of reﬂexive and personal pronouns
+in children with autism: A syntactic or pragmatic deﬁcit? Applied Psycholinguistics, 34, 813–
+835.
+
+Perovic, A., Modyanova, N., & Wexler, K. (2013b). Comparison of grammar in neurodevelopmental
+disorders: The case of binding in Williams syndrome and autism with and without language
+impairment. Language Acquisition, 20, 133–154.
+
+Pickles, A., Simonoff, E., Conti-Ramsden, G., Falcaro, M., Simkin, Z., Charman, T., . . . Baird, G.
+(2009). Loss of language in early development of autism and speciﬁc language impairment.
+Journal of Child Psychology and Psychiatry, 50, 843–852.
+
+Plunkett, B. (1999). Targeting complex structure in French questions. In A. Greenhill, H. Littleﬁeld,
+& C. Tano (Eds.), Proceedings of the 23rd Annual Boston University Conference on Language
+Development (pp. 764–775). Somerville, MA: Cascadilla Press.
+
+Plunkett, B. (2010). Understanding QU-questions. In P. Guijarro-Fuentes & L. Dominguez (Eds.),
+New directions in language acquisition: Romance languages in the generative perspective (pp.
+387–414). Newcastle: Cambridge Scholars Publishing.
+
+Prévost, P., Tuller, L., Galloux, A., & Barthez, M. A. (in press). Complexity and produc-
+tion/comprehension asymmetries in the acquisition of wh-questions in French: Com-
+paring second language acquisition and language impairment in children. In E. Blom,
+L. Cornips, & J. Schaeffer (Eds.), Cross-linguistic inﬂuence in bilingualism. Amsterdam:
+Benjamins.
+
+Quillard, V. (2000). Interroger en français parlé: Etudes syntaxiques, pragmatiques et sociolinguis-
+tiques [Asking questions in spoken French: Syntactic, pragmatic and sociolinguistic studies]
+(Unpublished PhD thesis, Université François Rabelais de Tours).
+
+Ramus, F., Rosen, S., Dakin, S. C., Day, B. L., Castellote, J. M., White, S., & Frith, U. (2003). Theories
+of developmental dyslexia: Insights from a multiple case study of dyslexic adults. Brain, 126,
+841–865.
+
+Rapin, I. (1996). Developmental language disorders: A clinical update. Journal of Child Psychology
+
+and Psychiatry, 37, 643–655.
+
+Rapin, I., & Dunn, M. (2003). Update on the language disorders of individuals on the autistic spectrum.
+
+Brain and Development, 25, 166–172.
+
+Raven, J. C., Court, J., & Raven, J. (1986). Raven’s Coloured Matrices. London: H. K. Lewis.
+Rey, V., Tardif, C., Delahaie, M., Thomas, K., & Massion, J. (2001). Etude exploratoire des capac-
+ités phonologiques chez les enfants présentant un déﬁcit de langage [Exploratory study of
+phonological capacities of children with language impairment]. Travaux Interdisciplinaires du
+Laboratoire Parole et Langage d’Aix-en-Provence, 20, 149–168.
+
+Rice, M. L. (2016). Speciﬁc language impairment, nonverbal IQ, ADHD, ASD, cochlear implants,
+bilingualism and dialectal variants: Deﬁning the boundaries, clarifying clinical conditions
+and sorting out causes. Journal of Speech, Language, and Hearing Research, 59, 122–
+132.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1130
+
+Riches, N. G., Loucas, T., Baird, G., Charman, T., & Simonoff, E. (2010). Sentence repetition in
+adolescents with speciﬁc language impairments and autism: An investigation of complex syntax.
+International Journal of Language and Communication Disorders, 45, 47–60.
+
+Riches, N. G., Loucas, T., Baird, G., Charman, T., & Simonoff, E. (2011). Non-word repetition in ado-
+lescents with speciﬁc language impairment and autism plus language impairments: A qualitative
+analysis. Journal of Communication Disorders, 44, 23–36.
+
+Rizzi, L. (1990). Relativized minimality. Cambridge, MA: MIT Press.
+Rizzi, L. (2000). Remarks on early null subjects. In M.-A. Friedemann & L. Rizzi (Eds.), The acquisition
+of syntax: Issues in developmental comparative linguistics (pp. 269–292). London: Longman.
+Roberts, J. A., Rice, M. L., & Tager-Flusberg, H. (2004). Tense marking in children with autism.
+
+Applied Psycholinguistics, 25, 429–448.
+
+Rutter, M., Mawhood, L., & Howlin, P. (1992). Language delay and social development. In P. Fletcher &
+D. Hall (Eds.), Speciﬁc speech and language disorders in children: Correlates, characteristics
+and outcomes (pp. 63–78). London: Whurr.
+
+Scarborough, H. S. (1990). Index of productive syntax. Applied Psycholinguistics, 1, 1–22.
+Strik, N. (2007). L’acquisition des phrases interrogatives chez les enfants francophones. Psychologie
+
+Française, 52, 27–39.
+
+Sukenik, N., Friedmann, N., Tuller, L., & Morin, E. (2015). Coconuts and curtain cakes: Wh-question
+
+production in children with ASD. Poster presented at GALA 2015, Nantes, France.
+
+Tager-Flusberg, H. (2004). Do autism and speciﬁc language impairment represent overlapping language
+disorders? In M. L. Rice & S. F. Warren (Eds.), Developmental language disorders: From
+phenotypes to etiologies (pp. 31–52). Mahwah, NJ: Erlbaum.
+
+Tager-Flusberg, H. (2006). Deﬁning language phenotypes in autism. Clinical Neuroscience Research,
+
+6, 219–224.
+
+Tager-Flusberg, H., Calkins, S., Nolin, T., Baumberger, T., Anderson, M., & Chadwick-Dias, A. (1990).
+A longitudinal study of language acquisition in autistic and Down syndrome children. Journal
+of Autism and Developmental Disorders, 20, 1–21.
+
+Terzi, A., Marinis, T., Kotsopoulou, A., & Konstantinos, F. (2014). Grammatical abilities of Greek-
+
+speaking children with autism. Language Acquisition, 21, 4–44.
+
+Tomblin, B. (2011). Co-morbidity of autism and SLI: Kinds, kin and complexity. International Journal
+
+of Language & Communication Disorders, 46, 127–137.
+
+Tuchman, R. F., Rapin, I., & Shinnar, S. (1991). Autistic and dysphasic children: II. Epilepsy. Pediatrics,
+
+88, 1219–1225.
+
+Tuller, L., Ferré, S., Prévost, P., Barthez, M.-A., Malvy, J., & Bonnet-Brilhault, F. (2017). The effect
+of computational complexity on the acquisition of French by children with ASD. In L. Naigle
+(Ed.), Innovative investigations of language in autism spectrum disorder (pp. 115–140). Berlin:
+de Gruyter.
+
+van der Lely, H. K. J. (2005). Grammatical-SLI and the computational grammatical complexity hy-
+
+pothesis. Revue Fréquences, 17, 13–20.
+
+van der Meulen, J. (2004). Syntactic movement and comprehension deﬁcits in Broca’s apahsia. Utrecht:
+
+LOT.
+
+Whitehouse, A. J. O., Barry, J. G., & Bishop, D. V. M. (2008). Further deﬁning the language impair-
+ment of autism: Is there a speciﬁc language impairment subtype? Journal of Communication
+Disorders, 41, 319–336.
+
+Wilkinson, K. M. (1998). Proﬁles of language and communication skills in autism: Mental retardation
+
+and developmental disabilities. Research Reviews, 4, 73–79.
+
+Williams, D., Botting, N., & Boucher, J. (2008). Language in autism and speciﬁc language impairment:
+
+Where are the links? Psychological Bulletin, 134, 944–963.
+
+Williams, D., Payne, H., & Marshall, C. (2013). Non-word repetition impairment in autism and spe-
+ciﬁc language impairment: Evidence for distinct underlying neuro-cognitive causes. Journal of
+Autism and Developmental Disorders, 43, 404–417.
+
+Applied Psycholinguistics 38:5
+Prévost et al.: French wh-questions by children with ASD
+
+1131
+
+World Health Organization. (2010). The ICD-10 classiﬁcation of mental and behavioural disorders.
+
+Retrieved from http://apps.who.int/classiﬁcations/icd10/browse/2010/en
+
+Zebib, R., Tuller, L., Prévost, P., & Morin, E. (2013). Formal language impairment in French-speaking
+children with ASD: A comparative ASD/SLI study. In S. Stavrakaki, X. Konstantinopoulou,
+& M. Lalioti (Eds.), Advances in language acquisition (pp. 472–480). Newcastle: Cambridge
+Scholars Publishing.
+
+

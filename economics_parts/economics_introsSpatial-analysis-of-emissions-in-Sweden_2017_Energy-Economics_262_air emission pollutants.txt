@@ -1,0 +1,342 @@
+
+The nexus between environmental quality (e. g.  pollution) and
+economic development has received much focus for many decades. 
+The main objective of this paper is to empirically investigate the
+pollution and income relationship across all Swedish municipalities
+from a spatial econometric perspective.  Our approach is motivated by
+recent but growing literature emphasizing the importance of the spatial
+dimension on this link and the implications of ignoring it (e. g.  Burnett
+Name, 2013a, 2013b). 
+The emissions and income nexus is often modelled within the
+framework of the so-called environmental Kuznets curve (EKC)
+hypothesis, which posits an inverted U-shaped relationship between
+emissions and income, a curvature likely explained by technological
+progress and changes in preferences from income growth.  The EKC literature is replete with empirical modelling of different environmental
+quality indicators.  The evidence for many pollutants can however be
+best described as mixed.  Grossman and Krueger (1991, 1993, 1995)
+were among the ﬁrst authors to empirically examine the EKC hypothesis.  In their papers, Grossman and Krueger found the existence of an
+inverted U-shaped relationship between air quality (SO2 emission
+and “smoke”) and economic growth (per capita GDP).  The inverted
+U-shaped relationship implied that the two pollutants' concentration
+increased at lower per capita income levels but decreased with
+GDP growth at higher levels of income after a certain trajectory. 
+Selden and Song (1994) corroborated Grossman and Krueger (1991)
+after considering four air pollutants (suspended particulate matter,
+sulfur dioxide, oxides of nitrogen and carbon monoxide) and per capita
+GDP1 relationship. 
+The EKC literature is associated with several criticisms (see Stern,
+2004.  Kijima Name, 2010.  Kaika and Zervas, 2013 for EKC survey). 
+Criticisms of the EKC have centered among others on poor econometric
+applications, limited single country studies using long historical
+time series data, lack of theoretical insights/foundation, neglect of
+leakage of dirty production from developed to developing countries
+(e. g.  Stern, 2002.  Dinda, 2004).  However, this paper focuses on only
+one but important incipient criticism.  It relates to biased and inconsistent EKC estimates arising from model misspeciﬁcation due to omission
+of spatial interaction effects in emissions data if signiﬁcantly present
+(e. g.  Rupasingha Name, 2004.  Maddison, 2006.  Burnett Name, 2013a,
+2013b.  Aklin, 2016).  Failure to capture spatial interactions in the data,
+if signiﬁcantly present, might bias the estimated results which might
+affect policy inferences. 
+It is in regard to this criticism and the need for a detailed within
+country study that this paper derives its motivation.  Utilizing
+advances in geographic information systems (GIS) and spatial
+econometrics in applied settings, we model the pollution-income relationship for the following emissions.  carbon dioxide (CO2), sulfur
+dioxide (SO2), nitrogen oxides (NOX), carbon monoxide (CO), particulate matter (PM2. 5 and PM10) and total suspended particulates
+(TSP).  Even though selection of these emissions is not guided by
+any formal criteria, we have reason to believe their importance in
+the Swedish environmental policy/code is not in doubt.  CO2 emissions continue to be one of the major components of greenhouse
+gases (GHGs) locally and globally which contributes signiﬁcantly to
+climate change.  In Sweden, CO2 emissions are based on use of
+different classes of fossil fuels such as coal, gas, and oil products. 
+Emissions from transportation are considered a major source of concern in Sweden.  The other pollutants are also important sources driving air quality in Sweden and feature prominently in all reports of the
+Swedish Environmental Protection Agency and other environmental
+agencies (see e. g.  Gustafsson and Kindbom, 2014.  SEPA, 2016).  SO2
+emissions from road trafﬁc, shipping and heating from industrial and
+other sources are still a major concern even though emission levels
+have been reducing in the last two decades or so.  Indeed particulates,
+CO and the other emissions have been established to impact adversely
+on human health, mortality and related effects besides generally worsening air quality in a particular area (e. g.  Henschel Name, 2013.  Caiazzo
+Name, 2013). 
+Guided by the spatial nature of emissions, we tested for spatial
+effects and estimated a spatial Durbin model (SDM) to capture this
+potential spillover in order to correctly analyze the EKC for the
+selected emissions.  Spatial effects could operate in our setting
+through many channels.  Spatial correlation could occur because
+neighbouring municipalities might share similar economic/business
+activities, pollution cycles and some meteorological (natural) attributes such as direction and average speed of the wind, precipitation,
+relative atmospheric humidity, transportation and spatially correlated unobservables (or omitted variables) that drive pollution levels. 
+Other channels could arise through strategic interaction between
+municipalities' emissions targets (policy), cooperation in air quality
+monitoring and control, transportation linkages among others. 
+While some of these variables are difﬁcult to measure and were not
+available to us, we believe, and it has been shown in the literature,
+that air pollution levels are likely to be spatially correlated.  We
+fully utilize the potential beneﬁts from an empirical model speciﬁcation that is able to capture the impact of emission levels not only in
+adjacent municipalities on own emissions but also how spillover in
+economic activities could affect neighbouring pollution levels.  The
+modelling is undertaken in all 290 municipalities for the period
+2005–2013.  We ﬁnd evidence in support of the EKC for CO2, SO2,
+NOX, PM2. 5, PM10, TSP and potentially CO in the presence of signiﬁcant spatial spillovers. 
+Our contribution to the literature is twofold.  First, we contribute
+to the relatively small but growing EKC in-country literature for several emissions from a spatial perspective.  Secondly, ﬁndings hold
+promise for public policy coordination considerations as far as pollution control in Sweden is concerned.  Understanding the dynamics of
+geographical distribution of emission sources can effectively aid mitigation policies as well as inﬂuencing economic activities (Zhao Name,The remainder of the paper proceeds according to the following
+structure.  Section 2 discusses related literature.  Details of the
+empirical spatial econometric models as well as data issues
+are covered in Section 3.  Section 4 presents the empirics and discussion of the results.  We conclude in Section 5 with some brief
+remarks. 
+2.  Related literature. 
+In this section, a brief survey of the EKC literature as it relates to this
+paper is undertaken.  Following the initial inﬂuential work by Grossman
+and Krueger (1991, 1993, 1995) and Selden and Song (1994), studies on
+the pollution-income nexus have grown substantially.  Many studies
+since these seminal papers have modelled the EKC hypothesis by
+regressing either air or water quality on income per capita (e. g.  Stern
+and Common, 2001.  Stern, 2002).  Other papers have motivated
+inclusion of covariates beside income to avert the omitted variable
+bias problem associated with some studies.  Variables such as population
+density, social capital (e. g.  trust), average years of education, income
+inequality among other demographic, economic and related variables
+have been controlled for (see e. g.  Selden and Song, 1994.  Grossman
+and Krueger, 1995.  Carson Name, 1997). 
+Grossman and Krueger (1995) failed to ﬁnd evidence to the effect
+that environmental quality decreases steadily with economic
+growth.  The new evidence was that economic growth induces an initial environmental deterioration followed by a subsequent phase of
+improvement.  They ﬁnd the turning points for most pollutants in
+their study to be US$8000 per capita income.  Millimet Name (2003)
+on the other hand considered both the standard parametric framework as well as a ﬂexible semi-parametric alternative to test for
+the EKC hypothesis for U. S.  state-level SO2 and NOx.  They ﬁnd overwhelming evidence to reject the parametric approach.  Paudel Name
+(2005) also estimated parametric and semi-parametric models to
+test the EKC for Louisiana in the U. S.  The parametric model showed
+turning points within $10,241–$12,993, $6636–$13,877 and
+$6467–$12,758 for nitrogen (N), phosphorous (P) and dissolved oxygen (DO), respectively. 
+Lindmark (2002) emphasized the need for further studies of the
+EKC from a historical perspective and consideration of the EKC
+framework as a special case of structural analyses for Sweden.  Similar theme and approach runs through the few Swedish studies on the
+EKC for CO2 and SO2 (Kriström, 2000.  Kander and Lindmark, 2004. 
+Kriström and Lundgren, 2005.  Johansson and Kriström, 2007).  Giving further impetus to the income distribution argument in the
+EKC, Brännlund and Ghalwash (2008) on the other hand analyzed
+the pollution and income nexus at the Swedish household level
+for CO2, SO2 and NOX.  All the Swedish cases pointed toward a
+conﬁrmation of the EKC hypothesis for the emissions considered. 
+Given the aggregated time series nature and focus of the above studies, there was no possibility to consider spatial effects in their
+estimations. 
+Despite exponential growth in the EKC literature, there is no uniform
+consensus from the empirics to conﬁrm the EKC stylized facts, at
+least for some emissions indicators.  Perman and Stern (2003) tested
+the EKC hypothesis on a panel data for sulfur emissions and GDP
+for 74 countries.  They ﬁnd sulfur emissions to be a convex function
+of income, casting doubt on the general applicability of the hypothesized nexus.  The conclusion was that the EKC is quite a problematic
+concept, at least for sulfur emissions. 2 Copeland and Taylor's (2004)
+statement summarizes the difﬁculties associated with the general
+applicability of the EKC, “…our review of both the theoretical and empirical literature work on the EKC leads us to be skeptical about the existence
+of a simple and predictable relationship between pollution and per capita
+income”. 
+Finally, the growing recognition of modelling the EKC for different
+emissions in both spatial and temporal contexts has led to the growth
+in a new strand of empirical work, at least over the last decade.  These
+studies typically look for and analyze spatial patterns or clusters in
+pollution data using GIS and spatial statistical tools.  Consequently, the
+EKC is then estimated via spatial error (SEM), spatial lag (SAR), spatial
+simultaneous autoregressive (SAC/SARAR) or spatial Durbin (SDM)
+models using cross-sectional or panel data.  The idea of the spatial
+modelling framework is to relax the assumption of independence
+between cross-sections/geographic units (e. g.  locations) often invoked
+in non-spatial econometric models.  Rupasingha Name (2004) and
+Maddison (2006) were among a few to have motivated a shift from
+traditional EKC models to include spatial extensions.  They found
+signiﬁcant spatial correlation exist in many pollutants thus casting
+doubt on the reliability of non-spatial estimates.  Since these evidences,
+subsequent analysts have become more careful to at least test for spatial
+effects and modelled pollutants using variant spatial econometric
+models if signiﬁcant effects are found (see Burnett Name, 2013a,
+2013b.  Georgiev and Mihaylov, 2015.  Hao Name, 2016.  Liu Name,
+2017).  Among more recent studies, Aklin (2016) examined the
+pollution (CO2 emissions) diffusion and trade nexus using a global
+database.  The pollution haven hypothesis was then tested with
+an EKC speciﬁcation where spatial effects was found to signiﬁcantly
+drive this phenomenon.  Our paper is situated within this class of
+studies. 
+<Middle> Methodology, estimation strategy and data. 
+3. 1.  Tests for spatial dependence. 
+As a ﬁrst step, we test for spatial autocorrelation in the individual
+emissions data.  We apply two tests - the classical global Moran's I3
+and Geary's C(Moran, 1948.  Geary, 1954).  The two global measures
+of spatial dependence of a series are strongly linked, but the
+detection test based on Moran's I statistic is suggested to be more robust and powerful than the Geary's C (Dubé and Legros, 2014). 
+Anselin (1995) has shown that Moran's I statistic is more
+robust against the form of the spatial weight matrix utilized. 
+The tests are global in the sense that it is a spatial dependence measure that describes the overall spatial relationship across all
+municipalities. 
+Further, we undertake exploratory spatial data analysis (ESDA) to
+detect spatial regimes in the emissions data.  Localized version of
+Moran's I test for spatial autocorrelation, which measures the extent
+to which high and low values are clustered together is utilized.  Unlike
+global Moran's I which is a global index representing the entire
+geographic area under study, the local indicator of spatial association
+(LISA) or local Moran's Ii considers spatial variations in the study areas
+locally.  It describes the heterogeneity of spatial association across
+different geographic units within the areas under investigation.  We
+implement this with the Moran scatterplot (Anselin, 1995, 1996) to
+facilitate the detection of spatial clusters in the emissions data.  The
+Moran scatter diagram plots the spatial lag of standardized per capita
+emissions against the original values.  The values are then distributed
+into four quadrants to depict spatial clustering.  The four different
+quadrants of the scatterplot correspond to the four types of local spatial
+association between a region and its neighbours.  The four quadrants
+depict HH clustering (quadrant 1) which means municipalities
+with high emissions are associated with neighbours with similar
+emission levels (reverse is LL) and LH (quadrant 2) suggests low
+emitting municipalities are surrounded by municipalities with high
+emissions (reverse is HL).  Quadrants HH and LL indicates positive
+spatial autocorrelation whereas LH and HL show negative spatial
+autocorrelation. 
+Finally, we use cluster and signiﬁcance maps to depict the local
+Moran's Ii for detection of spatial clustering and hot spots (Gertis-Ord
+∗) in all emissions data.  All these tests are used in order to reach robustconclusion on whether or not spatial modelling of the pollution-income
+hypothesis is indeed appropriate. 
+3. 2.  Econometric method and estimation strategy. 
+Following the conventional approach in the applied spatial
+econometric literature, we begin our speciﬁcation with a non-spatial
+ordinary least squares (OLS) regression model as our benchmark
+(see Elhorst, 2010.  LeSage and Pace, 2009).  We then test the possibility
+of extension of the baseline model to include spatial interaction effects. 
+The non-spatial benchmark speciﬁcation is given by Eq. 
+Using an appropriate spatial weight matrix, Eq.  (1) is subjected to a
+classical Lagrange multiplier (LM) (Anselin, 1988) and robust-LM
+(RLM) tests4 proposed by Anselin Name (1996).  These tests are conducted on the residuals of the estimated OLS model.  A rejection of the OLS
+model in favour of either the spatial lag (SAR) or spatial error (SEM)
+models or both would suggest a spatial Durbin model (SDM) should
+be estimated (see LeSage and Pace, 2009.  Elhorst, 2010 for more
+technical details). 
+Eq.  (1) ignores possible spatial dependence in the pollutionincome (EKC) nexus.  However, since the recent literature (e. g. 
+Aklin, 2016) have found emissions, income and population/population density among other variables to exhibit signiﬁcant spatial dependence, we extend Eq.  (1) to include spatial interaction effects
+speciﬁed, where y5 is an n × 1 vector of dependent variables (lnCO2pc, lnSO2pc,
+lnNOxpc, lnCOpc, lnPM2. 5pc, lnPM10pc, lnTSPpc) for each unit of the
+sample i = 1, …n, ιn is an n × K vector of ones for the constant term
+parameter α, β and θ are a K × 1 vector of parameters associated
+with the N × K matrix of explanatory variables X (i.  e.  lnIncomepc,
+(lnIncomepc)2 and lnPopdens) and the spatially explicit counterparts. 
+ln is the natural logarithmic operator and the variables lncrpc and
+Popdens denote real income per capita (and its squared term) and
+population density, respectively.  The variables ρ and λ denote the
+spatial autoregressive (or lag) and spatial autocorrelation coefﬁcients, respectively.  while Wy and WX represents the endogenous
+and exogenous spatial interaction effects among the outcome and
+explanatory variables, respectively.  The disturbance terms are denoted by the vector ε = (ε1, …, εn)T where εi is assumed to be independently and identically distributed (i. i. d. ) for all i with mean zero
+and variance σ 2. 
+The variable W is an n× n matrix that characterizes the degree
+of spatial dependence/connectedness of the spatial units within the
+sample.  This matrix has all its diagonal elements equal zero since a
+municipality cannot be its own neighbour.  Estimation of Eq.  (2) and
+any variants of it requires construction/speciﬁcation of an appropriate
+spatial weight matrix.  This is a key step in applied spatial econometrics but the choice/selection of a spatial weight matrix is not guided
+by any known economic theory, thus becoming a discretionary (or
+arbitrary) decision of the analyst (see Leenders, 2002.  Elhorst,
+2010).  The spatial weight matrix, W, in its simplest form is deﬁned
+as a ﬁrst-order contiguity matrix consisting of zeros along the principal diagonal (since a municipality cannot be its own neighbour) and
+elements wij elsewhere, where wij = 1 if i and j are neighbours and
+wij = 0 otherwise.  An alternative speciﬁcation of the spatial weight
+matrix is based on the distance between municipality centroids
+(inverse or squared inverse distance) with and without distance
+cut-off point.  In this paper, the spatial weight matrix W used in the
+main empirical estimations is deﬁned as a k-nearest neighbours of
+every municipality in the sample (here 10-nearest neighbours).  In
+applied spatial econometric work, the weight is standardized such
+that the sum of the elements in each row equals one (i. e.  row standardization).  That is, row standardization ensures that relative, and
+not absolute distance, matters (Ezcurra and Rios, 2015).  The worry
+expressed by some practitioners that coefﬁcient estimates are sensitive to the choice of spatial weight matrix has been quelled recently
+by LeSage and Pace (2014a, 2014b) and described as a myth rather
+than reality.  They demonstrated and argued that this worry arises
+only if the researcher has misspeciﬁed models (e. g.  estimated SEM
+or SAR with omitted variables) or an incorrect interpretation
+of model coefﬁcients as though they were partial derivatives
+(LeSage and Pace, 2014a, 2014b).  The conclusion is that sensitivity
+to selection of different spatial weight matrix is largely indicative
+of model misspeciﬁcation and should pose no problems if model is
+well speciﬁed (LeSage and Pace, 2014a, 2014b). 
+Eq.  (2) is the general spatial model due to Manski (1993).  It is a
+nested model with special cases within it (Elhorst, 2010).  According
+to Elhorst (2010), Manski identiﬁed three possible spatial dependencies in speciﬁcation (2), which includes (i) endogenous6 interaction
+effects, (ii) exogenous7 interaction effects and (iii) correlated8 effects.  Following the suggestion of LeSage and Pace (2009) and
+Elhorst (2010), would imply the best strategy in testing for the effects of spatial dependence is to begin from a general model such
+as Manski (1993).  However, due to issues of identiﬁcation, Manski
+suggests exclusion of one of the spatial interaction effects before
+testing.  LeSage and Pace (2009) suggests that the best option in
+this circumstance is to exclude the spatially autocorrelated errorThis results in the SDM (our preferred model of interest where
+λ=0.  Anselin, 1988), also a nested model with special cases of speciﬁc
+spatial models incorporated. 
+The SDM produces unbiased coefﬁcient estimates if the true datageneration process (DGP) is either a spatial lag or spatial error
+model.  As noted by Elhorst (2010), the SDM also produces correct
+t-values or standard errors of the estimated coefﬁcients if the true
+DGP is a SEM.  Additionally, SDM imposes no prior restrictions on
+size of the spatial spillover effects (Elhorst, 2010.  LeSage and Pace,
+2009).  Since the SDM yields unbiased coefﬁcient estimates if the
+true DGP is any other spatial regression speciﬁcations (except for
+the Manski model), it is not that costly to make the exclusion
+trade-off (Elhorst, 2010).  The SDM now widely appeals to many empiricists, especially in the growth literature (see e. g.  Ertur and Koch,
+2007.  LeSage and Fischer, 2008.  Elhorst, 2012.  Ezcurra and Rios,
+2015.  Abate, 2016). 9
+By testing the following restrictions/constraints, we reduce the
+SDM to either a spatial autoregressive (SAR) or a spatial error
+(SEM) model.  Imposing θ = 0 implies the model is a SAR (i. e. 
+Ho . θ = 0).  Conversely, imposing the non-linear restriction θ = − βρ
+(then ρ =λ i. e.  Ho . θ =−βρ) reduces the model to a SEM. 
+To obtain an intuitive interpretation of the impact of a change in
+the rth covariate on y, we rewrite Eq, where I represents an identity matrix of order n.  The partial derivatives
+of y with respect to a change in variable xr from matrix X is given byEq.  (5) can be interpreted in the context of this paper as follows.  a
+change in per capita income in a particular municipality will not only
+change the emissions in that municipality (i) alone but also on
+emissions in neighbouring municipalities ( j) too, j≠ i.  Thus in the language of LeSage and Pace (2009), the former effect represents a direct impact (i. e.  ∂ yi/∂ xir) while the latter, an indirect effect or
+spillover responses (i. e.  ∂ yi/∂ xjr).  The sum of these effects denote
+the total effect of a unit change in say income on emissions in a
+given municipality, (see LeSage and Pace, 2009 and Elhorst,
+2010 for detailed technical discussion).  The added advantage of
+using the direct and indirect effects to make inference regarding
+the EKC hypothesis in this paper is that we are able to isolate the impact of income not only on emissions from the source region, but also
+on its neighbours connected in space via the chosen spatial weightFinally, it is instructive to note that the presence of signiﬁcant
+spatial dependence in the data makes it inappropriate for the spatial
+models to be estimated via OLS since it yields biased and inconsistent
+estimates which could lead to wrong inferences.  That is, estimation
+of the general SDM with OLS can potentially lead to inconsistent estimates of parameters in the presence of spatially lagged dependent
+variables as well as inconsistent spatial parameter estimates
+and standard errors (LeSage and Pace, 2009).  As shown in LeSage
+and Pace (2009), the SDM (Eq.  (3)) or any variants of it can be estimated by maximum likelihood (ML) (Anselin, 1988), quasi-ML
+(Lee, 2004), instrumental variable and generalized method of moments (IV/GMM)10 and Bayesian Markov Chain Monte Carlo
+(MCMC) approaches.  Following LeSage and Pace (2009) and
+Anselin (1988), our models are estimated via ML.  One of the
+advantages of the (quasi-) ML estimators, especially of spatial
+autoregressive models, is that these models can be estimated even
+if the disturbances in the models are not truly normally distributed
+(Lee, 2004). 
+3. 3.  Data. 
+We constructed a balanced panel data for all 290 municipalities in
+Sweden spanning nine years (2005–2013).  All emissions data measured
+in tonnes (CO2, SO2, NOx, CO, PM2. 5, PM10 and TSP) have been retrieved
+from the Swedish national emissions database (RUS11 – which stands
+for Regional Development and Cooperation on the environment). 
+Population data for all municipalities have been obtained from Statistics
+Sweden database and used to compute emissions per capita. 
+In order to test for the EKC for the seven emissions types, we control for real income per capita and a squared speciﬁcation of the income variable to capture turning points in the EKC model.  Income
+in this paper is represented by mean income per capita earned
+in each municipality by residents aged 20 years and above
+denominated in 2014 constant Swedish Krona prices.  We further
+control for the effect of population density (i. e.  population per
+square kilometer for each municipality) in the pollution-income
+model.  Data on income and population density were also retrieved
+from Statistics Sweden.  The descriptive statistics and variable deﬁnition are shown in Table 1. 
+4.  Results. 
+4. 1.  Baseline. 
+The results of both global Moran's I and Geary's C applied on the
+natural logarithm of per capita emissions from CO2, SO2, NOx, CO,
+PM2. 5, PM10 and TSP are shown in Table 2.  The results show signiﬁcant positive spatial autocorrelation for all pollutants.  This conclusion remains the same independent of the spatial weight matrix
+speciﬁcation (i. e.  10-nearest neighbours or inverse distance).  The
+implication is that emissions in a municipality also matter for its
+neighbours.  That is, positive spatial correlation indicates that municipalities with similar levels of per capita emissions are more likely to
+be spatially clustered than could occur by some random chance.  This
+reinforces the need for modelling spatial correlations in the empirical analysis.  The results are corroborated by the Moran's scatterplot
+(see Fig.  A1 in Appendix) where indication of positive spatial dependence is overwhelmingly evident.  We ﬁnd many of the municipalities for each pollutant to be clustered in the ﬁrst and third
+quadrants, characteristic of positive spatial autocorrelation patterns
+in many applications. 
+Furthermore, we synchronize and display cluster and signiﬁcance
+maps for all air emission pollutants averaged over 2005–2013 in
+Fig.  A2 (see appendix). 

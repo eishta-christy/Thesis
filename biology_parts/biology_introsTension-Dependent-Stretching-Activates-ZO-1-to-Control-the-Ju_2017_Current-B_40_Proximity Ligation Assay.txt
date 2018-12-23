@@ -1,0 +1,119 @@
+Tension-Dependent Stretching Activates ZO-1 to
+Control the Junctional Localization of Its InteractorsGraphical AbstractDomenica Spadaro, Shimin Le,
+Thierry Laroche, Isabelle Mean,
+Lionel Jond, Jie Yan, Sandra Citi
+Correspondence
+sandra. citi@unige. ch
+In Brief
+Spadaro Name use super-resolution
+microscopy to show that ZO-1, a protein
+that connects tight junction membrane
+proteins to the actin cytoskeleton, exists
+in either stretched or folded
+conformations, depending on
+actomyosin-dependent force, resulting in
+changes in the localization, stability, and
+downstream signaling of its interactors. 
+Highlights
+d The tight junction protein ZO-1 exists in stretched and folded
+conformations
+d Actin organization, myosin activity, and heterodimerization
+control ZO-1 conformation
+d The stretched conformation of ZO-1 recruits DbpA and
+occludin to junctions
+d Barrier function and proliferation are controlled by
+actomyosin through ZO proteins
+Spadaro Name, 2017, Current Biology 27, 3783–3795
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 014
+Current BiologyTension-Dependent Stretching Activates
+ZO-1 to Control the Junctional
+Localization of Its Interactors
+Domenica Spadaro,1,2 Shimin Le,3,4 Thierry Laroche,5 Isabelle Mean,1,2 Lionel Jond,1,2 Jie Yan,3,4 and Sandra Citi1,2,6,*
+1Department of Cell Biology, Faculty of Sciences
+2Institute of Genetics and Genomics of Geneva (iGE3)
+University of Geneva, 30 Quai Ernest Ansermet, 1211 Geneva 4, Switzerland
+3Department of Physics
+4Mechanobiology Institute
+National University of Singapore, 5A Engineering Drive 1, Singapore 117411, Singapore
+5EPFL School of Life Sciences PTBIOP, Station 19, 1015 Lausanne, Switzerland
+6Lead Contact
+*Correspondence: sandra. citi@unige. ch
+https://doi. org/10. 1016/j. cub. 2017. 11. 014Tensile forces regulate epithelial homeostasis, but
+the molecular mechanisms behind this regulation
+are poorly understood.  Using structured illumination microscopy and proximity ligation assays, we
+show that the tight junction protein ZO-1 exists in
+stretched and folded conformations within epithelial cells, depending on actomyosin-generated
+force.  We also show that ZO-1 and ZO-2 regulate
+the localization of the transcription factor DbpA
+and the tight junction membrane protein occludin
+in a manner that depends on the organization of
+the actin cytoskeleton, myosin-II activity, and substrate stiffness, resulting in modulation of gene
+expression, cell proliferation, barrier function, and
+cyst morphogenesis.  Pull-down experiments show
+that interactions between N-terminal (ZPSG) and
+C-terminal domains of ZO-1 prevent binding of
+DbpA to the ZPSG, suggesting that force-dependent
+interactions regulate ZPSG
+binding to ligands within cells.  In vivo and in vitro
+experiments also suggest that ZO-1 heterodimerization with ZO-2 promotes the stretched conformation and ZPSG interaction with ligands.  Magnetic
+tweezers single-molecule experiments suggest
+that pN-scale tensions (2–4 pN) are sufﬁcient to
+maintain the stretched conformation of ZO-1, while
+keeping its structured domains intact, and that
+5–20 pN force is required to disrupt the interaction
+between the extreme C-terminal and the ZPSG
+domains of ZO-1.  We propose that tensile forces
+regulate epithelial homeostasis by activating ZO
+proteins through stretching, to control the junctional recruitment and downstream signaling of
+their interactors. 
+intra-molecular
+INTRODUCTION
+Extrinsic and intrinsic forces control the conformation of mechanosensing proteins at cadherin- and integrin-based junctions,
+regulating their association with the actin cytoskeleton and the
+strength of adhesion; however, little is known about how force
+regulates homeostasis, proliferation, and morphogenesis [1, 2]. 
+Cytoplasmic actomyosin controls the nuclear shuttling of transcription factors [3], and junctional actomyosin affects tight
+junction (TJ) barrier function [4–8], but it is not known whether
+any TJ protein can respond to tension by changing its conformation and how this may affect proteins involved in barrier function
+and signaling to the nucleus. 
+ZO-1 and ZO-2 (Zonula Occludens-1 and -2) [9, 10] are cytoplasmic TJ proteins, which anchor actin ﬁlaments to membrane
+proteins through their C-terminal regions [11, 12].  The C-terminal
+half of ZO-1 comprises actin-binding and ZU5 domains [13] and,
+when exogenously expressed, does not localize at junctions but
+in the cytoplasm, associated with actin ﬁlaments [11, 12, 14].  The
+N-terminal half of ZO-1 comprises three PDZ domains, followed
+by Src homology-3 (SH3), unique-5 (U5), guanylate kinase
+(GUK), and unique-6 (U6) domains [15, 16].  The PDZ1 and
+PDZ3 domains bind to the TJ membrane proteins claudins and
+JAM [17, 18], and the PDZ2 domain promotes heterodimerization between ZO-1 and either ZO-2 or ZO-3, another member
+of the ZO family of proteins [11, 19, 20], which is not expressed
+in Eph4 epithelial cells [21].  The region of ZO-1 comprising PDZ3,
+SH3, U5, and GUK domains (ZPSG-1) interacts with and recruits
+to junctions the transmembrane TJ protein occludin [11, 22], the
+Y-box transcription factor DbpA/ZONAB (DNA-binding protein
+A/ZO-1-associated Nucleic Acid Binding protein) [23, 24], and
+other ligands [13].  ZO-2 is also critical for the junctional recruitment and function of occludin [25, 26].  DbpA regulates gene
+expression and cell proliferation, and its sequestration by ZO-1
+and ZO-2 at junctions of conﬂuent monolayers inhibits its nuclear
+activity [23, 24, 27, 28].  Occludin is implicated in the regulation
+of TJ barrier function [29–31], although occludin knockout
+mice have normal TJ [32].  Because ZO-1 and ZO-2 link TJ
+membrane proteins to actin ﬁlaments, we hypothesized that
+Current Biology 27, 3783–3795, December 18, 2017 ª 2017 Elsevier Ltd.  3783
+their conformation and downstream interactions and signaling
+might be modulated by force.  Here, we show that ZO-1 exists
+in different force-dependent conformations and that the organization and contractility of the actomyosin cytoskeleton control
+the ability of ZO-1 and ZO-2 to recruit to junctions DbpA and
+occludin, to modulate gene expression, cell proliferation, barrier
+function, and epithelial morphogenesis. 
+<Middle> RESULTS. 
+Structured Illumination Microscopy and Proximity
+Ligation Assay Demonstrate Tension-Dependent
+Changes in ZO-1 Conformation within Cells
+To test whether force controls ZO-1 conformation, we expressed
+ZO-1 tagged with myc and hemagglutinin (HA) at its N-terminal
+and C-terminal ends (Figure 1A) in ZO-1-KO (knockout) epithelial
+(Eph4) cells.  Structured illumination microscopy (SIM) and proximity ligation assay (PLA) were used to examine the global spatial
+relationships between the ends of ZO-1 either in control cells or
+in cells depleted of ZO-2, with or without treatment with blebbistatin, which inhibits myosin-II activity. 

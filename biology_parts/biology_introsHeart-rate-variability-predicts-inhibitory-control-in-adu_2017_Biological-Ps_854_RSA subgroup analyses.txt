@@ -1,0 +1,756 @@
+
+Several studies suggest that inhibition diﬃculties among people with ASD might be related to atypical cardiac
+vagal control.  We examined how low versus high baseline heart rate variability (HRV) inﬂuences prepotent
+response inhibition in 31 males with autism spectrum disorder (ASD; mean age: 32. 2; mean IQ: 107. 8) compared
+to 39 typically developing (TD) males (mean age: 30. 5; mean IQ: 102. 0) by administering a stop signal task. 
+Moreover, we examined whether adding an aﬀective manipulation would alter ﬁndings and whether this manipulation aﬀected HRV.  Findings indicated that baseline HRV inﬂuenced inhibition in ASD males.  Speciﬁcally,
+an ASD subgroup with low baseline HRV performed signiﬁcantly worse compared to an ASD subgroup with high
+baseline HRV.  No inﬂuence of baseline HRV was found in TD males.  The aﬀective manipulation did negatively
+inﬂuence performance and also altered HRV.  Although replication is required, these ﬁrst ﬁndings indicate that
+baseline cardiac vagal control seems to aﬀect inhibitory control in males with ASD. resistanceresponse
+inhibition
+Autism spectrum disorders (ASD) are neurodevelopmental disorders, characterized by social interaction and communication diﬃculties as well as repetitive behaviors (APA, 2013).  Both repetitive
+behaviors and social interaction diﬃculties have been theorized to be
+related to inhibitory control deﬁciencies (e. g. , Bachevalier & Loveland,
+2006; Hill, 2004; Mosconi Name, 2009; Russel, 1997).  Three types of
+inhibitory control can be identiﬁed, namely interference control, prepotent
+interference
+(Friedman & Miyake, 2004).  Prepotent response inhibition and interference control are the two most studied types of inhibition in the ASD
+population.  Prepotent response inhibition is the ability to suppress or
+withhold a (motor) response.  Interference control is the ability to ignore
+irrelevant stimuli.  Although recent meta-analyses conﬁrm that people
+with ASD have more prepotent response inhibition (Cohen’s d = 0. 55;
+Hedges’g = 0. 51) and interference control (Cohen’s d = 0. 31) diﬃculties than typically developing (TD) individuals, both meta-analyses
+also found a large amount of heterogeneity (Geurts, van den
+Bergh & Ruzzano, 2014; Kuiper, Verhoeven & Geurts, 2016).  This means
+that the ﬁndings across studies were inconsistent. 
+This large amount of heterogeneity between inhibitory control
+study ﬁndings in people with ASD suggests that there are other factors
+that inﬂuence these ﬁndings.  In the two aforementioned meta-analyses,
+we examined several possible factors, namely the possible inﬂuence of
+age, intelligence (IQ), interstimulus interval (ISI) and ‘stimulus type’
+(Geurts Name, 2014; Kuiper Name, 2016).  In the ﬁrst meta-analysis, age
+explained 25% of the heterogeneity between the studies on prepotent
+response inhibition, but a signiﬁcant amount of heterogeneity still remained.  Age was not a relevant moderator for interference control.  IQ
+showed the opposite pattern as it had no eﬀect on prepotent response
+inhibition, but did explain 62% of the heterogeneity between the interference control studies (Geurts Name, 2014).  In the second metaanalysis, which solely focused on prepotent response inhibition, the
+possible inﬂuence of variations in ISI and ‘stimulus type’ as well as the
+factors age and IQ were examined (Kuiper Name, 2016).  Age, IQ and ISI
+did not signiﬁcantly reduce the heterogeneity between the studies.  The
+inﬂuence of ‘stimulus type’ was systematically reviewed and showed
+mixed results.  It seemed to depend on the type of stimulus whether or
+not it inﬂuenced inhibition.  We hypothesized that perhaps the stimulus
+types have diﬀerent physiological eﬀects and that more studies were
+needed that include two diﬀerent sets of stimuli as well as physiological
+measures to be able to directly measure the (physiological) inﬂuence of
+a stimulus type on inhibitory control in people with ASD.  The reason
+behind why there was a non-signiﬁcant eﬀect of age found in the
+second meta-analysis (Kuiper Name, 2016) compared to the signiﬁcant
+⁎ Corresponding author at: Dr.  Leo Kannerhuis, Houtsniplaan 1, 6865 XZ Doorwerth, The Netherlands. 
+E-mail addresses: kuiper. marieke@gmail. com, m. kuiper@leokannerhuis. nl (M. W. M.  Kuiper). 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 006
+Received 14 November 2016; Received in revised form 10 July 2017; Accepted 11 July 2017
+Available online 15 July 2017
+0301-0511/ 
+M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+eﬀect in the ﬁrst meta-analysis (Geurts Name, 2014), was suggested to
+be related to the smaller percentage of studies focusing on adults with
+ASD, as this was 18. 9% and 26. 1% respectively.  Taken together, this
+shows that there are other factors than age, IQ, and ISI that inﬂuence
+inhibition in people with ASD.  Several authors have hypothesized that
+cardiac vagal control might be one of these factors (e. g. , Geurts,
+Begeer, & Stockmann,Kindt, & Forstmann, 2011; Raymaekers, van der Meere, & Roeyers,
+2004; Raymaekers, van der Meere, & Roeyers, 2006; Raymaekers,
+Antrop, van der Meere, Wiersema, & Roeyers, 2007). 
+Krypotos,Jahfari,Cardiac vagal control refers to the degree of tonic vagal inﬂuences
+on the heart.  The beat-to-beat heart rate (HR) of humans varies considerably (e. g. , Billman, 2011; Stein, Bosner, Kleiger, & Conger, 1994). 
+This variation in time between heart beats is mostly caused by brain
+stem projections
+to the heart via the vagus nerve (Berntson,
+Cacioppo, & Quigley, 1993).  Vagus nerve activity is also related to the
+respiratory cycle (e. g. , Berntson Name, 1997).  During inhalation, HR
+accelerates and vagal activity is decreased, and during exhalation HR
+slows down and vagal activity is restored.  Cardiac vagal control is indexed by respiratory sinus arrhythmia (RSA) or high frequency HRV,
+which both refer to HRV during spontaneous breathing (e. g. , Berntson
+Name, 1997).  There are several theoretical models that argue the importance of cardiac vagal control in relation to (social) behavior.  Two
+commonly reported models are the Neurovisceral Integration Model
+(e. g. , Thayer & Lane, 2000; Thayer & Friedman, 2002; Friedman, 2007)
+and the Polyvagal Theory (e. g. , Porges, 2001, 2007; Porges Name,The Neurovisceral Integration Model states that a core set of neural
+structures (emphasizing the role of the amygdala and the medial prefrontal cortex) integrates signals from inside and outside the body to
+assess whether the physiological state of the body, cognition, perception and action match the environmental demands (e. g. , Thayer & Lane,
+2000; Thayer, Ahs, Fredrikson, Sollers 3rd, & Wager, 2012).  These
+neural structures are suggested to form a system that continuously assesses whether the environment is safe or unsafe, which is needed to
+prepare the body for the appropriate response.  The model describes a
+central autonomic network (CAN) that has bidirectional pathways to
+the sinoatrial node of the heart.  Through the CAN, the brain would
+control responses on a visceromotor, neuroendocrine and behavioral
+level that are crucial
+for adaptability and goal-directed behavior
+(Benarroch, 1993).  Both sympathetic and parasympathetic preganglionic neurons would mediate the primary output of the CAN at the
+sinoatrial node of the heart via the vagus nerve.  The output of the CAN
+would produce HRV (Thayer & Lane, 2000).  In their paper, Thayer and
+Lane (2000) argue that HRV is not only related to physiological ﬂexibility and attentional regulation but also to aﬀective information
+processing.  People with low HRV would be less able to detect and experience safety (even when it is present) and would also have diﬃculty
+with aﬀective information processing.  Taken together, in this model,
+HRV is seen as an index for health and adaptability. 
+Besides this model, the Polyvagal Theory (Porges, 2001) explains
+the relationship between cardiac vagal control and social behavior from
+an evolutionary and hierarchical perspective.  Brieﬂy, in this theory, the
+nervous system regulates both bodily and behavioral states (Porges,
+2001).  This is partially realized by the function of the myelinated vagus
+nerve as a vagal “brake” (Porges, 2001, 2007).  The “brake” would aﬀect
+the sympathetic inﬂuences on the heart by either inhibiting vagal tone
+(supporting mobilization) or disinhibiting vagal tone (promoting calm
+and social behavior).  Speciﬁc brain areas, such as the temporal cortex,
+would determine whether the surroundings require physiological states
+that either encourage social behavior or ﬁght-ﬂight behavior (Porges,
+2007).  Individual diﬀerences in this process are suggested to mediate
+emotion regulation and expression.  The theory argues that the impact
+of the myelinated vagus nerve on the heart can be measured with the
+quantiﬁcation of RSA.  Porges (2001, 2007) argues that lower RSA
+mobilizes ﬁght-ﬂight behaviors, while higher RSA supports socialengaging behaviors and emotional regulation. 
+Besides these two theoretical models, ﬁndings from several studies
+seem to conﬁrm the hypothesis that variations in HRV are related to
+diﬀerences in behavior (e. g. , Appelhans & Luecken, 2006; Katahira,
+Fujimura, Matsuda, Okanoya, & Okada, 2014) as well as to several
+psychiatric disorders (e. g. , Thayer & Lane, 2000).  For instance, reductions in HRV are shown to be related to depression (Thayer & Lane,
+2000), generalized anxiety disorder, and behavioral
+inﬂexibility
+(Friedman & Thayer, 1998a, 1998b).  Taken together, higher HRV seems
+to be associated with health, emotion regulation and better adjustment
+to environmental demands, while lower HRV would be associated with
+disease, ﬁght-ﬂight behaviors and social diﬃculties (Thayer & Lane,
+2000; Friedman 2007; Thayer Name, 2012; Porges, 2001; Porges Name,Recent studies suggest there might be a subgroup within the ASD
+population that is characterized by low HRV.  In a review on cardiac
+autonomic regulation in ASD, Klusek, Roberts, and Losh (2015) reported several studies that showed that children with ASD had signiﬁcantly decreased HRV compared to TD individuals during cognitive
+tasks.  Interestingly, it was discovered that these children with ASD also
+had decreased HRV at baseline.  Moreover, studies that found no differences between the ASD and TD group in HRV during a cognitive task,
+did not ﬁnd diﬀerences in HRV at baseline either (Klusek Name, 2015). 
+The authors concluded that a subgroup of the ASD population has
+chronically lowered HRV (Klusek Name, 2015).  Therefore, the level of
+baseline HRV might be of greater importance than thought until now. 
+Especially, since in the general population the inﬂuence of baseline
+HRV on cognitive performance has been shown as well.  Krypotos Name
+(2011) used a median split on baseline HRV to create a low and high
+baseline subgroup.  These subgroups then performed an emotional
+prepotent response inhibition task.  The results showed that,
+independent of subgroup, negative valence highly arousing pictures lead
+to more inhibitory control diﬃculties.  This is in line with previous
+studies (e. g. , Verbruggen & De Houwer, 2007), which showed that
+being confronted with highly arousing emotional pictures will lead to
+slower stopping-responses (i. e. , more diﬃculty inhibiting a response). 
+Moreover, the subgroup with low baseline HRV performed signiﬁcantly
+worse on the task compared to the high baseline HRV subgroup when
+confronted with these negative valence highly arousing pictures
+(Krypotos Name, 2011).  This suggests that if one’s baseline HRV is low,
+being confronted with negative emotions will lead to more prepotent
+response inhibition diﬃculties.  Perhaps the inconsistencies in ﬁndings
+between studies on prepotent response inhibition in the ASD population
+(Geurts Name, 2014; Kuiper Name, 2016) can be explained by the existence of diﬀerent subgroups that are characterized by diﬀerent baseline HRV levels.  Speciﬁcally, it is plausible that there is a subgroup
+within the ASD population that is characterized by low baseline HRV. 
+Negative valence highly arousing stimuli would lead to even more inhibitory control diﬃculties in this subgroup. 
+The aim of the present study was threefold.  First, we aimed to examine whether low versus high baseline HRV inﬂuenced prepotent
+response inhibition in adults with ASD.  Second, we aimed to examine
+whether this possible inﬂuence of low versus high baseline HRV might
+be diﬀerent for adults with ASD compared to TD adults.  Third, we
+aimed to examine whether adding negative valence highly arousing
+stimuli would aﬀect inhibitory control diﬀerently for people with and
+without ASD as well as for subgroups with diﬀerent baseline HRV levels.  In line with previous relevant studies (e. g. , Krypotos Name 2011),
+we were divided the ASD and TD group into subgroups based on
+baseline HRV using a median split.  The inhibition task consisted of two
+conditions: a neutral condition and a condition with a negative aﬀective
+manipulation.  In addition to Krypotos Name (2011), we examined both
+subjectively and physiologically whether the negative aﬀective manipulation was eﬀective as well as whether the physiological response
+to the two conditions diﬀered between the subgroups.  Regarding inhibitory control diﬃculties, we hypothesized that people with ASD with
+M. W. M.  Kuiper Name
+low baseline HRV levels would have signiﬁcantly more inhibitory
+control diﬃculties compared to people with ASD with high baseline
+HRV levels and compared to TD people with low and high baseline
+HRV.  Additionally, we hypothesized that people with ASD with high
+baseline HRV levels would perform similarly to TD people with low
+baseline HRV levels.  Regarding the aﬀective manipulation, we hypothesized that the negative aﬀective manipulation would cause more
+inhibitory control diﬃculties compared to the neutral condition for
+people with ASD (both with low and high baseline HRV levels) as well
+as for TD people with low baseline HRV levels. 
+<Middle> Methods. 
+2. 1.  Participants
+Initially, 41 male adults with and 40 male adults without ASD with
+an age range of 18–45 years old were included in this study.  The participants with ASD were recruited at Dutch mental health care centers,
+specialized in ASD, and by means of advertisements on several websites
+of Dutch autism societies.  The TD adults were recruited via the personal
+network of the researchers and students involved in this project as well
+as via advertisements, social media and the local community.  All participants were Dutch citizens and 77 participants were of Caucasian
+descent.  We focused solely on males as some studies showed that
+women react physiologically stronger to adverse International Aﬀective
+Pictures System (IAPS; Lang, Bradley, & Cuthbert, 2005) pictures compared to men (e. g. , Bradley, Codispoti, Cuthbert, & Lang, 2001;
+Gard & Kring, 2007).  Moreover, ASD is thought to be more common in
+men than in woman (estimated ratio is 4:1; Fombonne, 2003, 2009).  In
+order to enhance feasibility, only males were included in this study. Dutch
+version: Hoekstra,
+All ASD adults had a clinical ASD diagnosis according to the criteria
+of the Diagnostic Statistical Manual of Mental Disorders IV (DSM-IV;
+American Psychiatric Association, 2000) prior to inclusion.  All were
+diagnosed by clinicians specialized in ASD.  This clinical diagnosis was
+veriﬁed using the Social Responsiveness Scale-AdultsConstantino & Gruber, 2005; Dutch version: De la Marche Name, 2009)
+and the Autism Quotient (AQ; Baron-Cohen, Wheelwright, Skinner,
+Martin, & Clubley,
+Bartels,
+Cath & Boomsma, 2008).  Adults with ASD were included in the study if
+they scored above the cut-oﬀ of 54 on the SRS-A or above 26 on the AQ. 
+The autism diagnostic observation schedule (ADOS) 2, module 4 (Lord
+Name, 2012), was administered to be able to give a more detailed description of ASD characteristics of the included ASD participants (see
+Table 1).  The new algorithm, by Hus and Lord (2014), was used.  In this
+algorithm a total score ≥ 8 classiﬁes as ASD and a total score ≥ 10
+classiﬁes as autism.  TD adults were included if the following criteria
+were met: 1) a score below the cut-oﬀ of 54 on the SRS-A and below the
+cut-oﬀ of 26 on the AQ; 2) no developmental disorders or any other
+psychiatric disorder; and 3) not having any immediate family with ASD. 
+All participants needed to be free of any form of heart disease, lung
+disease or beta-blocker medication and were asked not to drink any
+coﬀee on the day of the test-session, as these variables could all inﬂuence the physiological data.  Almost half of the ASD participants
+(n = 19) had, either in the past or currently, one or more of the following psychiatric diagnoses: AD(H)D (n = 3), Anxiety disorder
+(n = 4), Bipolar Disorder (n = 1), Depression (n = 8), Eating Disorder
+(n = 1), Gilles de la Tourette (n = 1), Obsessive Compulsive Disorder
+(n = 3), Personality Disorder (NOS) (n = 5) and Post Traumatic Stress
+Syndrome (n = 3).  Half of the ASD participants (n = 20) used one orthe following psychotropic medications: antidepressants
+(n = 13), antipsychotics (n = 8), benzodiazepines (n = 1),(n = 1), narcoleptic medication (n = 1), anti-epileptic medication
+(n = 2) and sleep medication (n = 2).  None of the TD group participants used psychotropic medication.  One participant with ASD had a
+physical condition called “hemiparesis” and another participant with
+ASD had epilepsy.  One TD participant had a physical condition called
+Biological Psychology 128 (2017) 141–152
+“hemophilia”.  These participants did not diﬀer in their mean response
+times on the experimental task when compared to the other participants.  Nor were these participants outliers on the physiological measures.  All participants needed to have an estimated total intelligence
+quotient (TIQ) above 70 on the Wechsler Adult Intelligence Scale – IV
+(WAIS-IV; Wechsler, 2012).  We estimated the overall TIQ by using two
+subtests, Vocabulary and Matrix Reasoning, of the WAIS-IV (Uterwijk,
+2000).  Two participants (one ASD; one TD) had an estimated TIQ of 69
+(range 65–75).  However, given their education levels (community
+college and higher education), we did not exclude their data from the
+analyses.  One participant with ASD, who had an estimated TIQ of 66,
+was excluded as this was in line with the reported low educationalTo be included in the analyses, participants needed to inhibit between 40% and 60% (a. k. a.  P(inhibit) = 0. 4–0. 6) of the stop-trials to be
+able to calculate a reliable stop signal reaction time (SSRT) (van den
+Wildenberg, van Boxtel, & van der Molen, 2003).  The SSRT is the inhibitory control outcome measure (for more information on the task or
+SSRT, see below).  Nine participants with a P(inhibit) below or above
+0. 4–0. 6 were matched with a participant from the other group with a
+similar P(inhibit).  Only when this matching was impossible, was the
+participant excluded from further analyses.  This resulted in excluding 9
+ASD participants.  Next, outliers in the baseline HRV data were determined.  Outliers were deﬁned as data points more than three times
+the interquartile range above or below the ﬁrst quartile.  This resulted in
+the exclusion of one TD participant based on baseline RSA (> 3 SD). 
+Then, subgroups were created, following Krypotos Name (2011), by
+means of a median split.  This was done separately for both HRV measures (RMSSD; RSA), which resulted in the following groups: low ASD;
+high ASD; low TD and high TD ASD.  For descriptive information on
+these subgroups see Table 1. 
+Taken together, 31 ASD and 39 TD participants were included in the
+analyses.  The baseline RMSSD median split resulted in a low (n = 16)
+and high (n = 15) RMSSD subgroup in the ASD group (median: 24. 5;
+SD: 16. 9) and a low (n = 20) and high (n = 19) RMSSD subgroup in
+the TD group (median: 31. 7; SD: 17. 5).  The baseline RSA median split
+resulted in a low (n = 15) and high (n = 16) RSA subgroup in the ASD
+group (median: 5. 9; SD: 1. 1) and a low (n = 20) and high (n = 19)
+subgroup in the TD group (median: 6. 2; SD: 0. 81). 
+Written informed consent was given by all participants.  This study
+the University of
+was approved by the Ethics Review Board of
+Amsterdam (2014-BC-3773). 
+2. 2.  Experimental task
+Prepotent response inhibition was measured with an emotional stop
+signal task (Krypotos Name, 2011; Logan, 1994; Verbruggen & De
+Houwer, 2007).  In addition to Krypotos Name (2011), who solely
+measured HRV during baseline, we also examined HRV during the stop
+signal task.  Therefore, we had to make some adjustments to the task to
+be able to make reliable calculations of HRV (Task Force, 1996).  The
+adjusted emotional stop signal task (see Fig.  1) consisted of 380 trials,
+divided into a practice block (20 trials) and 10 experimental blocks (36
+trials each).  In a go-trial, the participant was shown a black ﬁxation
+cross on a white background that remained on the screen for
+500–2000 ms (mean = 1250 ms; steps of 500 ms), which was followed
+by a neutral or negative valence highly arousing picture.  This picture
+was presented for 500 ms.  Next, the go-stimulus (a black arrow) was
+presented for 200 ms.  Participants were instructed to respond as fast
+and as accurately as possible to the arrows by pressing a right key (the
+“L” on the keyboard of the laptop, marked with a green dot) when the
+arrow pointed to the right and pressing a left key (the “A” on the
+keyboard of the laptop, marked with a red dot) when the arrow pointed
+to the left.  In stop-trials (30% of all trials), a stop signal (an auditory
+tone) was presented and participants needed to withhold their response
+and not press any buttons.  The stop signal delay (SSD) between the go143
+M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152pelvDhiAR0=(ToAR9=(ShiAR6=(SwLS)1n2ƞ9=(0=(5=(6=(uapTgHSMDwLSMDAgHSMDAoDSRpogu. nsrpodaenmorpstsvticepogu1la20505070101030–0. 0. –0. 0. *00. 3. *00. *00. 60302090–*0. )6(551)5. 72)1()5. 2155–)5()4()4. 1(4338. 0195. )4(8. 9. 25. 51. 9–1(. 0–––0. 96)7. 272(. 8. 7(1(6. 3)9. 6(. 7. 07000**0090)6. 36)8. 07)3. 1(0. 100305080––. 11. 70. 6(13. 82. 3(3338. )7(0610(03. )9(6(02. 5870605070)8(0. 30–*00. 2. *00. *00. *10)1(1–1. 4. )1(1–6. 2. . 31. 518(. 7. 61)5. 7172)6(7()4. )4(23196192)6(50)5. 32)4(3(. 1. 7. 71. 016(. 4. 11)6. 7339sayeAIQAR. 3(875(. 99()1. 8. 11(02)0. 3. 4(. 8)4. 9)3. 0(3. 1)0. 3. 1(92)o(SM)s(IARHHnlsBeiprsDReieaA)dm(SD. 4o(SDltt)dm2OAR)o(RSlrun)o(RSeiae(litGR)ate(litGR)vtgnTS1441(22. 1(3. )002)0. 3. )042)0. 3. 1(22)0. 3. –10. 3. 1(12)0. 3. 1(5220. 81(165)61. 56. 79. 33. 93(0950. 6. )51. 34. 23(695)11. 35. 33(5050. )01. 54. 83(495)4(165)71. 30. 62(285)21. 48. 49. 28. 43(545–4. 7. tetuenglenlttQTgioeelcptD;tuA;stagsosaotm=SEtetumiu=AsersdutesstaDAriaeeiieedtite=R;cﬀlio=Seosao4ldm2euecniarsoisnadsta). o(SDeo,udmi0. lasi0(srustlirp2ƞsnpctafrbu=;enrﬀdvsecsorusamorDSRsneinicene=R;erfnrglglyiiarvtrre=R;trre=Hlcseeinpelio=SSamthrsnsrtrpe=S;erli1. . 00p*. 10p*. 0≤*
+M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+slowing down their go-response in order to inhibit their response more
+easily.  So, the SSD ensures that the stop signal is presented depending
+on a participant’s success to inhibit a response while at the same time
+ensuring that the percentage of inhibited trials is 50% for all participants.  Due to this tracking mechanism, the sum of the SSRT and the SSD
+will equal the mean go-reaction time.  Therefore, the SSRT can be calculated by subtracting the SSD from the mean go-reaction time (Logan
+Name, 1997).  A higher SSRT indicates more prepotent response inhibition diﬃculties. 
+The adjusted emotional stop signal task was programmed, using the
+software package Presentation (Neurobehavioural Systems,Version 17. 2), by the technical support team of the University of
+Amsterdam.  The program ran on a Dell laptop (Latitude E5510, 15. 6″,
+1366 × 768, Intel Core i5 Dual-core) using Windows 7. 
+2. 3.  Physiological measures
+An electrocardiogram (ECG) and three Ag/AgCl electrodes (3 M Red
+Dot Electrodes), in Lead II conﬁguration, were used to measure HRV,
+which was analyzed in both a time and frequency domain.  HR was also
+recorded as this data is used for the calculation of HRV.  The HR data is
+reported in Tables 1 and 2B.  The ECG signal was recorded and analyzed
+by the Versatile Stimulus Response Registration Program (VSRRP98;
+version 9. 2 and 10. 1 respectively), which is software developed by the
+University of Amsterdam.  It has a sampling rate of 1000 S/s.  The
+VSRRP98 has been used in several other published articles (e. g. ,
+Krypotos Name, 2011; van Well, Visser, Scholte & Kindt, 2012).  All recordings were automatically ﬁltered for artifacts, but were also manually checked to adjust for any missed artifacts or R-tops. 
+Following Krypotos Name (2011) as well as the recent ASD literature
+on HRV, we included both a time (RMSSD) and frequency (RSA) domain measure of HRV.  HRV was measured at baseline and continuously
+during the experimental task.  Baseline RMSSD and RSA were calculated
+based on the last 5 min of the 10 min baseline period.  During the experimental task, RMSSD and RSA were calculated based on the ﬁrst
+2 min of each block, which is in line with the guidelines of the Task
+Force (1996) for short-term recordings. 
+The root mean square diﬀerence of successive R–R intervals
+(RMSSD) is a common and reliable time domain measure of HRV (Task
+Force of The European Society of Cardiology and The North American
+Society of Pacing and Electrophysiology, 1996) and is suggested to
+predominantly reﬂect cardiac vagal control (Bernston Name, 2005;
+Kleiger Name, 1991; Stein Name, 1994).  The frequency domain measure
+used in this study is respiratory sinus arrhythmia (RSA), quantiﬁed
+according to the “Porges Method” (Porges Name, 2013): ﬁrst, an ECG
+scoring algorithm applies a peak-ﬁlter (Fc = 17 Hz, Q = 2, Matlab
+iirpeak ﬁlter) to the raw ECG signal to isolate the r-tops.  A peak-search
+algorithm, based on the ﬁrst derivative of the signal, is combined with
+an adaptive IBI estimation method, which are then applied to detect the
+r-tops.  This results in an IBI array, which is then resampled into a 4
+samples per second time-based IBI array and detrended using a 51-point
+moving average ﬁlter.  Next, a band-pass ﬁlter (between 0. 12 and
+1. 0 Hz; 8th Butterworth) is applied to the detrended signal.  The ﬁnal
+step is that RSA (ln(ms2)) is calculated by dividing this ﬁltered signal
+into intervals and applying a natural logarithm of the variance.  To make
+sure every participant’s respiration fell within the band-pass of
+0. 12–1. 0 Hz, respiration was measured using a Braebon ValueLine Effort Belt (or the 5-Foot double buckle Eﬀort Belt).  It was recorded and
+analyzed with the VSRRP98 program. 
+2. 4.  Subjective ratings of IAPS pictures
+After the emotional stop signal task, participants rated each of the
+140 IAPS pictures, in order to determine whether the aﬀective manipulation was successful.  Ratings were given on both valence and arousal,
+using the same two questions as the self-assessment manikin procedure
+Fig.  1.  The Emotional Stop Signal Task.  This schematic representation of a stop-trial
+starts with the presentation of a ﬁxation cross, which is followed by either a neutral or
+negative IAPS picture.  Then an arrow (the go-stimulus) is presented to which participants
+need to respond.  In 30% of the trials, an auditory signal is given, indicating a stop-trial. 
+The go-trials end after the presentation of the arrow. 
+stimulus (the arrow) and the stop-signal (the tone) was dynamically
+adjusted to target a percentage of 50% successfully inhibited stop-trials
+by each participant (a. k. a.  P(inhibit) of 0. 5).  This was realized by increasing the SSD with 25 ms when a participant successfully inhibited
+their response and decreasing the SSD with 25 ms when a participant
+failed to inhibit their response on a stop-trial.  The initial SSD was
+250 ms.  The SSD was adjusted separately for the neutral and negative
+aﬀective manipulation condition. 
+The task consists of a neutral and a negative aﬀective manipulation
+condition, created by the presentation of neutral or negative stimuli. 
+The negative stimuli were included as an aﬀective manipulation, which
+was assumed to negatively inﬂuence HRV and, therefore, might inﬂuence performance more than the neutral condition (Krypotos Name,
+2011).  The stimuli were neutral valence low arousing pictures and
+negative valence highly arousing pictures from the International Affective Picture System (IAPS; Lang Name, 2005).  In the study of
+Krypotos Name (2011) some of the neutral pictures were rated as positive and some of the negative pictures were rated as neutral.  To avoid
+this, we selected a subsample of the included IAPS pictures from the
+study of Krypotos Name (2011), containing the 60 most highly arousing
+and most negative valence pictures for the negative condition and the
+60 most neutral valence and less arousing pictures for the neutral
+condition.  We selected another 20 neutral pictures for the practice
+block.  The pictures (500 pixels wide and 700 pixels high) were shown
+on a white background and each picture was shown three times.  There
+were ﬁve neutral and ﬁve negative blocks in this task.  The sequence of
+the blocks (negative vs neutral) and which pictures were included in
+each block were randomized for each participant.  Whether the trial was
+a go- or stop-trial was semi-randomized.  This means that it was prevented that all the stop-trials would be presented after each other as this
+would lead to a non-reliable measure of prepotent response inhibition. 
+The stop signal reaction time (SSRT) was used as the outcome measure
+However, this measure cannot be directly observed, and needs to be
+calculated.  The SSRT is the estimated time it takes for a participant to
+inhibit a response (Logan, Schachar, & Tannock, 1997).  The calculation
+of the SSRT depends on two observable measures, namely the go-reaction time and the stop signal delay (SSD).  Both are expressed in
+milliseconds (ms).  Due to the dynamically adjusting SSD, participants
+will inhibit an average of 50% of the trials.  The SSD increases when a
+participant inhibits a response correctly and decreases when a participant does not inhibit a response when the stop signal was given.  The
+SSD will ensure that participants cannot successfully use a strategy ofM. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+(SAM; Lang Name, 2005; Bradley & Lang, 1994; see also Krypotos Name,
+2011).  Each picture was shown again for 500 ms, followed by two
+questions.  The ﬁrst question regarded valence: “How happy/not happy
+did you feel when you saw that picture?”.  Participants were asked to
+rate this between 1 (not happy) and 9 (very happy).  The second question regarded arousal: “How excited/calm did you feel when you saw
+that picture?”.  Again, participants rated this from 1 (very calm) to 9
+(highly stressed). 
+2. 5.  Procedure
+Before inclusion, participants ﬁlled out the SRS-A and AQ as well as
+some general questions, which determined whether they met the ﬁrst
+series of inclusion criteria.  Before and three months after the test-session, participants ﬁlled out four other questionnaires at home for a
+related ongoing study for which data-collection is still in progress.  The
+results of these questionnaires will not be reported in the current paper. 
+At the test-session, participants were seated in a comfortable chair
+and were given a short explanation of the outline of the session.  This
+was followed by the placement of three electrodes on the chest of the
+participant.  The reference (ground) electrode was placed below the left
+clavicle, one electrode was placed below the right clavicle and one
+electrode was placed on the left side of the chest on the ribs.  The respiration belt was placed around the chest, just the below the ribs.  The
+participant was asked to sit calmly in the chair, so the ECG and respiration signal could be tested.  Next, the participant was asked to
+move around, while watching the signal.  This information was used to
+illustrate to the participant that the signal is vulnerable to movement
+and that it was important to sit as quietly and calmly as possible during
+the 10 min baseline period during which participants read a book or
+magazine. 
+After the baseline, the emotional stop signal task was administered. 
+Before starting the program, the participant received instructions regarding the task.  During the practice block and after block 1, 3, 5, 7 and
+9, the participant was encouraged by the examiner to respond as fast
+and as accurately as possible to the arrows on the screen.  At the end of
+the emotional stop signal task, the participants rated every picture on
+valence and arousal. 
+Finally, the ADOS (for ASD participants) and the subtests of the
+WAIS-IV were administered.  At the end of the study protocol, participants received information and debrieﬁng on the negative pictures that
+were used in the task.  They received 10 euros for participating and up
+to 20 euros for travel expenses.  After the full study was completed, all
+participants received the overall results of the study. 
+2. 6.  Statistical analyses
+Before starting this study, we performed a power analysis, using the
+program G*Power (Faul, Erdfelder, Buchner, & Lang, 2009), to analyze
+how many participants were needed.  We based the power analysis on
+an ANOVA (repeated measures, within-between interaction).  For the
+eﬀect size, we based this on “the type of trial*cardiac vagal response”
+interaction of the Krypotos Name study (2011).  This eﬀect size was
+2 = 0. 115).  However, as we were also interested in
+medium-large (Np
+additional interactions, we used a smaller eﬀect size, namely the lowest
+bound of a medium eﬀect size.  This means that we entered in G*Power
+an eﬀect size f = 0. 25, α = 0. 05, Power was 0. 8 (β = 0. 20), number of
+groups = 4, number of measurements = 2 and the correlation between
+the repeated measures was set at 0. 3.  This showed that the expected
+total sample size of our study needed to be 68.  Moreover, we assumed
+to encounter approximately three drop-outs per subgroup (n = 12). 
+This implies that we needed a total sample size of 80 participants (20
+participants per subgroup).  In our study, we included 81 participants
+and our analyses are based on a total sample of 70 participants, which is
+enough based on our power analysis (n = 68). 
+The main analyses can be divided into two stages, but before thosetwo stages the variables age, SRS-A, AQ, TIQ, baseline RMSSD, baseline
+RSA, baseline HR, neutral SSRT and negative SSRT were checked onthey were normally distributed among the subgroups. 
+Skewness and kurtosis scores were calculated and then transformed into
+z-scores (Field, 2009).  This analysis showed that the SSRT of the neutral
+condition and baseline RMSSD were not normally distributed.  After a
+log-transformation (Field, 2009), the neutral SSRT and baseline RMSSD
+were normally distributed within all subgroups.  To be able to compare
+the scores of the negative SSRT to the neutral SSRT, the negative SSRT
+was also log-transformed.  Afterwards, we examined with two one-way
+ANOVAs (separately for RMSSD and RSA subgroups) whether age, TIQ,
+SRS-A, AQ, baseline HR and baseline RMSSD or baseline RSA diﬀered
+between the subgroups.  Then the two analyses stages followed. 
+The ﬁrst stage regarded the ‘manipulation check’, which was performed to determine whether the negative aﬀective manipulation
+condition was, as intended, subjectively and objectively experienced as
+more negative and more arousing.  This was done in three steps: 1) did
+the subgroups physiologically respond to both conditions? To determine whether HRV (RMSSD or RSA) changed from baseline to the
+neutral or negative condition for each subgroup (RMSSD/RSA), paired
+t-tests were done comparing baseline HRV with HRV during the conditions.  The same paired t-tests were done with the HR data to get more
+insight into the physiological responses to the conditions; 2) did the
+subgroups have diﬀerent (mean) HRV during the negative aﬀective
+manipulation condition than during the neutral condition? This was
+examined by running two mixed ANOVA, with ‘HRV during the task’
+(neutral, negative) as within subject factor and ‘subgroup’ (for both
+RMSSD and RSA subgroups) as between subject.  The RMSSD analyses
+used a log transformed mean ‘RMSSD during the task’ as it was not
+normally distributed within each subgroup; and ﬁnally, step 3) did the
+subgroups (RMSSD/RSA) subjectively rate the negative aﬀective manipulation condition as more negative and more arousing? This was
+done by performing two mixed ANOVA’s (RMSSD/RSA) with ‘valence’
+(neutral, negative) and ‘arousal’ (neutral, negative) respectively, as
+within subject factor and ‘subgroup’ as between subject factor. 
+The second stage included the analyses to address our main questions.  We performed two mixed ANOVAs (separately for RMSSD and
+RSA subgroups) to examine the eﬀect of baseline HRV (low vs.  high
+baseline RMSSD/RSA) on prepotent response inhibition (neutral vs. 
+negative condition).  In both mixed ANOVAs, ‘subgroup’ was the between subject factor and ‘condition type’ the within subject factor.  Both
+analyses were repeated with medication as covariate to determine
+whether medication-use aﬀected the main ﬁndings.  Only when the
+main pattern of ﬁndings was altered will the results be discussed.  To
+examine our hypothesis that the high HRV ASD subgroup did not diﬀer
+from the low HRV TD subgroup on both inhibition conditions, we additionally performed a Bayesian t-test to provide more insight into
+whether there is more evidence for this “null” hypothesis compared to
+the alternative hypothesis.  We used the program JASP (JASP Team,
+2017; Love Name, 2015; Morey, Rouder, Jamil, & Morey, 2015) to run
+the Bayesian t-test.  We used the default setting (0. 707) for the prior
+width setting.  We will report the Bayesian Factor 01 (BF01), which
+represents the likelihood that the “null” hypothesis is true relative to
+the alternative hypothesis, given the data.  These Bayesian analyses
+were done separately for the RSA and RMSSD subgroups and separately
+for the negative and neutral condition. 
+Overall, when signiﬁcant diﬀerences were found, post hoc analyses
+using Sidak Corrections for multiple comparisons were used to further
+explore the relationships (Field, 2009).  Also, we used the program
+StatCheck (Epskamp & Nuijten, 2016) to check whether all our reported
+p-values are correctly reported. 
+M. W. M.  Kuiper Name
+3.  Results
+3. 1.  Subgroup descriptives
+See Table 1 for the subgroup descriptives and statistics.  Post hoc
+analyses showed that, only the low-RMSSD ASD group had a signiﬁcantly higher age than the high-RMSSD TD group (p = 0. 01) and
+the other subgroups did not diﬀer from each other on age (all
+p > 0. 05).  Also, as intended, the ASD subgroups scored signiﬁcantly
+higher on the AQ and SRS-A compared to the TD subgroups (all p <
+0. 001).  The low ASD subgroups had similar scores on the AQ and SRS-A
+as the high ASD subgroups (all p > 0. 91).  The low and high TD subgroups did also not diﬀer from each other on these questionnaires (all
+p > 0. 91).  Baseline HR did diﬀer between the RMSSD subgroups (see
+Table 1).  Post hoc analyses showed that the low-RMSSD ASD subgroup
+had signiﬁcantly higher HR compared to the high-RMSSD TD subgroup
+(p < 0. 001).  The low-RMSSD TD group had signiﬁcantly higher HR
+compared to the high-RMSSD TD subgroup (p < 0. 01) as well.  The
+other subgroup comparisons were non-signiﬁcant (p > 0. 08).  Baseline
+HR did not diﬀer between the RSA subgroups (see Table 1).  Baseline
+RMSSD was signiﬁcantly lower for the low-RMSSD ASD subgroup
+compared to the remaining three subgroups (all p < 0. 03).  The highRMSSD ASD subgroup had signiﬁcantly higher baseline RMSSD compared to the low-RMSSD TD subgroup (p < 0. 001), but not compared
+to the high-RMSSD TD group (p = 0. 28).  The high-RMSSD TD subgroup
+had also signiﬁcantly higher baseline RMSSD compared to the lowRMSSD TD subgroup (p < 0. 001).  Baseline RSA was signiﬁcantlythe low-RSA ASD compared to the high-RSA ASD
+(p < 0. 001) and high-RSA TD subgroup (p < 0. 001), but not compared to the low-RSA TD subgroup (p = 0. 11).  Also, there was no signiﬁcant diﬀerence between the high-RSA ASD and the high-RSA TD
+subgroup on baseline RSA (p = 0. 87). 3. 2.  Manipulation check
+3. 2. 1.  Do the
+manipulation?
+subgroups
+physiologically
+respond to the aﬀective
+The high HRV subgroups (both ASD/TD as well as RMSSD/RSA)
+showed no signiﬁcant diﬀerence in HRV from baseline in response to
+the neutral or negative condition of the emotional stop signal task (see
+Table 2A for descriptives and statistics).  The low-HRV TD subgroups
+showed a signiﬁcant increase in HRV in response to both the neutral
+and the negative condition.  The low-RMSSD ASD subgroup also showed
+an increase in HRV from baseline, but only to the negative condition. 
+The low-RSA ASD subgroup showed no signiﬁcant diﬀerence in HRV
+Table 2A
+Descriptives and Statistics of the HRV physiological response to the task. 
+Biological Psychology 128 (2017) 141–152
+from baseline to either condition. 
+Regarding HR, all subgroups (RMSSD/RSA) showed similar HR level
+at baseline and in response to either condition (see Table 2B for descriptives and statistics). 
+3. 2. 2.  Does HRV during the task diﬀer between subgroups and conditions?
+Diﬀerent levels of HRV were observed during the negative aﬀective
+manipulation condition compared to the neutral condition (see
+Table 2A for the descriptives).  More speciﬁc, independently of subgroup type, a signiﬁcant higher HRV was observed during the negative
+aﬀective manipulation condition compared to the neutral condition
+(see Fig.  2) in both the RSA (F (1,66) = 13. 7, p < 0. 001, ƞp
+2 = 0. 17)
+and RMSSD subgroups (F (3,66) = 18. 6, p < 0. 001, ƞp
+2 = 0. 22)
+No signiﬁcant interaction was found between RMSSD subgroups
+and RMSSD levels during the two conditions (F (3,66) = 1. 41,
+p = 0. 25, ƞp
+2 = 0. 06), which suggests that the eﬀect of baseline RMSSD
+on RMSSD during the task was similar in the neutral and negative affective manipulation condition.  There was neither a signiﬁcant interaction between the RSA subgroups and RSA during the task (F (3,66)
+= 1. 78, p = 0. 16, ƞp
+2 = 0. 08). 
+2 = 0. 52; RSA: F (3,66) = 20. 1, p < 0. 001, ƞp
+HRV levels during the task, independently of condition type, did
+(RMSSD: F (3,66) = 23. 9,
+also diﬀer between the subgroups
+p < 0. 001, ƞp
+2 = 0. 48). 
+Post hoc analyses showed that all the RMSSD subgroups signiﬁcantly
+diﬀered from each other (all p < 0. 02), except for the high-RMSSD
+ASD subgroup which did not signiﬁcantly diﬀer from the high-RMSSD
+TD subgroup (p = 0. 30).  All the RSA subgroups also signiﬁcantly differed from each other on their RSA levels during the task (all
+p < 0. 04), except for the low-RSA ASD subgroup which did not diﬀer
+from the low-RSA TD subgroup (p = 0. 13) and the high-RSA ASD
+subgroup did not signiﬁcantly diﬀer from the high-RSA TD subgroup
+(p = 0. 18). 
+3. 2. 3.  Do subgroups subjectively rate the negative condition as more
+negative?
+The subjective evaluation of the stimuli on valence and arousal of
+both the RMSSD and RSA subgroups was in line with the experimental
+setup, as the negative aﬀective manipulation condition was rated more
+negative and more arousing than the neutral condition (see Table 3 for
+the ratings and statistics).  The RMSSD subgroups did not diﬀer in their
+ratings of both valence and arousal.  Neither was there an interaction
+between the ratings and subgroups, suggesting similar evaluation from
+the four RMSSD subgroups on both valence and arousal of the negative
+aﬀective manipulation condition and neutral condition.  A slightly different picture emerged when focusing on the RSA subgroups as there
+Baseline (log)RMSSD orNeutral (log)RMSSD orNegative (log)RMSSD orttStatistics Baseline vs.  Neutral
+Baseline vs.  Negative
+RMSSD subgroups
+RSA subgroups
+Low-ASD (n = 16)
+High-ASD
+(n = 15)
+Low-TD (n = 20)
+High-TD (n = 19)
+Low-ASD (n = 15)
+High-ASD
+(n = 16)
+Low-TD (n = 19)
+High-TD (n = 20)
+1. 23 (. 2)
+1. 58 (. 2)
+1. 36 (. 1)
+1. 68 (. 1)
+5. 01 (. 8)
+6. 59 (. 6)
+5. 52 (. 5)
+6. 81 (. 5)
+1. 31 (. 1)
+1. 59 (. 2)
+1. 45 (. 1)
+1. 69 (. 2)
+5. 35 (. 6)
+6. 38 (. 8)
+5. 79 (. 6)
+6. 87 (. 5)
+1. 33 (. 1)
+1. 61 (. 2)
+1. 48 (. 1)
+1. 70 (. 2)
+5. 38 (. 6)
+6. 50 (. 8)
+5. 93 (. 6)
+6. 91 (. 5)−0. 34−0. 831. 20−. 610. 740. 420. 250. 55−0. 91−1. 240. 58−0. 890. 380. 230. 570. 39
+Note.  ASD = autism spectrum disorders; RMSSD = root mean square of successive diﬀerences; RSA = respiratory sinus arrhythmia. 
+* p ≤ 0. 05. 
+** p ≤ 0. 01. 
+*** p ≤ 0. 001. M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+Table 2B
+Descriptives and Statistics of the HR physiological response to the task. 
+Statistics Baseline vs.  Neutral
+Baseline vs.  Negative
+Baseline HR
+Neutral HR
+Negative HRp-value
+RMSSD subgroups
+RSA subgroups
+Low-ASD (n = 16)
+High-ASD (n = 15)
+Low-TD (n = 20)
+High-TD (n = 19)
+Low-ASD (n = 15)
+High-ASD (n = 16)
+Low-TD (n = 19)
+High-TD (n = 20)
+78. 15 (9. 4)
+70. 81 (7. 3)
+74. 04 (8. 6)
+65. 26 (6. 8)
+77. 21 (9. 8)
+72. 16 (7. 9)
+70. 37 (7. 1)
+69. 18 (10. 5)
+77. 70 (9. 2)
+71. 21 (7. 6)
+74. 09 (8. 4)
+66. 84 (7. 3)
+76. 35 (9. 2)
+72. 88 (8. 6)
+70. 64 (7. 6)
+70. 48 (9. 6)
+76. 02 (10. 5)
+71. 0 (7. 6)
+74. 04 (8. 6)
+65. 86 (6. 8)
+74. 76 (10. 4)
+72. 45 (8. 7)
+70. 10 (7. 3)
+69. 32 (9. 3)−0. 74−1. 90−1. 24−1. 520. 470. 070. 230. 151. 640. 781. 870. 33p-value0. 820. 400. 660. 87
+Note.  ASD = autism spectrum disorders; HR = heart rate. 
+Fig.  2.  HRV during the neutral and negative condition.  Left) mean RMSSD of the RMSSD subgroups
+during the two conditions; Right) mean RSA of the
+RSA subgroups during the two conditions.  The error
+bars represent the standard deviations. 
+was a signiﬁcant interaction between arousal and RSA subgroup, indicating diﬀerences in arousal-ratings per condition between the four
+subgroups.  Visual inspection of the data revealed that the high-RSA TD
+showed the largest arousal ratings of the negative aﬀective manipulation condition compared to the neutral condition. 
+3. 3.  The inﬂuence of baseline HRV on prepotent response inhibition
+See Table 1 for the (log) inhibition data per subgroup.  No signiﬁcant
+interaction was found between RMSSD subgroup and condition (F
+(3,66) = 1. 12, p = 0. 35; ƞp
+2 = 0. 05), nor between RSA subgroup and
+condition (F (3,66) = . 86, p = 0. 47; ƞp
+2 = 0. 04).  Hence, the eﬀect of
+baseline HRV on performance did not diﬀer between the neutral and
+negative aﬀective manipulation condition.  As expected (see Fig.  3), the
+overall SSRTs were higher in the negative aﬀective manipulation condition than in the neutral condition for both the RMSSD subgroups (F
+(1,66) = 5. 54, p = 0. 02; ƞp
+2 = 0. 08; see left panel) and RSA subgroups
+(F (1,66) = 5. 62, p = 0. 02; ƞp
+2 = 0. 08; see right panel). Subjective and objective manipulation check. 
+Condition RMSSD Low ASD
+Valence Neutral
+Negative
+Arousal Neutral
+Negative
+(n = 16)
+5. 28 (0. 9)
+3. 09 (1. 2)
+2. 48 (1. 2)
+4. 73 (1. 8)
+RMSSD High ASD
+(n = 14)
+RMSSD Low TD
+(n = 20)
+RMSSD High TD
+(n = 19)
+RSA Low ASD
+(n = 15)
+RSA High ASD
+(n = 16)
+RSA Low TD
+(n = 19)
+RSA High TD
+(n = 20)
+5. 62 (0. 8)
+3. 36 (1. 4)
+2. 80 (1. 3)
+5. 37 (1. 9)
+5. 63 (1. 1)
+3. 50 (1. 5)
+2. 04 (0. 9)
+4. 30 (1. 8)
+5. 40 (0. 5)
+2. 94 (0. 9)
+1. 5 (0. 5)
+4. 87 (2. 0)
+5. 43 (0. 8)
+3. 29 (1. 4)
+2. 51 (1. 4)
+4. 44 (2. 1)
+5. 46 (1. 0)
+3. 13 (1. 2)
+2. 76 (1. 1)
+5. 61 (1. 4)
+5. 48 (1. 0)
+3. 49 (1. 3)
+1. 95 (1. 0)
+4. 06 (1. 9)
+5. 55 (0. 8)
+2. 97 (1. 2)
+1. 58 (0. 6)
+5. 06 (1. 8)
+RMSSD subgroups
+RSA subgroupsArousalArousal
+Statistics Group1. 130. 27p-value0. 130. 0620. 080. 11
+Condition173. 55176. 22p-value0. 00***0. 00***20. 720. 73
+Group by Condition0. 200. 62p-value0. 110. 02*20. 090. 14
+Note.  A higher score on Arousal means more arousing; a lower score on Valence means a more negative valence.  ASD = autism spectrum disorders; RMSSD = root mean square of
+successive diﬀerences; RMSSD+ = root mean square of successive diﬀerences analysis of RMSSD during the task; RSA = respiratory sinus arrhythmia; RSA+ = respiratory sinus
+arrthymia analysis of RSA during the task. 
+* p ≤ 0. 05. 
+*** p ≤ 0. 00. M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+Fig.  3.  Mean SSRTs (ms) of both neutral and negative condition of the stop signal task.  Left) mean
+SSRTs of the RMSSD subgroups; Right) mean SSRTs
+of the RSA subgroups.  The error bars represent the
+standard deviations. 
+The question of whether low versus high baseline HRV inﬂuenced
+inhibition can be answered by the between subject analysis.  This analysis showed that independently of condition type, the RMSSD subgroups signiﬁcantly diﬀered from each other in performance on the
+emotional stop signal task (F (3,66) = 3. 08, p = 0. 03; ƞp
+2 = 0. 12).  Post
+hoc analyses revealed that the low-RMSSD ASD subgroup had signiﬁcantly higher SSRTs
+than the high-RMSSD ASD subgroup
+(p = 0. 03).  All other RMSSD subgroup comparisons were non-signiﬁcant (all p > 0. 23).  The between subject analysis of the RSA subgroups did not
+p = 0. 11;2 = 0. 09).  This means that, independent of condition type (neutral,
+negative), there are no signiﬁcant diﬀerences between the RSA subgroups in performance on the emotional stop signal task.  However, the
+eﬀect size of the RSA subgroups is medium to large and similar to the
+eﬀect size of the RMSSD subgroups, which suggests that both analyses
+show similar results.  These results, either from the RMSSD or RSA
+subgroup analyses, did not change when medication use was entered as
+covariate. 
+reach signiﬁcance
+(F(3,66) = 2. 

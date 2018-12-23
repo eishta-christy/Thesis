@@ -1,0 +1,297 @@
+
+The Transmission Network Expansion Planning Problem (TNEPP)
+is a classical problem in power electrical engineering and basically
+the problem consists in ﬁnding new transmission lines for an adequate operation over a planning horizon.  Traditionally, the problem
+was solved as a separate problem from the generation planning
+problem1, even though in the early days most electrical systems
+operated with a vertical structure and there was a central planner that somehow gave the conditions to coordinate the investment
+decisions in transmission and generation. 
+At the end of the 1970s competition was introduced in several
+electric utilities2.  In this competitive setting, no central planner is
+in charge of investments.  Instead, ﬁrst, generation companies decide
+their new capacity in function of their expected beneﬁts in the market. 
+Then, the transmission company decides the transmission capacity
+needed to transmit the energy from the new generators.  In mathematical terms, this interaction can be modeled by multilevel optimization
+problems.  In the specialized literature several multilevel models have
+been proposed.  an important remark is that the models implicitly assume that the opportunity cost of transmission capacity is
+determined by the price difference at the line endpoints 4. 
+This paper recognizes that the opportunity cost of transmission
+capacity not only depends on the difference of marginal costs at line
+endpoints, but also on the location of new generators.  Due to this,
+economic externalities arise when investment decisions are decentralized, so that the decentralized result does not lead to a Pareto
+optimal solution. 
+A good example of externalities in real power systems is the
+Peruvian case.  Before 2014, the Peruvian network consisted of two
+large areas (North and South) connected through a long transmission line (220 kV, 612 km).  The Southern area imports electricity
+from the North.  Moreover, the South has a large source of gas known
+as Camisea Gas and a gas pipeline was built in 2004 in order to
+deliver gas to the North.  After the entrance of the pipeline, many
+generation companies decided to invest in new capacity only in the
+North.  however, electricity demand in the South grew and no generation capacity was built there.  Due to this, a new transmission line
+(500 kV, 1000 km) between the North and South was placed in service in the year 2014.  Moreover, another line (500 kV, 1000 km)
+between the North and South is been constructed and will be placed
+in service by the year 2017.  Badly placed generators introduced
+negative externalities in the transmission planning.  Obviously, if
+generation companies had invested in the South, no transmission
+lines would have been needed. 
+In this context, we discuss how separating generation expansion
+from transmission planning can cause negative externalities to the
+transmission planning problem.  The organization of the paper is as
+follows.  in Section 2, we discuss how externalities can affect the
+TNEPP using a basic model.  in Section 3, we formulate a centralized
+multistage model for ﬁnding simultaneous optimal generation and
+transmission capacity.  The model is based on previous work of van
+der Weijde and Hobbs (2012) and O’Neill Name (2013).  The main purpose of the model is to show examples of externalities.  In Section 4,
+we present case studies for the 24-bus test system and the Peruvian
+system.  Finally, in Section 5 we present the conclusions of the article. 
+2.  A discussion about transmission capacity opportunity cost
+and externalities. 
+Some articles5 implicitly assume that the opportunity cost of
+transmission capacity is determined only by the price difference at
+the line endpoints.  That said, the work of the transmission company
+is reduced to ﬁnding the set of transmission lines that minimize the
+cost of investment added to the cost of operation, taking the future
+generation projects as an input.  The above does not take into account
+that relocating the future generators could have avoided the construction of additional lines.  This interdependence of transmission
+and generation capacity means that decisions in new transmission
+and generation capacity must be coordinated to achieve maximum
+total surplus. 
+To show our reasoning we use a two-bus system in which all the
+parameters are certain6.  Consider the example shown in Fig.  1, the
+generator at node A has a marginal cost cA = $4/MWh and the generator at node B has a marginal cost cB = $7/MWh.  Node B needs
+1000 MW to meet its demand for a period of t = 105 h, this demand
+can be supplied either from a new line or a new generator.  Consider
+that 1000 MW of transmission capacity can be built with an investment cost of a = $1 × 106.  Also, 1000 MW of generation capacity
+can be built at node B with an investment cost of b = $200 × 106
+and a marginal cost of cC = $3/MWh.  Let us ﬁnd the Pareto optimal
+solution. 
+The demand is modeled as depicted in Fig.  2.  in which electricity demand d is constant (inelastic) until the price reaches a
+certain value called the Value of Lost Load (VOLL).  Above the VOLL
+the consumers are not willing to pay and a load curtailment r must
+be considered.  This is an acceptable approximation for real-world
+electricity demand7. 
+The total surplus in the model is given by the area below the
+demand considering a t number of hours of operation minus the
+operation cost OC of running the generators and the investment cost
+IC of building new capacity in the electrical system. 
+Surplus = voll •(d − r)t − (OC + IC)The power ﬂow of the line is given by fAB (from A to B), power produced by generators A, B and C are given by gA, gB and gC respectively. 
+Then, at each node the sum of power ﬂows must be zero. 
+Node B.  d − r = gB + gC + fABWe represent the investment decision in the transmission line
+with a binary variable y, with investment cost a.  While the decision
+variable for investing in a generator is represented with the binary
+variable w, with investment cost b. 
+Note that gB and fab can be zero depending on the binary variables. 
+For the candidate generators we relate their production with their
+capacity limits multiplied by the binary variable w, if the generator
+is not built its production is zero. 
+The same reasoning is made for the transmission line, if the line
+is not built then power ﬂow is zero. 
+Let us simplify the objective function of the model.  Since d is
+a parameter for the problem it can be neglected from the objective function without changing the result.  Also, the maximization
+problem can be expressed as a minimization of the negative of the
+objective function.  Then, the objective function can be rewritten as
+follows. 
+The operation cost is given by the production of each generator
+multiplied by its respective marginal cost. 
+The investment cost is given by the investment cost in the transmission line plus the investment cost in the generator multiplied by
+their respective binary variables. 
+Finally, gathering the objective function with the restrictions we
+have the following optimization problem. 
+The time horizon is divided into a set of stages or years, YT. 
+each stage has an annual duration curve.  The investments in new
+transmission and generation capacity are made at the beginning of
+each stage and then the network operates with this new stock of
+equipment until the next stage (Fig.  3). 
+The variables of the problem are gA, gB, gC, fAB, w and y.  For this
+small electrical system, we simply compute with a spreadsheet the
+overall cost for each option considering dispatch of the generators in
+order of marginal cost.  The results are shown in Table 1. 
+Now, for the same problem consider that the investment cost in
+the new generator is reduced to $100 × 106, the new results are
+shown in Table 2. 
+It can be seen that the solution (investments) change from one
+case to another even if the marginal costs do not change.  Also, we
+see that it is always useful to compare the cost of a new line with the
+cost of a new local generator.  For large systems, this is equivalent to
+minimizing the investment costs in transmission and generation in
+the same problem. 
+In a decentralized market, generation companies make their
+investment decisions in generation capacity without taking into
+account the transmission investment cost nor the possible load
+curtailment.  After this, the transmission company makes its investments.  As a result of the process, the generation investment
+level introduces negative externalities to the transmission planning
+problem. 
+<Middle> A model for simultaneous optimal planning of transmission
+and generation capacity. 
+We formulate a centralized multistage stochastic model that ﬁnds
+the Pareto optimal solution for a considered planning horizon using
+a DC formulation of network ﬂows, the model is based in the work of
+van der Weijde and Hobbs (2012) and O’Neill Name (2013)8.  In Table 3
+we present the notation used. 
+For each year, the annual duration curve (Fig.  4) is decomposed
+in a set of discrete blocks of demand YU, in where the width of each
+block is the associated number of hours tu and the height of the block
+represents the inelastic part of the curve demand depicted in Fig.  2. 
+We consider future demand as uncertain9, for each block of
+demand a number of scenarios could be possible,which is represented by the set of scenarios YS,where each scenario has a probability ps.  At this point we identify the recourse variables of the
+stochastic problem, which are the variables that change with the scenario.  All variables that are related to the operation of the network
+(production, power ﬂows of the lines, load curtailment, etc) are the
+recourse variables.  We will denote those variables with the s superscript.  Also, the investment variables do not depend on the scenarios
+since we have built the lines and generators before the realization of
+a particular scenario. 
+The model considers a set of nodes, YN, each node i ∈ YN has a
+i,u,t for the demand block u ∈ YU, for the stage t ∈ YT and
+demand ds
+for the scenario s ∈ YS.  Also, each node i ∈ YN has an angle, hsfor the demand block, u ∈ YU, stage t ∈ YT and scenario s ∈ YS.  We
+deﬁne a reference node (slack bus) so that hs
+The existing transmission lines are represented by the set YL,
+each line ij ∈ YL represents a line between nodes i and j.  Each line has
+a susceptance, bij, and a ﬁxed capacity, f max
+.  Each existing line ij has
+a power ﬂow f 0,s
+ij,u,t, for each demand block u, at staget for scenario s. 
+The existing generators are represented by the set YG.  Existing
+generators k ∈ G have a marginal cost, pk, and capacity, gmaxexisting generator produces power g0,s
+k,u,t, for each demand block u, at
+stage t for scenario s. 
+The transmission candidates are represented by the set YLnew .  For
+each candidate ij ∈ YLnew , a binary variable yij,t represents investment
+decisions at stage t ∈ YT with an investment cost cij.  Power ﬂows
+for candidate transmission lines ij are given by f s
+ij,u,t, for the demand
+block u, stage t and scenario s.  In some equations we will use the set
+Li, which denotes the subset of lines ij connected to the node i. 
+Generator candidates are represented by a set YGnew .  For each
+candidate k ∈ YGnew , a binary variable wk,t represents an investment
+decision at stage t ∈ YT with cost 4k, marginal cost of generation
+pk and capacity gmaxfor the demand block u, stage t and scenario s.  It is considered that
+the units’ lifetimes are longer than the planning horizon so we do
+not consider aging.  In some equations we will use the set YGi , that
+denotes the subset of generators connected to node i. 
+.  A candidate generator produces power, gsLet us derive the investment cost in transmission capacity IT. 
+Since the variable yij is the stock of lines at a particular stage, the
+investments at each stage is given by the difference of the stock of
+lines between the current stage and the previous stage, the cost for
+each line is given by the binary variable times the associated cost cij. 
+Similarly, the investment cost in generation capacity IG is the
+following. 
+Note that the operation cost is given by the production cost of
+the existing generators plus the production cost of new generators
+(if available) plus the cost of lost load.  For a particular scenario the
+operation cost OCs is the following. 
+Then the expected cost for the planning horizon is the following. 
+Then, the objective is to minimize the investment cost in transmission, generation and the expected cost of operation taking into
+account the cost of possible lost load, this approach is equivalent to
+the welfare maximization approach as shown in Section 2.  The objective function represents the present value of the investment cost in
+transmission and generation and the operation cost for the planning
+horizon. 
+The constraints are the following. 
+• Inter-temporal constraint to take into account that a generator
+built at stage t is available at stage t + 1
+wk,t−1 ≤ wk,t
+, k ∈ YGnew , t ∈ YT|t > 1• Inter-temporal constraint to take into account that a transmission line built at stage t is available at stage t + 1. 
+The following constraints are valid for all the scenarios s∀s ∈ YS,
+for all demand blocks ∀u ∈ YU and for all stages ∀t ∈ YT. 
+• Ohm’s law for existing transmission lines, the power ﬂow is
+proportional to the susceptance of the line. 
+• Ohm’s law for candidate transmission lines.  Notice that the
+Ohm’s law was linearized using the Fortuny-Amat representation with a parameter M = p10
+• Capacity limit for existing transmission lines. 
+(cid. 3)(cid. 3)(cid. 3)f 0,s
+• Capacity limit for candidate transmission lines. 
+(cid. 3)(cid. 3)(cid. 3)f s
+• Capacity limit of existing generators. 
+• Capacity limit for candidate generators. 
+• Reference angle for the network. 
+where g0,s
+k,u,t are nonnegative continuous variables and wk,t
+and yij,t are binary variables.  The model corresponds to a mixedinteger linear programming problem. 
+4.  Case studies. 
+The proposed model has been formulated in the AMPL modeling
+programming language and solved with CPLEX 12. 4. 6 solver.  For all
+the calculations we used a per unit system with base power of 100
+MVA.  It is important to mention that for the implementation of the
+model two separate sets were used for the existing and candidate
+equipment, this formulation gave us better computing performance
+(e. g.  the computational time reduced from hours to minutes for the
+Peruvian system) compared to the traditional modeling that considers that existing and candidate equipment are in the same set,
+this is mostly because usually candidate equipment for expansion is
+much less than the existing equipment. 
+4. 1.  IEEE 24-bus system. 
+The aim of this case study is to show how a decentralized outcome
+can have a greater total cost than a centralized solution.  The data
+for the system is presented in Tables 4–7.  The parameters n0Table 4 represents the number of existing lines for corridor i–j.  Only
+one candidates can be built for each corridor with the exception of
+corridors 15–21, 20–23, 7–8 and 3–24 in which we considered that
+two lines could be built.  For the sake of simplicity, we consider just
+one demand block with t = 8760 h.  We consider data for one stage
+that will repeat for ten years, so the number of hours is multiplied
+by 10.  Also, we consider two demand scenarios with probabilities
+ps=1 = 0. 7 andp s=2 = 0. 3. 
+First, we get the centralized solution with the model and then we
+get a decentralized outcome and we compare the results. 
+The results are shown in Tables 8–10.  For the centralized solution,
+the optimal generation expansion consists of two units at node 10.  In
+order to get a decentralized solution, a multilevel-level model could
+be formulated.  Instead, we take advantage of the symmetry of the
+problem.  all marginal costs of generators are the same and investors
+face the same ﬁxed costs for all the projects, since the marginal costs
+at all buses would be the same, a generation company wouldn’t care
+about the location of the new generators.  If we assume that proﬁts
+are higher than the opportunity costs for the investors, they would
+build any combination of available generation projects to meet the
+demand.  Then, we choose a possible decentralized equilibrium.  one
+unit at node 10 and one unit at node 15.  With this input, we compute the decentralized equilibrium ﬁxing the parameters wk,t in our
+model.  According to Table 10, there is a difference of $55× 106 in the
+total cost.  This result shows how a simultaneous optimal expansion
+in transmission and generation capacity would have saved around
+1. 3% of total cost. 
+4. 2.  The Peruvian system. 
+The aim of this case study is to show how externalities can arise in
+a real system and also how externalities arise even if the same central planner ﬁnds the optimal generation and transmission capacity
+not simultaneously but in separate problems. The data for the Peruvian system can be downloaded from http. //www. feis. unesp. br/#!/
+departamentos/engenharia-eletrica/pesquisas-e-projetos/lapsee/
+downloads/materiais-de-cursos1193/.  In Table 11, we show the
+candidate generation projects.  We consider a planning horizon of
+ﬁve years (2015–2020), each year has a number of hours t = 8760. 
+For the sake of simplicity, each stage has one discrete demand block
+and one scenario.  Finally, a discount factor of b = 0. 95 is used to
+update costs to their present values.  Similarly to the previous case
+study, we consider two situations.  in the ﬁrst situation we get the
+centralized expansion of generation and transmission capacity.  In
+the second situation we do the simulation in sequential fashion, in
+which a central planner decides the generation capacity ﬁrst and,
+then, the transmission company decides the transmission capacity. 
+The result for the second situation is obtained in two steps, in the
+ﬁrst step generation expansion is obtained using our model but
+dropping the constraint of the transmission line limits, then, in the
+second step, we ﬁx the variables wk,t obtained in the ﬁrst step and
+transmission expansion is calculated using this model. 
+Results are shown in Tables 12–14.  Although some of the generation investments are the same for both cases, the difference in cost
+from the centralized case to the decentralized case is $585. 9 × 106
+which represent around 10% savings.  In this system we show that,
+even if generation expansion is decided by the same central planner,
+when generation and transmission investment decisions are made
+separately, externalities arise and raise the costs. 
+<Conclusion> Conclusions. 
+In this paper we argue that opportunity costs of transmission
+and generation capacity are interdependent.  This interdependence
+is basically because of two factors.  ﬁrst, local generation can reduce
+new transmission lines and, second, new generation capacity could
+change marginal costs.  Therefore, when generation and transmission
+investment decisions are made separately, generation investments
+can introduce negative externalities to transmission planning.  The
+externalities can become an issue in real electric power systems
+where generation and transmission investments are decentralized
+and regulators should be aware of this situation.  In this regard,
+we mention the Peruvian case in which negative externalities are
+introduced in the transmission expansion problem raising the transmission investment cost.  Furthermore, we formulate a centralized
+stochastic multistage model for assessing investments in generation
+and transmission capacity.  The results of the model are presented for
+the IEEE 24-bus and Peruvian systems, showing some practical situations of externalities within the TNEPP.  For the Peruvian system, we
+found that optimal simultaneous planning of generation and transmission capacity could result in savings around 10% of the total cost. 
+Considering that the amounts of money associated are in the order
+of trillions, the savings are signiﬁcant.  Finally, we show that, even
+if generation expansion is decided by a central planner, when generation and transmission investment decisions are made separately,
+externalities arise and raise costs. 
+ <Ending>. 

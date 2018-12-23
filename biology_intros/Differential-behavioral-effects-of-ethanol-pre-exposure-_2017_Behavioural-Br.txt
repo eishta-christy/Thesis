@@ -1,0 +1,769 @@
+
+1. Introduction
+
+Conditioned Place Preference (CPP) measures drug reward, espe-
+cially the appetitive quality of a reward stimulus that drives the subject
+to seek out environmental cues previously paired with a rewarding
+substance. A baseline preference for each conditioned stimulus or CS
+(e.g. environmental context) in the absence of a paired unconditioned
+stimulus or US (e.g. drug) is determined prior to conditioning. For the
+conditioning trials that follow, the US is paired with the initially non-
+preferred CS, determined from a baseline preference assessment, ac-
+cording to a biased stimulus assignment procedure. After conditioning,
+a choice test is performed in which both previously conditioned con-
+texts are presented in the absence of the US, and the subject is un-
+restricted so that it may move between each CS [1]. CPP tasks also
+allow for locomotor behavior of the animal to be investigated in the
+presence of the rewarding stimulus (US) during conditioning when it is
+under the inﬂuence of the drug of interest, compared to behavior in the
+reward-paired context (CS), when the drug is not present [2,3].
+
+CPP is induced in rodents in response to various stimuli including:
+food, water, sweet ﬂuids, conspeciﬁc social stimuli, access to wheel-
+running, opportunities to copulate, novel objects, brain stimulation,
+and addictive drugs [1,4–8], including ethanol [9]. CPP induction in
+zebraﬁsh was ﬁrst reported in a study using cocaine as the US [10]. The
+number of stimuli evoking CPP in zebraﬁsh has increased extensively to
+also include food, morphine, amphetamine, ethanol, nicotine, and sal-
+vinorin A [11–16], all of which also induce CPP in rodents. CPP in
+zebraﬁsh is often induced by a single exposure/conditioning trial,
+though increasing the number of conditioning cycles potentiates this
+response in a drug-speciﬁc manner [14].
+
+A single exposure to ethanol induces dose-dependent CPP in zeb-
+raﬁsh at concentrations of 0.25%, 0.50%, and 1.00% [12]. CPP in
+zebraﬁsh is also reported in response to 1.50% ethanol [11,16]. Zeb-
+raﬁsh display an U-shaped dose response in locomotor activity when
+exposed to (0.00, 0.25, 0.50, or 1.00%) ethanol [17], while ethanol
+induces an inverted U-shaped temporal trajectory of locomotor activity
+(distance traveled) [18]. Similarly, adolescent rats receiving ethanol
+show divergent behavioral preferences for the same dose of ethanol and
+require increased ethanol doses, compared to adults, in order to induce
+CPP [19]. However, studies in mice indicate that pre-treatment with
+ethanol every 48 h for a week before conditioning does not alter CPP,
+but it does sensitize locomotor activation to ethanol [20]. These results
+suggest that long-term exposure to ethanol may have additional, po-
+tentially confounding eﬀects that impact CPP.
+
+Diminished predator avoidance occurs in control zebraﬁsh acutely
+treated with 0.50% ethanol or in ﬁsh chronically treated with 0.25%
+ethanol for 2 weeks and then acutely treated with 1.00% ethanol.
+Chronic 0.25% ethanol exposure also diminishes hyperactivity in zeb-
+raﬁsh receiving 0.25% or 0.50% acute ethanol treatment, which the
+authors suggest to be a consequence of neural adaptation due to sup-
+pression of reinforcing and anxiolytic eﬀects of ethanol by prolonged
+alcohol exposure [21]. Alcohol’s anxiolytic eﬀects have been demon-
+strated in zebraﬁsh in the form of diminished predator avoidance,
+startle reaction, inter-ﬁsh distance, and area occupied by a group of
+zebraﬁsh [11,21]. In this study, zebraﬁsh undergo a novel tank test
+(dive test) and shoaling test directly prior to ethanol CPP training, as
+have been used previously to assess trait anxiety in zebraﬁsh [18].
+
+Thus, rodents and zebraﬁsh pre-exposed to ethanol display altered
+locomotor and anxiety-like behavior at baseline along with altered
+behavioral responses to ethanol, suggesting neuroplastic changes. These
+underlying changes in ethanol tolerance may translate to implications
+of ethanol pre-exposure for ethanol-induced CPP. The purpose of this
+study was to observe the behavioral eﬀects of chronic exposure of
+zebraﬁsh juveniles/adolescents (starting at 20 dpf or 40 dpf) to a low
+dose of ethanol (1.50%) for 20-min daily treatments for one week. This
+treatment paradigm mimics the cycle of alcohol binge and withdrawal
+demonstrated in adolescent humans, and is likely to contribute to
+development of ethanol tolerance [22]. Upon reaching adulthood (at
+160–175 dpf), ﬁsh were then acutely exposed to ethanol in a single
+conditioning trail, after which the ability of ethanol to induce CPP was
+assessed. The purpose of this design was to determine if 1 week of daily
+20-min ethanol pre-exposure treatments in adolescence (20–40 dpf)
+aﬀects ethanol-induced change in percent time spent in an ethanol-
+paired context in male and female adult (160–175 day old) zebraﬁsh. In
+addition, recorded zebraﬁsh were examined to identify acute locomotor
+eﬀects of ethanol exposure in conditioning. Behavioral responses in the
+novel tank and shoaling test were assessed in adulthood prior to con-
+ditioning.
+
+<Middle> Materials and methods.
+2.1. Subjects.
+Adult, short-ﬁn wild-type zebraﬁsh (Danio rerio) were maintained in
+the lab on a 14 h light/10 h dark photoperiod at 28–29 °C in an Aquatic
+Habitats (AHAB) rack system. Each day, the ﬁsh were monitored and
+fed a mix of AP-100, TetraMin ﬂakes, and dried brine shrimp twice per
+day, and environmental parameters were measured. All experiments
+were approved by the Institutional Animal Care and Use Committee at
+American University.
+
+2.2. Pre-exposure and behavioral testing chambers
+
+A 24 well plate ﬁlled with 2.5 mL of 1.5% v/v ethanol/water was
+used to pre-expose ﬁsh starting at 20 dpf, and a small petri dish ﬁlled
+with a total volume of 20 mL of 1.50% v/v ethanol/water was used to
+pre-expose ﬁsh starting at 40 dpf. Distinct volumes were used to ac-
+count for diﬀerences in the size of ﬁsh at the two ages and so that they
+would have similar mobility capacities. Ethanol was purchased from
+Sigma.
+The novel tank used in this study was a clear Nalgene™
+Polycarbonate Narrow Mouth Square container, with the lid and top cut
+oﬀ to leave a square opening. This cut container had dimensions of
+90 mm x 90 mm x 140 mm (width x length x height) and was ﬁlled to
+108 mm (height) with 800 mL of water. For the shoaling test, the ex-
+perimental subject ﬁsh remained in the same tank used for the novel
+tank test. The shoal was presented by removing a paper divider between
+the novel tank and another tank of the same type and dimensions
+containing the shoal.
+
+The CPP chamber was covered with packing tape from the outside,
+with half covered in light tan tape and the other half covered in dark
+tan tape. The CPP chamber had dimensions of 120 mm x 215 mm x
+140 mm (width x length x height) and was ﬁlled to 90 mm (height)
+with 1.5 L of water during baseline and post-conditioning preference
+testing and control conditioning or 1.5 L of (0–1.75%) ethanol during
+ethanol conditioning. The CPP chamber was a commercially available
+ﬁsh tank (Aqueon) with dark blue plastic partitions placed in the center
+of the tank. This partition, covered in paraﬁlm to prevent ﬁsh from
+escaping around the edges, was used during conditioning trials to se-
+parate the light and dark sides of the chamber. During conditioning,
+ﬁsh were conﬁned to either the dark or light tan side of the tank, de-
+pending upon whether ﬁsh received ethanol or control conditioning on
+a given day. The plastic partitions were removed prior to the baseline
+preference assessment and prior to the post-conditioning preference
+assessment so that ﬁsh could freely swim between the dark and light
+halves of the tank. After each testing day, ﬁsh were removed from the
+chamber and individually contained in 150 mL of water in small
+(250 mL) opaque plastic beakers so that their identity was maintained
+throughout the CPP procedure and so that they could see other ﬁsh
+during this holding period.
+
+175
+
+C.L. Clayman et al.
+
+2.3. Procedures
+
+For ethanol pre-exposure, larvae (aged either 20 or 40 days post
+fertilization (dpf)) were removed from the AHAB system and immersed
+in 1.50% v/v ethanol/water in one well of a 24 well plate or in a petri
+dish. Ethanol pre-exposure consisted of daily 20-min treatments for 1
+week. Control treatments immersed ﬁsh of the same ages into the same
+volume of water to account for handling stress.
+
+Behavioral tests were performed on adult ﬁsh, aged 160–175 dpf,
+and included a novel tank test and shoaling test, to assess eﬀects of
+ethanol pre-exposure, and CPP. The novel tank test compared anxiety-
+like behavior of control and ethanol-pre-exposed zebraﬁsh 1 day before
+the start of the CPP procedure. To do this, ﬁsh were removed from their
+holding tank and placed in the center of the top of the novel tank. Fish
+were observed for 5 min, and their positions in the tank were recorded.
+The dependent measure was percent time spent in the lower third of a
+novel tank. The novel tank test was immediately followed by a shoaling
+test. The shoaling test measures the response to conspeciﬁcs and in-
+volves presenting a stimulus ﬁsh (or group of ﬁsh) in a tank adjacent to
+the experimental tank and measures the time spent on the half of the
+tank closer to the stimulus ﬁsh compared to the time spent on this tank
+half in the novel tank test.
+
+Next, ﬁsh were transferred to the CPP chamber so the baseline
+preference for either the light or dark side could be determined by
+tracking the time spent on each side of the tank. Once determined,
+conditioning was performed (days 1 and 2). Order of conditioning to
+either ethanol or water was counterbalanced over two total days of
+conditioning, with one CS1-US1 (ethanol) pairing on one conditioning
+day and one CS2-US2 (water) pairing on the other conditioning day.
+The following two-day procedure constituted one conditioning cycle.
+On one conditioning day, ﬁsh were exposed to either 0.00%, 1.00%,
+1.25%, 1.50%, 1.60%, or 1.75% v/v of ethanol dissolved in 1.5 L of
+water and restricted for 20 min to their non-preferred side. On the other
+conditioning day, ﬁsh were placed in 1.5 L of water and restricted to
+their initially preferred tank side for 20 min. Percent time on the in-
+itially non-preferred side (PTN) was then measured the next day (day 3
+or 16–30 h after the second conditioning session) as the percent pre-
+ference shift toward the initially non-preferred tank side when ﬁsh were
+allowed to freely swim in the testing chamber for 20 min.
+
+All responses from the ﬁsh were recorded with a video camera and
+analyzed by live-tracking. EthovisionXT® video tracking software
+(Noldus) was used to record all behavioral trials and then to quantify
+the change in ethanol-induced PTN by measuring time spent in each
+side of the chamber pre- and post-conditioning, locomotor behavior in
+each conditioning trial, and behavioral response in the novel tank and
+shoaling tests. Video recordings were scored with live-tracking by the
+same observer.
+
+Data were analyzed using SPSS version 24.0 (SPSS, Inc. 2016).
+Statistical analysis to determine the eﬀects of these diﬀerent parameters
+were separated into ﬁve diﬀerent comparisons (described below).
+
+2.4. Statistical analysis: ethanol-induced CPP (linear mixed model)
+
+We used a liner mixed model to determine the eﬀect of age of
+ethanol pre-exposure (20 dpf, 40 dpf), ethanol conditioning dose
+(0–1.75%), sex (male, female), and time ((5-min treatment increments
+during the 20 min post-conditioning preference assessment) on percent
+time on the non-preferred side (PTN) in the CPP paradigm. As
+EthovisionXT® allowed us to record locomotor activity, such as absolute
+angular velocity during ethanol and control conditioning, we also used
+a linear mixed model to assess changes in this parameter.
+
+Linear mixed models are the appropriate test here because they
+account for the inﬂuence of repeated measurements on individual
+subjects, as has been done in other studies of zebraﬁsh, which in-
+corporate random eﬀects, such as individual subject identity and family
+and tank in which ﬁsh are tested [23–28]. The linear mixed model
+design in this study controls for the within-subject eﬀects of the beha-
+vioral tasks by including a random intercept for subjects, with restricted
+maximum likelihood estimation (REML) and a compound symmetry
+covariance structure using the linear mixed model procedure in SPSS.
+The compound symmetry covariance structure across trials estimated
+correlated errors between time points within subjects. Thus, this ana-
+lysis allowed us to target dependent variables at various time points
+during the post-conditioning preference assessment (PTN) and during
+ethanol conditioning (AAV).
+
+Assumptions for the linear mixed model were checked and de-
+scriptive statistics were examined for the PTN and AAV. If signiﬁcant
+main eﬀects or interactions emerged, post hoc tests with a Sidak cor-
+rection were performed. Means presented in reported post hoc tests are
+based on estimated marginal means, which are modiﬁed population
+means adjusted for all other factors in the model.
+
+2.5. Statistical analysis: conditioning day (2-way ANOVA) and novel tank
+and shoaling responses (3-way ANOVA)
+
+The counterbalanced conditioning design used resulted in some ﬁsh
+being exposed to ethanol on conditioning day 1 and other ﬁsh being
+exposed to ethanol on conditioning day 2. Since the post-conditioning
+preference assessment was performed immediately after conditioning
+day 2 (i.e. on day 3), we wanted to determine whether one or both
+groups were still inﬂuenced by ethanol on day 3, as this could aﬀect the
+CPP outcome. To do this, we performed a 2-way ANOVA to assess the
+eﬀect of conditioning dose (0–1.75%) and day of conditioning (day 1,
+day 2) on PTN.
+
+To determine whether age of pre-exposure (20 dpf, 40 dpf), sex
+(male, female), and change PTN response (more or less than 10% in-
+crease in preference at post-conditioning preference assessment, re-
+lative to baseline) aﬀected novel tank and shoaling responses, we used
+separate three-way ANOVAs. We separated degree of PTN for these
+statistical tests because the previous analysis indicated that the degree
+of PTN varied across ﬁsh. More speciﬁcally, the change in PTN (more or
+less than 10%) was derived from a median split of PTN scores of
+ethanol-conditioned ﬁsh and supported by Receiver Operating
+Characteristics analysis (Supplementary Table 1). Deriving this categorical measure was conducted using similar
+methods to those performed in previous CPP studies, which have been
+established as a complementary approach to the continuous measures
+used here [29].
+Assumptions for the ANOVAs were checked and descriptive statis-
+tics were calculated for PTN, Percent time on the bottom third of a
+novel tank, and the change in time spent next to shoal. If signiﬁcant
+main eﬀects or interactions emerged, post hoc tests with a Sidak cor-
+rection were performed.
+
+3. Results
+
+3.1. CPP results: behavior in the PTN assessment in 5-min segments
+
+We analyzed CPP by separating the 20-min post-conditioning PTN
+test period into 5-min increments to assess if there were diﬀerences in
+PTN response throughout the 20-min testing session (n = 83). This
+analysis indicates that ethanol conditioning dose signiﬁcantly inﬂu-
+enced ethanol-induced PTN (p < 0.005). There was also a non-sig-
+niﬁcant trend of an interaction between pre-exposure age and sex
+(p < 0.052) and a signiﬁcant four-way interaction between ethanol
+conditioning dose, pre-exposure age, sex, and time (p < 0.040).
+
+Post-hoc tests identiﬁed that the 1.00% conditioning dose group had
+a signiﬁcantly greater mean of 67.82% post-conditioning PTN, com-
+pared to 35.03% post-conditioning PTN observed in adults conditioned
+to 1.50% ethanol (p < 0.037). None of the other conditioning dose
+groups showed signiﬁcant diﬀerences in pairwise comparisons, nor did
+pairwise comparisons within groups for pre-exposure age, time, and
+sex. However, within ﬁsh pre-exposed to ethanol at 40 dpf, male zeb-
+raﬁsh had a signiﬁcantly greater average estimated marginal mean of
+59.56% post-conditioning percent time on the ethanol-paired side,
+compared to 33.78% post-conditioning percent time on the ethanol-
+paired side observed in female zebraﬁsh (p < 0.031). These results
+suggest a sex diﬀerence in ethanol-induced PTN in ﬁsh pre-exposed at
+40 dpf.
+
+Sex diﬀerences were observed across pre-exposure ages and con-
+ditioning doses used. For example, in ﬁsh pre-exposed to 1.5% ethanol
+at 20 dpf, receiving control conditioning, and assessed at the 5–10 min
+time point of preference testing, females displayed a signiﬁcantly
+greater mean percent time of 100.00% post-conditioning PTN, com-
+pared to a mean of 45.19% in males (p < 0.044). However, in ﬁsh pre-
+exposed to 1.5% ethanol at 40 dpf, conditioned to 1.75% ethanol, and
+assessed at the 10–15 min time point of preference testing, males dis-
+played a signiﬁcantly greater mean of 84.92% post-conditioning PTN,
+compared to a mean of 5.27% in females (p < 0.035). Similarly, in ﬁsh
+pre-exposed to 1.5% ethanol at 40dpf, conditioned to 1.00% ethanol,
+and assessed at the 15–20 min time point of preference testing, males
+displayed a signiﬁcantly greater mean percent time of 82.33% post-
+conditioning PTN, compared to a mean of 28.20% in females
+(p < 0.026).
+
+Signiﬁcant eﬀects were most prevalent when the 1.75% ethanol
+conditioning dose was used. Females conditioned to 1.75% ethanol at
+20 dpf displayed signiﬁcantly greater mean of 100.00% post-con-
+ditioning PTN during the 0–5 min time segment of preference testing,
+compared to a mean of 15.62% in female ﬁsh pre-exposed to ethanol at
+40 dpf during (p < 0.025). Similar results were observed at the
+5–10 min time segment (p < 0.020) and the 10–15 min time segment
+(p < 0.012). Lower ethanol doses have eﬀects that vary instead based
+on pre-exposure at 40 dpf, compared to control pre-exposure. Female
+ﬁsh pre-exposed at 40 dpf and conditioned to 1.00% ethanol, displayed
+a signiﬁcantly reduced mean post-conditioning PTN during the
+10–15 min (p < 0.031) and 15–20 min time segments (p < 0.015),
+compared to ﬁsh with control pre-exposure.
+
+Within females with control pre-exposure and conditioned to 1.00%
+ethanol, ﬁsh assessed at the 10–15 min time segment of preference
+testing displayed signiﬁcantly greater mean of 92.26% post-con-
+ditioning PTN, compared to a mean of 58.54% in ﬁsh assessed at the
+0–5 min time segment of preference testing (p < 0.046).
+
+These results indicate that conditioning ﬁsh to a low dose of ethanol
+(1.00%) is suﬃcient to induce PTN in male and female adult zebraﬁsh.
+However the degree of PTN under these conditions is signiﬁcantly less
+than that observed with a higher conditioning dose of ethanol (1.50%).
+In additon, there is a signﬁciant interaction between pre-exposure age
+and sex on PTN (Fig. 1) and a signiﬁcant interaction eﬀect of pre-ex-
+posure age, ethanol conditioning dose, sex, and time of assessment on
+PTN (Fig. 2). More speciﬁcally, control female ﬁsh not receiving
+ethanol pre-exposure exhibit a statistically non-signiﬁcant increase in
+PTN at the lower (1.00-1.25%) ethanol conditioning doses, relative to
+males. In contrast, male zebraﬁsh show a non-signiﬁcant increase in
+ethanol-induced PTN at the lower (1.00-1.25%) ethanol conditioning
+doses if they received ethanol pre-exposure at either age examined.
+These directional trends are reversed at the higher ethanol doses
+(1.50%, 1.60%, 1.75%), where control females with no ethanol pre-
+exposure show a non-signiﬁcant decrease in preference for ethanol,
+while males with ethanol pre-exposure at either 20 dpf or 40 dpf show a
+non-signiﬁcant decrease in ethanol-induced PTN.
+
+Further assessing PTN throughout the 20-min post-conditioning
+preference assessment period revealed signiﬁcantly greater PTN during
+the second half of the assessment period (10–20 min) in males pre-ex-
+posed at 40 dpf and control females with no pre-exposure when the low
+conditioning doses were used (1.00-1.25%) and in females pre-exposed
+at 20 dpf in response to the high conditioning doses (1.60-1.75%).
+
+Fig. 1. Post-Conditioning Percent Time on the Initially Non-Preferred Side.
+CPP test results (post-conditioning percent time on initially non-preferred side (PTN) in
+adult (160–175 day old) zebraﬁsh varies depending upon both the ethanol pre-exposure
+condition (panels A and B) and sex (males as blue bars; females as pink bars). There was a
+signiﬁcant eﬀect of ethanol conditioning dose (p < 0.005) and a trend of a non-signiﬁcant
+interaction of pre-exposure and sex (p < 0.054). (A) Control female ﬁsh not receiving
+ethanol pre-exposure exhibit the trend of increased ethanol-induced PTN for a 1.00-
+1.25% ethanol conditioning dose relative to males. (B) In ﬁsh receiving ethanol pre-ex-
+posure starting at either 20 dpf or 40 dpf, males show a trend of increased ethanol-
+induced PTN for the 1.00-1.25% ethanol conditioning dose relative to females. Pre-ex-
+posure ages 20 and 40 dpf are pooled in the graph to show overall trends. Trends vary at
+the higher ethanol doses. (A) Control females conditioned to 1.50-1.75% ethanol show
+non-signiﬁcantly decreased PTN, relative to lower doses. (B) Pre-exposed females con-
+ditioned to 1.50-1.75% ethanol show non-signiﬁcantly increased PTN, relative to lower
+doses. (A) Control males conditioned to 1.50-1.75% ethanol show non-signiﬁcantly in-
+creased PTN, relative to lower doses.(B) Pre-exposed males conditioned to 1.50-1.75%
+ethanol show non-signiﬁcantly decreased PTN. Values are mean and error bars represent
++/− 1 standard error (SE) (n = 83).
+
+3.2. Absolute angular velocity during conditioning
+
+Absolute angular velocity (AAV) of zebraﬁsh in the test chambers
+was measured during both conditioning days to determine if ethanol
+conditioning signiﬁcantly impacts this swimming parameter, which
+could potentially aﬀect PTN measurements (n = 83). Consequently, we
+assessed changes in AAV, with AAV during each of the 5-min control
+conditioning responses subtracted from the comparable AAV responses
+to ethanol conditioning during the respective time increments. This
+model includes the same ﬁxed factors as above, with the additional
+ﬁxed factor of PTN greater or less than 10 percent.
+
+The linear mixed model identiﬁed that ethanol conditioning dose
+(p < 0.019), sex (p < 0.036), and conditioning time increment
+(p < 0.001) signiﬁcantly aﬀected AAV. AAV measurements were also
+signiﬁcantly aﬀected by interactions between degree of PTN and sex
+(p < 0.039), pre-exposure age and sex (p < 0.008), and ethanol
+conditioning dose and conditioning time increment (p < 0.008).
+
+In particular, ethanol-induced AAV in ﬁsh exposed to the 1.50%
+conditioning dose (51.04°/second) was signiﬁcantly greater than the
+AAV measured in ﬁsh exposed to the 1.00% conditioning dose (-89.96°/
+second) (p < 0.014) (Fig. 3). None of the other conditioning dose
+groups showed signiﬁcant diﬀerences in pairwise comparisons. Male
+zebraﬁsh had a signiﬁcantly greater ethanol-induced AAV (23.68°/
+second) than female zebraﬁsh (-31.14°/second) (p < 0.036) (Figs. 3
+and 4).
+
+Evaluation of changes in AAV across the conditioning time intervals
+revealed a signiﬁcantly greater overall ethanol-induced AAV (36.64°/
+second) at the end of the conditioning trial (i.e. during 15–20 min of
+ethanol conditioning), compared to 0–5 min (-33.34°/second)
+(p < 0.001) and 5–10 min increment (-19.08°/second)
+(p < 0.010). In particular, ﬁsh conditioned to 1.50% ethanol displayed
+signiﬁcantly greater AAV at the end of the conditioning trial
+(15–20 min), relative to any of the earlier time segments (p < 0.006).
+An exception occurred for ﬁsh conditioned to 1.60% ethanol, which
+displayed signiﬁcantly greater AAV at the beginning of the conditioning
+trial (0–5 min) relative to any of the later time segments (p < 0.038).
+Females pre-exposed at 20 dpf displayed a signiﬁcant decrease
+ethanol conditioning-induced AAV (-143.653°/second), compared to
+males pre-exposed at 20 dpf (39.725°/second) (p < 0.002), regardless
+of ethanol dose used. Females pre-exposed at 20 dpf also displayed a
+signiﬁcant ethanol-induced decrease in AAV (-143.653°/second), com-
+pared to females with no ethanol pre-exposure (25.728°/second)
+(p < 0.007) and compared to females with ethanol pre-exposure at 40
+dpf (24.497°/second) (p < 0.026) (Fig. 4). Among male and female
+ﬁsh displaying less than a 10% increase in PTN, males exhibited a
+signiﬁcantly greater estimated marginal mean ethanol-induced AAV
+(35.96°/second), compared to females (−48.65°/second) (p < 0.008).
+Among male and female ﬁsh conditioned to 1.5% ethanol, AAV was
+signiﬁcantly greater in the 15–20 min time segment (147.963°/second),
+relative to the 0–5 min time segment (-8.819°/second) (p < 0.001),
+the 5–10 min time segment (22.076°/second) (p < 0.001), and the
+10–15 min time segment (42.946°/second) (p < 0.006). Similar re-
+sults were observed for both male and female ﬁsh conditioned to 1.60%
+ethanol: AAV was signiﬁcantly diminished in the 0–5 min time segment
+(-89.638°/second), relative to the 5–10 min time segment (41.757°/
+second) (p < 0.030), the 10–15 min time segment (37.602°/second)
+(p < 0.038), and the 15–20 min time segment (57.094°/second)
+(p < 0.011). Thus, there is a time-dependent increase in AAV induced
+by high ethanol conditioning doses during the 20-min conditioning
+trail.
+
+A similar overall trajectory of responses occurred when comparing
+ﬁsh based on pre-exposure history or their levels of PTN exhibited
+(Fig. 4). For both males and females, ﬁsh with control pre-exposure or
+ﬁsh that exhibit less than 10% increase in PTN displayed a non-sig-
+niﬁcant trend of diminished AAV at low ethanol doses (Fig. 4A; 4C).
+
+However, females with 1.5% ethanol pre-exposure and females with
+more than a 10% increase in PTN displayed a non-signiﬁcant trend of
+diminished AAV across ethanol doses. In contrast, males with 1.5%
+ethanol pre-exposure and males with more than 10% increase in PTN
+displayed a non-signiﬁcant trend of reduced AAV compared to controls,
+but greater AAV compared to females across all ethanol doses (Fig. 4B;
+4D).
+
+Absolute Angular Velocity During Conditioning "For ﬁsh exhibiting
+less PTN, control and ethanol pre-exposed zebraﬁsh conditioned to a
+low ethanol dose (1.00-1.25%) tend to show non-signiﬁcantly de-
+creased AAV. In contrast, control and ethanol pre-exposed zebraﬁsh
+exhibiting less PTN and conditioned to a high ethanol dose
+(1.50–1.75%) tend to show non-signiﬁcantly greater AAV. For ﬁsh ex-
+hibiting more PTN, control ﬁsh conditioned to a low ethanol dose (1.00-
+1.25%) and ethanol pre-exposed ﬁsh conditioned to a high ethanol dose
+(1.50-1.75%) tend to show non-signiﬁcantly decreased AAV (Fig. 5).
+
+Taken together, these results indicate that AAV can be measured in
+zebraﬁsh and assessed as a factor of age of ethanol pre-exposure,
+ethanol conditioning dose, duration of exposure to the ethanol condi-
+tion dose, and sex. In general, ethanol conditioning produced greater
+AAV when ﬁsh were conditioned to 1.50% ethanol (especially at the
+end of the conditioning trial), compared to ﬁsh conditioned to 1.00%
+ethanol. Ethanol conditioning also induced greater AAV in male ﬁsh
+with less than 10% increase in PTN, compared to female ﬁsh with less
+than 10% increase PTN.
+
+3.3. Does the day of ethanol conditioning aﬀect PTN?
+
+Day of ethanol conditioning to the initially non-preferred side did
+not signiﬁcantly impact PTN response (p = 0.081). However, there was
+a signiﬁcant eﬀect of ethanol conditioning dose (p < 0.001). Post hoc
+tests identiﬁed that the 1.00% conditioning dose group had a sig-
+niﬁcantly greater mean post-conditioning PTN (68.99%), compared to
+ﬁsh with control conditioning (50.03%) (p < 0.001), ﬁsh conditioned
+to 1.25% ethanol (45.30%) (p < 0.001), ﬁsh conditioned to 1.50%
+
+ethanol (37.30%) (p < 0.037), and ﬁsh conditioned to 1.60% ethanol
+(37.99%) (p < 0.001). None of the other conditioning dose groups
+showed signiﬁcant diﬀerences in pairwise comparisons.
+
+3.4. Novel tank
+
+The novel tank test assesses anxiety-like responses demonstrated
+when the ﬁsh remain at the bottom of a novel tank. Consequently, we
+sought to determine whether the zebraﬁsh receiving ethanol or control
+pre-exposure as juveniles displayed anxiety-like behavior prior to con-
+ditioning as adults, as determined by percent time spent in the lower
+third of a novel tank (n = 83; Fig. 6).
+
+The analysis identiﬁed a signiﬁcant eﬀect of sex (p < 0.010) and a
+signiﬁcant interaction between pre-exposure age and sex (p < 0.045)
+on percent time spent in the lower third of the novel tank (Fig. 6). In
+particular, female zebraﬁsh spent signiﬁcantly more time (41.83%)
+spent in the lower third of the novel tank, compared to males (39.15%)
+(p < 0.010), regardless of conditioning dose used (Fig. 6A). A sig-
+niﬁcantly greater percent time in the lower third of the novel tank was
+also observed for female zebraﬁsh receiving ethanol pre-exposure at 20
+dpf, compared to male zebraﬁsh receiving ethanol pre-exposure at 20
+dpf (p < 0.003) (Fig. 6A). Further, ﬁsh with more than 10 percent
+increase in PTN showed a non-signiﬁcant trend of more percent time in
+the lower third of the novel tank, compared to ﬁsh with less than 10
+percent increase in PTN (p = 0.137) (Fig. 6B).
+
+In general, female ﬁsh spent more time in the lower third of the
+novel tank compared to males. Ethanol dose did not aﬀect this beha-
+vior, through females with ethanol pre-exposure at 20 dpf spent more
+time in the bottom of the novel tank when assessed immediately prior
+to CPP testing.
+
+3.5. Shoaling test
+
+Shoaling behavior was examined determine whether ethanol pre-
+exposure aﬀected the way that adults responded to social stimuli, as an
+alternative index of anxiety-like behavior in zebraﬁsh (n = 83; Fig. 7).
+There was a signiﬁcant eﬀect of sex (p < 0.046) on shoaling behavior
+(Fig. 7A), with females displaying a greater increase in percent time
+spent on the side adjacent to the shoal (33.22%), compared to males
+(20.02%) (p < 0.046) (Fig. 7A). In addition, ﬁsh with more than 10%
+increase in PTN also showed a trend of non-signiﬁcantly greater percent
+time spent on the tank side adjacent to the shoal, compared to ﬁsh with
+less than 10% increase in PTN.
+
+<Conclusion> Discussion.
+Overall, the results of this study indicate that ethanol pre-exposure
+during the juvenile stage has measurable behavioral eﬀects on adult
+zebraﬁsh and that there are diﬀerences in the responses of male and
+females (Fig. 8).
+
+4.1. Percent time on the initially non-preferred side
+
+The 1.00% ethanol dose signiﬁcantly increased time spent in the
+ethanol-paired environment, relative to 1.50% ethanol, an eﬀect that
+may be related to reduced AAV speciﬁc to the 1.00% ethanol con-
+ditioning dose, relative to the 1.50% dose. Zebraﬁsh pre-exposed to
+1.50% ethanol as juveniles demonstrated a distinct sex-dependent
+pattern of ethanol-induced PTN as adults, compared to zebraﬁsh with
+no ethanol pre-exposure. Speciﬁcally considering control animals with
+
+no ethanol pre-exposure, males demonstrate a subtle U-shaped dose-
+response, with greater PTN at the low and high ethanol conditioning
+doses, relative to the intermediate dose of 1.25% ethanol. In contrast,
+females with no ethanol pre-exposure show a subtle inverted U-shaped
+dose-response, with greater PTN at
+the intermediate 1.00-1.25%
+ethanol doses, relative to the lower and higher ethanol doses. With
+regard to animals with 1.50% ethanol pre-exposure, males demonstrate
+a subtle inverted U-shaped dose-response, while females show a subtle
+U-shaped dose response. Considering PTN responses across all con-
+ditioning doses, males with ethanol pre-exposure at 40 dpf showed
+more overall PTN, relative to females. This suggests that the interaction
+of ethanol conditioning dose, pre-exposure age, sex, and time interval
+of assessment is largely driven by a time-course dependent
+enhancement of responses in females at speciﬁc ethanol conditioning
+doses and diminished responses at other doses. This is consistent with
+the presence of multiple signiﬁcant post-hoc tests assessing the inter-
+action of pre-exposure age, ethanol conditioning dose, sex, and time.
+Previous studies have shown that responsiveness to ethanol may
+emerge in ethanol-adapted zebraﬁsh when an escalated dose of ethanol
+is utilized in conditioning relative to the chronic dose of 1.50% ethanol
+in adolescence [18]. However, the present study suggests adaptation of
+zebraﬁsh to ethanol pre-exposure and indicates that altered dose-de-
+pendent responsiveness to ethanol varies across male and female zeb-
+raﬁsh, possibly due to hormonal mechanisms. This is consistent with
+ﬁndings that tolerance and sensitization to ethanol are altered by an-
+drogen and estrogen levels in rodent models of addiction [30].
+Furthermore, the 10–20 minute time interval of the post-conditioning PTN assessment indicated either a peak or trough of the time
+spent on the ethanol-paired side. Indeed, signiﬁcant diﬀerences in PTN
+were typically observed during the second half of the 20-minute as-
+sessment period. This suggests that habituation to the CPP chamber
+during the ﬁrst half of the assessment period may preclude the ability to
+assess ethanol-induced PTN at these earlier times. However, this time-
+dependent PTN response also varied dose-dependently between male
+and female zebraﬁsh based on their previous history of ethanol ex-
+posure. This may imply that there are various factors contributing to
+seeking out the ethanol-paired environment when given the opportu-
+nity, which may be inﬂuenced by a diminished need to habituate to the
+environment in speciﬁc groups. This is similar to other studies of the
+reinforcing eﬀects of addictive substances that may persist in zebraﬁsh
+despite adverse consequences [31], which are implicit in the relatively
+novel environment of the conditioning chamber, which is analogous to
+an open ﬁeld task in rodent models.
+
+4.2. Conditioning order is not predictive of PTN response
+
+Although previous studies have indicated that percent time on the
+ethanol-paired side is enhanced when ﬁsh are conditioned to water
+prior to conditioning to ethanol [12], the present study determined that
+conditioning order is a non-signiﬁcant predictor of the degree of PTN
+exhibited by ﬁsh, and consequently does not alter the degree of CPP
+observed. This ﬁnding supports the hypothesis that ﬁsh are no longer
+under the acute inﬂuence of ethanol during the post-conditioning pre-
+ference assessment, regardless of whether ethanol conditioning oc-
+curred on day 1 or day 2.
+
+4.3. Absolute angular velocity
+
+Chronic ethanol exposure over 22 days inﬂuences responsiveness of
+zebraﬁsh to an acute 60-min ethanol exposure on day 23 [22]. Control
+ﬁsh show decreased distance traveled in the middle of an ethanol ex-
+posure trial, with increased distance traveled upon initial exposure and
+at the end of the trial. When ethanol-exposed ﬁsh are less responsive to
+acute ethanol challenge, this is often attributed to tolerance [22].
+Zebraﬁsh with chronic ethanol exposure also show increased AAV and
+less exploration during ethanol withdrawal, hyperexcitability and an-
+xiogenic eﬀects, respectively [22].
+
+In this study, ﬁsh conditioned to 1.50% ethanol displayed sig-
+niﬁcantly greater ethanol-induced AAV, relative to ﬁsh conditioned to
+1.00% ethanol. However, the ﬁsh conditioned to 1.00% ethanol showed
+a signiﬁcantly greater PTN, compared to ﬁsh conditioned to 1.50%
+ethanol. These results suggest that the diﬀerent conditioning doses have
+a variable impact on locomotor parameters and can also signiﬁcantly
+aﬀect the conditioned response to ethanol. This eﬀect of conditioning
+dose is independent of the inﬂuence of pre-exposure age, sex, and time
+of assessment, suggesting a speciﬁc eﬀect of ethanol. For example, a
+low (1.00%) conditioning dose contributes to both locomotor sup-
+pressant eﬀects and a greater conditioned response to ethanol, while
+the high (1.5%) conditioning dose causes enhanced locomotor activity
+along with a diminished conditioned response to ethanol. These two
+eﬀects imply that ethanol-induced locomotor suppression, indicated by
+a decrease in AAV, may be a mechanism of the rewarding association
+developed in the ethanol-paired environment. It has similarly been
+observed in rodents that certain experimental lighting conditions [32]
+or injection of recombinant tissue plasminogen activator into the nu-
+cleus accumbens [33] are associated with decreased sensitization to
+ethanol as well as diminished CPP scores [32,33].
+
+Furthermore, the timing of ethanol pre-exposure impacts the
+ethanol-induced change in angular velocity, with male zebraﬁsh pre-
+exposed at 20 dpf or female zebraﬁsh pre-exposed at 40 dpf showing an
+increase in AAV when conditioned to ethanol, while female zebraﬁsh
+pre-exposed at 20 dpf showed a decrease in AAV in ethanol con-
+ditioning. These results indicate that chronic exposure to ethanol in-
+teracts with the eﬀect of acute ethanol exposure. Zebraﬁsh acutely
+exposed to ethanol also exhibit a dose-dependent increase in path
+length across increasing ethanol doses. In contrast, ﬁsh receiving
+chronic treatment with 0.25% ethanol prior to acute treatment with
+0.25% ethanol exhibit diminished path length, compared to ﬁsh acutely
+treated with 0.50% or 1.00% ethanol after chronic treatment [21].
+
+Our results also suggest diﬀerential ethanol susceptibility in male
+and female zebraﬁsh with regard to AAV measurements. Ethanol, in
+general, induced a decrease in AAV in females and an increase in AAV
+in males. Furthermore, male ﬁsh with less than 10% increase in PTN
+displayed greater AAV, compared to female ﬁsh with less than 10%
+increase in PTN. Higher ethanol doses also contributed to diminished
+PTN responses and increased AAV. Thus, the sex-dependent diﬀerence
+in the AAV response in ﬁsh that display a diminished PTN response may
+be relevant to similar variation also observed in the conditioned re-
+sponse to ethanol and the locomotor stimulant eﬀects of ethanol in
+male and female zebraﬁsh. Diﬀerential development of sensitization or
+tolerance to the depressant eﬀects of ethanol between distinct pre-ex-
+posure times and between males and females has also been observed in
+rodents [34]. Female rats exposed to ethanol in adolescence exhibit
+enhanced sensitivity to the locomotor stimulant eﬀects of ethanol as
+well as enhanced ethanol self-administration in late adolescence,
+compared to males.
+
+The altered sensitivity to the locomotor eﬀects of ethanol along with
+altered responses to ethanol conditioning is reﬂected in the similar
+trajectory of responses of male and female zebraﬁsh under control pre-
+exposure conditions and with less than 10% increase in PTN and of
+males and females with 1.50% ethanol pre-exposure and with more
+than 10% increase in PTN. When analyzing ethanol-conditioned ﬁsh
+displaying more or less PTN, a median split of ﬁsh was used with the
+cutoﬀ-point of 10 percent PTN, conﬁrmed by ROC analysis to be an
+accurate method of predicting which ﬁsh display more or less of a PTN
+response based on their pre-exposure age and sex.
+
+It has been reported that female zebraﬁsh exhibit a heightened
+sensitivity to both acute and chronic ethanol treatment in terms of
+disrupted clustering behavior with co-treated ﬁsh, indicated by in-
+creased nearest neighbor distance [35]. Females also exhibit relatively
+greater disruption of clustering with 7, 8, and 10 weeks of chronic
+ethanol treatment, compared to males. While wild type female zebra-
+ﬁsh exhibit relatively greater disruption of clustering in response to
+acute treatment with 0.5% ethanol, males show relatively greater dis-
+ruption of clustering with acute treatment with 1.00% ethanol
+
+Though ethanol decreased AAV in the ﬁrst half of the conditioning
+trial in the present study, it also increased angular velocity in the last
+quarter of the conditioning trial. This increased AAV is consistent with
+qualitative observation of circling and thigmotaxis in the second half of
+the ethanol conditioning trials. This may be a consequence of either
+ethanol-induced alteration of exploratory behavior or disruption of
+glutamatergic function, which is also implicated in hyperactivity and
+anxiety [36–38]. Since the measure of ethanol-induced AAV was shown
+to vary across time within the conditioning trial, this indicates that
+angular velocity may be a useful index of the pharmacokinetic proﬁle of
+ethanol for zebraﬁsh.
+
+4.4. Novel tank test & shoal test
+
+Ethanol alters locomotor behavior at high doses and has an anxio-
+lytic eﬀect at low doses [39]. Previous studies also report that ethanol
+dose-dependently aﬀects novel tank test scores, with more time spent in
+the upper third of the novel chamber following 0.50% ethanol ex-
+posure, less time spent in the middle chamber third with 1.00% ethanol
+exposure, and more time spent in the lower chamber third with 0.00%
+or 1.00% ethanol exposure [17]. Zebraﬁsh with 0.25% ethanol ex-
+posure and controls demonstrate unbiased dark preference and habi-
+tuate more quickly to a novel tank, compared to ﬁsh with 0.5% or 1.0%
+ethanol exposure, which demonstrate dark avoidance [17]. Previous
+studies also indicate that chronic ethanol treatment followed by with-
+drawal increases anxiety-like behavior in a novel tank and impairs
+shoaling in AB zebraﬁsh and reduced shoaling was established in the SF
+zebraﬁsh strain [40,41].
+
+Overall, impaired shoaling in response to ethanol pre-exposure did
+not occur in the wild-type (i.e. not from a speciﬁc zebraﬁsh strain) ﬁsh
+utilized in the present study, implying that wildtype ﬁsh may be re-
+sistant to one eﬀect of discontinued ethanol exposure despite the eﬀect
+of the pre-exposure age on ethanol-induced increase in PTN. Similarly,
+novel tank responses were not aﬀected by ethanol pre-exposure age.
+Both novel tank and shoaling responses were assessed prior to con-
+ditioning and ∼5 months after initial pre-exposure occurred, sug-
+gesting that the response observed in these two tests reﬂected typical
+responses to novelty and social stimuli, unaﬀected by ethanol exposure
+as juveniles. This may be due in part to the timing of the age of ethanol
+pre-exposure and/or the ethanol treatments being conﬁned to 20-min
+daily treatments for one week, rather than continual exposure. Other
+studies show that continuous exposure of zebraﬁsh to ethanol for one
+week starting at the embryonic stage increases adulthood anxiety-like
+behavior in a novel tank, while shoaling is diminished [42]. Future
+studies may evaluate whether the acute eﬀects of ethanol are related to
+baseline shoaling responses in the same individual ﬁsh, as ethanol has
+been shown to acutely alter shoaling behavior [43].
+
+Despite the absence of an eﬀect of ethanol pre-exposure age on
+novel tank and shoaling responses noted above, diﬀerences emerged
+when comparing male and female zebraﬁsh. Females spent a greater
+percent time in the lower third of the novel tank, compared to males,
+especially if they received ethanol exposure at 20 dpf, and females,
+speciﬁcally, exhibited a greater increase in percent time spent on the
+tank side adjacent to the shoal, suggesting sex-speciﬁc eﬀects. Acute
+alcohol intoxication increases ACTH and cortisol levels to a greater
+degree in human females, consistent with HPA response to alcohol
+varying according to estrogen levels in rodents [30]. The impact of
+environmental stress on the benzodiazepine/GABA receptor complex in
+rats is inﬂuenced by sex hormone activity [30]. This inﬂuence of sex
+hormones on anxiety-related responses may be reﬂected in sex-depen-
+dent behavioral diﬀerences of zebraﬁsh in a 5-minute novel tank test.
+Female zebraﬁsh have diﬀerential tank preference depending upon
+their activity level, indicated by distance traveled, while males do not
+show an activity-dependent preference, and females with higher ac-
+tivity levels prefer the top of a novel tank, while females with low ac-
+tivity level prefer the bottom [18]. Overall, these results suggest that
+females exhibit a trend for increased baseline anxiety-like behavior,
+indicated by the novel tank test, which is also associated with non-
+signiﬁcantly greater ethanol-induced PTN. This may be a function of
+habituation to the novel environment of the conditioning chamber.
+
+5. Conclusions
+
+Consistent with our hypothesis, ethanol pre-exposure of juvenile
+zebraﬁsh aﬀected distinct behavioral responses of adult male and fe-
+male zebraﬁsh. Ethanol pre-exposure age aﬀected ethanol-induced time
+spent on the initially non-preferred tank side (PTN) diﬀerentially in
+male and female zebraﬁsh assessed in the CPP paradigm. The PTN re-
+sponse of individual zebraﬁsh was associated with changes in absolute
+angular velocity during ethanol conditioning. Behavioral measures of
+ethanol-induced locomotor behavior during conditioning were inﬂu-
+enced by ethanol conditioning dose, sex, and pre-exposure age. Female
+zebraﬁsh displayed greater anxiety-like behavior in a novel tank and
+increased shoaling responses regardless of ethanol pre-exposure
+
+
+
+References
+
+[1] M.T. Bard

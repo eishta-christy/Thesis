@@ -1,0 +1,271 @@
+
+The important role of oil in the world economy has motivated the
+research on the economic and ﬁnancial consequences caused by oil
+price changes.  In his seminal study on oil price changes and the
+macroeconomy, Hamilton (1983) ﬁnds that an oil price shock is a
+contributing factor to US recession.  Since then, scholars have performed
+much research on this issue (Jones Name, 2004.  Hamilton, 2008.  Herrera
+Name, 2011.  Filis and Chatziantoniou, 2014.  Salisu Name, 2017, among
+others).  Stock markets act as the barometer for anticipating economic
+changes in economic activity (Fama, 1990).  Oil price is also likely to
+play an important role in predicting stock prices by at least two channels
+as follows.  On the one hand, since oil is an important input in the
+production of many goods, oil price changes may affect future cash
+ﬂows of enterprises.  As a result, higher oil prices may increase the
+production cost of enterprises, dampening corporate proﬁts and thus
+further depressing stock prices (Sadorsky, 1999.  Apergis and Miller,
+2009).  On the other hand, oil price changes may impact the discount
+rate.  Rising oil prices are often seen as indicative of inﬂationary
+pressures.  Central banks typically address it by raising the interest rate
+(Huang Name, 1996.  Miller and Ratti, 2009).  Since the link between
+oil price changes and stock markets has important implications for
+portfolio management strategies, this issue has attracted considerable
+attention in recent studies (e. g. , Park and Ratti, 2008.  Naifar, 2016. 
+Kayalar Name, 2017). 
+Despite the increased interest in the oil-stock relationships, there are
+relatively few papers that investigate the time-varying relationships
+between them (e. g. , Chang Name, 2013.  Broadstock and Filis, 2014.  Joo
+and Park, 2017).  This series of study reﬂects the importance of allowing
+the relationships to be variable.  However, they do not systematically
+isolate bearish and bullish markets.  Quantile regression is able to
+describe the entire conditional distribution of the dependent variable
+and can solve this problem effectively.  Applying this approach, Lee
+and Zeng (2011) argue that the impacts of oil price shocks on real
+stock returns vary with the stock performances (e. g. , bearish and bullish
+markets).  Sim and Zhou (2015) also indicate that oil shocks affect US
+stock returns depending on market circumstances by using the
+quantile-on-quantile approach.  Moreover, the majority of the existing
+studies investigate the oil-stock relationships in a linear framework. 
+However, Mork (1989) and Mork Name (1994) conclude that oil price
+increases have a negative effect on GDP, whereas oil price decreases
+have not been found to have a positive impact on output or an impact
+of the same degree.  Some related works explore the non-linear effects of
+oil price changes on stock returns (Cong Name, 2008.  Park and Ratti,
+2008.  Ramos and Veiga, 2013.  Tsai, 2015.  Reboredo and Ugolini, 2016). 
+In a recent study, Kang and Ratti (2013) argue that the relationships
+of oil-stock are not formed in isolation from economic policy uncertainty. 
+This is because oil price shocks and economic policy uncertainty are
+interrelated and jointly inﬂuence stock returns.  Relatively little attention, however, has been paid to the relationships between economic
+policy uncertainty and the stock market.  Economic policy uncertainty
+might have an impact on asset prices by many channels.  First, policy
+uncertainty might delay or change important decisions taken by
+ﬁrms and other economic agents, such as employment, investment,
+consumption and saving decisions (Gulen and Ion, 2016).  Second,
+policy uncertainty might increase spending on ﬁnancing and production by inﬂuencing supply and demand, as well as increasing disinvestment and economic contraction.  Third, economic policy might also
+inﬂuence interest rate, inﬂation and expected risk premiums (Pástor
+and Veronesi, 2013).  A growing number of studies provide evidence
+that uncertainty affects ﬁnancial markets, such as equity portfolios
+and stocks (Anderson Name, 2009.  Bekaert Name, 2009.  Pástor and
+Veronesi, 2012.  Brogaard and Detzel, 2015.  Bekiros Name, 2016),
+volatility and investment opportunities (Bloom Name, 2007.  Bloom,
+2009), and energy and metals markets (Reboredo and Uddin, 2016). 
+In particular, given the relationships between oil prices and economic
+policy uncertainty, if one or both constructs are misrepresented in the
+model, there is a substantial likelihood that the coefﬁcient of one
+variable is contaminated by another variable (Arouri Name, 2014). 
+At present, only a few, albeit important paper, have investigated the
+effects of oil price changes on stock markets accounting for economic
+policy uncertainty (Kang and Ratti, 2013, 2015.  Arouri Name, 2014. 
+Kang Name, 2017).  The papers, however, neglect the distributional
+heterogeneity of stock returns and do not take account into the nonlinear effects of oil price changes.  Reboredo and Ugolini (2016) argue
+that stock prices reactions to oil price changes may be complex and
+the reactions may be depending on whether a market is bullish or
+bearish.  Moreover, Chang Name (2015) argue that the effects of
+economic policy uncertainty may be different depending on whether
+the stock markets are bullish or bearish phases.  Besides, the possible
+effects of market turmoil or ﬁnancial crisis must be considered because
+the relationships may change at the onset of the crisis.  The global
+ﬁnancial crisis is believed to have signiﬁcant inﬂuence on oil prices as
+well as other markets such as stock and exchange rate markets. 1 Chen
+and Lv (2015) examine whether the relationships between the crude
+oil market and the Chinese stock market are changed by a crisis and
+conclude that the Chinese stock market exhibits stronger external
+dependence with the oil market during the subprime crisis.  Luo and
+Qin (2017) also explore the role of the 2008 ﬁnancial crisis in the
+oil-stock nexus in China.  Ignoring crisis may render inappropriate or
+inaccurate estimation. 
+Additionally, we focus on China due to the rapid rise of emerging
+markets and increasing importance of developing countries.  Developing
+countries have not received sufﬁcient research attention compared
+with developed ones.  Furthermore, oil consumption in China has
+dramatically increased since its economic reforms are initiated in
+1978.  According to the Energy Information Administration (EIA,
+2014), China took the place of the US as the largest net importer of
+crude oil and other liquids in September 2013.  Lu Name (2015) discuss
+China's energy consumption structure in detail and present the trend
+of the proﬁts of new energy companies in the Chinese stock market
+over the period 2002 to 2010.  Additionally, the uncertainty in the oil
+market or economic policy may cause greater effects on developing
+countries due to the immature ﬁnancial policies and investors.  The
+relationships between oil price changes and the stock market for
+China have attracted scholars' attention (Cong Name, 2008.  Zhang and
+Chen, 2011.  Broadstock Name, 2012.  Wang Name, 2013.  Fang and You,
+2014.  Li Name, 2017.  Bouri Name, 2017).  As regards to the relationships
+between economic policy uncertainty and stock returns in China, the
+related studies include Arouri Name (2014), Kang and Ratti (2015), Li
+Name (2016) and so on. 
+To the best of our knowledge, no study has established the
+relationships between oil price changes, economic policy uncertainty,
+and stock returns in China accounting for distributional heterogeneity
+in a panel quantile regression framework.  Thus, our contribution is
+complementary to this research.  More speciﬁc, we add to the extant
+literature from the following aspects.  (a) we examine the joint effects
+of oil price changes and economic policy uncertainty on stock returns
+in China, both before and after the global ﬁnancial crisis.  The theoretical
+literature is aware of a possible joint effect of oil price changes and
+economic policy uncertainty on stock returns, but few empirical studies
+have analysed this issue satisfactorily.  (b) to study the non-linear effects
+of oil price changes, we separate positive shocks from negative ones by
+deﬁning two auxiliary variables.  Dramatic oil increases could depress
+national economic growth, but little evidence proves that an oil price
+decrease could accelerate economic development.  For this reason,
+there might be non-linear effects of oil price shocks on the stock
+markets.  (c) by employing a panel quantile regression model, we
+extend the earlier analysis by exploring the impacts of factors not only
+on the mean but also on the shape of the conditional distribution of
+stock returns.  In particular, we examine whether oil price changes and
+economic policy uncertainty affect stock returns under different market
+circumstances, including bearish (lower quantile) and bullish (upper
+quantile) ones, which has implications for investors in terms of risk
+management and the predictability of stock prices. 
+The remainder of the paper is organized as follows.  Section 2 reviews
+the literature.  Section 3 outlines the methodology.  Section 4 describes
+the data used in this paper.  The empirical results of panel quantile
+regression model are presented in Section 5.  Section 6 concludes the2.  Literature review. 
+Oil is one of utmost important natural resources in the modern
+economy.  Following the major oil price shocks of 1970s, the bulk of
+article has studied the relationships between oil price shocks and
+economic activity.  In a pioneering work, Hamilton (1983) ﬁnds that
+oil price shocks are responsible for US recession.  Oil prices might affect
+economy by the real balance channel, income transfer channel and
+allocate channel (Fang and You, 2014).  Although the documentation
+that oil price shocks have signiﬁcant effects on economic activity,
+relatively less work has appeared on the oil-stock relationships, and
+the results are inconclusive.  Jones and Kaul (1996) conclude that oil
+price increases have a signiﬁcantly negative effect on aggregate stock
+returns in the post-war period.  By using 1947–1996 monthly data,
+Sadorsky (1999) indicates the negative effects of oil price shocks
+on stock prices.  Similar conclusions have been documented by
+Papapetrou (2001), Park and Ratti (2008), Cunado and de Gracia
+(2014), Filis and Chatziantoniou (2014), and Mensi Name (2017).  In
+contrast, Sadorsky (2001), El-Sharif Name (2005), Gogineni (2007),
+Yurtsever and Zahor (2007), Chen and Lv (2015), and Zhu Name
+(2016) indicate that there exists a positive connection between oil
+price shocks and stock returns.  In addition, Huang Name (1996),
+Apergis and Miller (2009), and Sukcharoen Name (2014) do not ﬁnd a
+signiﬁcant relationship between oil futures prices and stock returns.  In
+light of these contradicting results, more detailed investigation of the
+impacts of oil price shocks on the stock market deserves particular
+attention. 
+There is a growing literature focusing on the time-varying relationships between oil price shocks and stock returns (e. g. , Sadorsky, 2012. 
+Antonakakis and Filis, 2013.  Antonakakis Name, 2014.  Sadorsky, 2014. 
+Filis, 2014.  Inchauspe Name, 2015.  Antonakakis Name, 2017).  They
+suggest that the effects of oil price changes on stock markets change
+over time.  Indicatively, Antonakakis Name (2014) exploit dynamic
+relationships between crude oil and stocks for a sample of both net
+oil-exporting and net oil-importing countries, which permit the effects
+to differ in varying development conditions.  The authors conclude that
+the effects of oil price changes on stock market are not constant over
+time.  Chang and Yu (2013) conclude that the effects of oil price shocks
+on stock returns are regime dependent.  Inchauspe Name (2015) suggest
+that oil prices became more inﬂuential in inﬂuencing stock returns after
+2007.  However, these studies do not systematically isolate bearish and
+bullish markets.  Quantile regression can solve this problem effectively
+by providing a more complete picture of the factors affecting the stock
+markets.  For instance, using this method, Nusair and Al-Khasawneh
+(2017) explore the effects of oil price shocks on the stock returns of
+the Gulf Cooperation Council countries and conclude that the coefﬁcient
+estimates have not been constant throughout the distribution of stock
+returns. 
+Another strand of the literature studies the interaction of policy
+uncertainty and stock markets, such as Ozoguz (2009), Dzielinski
+(2012), Boutchkova Name (2012), Pástor and Veronesi (2012, 2013),
+Antonakakis Name (2013), Arouri Name (2014), Lam and Zhang (2014),
+Lean and Nguyen (2014), Chang Name (2015), Liu and Zhang (2015),
+Arouri and Roubaud (2016), Dakhlaoui and Aloui (2016), Kang and
+Ratti (2013, 2015), and Kang Name (2017).  Indicatively, Arouri Name
+(2014) conclude that economic policy uncertainty has a negative effect
+on stock returns in the US, Europe, China and the Gulf Cooperation
+Council and that the effect is inﬂuenced by oil price changes.  Lean and
+Nguyen (2014) conclude that US policy uncertainty affects Dow Jones
+Sustainability Indices for the Asia Paciﬁc and North America regions
+during a crisis period.  By using panel causality method, however,
+Chang Name (2015) conclude that there exist inconsistent patterns in
+the linkages between policy uncertainty and stock prices across seven
+OECD countries.  The neutrality hypothesis is supported for Canada,
+France and Germany.  Arouri and Roubaud (2016) ﬁnd that economic
+policy uncertainty signiﬁcantly negatively affects stock returns, whereas
+positively affects market volatility in the US and India.  Speciﬁcally,
+Dakhlaoui and Aloui (2016) conclude that there is a time-varying
+correlation between US economic policy uncertainty and BRIC stock
+market volatility.  Using a quantile regression approach, Mensi Name
+(2014) conclude that US economic policy uncertainty has no impact
+on BRICS stock markets. 
+Existing research on stock markets has mainly focused on developed
+economies,2 whereas relatively few studies have investigated emerging
+countries, especially in China.  Due to the rise of China as a major
+economic power, there are increasingly more studies that focus on
+China.  On the one hand, a number of studies in the literature explore
+the oil-stock relationships. 3 Caporale Name (2015) examine the timevarying relationships between oil price uncertainty and sectoral stock
+returns in China.  After controlling for structural break, Broadstock
+Name (2016) explore the relationships between oil prices, gasoline prices
+and stock returns in the different sub-samples using ﬁrm level data.  On
+the sectoral level, Bouri Name (2017) explore whether the relationships
+between oil and sectoral indexes change according to the reform of the
+reﬁned oil pricing mechanism (March 27, 2013).  Similarly, Luo and Qin
+(2017) also explore the role of the 2008 ﬁnancial crisis in the oil-stocks
+nexus in China.  On the other hand, as for the relationships between
+economic policy uncertainty and stock returns in China, Arouri Name
+(2014) conclude that economic policy uncertainty has negative effects
+on stock returns and that the extent is inﬂuenced by oil price changes. 
+Using a structural VAR model, Kang and Ratti (2015) show that a
+positive shock to China's economic policy uncertainty has a delayed
+negative impact on real stock market returns in China.  Li Name (2016)
+argue that there are bidirectional causal relationships between
+economic policy uncertainty and stock returns in China in several
+sub-periods. 
+This paper aspires to bring together the two key strands of the
+literature, namely, the impacts of oil price shocks on stock markets
+and the impacts of economic policy uncertainty on stock markets. 
+Particularly, we explore the time-varying effects between oil price
+shocks, economic policy uncertainty and stock returns in China using a
+panel quantile regression approach.  Although much of the literature
+has explored the relationships in a time-varying framework, they do
+not systematically isolate bearish and bullish markets.  Quantile regression can describe the entire conditional distribution of stock returns
+and solve this problem effectively.  Additionally, we explore whether
+the results are sensitive to the sample period.  A comparative analysis
+is conducted on the nexus of both oil-stock and economic policy
+uncertainty-stock in the pre- and post-crisis periods. 
+<Middle> Model speciﬁcation and methodology. 
+We examine the impacts of oil price changes and economic policy
+uncertainty on industry stock returns in China.  The following baseline
+empirical model is applied to panel data incorporating the potential
+inﬂuences of other control variables where ri,t denotes the real return on the i-th industry in time t, eput is
+economic policy uncertainty index, oilt, irt and ert represent the ﬁrst
+natural logarithm difference of real oil price, real interest and exchange
+rate, respectively.  εi, t refers to the random error term.  αi denotes
+industry effects.  Similar to Arouri Name (2016) and Reboredo and
+Ugolini (2016), the lagged return, denoted as ri,t−1, is also included. 4
+Our results verify the necessity of including the lagged dependent
+variable, which appears to be almost strongly signiﬁcant.  There appear
+to be important economic and econometric ramiﬁcations to this.  βi is
+the sensitivity of stock returns to the corresponding inﬂuential factors. 
+The advantage of this model is that intercept (αi) can vary with industry
+for unobserved heterogeneity, taking account any possible industryspeciﬁc factors that may have an inﬂuence on stock market returns
+beyond the explanatory variables included (Wooldridge, 2012).  Also,
+panel data model enhances both the quality and quantity of data and
+allows for more accurate model inference to control the impacts of
+omitted variables (Ramos and Veiga, 2013). 5 In addition, many of the
+problems confronted by different industries have a trans-boundary
+character and thus need a collective response.  Speciﬁcally, as
+international oil prices are consistent across sectors, cross-sectional
+dependence is also allowed in our panel data analysis, which makes
+the panel data inference more reliable. 
+Eq.  (1) assumes the rising and falling oil prices have symmetrical
+effects on stock returns.  To capture the non-linear effects of oil
+price changes on stock returns, following Mork (1989) and MoyaMartínez Name (2014), we separate positive changes from negative
+ones by deﬁning two auxiliary variables oilpt=max(0,oilt) and oilnt=
+min(0,oilt). 
+This model helps answer the question “whether oil price increases
+and decreases have symmetrical effects on stock returns”.  However, it
+cannot answer another important question. 

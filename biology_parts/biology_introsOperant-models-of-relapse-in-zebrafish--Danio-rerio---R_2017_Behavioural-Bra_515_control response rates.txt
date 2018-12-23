@@ -1,0 +1,482 @@
+
+Operant behavior results from the relations between behavior and
+its consequences and has been used extensively as a model of voluntary
+behavior [1,2].  The systematic analysis of environmental and biological
+factors underlying operant behavior provides understanding and potential treatments for a range of behaviors considered maladaptive,
+such as addictions [3] and overeating [4].  Most research examining
+biological and environmental factors in learning processes come from
+studies with mammalian laboratory animals.  As an alternative, zebraﬁsh (Danio rerio) are ideal for examining environmental and biological
+factors involved in learning because of their high fecundity, low-cost
+maintenance,
+transparent embryo, and fully sequenced genome
+[e. g. ,5–8].  Key neurobiological structures mediating the reinforcing
+eﬀects of
+(e. g. , drugs) appear conserved in zebraﬁsh
+[e. g. ,9,10].  Moreover, many diﬀerent types of genetically modiﬁedzebraﬁsh are available (e. g. , National BioResource Project in Japan). 
+These features oﬀer biomedical and behavioral researchers opportunities to examine how genes and environment interact to determine
+operant behavior.  Nevertheless, studies of operant behavior with zebraﬁsh remain few [11–13]. 
+One area of research relevant to understanding operant behavior
+generally, and treatments for maladaptive behavior speciﬁcally, is with
+laboratory models of relapse.  A persistent tendency to relapse even after
+prolonged periods of abstinence is a deﬁning feature of addictive behavior [14].  Therefore, relapse of previously learned behavior has been
+investigated extensively during the past few decades [15–18].  Most
+models of relapse arrange reinforcement of operant responding in Phase
+1 to simulate engaging in maladaptive behavior and then, in Phase 2,
+model a basic form of behavioral treatment by eliminating those reinforcers through extinction of operant responding.  Models of relapse
+primarily diﬀer in Phase 3 as a result of arranging diﬀerent factors
+⁎ Corresponding author at: Aichi Bunkyo University, Faculty of Humanities, 5969-3 Okusa, Komaki, Aichi, 485-8565 Japan. 
+E-mail addresses: toshikazu. kuroda@gmail. com (T.  Kuroda), yuto. mizutani3@gmail. com (Y.  Mizutani), carlos. cancado@gmail. com (C. R. X.  Cançado),
+cpodlesnik@ﬁt. edu (C. A.  Podlesnik). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 023
+Received 25 July 2017; Received in revised form 3 August 2017; Accepted 14 August 2017
+Available online 19 August 2017
+0166-4328/ 
+T.  Kuroda Name
+Behavioural Brain Research 335 (2017) 215–222A summary of typical procedures for assessing resurgence, renewal, and reinstatement.  “Target” and “Alt” stand for target and alternative responses, respectively. Phase 2ResurgenceReinstatement
+Target reinforced;
+Alt not reinforced
+Target reinforced in Context A
+Target reinforced
+Target extinguished;
+Alt reinforced
+Target extinguished in Context B
+Target extinguished
+Target extinguished;
+Alt extinguished
+Target extinguished in Context A
+Target extinguished; Response-independent delivery of reinforcer
+contributing to the relapse.  The relapse of previously reinforced and
+extinguished responding in these models indicates that decreases in
+operant responding during extinction do not represent an elimination of
+prior learning.  Instead, relapse indicates new learning involving the
+extinction contingency [see 15]. 
+Relapse of operant behavior has been demonstrated with a wide
+variety of species in the three laboratory models of relapse serving as
+the focus in this investigation (see Table 1).  First, resurgence is the relapse
+of a previously reinforced and then extinguished response when
+reducing or eliminating reinforcement for a more recently trained response
+[e. g. ,19–22].  Hereafter, the response reinforced and then extinguished
+will be referred to as the target response and the more recently
+trained response as the alternative response.  Resurgence has been
+demonstrated with rats [e. g. ,20,23], pigeons [e. g. ,24,25], Siamese
+fighting fish [26], monkeys [27], and humans [e. g. ,28].  Recently, our
+laboratory demonstrated resurgence with zebrafish for the first timeSecond, renewal is relapse due to changes in environmental context. 
+Specifically, renewal is the return of a target response when changing
+the global environmental context compared to the extinction context
+[e. g. ,30,31,32].  Renewal occurs, for example, when reinforcing and
+extinguishing the target response in different contexts and then (1)
+returning to the training context (ABA renewal) or (2) transitioning to a
+novel context (e. g. , ABC renewal).  Renewal of operant behavior has
+been demonstrated with rats [30,33], pigeons [e. g. ,34,35], and humans
+[36] but not yet with zebrafish. 
+Finally, reinstatement is relapse resulting from exposure to a range of
+events due to learning (e. g. , cues) or biological relevance (e. g. , stress)
+[37].  One commonly used method for assessing reinstatement of an
+extinguished target response is to present the event previously serving
+as the reinforcer independently of responding [38,39].  Reinstatement
+has been demonstrated with rats [e. g. ,40], pigeons [e. g. ,41,42], monkeys
+[43,44], and humans [e. g. ,45,46].  Thus far, there have been no
+demonstrations of reinstatement of operant behavior in zebrafish −
+only reinstatement of a Pavlovian conditioned approach response to
+drug (cocaine or nicotine) [10]. 
+All these studies suggest relapse of previously reinforced and then
+extinguished operant behavior is general across species.  These three
+procedures serve as experimental models for understanding the conditions
+under which relapse occurs and might be used as platforms to
+examine biological influences in relapse, including developmental,
+pharmacological, and neurobiological factors [16].  Nevertheless, research
+on laboratory models of relapse using zebrafish has been limited. 
+Therefore, the goals of the present study were to systematically replicate
+resurgence and to extend the analysis to renewal, and reinstatement
+of extinguished operant behavior in zebrafish using an
+automated device to record discrete responses (i. e. , approaching sensors)
+and deliver decapsulated brine shrimp eggs as reinforcers [11,12]. 
+<Middle> General methods. 
+2. 1.  Subjects
+Forty experimentally naïve zebrafish (National Bioresource Project
+of Japan, Riken Brain Science Institute), 7–8 months old at the start of
+the experiments, served as subjects.  They were wild-type fish (i. e. , not
+genetically modiﬁed).  Each ﬁsh was housed individually in a room with
+a 14hr:10hr light-dark cycle (lights on at 6:00 am) in an aquarium
+(13. 0-cm wide by 16. 8-cm long by 11. 3-cm high) connected to a pump
+and tank where water was ﬁltered, aerated, and maintained at 28 °C
+with a heater.  Water was kept at a pH level of 7. 5 and half of the water
+in the tank was replaced weekly.  When a ﬁsh produced fewer than 30
+reinforcers (decapsulated brine shrimp eggs) in a session, postsession
+feedings of supplemental food (Kyorin, Hikari Labo 270) occurred
+30 min after sessions. 
+2. 2.  Material
+Two types of automated device, similar to that described by Manabe
+Name [11], were used.  Fig.  1 shows the device used to study resurgence
+in Experiment 1.  The device was placed in the aquarium of each ﬁsh
+during sessions and consisted of three sensors and two feeders ﬁxed on
+Plexiglas.  The three sensors were for the target, alternative, and control
+responses, as described below.  Each sensor consisted of a 2-mm diameter polymeroptical ﬁber (Mitsubishi Rayon Co. , LTD, Esca CK80), a
+ﬁber sensor (Keyence FU-23X), an ampliﬁer (Keyence, FS-V21X), and a
+tri-color LED (Oput-Supply OSTA5131A-C).  The tip of each sensor was
+set 5 mm below the water surface and 5 mm away from the front wall of
+the aquarium.  The sensor tips were 4. 5 cm apart from each other and
+could be illuminated red, green, or blue.  A response was registered
+when the ﬁsh approached and was at least within 5 mm below the
+sensor tip. 
+The feeders were located 2. 25 cm to the left and right of the middle
+sensor.  Each feeder consisted of a servo motor (Futaba S3005), a brass
+tube with the inner diameter of 600 μm, a 400-μm-diameter piano wire
+inserted in the brass tube, a vibrator, and a white LED (i. e. , the feeder
+light).  During reinforcement, the feeder light turned on immediately
+upon a response, the servo motor pulled the piano wire, the vibrator
+operated, decapsulated brine shrimp eggs were loaded into the brass
+contributing to the relapse.  The relapse of previously reinforced and
+extinguished responding in these models indicates that decreases in
+operant responding during extinction do not represent an elimination of
+prior learning.  Instead, relapse indicates new learning involving the
+extinction contingency [see 15]. 
+Relapse of operant behavior has been demonstrated with a wide
+variety of species in the three laboratory models of relapse serving as
+the focus in this investigation (see Table 1).  First, resurgence is the relapse of a previously reinforced and then extinguished response when
+reducing or eliminating reinforcement for a more recently trained response [e. g. ,19–22].  Hereafter, the response reinforced and then extinguished will be referred to as the target response and the more recently trained response as the alternative response.  Resurgence has been
+demonstrated with rats [e. g. ,20,23], pigeons [e. g. ,24,25], Siamese
+ﬁghting ﬁsh [26], monkeys [27], and humans [e. g. ,28].  Recently, our
+laboratory demonstrated resurgence with zebraﬁsh for the ﬁrst timeSecond, renewal is relapse due to changes in environmental context. 
+Speciﬁcally, renewal is the return of a target response when changing
+the global environmental context compared to the extinction context
+[e. g. ,30,31,32].  Renewal occurs, for example, when reinforcing and
+extinguishing the target response in diﬀerent contexts and then (1)
+returning to the training context (ABA renewal) or (2) transitioning to a
+novel context (e. g. , ABC renewal).  Renewal of operant behavior has
+been demonstrated with rats [30,33], pigeons [e. g. ,34,35], and humans
+[36] but not yet with zebraﬁsh. 
+Finally, reinstatement is relapse resulting from exposure to a range of
+events due to learning (e. g. , cues) or biological relevance (e. g. , stress)
+[37].  One commonly used method for assessing reinstatement of an
+extinguished target response is to present the event previously serving
+as the reinforcer independently of responding [38,39].  Reinstatement
+has been demonstrated with rats [e. g. ,40], pigeons [e. g. ,41,42], monkeys [43,44], and humans [e. g. ,45,46].  Thus far, there have been no
+demonstrations of reinstatement of operant behavior in zebraﬁsh −
+only reinstatement of a Pavlovian conditioned approach response to
+drug (cocaine or nicotine) [10]. 
+inﬂuences in relapse,
+All these studies suggest relapse of previously reinforced and then
+extinguished operant behavior is general across species.  These three
+procedures serve as experimental models for understanding the conditions under which relapse occurs and might be used as platforms to
+examine biological
+including developmental,
+pharmacological, and neurobiological factors [16].  Nevertheless, research on laboratory models of relapse using zebraﬁsh has been limited. 
+Therefore, the goals of the present study were to systematically replicate resurgence and to extend the analysis to renewal, and reinstatement of extinguished operant behavior in zebraﬁsh using an
+automated device to record discrete responses (i. e. , approaching sensors) and deliver decapsulated brine shrimp eggs as reinforcers [11,12]. 
+2.  General methods
+2. 1.  Subjects
+Forty experimentally naïve zebraﬁsh (National Bioresource Project
+of Japan, Riken Brain Science Institute), 7–8 months old at the start of
+the experiments, served as subjects.  They were wild-type ﬁsh (i. e. , not
+Fig.  1.  A photo of the automated device used in Experiment 1.  See text for details. T.  Kuroda Name
+Behavioural Brain Research 335 (2017) 215–222
+tube, and the servo motor pushed the eggs out of the tube and into the
+water (this whole series of events occurred approximately in 0. 5 s).  The
+feeder light then ﬂashed 5 times at a 0. 2-s interval.  Thereafter, the
+device remained inoperative until 5 s had elapsed since the onset of
+reinforcement. 
+The other type of the device, used to study renewal and reinstatement in Experiments 2 and 3, respectively, was similar to that used in
+Experiment 1 except that there were only two sensors (left and right),
+9 cm apart from each other, and a single feeder in between.  The two
+sensors were for the target and control responses, as described below. 
+The feeder was set on the midline of the front wall of the aquarium. 
+Except in Experiment 2, in which changes in contextual stimuli were
+necessary, a white partition covering each side of the aquarium minimized visual distraction during sessions.  A Lenovo® laptop computer
+with Visual Basic 2015® controlled the experiment and recorded data
+through an I/O board (Pololu, Mini Maestro servo controller). 
+2. 3.  Procedure
+After acclimation in the home aquarium for 3-4 days, the ﬁsh were
+trained to consume the reinforcer delivered from the feeder.  At this
+stage, a single feeder was set on the midline of the front wall of the
+aquarium and delivered the reinforcer randomly three times per min
+(i. e. , 20 s on average).  The sensors were removed to preclude responding to the sensors being reinforced adventitiously.  Sessions ended
+after 40 reinforcers. 
+When each ﬁsh consumed the reinforcer reliably, response training
+initiated with the sensors and feeder(s) being set as described previously and by reinforcing responses to a target sensor according to a
+ﬁxed-ratio (FR) 1 schedule.  In this schedule, every target response resulted in a reinforcer delivery.  When the ﬁsh obtained 40 reinforcers
+within 20 min, the schedule was changed from an FR 1 to a variableinterval (VI) 10 s, with the latter being in eﬀect for three 20-min sessions.  Under the VI 10-s schedule, the ﬁrst response after intervals with
+the average of 10 s resulted in a reinforcer delivery.  The VI schedules at
+this stage and in subsequent phases in each experiment consisted of 10
+intervals [47], randomly selected without replacement.  Reinforcement
+time (5 s per reinforcer) was excluded from the session time.  Sessions
+were conducted during the light period of the room’s light-dark cycle,
+around the same time of the day, seven days a week. 
+2. 4.  Data analysis
+The primary dependent variable was response rate (i. e. , responses
+per min).  A one-way repeated-measures ANOVA was conducted in each
+experiment with session as a within-subject independent variable and
+target response rate as a dependent variable.  To assess whether target
+responding was
+sensitive to reinforcement and extinction contingencies, the analysis included data from the last baseline (Phase-1)
+session and from extinction (Phase-2) sessions.  To determine the presence of relapse, the analysis included data from the last extinction
+(Phase-2) session and from the ﬁve relapse-test (Phase-3) sessions. 
+These sessions were consecutive and were evenly spaced in time; thus,
+the ﬁrst-order autocorrelation (i. e. , correlation between at a time, Tn,
+and the one before, Tn-1) was expected.  For this reason, the ﬁrst-order
+autoregressive structure was set for the covariance matrix when the
+ANOVA was conducted using the proc mixed function on SAS®. 
+Following the ANOVA, the Bonferroni method was used for post hoc
+tests (t tests) to control the familywise error rate at 0. 05.  This method
+could be too conservative for a large number of contrasts between
+means.  The primary question of the present study was whether target
+responding was higher in the ﬁve relapse-test (Phase-3) sessions than in
+the last extinction (Phase-2) session so that the mean contrast was
+limited to those ﬁve comparisons.  Thus, the alpha level was set at 0. 01
+(i. e. , 0. 05 divided by 5) in each of the post hoc tests for assessing relapse.  Likewise, for assessing sensitivity to reinforcement and extinction
+contingencies, the alpha level was set at 0. 01, 0. 007, and 0. 006 for
+Experiments 1, 2, and 3 where there were ﬁve, seven, and eight Phase-2
+sessions, respectively. 
+3.  Experiment 1
+The ﬁrst experiment investigated resurgence, which involved reinforcement of a target response in Phase 1, extinction of the target
+response while reinforcing an alternative response in Phase 2, and extinction of both responses in Phase 3.  In addition to the target and alternative responses, a control response that was never reinforced
+throughout the experiment was measured to dissociate resurgence from
+a possible increase in general activity induced by extinction (i. e. , extinction-induced variability) [48]. 
+We recently demonstrated resurgence with zebraﬁsh using a similar
+experimental setup [29] but the study was limited in several aspects. 
+First, the magnitude of the resurgence eﬀect was meager, perhaps due
+to the reinforcement schedules used.  We arranged equal VI 20-s schedules in Phases 1 and 2, but previous studies of resurgence indicate
+greater rates of alternative reinforcement in Phase 2 produce greater
+resurgence [19].  Therefore, we doubled the rate of alternative reinforcement in Phase 2 relative to Phase 1.  Second, the experimental
+apparatus was not optimal for assessing resurgence.  Speciﬁcally, three
+sensors and one feeder were aligned as follows: left sensor, middle
+sensor, the feeder, and right sensor with equal distances between each
+pair.  Either the left or right sensor was for the target response while the
+other sensor was for the control response (counterbalanced across ﬁsh),
+and the middle sensor was for the alternative response for each subject. 
+Thus, the distance between the target and alternative sensors, as well as
+the distance between the control and alternative sensors, varied across
+subjects.  This might have unnecessarily increased between-subject
+variability in the magnitude of resurgence.  This problem was eliminated in the present study by setting the three sensors equally apart
+with a feeder being placed between each pair of the sensors, as described in the Material section above. 
+3. 1.  Methods
+3. 1. 1.  Subjects and material
+Sixteen experimentally naïve ﬁsh (8 males and 8 females) initially
+served as subjects.  Three male ﬁsh failed to acquire either a target or an
+alternative response and their results are not reported.  Two sets of the
+device with three sensors and two feeders were used.  In a feeder test
+with 100 operations of the ﬁrst set, a mean of 19. 70 (SD = 6. 99) and
+24. 03 eggs (SD = 7. 62) were delivered per operation from the left and
+right feeders, respectively.  For the second set, a mean of 20. 88
+(SD = 6. 98) and 23. 67 eggs (SD = 7. 88) were delivered per operation
+from the respective feeders. 
+3. 1. 2.  Procedure
+response was
+3. 1. 2. 1.  Phase 1: acquisition.  The target
+reinforced
+according to a VI 20-s schedule.  Alternative and control responses
+were recorded but had no programmed consequence.  Approaching
+either the left or right sensor served as the target response, and the
+opposite sensor was for the alternative response, counterbalanced
+across subjects; the middle sensor served as the control response for
+all the subjects.  The LED colors (red, blue, and green) illuminating the
+tips of the sensors were counterbalanced across the subjects.  Only the
+feeder on the same side as the target sensor operated.  Sessions ended
+after 20 min and this phase lasted for 15 sessions. 
+3. 1. 2. 2.  Phase 2: extinction and alternative reinforcement.  The target
+response was
+response was
+reinforced according to a VI 10-s schedule.  Reinforcement rate was
+doubled between phases because previous studies with other species
+extinguished and the alternativeT.  Kuroda Name
+[e. g. ,18,19,49]. 
+showed higher reinforcer rates for alternative responding increase
+resurgence
+remained
+unreinforced.  Only the feeder on the same side as the alternative
+sensor operated.  Sessions ended after 20 min and this phase lasted for 5
+sessions. 
+responsecontrol
+3. 1. 2. 3.  Phase 3: resurgence test.  Extinction was in eﬀect for the target,
+alternative, and control responses and neither feeder operated.  Sessions
+ended after 20 min and this phase lasted for 5 sessions.  Resurgence was
+deﬁned as an increase in target response rates compared to target
+response rates during the last session of Phase 2; additionally, this
+increase in target response rate had to exceed that of control response
+rates in a given session [see 48]. 
+3. 2.  Results and discussion
+The left graph in Fig.  2 shows mean response rates for the target,
+alternative, and control responses in each phase.  During acquisition in
+Phase 1, target response rates were higher than alternative and control
+response rates, indicating that decapsulated brine shrimp eggs indeed
+served as a reinforcer when presented upon a target response.  Control
+response rates were slightly but consistently higher than alternative
+response rates, most likely because the control (middle) sensor was
+physically closer than the alternative sensor to the operable feeder.  In
+Phase 2, when removing reinforcement for target responding while
+introducing reinforcement for the alternative response, target response
+rates decreased and alternative response rates increased across sessions. 
+The decrease in target response rates from the last Phase-1 session to
+Phase-2 sessions was veriﬁed with an ANOVA, F(5, 60) = 56. 12,
+p < 0. 0001, with all Phase-2 sessions diﬀering from the last Phase-1
+session in post hoc tests (p’s < 0. 0001).  There was no reliable change
+in control response rates from Phase 1–2.  During the test of resurgence
+in Phase 3, removing alternative reinforcement increased target responding but not control responding; alternative responding decreased
+across sessions. 
+Mean obtained reinforcement rate (per min; SEM in parenthesis) for
+target responding across ﬁsh, in each of the last ﬁve sessions of Phase 1,
+were 2. 07 (0. 17), 2. 24 (0. 07), 2. 17 (0. 09), 2. 27 (0. 07), and 2. 12 (0. 12),
+respectively.  Mean obtained reinforcement rates for alternative responding in each session of Phase 2 were 0. 86 (0. 31), 1. 47 (0. 33), 2. 21
+(0. 30), 2. 54 (0. 29), and 2. 66 (0. 26), respectively.  Thus, the obtained
+reinforcement rates in Phase 2 successively increased across sessions of
+this phase.  This trend corresponded to the change in alternative response rates. 
+The right graph in Fig.  2 shows mean response rates in the last
+session of Phase 2 and all sessions of Phase 3.  The increase in target
+response rates during Phase-3 sessions relative to the last Phase-2 session was statistically signiﬁcant, F(5, 60) = 6. 14, p = 0. 0001.  Post hoc
+tests indicated that the diﬀerence in target response rates between the
+last Phase-2 session and the ﬁrst Phase-3 session, but not for other
+comparisons, was statistically signiﬁcant, t(60) = 5. 00, p < 0. 0001. 
+This suggests that resurgence occurred in zebraﬁsh and its magnitudeBehavioural Brain Research 335 (2017) 215–222
+Fig.  2.  Mean responses per min across ﬁsh in the last ﬁve
+sessions of Phase 1 (Acquisition) and all sessions of Phase 2
+(Extinction and alternative reinforcement) and Phase 3
+(Resurgence test) in Experiment 1 (left graph).  Closed symbols, open symbols and a dashed line without symbols represent the target, alternative, and control responses, respectively.  Error bars show ± SEM.  The right graph shows
+target and control response rates in the last session of Phase 2
+and each session of Phase 3 during resurgence tests. 
+was greatest in the ﬁrst Phase-3 session. 
+Overall, the present ﬁndings demonstrate with zebraﬁsh the reversal of performance with changes in contingencies in Phases 1 and 2
+[see also 50–52] and the resurgence of target responding when extinguishing a more recently reinforced alternative response in Phase 3 [see
+17].  The absence of systematic change in control response rates suggests the increase in target response rates in Phase 3 was a function of a
+previous reinforcement history from Phase 1 and the removal of alternative reinforcers when transitioning from Phase 2–3. 
+The present result was consistent with the ﬁnding of our previous
+study [29] despite the modiﬁcation in the arrangement of sensors and
+feeders.  We attempted to increase the magnitude of resurgence in the
+present study by arranging a greater reinforcement rate for alternative
+responding in Phase 2.  Although the magnitude was comparable in the
+present study, resurgence eﬀects were replicated and therefore indicate
+the generality and robustness of the eﬀect.  Further increasing the difference in reinforcement rate between phases might increase the magnitude of resurgence with zebraﬁsh but the magnitude might be limited
+due to generally low target response in Phase 1 compared to other
+species [e. g. ,20,23,24,25]. 
+4.  Experiment 2
+The second experiment investigated ABA renewal, which involved
+reinforcement of a target response under Context A in Phase 1 and
+extinction of the response under Context B in Phase 2.  In Phase 3, extinction remained in eﬀect but the context was changed back to Context
+A.  As in Experiment 1, a control response that was never reinforced was
+measured throughout the experiment to dissociate renewal from a
+possible increase in general activity when the context was changed in
+Phase 3.  Contexts were visual stimuli covering the sides of the aquarium
+because previous studies reported that zebraﬁsh behavior is sensitive to
+this modality of stimuli [53,54]. 
+4. 1.  Methods
+4. 1. 1.  Subjects and material
+Twelve experimentally naïve ﬁsh (6 males and 6 females) initially
+served as subjects.  Three male ﬁsh and one female ﬁsh failed to acquire
+responding and their results are not reported.  The device with two
+sensors and a single feeder was used.  In a feeder test with 100 operations, a mean of 24. 9 eggs (SD = 6. 09) were delivered per operation. 
+4. 1. 2.  Procedure
+4. 1. 2. 1.  Phase 1: acquisition.  The target response was reinforced in
+Context A according to a VI 20-s schedule.  The control response was
+recorded but had no programmed consequence.  Locations of the target
+and control sensors, as well as the LED colors associated with each
+sensor, were counterbalanced across subjects.  Context A was either a
+white partition covering each side of the aquarium or a black partition
+the aquarium with a green silicon sheet
+covering each side of
+T.  Kuroda Name
+Behavioural Brain Research 335 (2017) 215–222
+Fig.  3.  Mean responses per min across ﬁsh in the last ﬁve
+sessions of Phase 1 (Acquisition) and all sessions of Phase 2
+(Extinction) and Phase 3 (Renewal test) in Experiment 2 (left
+graph).  Closed symbols and a dashed line without symbols
+represent the target and control responses, respectively.  Error
+bars show ± SEM.  The right graph shows target and control
+response rates in the last session of Phase 2 and each session
+of Phase 3 during renewal tests. 
+underneath, counterbalanced across ﬁsh.  Sessions ended after 20 min
+and this phase lasted for 15 sessions. 
+4. 1. 2. 2.  Phase 2: extinction.  The target response was extinguished in
+Context B.  Contextual stimuli for Context B were opposite to the one
+used for Context A in Phase 1 for each ﬁsh.  The control response
+remained unreinforced.  Sessions ended after 20 min and this phase
+lasted seven sessions. 
+4. 1. 2. 3.  Phase 3: renewal test.  Extinction remained in eﬀect for the
+target and control responses and each ﬁsh was re-exposed to Context A. 
+Sessions ended after 20 min and this phase lasted ﬁve sessions.  Renewal
+was deﬁned as an increase in target response rates compared to target
+response rates during the last session of Phase 2 and this increase had to
+exceed that of control response rates in a given session. 
+4. 2.  Results and discussion
+The left graph in Fig.  3 shows mean response rates for the target and
+control responses in each phase.  Target response rates were higher than
+control response rates in Phase 1 (Context A).  Obtained reinforcement
+rates for target responding, calculated as in Experiment 1, in each of the
+last ﬁve sessions of Phase 1 were 1. 96 (0. 21), 2. 11 (0. 08), 2. 04 (0. 13),
+2. 13 (0. 05), and 2. 12 (0. 09) in, respectively.  Target response rates
+decreased to near zero while control response rates remained near zero
+in Phase 2 (Context B).  The decrease in target response rates from the
+last Phase-1 session to Phase-2 sessions was veriﬁed, F(7, 49) = 36. 08,
+p < 0. 0001, with all Phase-2 sessions diﬀering from the last Phase-1
+session (p’s < 0. 0001). 
+When placed back to Context A in Phase 3, the right graph in Fig.  3
+shows target response rates initially increased and then decreased while
+control response rates remained low.  The ANOVA indicated that the
+change in target response rates from the last session of Phase 2 to Phase
+3 was statistically signiﬁcant, F(5, 35) = 4. 71, p = 0. 0021.  Post hoc
+test indicated that the diﬀerence between the last Phase-2 session and
+the ﬁrst Phase-3 session was statistically signiﬁcant,
+t(35) = 4. 10,
+p = 0. 0002.  Diﬀerences in other comparisons were not statistically
+signiﬁcant. 
+In the present experiment, we observed renewal in zebraﬁsh upon
+returning to the training context after extinction and its magnitude was
+greatest in the ﬁrst Phase-3 session.  The absence of systematic change
+in control response rates suggests the increase in target response rates
+in Phase 3 was a function of a previous reinforcement history (Phase 1)
+and the change in context from Phase 2 (Context B) to Phase 3 (Context
+A).  Overall, these ﬁndings extend others showing sensitivity of zebraﬁsh learning to context [53,54] by demonstrating renewal of operant
+behavior with this species [32]. 
+5.  Experiment 3
+The third experiment
+investigated reinstatement [38,55], w hichinvolved reinforcement of a target response in Phase 1 and extinction of the
+response in Phase 2.  Phase 3 arranged response-independent presentations
+of the stimulus that served as the reinforcer for the target response during
+Phase 1.  As in Experiments 1 and 2, a control response was measured to
+dissociate reinstatement from general increases in activity [56]. 
+5. 1.  Methods
+5. 1. 1.  Subjects and material
+Twelve experimentally naïve ﬁsh (6 males and 6 females) served as
+subjects.  One male ﬁsh failed to acquire responding and its results are
+not reported.  As in Experiment 2, the device with two sensors and a
+single feeder was used.  In a feeder test with 100 operations, a mean of
+24. 2 (SD = 5. 58) were delivered per operation. 
+5. 1. 2.  Procedure
+5. 1. 2. 1.  Phase 1: acquisition.  The target
+reinforced
+according to a VI 20-s schedule.  The control response was recorded
+but had no programmed consequence.  Locations of the target and
+control sensors, as well as the LED colors associated with each sensor,
+were counterbalanced across ﬁsh.  Sessions ended after 20 min and this
+phase lasted for 15 sessions. 
+response was
+5. 1. 2. 2.  Phase 2: extinction.  The target response was extinguished and
+the control response remained unreinforced.  Sessions ended after
+20 min and this phase lasted for 8 sessions. 
+5. 1. 2. 3.  Phase 3: reinstatement test.  Neither target nor control responses
+resulted in a reinforcer delivery.  However, the reinforcer was delivered
+independently of responding twice per min on average, according to a
+variable-time 30-s schedule.  This rate approximated the obtained rate
+of reinforcement in Phase 1.  Sessions ended after 20 min and this phase
+lasted for ﬁve sessions.  Reinstatement was deﬁned as an increase in
+target response rates compared to target response rates during the last
+session of Phase 2, and this increase had to exceed that of control
+response rates in a given session. 
+5. 2.  Results and discussion
+The left graph in Fig.  4 shows mean response rates for target and
+control responses in each phase.  During acquisition in Phase 1, target
+response rates were higher than control response rates.  Obtained reinforcement rates for target responding, calculated as in Experiment 1,
+in each of the last ﬁve sessions of Phase 1 were 1. 92 (0. 08), 1. 96 (0. 06),
+1. 80 (0. 13), 1. 81 (0. 10), and 1. 90 (0. 10), respectively.  During extinction in Phase 2, target response rates decreased to near zero and control
+responses remained at this level for all sessions of this phase.  The decrease in target response rates from the last Phase-1 session to Phase-2
+sessions was veriﬁed, F(8, 80) = 28. 88, p < 0. 0001, with all Phase-2
+sessions diﬀering from the last Phase-1 session (p’s < 0. 0001).  When
+T.  Kuroda Name
+Behavioural Brain Research 335 (2017) 215–222
+Fig.  4.  Mean responses per min across ﬁsh in the last ﬁve
+sessions of Phase 1 (Acquisition) and all sessions of Phase 2
+(Extinction) and Phase 3 (Reinstatement test) in Experiment 3
+(left graph).  Closed symbols and a dashed line without symbols represent the target and control responses, respectively. 
+Error bars show ± SEM.  The right graph shows target and
+control response rates in the last session of Phase 2 and each
+session of Phase 3 during reinstatement tests. 
+reinforcers were delivered independently of responding during reinstatement tests in Phase 3, target response rates initially increased
+and then decreased but control response rates remained at low levels. 

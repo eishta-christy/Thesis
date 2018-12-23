@@ -1,0 +1,483 @@
+
+The last decade has seen increasing application of efﬁciency frontier
+models taking the material1 balance principle (MBP) into account to
+measure ﬁrm and regional level environmental performance and obtain
+both environmental information and economic outcomes (Coelli Name,
+2007.  Hoang and Coelli, 2011.  Reinhard Name, 2000).  The main acknowledged advantage of the MBP approach over other methods is that it is
+founded upon on the Law of the Conservation of Matter (Lauwers,
+2009).  According to this law, pollutant emissions from production activities are considered waste residuals (Ayres, 1995.  Ayres and Kneese,
+1969.  Pethig, 2006), and are measured as the balance between the potentially pollutant materials that enter the production system (nutrients
+from agricultural fertilizers, for example) and the materials that are
+transformed into ﬁnal goods (the nutrients that plants draw from the
+soil, for example).  From this perspective, it is of signiﬁcant importance
+to control the quantity and composition of inputs in the production process when dealing with the problem of environmental degradation,
+because the pollution generated in producing a given level of output
+will vary according to the quality and quantity of the inputs. 
+Following this logic, several authors (Lauwers, 2009.  Van Meensel Name, 2010a.  Welch and Barnum, 2009) have shown that the integration of
+the MBP into efﬁciency models also has major implications for decision
+makers.  They show that a strategy for a more efﬁcient management of inputs to reduce pollution generation may provide “win-win” outcomes,
+that conciliate the economic interest of ﬁrms with the environmental
+concern of society.  For instance, reducing the overuse of inputs by improving technical efﬁciency has a twofold beneﬁt, since it reduces both
+production costs and environmental pressure.  Likewise, it is implicit in
+the MBP approach that part of the improvement in environmental
+allocative efﬁciency can be achieved while decreasing costs.  For example,
+Lauwers (2009) and Van Meensel Name (2010a, 2010b) measure environmental economic trade-offs in a sample of farms, and ﬁnd half the
+sample able to achieve simultaneous improvements in cost allocation efﬁciency and environmental efﬁciency, by changing the proportions of
+their input factors to combinations that are both more environmentally
+friendly and less costly.  Similarly, Welch and Barnum (2009), in a sample
+of electricity generation plants, ﬁnd some that are able to achieve joint
+cost and environmental beneﬁts, by moving from the technical efﬁciency
+point to the minimum cost point or to the point of lowest pollution.  Evidence obtained by Nguyen Name (2012) also suggests that there exists a
+positive economic–environmental trade-off path for allocative efﬁciency. 
+Despite this evidence, typical MBP measures of environmental
+allocative efﬁciency (Coelli Name, 2007.  Nguyen Name, 2012) do not
+integrate production costs.  just as cost-efﬁciency measures do not
+consider environmental pressure.  They compute the maximum potential reduction in environmental damage without considering
+cost and the maximum potential cost reduction irrespective of environmental performance.  In this paper, we propose to integrate cost and environmental pressure into two alternative measures of cross-constrained
+allocative efﬁciency.  We see this integration as beneﬁcial from two perspectives.  The ﬁrst advantage of the cost-constrained approach, is that
+the proposed environmental allocative efﬁciency measure will seek pollution reduction input recombination consistent both with continued
+production of given outputs and with a given cost.  This makes these
+measures particularly useful for assessing pollution-reduction potential
+in a setting where there is reluctance to compromise economic performance.  The second beneﬁt, from the environmentally-constrained perspective, is that the cost allocative efﬁciency measures will also show
+the maximum feasible improvement in cost allocative efﬁciency that
+can be obtained while maintaining given environmental standards.  The
+value added of the cross-constrained method is that it will also bring
+into the analysis feasible intermediate options for efﬁcient substitution
+of inputs between the minimum cost and the minimum pollutant material input that could potentially lead to environmental gains (economic
+gains) without detriment to the economic (environmental) outcome. 
+Moreover, by extending the standard MBP cost-environment efﬁciency model to include these measures, we are able to distinguish
+improvements in allocative efﬁciency that traditionally involve no
+detriment neither to the ﬁrm's cost performance nor its environmental
+performance (constrained measures) from those that involve a positive
+or negative trade-off.  In this way, it provides information for environmental planning strategies.  It allows a distinction between environmental objectives that could be achieved while safeguarding or improving
+economic competitiveness and policies that would restrict economic activity.  The standard MBP model of cost and environmental efﬁciency do
+not provide this information. 
+To integrate costs and environmental in cross-constrained efﬁciency
+measures, we apply the constrained multi-objective optimization method, which is extensively used to map efﬁcient solutions in multi-criteria
+analysis (Chankong and Haimes, 1983.  Haimes Name, 1971.  Marler and
+Arora, 2004).  The advantage of this method is that it identiﬁes efﬁcient
+solutions without requiring ex ante speciﬁcation of a utility function. 
+Our work adapts the variation proposed by Mavrotas (2009) to ﬁnd
+the optimal pollutant material input-to-cost ratio.  The efﬁciency indices
+are computed from these optimal values. 
+To illustrate the usefulness of this method, we apply the efﬁciency
+measures to a sample of greenhouse horticultural farms in Spain.  In
+doing so, we focus on the environmental pressure exerted by the use
+of nitrogen fertilizers.  Our approach enables quantiﬁcation of the potential reduction in nitrogen input that can be achieved with no increase
+(and even a potential reduction) in costs, by improving both technical
+and allocative efﬁciency. 
+The paper is organized as follows.  In the next section, we describe the
+methodology.  Section 3 presents the sample description and empirical
+results, and the subsequent sections contain a discussion of the results
+and the conclusions to be drawn from them. 
+<Middle> Methodology. 
+In this section we reproduce the standard MBP joint cost and environmental efﬁciency model (Coelli Name, 2007) and extend it to include
+some new cross-constrained allocative efﬁciency indicators.  Our costconstrained environmental allocative efﬁciency indexes are computed
+with given outputs and given costs.  The environment-constrained cost
+allocative efﬁciency indicator is determined analogously.  Finally, a decomposition of allocative efﬁciency makes a distinction between environmental (cost) allocative efﬁciency gains involving no economic
+(environmental) trade-off and those resulting in a cost increase (environmental degradation). 
+2. 1.  Standard MBP Cost and Environmental Efﬁciency ModelConsider a set of ﬁrms that use N inputs, x Є R+
+N to produce M outputs
+M using a technology that may be represented by the feasible production as. 
+Assume that the production technology satisﬁes the standard axioms
+(Shephard, 1970), including convexity and free disposability of inputs
+and outputs. 
+The production activity also generates z Є R+
+S pollutant emissions as
+by-products, and by the material balance equation. 
+where a and b are (N × S, M × S) vectors of constant coefﬁcients, which
+represent the units of particular material compound or substance zs
+contained in the input and in the output (it can be any particular material or a chemical element or compound as for example nitrogen, sulfur,
+carbon, etc. ).  The possibility exists that some inputs and outputs may
+contain a zero amount of substance zs.  For the sake of clarity, we consider that there is only one pollutant emission, s = 1, and are thus able to
+remove the subindex s. 2
+The standard MBP cost and environmental efﬁciency model present
+two separate overall cost (CE) and overall environmental (EE) efﬁciency
+measures.  These measures are decomposed into a common measure of
+technical efﬁciency (TE) and two independent measures of allocative efﬁciency.  cost allocative efﬁciency (CAE) and environmental allocative efﬁciency (EAE).  In this section, we adhere very closely to the format used
+in Coelli Name (2007), where the output y is ﬁxed, and overall cost and
+overall environmental efﬁciency is referred to the minimum feasible
+cost and the minimum feasible amount of contaminants materials from
+inputs (material input), respectively.  See Appendix A for details of the
+Coelli Name (2007) speciﬁcation.  Here, we will comment only on the
+measures that constitute the basis of our own approach.  Let us illustrate
+the efﬁciency measures mentioned so far with a simple diagram. 
+Fig.  1 depicts the very simple case of a technology involving two inputs, x1 and x2, the isoquant or frontier of technical efﬁciency, the isocost
+line, which shows all combinations of inputs that cost the same total
+amount, w′x, and the iso-material line which shows all combinations of
+inputs that contain the same quantity of material or potential pollutant
+substances, a′x. 3
+This diagram shows four decision making units.  the least-cost unit,
+C*, the least-polluting unit, E*, and two inefﬁcient units, I and I′.  The TE
+of I is given by the quotient of Ot/OI.  its CE is given by the Oc/OI.  and
+its environmental efﬁciency, EE, is given by Oe/OI.  Its cost allocative efﬁciency (CAE) is given by Oc/Ot.  and its environmental allocative efﬁciency (EAE) is given by Oe/Ot.  The efﬁciency measures for unit I′ could be
+shown analogously.  However, there is an important difference between
+I and I′.  The I technically efﬁcient peer, t, lies on the portion of the
+isoquant between C* and E* that is considered efﬁcient.  At this point, it
+is worth specifying that the efﬁciency criterion used in this paper is similar in concept to that used by Shephard (1970) and Tone and Tsutsui
+(2010) to deﬁne technological efﬁciency, but applied to cost- environmental efﬁciency.  We will consider a production unit to be efﬁcient if
+within the input vectors of the feasible production set that yield at
+least its output rate there is no other allocation that is equally or less costly or equally or less pollutant, with one magnitude strictly smaller.  Conversely, we consider a unit to be weakly efﬁcient when there is no other
+feasible production alternative that can achieve the same or a greater
+amount of output simultaneously incurring strictly lower costs and causing strictly less environmental pressure. 
+Having made this caveat, it can be seen, meanwhile, that unit I′ is
+projected by technical efﬁciency to t′, which is not allocative efﬁcient. 
+There are several movements from t′ that would improve its efﬁciency. 
+For example, t′ can move to C*, thus simultaneously reducing its costs
+and its material input.  Also, t′ can move to t thereby reducing environmental pressure without increasing costs (we assume that t and t′
+have the same cost), and move from t to E* facing an environmentaleconomic trade-off. 
+Therefore, as illustrated by Fig.  1, the MBP approach shows that improvements in technical efﬁciency generate both economic and environmental beneﬁts (Lauwers, 2009).  Allocative efﬁciency indicators,
+however, do not relate cost and environmental pressure.  They show
+the maximum feasible cost reduction, irrespective of environmental
+outcomes or the maximum feasible reduction in material input, irrespective of economic outcomes.  MBP cost environment trade-off analysis, meanwhile, computes joint environmental and cost allocative
+efﬁciency gains, as could be achieved by moving from t′ to C* in Fig.  1
+(Lauwers, 2009.  Van Meensel Name, 2010a.  Van Meensel Name, 2010b. 
+Welch and Barnum, 2009).  However, the efﬁciency benchmark used
+in trade-off analysis is also either the minimum cost or the minimum
+material input.  Thus, standard MBP cost and environmental efﬁciency
+models do not deﬁne measures of environmental allocative efﬁciency
+that represent the movement from t′ to t in the ﬁgure, that is, the type
+of measures that lead to the maximum gain in one objective without
+detriment to the other.  In the next subsection, the standard model is extended to include these measures. 
+2. 2.  Cross-constrained Allocative Efﬁciency
+For an analysis including both the environmental and the economic
+components of allocative efﬁciency, we propose to use a two-stage procedure.  In the ﬁrst stage, the DMU's technical efﬁciency is measured.  Let
+us denote the technically-efﬁcient material input by a′xt and technicallyefﬁcient costs by w′xt.  In the second stage, two new allocative efﬁciency
+measures are deﬁned along an iso-cost line or iso-material input line.  The
+ﬁrst one will compute the maximum feasible material input reduction
+while maintaining ﬁxed output and technically-efﬁcient costs.  The second one will seek the maximum feasible cost-reduction that is consistent
+with continuous production and a technically-efﬁcient level of environmental pressure. 
+If the environment-oriented option is taken, constrained environmental allocative efﬁciency tells us how much the environmental pressure can be reduced without pushing costs above the technically
+efﬁcient level, w′xt.  The aim is to ﬁnd the point on the technicallyefﬁcient frontier that marks the lowest material input that is possible before costs exceed w′xt.  This is done by adapting the constrained method
+to obtain a procedure for ﬁnding local optima.  The constrained method is
+used in multi-objective optimization to map efﬁcient solutions (Marler
+and Arora, 2004.  Messac Name, 2003).  The method looks for efﬁcient solutions by optimizing a target function and using the other objective
+functions as constraints.  The values of these constraints should vary
+along the range of objective functions over the efﬁcient set (Messac Name, 2003).  For the case in hand, we drop the condition that the
+constrained objective values must be from the efﬁcient set, and thus
+adapt the method to ﬁnd an efﬁcient local solution (Mavrotas, 2009). 
+The procedure goes as follows. 
+First, ﬁnd the minimum material input for output level y and
+technically-efﬁcient costs w′xt, which takes the following functionalNow, denote by xce the combination of inputs that solves the
+constrained minimization of material input (3) (this combination can
+be denoted by t, which is the efﬁcient peer of t′ in Fig.  1).  It is now possible to deﬁne a cost-constrained environmental allocative efﬁciency
+measure (CCEAE). 
+This measure should indicate how much a DMU is able to reduce material input, by means of input reallocation without pushing costs above
+the technically-efﬁcient level. 
+It is a proven fact that a constrained minimum, such as a′xce, is always
+greater than or equal to a non-constrained minimum, such as a′xe
+(Primont, 1993).  Therefore, the CCEAE will always be greater than or
+equal to the EAE.  Taking into consideration that the EAE is the ratio between the minimum material input and the technically-efﬁcient material input for a given level of output, we can decompose as follows. 
+We will call this relationship a′xe/a′xce in Eq.  (5) costly environmental
+allocative efﬁciency (CEAE).  It is interpreted as the additional improvement in environmental efﬁciency that is required to achieve the minimal
+level of pollution per unit of output, after the unit has exhausted all its
+possibilities to improve environmental performance without increasing
+costs.  Thus, environmental allocative efﬁciency in the standard MBP
+model can be decomposed into two parts.  the CCEAE, which represents
+environmental performance gains that can be achieved by reallocating
+inputs without increasing costs, and the CEAE, which represents the additional improvement in environmental performance required to reach
+the most environmental friendly position.  Improving the CEAE implies
+a negative economic trade-off, because it represents a movement towards more restrictive environmental conditions. 
+However, in the case of ﬁrms where the input mix is more costly than
+that of the most environmentally-friendly unit, the cost restrictions in Eq. 
+(3) do not hold.  Then, any improvement in environmental allocative efﬁciency can go hand in hand with a reduction in costs.  In multicriteria
+optimization, such ﬁrms would be units with costs beyond the range of
+efﬁcient values (Messac Name, 2003), where the constrained optimization
+of program (3) would yield a weakly efﬁcient solution.  We, therefore,
+consider it worth noting two aspects of our contribution.  Firstly, it is
+easy to identify such units using decomposition (5) and comparing the
+CCEAE with the EAE.  If these two efﬁciency scores are the same and the
+CEAE is therefore unitary, it means there is a possibility of the DMU in
+question moving towards a point of minimum material input per unit
+output while still reducing costs.  Secondly, the solution of program (3)
+might not allow direct computation of xce.  To identify the joint cost- and
+material input of the reference efﬁcient unit in Eq.  (3), a further iteration
+can be speciﬁed (Mavrotas, 2009) to obtain the efﬁcient cost level.  In this
+iteration, costs are minimized by constraining material input to the level
+a′xce using the following program. 
+In this case, we deﬁne joint cost allocative efﬁciency (JCAE) by thewhere w′xce is the optimal cost for the constrained efﬁcient material
+input a′xce. 
+This JCAE measure indicates the proportional joint cost reduction that
+would result from increasing environmental allocative efﬁciency, by
+moving from the point of technical efﬁciency to that of minimum material input point. 
+The proposed method therefore not only allows us to isolate improvements in allocative environmental efﬁciency involving a cost
+increase from those involving no extra cost.  it also enables us to distinguish among the latter those that are cost-neutral and those that
+are cost-reducing.  That outcome is analogous in concept to the positive environmental trade-off reported by Van Meensel Name (2010a,
+2010b) and Welch and Barnum (2009). 
+The decomposition of cost allocative efﬁciency is analogous to that of
+environmental allocative efﬁciency.  where cost allocative efﬁciency is
+decomposed into polluting cost allocative efﬁciency (PCAE) and
+environment-constrained cost allocative efﬁciency (ECCAE). 
+The PCAE could be seen as the potential cost reduction due to a removal of restrictions on material input in its technical efﬁcient level.  By
+freely increasing pollutants, the unit would be able to move to the minimum cost position.  This movement could imply an increase in environmental pressure, but not always. 
+In fact, production units are very often so inefﬁcient that their input
+mix is more contaminating than that of the minimum-cost unit.  Of
+course, in this situation, environmental restrictions are not binding in
+cost minimization, and it is possible to achieve minimum cost and contamination reductions in parallel.  We therefore deﬁne joint environmental allocative efﬁciency (JEAE) to represent these contingencies. 
+This measure varies between zero and one, to indicate the proportional
+reduction in material input that would result from increasing costallocative efﬁciency.  When JEAE is less than one, stricter environmental
+regulations could push ﬁrms to seek simultaneous improvements in environmental and economic performance. 
+All these indicators are illustrated graphically in Fig.  2, which describes the same DMUs as Fig.  1.  In describing the allocative efﬁciency
+measures, we will focus on unit t′, which is the technical efﬁciency
+peer of the DMU I′. 
+For the environment-oriented allocation efﬁciency, it can be seen in
+the diagram that t′ could not reach the minimum emission point E* on
+the isoquant without increasing costs.  Starting from t′, the best environmental performance that can be achieved consistent with current costs is
+given by point tc′ on the isoquant, which is located on the same iso-cost
+line as t′.  In this case, EAE (Oe′/Ot′) is split into two components.  the
+CCEAE (Oec′/Ot′) and the CEAE (Oe′/Oec′).  Meanwhile, JCAE (Oe′/Oe′) is
+unitary, and the unit cannot reach the minimum material input by reducing costs. 
+Turning now to the cost-oriented allocative efﬁciency measures, we
+note that t′, produces more pollution than the minimum cost unit, C*.  In
+this case, the ECCAE and the CAE measures coincide, and are plotted as
+the ratio Oc′/Ot′.  Moreover, PCAE gives a unitary score, indicating that
+it is possible to reach the minimum cost position without increasing pollution.  In this case, a shift from t′ to C* to improve cost allocative efﬁciency implies a joint environmental allocative efﬁciency (JEAE) gain
+(Ou′/Ot′). 
+Thus, we have adjusted the MBP efﬁciency model to include crossconstrained allocative efﬁciency measures.  These measures draw a distinction between allocative efﬁciency gains that are neutral in cost, that
+involve an increase in cost, and those that generate a joint cost and environmental beneﬁt.  We wish to note the potential relevance of the information provided by these measures for environmental policy, because it
+enables the identiﬁcation of three distinct pollution-control approaches. 
+one that is in line with the ﬁrm's cost-reducing interests, one that that
+would not compromise its economic performance and one that would
+simply increase costs. 
+2. 3.  An Application of Data Envelopment Analysis (DEA) to Compute Efﬁciency Measures. 
+To compute the efﬁciency measures deﬁned above, we use Data Envelopment Analysis.  DEA is a non-parametric method of measuring the
+efﬁciency of a DMU,4 originally developed by Charnes Name (1978) for
+the estimation of technical efﬁciency, and frequently used in studies involving MBP-based efﬁciency measures. 
+The programs used to compute the efﬁciency measures in Section 2. 1
+are the standard DEA programs reported in the literature (Coelli Name,
+2007.  Färe Name, 1994) and are therefore not speciﬁed here. 
+The measures presented in Section 2. 2 are estimated using a twostage procedure.  For purposes of example, we show the procedure and
+program for the estimation of cost-constrained environmental allocative
+efﬁciency.  The remaining programs for the estimation of constrained efﬁciency measures in Section 2. 2 are run analogously.  First, radial technical efﬁciency (TE) is measured by linear programming as follows. 
+where xo and yo are, respectively, the N inputs and M outputs of the
+DMUo.  X and Y the input and output matrixes, N × K and M × K, of the
+K DMUs in the sample and λ is a vector K × 1 for the impact of each sample unit on the shape of the efﬁcient frontier. 
+After computing its technical efﬁciency score, we specify a technicallyefﬁcient input vector for the unit by scaling the original inputs. 
+Starting from this technically-efﬁcient input vector, we estimate the
+cost-constrained minimum emission level E(yo, a, w, xto) by means of
+the following program. 
+where the solution, xce, is conditional to costs not exceeding the technically-efﬁcient cost w′xto, for output level yo.  Having determined the
+cost-constrained minimum material input, cost-constrained environmental allocative efﬁciency can be computed as speciﬁed in Eq.  (4). 
+Note that, in programs (9) and (11), the technology is assumed to
+yield constant economies of scale, by leaving free the positive weight λ
+of each sample DMU.  This speciﬁcation was selected because the production technology in the empirical case to be analyzed below exhibits constant economies of scale, as implied by testing returns to scale in a Cobb–
+Douglas production function.  For the speciﬁcation of technologies with
+other types of returns to scale, it is sufﬁcient to introduce additional constraints on λ in the DEA model (Banker Name, 1984). 
+3.  Empirical Application. 
+The proposed method was applied to a sample of greenhouse tomato
+farms in Almeria, Spain.  The necessary data were collected in a survey
+conducted in 2010.  Greenhouse horticulture generates a signiﬁcant
+amount of pollutant emissions (Torrellas Name, 2012).  The use of nitrogen-enriched fertilizers is one important driver of this problem.  In the
+following application, we will show how our proposed model helps to
+search the right use of nitrogen fertilizers to minimize environmental
+pressure. 
+The sample comprises of 105 conventional horticultural farms randomly selected from the total population of such farms in the Nijar
+area of Almeria (Spain).  Seven farms were dropped from the original
+sample due to incomplete responses and the remainder was reduced
+to 88 after ﬁltering the data and removing outliers (Chen and Johnson,
+2010.  Jahanshahloo Name, 2004.  Pastor Name, 1999.  Simar, 2003). 
+The survey data include individual quantities and values of a large
+number of inputs and outputs.  land, equipment and machinery, expenditure on fertilizers and crop protection, variable expenditures (seed,
+energy, water, etc. ) and quantities of 15 types of nitrogen-enriched fertilizers.  All farm inputs, including land, are considered under discretionary control of farm managers.  We remind the reader that, according to
+the 2009 Spanish Agricultural Census, 31. 2% of the total land used for
+agriculture in the country was rented land, and that this land tenure regime constitutes one of the main instruments for expanding farming
+activity. 
+To reduce the dimension of the DEA program, the data were aggregated into a single output and ﬁve inputs.  Inputs were aggregated into
+5 groups.  hectares of land, labor input measured as annual work units
+(AWU), expenditure on pesticides, expenditure on fertilizers and
+“other inputs”.  “Other inputs” is an aggregate of capital depreciation
+and other variable costs.  Variable selection tests (Pastor Name, 2002)
+and input aggregation tests were run (Simar and Wilson, 2001) to determine input relevance and aggregation validity. 
+Tomato production was the farmers' main source of income (more
+than 80% of farm revenue).  Other vegetable and fruit crops (melon,
+water-melon and courgette) were of minor importance, but not
+negligible.  The aggregation of the outputs was somewhat complicate in
+this case.  In principle the output could be aggregated by deﬂating the
+value of total farm production by a cross-output price index.  The advantage of these procedures is that inherent differences in the quality and
+composition of output could be reﬂected by values, and included in the efﬁciency estimation.  Unfortunately, the price will likely vary across farms
+due to the very high volatility in vegetable prices that has an asymmetric
+impact on farms.  A related problem is that 44% of the sample farms are
+members of local marketing cooperatives that usually pay members
+weekly for the produce supplied, irrespective of quality grades within
+each variety.  Then, rather than using a cross-output price index, we
+have calculated an average product price index for each farm using the
+prices reported by each individual farmer.  An implicit output quantity
+index was then derived from the ratio of the production value to the average product price.  This procedure prevents distortions of cost and environmental efﬁciency measures due to random price variation.  Of course,
+the resulting output quantity data will not incorporate quality differences. 
+Considering the particularities of this case, we decided that this disadvantage was less critical than the bias generated by high price volatility.  Nevertheless, this should be borne in mind when interpreting the results. 
+In the calculation of cost efﬁciency, land and family labor are treated
+as opportunity costs.  This is done by multiplying price per hectare of land
+in the area (data from the Land Price Survey of the Spanish Minister of
+Agriculture) by the interbank interest rate and labor by the farm labor
+wage rate. 
+The nitrogen input depends on the nitrogen ﬂows from soil and fertilizers.  Flows of nitrogen from soil were calculated as the coefﬁcients
+of atmospheric deposition and nitrate ﬁxation by microorganisms
+taken from OECD (2001).  The values for nitrogen content in each type
+of fertilizer were taken from the farm survey data.  Given the large number of fertilizers employed by the sample farms, we have aggregated the
+nitrogen content of fertilizers into a single input. 
+To reduce aggregation bias and ensure consistency between technical
+efﬁciency and the various overall (cost and environmental) efﬁciency
+measures,5 technical efﬁciency is estimated using two aggregators for
+fertilizer input.  a costs aggregate and a nitrogen content aggregate. 
+Table 1 displays some descriptive statistics for the data.  The nitrogen
+per ha spread is wider than the cost spread and narrower than the output
+spread.  Similarly, there is greater variability in nitrogen inputs than in
+farm land input. 
+4.  Results. 
+The standard efﬁciency measures are presented ﬁrst.  And, in order to
+solve the research question about the value of the newly designed decomposition scores they are compared with the proposed decomposition
+of allocative efﬁciency. 
+4. 1.  Standard Cost and Environmental Efﬁciency Measures. 
+Using the dataset and the variables described above, we began by
+computing the standard efﬁciency scores proposed in Section 2. 1. 
+These results are shown in Table 2.  At ﬁrst sight, the results reveal low
+levels of both economic and environmental efﬁciency in the sample
+farms.  The average score in cost efﬁciency (CE) is 55. 9%, which means
+that the average reduction in costs that is possible by improving management efﬁciency is 44. 1%.  This cost efﬁciency is attributable in roughly
+equal measure to technical efﬁciency (78. 0%) and to cost allocative efﬁciency (71. 0%). 
+Analogously, average environmental efﬁciency stands at 42. 9%, indicating that, if the sample farms were to use smaller quantities of nitrogen-enriched fertilizers, they could reduce their nitrogen input by
+57. 1% with no drop in production.  The average environmental efﬁciency
+score can be decomposed into technical efﬁciency (78. 0%) and environmental allocative efﬁciency (55. 0%).  At this point, it is worth recalling
+that the technical efﬁciency score is an indicator of a farm's potential to
+achieve improvements in environmental and economic performance. 
+Improving technical efﬁciency by proportionally reducing input quantities without reducing output would enable farms to reduce production
+costs and nitrogen input simultaneously by 22. 0%.  Instead, the allocative
+efﬁciency scores are independent.  The cost allocative efﬁciency score indicates that costs could be reduced by a further maximum of 29. 0% by
+adjusting the combination of inputs, and disregarding the potential environmental impact of such a shift.  Similarly, the environmental allocative
+efﬁciency score shows the maximum potential for farms to reduce nitrogen input (45. 0%) by adjusting the input mix, keeping output constant
+and disregarding the potential cost consequences. 
+The results show that the farms perform better in cost efﬁciency
+than in environmental efﬁciency.  These differences between environmental efﬁciency and farm costs can be explained in theoretical terms
+as the result of farmers' treating environmental impacts as externalities,
+and failing to integrate them into their decision-making processes.  The
+differences observed between the cost-allocative efﬁciency scores and
+the environmental allocative efﬁciency scores are consistent with this
+hypothesis, since we have found that the current combination of inputs
+in the sample farms is closer to the optimal cost mix than to the optimal
+environment mix. 
+However, not all substitutions between factors involve a conﬂicting
+choice between reducing costs and reducing pollution.  For example,
+44% of the sample farms combine inputs in proportions that are more
+contaminating than those used by the minimum cost unit.  A typical
+farm in this group would be represented by point t′ in Fig.  1.  These
+units may ﬁnd a peer efﬁciency unit with a lower nitrogen input on
+their iso-cost line.  However, they will ﬁnd none with lower costs on
+their iso-nitrogen line, because their nitrogen input per unit of output
+is higher than that of the lowest cost unit.  This means that the options
+for these farms to improve in allocative efﬁciency vary according to
+how they direct their operations.  If they focus on reducing pollutant
+emissions, they may be able to reduce their nitrogen input slightly without any cost impact.  If their focus is on cost reduction, however, they
+might be able to achieve parallel reductions in production costs and environmental pressure.  Meanwhile, a second group of farms, representing
+7% of our study sample, reports input combinations that are more costly
+than the most environment-friendly combination.  The results and options for these farms are analogously opposite those of the ﬁrst group
+mentioned.  Finally, the outcomes of the remaining 49% of the sample
+lie between those of the lowest-cost and the lowest environmental
+load alternatives.  Some of these farms may be allocatively efﬁcient. 
+Once they achieve technical efﬁciency they cannot reduce environmental
+pressure or cost without an economic-environmental trade-off.  Some
+other farms may be allocatively inefﬁcient6 and, therefore, able to improve in one area without compromising their performance in the other. 
+Overall, these results suggest that, there is an opportunity for a significant proportion of the sample farms to improve in cost (environmental)
+allocative efﬁciency with no detriment to their environmental (cost)
+allocative efﬁciency.  The allocative efﬁciency scores reported so far do
+not measure improved performance in one dimension while keeping
+performance in the other dimensions at least constant.  The results in
+the next section measure these improvements. 
+4. 2.  Decomposition of Allocative Efﬁciency. 
+In this section, we calculate the new allocative efﬁciency measures
+proposed in Section 2. 2, which enable us, ﬁrst, to quantify the improvement in allocative efﬁciency that can be achieved in one area without
+degrading the outcome in the other, and then to compute a decomposition of cost or environmental measures of allocative efﬁciency in its cross
+restricted and not restricted components.  The estimated efﬁciency scores
+are presented in Table 3. 
+Average environment-constrained cost allocative efﬁciency is 81. 3%
+and average joint environmental allocative efﬁciency is 91. 1%.  This
+shows that the sample farms can make cost-saving adjustments to the
+input mix without increasing their nitrogen surplus.  This allocative improvement would enable them, on average, to reduce costs by a further
+18. 7% and nitrogen input by 8. 9%, from the technical efﬁciency level.  If
+the aim is to reduce costs to the minimum, the average polluting cost
+allocative efﬁciency score (87. 2%) tells us that they can reduce costs by
+a further 12. 8% by reallocating factors of production, albeit to the detriment of their environmental performance. 
+Likewise, the allocative efﬁciency scores estimated in a context in
+which the aim is to reduce environmental damage, while keeping costs
+below the technical efﬁciency target, reveal an average nitrogen input reduction potential of 21. 9%, which can be achieved in conjunction with an
+average cost saving of 1. 0% on the technically efﬁcient level.  Thus, the potential for reducing emissions through factor substitution is diminished
+when there is reluctance to compromise on economic performance.  Indeed, in order to minimize emissions per unit output, farms would have
+to reduce their nitrogen input by a further 29. 6%, although this would increase costs.  It should be noted, however, that, assuming economic performance to be satisfactory at current farm costs, then the potential for
+nitrogen input reduction without increasing costs will be greater. 
+The analysis of the individual efﬁciency scores shows that only 5%
+percent of the sample farms are allocatively efﬁcient.  That is, for a
+given level of output, they cannot improve in environment-allocative
+efﬁciency without compromising their economic performance and, reciprocally, they cannot reduce costs without compromising their environmental performance.  For the remaining farms, improvements in
+one area are possible without detriment to the other. 
+6 The fact that an observation of the isoquant takes values in costs and nitrogen input
+between those of the two extreme efﬁcient alternatives is a sufﬁcient condition to be evaluated as efﬁcient in a particular model with 2 inputs (Charnes Name, 1990).  However, we
+have not found an extension of this condition to a model with more inputs, neither in the
+literature nor in an experiment that we have realized simulating a Cobb-Douglas production function. 
+Closer examination of the individual efﬁciency scores reveals further
+ways of achieving efﬁciency gains.  It is very important to discern which
+farms use an input mix so contaminating and costly that there is room
+to reduce costs while still improving environmental performance or, to
+reduce environmental pressure while improving cost-efﬁciency.  We
+show how the efﬁciency scores shed light on this issue in Table 4,
+where we present, ﬁrst of all, the most dramatic results in this respect,
+that is, those derived from the breakdown of cost allocative efﬁciency. 
+The farms are divided into two groups.  Group A represents the 44% of
+the sample farms that use proportions of inputs that are more contaminating than those used by the minimum cost unit.  Thus, the nitrogen
+input restriction is not effective when a farm is pursuing cost minimization.  Not only that, but there is room for these farms to achieve environmental improvements while still seeking to optimize their costs.  Group B
+represents the rest of the sample farms, including the efﬁcient ones.  Their
+characteristic feature is that their technically efﬁcient nitrogen input is
+lower than that of the cost-efﬁcient unit, showing that the nitrogen
+input restriction is effective with farms using a cost-minimizing approach. 
+The results reveal two clearly distinct groups and quantify their potential efﬁciency gains.  By looking at the efﬁciency scores of group A,
+for example, we can see that the ECCAE and CAE coincide, and that all
+the farms qualify as efﬁcient in terms of PCAE and inefﬁcient in terms
+of JEAE.  This corroborates the ﬁnding that it is in the interests of any
+farm in the group to achieve joint economic and environmental beneﬁts
+by using a cost-optimization approach.  These joint efﬁciency improvements would consist of a potential average cost-reduction of 18. 7% and
+a potential average nitrogen input reduction of 21. 8%.  The cost-allocative
+efﬁciency scores of the farms in Group B, on the other hand, show that if
+they were to try to improve their cost- allocative efﬁciency without
+compromising their environmental performance, they could reduce
+their costs by 18. 6%, which would place them at a point on the cost
+and environmental efﬁciency frontier between the least cost point and
+the least nitrogen input point.  To move from this point to the minimum
+cost point, they would need to reduce their costs by a further 22. 1%, but
+this shift would jeopardize their environmental performance. 
+Like Table 4, Table 5 separates the results of the farms in group C
+(7. 3% of the sample), where reduction of nitrogen input is not hampered
+by cost restrictions, from those of group D (92. 7% of the sample) where
+the cost restriction holds.  Our proposal for the break-down of environment-allocative efﬁciency enables a clear distinction of the differences
+between these two groups.  Firstly, the results show that group C has
+the potential to reduce their environmental pressure to a minimum
+while also reducing production costs.  This is reﬂected in the exactly
+equal average scores for EAE (80. 7%) and CCEAE (80. 7%), which can be
+interpreted as the absence of cost restrictions on minimizing nitrogen
+input.  In addition, the JCAE (85. 8%) is less than unity, indicating that
+this group has scope to achieve joint cost and environmental beneﬁts
+moving to the point where the nitrogen input per unit of output is reduced to a minimum. 
+The farms in group D, meanwhile, are depicted by their efﬁciency
+scores.  The estimated CCEAE scores show the largest potential reduction
+in the nitrogen input to be 22. 1%, without pushing costs above the technically efﬁcient level.  Finally, the CEAE and JCAE scores show that the
+farms need to reduce their nitrogen loads by a further 31. 7% if they
+wish to reduce their pressure on the environment to a minimum, although this will bring about an increase in production costs.  Thus, our
+proposed method further enables us to locate farms on the joint cost
+and environmental efﬁciency frontier, as well as to obtain direct measures of the joint cost and environmental allocative efﬁciency gains. 
+In synthesis, the results indicate that farmers may improve in cost
+allocative efﬁciency (nitrogen allocative efﬁciency) without detriment
+to environmental (economic) outcomes.  Cross-constrained indicators
+of allocative efﬁciency, integrating both cost and environmental objectives, have enabled us to bring to light this key aspect of the issue. 
+These ﬁndings illustrate the explanatory power of our methodological
+proposal, and its capacity to assess the scope for greenhouse vegetable
+producers to improve economic and environmental sustainability by simultaneously addressing technical and allocative efﬁciency. 
+<Conclusion> Discussion. 
+One important feature of efﬁciency analysis based on the MBP is the
+focus on input allocation adjustments as a means to reduce both the
+costs and the pollution associated with production activities.  The standard technical efﬁciency measures used in the MBP approach are consistent with this logic, since they indicate simultaneous economic and
+environmental beneﬁts.  The mutually-independent cost and environmental allocative efﬁciency indicators reported in the literature, by contrast, capture potential gains in only one of the two objectives.  This paper
+contributes to the MBP approach by using a multi-objective constrained
+optimization method to deﬁne cross-constrained allocative efﬁciency
+measures.  Since no previous measures of this type exist, we are unable
+to ﬁnd any MBP-based efﬁciency frontier model with which to compare
+our work.  However, MBP trade-off analysis has found and computed the
+joint economic and environmental beneﬁts, that could be gained by
+moving from the technical efﬁciency point towards the minimum cost
+point (Lauwers, 2009. 

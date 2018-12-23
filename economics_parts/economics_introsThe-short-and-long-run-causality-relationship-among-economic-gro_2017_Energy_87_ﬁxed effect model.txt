@@ -1,0 +1,156 @@
+
+The world has known for over a century an important economic
+development.  Industrial developments, the increase in the number of
+vehicles and domestic equipments have led to a signiﬁcant increase in
+energy demand.  Energy is an essential basis for social and economic
+development.  States must ensure adequate supply of energy for their
+citizens while ensuring the sustainability of that supply.  Energy supply
+is a permanent challenge for our societies, especially as the need for
+states continues to increase.  Overall, the SMCs are facing rapid population growth coupled with relatively low incomes, as well as an accelerated pace of urbanization, added to signiﬁcant needs of socio-economic
+development.  This is reﬂected in a growing demand for energy services
+and associated infrastructure.  Indeed, in all SMCs, energy demand is
+constantly increasing.  To meet their energy needs, the SMCs use about
+95% of fossil fuels.  If the trend observed has continued for 30 years,
+energy consumption could increase by 65% between 2000 and 2025
+and be 97% would be satisﬁed by fossil energies in 2025.  Such a scenario
+will have many consequences, such as: increased energy dependency
+and insecurity, high energy bills (importing countries), reduced export
+proﬁts (exporting countries), vulnerability of the production and
+distribution system, high local air pollution and as well as climate
+change.  In the same context, the question of ﬁnancing goes far beyond
+that of mobilizing the ﬁnancial resources of international cooperation. 
+The ﬁnancial development can provide efﬁcient ﬁnancial service for
+foreign banking markets, and improve the access of both foreign and
+domestic ﬁrms to ﬁnancial goods and services (Dasgupta Name, 2001;
+Barth Name, 2004; Lee and Chang, 2008).  According to Karanﬁl (2008)
+and (2009), the causality between economic growth and energy consumption is not justiﬁed just by a simple bivariate model.  He suggested
+adding one of the ﬁnancial variables such as domestic credit to private
+sector, stock market capitalization or liquid liabilities into the model. 
+He also argued that interest rate and exchange rate can affect the energy
+consumption through energy prices.  Furthermore, Fung (2009) study
+found that an efﬁcient ﬁnancial system creates more products, and
+the inputs for these products increase the demand for energy.  Thus,
+ﬁnancial development is a factor which should be taken into account
+in energy consumption.  (See Fig.  1. )
+Sadorsky (2011) pointed three effective channels of ﬁnancial
+development over energy consumption.  First, there is a direct effect. 
+When the ﬁnancial development improves, consumers can borrow
+easier and cheaper in order to buy durable goods which consume a lot
+of energy.  Secondly, improved ﬁnancial development helps businesses
+to access to ﬁnancial capital easily and less costly.  Additionally, stock
+market development can also affect businesses by providing them
+with additional funding source.  These ones can let businesses expand
+(business effect).  Thirdly, the wealth effect: increased stock market
+activity usually affects the conﬁdence of consumers and businesses by
+creating wealth effect.  Increased economic conﬁdence may expand
+the economy and promote energy demand.  The relationship between
+ﬁnancial development and energy consumption has been discussed in
+recent previous studies (Mielnik and Goldemberg, 2002; Sadorsky,
+2011; Islam Name, 2013; Shahbaza Name, 2016).  The econometric
+approach of empirical studies often is based on a linear dynamic panel
+model (Sadorsky, 2010; Ozturk and Al-Mulali, 2015; Shahbaz Name,
+2017), autoregressive distributed lag (ARDL) bounds (Fuinhas and
+Marques, 2012; Shahbaza Name, 2016; Bekhet Name, 2017), a
+cointegration model (Islam Name, 2013; Mahalik Name, 2017), or Granger
+causality (Dan and Lijun, 2009; Furuoka, 2015).  Energy is seen as the indispensable tool for sustainable development.  In these circumstances,
+determining the causal link between energy consumption, ﬁnancial
+development and economic growth is of particular importance to
+researchers and decision-makers.  Indeed, it allows deducing the implications of adequate energy, economic and ﬁnancial policies to achieve
+the objective of economic development.  To the best of our knowledge,
+there has never been an attempt to investigate the short and long run
+causality among economic growth, energy consumption and ﬁnancial
+development for SMCs.  There are few studies available in the existing
+literature investigating the causal relationship between economic
+growth, energy consumption and ﬁnancial development (Alam Name,
+2015; Mahalik Name, 2017; Bekhet Name, 2017).  According to the conclusion derived from these studies, the previous literature that focuses on
+the cointegration and causal relationship between growth, energy and
+ﬁnancial development is not conclusive to provide policy recommendation that can be applied across countries.  This paper therefore aims at
+fulﬁlling this gap and contributing to empirical literature.  The purpose
+of this study is to investigate the relationship between economic
+growth, energy consumption and ﬁnancial development in the 6 SMCs
+for the period 1995–2015 using multi-steps methodology: Stationary,
+Co-integration tests, autoregressive distributed lag (hereafter ARDL)
+and vector error correction model (hereafter VECM).  The ARDL bounds
+testing approach investigates short run as well as long run parameter
+instantaneously. 
+The rest of the paper proceeds as follows: Section 2 provides a literature review on ﬁnancial development, energy consumption and
+economic growth.  Section 3 describes empirical methodology for this
+study.  Section 4 reveals empirical ﬁndings and discussion.  Section 5
+concludes with a summary of the main ﬁndings and policy implications. 
+2.  Literature review. 
+In the past few years, the causal link between energy consumption
+and economic growth has gained increasing attention in the recent
+literature (Islam Name, 2013; Khan Name, 2014; Shahbaz and Lean,
+2012; Shahbaz Name, 2013a, 2013b; Omri and Kahouli, 2014a, 2014b;
+Mahalik Name, 2017; Bekhet Name, 2017).  The empirical ﬁndings of the
+existing energy literature are not unambiguous due to the use of various
+econometric approaches such as correlation analysis, simple regressions, bivariate causality, unit root tests, multivariate cointegration,
+panel cointegration, VECM, ARDL, inter alia.  However, the empirical
+studies that examine the relationship between ﬁnancial development,
+energy consumption and economic growth in a systematic manner
+still lack.  As Table 1 demonstrates, the ﬁndings of these studies are inconclusive.  These empirical studies show a range of conﬂicting results:
+vary vastly in terms of signs, magnitudes and signiﬁcance.  Some
+researchers have found a negative relationship and no causal relationship between ﬁnancial development and energy consumption (Mielnik
+and Goldemberg, 2002; Dan and Lijun, 2009; Shahbaz Name, 2013a,
+2013b), while others detected a positive and a bidirectional causality between ﬁnancial development and energy consumption (Sadorsky, 2011;
+Al-Mulali and Sab, 2012a, 2012b; Islam Name, 2013; Khan Name, 2014;
+Omri and Kahouli, 2014a, 2014b; Alam Name, 2015; Bekhet Name, 2017). 
+To be more speciﬁc, Dan and Lijun (2009) apply Granger causality to
+test the relationship between energy consumption and ﬁnancial development in China's Guangdong province.  They showed that ﬁnancial
+development failed to increase energy consumption.  Furthermore,
+Sadorsky (2010) detected a direct link between ﬁnancial development
+and energy consumption by using the dynamic panel method in 22 developing countries for the period of 1990–2006.  His ﬁndings indicated
+that there was a signiﬁcant positive relationship between ﬁnancial
+development and energy consumption.  In addition, Sadorsky (2011)
+examined the impact of ﬁnancial development on energy consumption
+in a sample of 9 Central and Eastern European frontier economies.  The
+empirical results, obtained from dynamic panel demand models, show
+a positive and statistically signiﬁcant relationship between ﬁnancial
+development and energy consumption.  In a similar way, Xu (2012)
+investigated the nexus between ﬁnancial development and energy
+consumption during the period 1999–2009 with a panel data set in 29
+provinces of China, using system-GMM.  The results indicated a positive
+as well as signiﬁcant relationship between ﬁnancial development and
+energy consumption. 
+In the same context, Shahbaz and Lean (2012) examined the relationship between ﬁnancial development and energy consumption in Tunisia
+for the period of 1971–2008.  The researchers adopted the ARDL and the
+Johansen cointegration method for their empirical analysis.  The ﬁndings
+indicated that there was a long run cointegration relationship between
+ﬁnancial development and energy consumption.  In addition, the two
+variables had a bidirectional causal relationship.  By using panel data
+method, Al-Mulali and Sab (2012a) examined the ﬁnance-energy
+nexus in 30 Sub-Saharan African countries between 1980 and 2008, reported that there was bidirectional causality between ﬁnancial development and energy consumption.  Furthermore, Al-Mulali and Sab (2012b)
+analyzed the ﬁnance-energy relationship in 19 countries for the period of
+1980–2008.  They concluded that there was no causal relationship between the variables.  Focusing on Malaysia, Islam Name (2013) investigated the effects of ﬁnancial development on energy consumption between
+1971 and 2009.  Their ﬁndings revealed mutually reinforcing bidirectional causality between the ﬁnancial development and the energy consumption.  Shahbaz Name (2013a) analyzed the ﬁnance-energy nexus in
+China for the period of 1971–2011.  The ARDL bounds testing approach
+to cointegration was applied to examine long run relationship among
+the series while stationarity properties of the variables was tested by applying structural break test.  The results indicated that there was no causal relationship between the variables.  In a similar way, Shahbaz Name
+(2013b) did not detect any causal relationship between the ﬁnancial development and the energy consumption in Indonesia over the period
+from 1975 to 2011.  In further studies, Shahbaz Name (2013a) demonstrated that ﬁnancial development resulted in increased energy consumption
+and conﬁrmed that energy use and ﬁnancial development have a positive impact on economic growth in China.  Islam Name (2013) examined
+a long run relationship among consumption of energy, ﬁnancial development and economic growth for Malaysia over the 1971–2009 periods by
+implementing the ARDL approach to cointegration; and tested the
+direction of causality using the VECM.  The results suggest that energy
+consumption is inﬂuenced by ﬁnancial development, both in the short
+and the long run. 
+In another study, Omri and Kahouli (2014a, 2014b) used the dynamic panel method to examine the ﬁnance-energy nexus in 65 countries
+for the period of 1990–2011.  The researchers detected a positive relationship between the ﬁnancial development and the energy consumption.  More recently, Komal and Abbas (2015) explored the ﬁnancegrowth-energy nexus for Pakistan over the 1972–2012 periods, by
+employing the system GMM estimation technique.  The study tried to
+capture the impact of ﬁnancial development on energy consumption
+through economic growth channel.  The study found positive and significant impact of ﬁnancial development on energy consumption through
+the economic growth channel.  Indeed, Furuoka (2015) examined the relationships between ﬁnancial development and energy consumption in
+Asia for the period of 1980–2012.  The ﬁndings of the panel cointegration
+test indicated that there was a long run equilibrium relationship
+between ﬁnance and energy consumption in the region.  Moreover, the
+heterogeneous panel causality test detected an unidirectional causality
+from energy consumption to ﬁnancial development but not vice versa. 
+These results indicate that an expansion of energy usage could be a driving force behind ﬁnancial development in Asia.  Lending support to this
+argument, Alam Name (2015) examined the relationship among energy
+consumption and different ﬁnancial development indicators in the
+panel of selected SAARC countries over a period of 1975–2011.  Panel
+cointegration test suggested that the variables were cointegrated and
+had a long-run relationship between them.  The ﬁxed effect model
+shows that there is a signiﬁcant relationship among energy consumption, economic growth and ﬁnancial development.  In another study,
+Mahalik Name (2017) investigated the relationship between ﬁnancial development and energy consumption for Saudi Arabia by using annual
+data for the period 1971–2011. 

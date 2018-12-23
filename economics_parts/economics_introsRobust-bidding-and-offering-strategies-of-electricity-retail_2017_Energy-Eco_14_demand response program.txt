@@ -1,0 +1,21 @@
+
+In order to supply end-user customers and determine optimum selling price for expected proﬁt maximization, uncertainty modeling of
+market price and demand should be done by retailer (Growe-Kuska
+Name, 2003).  The retailer can determine the selling price based on
+ﬁxed price, time-of-use price or real-time price.  Finally, the retailer
+should prepare the curves for day-ahead market to purchase (sell)
+power from (to) the power market.  It should be noted that retailer
+can use the power market, bilateral contracts, self-dispatchable distributed generation units (DGs) and renewable energy sources (PV systems
+& wind turbines) to supply demand of customers.  But, sometimes it is
+possible that demand of customers is low.  Therefore, surplus energy
+from renewable energy sources and DG units can be sold to power market by retailer.  Therefore, in addition to determining the optimal bidding curves, optimal offering curves of retailer are obtained based on
+proposed robust optimization approach in the proposed paper. 
+1. 1.  Literature review. 
+The researches about determination of retail price by retailer are
+generally classiﬁed into three time periods containing long-term, midterm and short-term planning.  The review of related researches is categorized based on objective function, type of selling price determination,
+solution methodology and uncertainty modeling. 
+In long-term planning, Ref.  (Nojavan Name (2017d) minimizes total
+cost without pricing, uncertainty modeling, demand response program
+(DRP) and smart grid technology and maximization of expected proﬁt
+considering uncertainty modeling using scenario-based stochastic
+model is provided in Ref.  Ahmadi Name (2013) without pricing. 

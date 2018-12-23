@@ -1,0 +1,211 @@
+
+Limited regulatory oversight and weak public ﬁnancial disclosure in the municipal bond market provide a novel context
+for studying the conﬂicting roles of market and political forces in driving disclosure decisions.  From a market perspective,
+low borrowing costs minimize resources consumed by interest payments and maximize resources that can be devoted to
+political priorities.  Therefore, municipal ofﬁcials are incented to use disclosure to reduce the cost of capital, to the extent the
+beneﬁt exceeds the cost of publishing and disseminating the information.  From a political perspective, municipal ofﬁcials
+operate under a democratic system in which voters rely on the limited information available to them to make electoral
+decisions.  Therefore, reputational damage from disclosing negative information to voters may inhibit disclosure. 
+To better understand the trade-off between minimizing the cost of capital through transparency, minimizing expected
+reputational costs by suppressing negative information, and minimizing administrative costs, I identify several events that
+alter the cost-beneﬁt tradeoff.  Because these events affect only a subset of municipal bond issues, unaffected issues create a
+natural control group. 
+First, I identify a ubiquitous, externally imposed escalation of credit risk: the abatement of municipal bond insurance. 
+Municipal bond insurance was historically prevalent in the municipal bond market because it reduces the cost of capital for
+issuers.  During the ﬁnancial crisis, municipal bond insurers suffered large losses related to subprime mortgage exposure,
+leading to credit downgrades for all of the bond insurers.  By 2010, most insurers ceased writing new policies, several were
+forced to cease paying claims, and a few, including Ambac, sought bankruptcy protection.  Despite the fact that exposure to
+municipal bonds did not precipitate the ﬁnancial distress of the municipal bond insurers, the cost of capital for issuers of
+insured debt increased. 
+After controlling for unobservable issue-level heterogeneity, group-speciﬁc time trends, time ﬁxed effects, new issuance,
+changes in credit quality, and changes in county-level demographics, I document that issuers of insured bonds respond to
+the diminution of bond insurance with increased disclosure, on average.  Speciﬁcally, issuers of insured debt are 7 percent
+more likely to ﬁle ﬁnancial statements and 60 percent more likely to ﬁle a budget after Ambac's bankruptcy than issuers of
+uninsured debt.  This disclosure increase is particularly pronounced for issues insured by Ambac and issuers of insured debt
+that issue new bonds over the ensuing two-year period, suggesting these disclosures are motivated by a desire to reduce the
+cost of capital.  By contrast, the countervailing reputational incentive to suppress negative information is particularly acute
+for issuers that were inordinately exposed to the nationwide drop in house prices that precipitated the distress of the bond
+insurers.  I ﬁnd that issuers of insured bonds located in counties that experience extreme house price depreciation are less
+likely than other issuers to increase disclosure following Ambac's bankruptcy, demonstrating the relative strength of
+reputational incentives. 
+Next, I examine the relationship between disclosure and heightened credit risk that stems endogenously from disclosing
+negative information.  Because voters cannot directly observe the performance of county ofﬁcials, they evaluate ofﬁcials
+across a variety of indirect economic, ﬁscal, and social outcomes.  I focus on two such outcomes that overlap with the
+dimensions on which the rating agencies evaluate credit risk.  From an economic perspective, voters penalize incumbents for
+personal welfare loss, such as income abatement (Lewis-Beck and Stegmaier, 2000).  From a ﬁscal perspective, voters
+penalize incumbents for wealth transfers in the form of increased governmental spending (Peltzman, 1990).  These negative
+outcomes jointly heighten the cost of capital and decrease the probability of political success for incumbent ofﬁcials. 
+I ﬁnd that issuers that either suffer a decline in local per capita income or increase spending reduce the quantity and
+quality of public disclosure.  Issuers in counties that experience a negative change in per capita income ﬁle 7 percent fewer
+ﬁnancial statements and are 33 percent less likely to separately ﬁle a budget in the following year than issuers that do not
+experience a negative change in per capita income.  Issuers that increase spending are 4 percent less likely to ﬁle ﬁnancial
+statements, ﬁle 11 percent fewer ﬁnancial statements and are 22 percent less likely to ﬁle a budget in the following year
+than issuers that do not increase spending.  These reductions suggest that, on balance, the desire to capture personal political
+success tends to outweigh the capital market-based motive to provide transparency.  Moreover, issuers with relatively strong
+ex-ante electoral incentives are particularly likely to suppress negative information.  By contrast, issuers that are subject to
+relatively strong voter oversight are less likely to suppress negative information. 
+Finally, I examine the relationship between dissemination costs and disclosure.  I capitalize on the introduction of a free,
+electronic, centralized repository for municipal disclosures (similar to the SEC's EDGAR system for corporate disclosures). 
+The online system allows issuers to communicate information immediately and inexpensively to all stakeholders at once.  I
+provide evidence that the ability to reach a broad audience at lower cost online is associated with enhanced disclosure. 
+Issuers with few alternate dissemination channels are 9 percent more likely to disclose and ﬁle 28 percent more ﬁnancial
+statements after the inception of the repository than large, general purpose issuers that are more likely to have web sites.  By
+contrast, issuers of pre-refunded bonds ﬁle 20 percent fewer ﬁnancial statements in the repository than issuers of bonds
+that are required to provide continuing disclosures. 
+Overall, this paper seeks to develop a richer understanding of municipal disclosure incentives, but it also contributes
+broadly to the disclosure choice literature.  My ﬁndings demonstrate that the relationship between risk and disclosure
+depends on the nature of the risk.  I provide novel evidence that to the extent reputational capital is not threatened,
+increased risk is associated with increased disclosure.  This suggests that even in the municipal bond market, in which capital
+is relatively cheap, issuers believe there are beneﬁts to transparency.  However, municipal ofﬁcials have powerful personal
+incentives to preserve reputational capital.  When present, these short-term political incentives tend to outweigh the perceived capital market beneﬁts of transparency. 
+The rest of the paper is organized as follows: Section 2 develops hypotheses.  Section 3 describes the data, empirical
+proxies, and research design used to estimate the relation between disclosure incentives and disclosure outcomes.  I present
+results demonstrating relationships between disclosure, cost of capital, reputational capital, and the cost of dissemination in
+Section 4.  I offer concluding remarks in Section 5. 
+2.  Disclosure incentives. 
+As of 2015, state and local governments owe investors over $3. 7 trillion, spanning 50 thousand different issuers and
+1. 5 million individual municipal bonds.  These bonds ﬁnance general governmental operations and myriad projects, ranging
+from sewage to hospitals.  Repayment sources are also diverse, ranging from property taxes to usage fees.  Despite the
+economic importance of the municipal bond market, municipal disclosure is weak relative to corporate disclosure.  For
+example, the rate of failure to ﬁle ﬁnancial disclosures in 2009 was nearly 40 percent (Schmitt, 2011). 
+Weak municipal disclosure persists because of a weak ex-ante commitment to disclosure.  Issuers of municipal securities
+are exempt from the majority of federal securities laws, including the registration and reporting requirements of the
+Securities Act of 1933 and the Exchange Act of 1934.  At the time of issuance, issuers must agree to provide annual ﬁnancial
+disclosures to designated information repositories within a speciﬁed period (usually six to nine months).  However, breach of
+a continuing disclosure covenant does not constitute a technical default and issuers are not subject to direct regulatory
+enforcement of their disclosure obligations.  The lack of regulatory consequences for failure to ﬁle annual ﬁnancial statements makes disclosure effectively voluntary for many issuers, inducing a great amount of heterogeneity in both the
+quantity and quality of available information. 
+Most of the extant municipal disclosure research explores variation in the quality of disclosure.  These studies document a
+relationship between reporting quality and a speciﬁc aspect of the capital market, political, or regulatory environment.  From
+a capital market standpoint, disclosure quality is positively related to debt levels (Austin and Robbins, 1986) and governance
+(Baber Name, 2013) and negatively related to bond insurance (Gore Name, 2004).  From a political standpoint, reporting quality
+is positively related to the council-manager form of government (Evans and Patton, 1983) and negatively related to electoral
+incentives (Kido Name, 2012).  Finally, from a regulatory standpoint, reporting quality is positively related to state GAAP
+disclosure regulation (Gore, 2004). 
+I extend this literature in three important ways.  First, I investigate the decision to provide ﬁnancial statements to the
+public.  In the aforementioned studies, measurement of reporting quality is conditional upon the existence of ﬁnancial
+statements.  However, not all issuers provide ﬁnancial statements to the public.  For example, Baber Name (2013) lose 30
+percent of their sample due to lack of ﬁnancial statement availability.  Second, I extend prior cross-sectional analyses that
+document an association between the level of risk and the level of disclosure (Gore Name, 2004; Botosan and Plumlee, 2002)
+by examining the relationship between changes in different types of risk and changes in disclosure.  Third, rather than focus
+on disclosure incentives provided by one stakeholder in particular, I study the tension between capital market incentives
+and political disincentives.  To measure the relative strength of conﬂicting incentives, I examine the disclosure response to
+several changes in the municipal environment. 
+2. 1.  Municipal bond insurance. 
+Bond insurers accept an up-front fee, and in return agree to make principal and interest payments in the event of issuer
+default.  The value of bond insurance to municipal bond issuers is the strong credit rating of the insurer, which reduces the
+cost of borrowing for the issuer.  Prior to 2008, all of the “big four” municipal bond insurers (Ambac, MBIA, FGIC, and FSA)
+carried AAA ratings and over ﬁfty percent of new issues were insured.  Investors in insured debt had little incentive to
+perform robust ﬁnancial analysis on the underlying credit because they experienced loss only in the event of joint issuer and
+insurer default.  However, the likelihood of insurer default increased during the ﬁnancial crisis of 2007–2009 because the
+insurers wrote insurance on structured ﬁnance securities tied to the housing market, for which they were unable to pay
+claims.  All of the big four insurers' credit ratings were downgraded below AAA in 2008 and continued to decline, many to
+speculative-grade, in 2009 and 2010.  By the time Ambac sought Chapter 11 bankruptcy protection in 2010, less than nine
+percent of new issues were insured.  I refer to the diminution of bond insurance as the “Ambac bankruptcy” in this paper
+because Ambac's November 2010 bankruptcy ﬁling was a high-proﬁle event that punctuated the severity of the industry's
+distress. 
+The diminution of bond insurance had two related but distinct implications for municipal bond issuers.  First, the risk of
+insurer default increased the cost of capital on existing insured debt.  Yields on insured bonds, particularly those insured by
+troubled insurers, rose above yields on equivalent uninsured debt after the ﬁnancial crisis (Bergstresser Name, 2013), in part
+due to uncertainty about the credit quality of underlying issuers.  Therefore, issuers of bonds insured by Ambac in particular
+may choose to use disclosure as an alternate mechanism to reduce their cost of capital.  The second implication of the
+diminution of bond insurance is increased cost of capital for future issuances.  Because insurance capacity and its perceived
+beneﬁt to issuers were dramatically lower following the ﬁnancial crisis, issuers of insured debt that subsequently issue new
+debt are particularly likely to substitute additional transparency for the future loss of insurance. 
+I measure issuers of insured bonds' disclosure response to the diminution of bond insurance relative to the response of
+issuers of uninsured bonds.  Therefore, the ability to cleanly draw inferences relies on the assumption that issuers of insured
+bonds were not asymmetrically affected by the economic conditions that led to the insolvency of the municipal bond
+insurers.  While this is likely a fair assumption, depressed home values across the country led to defaults on sub-prime
+mortgages.  Some issuers (irrespective of insurance) were more exposed to house price depreciation than others.  Therefore,
+some issuers of insured bonds were simultaneously exposed to economic risk from depressed home values and credit risk
+from the depressed value of bond insurance.  For these issuers, disclosure can reveal negative local economic outcomes and
+therefore poses a threat to the reputational capital of county ofﬁcials.  Issuers of insured bonds that experience extreme local
+house price depreciation are less likely to increase disclosure than issuers of insured bonds whose local economy did not2. 2.  Negative outcomes. 
+Counties are governed by a board of elected ofﬁcials (hereafter, a “commission”) that is presided over by a senior ofﬁcial
+who is generally responsible for preparing the budget. 1 I refer to county commissioners and senior ofﬁcials, collectively, as
+county “ofﬁcials. ” County ofﬁcials have a ﬁduciary relationship with investors and a political relationship with the electorate.  Both stakeholders (creditors and voters) have a vested interest in the economic and ﬁscal strength of the county. 
+Despite the fact that county ofﬁcials cannot directly control the local economy, economic changes are important to
+creditors and voters.  Moody's and Standard & Poor's heavily weight the local economy in their municipal rating criteria and
+explicitly consider per capita income in their rating methodologies.  Standard & Poor's attributes the use of per capita income
+to “the data availability of these statistics at the local level and their correlation with overall economic activity and local
+government revenues” (Standard & Poor's, 2012).  Moreover, the political economy literature suggests that voters incorporate
+indirect outcomes, such as personal welfare changes, into their assessment of politicians.  Votes for incumbent presidents,
+senators, governors, and congressmen increase in per capita income and job growth (Peltzman, 1990; Lewis-Beck and
+Stegmaier, 2000). 2 Therefore, a decline in per capita income at the county level simultaneously raises the cost of capital and
+lowers the reputational capital of county ofﬁcials. 
+Governmental spending is also important to creditors and voters.  The two major credit rating agencies evaluate local
+governmental control over expenditures because expenditure controls lessen the likelihood of ﬁscal distress.  Furthermore,
+voters penalize spending increases around election years at the federal and state level (Peltzman, 1992).  Irrespective of how
+the spending is ﬁnanced, voters respond negatively to shifting resources from the private sector to the public sector of the
+economy.  Therefore, creditors and voters are apt to respond negatively to spending increases, raising the cost of capital and
+lowering the reputational capital of county ofﬁcials. 
+I examine whether and how disclosure changes in response to these negative economic and ﬁscal outcomes.  On one
+hand, disclosure may increase because the cost of capital increases.  Disclosure decisions motivated by cost of capital considerations are likely to be made by issuers with greater ﬁnancing needs.  Therefore, issuers that subsequently issue new
+debt are more likely to respond to cost of capital incentives than those that issue debt infrequently. 
+On the other hand, disclosure may decline because self-interested politicians seek to maximize their own utility.  One way
+to maximize utility (increase the probability of re-election) is to temporarily suppress information that may be reputationally damaging.  The rationale is similar to corporate managers who delay discretionary bad news disclosures in the hope
+that they may never have to release the bad news if the situation improves before the required information release (Kothari
+Name, 2009).  Because disclosure is effectively voluntary and required information releases only occur at the time of bond
+issuance, municipal investors are not able to easily distinguish issuers with negative information from issuers with no
+information (Dye, 1985).  Moreover, timely data from external sources at the county level is relatively sparse.  For example,
+county level economic data from the Bureau of Economic Analysis (BEA) is released with a 16-month delay.  Therefore,
+municipal ofﬁcials can temporarily withhold damaging information and hope that stakeholders will focus on favorable
+information in the interim (Verrecchia, 1983). 
+While the direction of the disclosure response to negative outcomes is ultimately an empirical question, several anecdotes suggest public municipal disclosure decreases in the face of ﬁscal and economic distress.  The City of Harrisburg,
+Pennsylvania, ﬁled for bankruptcy protection in October of 2011, having failed to formally ﬁle annual ﬁnancial statements in
+any of the three preceding years.  In addition, estimated disclosure-compliance rates fell from 67 percent before the ﬁnancial
+crisis to 60 percent during the ﬁnancial crisis (Schmitt, 2011). 
+The incentive to suppress negative information is heterogeneous across issuers.  General purpose issuers ﬁle comprehensive annual ﬁnancial reports (CAFRs), which often disclose information about county demographics, property values,
+principal employers, and principal taxpayers.  These statements are particularly likely to inform residents, voters, and
+creditors about the economic condition of the county.  Non-general purpose issuers ﬁle fund-speciﬁc statements that also
+often include economic information.  For example, school districts ﬁle statements that may include information about
+student test scores, funding for needy families, spending on school lunches for underprivileged children, and spending on
+capital improvement projects that address overcrowding.  While school district disclosures are implicitly informative about
+the state of the local economy, general purpose statements are explicitly informative.  Therefore, the incentive to suppress
+negative economic information by withholding disclosure is most pronounced for general purpose issuers. 
+Similar to the notion that some issuers are apt to provide more economic information than others, not all ﬁscal information is created equal.  Peltzman (1992) ﬁnds that while voters respond negatively to all types of government spending
+increases, state voters respond particularly negatively to welfare spending increases.  At the local level, low-income housing
+bonds are closely related to welfare.  Therefore, housing issuers are more likely than other types of issuers to withhold
+information about politically unpopular spending increases. 
+Electoral incentives also play an important role in determining the magnitude of reputational disclosure costs.  Speciﬁcally, I expect the propensity to suppress negative information to be relatively high in counties in which incumbent ofﬁcials
+tend to run for re-election and in counties in which the term served by the senior ofﬁcial is short because he must stand for
+re-election (or re-appointment) more often. 
+By contrast, governance mechanisms may constrain the ability of politicians to manipulate the information environment. 
+I consider three broad forms of governance.  First, I consider voter oversight.  Voters serve an oversight role when incumbent
+ofﬁcials tend to be replaced or competition between political parties is strong (Baber Name, 2013).  Second, I consider
+structural mechanisms that monitor senior ofﬁcials.  Senior ofﬁcials are monitored when the controller responsible for
+preparing and disseminating ﬁnancial information is independently elected or the county is governed by a council-manager
+form of government (Evans and Patton, 1983).  Finally, I consider structural mechanisms that constrain county commissioners.  Commissioners are constrained by the imposition of term limits and the ability of citizens to petition for elected
+ofﬁcials to be removed from ofﬁce.  I expect the propensity to disclose negative information to increase when any of these
+governance mechanisms are in place. 
+2. 3.  Dissemination channel. 
+A self-regulatory organization, the Municipal Securities Rulemaking Board (MSRB), has regulatory authority over
+municipal securities professionals.  However, the MSRB does not have direct control over municipal securities issuers.  Primary market disclosure (in the form of offering documents called “ofﬁcial statements”) is now robust because the MSRB
+requires underwriters to obtain such documents to offer the securities to investors. 
+On July 1, 2009, the MSRB established an online continuing disclosure service via the Electronic Municipal Market Access
+(EMMA) system.  The stated objective of the web site is to provide information “free of charge… presented in a manner
+speciﬁcally tailored for retail, non-professional investors who may not be experts in ﬁnancial or investing matters. ” Before
+July 1, 2009, ﬁnancial statements were available through four fee-based information repositories (including Bloomberg)
+geared toward market professionals.  EMMA now serves as the sole ofﬁcial repository for issuers' continuing disclosure
+documents, which are available to the public at no charge. 
+The implementation of the EMMA web site is unique because it represents a sharp change in the ease of disseminating
+information.  Moreover, EMMA has a well-deﬁned start date, which facilitates a relatively straightforward test of the
+assertion that the Internet “reduced the costs of providing voluntary disclosures and presumably increased their supply”
+(Healy and Palepu, 2001). 
+I expect the beneﬁts of low-cost dissemination through EMMA to be most apparent for local authorities, which are less
+likely than large general purpose issuers to have alternate channels through which they communicate with stakeholders.  I
+also expect issuers that plan to issue debt after EMMA is introduced to place more importance on communicating with bond
+investors and make use of the EMMA system to a greater extent than other issuers.  By contrast, the beneﬁts of low-cost
+dissemination are least likely to accrue to issuers that are not required to ﬁle ﬁnancial statements on an ongoing basis. 
+Issuers of pre-refunded bonds are not required to provide continuing disclosures because the funds to repay investors are
+held in escrow.  Therefore, I expect issuers of pre-refunded bonds to disclose less in EMMA than other issuers. 
+<Middle> Data and research design. 
+3. 1.  Sample, empirical proxies, and descriptive statistics. 
+My analyses are based on a random sample of 1,972 municipal bond issues, issued by 1,359 issuers across 638 counties
+and 48 states. 3 The issuers in the sample include counties, county schools and colleges, county hospitals and nursing homes,
+county water and sewage providers, and county housing projects.  I focus on counties (and county subsidiaries) because they
+are numerous, economically and demographically heterogeneous, and provide a wide range of services.  In addition, because
+timely data from external sources is sparse at the county level, disclosure from issuers is informative to investors and voters. 
+Municipal bond issuers can issue multiple bonds over time, with different features and for different purposes.  These
+bonds are underwritten and sold in serial maturity, and each offering under a bond contract is collectively referred to as a
+bond issue. 

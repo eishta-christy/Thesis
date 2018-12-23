@@ -1,0 +1,727 @@
+
+1. Introduction
+
+Many studies explore the effects of regulatory monitoring and en-
+forcement activities on the subsequent behavior of facilities constrained
+by regulatory laws. These regulatory activities are effective if they
+prompt facilities to improve their compliance with laws. From the stan-
+dard theory of deterrence (Becker, 1968), regulatory monitoring and
+enforcement activities prompt subsequent improvements in compli-
+ance by deterring non-compliance through increases in either the cer-
+tainty of punishment, severity of punishment, or both. However, many
+studies identify alternative, non-monetary motivations for complying
+with regulatory laws.1 As the most prominent alternative motivation,
+regulated facilities may be intrinsically motivated to comply with regu-
+latory laws. Intrinsic motivation involves many dimensions, such as ex-
+ternal refs, e.g., adhering to professional norms, and internal
+refs, e.g., adhering to one's own self-identity as law abiding or
+cooperative.
+Our study extends the standard theory of deterrence by incorporat-
+ing these additional motivations into our conceptual framework. Using
+this framework, we explore regulated facilities' perceptions of the effec-
+tiveness of regulatory monitoring and enforcement efforts for inducing
+compliance with regulatory laws. In particular, our study explores the
+inﬂuence of these perceptions on facilities' responses to regulatory in-
+spections and enforcement actions conducted at a given facility (“spe-
+ciﬁc deterrence”) or other similar facilities (“general deterrence”).
+
+No previous study explores this dimension of regulatory monitoring
+and enforcement. As the closest topic, various studies explore regulated
+facilities' perceptions of the fairness of environmental protection laws
+(Lazarus, 1997; Lazarus, 1993; Tarlock, 1992; Hsu, 2004; Schroeder,
+1993; Zinn, 2002; Wiener, 1999). For example, environmental regula-
+tion can be perceived by regulated entities as “unfair” partially because
+it does not provide ﬂexible means of compliance (Zinn, 2002). Within
+this literature, surprisingly few studies explore the issue of enforcement
+fairness within the realm of compliance with environmental protection
+laws (Rechtschaffen, 1998; Kagan, 1994; Costle, 1982; White, 1996).
+Earnhart et al. (2016) explores the link from the perceived fairness of
+environmental enforcement on regulated facilities' compliance with ef-
+ﬂuent limits, ﬁnding that greater fairness undermines the extent of
+compliance; speciﬁcally, facilities who perceive that their regulators
+treat them fairly “always” comply less with their efﬂuent limits than
+facilities who perceive that their regulators only treat them fairly
+“sometimes”.
+
+Another literature explores regulated facilities' responses to regula-
+tory monitoring and enforcement (e.g., Earnhart, 2004a; Earnhart,
+2009; Earnhart and Segerson, 2012). Gray and Shimshack (2011) survey
+the evidence regarding environmental enforcement, concluding that
+both monitoring and enforcement improve compliance, proving gener-
+ally effective deterrents.
+
+None of these previous studies explores the role played by the per-
+ception of enforcement effectiveness. In fact, because these studies
+adopt the standard theory of deterrence, there is no role for factors
+other than pecuniary (extrinsic) motivations. Yet evidence suggests
+that non-monetary or intrinsic motivations may be relevant even for
+regulated ﬁrms. For example, several studies demonstrate the impor-
+tance of enforcement style. Short and Toffel (2010) ﬁnd that explicit
+threats can reduce compliance with environmental regulations, while
+both Winter and May (2001) and Earnhart and Glicksman (2015) dem-
+onstrate that coercive enforcement styles can be counter-productive.
+These ﬁndings are consistent with aggressive enforcement styles
+crowding out the intrinsic motivation to comply or cooperate with reg-
+ulators. To explore the different paths through which perceptions of ef-
+fectiveness might inﬂuence compliance decisions, we develop a general
+conceptual framework that includes both standard monetary incentives
+and behavioral factors such as intrinsic motivation.
+
+Beyond these scholarly contributions, our study's results possess
+policy implications. As long as perceptions inﬂuence the effects of gov-
+ernment interventions on environmental compliance, policymakers –
+the EPA and state environmental protection agencies – should incorpo-
+rate this insight into their enforcement of environmental protection
+laws.
+
+For our empirical analysis, we examine the Clean Water Act, which
+restricts discharges from point sources, such as industrial factories, by
+imposing discharge limits through issued permits. Environmental pro-
+tection agencies induce compliance with these discharge limits by
+conducting inspections and taking enforcement actions. As our sample,
+we examine chemical manufacturing facilities permitted under the Na-
+tional Pollutant Discharge Elimination System (NPDES) during the years
+2002 to 2004.
+
+Using an original survey of these facilities, we collect data on facili-
+ties' self-reported perceptions of the effectiveness of regulatory moni-
+toring and enforcement activities. One survey question asks whether
+the respondent believes that inspections effectively induce chemical fa-
+cilities to comply with discharge limits; a second question asks whether
+the respondent believes that monetary ﬁnes effectively induce chemical
+facilities to comply. For each question, respondents chose from four cat-
+egories: deﬁnitely not, probably not, probably yes, and deﬁnitely yes.
+We construct two perception indicators by contrasting “yes” categories
+and “not” categories.
+
+Our empirical analysis interacts these perception indicators with
+standard measures of inspection- and enforcement-related deterrence
+to assess whether facilities that perceive regulatory monitoring and en-
+forcement activities as effective respond differently to actual monitor-
+ing and enforcement activities conducted against the individual
+facility or similar facilities. We investigate both speciﬁc and general de-
+terrence and state and federal inspections.
+
+We ﬁnd that, on average, federal inspection-related general deter-
+rence is the only effective means of improving the extent of compliance.
+However, when we estimate the effects separately for those who per-
+ceive enforcement to be effective and those who do not, our conclusions
+differ substantially. For facilities that perceive enforcement to be effec-
+tive, increased deterrence of any type generates little gain, with only
+federal inspection-related general deterrence (marginally) signiﬁcantly
+affecting the extent of compliance. For managers who already perceive
+enforcement to be effective, increased deterrence does not change the
+extent of compliance. The effects on those who perceive enforcement
+to be ineffective are very different. In particular, the actual experience
+of being inspected (speciﬁc deterrence) by a state agency proves effec-
+tive, while greater state inspection-related general deterrence does not.
+Greater general deterrence from federal inspections is also effective. Our
+results reveal that a complex set of motivations inﬂuence the compli-
+ance decisions of environmental managers.
+
+2. Regulatory Context.
+Our empirical analysis examines the wastewater discharged by U.S.
+chemical manufacturing facilities regulated under the U.S. Clean
+Water Act's NPDES system between 2003 and 2004. Environmental pro-
+tection agencies issue facility-speciﬁc permits to facilities regulated as
+point sources. These permits identify the pollutant-speciﬁc discharge
+limits with which facilities must comply. Due to considerations over
+local ambient water quality, wastewater discharge limits vary across fa-
+cilities and time regardless of sector.
+
+NPDES permits require regulated facilities to monitor and self-report
+their discharges on a regular basis.2 By comparing these reported dis-
+charges to permitted discharges, we calculate the “discharge ratio”,
+which measures the extent of compliance.
+
+To induce compliance with discharge limits, the EPA and state agen-
+cies periodically inspect facilities and take enforcement actions as need-
+ed. Nearly all states possess “primacy” to implement the NPDES system.
+These authorized state agencies are primarily responsible for monitor-
+ing and enforcement. However, the EPA retains authority to monitor
+and sanction facilities. Inspections are a key component of environmen-
+tal agencies' efforts to collect evidence for enforcement (Wasserman,
+1984), maintain a regulatory presence (EPA, 1990), and offer technical
+assistance as opportunities arise. Federal and state agencies use a mix-
+ture of informal enforcement actions (e.g., warning letters) and formal
+enforcement actions (e.g., ﬁnes). Our analysis considers both federal
+and state inspections and all types of federal enforcement actions:
+ﬁnes, other formal enforcement actions, and informal enforcement
+actions.
+
+Our empirical analysis focuses on chemical manufacturing facilities
+permitted under the U.S. Clean Water Act during the years 2002 to
+2004. This focus on a single sector is consistent with other empirical
+studies of industrial pollution (e.g., Laplante and Rilstone, 1996; Barla,
+2007; Earnhart, 2009; Earnhart and Harrington, 2014).3
+
+3. Conceptual Framework.
+This section offers a simple conceptual framework for heuristically
+deriving competing hypotheses, which our empirical analysis tests.
+Our framework incorporates three motivations for complying with en-
+vironmental protection laws: extrinsic motivation, intrinsic motivation,
+and social signaling (Ariely et al., 2009; Gneezy et al., 2011; Bowles and
+Polania-Reyes, 2012).
+Hypothesis H1A. Increases in either the inspection frequency or ﬁne
+magnitude are effective at improving compliance.
+
+Compliance involves both beneﬁts and costs. The manager of a reg-
+ulated facility chooses the extent of compliance to maximize the net
+beneﬁts of compliance. According to the standard model of enforcement
+(Becker, 1968; Polinsky and Shavell, 2000), deterrence depends exclu-
+sively on explicit monetary disincentives or extrinsic motivation. In-
+creases in either the likelihood or severity of punishment increase
+compliance; i.e. enforcement is effective at improving compliance. The
+manager bears at least partially the costs stemming from compliance ef-
+forts as long as her contract connects proﬁts to managerial compensa-
+tion and compliance efforts lower proﬁts. Similarly, the manager bears
+at least partially the costs of non-compliance, which includes the hassle
+of regulatory monitoring inspections, the monetary sting of ﬁnes, and
+the external impacts associated with other forms of enforcement
+(e.g., loss of consumer and investor support).
+Hypothesis H1B. Increases in either the inspection frequency or ﬁne
+magnitude are ineffective or counter-productive at improving compliance.
+
+In addition to extrinsic motivation, a manager may be intrinsically
+motivated to cooperate with regulators or abide by the law, or use com-
+pliance to signal adherence with professional and social norms to regu-
+lators, a local community, and the market. Gneezy et al. (2011) and
+Bowles and Polania-Reyes (2012) summarize the evidence showing
+how raising monetary incentives often crowds out these other motiva-
+tions. For example, the signaling potential of compliance decisions is
+strongest when extrinsic motivation is weak (Ariely et al., 2009).4 If in-
+creased enforcement crowds out the intrinsic or signaling motivations
+for compliance, then increased enforcement may fail to improve com-
+pliance or may even lower compliance (Winter and May, 2001; Short
+and Toffel, 2010; Earnhart and Glicksman, 2015).
+
+Further, while theoretical models assume that inspection probabili-
+ties and ﬁne sizes are known, in reality, facility managers must form ex-
+pectations of these amounts based on their own experiences (speciﬁc
+deterrence) and the experiences of other similar facilities (general de-
+terrence). This formation of expectations creates the potential for addi-
+tional undermining factors to operate. The manager interprets
+observations about other facilities' experiences through the lens of her
+perception of how the enforcement process works. For example, if the
+manager perceives that inspection budgets are ﬁxed, then observing
+more inspections at other facilities may be interpreted as a lower likeli-
+hood of future inspections for her own facility, resulting in lower
+compliance.5 This effect reﬂects an additional countervailing force in
+the event of greater general deterrence.
+Hypothesis H2A. Increases in either inspection frequency or ﬁne mag-
+nitude generate the same impact on compliance regardless of manager
+perceptions.
+
+Facility managers are heterogeneous in their perceptions regarding
+the effectiveness of regulatory enforcement. However, according to
+the standard model of enforcement, these perceptions are irrelevant
+and should not alter managerial responses to regulatory interventions.
+Hypothesis H2B. Increases in either inspection frequency or ﬁne mag-
+nitude are more effective at improving compliance for managers who
+perceive enforcement actions to be effective than for managers who
+perceive them to be ineffective.
+
+This hypothesis could hold if manager perceptions are related to the
+importance of non-pecuniary factors in their decision making. Speciﬁ-
+cally, if non-pecuniary motivations play only a minor role for managers
+who believe that enforcement is effective, yet these motivations play a
+major role for managers who perceive enforcement to be ineffective,
+then the crowding out of alternative motivations from increased
+enforcement is greater for managers who perceive enforcement is
+ineffective.
+Hypothesis H2C. Increases in either inspection frequency or ﬁne mag-
+nitude are less effective at improving compliance for managers who
+perceive enforcement actions to be effective than managers who per-
+ceive them to be ineffective.
+
+Alternatively, manager perceptions might reﬂect their subjective es-
+timates of the likelihood and magnitude of enforcement. Managers
+might perceive enforcement as effective if they believe that inspection
+likelihoods and ﬁne magnitudes are sufﬁciently high and perceive en-
+forcement as ineffective when their estimates of enforcement are low.
+The observation of greater enforcement should lead both types of man-
+ager to revise upwards their subjective estimates of enforcement. How-
+ever, this upward revision might be greater for managers who consider
+enforcement ineffective.
+
+<Middle> Econometric Framework.
+To test these hypotheses, we construct an econometric framework
+that reﬂects the theoretical framework, while adding control factors.
+In each period, the manager operating a regulated facility decides on
+its extent of compliance, measured by the ratio of actual to permitted
+discharges (“discharge ratio”), which represents the dependent variable
+(Earnhart, 2004a, 2004b, 2004c; Earnhart, 2009; Earnhart and Segerson,
+2012). We also formulate a set of primary explanatory variables mea-
+suring regulatory enforcement and monitoring.
+
+Each facility must form expectations about monitoring and enforce-
+ment before selecting its extent of compliance. Our empirical analysis
+assumes that each facility bases its expectations of future monitoring
+and enforcement on the experiences of other similar facilities along
+with its own recent experiences (Shimshack and Ward, 2005;
+Earnhart, 2004a, 2004b, 2004c; Earnhart, 2009). General deterrence re-
+ﬂects the ex ante general “threat” of future punishment based on the re-
+cent experiences of other facilities with regulatory interventions (Sah,
+1991; Cohen, 2000). Speciﬁc deterrence adjusts this general threat
+based on the speciﬁc enforcement and monitoring experiences of par-
+ticular facilities in the recent past (Cohen, 2000; Earnhart and Friesen,
+2013). Since facilities most likely need weeks or perhaps months to re-
+spond to their own and others' experiences with monitoring and en-
+forcement, our analysis lags the measures of
+inspections and
+enforcement actions (Earnhart, 2004a, 2004b; Earnhart, 2009;
+Shimshack and Ward, 2005).
+
+Based on standard deterrence theory, deterrence divides into pun-
+ishment certainty and punishment severity, with inspections and ﬁnes
+playing different deterrent roles. We interpret inspections as a measure
+of punishment certainty and ﬁnes as a measure of punishment severity.
+To improve separation between the certainty and severity of punish-
+ment, we use the ﬁne conditional average amount, i.e., dollars per im-
+posed ﬁne, as our severity measure.
+
+Based on these measures, we construct particular deterrence factors,
+starting with inspection-based measures of punishment certainty. For
+the general deterrence measure, we calculate the aggregate count of in-
+spections against all other similar facilities – major chemical
+manufacturing facilities operating in the same state – over the preced-
+ing 12-month period. Then we divide the aggregate count of inspections
+by the number of months other major chemical facilities were operating
+in each state over the 12-month period. For the speciﬁc deterrence mea-
+sure, we assess inspections conducted at the individual facility in the
+preceding 12-month period, treating these lagged inspections as an ex-
+ogenous regressor.6 As with general deterrence, we divide the number
+of inspections by the number of months a particular facility was active
+in the preceding 12-month period. Thus, both regressors measure in-
+spections per month of activity.
+
+We next construct ﬁne-based measures of punishment severity. For
+the general deterrence measure, we examine the aggregate count and
+monetary value of ﬁnes (in dollars) imposed against other similar facil-
+ities over the preceding 12-month period. To calculate the conditional
+average ﬁne, we divide each aggregate monetary value of ﬁnes by the
+aggregate count of ﬁnes. For the speciﬁc deterrence measure, we sum
+ﬁnes imposed on an individual facility in the preceding 12-month
+period.7 For comparability with the general deterrence measure, we di-
+vide each summed monetary value of ﬁnes by the summed count of
+ﬁnes. We treat this lagged ﬁne-based measure as an exogenous
+regressor.8
+
+We construct control factors related to the costs of compliance or
+non-compliance. The ﬁrst set of factors reﬂects non-compliance costs,
+mostly additional regulatory factors (Helland, 1998a; Earnhart, 2004a,
+2004b; Nadeau, 1997). We additionally measure deterrence stemming
+from enforcement actions beyond ﬁnes, separately constructing mea-
+sures of formal enforcement actions that do not impose ﬁnes, such as
+consent decrees, and informal enforcement actions, such as warning let-
+ters. We construct both measures of general deterrence and speciﬁc de-
+terrence in ways identical to the inspection-based deterrence measures.
+We count the number of enforcement actions over the preceding 12-
+month period and divide that by the number of months in which facil-
+ities were operating. We also include a measure of regulatory stringen-
+cy: permitted discharge limit, constructed as an index across all
+regulated pollutants discharged by a facility in a given month.9 And
+we include EPA region and year indicators.
+
+The second set of control factors reﬂects compliance (abatement)
+costs. Facility and ﬁrm characteristics inﬂuence marginal abatement
+costs (Earnhart, 2004a; Bandyopadhyay and Horowitz, 2006; Gray and
+Shadbegian, 2005). Flow design capacity proxies for facility size,
+which we measure by the average ﬂow of wastewater over the preced-
+ing 12-month period. We include the ratio of actual wastewater ﬂow to
+ﬂow design capacity as a proxy for treatment capacity utilization. Sec-
+toral indicators control for variation in regulated facilities' abilities to
+modify their production processes according to the type of
+manufactured product. Seasonal indicators control for variation caused
+by weather conditions.
+
+Table 1 identiﬁes a priori expectations for the control factors.
+
+5. Data.
+Our empirical analysis exploits data from a survey of regulated facil-
+ities and EPA databases.
+
+5.1. Survey of Regulated Entities.
+We ﬁrst describe the survey data. Our survey was administered to a
+sample of U.S. chemical manufacturing facilities whose wastewater dis-
+charges were regulated by discharge limits imposed within NPDES per-
+mits in 2001. The population of 2596 NPDES-regulated facilities in the
+chemical manufacturing industry, as of September 2001, was extracted
+from the EPA's Permit Compliance System database. We limited the sur-
+vey sample to the 1003 facilities meeting these screening criteria:
+(1) possessed a NPDES permit, (2) faced limits on their wastewater dis-
+charges, (3) discharged into surface water bodies, (4) were operating as
+of 2002, and (5) contact information was available. Of the 1003 facilities
+contacted between April of 2002 and March of 2003, 267 facilities com-
+pleted the survey for a 27% response rate. This rate is comparable to pre-
+vious large-scale surveys of industrial sectors (e.g., Arimura et al., 2008;
+Arimura et al., 2011; Nakamura et al., 2001) and lies above the average
+response rate of 21% identiﬁed by a review of 183 studies based on busi-
+ness surveys published in academic journals (Paxson, 1992).10
+
+The survey gathered various data elements, including data on facili-
+ties' subjective perceptions of the effectiveness of inspections and ﬁnes
+for inducing compliance with Clean Water Act-imposed discharge
+limits.11 The speciﬁc wording of the survey questions was: “Do you
+think that government inspections are effective ways for inducing indi-
+vidual chemical facilities to comply with permitted water discharge
+limits?” and “Do you think that the imposition of monetary ﬁnes is an
+effective way for inducing individual chemical facilities to comply
+with permitted water discharge limits?”. For both questions, respon-
+dents were able to choose from four responses: deﬁnitely not, probably
+not, probably yes, and deﬁnitely yes.
+
+5.2. Publicly Available Data on Regulated Facilities.
+To complement the survey data, we extracted publicly available data
+from the EPA Permit Compliance System database. This database pro-
+vides information on each facility's (1) location, (2) NPDES major or
+minor classiﬁcation, (3) four-digit standard industrial classiﬁcation
+(SIC) code, (4) monthly discharge limits, (5) self-reported monthly dis-
+charge levels, (6) inspections conducted by federal and state regulators,
+(7) ﬁnes and other formal enforcement orders issued by federal admin-
+istrative and civil courts, and (8) informal enforcement actions. We ag-
+gregate the many sub-sectors in the chemical manufacturing sector into
+three broad categories: organic chemicals, inorganic chemicals, and
+“other” chemicals.12
+
+Since discharge limits apply to speciﬁc pollutants, we consider each
+pollutant separately. In general, discharge limits constrain wastewater
+measured as a quantity, e.g., pounds per day, or as a concentration,
+e.g., milligrams per liter of wastewater. We calculate the monthly dis-
+charge ratio for each regulated pollutant, which enables us to combine
+these two disparate forms of measurement. For each month, we ﬁrst
+calculate the pollutant-speciﬁc discharge ratio separately for quantity
+limits and concentration limits as relevant.13 Then we combine the
+two measurement forms, as relevant, into a composite pollutant-
+speciﬁc discharge ratio based on the median value. Finally, we identify
+the median discharge ratio considering all of the regulated pollutants.14
+This median discharge ratio represents a comprehensive measure of the
+extent of compliance with all Clean Water Act-based discharge limits
+relevant for a single facility in a given month.
+
+We purposely focus on facilities' compliance decisions following
+completion of the survey while avoiding compliance decisions prior to
+the survey since these historical decisions most likely inﬂuenced the fa-
+cilities' perceptions of regulatory effectiveness. Similarly, we avoid reg-
+ulatory activities conducted prior to the survey with a 12-month lag.
+Thus, for each survey respondent, the sample period begins
+12 months after the facility's survey completion. Consequently, our
+sample period begins in 2003 or 2004 depending on the individual
+facility's survey completion date. Since facilities' perceptions can change
+over time, we focus on the few months following survey completion.
+While arbitrary, we end our sample period in September of 2004.
+Thus, the number of months included in the sample for a given facility
+ranges from7 months to 18 months.
+The PCS database systematically records wastewater discharges and
+discharge limits only for “major facilities”,which receivemore regulatory
+attention than “minor facilities” (Earnhart, 2009; Earnhart and
+Segerson, 2012).15 Of the 103 survey respondent major facilities, the
+PCS database only contains records that provide data on discharge limits
+and wastewater discharges over the sample period for 88 major facilities.
+For all of our analysis, we focus on these 88 major facilities
+for which we possess both survey data and EPA data on limits and discharges.
+The unbalanced sample includes 1126monthly observations.
+
+5.3. Summary of Dependent and Independent Variables.
+Table 1 provides statistical summaries of the formulated dependent
+variable and regressors. Table 1.a summarizes the discharge ratio. The
+mean discharge ratio of 0.16 implies that facilities on average generate
+discharges that are 84% below their monthly limits. This average indi-
+cates a need to analyze the extent of compliance rather than status of
+compliance.17 Similarly, the maximum discharge ratio of 2.56 implies
+that some facilities allow their discharges to surge as high as 156%
+above the permitted limits. This maximum indicates a need to analyze
+the degree of non-compliance rather than the status of non-compliance.
+Table 1.b summarizes the regressors. We highlight the primary re-
+gressor: regulated facilities' perceptions of effectiveness in the case of
+inspections and ﬁnes. In order to concentrate the explanatory power
+of these regressors, we transform the four response categories into a bi-
+nary measure of effectiveness: “yes” versus “no”. Based on these binary
+measures, 90% of facilities perceive inspections as either probably or
+deﬁnitely an effective means of inducing compliance with wastewater
+discharge limits, while 75% of facilities perceive ﬁnes as either probably
+or deﬁnitely an effective means of inducing compliance. As a joint bina-
+ry measure, we distinguish between facilities that perceive either type
+of regulatory activity – inspection or ﬁne – as an effective means of in-
+ducing compliance and facilities that perceive neither type of regulatory
+active as effective. As shown in Table 1.b, 94% of facilities perceive at
+least one regulatory activity type as effective. We regard this joint mea-
+sure as our primary regressor.
+
+6. Econometric Issues and Methods.
+In order to estimate the relationship between the discharge ratio and
+the regressors, we must address a few econometric issues. First, since
+discharge ratios are distributed lognormal, we employ a semilog speci-
+ﬁcation by logging the dependent variable.18
+
+Second, our sample lacks variation in certain enforcement measures.
+Most notable, none of the 88 facilities included in our sample were ﬁned
+during our sample period. Thus, we are not able to explore ﬁne-related
+speciﬁc deterrence. Moreover, all of the facilities that faced general de-
+terrence stemming from ﬁnes during our sample period perceived
+ﬁnes as an ineffective means of inducing compliance. Thus, we are not
+able to explore how perceived effectiveness inﬂuences ﬁne-related gen-
+eral deterrence. Instead, the measure of ﬁne-related general deterrence
+applies to all facilities, regardless of their perceptions. With regard to in-
+spections, we are only able to estimate the effect of speciﬁc deterrence
+from federal inspections when facilities perceive monitoring and ﬁnes
+as effective because facilities that perceived enforcement as ineffective
+were never inspected by an EPA regional ofﬁce during our sample peri-
+od. Table 2 summarizes this discussion by listing all possible links from
+government interventions to discharge ratio and then depicting wheth-
+er or not the data permit identiﬁcation of each link.
+
+Third, given the lack of exploitable variation in the perceived effective-
+ness of ﬁnes, we focus on the joint indicator of perceived effectiveness. To
+assess the robustness of our conclusions, we also use the single indicator
+of perceived inspection effectiveness because this more focused indicator
+may better reﬂect the connection between perceived effectiveness and
+inspections. Since the results are robust, we relegate the estimation re-
+sults to Appendix Table A-2 and their interpretation to Appendix D.
+
+Fourth, we consider three regressor sets or model sets that differ
+based on the control factors. Model Set A includes the deterrence fac-
+tors, the joint indicator of inspection and ﬁne effectiveness, and the in-
+teractions between this joint indicator and the inspection-related
+deterrence factors. Model Set B adds the most basic control factors:
+year indicators, seasonal indicators, EPA regional indicators, and sub-
+sector indicators. Model Set C further adds facility characteristics and
+the composite efﬂuent limit index.
+
+Fifth, we address the panel structure of our data by employing three
+standard panel estimators: pooled OLS, random effects, and ﬁxed ef-
+fects, while clustering the standard errors on the regulated facility,
+which helps to address serial correlation. Based on F-test for Fixed Ef-
+fects statistics and Hausman Test for Random Effects statistics (shown
+in Table 3), the ﬁxed effects estimates dominate so we focus exclusively
+on these estimates. (All time-invariant factors, including the EPA re-
+gional indicators, industrial sub-sector indicators, and perceived effec-
+tiveness indicator, are subsumed into the facility-speciﬁc ﬁxed effects.)
+Sixth, we assess the potential endogeneity of the perceptions held by
+regulated facilities regarding the effectiveness of inspections and ﬁnes. To
+assess the formation of these perceptions, we explore the relationship be-
+tween perceptions, as the dependent variable, and three sets of indepen-
+dent variables or “models”. Model 1 focuses on regulatory activities,
+namely inspections, ﬁnes, other formal enforcement actions, and informal
+enforcement actions taken over the 24-month period preceding comple-
+tion of the survey. Model 2 adds the facility's compliance history over the
+preceding 24-month period. Model 3 additionally adds facility-speciﬁc
+measures of regulatory cooperation, experience in the NPDES system,
+and number of employees.20 We estimate this relationship using a probit
+model, with the results tabulated in Appendix Table A-3. Regardless of the
+regressor set, we ﬁnd no statistical connection between the perception in-
+dicator and the independent variables. In all cases, the Likelihood Ratio
+(LR) Test of Zero Slope Coefﬁcients reveals that the set of coefﬁcients
+are jointly zero (i.e., p N 0.10). Thus, we conclude that facilities' percep-
+tions are idiosyncratic. This conclusion conﬁrms the usefulness of
+conducting the survey of regulated facilities to obtain self-reported per-
+ceptions. Given the idiosyncratic nature of facilities' perceptions, we
+could not use objective measures of facility characteristics or regulatory
+experiences as proxies for perceived effectiveness.
+
+7. Empirical Results.
+Table 3 reports the estimation results based on Model Sets A, B, and
+C. As shown, these model sets support identical conclusions for each fac-
+tor excepting general deterrence from (non-ﬁne) formal enforcement
+where the negative coefﬁcient is statistically signiﬁcant only if the
+model set includes control factors beyond regulatory deterrence. Thus,
+our conclusions are almost fully robust to the choice of regressor set.
+
+Given the inclusion of interactions between inspection-related
+deterrence and facilities' perceptions of regulatory effectiveness,
+the main effects for inspections reported in Table 3 capture
+the marginal effect under the condition of perceived ineffective-
+ness. Table 4.a calculates and assesses the statistical signiﬁcance
+of the marginal effects for inspection-related deterrence under
+the condition of perceived effectiveness. The reported marginal
+effects support the same conclusion regardless of the model
+set except for general deterrence from federal inspections, which
+is statistically signiﬁcant only once the model set includes control
+factors beyond the additional deterrence factors, i.e., Model Sets B
+and C.
+Drawing from Tables 3 and 4.a, the estimation results support the fol-
+lowing conclusions. Consider ﬁrst the effect of speciﬁc deterrence stem-
+ming from one's own experience of being inspected. When facilities
+perceive inspections and ﬁnes as effective, federal inspections prove
+counter-productive, i.e. the marginal effect is positive, although the effect
+is borderline signiﬁcant (p = 0.103 in Model sets B and C). This result
+weakly rejects Hypothesis H1A while supporting Hypothesis H1B. Speciﬁc
+deterrence from state inspections negatively affects discharge ratios
+when facilities perceive inspections and ﬁnes as ineffective but not
+when facilities perceive inspections and ﬁnes as effective. These results
+support Hypothesis H1A but only when interventions are perceived as in-
+effective. The difference between the two marginal effects is signiﬁcantly
+positive; thus, the perception of effectiveness neutralizes the otherwise
+productive impact of state inspection-related speciﬁc deterrence. This re-
+sult rejects both Hypotheses H2A and H2B but supports Hypothesis H2C.
+Next, consider general deterrence, which stems from observing the
+experiences of other facilities. General deterrence from federal inspec-
+tions negatively affects discharge ratios regardless of facilities' percep-
+tions. These results support Hypothesis H1A, while rejecting Hypothesis
+H1B. The switch from perceived ineffectiveness to effectiveness signiﬁ-
+cantly increases the coefﬁcient magnitude, i.e., makes it less negative.
+Thus, perceived effectiveness weakens the (estimated) actual effective-
+ness of federal inspection-related general deterrence. This result rejects
+both Hypotheses H2A and H2B, while supporting Hypothesis H2C.
+
+In contrast to federal inspections, general deterrence from state in-
+spections positively affects discharge ratios when facilities perceive in-
+spections and ﬁnes as ineffective.21 However, when facilities perceive
+inspections and ﬁnes as effective, state inspection-based general deter-
+rence does not meaningfully affect discharge ratios. These results partially
+support Hypothesis H1B. The switch from perceived ineffectiveness to ef-
+fectiveness signiﬁcantly lowers the coefﬁcient magnitude, ﬂipping the co-
+efﬁcient sign in the process. Put differently, the perception of effectiveness
+neutralizes the otherwise counter-productive impact of state inspection-
+related general deterrence. This result supports Hypothesis H2B.
+
+As the last form of deterrence, general deterrence from ﬁnes does
+not affect discharge ratios.22 Thus, the remaining discussion focuses on
+inspections.
+
+Table 5 summarizes these ﬁndings. Our results demonstrate that great-
+er enforcement can be effective, ineffective or counterproductive depend-
+ing on the intervention type and on perceptions. These results conﬁrm the
+importance of alternative motivations, such as intrinsic or signaling moti-
+vations in compliance decisions. In the case of general deterrence, greater
+enforcement may lower perceptions of future inspections.23
+
+Hypotheses H2A, H2B, and H2C reﬂect the inﬂuence of perceptions.
+While standard theory assumes that perceptions do not matter, our em-
+pirical results suggest otherwise; somewhat paradoxically, enforcement
+is more effective against those facilities who think it is not! These results
+are generally consistent with Hypothesis H2C, which relates perceptions
+to subjective estimates of enforcement parameters. Why might this be?
+One possibility is that managers who perceive enforcement as ineffective
+may be insufﬁciently aware of federal inspections, as this type of interven-
+tion is less common, and for these managers greater exposure to federal
+inspections is informative.24 In contrast, managers are surely well aware
+of state inspections, which occur frequently. Rather, for managers who
+perceive enforcement as ineffective, actually experiencing a state
+inspection, as opposed to observing others being inspected, is crucial.
+This ﬁnding is consistent with evidence from behavioral research showing
+that learning from experience is different, and in particular, more salient,
+than learning from observation or description (e.g., Haselhuhn et al.,
+2012; Earnhart and Friesen, 2013).
+
+The stark contrast between speciﬁc and general deterrence from state
+inspections when facilities perceive inspections and ﬁnes as ineffective
+also requires explanation. Our conceptual framework identiﬁes several
+potential countervailing factors, such as the crowding out of intrinsic mo-
+tivation and beliefs about ﬁxed inspection budgets, which might counter-
+act increases in monetary incentives. Our observation of counter-
+productive state inspection-related general deterrence is consistent with
+perceptions of the state regulator facing a ﬁxed inspection budget.
+
+General deterrence from state inspections is weaker when facilities do
+not perceive inspections and ﬁnes as effective, perhaps stemming from
+the reduced awareness of other facilities' recent experiences. To highlight
+this difference, when facilities perceive inspections and ﬁnes as effective,
+state inspections – in either deterrence form – do not affect compliance.
+Our empirical analysis distinguishes between federal and state in-
+spections since facilities may (and apparently do) respond differently
+to these two types of environmental protection agencies. Table 4.b com-
+pares the effects of federal and state inspections. Our conclusions are
+fully robust to the choice of model set except in one case as noted.
+Based on general deterrence, federal inspections are more effective
+than state inspections, as shown in Table 4.b.i. We draw the same con-
+clusion when facilities perceive inspections and ﬁnes as effective in
+Model Sets B and C. In contrast, federal and state inspections are equally
+effective in speciﬁc deterrence terms when facilities perceive regulatory
+effectiveness, as shown in Table 4.b.ii.
+
+We do not interpret in detail the coefﬁcients associated with the
+control factors. As shown in Table 3, greater deterrence from non-ﬁne
+formal enforcement signiﬁcantly improves compliance, facilities are
+less compliant in the summer than in autumn, and looser discharge
+limits worsen compliance (which implies that facilities take tighter
+limits more seriously).
+
+<Conclusion> Conclusions and Policy Implications.
+Our study examines the effects of inspections and ﬁnes on chemical
+manufacturing facilities' compliance with Clean Water Act wastewater
+discharge limits and facilities' perceptions about the effectiveness of in-
+spections and ﬁnes at inducing this compliance. In particular, we ex-
+plore the inﬂuence of these perceptions on the effects of inspection
+and ﬁnes on the extent of facilities' self-reported compliance as mea-
+sured by the ratio of actual discharges to permitted discharges. We ex-
+ploit data from an original survey of regulated facilities operating in
+2002 and publicly available data on actual and permitted discharges in
+the period immediately following the completion of the noted survey.
+Exploration of these data generates econometric results that support
+the following conclusions. When managers perceive interventions as in-
+effective, state inspection-related speciﬁc deterrence and federal
+inspection-related general deterrence are effective at reducing the dis-
+charge ratio, but state inspection-related general deterrence is
+counter-productive. In contrast, when managers perceive interventions
+as effective, deterrence from state inspections in both forms is ineffec-
+tive, while general deterrence from federal inspections reduces the dis-
+charge ratio, yet speciﬁc deterrence from federal inspections increases
+the discharge ratio (although the two latter effects are only borderline
+signiﬁcant). Based on general deterrence, federal inspections are more
+effective than state inspections, regardless of facilities perceptions. Yet
+federal and state inspections are equally effective in speciﬁc deterrence
+terms. We interpret our ﬁndings using the conceptual framework pro-
+vided in Section 3.
+
+These conclusions possess important policy implications regarding
+state inspections. When facilities perceive inspections and ﬁnes as effec-
+tive, state inspections prove ineffective. We conclude that inspections
+are less critical for those facilities that are deterred by their inherent effec-
+tiveness. In contrast, when facilities perceive inspections and ﬁnes as inef-
+fective, state inspections inﬂuence facilities' compliance choices.
+Fortunately, speciﬁc deterrence effectively improves compliance; unfor-
+tunately, general deterrence undermines compliance. Based on these con-
+trasting results, state environmental protection agencies may wish to
+eliminate the impression of ﬁxed inspection budgets by demonstrating
+their ability to reallocate funds across budget categories.25 Agencies
+could focus their resources on facilities who do not ﬁnd inspections and
+ﬁnes as effective, which seems counter-intuitive yet revealed in our em-
+pirical results. Of course, for this effort, agencies must be able to secure
+a measure or proxy of facilities' perceptions.
+
+Federal inspections offer different policy implications. Regardless of
+facilities' perceptions, general deterrence is effective. However, speciﬁc
+deterrence proves counter-productive when facilities perceive inspec-
+tions and ﬁnes as effective. Our results suggest that facilities do not be-
+lieve that the federal agency is as budget constrained as state agencies.
+While individual state agencies enjoy little ability given their small bud-
+gets to re-allocate resources for additional monitoring when compli-
+ance from the regulated community degrades, the federal agency
+enjoys greater discretion to re-allocate its resources. Put differently, fed-
+eral funds are more fungible. This distinction is consistent with the dif-
+ferent roles played by federal and state agencies. While state agencies
+generally attempt to inspect all major facilities on a regular basis, the
+federal agency generally inspects facilities that appear problematic as
+shown mostly through their compliance history and previous responses
+to state inspections. Thus, the federal agency is better able to ramp up its
+pressure on facilities given its smaller population of facilities.
+
+As with state inspections, the federal agency could discern facilities
+based on their perceptions regarding regulatory effectiveness and
+focus their resources on facilities who do not ﬁnd inspections and
+ﬁnes as effective. Again, agencies would ﬁrst need to obtain a measure
+or proxy of facilities' perceptions. In the case of federal inspections, the
+situation is better or worse depending on the type of deterrence. Unlike
+state inspections, general deterrence from federal inspections remains
+effective, but speciﬁc deterrence from federal inspections proves
+counter-productive. In the latter case, the federal agency could avoid
+generating ill will by inspecting facilities who perceive inspections and
+ﬁnes as effective. As with state inspections, we conclude that federal in-
+spections undermine compliance for those facilities that are deterred by
+their inherent effectiveness as opposed to the actual use of this policy
+tool. Lastly, we compare state and federal inspections. Regardless of per-
+ceptions, to induce compliance, EPA could play a larger role than state
+agencies, given general deterrence results.
+
+While our empirical study generates statistically meaningful rela-
+tionships and useful policy implications, we acknowledge that our
+study only explores a single program's effects on only large facilities op-
+erating in a single industrial sector over a speciﬁc period. We encourage
+future researchers to explore other environmental protection programs,
+small regulated facilities, other industrial sectors, and more recent time
+periods. We also recommend future research on tractable policy levers
+that relate to regulated facilities' perceptions of regulatory effectiveness.
+
+
+Acknowledgments

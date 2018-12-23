@@ -1,0 +1,560 @@
+
+Attention constitutes a constellation of cognitive processes responsible for directing awareness to relevant stimuli and ﬁltering out
+irrelevant information.  Attentional impairments are known to constitute performance reductions in other cognitive domains including
+memory and executive functions in patients suﬀering from Alzheimer’s
+disease (AD) [1,2].  The basal forebrain (BF) cholinergic system, consisting of cortically-projecting neurons in the nucleus basalis magnocellularis (nBM) and substantia innominata (SI) region, mediates essential aspects of attentional
+information processing [3,4], and
+cholinergic dysregulation is a common feature of the mild cognitive
+impairment (MCI) and AD pathology [5–8].  Thus, it is suggested that
+disruption in cholinergic signaling may underlie cognitive decline in
+MCI/AD.  Aging is a well-known risk factor for AD.  Although a gradual
+weakening of the cholinergic system and subtle decrements in attentional capacities have been reported in aging [9–13], the mechanisms
+responsible for the accelerated decline in cholinergic function in
+sporadic AD are not fully understood. 
+BF cholinergic neurons depend upon nerve growth factor (NGF) for
+survival, growth, and maturation [14–16].  Substantial evidence indicates that the cholinotrophic eﬀects of NGF are mediated by its
+binding to the high-aﬃnity tropomyosin kinase A (trkA) receptors
+[17–19].  Moreover, the loss of trkA receptors has been observed in the
+postmortem brains of AD subjects [20–22].  Together, these studies
+support the notion that perhaps deﬁcient trkA signaling in cholinergic
+neurons may underlie their exceptional vulnerability and lead to cognitive decline in AD [23,24].  However, neurotrophic modulation of the
+cholinergic system and cognitive capacities has not been thoroughly
+investigated in the context of aging, which is known to potentially increase the risk of developing AD [25]. 
+We previously found signiﬁcant attentional impairments and disrupted cholinergic signaling in aged but not adult trkA-suppressed rats
+[26].  In another follow-up study, we observed that cholinergic-attentional capacities were partially rescued by blocking proNGF, a precursor of NGF, in trkA-suppressed aged rats [27].  ProNGF is known to
+⁎ Corresponding author. 
+E-mail address: vinay. parikh@temple. edu (V.  Parikh). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 017
+Received 13 June 2017; Received in revised form 20 July 2017; Accepted 7 August 2017
+Available online 10 August 2017
+0166-4328/ 
+B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+induce apoptotic signaling via its interaction with high-aﬃnity p75
+receptors and the sortilin complex [28], and numerous studies indicated that the expression of this pro-neurotrophin is elevated in aging
+and AD [29–32].  Thus, age-related imbalance between proNGF/NGF
+and trkA/p75 signaling may account for increased vulnerability of the
+cholinergic system and associated cognitive impairments in AD. 
+Moreover, suppression of trkA signaling per se in young may not impose
+any inimical eﬀects on the BF cholinergic system.  This view is supported by a previous study showing that forebrain-speciﬁc targeted
+deletion of NGF or trkA receptors exerted detrimental eﬀects on BF
+cholinergic neurons during postnatal development but did not impact
+learning and memory performance when assessed in either young adult
+or intermediate-aged mice [33]. 
+During the progression of sporadic AD, cortical areas are aﬀected in
+a stereotypic sequence that recapitulates ontogenetic brain development [34].  Although the available evidence supports the idea that
+perhaps reduced trophic support during ontogenetic development and
+maturation of the cortical cholinergic input system may escalate into
+MCI and AD [35,36], the premise that developmental abrogation of BF
+trkA signaling would accelerate age-related decline in the cholinergic
+system and cognitive capacities has never been tested.  Here we conducted a longitudinal study to evaluate the life-long impact of developmental trkA suppression on attentional functions.  We utilized an
+adeno-associated viral (AAV) vector that expresses trkA-shRNA to selectively knockdown trkA receptors in the BF during the postnatal
+phase in rats when cholinergic projections make contact with cortical
+target regions.  The animals were trained in an operant sustained attention task (SAT), and performance was assessed throughout adulthood until old age, at which point cholinergic signaling and morphology were also evaluated.  Developmental trkA suppression neither
+accelerated the emergence, nor exacerbated the presence, of age-related
+attentional impairments.  Moreover, postnatal trkA disruption aﬀected
+only certain aspects of cholinergic transmission in aged rats.  Together,
+our ﬁndings indicate that lifelong cognitive engagement may have
+compensated for the detrimental eﬀects of developmental trkA knockdown on age-related decline in attention processes and the cholinergic
+transmission that these cognitive capacities depend on. 
+<Middle> Materials and methods. 
+2. 1.  Subjects
+Male Wistar rat pups [post-natal day (PND) 14] were purchased
+from Charles River Laboratories (Malvern, PA, USA) along with the
+nursing dams (8 pups/dam).  Animals were maintained in a temperature- and humidity-controlled room with a 12:12 light-dark cycle
+starting at 7AM at Temple University.  At PND 18–21, rat pups underwent stereotaxic intracranial infusions of AAV vectors (see procedure
+below).  Pups were returned to cages and maintained with the dams
+until weaning at PND 22 following which the animals were grouphoused (2 per cage) with food and water ad libitum until the commencement of further experiments.  All experimental procedures were
+conducted in accordance with the National Institute of Health guidelines and were approved by the Institutional Animal Care and Use
+Committee and the Institutional Biosafety Committee at Temple
+University. 
+2. 2.  Stereotaxic surgeries and experimental design
+Rat pups (PND 18–21) were prepared for stereotaxic surgeries to
+produce knockdown of BF trkA receptors using an AAV vector-based
+RNA interference (RNAi) approach.  This developmental period was
+selected because BF cholinergic neurons make contact with NGF-producing target neurons throughout the cortical mantle during postnatal
+weeks 3–5, and trkA signaling is critical in facilitating proper cortical
+cholinergic innervation [37,18,38,39].  All surgeries were performed
+under aseptic conditions.  Pups were anesthetized with isoﬂurane (4–5%
+for induction and 1–2% maintenance dose) using an anesthesia machine (Surgivet, Dublin, OH, USA) and mounted on a stereotaxic frame
+(Model 962; David Kopf Instruments, Tujunga, CA, USA).  The head of
+the pups was positioned into the head frame using neonatal rat ear bars
+containing Zygoma ear cups (David Kopf).  An isothermal deltaphase
+pad (Braintree Scientiﬁc, Braintree, MA, USA) was used to consistently
+maintain animals’ body temperature at 37 °C throughout the surgical
+procedure.  A recombinant AAV vector previously designed and validated in our laboratory for in vivo suppression of trkA receptors (AAVtrkA) was used in the present study [26,40].  This vector utilizes a
+synthetic inhibitory B-cell receptor inducible gene BIC-derived RNA
+(SIBR) expression plasmid to guide the expression of both the small
+hairpin RNA (shRNA) against the trkA gene and the reporter gene
+(green ﬂuorescent protein; GFP).  Another AAV vector expressing
+shRNA targeting the gene for ﬁreﬂy luciferase (AAV-luc) served as
+control for non-speciﬁc virus eﬀects.  Prior to the surgeries, AAV vectors
+were desalted using the Hyclone buﬀer (University of Iowa Vector
+Core).  Rat pups received bilateral infusions of either AAV-trkA or AAVluc (1. 5 μL/hemisphere; titer: 0. 7-2. 8 × 1013 vg/mL) into the BF, speciﬁcally targeting the nBM/SI region that contain cholinergic neurons
+(from Bregma; A/P: −1. 0; M/L: ± 2. 3; D/V: −6. 0).  All injections
+were made using a 10 μL Hamilton syringe (28 gauge) at a rate of 1 μL/
+min.  After cessation of the injection, the needle was left in place for an
+additional 4 min to allow complete diﬀusion of virus particles and then
+slowly withdrawn.  The incision site was stapled and triple antibiotic
+ointment was applied to the area surrounding the staples.  Rat pups
+were given injections of an antibiotic (Baytril, 0. 01 mg/kg, s. c. ) and an
+analgesic (buprenorphine, 0. 01 mg/kg, s. c. ) prior to returning to the
+nursing dam. 
+A schematic illustration of the experimental design is shown in
+Fig.  1.  To assess the impact of developmental trkA knockdown on
+Fig 1.  Schematic illustration of the experimental design.  At PND 18–21, rat pups underwent stereotaxic surgeries for the bilateral infusion of the AAV vector expressing the shRNA against
+either trkA (AAV-trkA) or the control gene luciferase (AAV-luc) into the BF.  To evaluate the impact of developmental trkA suppression on attentional capacity throughout aging, rats
+initiated behavioral training in operant SAT at 6 months and were maintained on the task until 24 months old.  Age-related changes in attentional function were assessed speciﬁcally from
+12 to 24 months old.  After completion of the behavioral testing, electrochemical recordings of cortical cholinergic transmission were conducted in anesthetized rats following which the
+brain tissues were processed for immunohistochemistry. B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+attentional capacities in aging rats, the animals (N = 8/vector manipulation) were single-housed at 6 months of age and the operant behavioral training was initiated (see task details below).  Rats used for behavioral studies were handled extensively prior to training and were
+partially water-deprived by restricting access to a 10-min period in the
+home cage following each behavioral session.  On non-training days,
+water access was increased to a 30-min period.  Food was available adlibitum throughout the duration of behavioral testing.  Animals remained
+on task until 24 months old and the eﬀects of vector manipulation and
+age on behavioral performance were assessed on a monthly basis
+starting from month 12 until the completion of the study.  At 24 months,
+animals underwent amperometric recording sessions to evaluate theimmunohistochemical examination of trkA and choline acetyltransferase
+(ChAT, a marker of cholinergic neurons) expression.  A subset of animals
+(N = 4-5/vector manipulation) was perfused at 6 weeks of age to assess
+the eﬃciency of the viral vector for developmental trkA suppression
+(see immunohistochemistry procedure below). 
+cholinergic
+signalingcortical
+followed2. 3.  Operant training and testing procedures
+Behavioral training and testing was conducted in modular operant
+conditioning chambers made of clear polycarbonate and mounted on a
+white polypropylene base (Med Associates Inc. , St.  Albans, VT, USA). 
+Each chamber contained a front stainless steel panel with three lights
+(2. 8 W each), two retractable levers, and a liquid receptacle attached to
+a water dispenser in the center of the panel.  The back panel of each
+chamber contained a house light and the ﬂoor was composed of a
+stainless steel grid bar.  Operant chambers were enclosed in sound-attenuating cubicles equipped with fans to dampen surrounding noise
+(Fig.  2A).  All events including signal delivery, lever presentations, and
+reward delivery were transmitted using programs written in Medstate
+notation via SmrtCtrl™ interface on a Dell Optiplex 960 computer. 
+Rats were trained in an operant SAT that encapsulates all elements
+of signal detection theory to assess attentional capacities [41,10,42]. 
+Animals were initially autoshaped on a FR-1 schedule of reinforcement
+for water reward (0. 02 mL water) to attain the lever press response. 
+During this phase, if the animals pressed the same lever > 5 times in
+succession, the lever ceased to be reinforced until the discrepancy between the two levers was reduced.  This step was adopted to deter the
+development of a side bias.  Once the rats made 120 lever presses within
+a single autoshaping session, they progressed to the next phase of
+training to learn paradigm contingencies.  At this stage, the animals
+were trained to distinguish between signal (illumination of the central
+panel light for 1 s) and non-signal (no illumination) trials.  Rats were
+pseudo-randomly designated to a lever side under signal trial conditions and had to respond on the opposite lever for non-signal trials.  For
+example, if a rat was designated to the left lever, on a signal trial, a left
+lever press was rewarded (i. e. , hit) but not a right lever press (i. e. ,
+miss).  In contrast, a right lever press on a non-signal trial was rewarded
+(i. e. , correct rejection) but left lever press (i. e. , false alarm) was not
+rewarded (see Fig.  2B for task illustration).  Levers were presented 2 s
+after a 1s-long signal illumination.  If rats did not lever press within 4 s
+the levers were retracted, and it was deemed an omission.  The assignment of lever (left or right) for each trial type was counterbalanced
+across animals within a group.  The inter-trial
+interval (ITI) was
+12 ± 3s.  During this training phase, an incorrect response elicited
+correction trials in which the same trial type was repeated up to 4 sequential times to assist with learning the task contingencies.  If the incorrect behavior persisted a forced trial was provided, in which only the
+correct lever was presented.  Rats progressed to the ﬁnal training stage
+when they performed 160 trials with ≥70% on hits and correct rejections and ≤20% omissions for three consecutive days. 
+The ﬁnal stage of SAT consisted of a pseudo-randomized sequence
+of 81 signal (27 per signal duration) and 81 non-signal trials (total 162
+trials).  Each session was divided into three blocks of 54 trials (27 signal
+trials and 27 non-signal trials).  Signals occurred unpredictably at three
+durations (500, 50, and 25 ms; Fig.  2B), with 9 trials/signal duration in
+each block.  Moreover, the ITI was reduced to 9 ± 3s, and the house
+light remained illuminated throughout the session.  These task conditions are known to constrain rats’ behavior for continuous monitoring
+of the central panel and tax attentional capacity [41].  Rats were characterized as acquiring the task once they achieved ≥70% on 500 ms
+signal duration trials, ≥70% on correct rejections, and ≤10% omissions for three consecutive training sessions.  To further assess the impact of aging and developmental trkA knockdown on top-down attentional capacity, rats were tested in a distractor version of SAT (dSAT) at
+12 and 24 months of age, respectively.  dSAT involved the presentation
+of a visual distractor (ﬂashing house light at 0. 5 Hz) in the second block
+of the session. 
+Behavioral performance for each session was evaluated by calculating the proportion of hits (h = hits/hits + misses) for each signal
+length and the proportion of false alarms (fa = false alarms/false
+alarms + correct rejections).  A composite measure of attention was
+calculated as a performance score (SAT/dSAT) using the formula, (hfa)/[2(h + fa)-(h + fa)2], as described earlier [43].  SAT/dSAT scores
+Fig.  2.  Behavioral experiments in rats.  A) Operant conditioning chambers enclosed in sound-attenuating cubicles used for behavioral training and testing.  B) A schematic representation
+of the sustained attention task (SAT).  Rats discriminated between signal (illumination of the central panel light) and non-signal (no illumination) trials by exhibiting an appropriate lever
+press response (either left or right).  Animals were pseudo-randomly designated to a lever side for each trial condition.  For a left lever assignment on a signal trial, a left lever press was
+scored as a hit (h) and rewarded but a right lever press was scored as a miss (m) and was not rewarded.  In contrast, a right lever press on a non-signal trial was scored as a correct rejection
+(cr) and rewarded but not a left lever press which was considered a false alarm (fa).  The assignment of lever (left or right) for each trial type was counterbalanced across animals within a
+group.  At the ﬁnal stage of SAT training, each session consisted of a pseudo-randomized sequence of 81 signal and 81 non-signal trials with an inter-trial interval of 9 ± 3s.  Signals
+occurred unpredictably at three durations (500, 50, and 25 ms) and the house light remained illuminated throughout the session. B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+ranged from −1 to +1; a score of +1 indicated correct responses on all
+signal and non-signal trials, 0 indicated inability to discern signal and
+non-signal trials, and −1 indicated all misses and false alarms in a
+session.  Latency for the lever press response under each performance
+condition and percentage omissions were also calculated for each session.  Performance measures on three consecutive sessions were averaged for each rat at a given age and used for statistical analysis. 
+2. 4.  In vivo amperometric recordings
+Following the completion of behavioral studies at 24 months of age,
+rats were prepared for amperometric recordings of cholinergic transmission using enzyme-selective microelectrodes as described earlier
+[26,44,45].  Brieﬂy, microelectrode arrays (Quanteon, Nicholasville,
+KY, USA) consisting of four rectangular platinum recording sites arranged side by side in pairs were coated with choline oxidase (SigmaAldrich, St.  Louis, MO, USA).  The enzyme was immobilized to the
+bottom pair of recording sites while the upper pair was coated with
+bovine serum albumin and served as sentinel channels.  The electrode
+channels were electroplated with m-PD (m-phenylenediamine) to enhance the selectivity of choline against electroactive analytes such as
+ascorbic acid (AA), dopamine (DA) and uric acid.  Choline sensitivity
+and selectivity was tested for all electrodes by conducting an in vitro
+calibration.  Electrodes that exhibited the following calibration criterion
+were subsequently used for in vivo recordings: choline sensitivity > 3
+pA/μM, limit of detection < 500 nM; selectivity ratio for choline:AA > 50, linear response for choline concentration R2 > 0. 98, and DA
+response < 3pA. 
+For in vivo recordings, rats were anesthetized with urethane (1. 21. 5 g/kg, i. p. ) and placed in a stereotaxic frame.  Enzyme-coated microelectrodes were lowered into the right medial prefrontal cortex
+(PFC; A/P: +3. 0 mm, M/L: −0. 7 mm, D/V: −2. 7-3. 0 mm) of rats using
+a microdrive (MO-10, Narishige International, East Meadow, NY, USA). 
+Ag/AgCl reference electrodes were implanted into the rostral cortical
+region of the contralateral hemisphere.  Amperometric recordings were
+conducted at 2 Hz by applying a ﬁxed potential of +0. 7 V, and data
+were digitized using a FAST-16 potentiostat (Quanteon).  Background
+currents were stabilized for 60 min following which drugs were locally
+applied into the PFC using a glass capillary that was attached to the
+tip diameter of 15–20 μm. 
+electrode and pulled to an internal
+Depolarization-evoked acetylcholine (ACh) release that mimics the
+phasic characteristics of cholinergic transmission on a temporal time
+scale (second-based) was measured by applying brief pulses of potassium (KCl, 70 mM; 200 nL) as reported earlier [45].  To determine
+the consequences of trkA disruption on tonic changes in cortical ACh
+release, we applied a high concentration of nicotine (100 μM; 200 nL)
+that is known to produce long-lasting (minute-based) changes in cholinergic transmission presumably via low-aﬃnity α7 nicotinic receptor
+activation [46,44].  Pulses of drug solutions were applied at 2–10 psi
+every 2 min through the capillaries via PTFE tubing connected to a
+picospritzer (ALA Scientiﬁc Instruments, Farmingdale, NY, USA).  Choline signals were analyzed with respect to peak signal amplitudes and
+clearance (T50; time for a signal to be reduced by 50% of peak amplitude).  Self-referencing was adopted to eliminate any artifacts on enzyme-coated channels due to background noise levels or drug application by subtracting currents from sentinel channels.  Amperometric
+recording data for KCl- and nicotine-elicited signals were binned at
+0. 5 s and 2. 5 s, respectively.  Nicotine-evoked signals were box-car ﬁltered by a moving average of 2–5 data points.  All data were expressed
+as the average of three signals per manipulation per animal. 
+2. 5.  Immunohistochemistry and image analysis
+Rats were transcardially perfused using 100 mL of ice-cold 0. 1 M
+phosphate-buﬀered saline (PBS) followed by 200 mL of 4% paraformaldehyde (PFA; pH 7. 4-7. 6).  The brains were removed, post-ﬁxed
+overnight in PFA, and then transferred to 30% sucrose (in 0. 1 M PBS)
+for 72 h.  Coronal sections (50 μm thick) were obtained from the rostralcaudal axis of the PFC (range: +3. 5 mm to +2. 5 mm A/P) and BF
+(range: −1. 0 mm to −1. 9 mm A/P) using a freezing microtome
+(SM2000R, Leica, Wetzlar, Germany).  Slices were stored in cryoprotectant solution (15% glucose, 30% ethylene glycol, and 0. 04% sodium
+azide in 0. 05 M PBS) at −20 °C until further processing. 
+Vector targeting of BF cholinergic neurons and eﬃciency of trkA
+knockdown was assessed using GFP/ChAT double immunostaining and
+trkA immunohistochemistry as described previously [26,40].  Brieﬂy,
+serial sections from the BF regions were randomly selected and rinsed
+in 0. 5 M tris-buﬀered saline (TBS), blocked with 10% donkey serum
+and incubated overnight in goat anti-ChAT (1:200; EMD Millipore,
+Billerica, MA, USA).  Sections were rinsed in TBS containing 1% triton
+X100 (TBST; 3 × 5 min), tagged with rhodamine-conjugated donkey
+anti-goat antibody (1:250; Jackson Immunoresearch Laboratories; West
+Grove, PA, USA), mounted onto gelatin-coated slides, coverslipped with
+Prolong Gold Anti-fade with DAPI mounting media (Life Technologies,
+Grand Island, NY, USA), and visualized for colocalization of GFP protein in ChAT-positive neurons.  Parallel sections assessed for trkA expression levels were blocked for endogenous peroxidase using 0. 3%
+H2O2.  To eliminate non-speciﬁc binding of the primary antibody, slices
+were blocked in 10% goat serum.  Sections were incubated with rabbit
+anti-trkA antibody (1:1000; EMD Millipore) overnight.  Following rinsing with TBST (3 × 5 min), sections were incubated with biotinylated
+goat anti-rabbit IgG (pre-diluted; EMD Millipore) for 2 h.  The staining
+was developed by incubating the sections in streptavidin-HRP followed
+by 3-3′-diaminobenzidine (DAB) and ammonium nickel sulfate.  Stained
+sections were mounted on gelatin-coated slides, air dried, dehydrated,
+and coverslipped with DPX.  To assess the morphology of cholinergic
+neurons and terminal distribution, serial sections from the BF (nBM/SI
+region) and medial PFC were stained for ChAT as described earlier
+[26,40].  Free-ﬂoating sections were incubated with goat anti-ChAT
+antibody (1:100; EMD Millipore) and peroxidase staining was developed using HRP-conjugated donkey anti-goat (1:1000 for cell bodies
+and 1:200 for terminals) and DAB. 
+All sections were analyzed using a Leica ﬂuorescent microscope
+equipped with DFC 425C digital camera and Leica Application Suite 3
+software (Leica Microsystems Inc. , Buﬀalo Grove, IL, USA).  Fluorescent
+images were captured at 200 x using green and red ﬁlters to visualize
+the expression of GFP and ChAT in both hemispheres.  Viral vector colocalization with BF cholinergic neurons was calculated as the percentage of ChAT-positive neurons co-expressing GFP out of 100 cholinergic neurons (50/hemisphere).  For the analysis of BF trkA expression,
+images were acquired in the light microscope mode and processed for
+quantitative image analysis using NIH ImageJ analysis software. 
+Digitized images (400 x magniﬁcation) were processed in binary mode
+and threshold levels were adjusted to enhance the visibility of cell
+bodies.  The density of trkA receptors was expressed as percentage of
+trkA-positive pixels in the analyzed area (325 μm × 245 μm) from both
+hemispheres.  Morphometric analysis of cholinergic neurons involved
+the measurement of cell size as described previously [26,40].  Mean
+cross-sectional area of ChAT-positive neurons was calculated from
+randomly selected sampling areas (400 x magniﬁcation) within the
+nBM/SI region from both hemispheres.  Cell borders were outlined
+manually and the area (in pixel2 units) was calculated by NIH ImageJ
+based on the user-deﬁned border.  Cross-sectional area was converted
+from pixels2 to μm2 based on image magniﬁcation (scaling factor: 12. 09
+pixels/μm).  TrkA-densities and mean cross-sectional ChAT areas were
+averaged from both hemispheres and data are expressed as analyses
+from three sections per animal.  PFC ChAT-immunoreactive ﬁber density was analyzed using a grid counting procedure [26,42,40] from the
+right prelimbic region (cortical layers III/V), which was also used to
+measure ACh release following terminal depolarization (see amperometric recordings above).  Images were captured at 400 x magniﬁcation
+and threshold levels were uniformly adjusted across all sections toB.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+maximize visualization of ChAT-positive ﬁbers in Adobe Photoshop CS4
+(Adobe Systems Inc. , San Jose, CV).  Cholinergic ﬁbers were manually
+traced and counted using a 50 × 50 μm grid for a total area of
+40,000 μm2.  Average ﬁber counts were based on three sections per
+region per animal. 
+2. 6.  Statistics
+Statistical analyses were performed using SPSS/PC+ version 24. 0
+(IBM-SPSS, Armonk, NY, USA).  Mixed-design analysis of variance
+(ANOVA) tests were applied to analyze behavioral data with age, signal
+duration, and/or block as within-subject factors, and trkA manipulation
+as a between-subject factor.  When appropriate, a one-way ANOVA,
+followed by Bonferroni post hoc test for multiple comparisons, was
+conducted
+interaction. 
+Immunohistochemical and amperometric analyses were conducted
+using a one-way ANOVA to determine the impact of developmental
+trkA manipulation on trkA density, age, cholinergic morphology and
+functionality.  A cut-oﬀ p value of 0. 05 was considered statistically
+signiﬁcant. 
+determinetoof
+3.  Results
+3. 1.  Long-term suppression of BF trkA receptors following postnatal infusion
+of AAV vector
+We ﬁrst assessed the eﬃcacy of the recombinant AAV vector to
+suppress trkA receptors in BF neurons, which was injected during the
+developmental phase when cholinergic neurons make connections with
+NGF-producing cortical regions and NGF-trkA signaling ﬁne tunes this
+projection system.  Rat pups were infused with the viral vector expressing trkA shRNA or luc shRNA into the BF during postnatal week 3 and
+brain sections were visualized at 6 weeks old.  As shown in Fig.  3(A, B),
+the vector spread, exempliﬁed by the expression of the reporter protein
+GFP, into the nBM/SI region and its colocalization with ChAT-positive
+neurons indicate that our strategy targeted cholinergic neurons, > 80%
+of which express trkA receptors in this region in rats [47].  BF trkA receptor expression observed at 6 weeks of age signiﬁcantly declined in
+AAV-trkA-infused rat pups as compared to pups infused with the control
+vector (F(1,9) = 2. 86, p < 0. 03; Fig.  3D, E).  These observations are in
+line with our previous work that utilized the AAV vector-based RNAi
+approach to target trkA receptors in the nBM/SI region in young and
+aged rats [26,40].  Next, we examined brain slices from animals that
+have undergone behavioral assessment for 24 months.  Assessment of
+GFP/ChAT colocalization revealed that infection persisted in 47 ± 5%
+of BF cholinergic neurons, indicating that the vector delivered during
+the developmental period could maintain stable gene expression in
+aged rats (Fig.  3C).  Additionally, quantitative analysis of trkA immunoreactivity revealed a signiﬁcant reduction of BF trkA protein levels in rats that received AAV-trkA infusions during the postnatal
+period (F(1,12) = 2. 17, p < 0. 05; Fig.  3F,G), demonstrating a sustained decrease in trkA levels for 24 months.  It is important to note that
+although the reduction in trkA receptors were more robust (79% inhibition) during development as compared to reductions noted in aged
+rats (47% inhibition), the diﬀerence appeared to be related to a natural
+decline of trkA receptors from the post-natal period to adulthood and
+old age (age eﬀect: 6 weeks vs 24 months; p < 0. 01), rather than a loss
+of eﬃcacy of the shRNA [19]. 
+3. 2.  Developmental trkA knockdown and SAT performance in aging rats
+A total of 16 rat pups infused with AAV vectors (N = 8/condition)
+began SAT training at 6 months.  The animals required 38 ± 5 training
+sessions to attain criterion performance.  One AAV-luc-infused rat never
+reached criterion and was excluded from the study.  Average SAT scores
+for adult AAV-luc- and AAV-trkA-infused animals examined at 9 monthsof age remained comparable (F(1,10) = 0. 03, p = 0. 98).  The impact of
+developmental trkA suppression on attentional capacity in aging animals was assessed by subsequently comparing the performance between AAV-luc and AAV-trkA animals on a bimonthly basis starting
+from 12 months of age until the completion of the study at 24 months. 
+Behavioral testing was discontinued due to deteriorating health in 4
+animals (2/condition) at 16 months of age.  At this time point, the
+performance of these rats was similar to other rats that completed the
+study (average SAT scores: 0. 41 ± 0. 09 vs 0. 58 ± 0. 05; F(1,14)
+= 2. 93, p = 0. 11).  The data from these animals were not included in
+subsequent analyses, comparing performance until 24 months of age.  A
+mixed ANOVA with signal (3-levels) and age (9 month, 12–24 bimonthly time points; 8-levels) as within-subject factors and trkA manipulation (2-levels) as a between-subject factor was used to analyze
+attentional performance.  This analysis revealed a signiﬁcant main eﬀect
+of signal (F(2126) = 130. 55; p < 0. 001), a main eﬀect of age (F
+(7126) = 12. 87; p < 0. 001), and a signiﬁcant interaction between the
+two factors (F(14,126) = 2. 24; p < 0. 02) on SAT scores.  However,
+developmental trkA suppression did not aﬀect attentional performance
+(main eﬀect: F(1,9) = 0. 08; p = 0. 78), and no 3-way interaction between age, signal duration and the developmental trkA manipulation on
+performance was observed (F(14,126) = 1. 47; p = 0. 13).  To determine
+the source of interaction between signal duration-dependent performance and age, a one-way repeated-measures ANOVA was conducted
+on SAT scores for each signal.  A consistent decline in attentional performance with rising age was observed in both AAV-luc and AAV-trkAinfused rats for all signal durations (all F(7,63) > 7. 82; p < 0. 001;
+Fig.  4A–C).  Post-hoc comparisons revealed that deﬁcits in SAT scores
+arose at 24 months on trials with 50 ms and 25 ms signal durations,
+respectively (both p < 0. 03 vs 9-month).  Response latencies increased
+with age (main eﬀect: F(7,63) = 7. 24; p < 0. 001; see Fig.  3D for
+multiple comparisons), and these data are in accordance with human
+studies that show decrements in reaction times in attentional tasks in
+older adults [48,49].  Like SAT scores, response latencies remained
+comparable between the AAV-luc and AAV-trkA animals (F(1,9)
+= 0. 10; p = 0. 75), and no interaction between age and vector infusion
+was observed on this behavioral measure (F(7,63) = 0. 37; p = 0. 91). 
+Aging rats omitted more trials (main eﬀect of age: F(7,63) = 2. 41;
+p < 0. 04).  However, omissions did not diﬀer by vector infusion (F
+(1,9) = 0. 05; p = 0. 83) and the age x vector infusion interaction remained insigniﬁcant (F(7,63) = 0. 95; p = 0. 47).  Because the rate of
+omissions remained very low throughout the behavioral testing of animals (range: 0% − 9. 8%), and SAT scores are not confounded by this
+measure (see Methods), the age eﬀect is indicative of subtle changes in
+motivational states to perform the task, which does not impact the
+composite index of attentional performance. 
+3. 3.  Attentional capacities under distracting conditions
+To assess the consequences of developmental trkA suppression on
+attentional capacity under conditions of high cognitive load in aging
+rats, a visual distractor was presented during the second block of the
+test session (dSAT) when rats were 12 and 24 months old, respectively. 
+A mixed-factor repeated-measures ANOVA with block (3-levels) and
+age (2-levels) as within-subject variables displayed a main eﬀect of
+block (F(2,18) = 23. 44; p < 0. 001), a main eﬀect of age (F(1,18)
+= 6. 98; p < 0. 03), and a signiﬁcant interaction between the two factors F(2,18) = 4. 48; p < 0. 04).  One-way ANOVA showed that at 12
+months of age, distractor presentation robustly diminished performance, as noted by a main eﬀect of block (F(2,18) = 22. 28; p < 0. 01),
+with a post-hoc analysis demonstrating deﬁcits arising in block 2 (i. e. ,
+distractor presentation) compared to block 1 (p < 0. 001) and block 3
+(p < 0. 03; Fig.  5A).  However, at 24 months old, this main eﬀect of
+block induced by the distractor presentation was no longer observed (F
+(2,18) = 1. 21, p = 0. 33; Fig.  5B).  This shift may be attributed to the
+overall reduction in attentional performance under baseline conditions
+B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+Fig.  3.  Vector eﬃciency for long-term trkA suppression.  To ensure neuronal infection and vector eﬃciency during development, a pilot group of rat pups underwent AAV-luc and AAVtrkA injection at PND 18–21 and sections were visualized at 6 weeks.  Schematic representation of the AAV vector infusion site targeting the nBM/SI region (highlighted in green) of the BF
+containing cholinergic neurons (A; left).  These neurons are present along the ventromedial wall of the globus pallidus (GP) and project to the entire cortex (IC: internal capsule; CP:
+caudate putamen).  A representative coronal section taken from a 6-week-old rat infused with AAV-trkA vector depicts the infected BF neurons expressing GFP in the nBM/SI region (A;
+right).  (B) Sampled BF area showing GFP-expressing neurons (green), ChAT-positive neurons (red) and colocalization of GFP and ChAT (yellow; merged images) conﬁrm targeting of BF
+cholinergic neurons by the vector.  (C) A representative immunostained section from a 24-month-old aged rat that received AAV-luc infusion during the development.  Colocalization of
+GFP and ChAT illustrated that vector remained stably expressed in BF cholinergic neurons until 24 months.  Double labeling is depicted by white arrowheads.  BF trkA immunoreactivity
+from representative sections taken from 6-week-old rats that received postnatal infusions of either AAV-luc or AAV-trkA vector (D; blue arrows point to trkA-positive neurons).  The
+infusion of AAV vector expressing trkA shRNA during PND18-21 produced profound reductions in trkA expression in the nBM/SI region at 6 weeks of age (E).  Representative sections
+depict trkA receptor protein expression in the BF from rats that received AAV vector infusions during the postnatal period and underwent behavioral testing for 24 months (F; blue arrows
+point to trkA-positive neurons).  Signiﬁcant reduction in BF trkA immunoreactivity was noted in old rats that received developmental infusion of AAV-trkA as compared to the AAV-luc
+group (G).  These data illustrate that our AAV vector strategy to knockdown trkA receptors in rats during development could maintain long-lasting reductions in trkA levels until old age. 
+Data are represented as mean ± SEM.  *, ** p < 0. 05, 0. 01 vs AAV-luc.  (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of
+this article. )
+at 24 months (Block 1: F(1,20) = 18. 74; p < 0. 001; 12 vs 24 months)
+rather than impaired ability to cope up with a distractor challenge
+(Block 3: F(1,20) = 3. 36; p = 0. 08; 12 vs 24 months).  Surprisingly,
+AAV-trkA-infused rats performed similarly to AAV-luc-infused rats
+under distracting conditions [main eﬀect for trkA manipulation as a
+between-subject factor: (F(1,9) = 0. 18, p = 0. 68)] and the three-way
+interaction remained insigniﬁcant (block x age x trkA manipulation: F
+(2,18) = 2. 44, p = 0. 12).  Because baseline attentional capacity was
+aﬀected in both groups at 24 months, we cannot rule out that a ﬂoor
+eﬀect might have contributed to the lack of performance diﬀerences in
+the distractor session. 
+3. 4.  Impact of life-long suppression of trkA receptors on cholinergic function
+in attention task-performing rats
+The status of cholinergic transmission was determined by in vivo
+monitoring of ACh dynamics in the medial PFC from aged rats after the
+completion of behavioral testing.  Potassium and nicotine pulses were
+locally applied to generate choline spikes that represent hydrolyzed
+choline from newly released ACh events and mimic phasic and tonic
+characteristics of cholinergic transmission based on its temporal timescale [53–55].  Average second-based increases in extracellular choline
+levels recorded following terminal depolarization in the medial PFC are
+depicted in Fig.  6A.  The amplitudes of depolarization-evoked cholinergic signals did not diﬀer between the AAV-trkA- and AAV-luc-infused aged rats (F(1,7) = 1. 04, p = 0. 33; Fig.  6B).  Moreover, the
+clearance of choline signals remained unaﬀected by the developmental
+trkA manipulation (t50: F(1,7) = 0. 66, p = 0. 53; Fig.  6C).  As expected,
+local application of nicotine produced a robust increase in cholinergic
+transmission that lasted hundreds of seconds in aged rats infused with
+the control vector (see population traces in Fig.  6D).  Interestingly, developmental trkA suppression produced a drastic reduction in the amplitudes on nicotine-evoked choline signals (F(1,7) = 2. 32, p < 0. 05;
+Fig.  6E).  Additionally, the T50 values of these signals remained signiﬁcantly lower as compared to the AAV-luc-infused rats (F(1,7)
+= 2. 57, p < 0. 05; Fig.  6F). B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+Fig.  4.  Developmental BF trkA suppression and attentional performance in aging rats.  A within-subject comparison of SAT scores for 500 ms (A), 50 ms (B) and 25 ms (C) in aging rats
+that received AAV-luc and AAV-trkA into the BF during development.  A general deﬁcit in the ability to detect signals was noted with rising age in both groups (main eﬀect: p < 0. 001)
+and this eﬀect interacted with signal duration (p < 0. 02).  Post hoc analyses show that attentional deﬁcits were observed at 24 months as compared to 9 months on trials with shorter
+signal durations (50 ms and 25 ms).  (D) In general, response latency increased with aging in both AAV-luc and AAV-trkA groups (p < 0. 001), with a post-hoc revealing signiﬁcantly
+slower responding occurring at 12, 14, 18, and 24 months old in comparison to 9 months old.  Data are represented as mean ± SEM.  *p < 0. 05, **p < 0. 01. 
+Fig.  5.  Attentional performance under distracting conditions.  Attentional performance under conditions of higher cognitive load was assessed in a dSAT testing session that consisted of
+the presentation of a visual distractor (ﬂashing house light at 0. 5 Hz) during the 2nd block of trials.  The presentation of trials in blocks 1 and 3 remained similar to the SAT session.  (A)
+Average dSAT scores show robust impairments in attentional performance during block 2 (depicted as green shaded area) as compared to performance in the pre- and post-distractor
+blocks (blocks 1 and 3) at 12 months of age.  (B) However, at 24 months of age, the performance remained similar across all 3 blocks.  The impact of the distractor was not prominent due
+to an overall reduction in attentional capacity at 24 months vs.  12 months.  Developmental trkA suppression did not impact dSAT performance at either 12 or 24 months (p = 0. 68).  Data
+are represented as mean ± SEM.  *p < 0. 05, ***p < 0. 001.  (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article. )B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+Fig.  6.  Impact of life-long trkA suppression on cholinergic function.  In vivo amperometric recordings of prefrontal cholinergic transmission were conducted to evaluate the impact of
+developmental trkA reductions on the functional capacity of cortically-projecting BF cholinergic neurons in aging.  (A) Population traces depicting choline spikes, following brief
+depolarizing pulses of potassium in the medial PFC, of 24-month-old rats infused with either AAV-luc or AAV-trkA into the BF during development.  The transient increases in extracellular
+choline levels reﬂect phasic ACh release and occur as a consequence of rapid hydrolysis of ACh by acetylcholinesterase.  Peak amplitudes (B) and clearance (C) of depolarization-evoked
+cholinergic signals remained unaﬀected by the developmental AAV vector manipulation.  (D) Population traces depicting tonic increases in cholinergic transmission following local
+application of nicotine in 24-month-old rats.  Developmental trkA knockdown reduced peak signal amplitudes (E) and T50 (F) of nicotine-evoked cholinergic signals.  (G) Representative
+coronal sections depicting ChAT-immunopositive neurons (marked by blue arrowheads) from the nBM/SI region of aged rats infused with either AAV-luc or AAV-trkA vector during
+development.  (H) The cross-sectional area of cholinergic neurons in aged rats remained unaﬀected by the developmental vector manipulation.  Data are represented as mean ± SEM. 
+*p < 0. 05.  (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article. )
+The impact of developmental trkA knockdown was also examined
+on the morphology of BF cholinergic neurons and cortical cholinergic
+terminal density using ChAT immunohistochemistry in the postmortem
+brains of aged rats.  As depicted in Fig.  6G and H, the mean cross-sectional area of BF ChAT-positive neurons did not diﬀer between the
+AAV-luc- and AAV-trkA-infused rats
+(F(1,12) = 0. 82, p = 0. 43). 
+Moreover, densitometric analysis of ChAT-positive ﬁbers sampled from
+the prelimbic region of the medial PFC exhibited no signiﬁcant diﬀerences
+(AAV-luc: 121. 54 ± 14. 39; AAV-trkA:
+112. 39 ± 4. 54; F(1,12) = 0. 61, p = 0. 56).  Collectively, these data
+indicate that although certain aspects of cholinergic transmission were
+aﬀected by developmental trkA suppression in aged rats engaged in an
+attention task for the full extent of their lives, the integrity of the cortical cholinergic input system was not impacted. 
+<Conclusion> Discussion. 
+The cholinotrophic eﬀects of NGF-trkA signaling during development are well established [50,51,35].  Moreover, reduced trkA receptor
+density observed in AD subjects has been shown to correlate withdeteriorating cognitive performance [20,24].  Because BF cholinergic
+signaling is critical for attentional performance [52,4], we hypothesized
+that developmental suppression of trkA signaling would escalate agerelated attentional vulnerability by producing cholinergic disruption. 
+To test this premise, we utilized an AAV vector-based RNAi approach to
+knockdown BF trkA during the developmental maturation of the corticopetal cholinergic circuit and examined the interactions between
+age-related changes in attentional function and trkA disruption using a
+longitudinal study design.  In spite of developmental reductions in BF
+trkA receptor expression levels, AAV-trkA-infused rats exhibited comparable decline in attentional capacity with rising age as compared to
+control animals.  Although nicotinic cholinergic transmission in aging
+was impacted by developmental trkA knockdown, the morphology of
+BF cholinergic neurons, prefrontal cholinergic innervation, and depolarization-evoked ACh release in aged rats remained unaﬀected. 
+AAV vectors allow eﬃcient neuronal infection and maintenance of
+gene expression for a long period of time in rodents [53,54].  Moreover,
+quantitative analysis of trkA immunoreactivity revealed signiﬁcant reductions of BF trkA protein levels in rats that received AAV-trkA infusions during the postnatal period, and these reductions persisted until
+B.  Yegla, V.  Parikh
+Behavioural Brain Research 335 (2017) 111–121
+24 months of age.  This suggests that our AAV vector-based RNAi approach produced stable and long-lasting expression of trkA shRNA from
+the SIBR plasmid in the cholinergic neurons that mostly express trkA
+receptors in the BF region.  It is important to note that ∼45-50% reduction in trkA receptor levels was maintained in these rats, and this
+degree of trkA loss has been reported in mild to moderate AD patients
+exhibiting cognitive impairments [55,20].  We also previously observed
+attentional impairments in aged rats that received a vector manipulation, producing a similar magnitude of trkA reduction [26,40].  Furthermore, the same strategy was employed in the present study to
+produce developmental
+trkA receptors, and trkA
+knockdown persisted in aged rats, which was at a comparable level to
+our earlier work.  Together, these ﬁndings dismiss the possibility that
+the lack of performance diﬀerences noted between the aging rats infused with AAV-trkA and AAV-luc vector during the postnatal period
+could have resulted from either insuﬃcient shRNA expression or trkA
+degradation due to the vector. 
+suppression of
+As noted previously, the integrity of the BF cholinergic system depends upon NGF-trkA signaling [18,56,19].  Moreover, accelerated agerelated cellular changes including the production of amyloid-β, which is
+also observed in AD and exerts a negative eﬀect on cholinergic neurons,
+are predicted to occur due to a shift in trkA receptor signaling from
+neurotrophic to apoptotic signaling.  This shift is mediated by the p75
+receptor, a low-aﬃnity NGF receptor [57–59].  We previously reported
+that suppression of trkA signaling further exacerbated age-related reductions in cholinergic soma size and terminal densities [26].  Additionally, depolarization-evoked ACh release, which mimics temporal
+characteristics of phasic cholinergic transients critical for the detection
+of attention-demanding cues, declined in the PFC of trkA knockdown
+aged rats, and this eﬀect was partially rescued by blockade of p75
+signaling with a proNGF antibody [40].  Together, these ﬁndings illustrated that the aging cholinergic system is exceptionally vulnerable to
+trkA dysregulation.  In contrast to our earlier studies, persistent suppression of trkA receptors from early development into old age did not
+aﬀect the integrity of the cortical cholinergic input system and the
+ability of cholinergic synapses to produce cholinergic transients in the
+PFC, as compared to aged-matched controls with intact trkA receptors
+in the present study.  Moreover, attentional performance mirrored this
+pattern, with no diﬀerences emerging throughout aging in trkAknockdown and control rats.  Tonic cortical cholinergic activity is
+known to reﬂect the status of top-down attentional capacity [60].  Although tonic increases in ACh release following local application of
+nicotine in the PFC was attenuated in AAV-trkA-infused rats, the dSAT
+performance, which recruits top-down mechanisms in aging, remained
+unaﬀected with the developmental trkA suppression.  Together, these
+ﬁndings indicate that postnatal trkA knockdown aﬀected only certain
+aspects of cholinergic transmission in aging and that these disruptions
+were insuﬃcient to impact attentional capacities.  Because nicotinic
+cholinergic signaling is implicated in a wide range of behaviors including spatial and contextual learning and working memory [61–63],
+the long-term eﬀects of developmental trkA disruption on cognitive
+domains beyond attention remains to be seen. 
+It is plausible that extensive practice eﬀects may have diluted the
+eﬀect of developmental trkA suppression on attentional capacities. 
+However, the persistent presence of a vigilance decrement into old age,
+reﬂected as signal duration-dependent performance eﬀects, in our study
+(see Results) argues against the development of any habitual responding.  This is consistent with a previous longitudinal study that
+reported vigilance decrements until 31 months following lifelong SAT
+training in rats [64].  In addition, we did observe a progressive decline
+in attentional capacities with age in both the developmentally-suppressed trkA and developmentally-intact trkA rats, which presumably
+would have resulted from a natural decline in trkA signaling.  Thus, it
+seems unlikely that prolonged training of animals might have contributed to a lack of performance eﬀects between these two groups ofIn the past decade, the concept of cognitive reserve has emerged,
+positing that engagement in mental/cognitive activity exerts neuroprotective eﬀects and enhances the capacity for functional compensation [65–67].  In rats, performance in a spatial learning task elicited agespeciﬁc shifts in redox homeostasis, with young-adult animals demonstrating reductions in oxidative stress while aged rats displayed increased antioxidant capacity in several brain regions including the
+frontal cortex, olfactory bulb, pons and medulla oblongata [68]. 
+Moreover, cognitive training produced functional and enzymatic
+changes, such as greater functional connectivity between task-dependent brain regions and increased frontal and hippocampal ChAT levels
+[69–71].  In the present study, all animals that underwent developmental trkA manipulation were performing SAT from young adulthood
+until old age.  Thus, it is possible that constant recruitment of BF cortical
+cholinergic inputs through lifelong engagement in attentional activity
+might have bolstered this circuit to withstand some of the insult produced through reduced trkA signaling during development.  Additionally, persistent cognitive activity could plausibly have minimized
+the impact of developmental trkA disruption by strengthening the dynamic interactions between BF cholinergic neurons and neuromodulatory systems such as the hypothalamic orexin/hypocretin system, that
+has also been suggested to regulate attentional functions [72–74].  At
+the molecular level, one potential player that could mediate circuitlevel plasticity could be the brain-derived neurotrophic factor that is
+known to exert neuroprotective eﬀects on cholinergic neurons and
+whose expression increases with persistent cortical activity [75–77]. 
+Lastly, in alignment with the cognitive reserve idea, activation of
+compensatory non-cholinergic networks may explain the lack of dSAT
+performance diﬀerences between trkA-knockdown and trkA-intact aged
+rats despite alterations in tonic cholinergic signaling.  In light of current
+evidence, these interpretations remain speculative, and future experiments on the neurobiological underpinnings of cognitive reserve and
+how this neuroadaptive mechanism protects attentional functions from
+insults that increase the vulnerability of the cholinergic system are
+warranted. 

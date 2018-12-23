@@ -1,0 +1,51 @@
+
+Opioid peptides have a long history of involvement in pain, reward,
+and learning and memory.  Previous reports from our laboratory and
+others have demonstrated that the general opioid antagonist naloxone,
+impairs learning of many associative tasks such as delay conditioning,
+operant lever-pressing behavior, fear conditioning, and trace eyeblink
+conditioning [1–5].  In exploring the role for speciﬁc opioid receptors in
+learning and memory, our laboratory has shown that antagonizing the
+kappa-opioid receptor (KOR) impairs acquisition for the associative
+paradigm whisker-trace eyeblink (WTEB) conditioning [6]. 
+In WTEB conditioning a neutral conditioned stimulus (CS; Whisker
+stimulation) is paired following a stimulus free trace interval with a
+salient unconditioned stimulus that elicits an eye-blink (US; Eye shock). 
+This paradigm has been shown to be dependent on, and induce plasticity in primary somatosensory cortex (S1), a likely site for memory
+storage [7–10].  Our subsequent studies exploring the role of KOR with
+learning have demonstrated that either systemic or direct S1 KOR inhibition impairs WTEB acquisition [6].  Consistent with our ﬁndings,
+many studies have shown that KOR modulation can alter learning on
+various tasks such as inhibitory avoidance, spontaneous alternation,
+water-maze, radial-arm-maze, and conditioned place aversion [11–15]. 
+These studies have strongly suggested that KOR plays a prominent role
+in mediating various types of learning. 
+KOR’s endogenous ligand and the most likely molecular trigger for
+these eﬀects on learning is dynorphin.  Dynorphin is synthesized from
+the precursor peptide prodynorphin (PD), which is synthesized in vesicles from the precursor preprodynorphin (PPD) [16].  Similar to KOR,
+Dynorphin and its upstream precursors have been implicated in various
+forms of learning.  For instance, PD knockout mice exhibit enhanced
+levels of freezing in a contextual fear conditioning task [17].  Likewise,
+dynorphin knockout mice display reduced age-related deﬁcits in water
+⁎ Corresponding author at: Beckman Institute, 405 N.  Mathews Ave, Urbana, IL 61801, USA. 
+E-mail addresses: RyanLoh2@illinois. edu (R.  Loh), Smcolli2@illinois. edu (S.  Collins), Rgalvez@illinois. edu (R.  Galvez). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 015
+Received 14 June 2017; Received in revised form 31 July 2017; Accepted 5 August 2017
+Available online 09 August 2017
+0166-4328/ 
+R.  Loh Name
+Behavioural Brain Research 335 (2017) 145–150
+maze learning [18], while dynorphin injected directly into the hippocampus impairs water maze performance [19].  Although the speciﬁc
+role of dynorphin and its precursors in learning appears to vary depending upon the tasks, these studies collectively suggest that they play
+a prominent role in the acquisition and consolidation of learning tasks. 
+Upon exploring the speciﬁc cell type expressing these peptides, it
+has been demonstrated that the dynorphin precursor ligand PPD is
+primarily found in Somatostatin-containing GABAergic interneurons
+(SOM) within S1 [20].  These ﬁndings suggest that SOM interneurons
+are a likely upstream cell of KOR activation in S1 with WTEB.  SOMs are
+a major subclass of interneurons in the central nervous system that
+serve a variety of roles in various species.  SOM cells represent a signiﬁcant proportion of all inhibitory interneurons in the neocortex [21]. 
+Additionally, this population of cells is localized in areas important for
+learning and memory, such as the neocortex and hippocampus [22],
+two brain regions critically involved in WTEB acquisition [8,23,24].  In
+S1, tonically-active SOM cells serve to inhibit neuronal activity, as
+optogenetic silencing SOM cells causes an increase in ﬁring of pyramidal cells in the area.  SOM cells in S1 also receive input from vasoactive intestinal peptide (VIP)-containing inhibitory interneurons. 

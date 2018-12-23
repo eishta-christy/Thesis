@@ -1,0 +1,132 @@
+
+Operant behavior results from the relations between behavior and
+its consequences and has been used extensively as a model of voluntary
+behavior [1,2].  The systematic analysis of environmental and biological
+factors underlying operant behavior provides understanding and potential treatments for a range of behaviors considered maladaptive,
+such as addictions [3] and overeating [4].  Most research examining
+biological and environmental factors in learning processes come from
+studies with mammalian laboratory animals.  As an alternative, zebraﬁsh (Danio rerio) are ideal for examining environmental and biological
+factors involved in learning because of their high fecundity, low-cost
+maintenance,
+transparent embryo, and fully sequenced genome
+[e. g. ,5–8].  Key neurobiological structures mediating the reinforcing
+eﬀects of
+(e. g. , drugs) appear conserved in zebraﬁsh
+[e. g. ,9,10].  Moreover, many diﬀerent types of genetically modiﬁedzebraﬁsh are available (e. g. , National BioResource Project in Japan). 
+These features oﬀer biomedical and behavioral researchers opportunities to examine how genes and environment interact to determine
+operant behavior.  Nevertheless, studies of operant behavior with zebraﬁsh remain few [11–13]. 
+One area of research relevant to understanding operant behavior
+generally, and treatments for maladaptive behavior speciﬁcally, is with
+laboratory models of relapse.  A persistent tendency to relapse even after
+prolonged periods of abstinence is a deﬁning feature of addictive behavior [14].  Therefore, relapse of previously learned behavior has been
+investigated extensively during the past few decades [15–18].  Most
+models of relapse arrange reinforcement of operant responding in Phase
+1 to simulate engaging in maladaptive behavior and then, in Phase 2,
+model a basic form of behavioral treatment by eliminating those reinforcers through extinction of operant responding.  Models of relapse
+primarily diﬀer in Phase 3 as a result of arranging diﬀerent factors
+⁎ Corresponding author at: Aichi Bunkyo University, Faculty of Humanities, 5969-3 Okusa, Komaki, Aichi, 485-8565 Japan. 
+E-mail addresses: toshikazu. kuroda@gmail. com (T.  Kuroda), yuto. mizutani3@gmail. com (Y.  Mizutani), carlos. cancado@gmail. com (C. R. X.  Cançado),
+cpodlesnik@ﬁt. edu (C. A.  Podlesnik). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 023
+Received 25 July 2017; Received in revised form 3 August 2017; Accepted 14 August 2017
+Available online 19 August 2017
+0166-4328/ 
+T.  Kuroda Name
+Behavioural Brain Research 335 (2017) 215–222A summary of typical procedures for assessing resurgence, renewal, and reinstatement.  “Target” and “Alt” stand for target and alternative responses, respectively. Phase 2ResurgenceReinstatement
+Target reinforced;
+Alt not reinforced
+Target reinforced in Context A
+Target reinforced
+Target extinguished;
+Alt reinforced
+Target extinguished in Context B
+Target extinguished
+Target extinguished;
+Alt extinguished
+Target extinguished in Context A
+Target extinguished; Response-independent delivery of reinforcer
+contributing to the relapse.  The relapse of previously reinforced and
+extinguished responding in these models indicates that decreases in
+operant responding during extinction do not represent an elimination of
+prior learning.  Instead, relapse indicates new learning involving the
+extinction contingency [see 15]. 
+Relapse of operant behavior has been demonstrated with a wide
+variety of species in the three laboratory models of relapse serving as
+the focus in this investigation (see Table 1).  First, resurgence is the relapse
+of a previously reinforced and then extinguished response when
+reducing or eliminating reinforcement for a more recently trained response
+[e. g. ,19–22].  Hereafter, the response reinforced and then extinguished
+will be referred to as the target response and the more recently
+trained response as the alternative response.  Resurgence has been
+demonstrated with rats [e. g. ,20,23], pigeons [e. g. ,24,25], Siamese
+fighting fish [26], monkeys [27], and humans [e. g. ,28].  Recently, our
+laboratory demonstrated resurgence with zebrafish for the first timeSecond, renewal is relapse due to changes in environmental context. 
+Specifically, renewal is the return of a target response when changing
+the global environmental context compared to the extinction context
+[e. g. ,30,31,32].  Renewal occurs, for example, when reinforcing and
+extinguishing the target response in different contexts and then (1)
+returning to the training context (ABA renewal) or (2) transitioning to a
+novel context (e. g. , ABC renewal).  Renewal of operant behavior has
+been demonstrated with rats [30,33], pigeons [e. g. ,34,35], and humans
+[36] but not yet with zebrafish. 
+Finally, reinstatement is relapse resulting from exposure to a range of
+events due to learning (e. g. , cues) or biological relevance (e. g. , stress)
+[37].  One commonly used method for assessing reinstatement of an
+extinguished target response is to present the event previously serving
+as the reinforcer independently of responding [38,39].  Reinstatement
+has been demonstrated with rats [e. g. ,40], pigeons [e. g. ,41,42], monkeys
+[43,44], and humans [e. g. ,45,46].  Thus far, there have been no
+demonstrations of reinstatement of operant behavior in zebrafish −
+only reinstatement of a Pavlovian conditioned approach response to
+drug (cocaine or nicotine) [10]. 
+All these studies suggest relapse of previously reinforced and then
+extinguished operant behavior is general across species.  These three
+procedures serve as experimental models for understanding the conditions
+under which relapse occurs and might be used as platforms to
+examine biological influences in relapse, including developmental,
+pharmacological, and neurobiological factors [16].  Nevertheless, research
+on laboratory models of relapse using zebrafish has been limited. 
+Therefore, the goals of the present study were to systematically replicate
+resurgence and to extend the analysis to renewal, and reinstatement
+of extinguished operant behavior in zebrafish using an
+automated device to record discrete responses (i. e. , approaching sensors)
+and deliver decapsulated brine shrimp eggs as reinforcers [11,12]. 
+<Middle> General methods. 
+2. 1.  Subjects
+Forty experimentally naïve zebrafish (National Bioresource Project
+of Japan, Riken Brain Science Institute), 7–8 months old at the start of
+the experiments, served as subjects.  They were wild-type fish (i. e. , not
+genetically modiﬁed).  Each ﬁsh was housed individually in a room with
+a 14hr:10hr light-dark cycle (lights on at 6:00 am) in an aquarium
+(13. 0-cm wide by 16. 8-cm long by 11. 3-cm high) connected to a pump
+and tank where water was ﬁltered, aerated, and maintained at 28 °C
+with a heater.  Water was kept at a pH level of 7. 5 and half of the water
+in the tank was replaced weekly.  When a ﬁsh produced fewer than 30
+reinforcers (decapsulated brine shrimp eggs) in a session, postsession
+feedings of supplemental food (Kyorin, Hikari Labo 270) occurred
+30 min after sessions. 
+2. 2.  Material
+Two types of automated device, similar to that described by Manabe
+Name [11], were used.  Fig.  1 shows the device used to study resurgence
+in Experiment 1.  The device was placed in the aquarium of each ﬁsh
+during sessions and consisted of three sensors and two feeders ﬁxed on
+Plexiglas.  The three sensors were for the target, alternative, and control
+responses, as described below.  Each sensor consisted of a 2-mm diameter polymeroptical ﬁber (Mitsubishi Rayon Co. , LTD, Esca CK80), a
+ﬁber sensor (Keyence FU-23X), an ampliﬁer (Keyence, FS-V21X), and a
+tri-color LED (Oput-Supply OSTA5131A-C).  The tip of each sensor was
+set 5 mm below the water surface and 5 mm away from the front wall of
+the aquarium.  The sensor tips were 4. 5 cm apart from each other and
+could be illuminated red, green, or blue.  A response was registered
+when the ﬁsh approached and was at least within 5 mm below the
+sensor tip. 
+The feeders were located 2. 25 cm to the left and right of the middle
+sensor.  Each feeder consisted of a servo motor (Futaba S3005), a brass
+tube with the inner diameter of 600 μm, a 400-μm-diameter piano wire
+inserted in the brass tube, a vibrator, and a white LED (i. e. , the feeder
+light).  During reinforcement, the feeder light turned on immediately
+upon a response, the servo motor pulled the piano wire, the vibrator
+operated, decapsulated brine shrimp eggs were loaded into the brass
+contributing to the relapse.  The relapse of previously reinforced and
+extinguished responding in these models indicates that decreases in
+operant responding during extinction do not represent an elimination of
+prior learning. 

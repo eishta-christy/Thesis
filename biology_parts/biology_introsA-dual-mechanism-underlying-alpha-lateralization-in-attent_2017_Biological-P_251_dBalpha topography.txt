@@ -1,0 +1,316 @@
+
+The visual system has limited processing capacity, so simultaneous
+stimuli present in the visual ﬁeld mutually suppress their evoked activity in the visual cortex.  Competition between stimuli can be resolved
+by top-down mechanisms, such as selective attention, or by bottom-up
+stimulus-driven mechanisms, such as saliency.  Selective attention to the
+behavioral relevant stimuli is considered a top-down process, in which
+high-level processing areas in the prefrontal and posterior parietal
+cortices, exert a biasing signal towards the visual regions processing the
+relevant items (Miller & D’Esposito, 2005).  As a consequence, sensory
+regions show increased activity for the relevant vs the irrelevant items
+(Armstrong, Fitzgerald, & Moore, 2006; Buﬀalo, Fries, Landman,
+Liang, & Desimone, 2010), making stimulus processing more accurate
+(Richter, Thompson, Bosman, & Fries, 2017).  Neural synchrony seems
+to be a key mechanism to enhance neural representation of the attended
+sensory input.  Several models postulate that gamma and alpha band
+oscillations play a pivotal role in top-down processes such as selective
+attention, with antagonist roles (Fries, Reynolds, Rorie, & Desimone,2008;
+Oostenveld, & Desimone,Womelsdorf,
+inhibition of
+Jensen & Mazaheri, 2010; Klimesch Name, 2007; Womelsdorf, Fries,
+Mitra, & Desimone, 2006).  Whereas gamma synchronization represents
+a high excitability state of the underlying neural population (Fries Name,
+2001), and is thus associated with processing of information; alpha
+synchronization represents a state of low excitability and has been associated with the functional
+task-irrelevant regions
+(Jensen & Mazaheri, 2010).  In this line, alpha modulation in visual
+areas represents an anticipatory visuospatial attention correlate.  Some
+experiments have found an alpha power increase (or alpha synchronization) ipsilateral to the attended hemiﬁeld related to the suppression
+of unattended neural representations (Kelly, Lalor, Reilly, & Foxe, 2006;
+Rihs, Michel, & Thut, 2007;Worden, Foxe, Wang, & Simpson, 2000),
+whereas others have found an alpha power decrease (or desynchronization) contralateral
+to the attended hemiﬁeld (Kelly, GomezRamirez, & Foxe, 2009; Sauseng Name, 2005; Yamagishi, Goda, Callan,
+Anderson, & Kawato, 2005) linked to enhancement of neural excitability in cortical areas processing the attended stimulus. 
+Like visuospatial attention, working memory (WM) has capacity
+⁎ Corresponding author. 
+E-mail address: pablo. campo@uam. es (P.  Campo). 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 015
+Received 8 March 2017; Received in revised form 17 July 2017; Accepted 18 July 2017
+Available online 23 July 2017
+0301-0511/ 
+C.  Poch Name
+Biological Psychology 128 (2017) 63–70
+restrictions, in which only limited amount of information can be represented during a short interval.  Top-down mechanisms have been
+shown to operate during the maintenance interval to optimize WM
+performance (Griﬃn & Nobre, 2003; Lepsien & Nobre, 2007).  Additionally, recent theoretical conceptualizations highlight the ﬂexible
+nature of memory representations, which are maintained in diﬀerent
+accessibility states and the allocation of attention can move them into a
+high prioritized state (Lewis-Peacock & Postle, 2012; LaRocque, LewisPeacock, Drysdale, Oberauer, & Postle, 2013; Zokaei, Manohar,
+Husain, & Feredoes, 2013, Zokaei, Ning, Manohar, Feredoes, & Husain,
+2014; Heuer & Schubö, 2016a).  An eﬃcient experimental strategy to
+study the beneﬁt of orienting attention to representations already held
+in WM is presenting a spatial cue during the retention period indicating
+which item is likely to be probed.  This is widely known as the retro-cue
+paradigm, because the cue is provided after the memory set is encoded. 
+The use of this paradigm has demonstrated that orienting attention to
+perceptual representation, this is, before encoding, and orienting attention to memory representation, this is, after encoding, exhibit a similar behavioral beneﬁt (Griﬃn & Nobre, 2003; Myers, Walther, Wallis,
+Stokes, & Nobre, 2015).  In addition, both processes elicit a similar
+modulation of evoked visual activity (Griﬃn & Nobre, 2003).  These
+results suggest that a common set of attentional control (i. e.  top-down)
+mechanisms can be used in both cognitive contexts, this is, when selecting items in the outside world, and when selecting items among
+internal representations (i. e. , WM).  While there is abundant research
+about the patterns of neural oscillatory activity underlying attentional
+processes in the perceptual domain, the modulation of oscillatory activity by the retro-cue has been much less studied. 
+Similarly to orienting attention to the perceptual space, retro-cue
+experiments also ﬁnd an alpha modulation related to orienting attention to memory representations (Nobre, Gitelman, Dias, & Mesulam,
+2000; Kastner & Ungerleider, 2001; Poch, Campo, & Barnes, 2014;
+Wallis, Stokes, Cousijn, Woolrich, & Nobre, 2015; Mok, Myers,
+Wallis, & Nobre, 2016; Schneider, Mertes, & Wascher, 2016).  However,
+contrary to the much studied phenomenon in perception, the characteristics of alpha modulations in WM are still under examination. 
+Visuospatial attention experiments have proven useful to disentangle the neural generators of alpha modulation in order to determine
+its functionality.  A recent MEG study found two dissociated generators
+of alpha activity related to diﬀerent attentional mechanisms (Capilla,
+Schoﬀelen, Paterson, Thut, & Gross, 2014).  While alpha ipsilateral increases arised from the dorsal stream to support attentional shifts,
+contralateral alpha suppression in the ventral occipital cortex was related to feature processing.  This dissociation would be of great relevance in WM as it could provide further understanding of sensory
+recruitment proposals which posit that maintenance of information is
+accomplished by sensory cortices (Postle, 2006; Serences, Ester,
+Vogel, & Awh, 2009). 
+Whether item prioritization needs sustained attention to encoded
+information or not is matter of debate.  Some authors have argued that
+retro-cue guides attention to the relevant item, and that it stays under
+focal attention until probe presentation (Makovsik & Jiang, 2007;
+Matsukura, Luck, & Vecera, 2007; Makovski, Sussman, & Jiang, 2008;
+Pertzov, Bays, Joseph, & Husain, 2013).  However, other authors have
+found that sustained attention is not needed for the beneﬁt of the retro
+cue (Hollingworth & Maxcey-Richard, 2013; Rerko, Souza, & Oberauer,
+2014).  Convergently, electrophysiological experiments have found a
+transient alpha lateralization related to attentional orienting (Mok
+Name, 2016; Myers Name, 2015; Wallis Name, 2015).  In this line, it has
+been proposed that transient alpha desynchronization is an index of
+access to memory representation and, once a representation is accessed,
+a change in the representational state takes place and alpha modulation
+is no longer needed (Wolﬀ, Jochim, Akyürek, & Stokes, 2017). 
+Behavioural studies have found divergent results about the extent of
+the retro-cue beneﬁt.  Some authors reported that retrocue beneﬁts are
+observed only for one single item (Makovsik & Jiang, 2007), whileothers have found that is possible to retrospectively orient attention to
+more than one (Heuer & Schubö, 2016b).  Electrophysiological retro-cue
+studies have mainly explored the eﬀects of retro-cueing one item
+(Griﬃn & Nobre, 2003; Myers, Stokes, & Nobre, 2017; Schneider Name,
+2016).  To our knowledge, the only electrophysiological work manipulating retro-cued load found that alpha power was modulated by relevant cued information (Manza, Hau, & Leung, 2014).  However, this
+study used bilateral arrays, so it did not address alpha lateralization
+diﬀerences related to selecting varying amounts of items. 
+In the present study we use a retro-cue paradigm with three conditions, one-cue, two-cue, and neutral-cue.  We explore the dynamics of
+alpha band activity related to the retro-cue and use source localization
+to address the issues previously exposed.  We hypothesized that according to a current theory of item prioritization (Myers Name, 2017),
+alpha desynchronization would transiently emerge from areas coding
+sensory information.  Furthermore, accordingly to this model, the twocue condition would be expected to produce a more pronounced alpha
+lateralization respect to one-cue with greater disinhibition of the contralateral sensory cortex. 
+<Middle> Methods. 
+1. 1.  Participants
+Seventeen adult subjects [mean age, 25. 36 years; standard deviation
+(SD), 3. 13 years; range, 22–32 years; nine females], without any history
+of neurological or psychiatric illness, volunteered for participation in
+the study, which was approved by the local ethical committee of the
+Center of Biomedical Technology (Madrid, Spain), and gave written
+consent, in accordance with the Declaration of Helsinki, after the nature
+of the procedures involved had been explained to them.  Participants
+were right-handed according to the Edinburgh Handedness Inventory
+(Oldﬁeld 1971). 
+1. 2.  Stimuli and tasksGiﬀrinNobre
+(Griﬃn & Nobre,
+The experimental task was adapted from a retro-cueing paradigmdeveloped
+Lepsien & Nobre, 2006) and is illustrated in Fig.  1.  At the start of each
+trial, participants ﬁrst saw a white central ﬁxation cross lasting
+1000 ms.  This was followed by a sample memory set, consisting of four
+gray rectangles with diﬀerent orientations (0°, 45o, 90 o,13o) displayed
+in four locations on a black background.  Each rectangle size was of
+7. 62° of visual angle and their center was located at 7. 62° eccentricity
+for the horizontal and vertical planes.  The to-be remembered array
+remained on the screen for 200 ms, in order to discourage participants
+from making saccadic eye movements to scan the individual items. 
+After a 1000 ms delay interval, participants could be presented with
+either an informative spatial cue (i. e.  retro-cue) or with a non-informative cue (i. e.  neutral cue).  The retro-cue consisted of one or two
+arrows originating from the ﬁxation cross pointing to one or two of the
+four locations that had been occupied by a rectangle in the memory
+array, thus indicating the item or items that will be subsequently
+probed (validity 100%)
+(Lepsien, Griﬃn, Devlin, & Nobre, 2005;
+Matsukura Name, 2007).  The neutral cue consisted of four arrows originating from the ﬁxation cross pointing to each of the four locations,
+thus providing no information regarding the relevant item.  Cues were
+presented for 200 ms, and were followed by another 1000-ms delay
+interval.  Finally, participants were presented with a single rectangle in
+one location for 1500 ms, during which they were required to respond. 
+The task was to indicate, by button press, whether the probe had the
+same orientation as the memory item.  Following this response period, a
+blank screen was shown for 1800 ms before the onset of the next trial
+(Fig.  1).  A total of 360 trials were presented, of which 120 had retrocues indicating one location, 120 had retro-cues indicating two locations, and 120 had neutral cues.  Cues pointing to one or two locations
+C.  Poch Name
+Biological Psychology 128 (2017) 63–70
+Fig.  1.  Depiction of the ﬂow and timing of events for
+each condition of the MEG experiment.  At the beginning of a trial, participants saw a white central
+ﬁxation cross for 1000 ms.  A set of items was then
+brieﬂy displayed (200 ms) for study, consisting of
+four grey rectangles with diﬀerent orientations displayed in four locations on a black background. 
+1000 ms after the oﬀset of the memory array, participants could be presented with either an informative spatial cue (i. e.  retro-cue) or with no
+cueing information (i. e.  neutral cue).  A retro-cue
+consisted of one or two arrows originating from the
+ﬁxation cross pointing to one (one-cue) or two (twocue) of the four locations that had been occupied by
+a rectangle in the memory array, thus indicating
+where a relevant item or items were present (validity
+100%).  The neutral cue consisted of four arrows
+originating from the ﬁxation cross pointing to each
+of the four locations, thus providing no information
+regarding the relevant item.  Cues were presented for
+200 ms and were followed by another 1000 ms of
+delay interval.  Finally, participants were presented
+with a single rectangle in one location for 1500 ms
+during which they were required to respond. 
+were used in order to determine whether attention can be reoriented
+within WM to more than one item, such as in the perceptual space
+(Awh & Pashler, 2000; Makovski & Jiang, 2007; Matsukura & Vecera,
+2015).  The experiment lasted for ∼40 min, and was performed in one
+single session during MEG scanning. 
+500 ms before memory array presentation to 1000 ms after the presentation of the probe, for each trial, for each condition, for each participant.  Trials were visually inspected, and rejected when they contained sensor or muscular artefacts, and/or eye blinks. 
+1. 3.  Behavioral analysis
+1. 5.  Time–frequency analysis
+Analysis of performance was assessed in accuracy and reaction
+times (RTs).  Accuracy was calculated as the hit minus false alarm rate. 
+Only RTs of correct responses were included in the analysis.  In order to
+investigate the beneﬁt of directing attention to memory representations, an ANOVA was conducted for detection rate and another for RTs
+with three levels: one-element, two-element, neutral. 
+Diﬀerential eﬀects of cue side were investigated on detection rates
+and RTs by a 2 × 2 ANOVA with factors Cue Side (left vs right) and
+Load (one-cue vs two-cue elements). 
+1. 4.  Data acquisition
+MEG data were obtained with a whole-head 306-channel
+Vectorview system (Elekta-Neuromag, Helsinki, Finland), consisting of
+102 magnetometers and 204 orthogonal planar gradiometers.  Electrooculographic (EOG) data were recorded supra- and infraorbitally
+(vertical EOG) as well as from the left vs right orbital rim (horizontal
+EOG).  The signal was recorded continuously at a sampling rate of
+600 Hz with an online bandpass ﬁlter from 0. 1 to 200 Hz.  The head
+position relative to the sensor array was measured at the beginning of
+the session with four head position indicator coils.  Prior to the recording session, the anatomical landmarks (nasion and auricular) and
+extra points of the head shape were obtained with a 3D digitiser
+(Fastrak Polhemus, Colchester, VA, USA).  Visually detectable bad
+channels were removed prior to signal preprocessing.  External noise
+was removed with the signal space separation method implemented
+with MAX ﬁlter software (Taulu Name, 2004).  Further analyses were
+performed with SPM8 (http://www. ﬁl. ion. ucl. ac. uk/spm/).  Data were
+ﬁrst ﬁltered with a cutoﬀ of 150 Hz and downsampled to 300 Hz and
+ﬁltered with a high cutoﬀ of 150 Hz.  We then epoched data fromTime-frequency (TF) representations of the data were performed
+convoluting trial data with Morlet wavelets (7 cycles width), for the
+interval 4–80 Hz in 1 Hz steps.  TF representations were computed independently for vertical and horizontal planar gradiometers, and then
+averaged independently for each condition.  Averaged data from the
+102 pairs of channels were combined over both directions, by means of
+the Pythagoras rule, to obtain a single number positive-valued.  Finally,
+averaged data were log-relative rescaled (dB) using the average power
+from −400 ms to −100 ms preceding the onset of the memory array
+(i. e. , 1600 ms before cue onset), to obtain TF power estimates for each
+subject and each condition at 102 locations. 
+1. 5. 1.  Statistical analysis
+Statistical analysis was performed using non-parametric cluster
+analysis as implemented in ﬁeldtrip (“http://www. ﬁeldtriptoolbox. 
+org’) (Maris & Oostenveld, 2007) which controls for Type error I. 
+First, time-frequency data were average in the alpha range (8–14 Hz).  A
+t-test was then computed between each sensor-time point.  P-values
+below 0. 05 were used to form clusters of adjacent time points and
+electrodes.  A minimum of two channels were used to form a cluster. 
+Cluster-level statistic was calculated by summing t-values within a
+cluster.  Signiﬁcance of the cluster statistic was evaluated by a permutation test.  The permutation distribution was obtained by randomly
+assigning the data to two subsets and calculating the maximum cluster
+statistic.  A histogram of cluster statistics was obtained by repeating the
+previous step 1000 times.  Cluster p-value is then obtained as the proportion of randomizations that are above the observed cluster-level
+statistic. 
+C.  Poch Name
+Biological Psychology 128 (2017) 63–70
+Fig.  2.  TF representation of gradiometer sensors
+during the maintenance period after retro-cue after
+collapsing two-cue and one-cue conditions.  Power
+changes are depicted as the log relative change (dB)
+with respect to baseline.  Upper row depicts the
+averaged TF representations of contralateral posterior sensors.  Lower row depicts the averaged TF
+power for ipsilateral posterior sensors. 
+1. 6.  Source analysis
+The linearly constrained minimum variance scalar beamformer
+spatial ﬁlter algorithm (Sekihara, Nagarajan, Poeppel, & Marantz,
+2004), as implemented in SPM8, was used to generate maps of source
+activity in a 10-mm grid, with the use of a single-shell forward model ﬁt
+to the inner skull surface of the inverse normalised SPM template
+(Nolte, 2003).  Coregistration to MNI space was carried out with the
+three anatomical landmarks and the extra digitized points.  Based on the
+results of the TF analysis, two 300 ms windows were deﬁned and Fast
+Fourier Transform was applied with a Hanning window.  Spatial ﬁlter
+was constructed based on the covariance matrix of all trials in the
+frequency range of 8–14 Hz using a 10% regularization.  The spectral
+resolution of a 300 ms window is 3. 33 Hz, thus, the frequency bins
+included in the covariance matrix were 9. 9 Hz and 13. 3 Hz.  Only the
+real part was utilized in the covariance matrix.  To explore the sources
+relative to alpha desynchronization, the time covariance window corresponding to 300ms–0 ms before memory array presentation and
+250–550 ms after cue onset was utilized.  Alpha increase was explored
+using the time covariance window corresponding to 300 ms baseline
+and the 550–850 ms interval after cue presentation.  Summary statistics
+images were calculated based on the power spectral density by subtracting the baseline period (300 ms before memory array presentation)
+image from the active time period, generating four volumetric images
+for each participant.  The images were then smoothed using a Gaussian
+kernel at 10 mm FWHM and subjected to a group random eﬀects analysis.  Average eﬀect of condition (this is, greater or lower activation
+than baseline), was performed independently for the right- and lefthemiﬁeld conditions for each time interval by means of Student t-test. 
+Signiﬁcant parametric maps were thresholded at p < 0. 05 FWE for the
+whole brain volume.  To estimate the signiﬁcance of the main eﬀects of
+hemisphere, hemiﬁeld, load and its interactions a 2 × 2 × 2 ANOVA
+with Hemisphere (ipsilateral vs contralateral), Hemiﬁeld (left vs.  right),
+and Load (one-cue vs.  two-cue) as main factors was performed. 
+2.  Results
+2. 1.  Behavioral results
+Analysis of the behavioral data revealed that there was a signiﬁcant
+beneﬁt in the use of the spatial retro-cue compared to when no spatial
+information about the upcoming target was presented.  This beneﬁt was
+observed both in accuracy and RT. 
+A repeated measures analysis of variance (ANOVA) with the factorCondition (one-element, two-element, neutral) for detection rate revealed a main eﬀect of Condition (F (2,32) = 23. 99, P < 0. 001). 
+Planned comparisons showed that participants were more accurate in
+the one-element condition (mean = 0. 89, SD = 0. 16) than in the twoelement
+(16) = 5. 05,
+p < 0. 001), and than in the neutral condition (mean = 0. 72;
+SD = 0. 15) (t (16) = 6. 8, p < 0. 001).  We also observed a trend for a
+better performance in the two-element condition than in the neutral
+condition (t (16) = 2. 09, p = 0. 053). 
+(mean = 0. 78,
+SD = 0. 16)
+conditionRTs also showed a main eﬀect of stimulus condition (F (2,32)
+= 234. 83, p < 0. 001), revealing that participants’ reaction time signiﬁcantly increased with increasing number of to-be-attended items. 
+Participants were slower in the neutral condition (mean = 509. 89 ms,
+SD = 58. 45 ms) than in both the one-element (mean = 386. 05 ms,
+SD = 51 ms) (t (16) = 17. 14, p < 0. 001), and the two-element conditions
+(16) = 5. 23,
+P < 0. 001).  Participants were also slower in the two-element condition than in the one-element condition (t (16) = 17. 07, p < 0. 001). 
+(mean = 484. 43 ms,
+SD = 58. 85 ms)Analysis of cue direction revealed an advantage for right hemiﬁeld
+cues compared to the left hemiﬁeld cues.  Accuracy and RTs were signiﬁcantly aﬀected by cueing direction (F (1,16) = 8. 792, p < 0. 005; F
+(1,16) = 19. 87, p < 0. 001; respectively).  Individuals presented higher
+accuracy for right targets (mean = 0. 86, SD = 0. 13) compared to left
+targets (mean = 0. 81, SD = 0. 16); as well as faster RTs for right cued
+items (mean = 422. 07 ms, SD = 54. 83) than for left cued items
+(mean = 448. 41 ms, SD = 55. 44). 
+2. 2.  MEG results
+We computed TF representation in gradiometer planar sensors. 
+Unlike magnetometer sensors, planar gradiometer can proportionate
+the location of the maximum just above the corresponding source, so
+lateralization eﬀects are easy to interpret from the topography.  TF
+analysis showed alpha modulation in posterior sensors (Fig.  2).  Timecourse of alpha activity showed an initial desynchronization followed
+by a synchronization sustained until target presentation.  Crucially, this
+oscillatory modulation seems to be lateralized with respect to the cued
+side.  Alpha topographies are depicted for right, left and neutral condition at 300 ms intervals, starting from 250 ms after the cue onset
+(Fig.  3).  An initial desynchronization is seen in posterior lateral sensors
+followed by a synchronization in posterior central sensors.  To assess the
+signiﬁcance of alpha lateralization, a nonparametric randomization test
+controlling for multiple comparisons over sensors and time was applied. 
+Comparing ipsilateral vs contralateral sensors revealed a signiﬁcant
+C.  Poch Name
+Biological Psychology 128 (2017) 63–70
+Fig.  3.  Topography representations of alpha band
+activity averaged across the three time windows of
+interest.  Alpha power is expressed as the log relative
+change respect to baseline (dB).  First row depicts
+alpha topography for the right hemiﬁeld condition
+averaged for
+the one- and two-cue conditions. 
+Second row shows left hemiﬁeld topographies averaged across the one- and two-cue conditions. 

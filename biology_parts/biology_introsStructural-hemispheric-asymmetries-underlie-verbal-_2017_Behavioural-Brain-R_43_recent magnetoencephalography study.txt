@@ -1,0 +1,51 @@
+
+Cognitive control includes the capacity to enhance the activation of
+task-relevant processes while suppressing distracting ones. Stroop paradigm [1], a typical cognitive control task, one has to name
+the font color of words and ignore their meaning.  Color naming time
+and errors increase when the word color and meaning are incongruent
+(e. g. , BLUE written in red) relative to when they are congruent (e. g. ,
+BLUE written in blue) or neutral (e. g. , BLUE written in black).  Classical
+explanations suggest that, to combat interference during incongruent
+conditions, cognitive control processes suppress a habitual reading
+mode and activate controlled color naming [2,3]. 
+Cognitive control requires the complementary activation of the
+anterior cingulate and lateral prefrontal cortex, as demonstrated in
+functional neuroimaging studies [4,5].  Speciﬁcally, verbal Stroop-related activations have been observed in the dorso- and ventro-lateral
+prefrontal cortex, predominantly in the left hemisphere (e. g. , [6,7]; also
+see Ref.  [8], for a recent example of converging neuropsychological
+evidence of a left prefrontal involvement in verbal Stroop).  Thus, based
+on functional neuroimaging (and neuropsychological) data, one could
+hypothesize that a leftward hemispheric asymmetry in the lateral prefrontal cortex helps to combat Stroop interference.  However, left and
+right hemispheric activations are not usually compared through direct
+statistical tests.  Moreover, a diﬀerent scenario seems to emerge with
+structural neuroimaging evidence.  In a recent voxel-based morphometry study, it was found that regional grey matter volume in the
+anterior cingulate cortex, cerebellum and, importantly, right ventrolateral prefrontal cortex was negatively related to the amount of verbal
+Stroop interference [9].  Thus, if structural MRI data are taken into
+consideration, one could posit diverging expectations regarding which
+direction of frontal asymmetry supports better Stroop performance. 
+Another region that may be involved in verbal Stroop performance
+⁎ Corresponding author at: Department of Neuroscience, University of Padova, Via Giustiniani, 5, 35128 Padova, Italy. 
+E-mail address: antonino. vallesi@unipd. it (A.  Vallesi). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 024
+Received 23 May 2017; Received in revised form 13 July 2017; Accepted 14 August 2017
+Available online 20 August 2017
+0166-4328/ 
+A.  Vallesi Name
+Behavioural Brain Research 335 (2017) 167–173
+is the so-called Visual Word Form Area (VWFA), a word-sensitive region
+located in the left inferior posterior temporal cortex [10,11].  Evidence
+from functional magnetic resonance imaging (fMRI) studies shows that
+activity in the VWFA and Broca's area is modulated by Stroop interference (e. g. , [12]).  Another fMRI study also found diﬀerential activity
+in a region proximal to the VWFA in the incongruent vs.  congruent
+contrast for a verbal Stroop version but not for a spatial one [13]. 
+Collectively, these works corroborate the hypothesis that the VWFA
+integrates feed-forward visual processing with top-down inﬂuences
+from more anterior areas controlling phonological and semantic processing during written word recognition [14].  The fact that this region
+is speciﬁcally involved in the Stroop eﬀect in some studies [12,13],
+however, suggests that it could also be more speciﬁcally involved in
+cognitive conﬂict resolution, at least for verbal material.  According to a
+recent magnetoencephalography study [15], the VWFA is recruited not
+only early on for lower-level word processing [16], but also at later
+stages for gating lexico-semantic processing (see also Refs.  [17–19]),
+arguably the stage where interference occurs in word-color Stroop incongruency. 

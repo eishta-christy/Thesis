@@ -1,0 +1,95 @@
+
+Major depressive disorder (MDD) is a serious illness that aﬄicts up
+to 10% of the adult population in the United States and represents one
+of the leading causes of disability around the world [1].  With an estimated lifetime prevalence of more than 3. 5% in China [2], it is predicted to become the second leading cause of disability by the year
+2020 [3].  Aside from mortality associated with suicide, depressed patients are more likely to develop cardiovascular disease and type 2
+diabetes than non-depressed patients [4]. 
+Current treatments of MDD are based on improving clinical symptoms, such as low spirits, lack of lucidity, activity decline, and some
+somatic symptoms.  Several eﬀective treatments for depressed patients
+have been established, such as cognitive therapy [5], interpersonal
+therapy [6], electroconvulsive therapy [7], electrical stimulation of the
+vagus nerve [8], and pharmacotherapy with antidepressants.  Drug
+therapy is currently the ﬁrst-line treatment.  Many antidepressants have
+been approved for the treatment of MDD, such as selective serotonin
+reuptake inhibitors (SSRIs), serotonin noradrenaline reuptake inhibitors, and norepinephrine and dopamine reuptake inhibitors.  The
+main SNRIs are duloxetine and venlafaxine [9].  Venlafaxine is a secondgeneration antidepressant that is widely used in a clinical context [10]. 
+It can signiﬁcantly improve the clinical symptoms of patients with depression and its antidepressant eﬀects have been studied by our team
+[11].  However, the molecular mechanism underlying its rapid antidepressant actions is unclear. 
+The hippocampus is a major component of the brain in humans, and
+it is an important part of the emotional center.  It is associated with a
+variety of aﬀective disorders, and has therefore frequently been used as
+a model system for neurophysiological studies.  Previous studies revealed that exposure to stressful experiences decreased proliferation
+and neurogenesis in the hippocampus of adult animals [12,13], with
+⁎ Corresponding author at: Department of Neurology, Yongchuan Hospital, Chongqing Medical University, Chongqing 402460, China. 
+E-mail address: xiepeng@cqmu. edu. cn (P.  Xie). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 011
+Received 25 May 2017; Received in revised form 31 July 2017; Accepted 5 August 2017
+Available online 08 August 2017
+0166-4328/ 
+P.  Shen Name
+Behavioural Brain Research 335 (2017) 63–70
+these features being increased by chronic use of antidepressants
+[13,14]. 
+Metabolomics is the scientiﬁc study of chemical processes involving
+metabolites.  It is also an approach frequently used in the study of the
+pathogenesis of depression and the eﬀects of antidepressant drugs
+[15–22].  Gas chromatography–mass spectrometry (GC–MS), combining
+the advantage of the high separation capacity of chromatography with
+the high discriminant characteristics of mass spectrometry, is ideal for
+the separation, and qualitative and quantitative analyses of complex
+mixed samples [23]. 
+To explore the potential biological eﬀects of venlafaxine on mouse
+hippocampus, we applied a non-targeted metabolomic approach based
+on GC–MS technology to characterize the global metabolic proﬁle in
+mouse hippocampus following the systemic administration of venlafaxine.  The diﬀerentially expressed metabolites were analyzed to create
+molecular interaction networks and the core proteins BDNF, p-c-Raf, pMAPK, p-MEK, p-AKT, and CREB involved in these networks were validated by western blotting.  Our primary aims were to identify the
+biological mechanisms underlying the eﬀects of venlafaxine and to
+provide new ideas for future research on antidepressants. 
+<Middle> Materials and methods. 
+2. 1.  Animals
+Twenty healthy male C57BL/6J mice, aged 8 weeks old and
+weighing 18–20 g, were purchased from the Laboratory Animal Center
+of Chongqing Medical University (Chongqing, China).  During the entire
+study, all of the experimental animals lived under simulated natural
+light (12-h light/dark cycle), in an environment with optimal temperature (22 ± 1 °C) and appropriate humidity (50 ± 5%) with ad
+libitum access to food and water.  All procedures in this study conformed to the National Institutes of Health’s Guide for the Care and Use
+of Laboratory Animals (revised 1996) [24], and the study was approved
+by the Ethics Committee of Chongqing Medical University. 
+analysis. 
+2. 4.  GC–MS analysis
+capillary
+column (Agilent
+GC–MS analysis was performed in accordance with a previous study
+[16].  In brief, a GC 7890A/5975C system (Agilent Co. ) equipped with
+an HP–5 ms
+J & W Scientiﬁc Co. )
+(30 m × 0. 25 mm × 0. 25 μm) was used.  A total of 0. 5 μL of derivative
+was injected into the capillary column.  The temperatures of the injection port, the EI iron source, and the quadrupole rods were 280 °C,
+230 °C, and 150 °C, respectively.  Helium gas (purity > 99. 999%) acted
+as a carrier gas with a ﬂow rate of 6 mL/min.  The temperature of the
+capillary column was kept at 70 °C for 2 min, increased to 160 °C at a
+rate of 6 °C/min, elevated to 240 °C at a rate of 10 °C/min, increased to
+300 °C at a higher rate of 20 °C/min, and then maintained at 300 °C for
+6 min.  Mass spectrometry was performed in full scan mode and the
+detection range was 50–600 (m/z). 
+2. 5.  GC–MS data analysis
+In this study, data preprocessing was carried out in the R software
+platform, including baseline ﬁltering, peak identiﬁcation, integration,
+retention time correction, peak alignment, and mass spectral fragmentation analysis.  Editing of data was performed after the analyses to
+eliminate impurities from column loss and sample preparation in
+Excel2010 software, and the ﬁnal results were converted to a 2D data
+matrix.  This matrix included sample information, retention time, and
+mass spectrometry data.  The normalized data matrix was imported into
+the SIMCA-P 14. 1 software package (Umetrics AB, Umeå, Sweden). 
+Orthogonal partial least squares discriminant analysis (OPLS-DA) was
+used to identify the metabolic diﬀerences between the groups.  Variable
+important in projection (VIP) greater than 1 and p < 0. 05 were considered to indicate a signiﬁcant diﬀerence.  Seven-cycle interactive
+veriﬁcation and the 200-response sequencing test method were used to
+investigate the quality of the model. 
+2. 2.  Animal treatment
+2. 6.  Metabolic function analyses
+All mice were randomly divided into a venlafaxine group (VLX
+group) and a control group (CON group) after 1 week of adaptive
+feeding.  The VLX group (n = 11) was intraperitoneally injected with
+venlafaxine (Sigma-Aldrich, St. 

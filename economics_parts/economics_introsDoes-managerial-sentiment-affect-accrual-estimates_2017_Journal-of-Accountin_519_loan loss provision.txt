@@ -1,0 +1,494 @@
+
+A growing body of research considers the role of sentiment in financial decisions.  In common usage, the term sentiment
+refers to feelings or beliefs about a situation, state of affairs, or event.  Applied in the finance and accounting literature,
+however, the term sentiment more narrowly depicts beliefs that are unjustified based on available information (e. g. , Baker
+and Wurgler, 2007).  While evidence indicates economic data justify the majority of beliefs about the state of the economy
+(e. g. , Lemmon and Portniaguina, 2006), research shows that sentiment has meaningful effects in both asset pricing and
+corporate decision-making settings.  For example, Baker and Wurgler (2006) find sentiment is associated with return reversals in stocks that are difficult to value and arbitrage, though the effects are less evident in highly competitive and liquid
+markets where investors can arbitrage away security mispricing and discipline the potential effects of psychological biases. 
+Importantly, corporate decision making settings lack an easily accessible arbitrage mechanism to discipline biased decisions,
+increasing the likelihood that sentiment will affect individual decisions, especially in settings of high uncertainty (Bloomfield, 2010).  Consequently, behavioral forces acting on individuals have the ability to influence the behavior of institutions in
+predictable ways.  Indeed, prior research indicates that sentiment affects analysts’ estimates (Clement Name, 2011; Hribar and
+McInnis, 2012), institutional investors’ portfolio allocations (Cornell Name, 2014), and managers’ pro-forma earnings disclosures (Brown Name, 2012). 
+In this study, we investigate whether managerial sentiment – managers’ unjustified beliefs about future firm outcomes – is
+associated with errors in accrual estimates.  Accrual estimates require managerial judgment and estimation about expected
+future realizations.  The inherent uncertainty in future outcomes allows for both strategic discretion and unintentional errors in
+accrual estimates.  Consistent with the aforementioned research showing that decisions of sophisticated individuals exhibit
+sentiment in settings of uncertainty, we posit that managerial sentiment may lead to errors in accrual estimates, where
+managers’ over (under) optimism results in accrual estimates that are too low (high). 
+To study our research question, we examine bank managers’ estimates of the loan loss provision.  In the banking setting,
+managerial beliefs that are unjustifiably optimistic (pessimistic) could lead to under (over) estimation of future charge-offs
+and thus a negative association between managerial sentiment and the loan loss provision.  The loan loss provision is a
+particularly well-suited accrual for detecting the potential effect of sentiment on accrual estimates for three reasons.  First,
+the loan loss provision is the most significant and economically important accrual in the banking industry.  Second, available
+data on loan accounts allow us to observe the economic realization (i. e. , charge-offs) to which the provision relates, and thus
+to evaluate the accuracy of loan loss provision estimates.  Third, regulators require banks to file call reports, enabling us to
+collect private bank financial statement data and use a private bank sample to rule out some of the alternative explanations
+for our results that are based on capital market incentives. 
+Our primary tests use measures of managerial sentiment derived from the Duke University/CFO Magazine Business
+Outlook Survey, which surveys managers’ levels of optimism about their firms’ future prospects.  Using the aggregate survey
+data, we examine both the unadjusted quarterly measure of average managerial optimism from the survey (‘raw beliefs’),
+and the residual from a regression of the quarterly measure of average managerial optimism on an inclusive set of macroeconomic variables (which more directly captures unexplained beliefs or ‘sentiment’).  The second measure follows directly from sentiment reflecting managers’ beliefs unjustified by available information.  Regressing the raw measure of
+beliefs on macroeconomic factors allows us to separate the justified or rational component of the survey responses, from the
+unjustified or sentiment component. 
+We first examine the association between managerial sentiment and the loan loss provision.  If managerial sentiment
+affects the loan loss provision, then variation in the provision should be negatively associated with managerial sentiment,
+after controlling for other determinants of the provision.  Using quarterly data from 2002 to 2013 for publicly traded
+commercial banks, we find that both raw beliefs and the unexplained beliefs are negatively associated with loan loss
+provisions.  When measures of quarter t sentiment are higher, ceteris paribus, the loan loss provision estimated in quarter t is
+lower.  Consistent with prior research, we find that economic fundamentals are the primary driver of the loan loss provision. 
+However, we also show that managerial sentiment has a nontrivial effect on the provision.  On average, a one standard
+deviation change in sentiment is associated with a 1. 60% change in the loan loss provision, or a 1. 04% change in after-tax net
+income.  In addition, we find that for banks where the loan loss provision is more difficult to predict, a one standard deviation change in sentiment is associated with a 3. 60–4. 80% decrease in the loan loss provision, and a 2. 34–3. 12% change in
+after-tax net income. 1
+We next consider whether accrual estimates made in periods of high (low) sentiment are too low (high) by examining
+future charge-offs as the realization of the accrual.  If managerial sentiment biases managers’ accrual estimates, then loan
+loss provisions estimated during periods of high sentiment should be associated with greater future charge-offs per dollar of
+provision compared to those estimated during periods of low sentiment.  We find that the ratio of future charge-offs to
+current loan loss provision is significantly higher when the provision is estimated in quarters when measures of sentiment
+are high.  Specifically, a one standard deviation increase in sentiment is associated with one-year ahead charge-offs that are
+3. 25% higher per dollar of provision.  These magnitudes are comparable to the effects of earnings management incentives on
+the loan loss provision.  For example, a one standard deviation change in earnings before the provision (tier 1 capital ratio)
+results in a 3. 03% (6. 12%) increase in future charges-offs per dollar of provision. 2 Our result suggests that managerial sentiment is associated with biased accrual estimates and mitigates concerns that the result of the test of our first hypothesis
+simply signals managers’ rational responses to private or public information that is correlated with our measure of
+sentiment. 
+This test also helps us validate our decomposition of beliefs into justified and unjustified components.  Regardless of
+whether managers’ beliefs are justified or unjustified, either component should lead managers to adjust their loan loss
+provision.  Therefore, we expect both explained and unexplained beliefs to be associated with the provision.  In contrast, only
+unjustified beliefs should be associated with a change in future charge-offs relative to the current provision.  Thus, if our
+decomposition is effective, we should observe that the unexplained component of quarter t beliefs has a greater effect on
+the ratio of future charge-offs to quarter t provision than does the explained component.  Consistent with these expectations,
+we find that both the explained and unexplained components of beliefs are negatively associated with the loan loss provision, suggesting that both components explain variation in the provision.  Importantly, however, we find the effect of
+beliefs on the ratio of future charge-offs to the current provision is weakly significant (or insignificant) for the explained
+component, whereas it is highly significant for the unexplained component at both the one-quarter ahead and one-year
+ahead horizons.  These results are consistent with the unexplained component being a more direct measure of sentiment
+that leads to estimation error in the loan loss provision estimates. 
+Finally, to help rule out the concern that the bias in accrual estimates associated with managerial sentiment is strategic, we
+repeat our primary tests using a sample of private banks.  Simpson (2013) argues that during high sentiment periods, managers
+strategically bias accruals to induce a short-term increase in stock price or to meet overly optimistic analysts’ forecasts.  Our
+sample of private banks has neither analyst following nor the opportunity for managers to generate short-term stock price
+increases by strategically biasing accruals.  Thus, if our results are attributable to the strategic explanations in Simpson (2013),
+we should not observe similar findings among the private banks.  Here, we find the results of the private bank tests are
+consistent with the public bank results, suggesting that the bias in loan loss provisions is unlikely to be attributable to strategic
+accrual manipulation arising from incentives to temporarily increase stock price or meet analysts’ expectations. 
+We conduct a number of additional analyses to further examine the association between managerial sentiment and
+accrual estimates.  Consistent with theoretical and empirical work suggesting that the effects of sentiment and similar biases
+are greater in settings of higher uncertainty (e. g. , Hirshleifer, 2001; Daniel Name, 1998, 2002; Baker and Wurgler, 2006;
+Hribar and McInnis, 2012), we find the association between managerial sentiment and provision estimates is significantly
+larger when charge-offs are more difficult to predict.  We also find that the primary results are robust to excluding the
+financial crisis period. 
+Our study makes several contributions to the literature.  Within the financial reporting literature, prior work suggests
+that managers can identify and respond to mispricing generated by less than fully rational investors.  For example, Bergman
+and Roychowdhury (2008) and Seybert and Yang (2012) find evidence consistent with managers strategically responding to
+investor sentiment in their earnings forecasts.  We add to the growing body of evidence suggesting that psychological biases
+can also unduly influence corporate decisions (Baker and Wurgler, 2013; Ben-David Name, 2013) by showing that managerial
+sentiment affects accrual estimates.  Our results suggest that managers can be overly optimistic (pessimistic) in periods of
+high (low) sentiment for non-strategic reasons, especially when uncertainty is high. 
+In addition, our study contributes to the literature on earnings quality by providing evidence that managerial sentiment
+lowers earnings quality by generating bias in accrual estimates.  Our results suggest the magnitude of the sentiment-induced
+bias is economically meaningful, but also credible, given the presence of external auditors and regulators who monitor
+banks’ financial reports.  Given the central role that earnings quality plays in valuation and contracting decisions (e. g. ,
+Penman and Sougiannis, 1998; Watts and Zimmerman, 1978; Lambert, 2001) and the fact that psychological biases are likely
+to affect accrual estimates in systematic and predictable ways, we believe the results of this study will be of interest to
+investors, standard setters, auditors, and regulators. 
+Finally, our study contributes to the research that identifies determinants of loan loss provisions and informs the
+standing debate over the accounting for credit losses (Bushman and Williams, 2012; Bikker and Metzemakers, 2005;
+Bouvatier and Lepetit, 2012; Beatty and Liao, 2011).  Under FAS 114, current loan loss accounting uses an incurred loss model
+which specifies that for an expected loss to be accruable, a loss-causing event must have occurred by the date of the
+financial statements.  However, managers must still apply significant judgment in estimating the loss-causing events (and
+their impact) that have occurred up through the date of the financial statements (e. g. , Grant Thornton, 2012).  In June 2016
+the FASB issued an Accounting Standards Update, effective beginning in 2018, requiring banks to record credit losses on
+loans based on expected losses (FASB, 2016).  While permitting managers to use more forward-looking models in provisioning for loan losses could be beneficial, these models require increased judgment and estimation from managers, which
+allows for greater estimation errors. 
+2.  Background and hypothesis development
+Considerable research in accounting examines the determinants and consequences of intentional accrual manipulation,
+which is generally assumed to reduce earnings quality (e. g. , Dechow Name, 2010).  This research provides evidence consistent
+with firm-level attributes (e. g. , Dichev Name, 2013; Francis Name, 2005), managerial incentives (Armstrong Name, 2010),
+capital market incentives (e. g. , Ayers Name, 2006; Graham Name, 2005; Burgstalher and Dichev, 1997), and constraints—
+including governance features, auditors, regulators, and other external parties—affecting managers’ accrual decisions. 
+In contrast, relatively few studies consider the determinants and consequences of non-strategic errors in accrual estimates.  Examples of previously considered determinants of errors include objective difficulties in projecting future outcomes
+due to environmental uncertainty, management lapses, and clerical errors (Francis Name, 2005; Hennes Name, 2008; and Lev
+Name, 2010).  Errors from these types of factors can generate noise in accruals.  Other possible sources of bias in accrual
+estimates relate to individual psychology.  While the evidence in social psychology on individual decision-making is vast,
+surprisingly little archival research considers whether these same forces generate bias in accrual estimates. 
+One possible source of errors that could result in biased accrual estimates is managerial sentiment.  Similar to the definition of investor sentiment used in prior literature (DeLong Name, 1990; Morck Name, 1990; Chan and Fong, 2004; Baker
+and Wurgler, 2006, 2007; Sabherwal Name, 2011; Simpson, 2013), we define managerial sentiment as managers’ beliefs
+about future firm outcomes that are not justified by the information available to them.  Although our definition of managerial sentiment is similar to the definition of investor sentiment used in prior literature, the two constructs are distinct, as
+investor sentiment is defined as investors’ unjustified beliefs about firm value, whereas managerial sentiment refers to
+managers’ unjustified beliefs about their firms’ financial prospects. 
+Two conditions are necessary for managerial sentiment to impair accrual estimates.  First, managers must be subject to
+sentiment; that is, at times, some managers hold beliefs about future firm outcomes that are unjustified by the information
+available to them.  Second, the financial reporting process must provide sufficient latitude for accrual estimates to incorporate managers’ unjustified beliefs.  Thus, a priori, it is unclear whether managerial sentiment affects accrual estimates. 
+On the one hand, several studies suggest that managers are sophisticated individuals who are able to identify and exploit
+the incorrect beliefs of investors.  For example, prior research finds that managers identify and exploit investor sentiment in
+equity issuances (Baker and Wurgler, 2002), dividend payouts (Baker and Wurgler, 2004; Li and Lie, 2006), investment
+(Gilchrist Name, 2005; Polk and Sapienza, 2008), and disclosures (e. g. , Bergman and Roychowdhury, 2008; Brown Name,
+2012).  Simpson (2013) suggests that managers cater to investor sentiment via accrual manipulation and Hribar and Quinn
+(2013) use managers’ trading patterns to provide evidence that managers trade against and exploit investor sentiment for
+personal gain.  Taken together, these studies depict managers as sophisticated individuals who, rather than having incorrect
+beliefs themselves, recognize and take advantage of the incorrect beliefs of unsophisticated investors. 
+On the other hand, several recent studies suggest that sophisticated individuals are subject to sentiment.  Hribar and
+McInnis (2012) document a positive relation between sentiment and analyst forecasts for "difficult-to-value” firms, consistent with analysts being subject to sentiment.  Walther and Willis (2012) provide additional evidence that sentiment
+affects analyst forecasts.  Cornell Name (2014) find that when investor sentiment is high, institutional investors increase their
+holdings in “difficult-to-value” firms with low-quality accounting information, and sell-side stock analysts issue more favorable recommendations for the same firms.  Moreover, unlike investor sentiment where rational arbitrageurs can correct a
+mispriced stock, there is no arbitrage mechanism to correct a manager’s incorrect accrual assessment, although it should
+become apparent when the accrual reverses. 
+Of particular importance to our paper are several studies that provide evidence consistent with managerial sentiment
+influencing managers’ decisions in other settings.  Brown Name (2012) study the effects of investor sentiment on the disclosure of pro forma earnings and find that managers release higher pro forma earnings when sentiment is high.  Although
+they find evidence that managers identify periods of high investor sentiment and opportunistically report pro forma
+earnings to take advantage of investor sentiment, they also find some evidence suggesting that managers themselves are
+affected by sentiment.  In addition, Ben-David Name (2013) find that Chief Financial Officers (CFOs) are, on average, severely
+miscalibrated.  By showing that their miscalibration measure based on CFO forecasts of S&P 500 returns is highly correlated
+with their miscalibration measure based on CFOs’ own-firm projected returns, Ben-David Name (2013) shed new light on the
+biases in managers’ corporate forecasts and beliefs. 
+To investigate whether managerial sentiment is associated with accrual estimates, we consider the effect of sentiment on
+banks’ loan loss provisions.  We avoid using common measures of discretionary accruals in our study for two reasons.  First,
+many accruals are not estimates.  For example, there are changes in working capital accounts that constitute a substantial
+component of aggregate accruals that might reflect a relatively small amount of estimation (e. g.  purchases of inventory). 
+Thus, using a measure of discretionary aggregate accruals would reduce the power of our tests.  Second, by disaggregating
+total accruals and focusing on a specific accrual estimate, we can test our hypotheses using an account specific model of the
+accrual estimate, thereby avoiding some of the measurement issues associated with models of aggregated accruals
+(McNichols, 2000; McNichols and Wilson, 1988; Guidry Name, 1999; Leone and Rock, 2002). 
+We use banks’ loan loss provisions as our accrual estimate of interest for several reasons.  First, by definition, loan loss
+provisions represent managers’ estimates of incurred losses associated with banks’ loan assets.  Second, banks’ loan loss
+provisions are very important in terms of economic magnitude relative to other accruals.  For example, using a sample of
+banks from 2005 to 2012, Beatty and Liao (2014) find that the mean of the absolute value of the loan loss provision is 56% of
+the mean of the absolute value of total accruals.  Third, loan loss provisions reflect managers’ estimates of future loan chargeoffs.  Because banks are required to report loan charge-offs, we can use this data to evaluate the accuracy of managers’ loan
+loss estimates.  Finally, the banking industry allows us to use a sample of private banks to more directly address concerns and
+competing explanations related to managers’ capital market incentives. 
+Accounting for the loan loss provision is similar to the accounting for bad debt expense.  The loan loss reserve (or allowance) account is a contra asset account, which reduces banks’ recognizable receivables by the amount that bank
+managers expect to be unable to collect due to loss-causing events.  Managers increase the loan loss reserves through the
+loan loss provision with net loan charge-offs reducing the reserves as loans become uncollectible.  During our sample period,
+FAS 114 stipulates that banks reserve for loan losses using the incurred loss model, which requires that a loss in quarter t be
+provisioned for only when (1) information is available prior to the issuance of the quarter t financial statements that the
+asset (receivable) has been impaired (i. e.  a loss-causing event has occurred) and (2) the amount of the loss is reasonably
+estimable.  Because many loss-causing events may not be observed until well after the events have occurred (e. g. , a borrower’s loss of employment), managers use loss-estimation methodologies to infer the amount of loans that have likely
+been impaired.  The SEC (see Staff Accounting Bulletin No.  102, “Selected Loan Loss Allowance Methodology and Documentation Issues”) and bank regulatory agencies recommend that managers’ loss estimation methodologies incorporate
+numerous factors such as prevailing industry conditions, national and local economic and business trends, competition,
+legal and regulatory requirements, and the effects of changes in credit concentrations (e. g. , Grant Thornton, 2012).  Although
+these adjustment factors rationally affect managers' beliefs about loan losses, the discretion in estimating the effects of these
+factors on loan losses also provides a mechanism for sentiment to affect the provision. 
+We propose several hypotheses concerning the association between managerial sentiment and managers’ estimates of
+loan loss provisions. 3 If managerial sentiment affects the loan loss provision, then when managerial sentiment is high (low)
+(i. e. , managers hold unjustifiably positive (negative) beliefs about expectations of future firm prospects), managers will
+under (over) provision for future charge-offs, resulting in a loan loss provision that is lower (higher) than what is justified by
+the information available to them.  Thus, we expect the contemporaneous correlation between loan loss provisions and
+sentiment to be negative.  We formalize our first hypothesis as follows (stated in the alternative form):
+H1: The contemporaneous association between loan loss provisions and managerial sentiment is negative. 
+In general, managers increase (decrease) the loan loss provision when there is an increase (decrease) in the amount of
+loans that are likely impaired.  However, if managerial sentiment biases managers’ accrual estimates, then on average, in
+periods of high (low) sentiment managers will under (over) provision for future charge-offs.  Thus, for every dollar of loan
+loss provision estimated in a period of high (low) sentiment, we expect banks to exhibit relatively greater (lower) realized
+future charge-offs.  Therefore, we expect the ratio of future charge-offs to the period t provision to vary positively with
+managerial sentiment.  If managerial sentiment does not affect provision estimates (or our measure of sentiment simply
+proxies for some macroeconomic factor that affects estimates of loan loss provision), then the ratio of future charge-offs to
+period t provisions should not vary with sentiment.  Consistent with the arguments above, we propose our next hypothesis
+as follows (also in alternative form):
+H2: When current period sentiment is high, the amount future charge-offs per dollar of current period loan loss provision is
+higher than when current period sentiment is low. 
+Simpson (2013) posits that managers use discretionary accruals to exploit investors’ incorrect beliefs about firm value in
+order to maximize short-term stock prices.  Consistent with the findings in Ali and Gurun (2009), Simpson argues there is a
+“greater price effect per unit of accruals in high-sentiment periods than in low-sentiment periods, which probably heightens
+incentives for managers seeking a short-term boost to stock prices to inflate accruals during high sentiment periods relative
+to low-sentiment periods” (Simpson, 2013, 873).  She finds a positive association between investor sentiment in quarter t 1
+and discretionary accruals in quarter t, and contends that managers are able to identify periods of mispricing (caused by
+investor sentiment) for their own firm, then opportunistically manage earnings to temporarily increase stock price.  Although Simpson (2013) documents a positive relation between current accruals and lagged investor sentiment, if measures
+of investor sentiment are correlated with measures of managerial sentiment and both measures are autocorrelated, it is
+possible that this catering theory could explain a negative relation between loan loss provisions and contemporaneous
+managerial sentiment. 
+Simpson (2013) also argues that high investor sentiment may induce managers to manipulate earnings in order to meet
+overly optimistic analysts’ forecasts.  Thus, if investor sentiment is correlated with managerial sentiment, a negative association between loan loss provisions and measures of managerial sentiment could result from managers manipulating
+earnings in response to optimistic bias in analyst forecasts, consistent with investor sentiment affecting such forecasts. 
+Bergman and Roychowdhury (2008) and Hribar and McInnis (2012) find that the optimistic bias in analyst forecasts increases with investor sentiment and prior research suggests that managers face strong incentives to meet analysts’ expectations (Brown and Caylor, 2005; Graham Name, 2005).  If managers manipulate accrual estimates in order to achieve
+earnings expectations set by analysts who are affected by investor sentiment, and measures of investor sentiment are
+correlated with measures of managerial sentiment, this behavior could explain a negative relation between loan loss
+provisions and managerial sentiment. 
+The potential link between the strategic accrual manipulation hypothesized by Simpson (2013) and managerial sentiment hinges on managers having incentives to manipulate accruals to meet analysts’ forecasts or to strategically exploit
+investor sentiment to temporarily boost stock price.  One way to help distinguish between our main hypothesis and the
+strategic response or catering hypothesis is to test for a relation between accrual estimates and managerial sentiment in a
+setting in which managers do not have these incentives. 
+If the relation between managerial sentiment and contemporaneous loan loss provisions reflects managers catering to investor sentiment, it should not exist in settings where
+these incentives are absent.  However, if sentiment generates an unintentional bias in the provision, then the hypothesized
+negative relation should exist even in the absence of these incentives. 
+Beatty Name (2002) note that private firms have concentrated ownership structures with a relatively small number of
+shareholders, a large portion of which participate in managing the firm.  Shares of private companies are thinly traded, and
+given the makeup of existing and potential shareholders, it is unlikely that managers of private companies have the ability
+and incentives to exploit variation in the sentiment of unsophisticated investors and generate short-term increases in stock
+price by intentionally manipulating accrual estimates. 4 In addition, because analysts typically do not provide earnings
+forecasts for private banks, managers of private banks do not have incentives to manipulate earnings to meet analysts’
+earnings expectations.  We note that managers of private banks are likely to have other incentives to manage earnings.  Such
+incentives could be related to capital and regulatory requirements (Beatty Name, 2002) or profitability targets.  However,
+there is little reason to expect that these incentives are associated with sentiment.  Thus, evidence of an association between
+accrual estimates and managerial sentiment in a sample of private banks mitigates concerns that the association simply
+reflects accruals manipulation related to incentives to meet analysts’ expectations or to exploit investor sentiment to
+temporarily boost stock price.  Consistent with this discussion, we hypothesize that our predictions from H1 and H2 will hold
+in a sample of private banks.  We formalize these hypotheses as H3a and H3b (stated in the alternative form):
+H3a: The contemporaneous association between loan loss provisions of private banks and managerial sentiment is
+negative. 
+H3b: When current period sentiment is high, future charge-offs per dollar of current period loan loss provision is higher for
+private banks than when current period sentiment is low. 
+<Middle> Methodology and sample. 
+3. 1.  Measuring managerial sentiment. 
+We derive our measures of managerial sentiment from the Duke University/CFO Magazine Business Outlook Survey. 5 For
+each quarter, the survey aggregates the individual responses of hundreds of CFOs from both public and private companies in
+many different industries.  Survey questions are designed to capture inter-temporal changes in financial executives’ perceptions on a variety of issues including corporate optimism, growth expectations, and capital investment plans. 6 We
+construct our first measure of managerial sentiment using the median response, each quarter, to the following question:
+“Rate your optimism about the financial prospects of your own company on a scale of 0–100, with 0 being the least optimistic and 100 being the most optimistic. ” We scale the median response by 100 and label it BELIEFSt. 7 The solid line in Fig.  1
+displays the median survey responses of managers over our sample period. 
+3. 2.  Explained and unexplained beliefs. 
+One issue with using BELIEFSt as a measure of sentiment is that macroeconomic conditions undoubtedly affect managers’
+beliefs and their estimates of loan loss provisions.  Because we define managerial sentiment as managers’ beliefs that are
+unjustified by the information available to them, it is important to account for any macroeconomic factors that both affect
+BELIEFSt, and justifiably affect LLPi,t.  Hence, we follow prior literature (e. g. , Baker and Wurgler, 2006; Lemmon and Portniaguina, 2006) and use OLS to decompose BELIEFSt into two components: a component explained by macroeconomic
+conditions (EXP_BELIEFSt) and a component that is not explained by macroeconomic conditions (UNEXP_BELIEFSt).  Both
+Baker and Wurgler (2006) and Lemmon and Portniaguina (2006) discuss the construct of sentiment as being unwarranted
+by fundamentals and both studies use the residuals from regressions of sentiment indexes on macroeconomic fundamentals
+to develop “cleaner proxies” for sentiment.  Thus, we use UNEXP_BELIEFSt as a second proxy for managerial sentiment. 
+We acknowledge that our decomposition of BELIEFSt into EXP_BELIEFSt and UNEXP_BELIEFSt may not perfectly separate
+managers’ justified and unjustified beliefs.  For example, any systematic over- or under-reaction by managers to macroeconomic fundamentals could be captured by EXP_BELIEFSt.  Thus, a portion of the variation in EXP_BELIEFSt could reflect
+variation in managerial sentiment.  In addition, to the degree that the set of regressors used to decompose BELIEFSt is
+incomplete, UNEXP_BELIEFSt could reflect rational beliefs.  Nevertheless, consistent with Baker and Wurgler (2006) and
+Lemmon and Portniaguina (2006), we use UNEXP_BELIEFSt as our second proxy for managerial sentiment as UNEXP_BELIEFSt
+represents the component of managerial beliefs that is orthogonal to fundamentals. 
+In decomposing BELIEFSt, we follow Lemmon and Portniaguina (2006) and employ a broad set of macroeconomic
+variables.  Specifically, we include the return on the CRSP value-weighted index including distributions (MKTRETt), the
+difference between the yields to maturity on Baa- and Aaa-rated bond yields (DEFt), the yield on the three-month Treasury
+bill (YLD3t), GDP growth (GDPt), personal consumption expenditures (CONSt), labor income (LABORt), the unemployment
+rate (URATEt), the consumer price index inflation rate (CPIQt), and the consumption-to-wealth ratio (CAYt). 8 Also consistent
+with Lemmon and Portniaguina (2006), we include contemporaneous, lagged, and lead measures of the macroeconomic
+variables in the model. 9 We estimate the following OLS model,
+where LEADS represents the leading values (quarter tþ1) of the macroeconomic variables and LAGS represents the lagged
+values (quarter t1).  The residual, ε^t, represents the component of managers’ beliefs unexplained by macroeconomic
+conditions, our second measure of managerial sentiment.  We label the residual from Eq.  (1) UNEXP_BELIEFSt and the predicted component EXP_BELIEFSt.  The dashed line in Fig.  1 displays the residual from Eq.  (1) over our sample period. 
+Although the explained portion of beliefs potentially includes some sentiment, if UNEXP_BELIEFS, as compared to EXP_BELIEFS, is a more direct measure of beliefs that are not justified by fundamentals, then we should observe evidence
+consistent with our predictions related to H1 and H2.  In particular, we predict a negative contemporaneous association
+between the loan loss provision and both EXP_BELIEFS and UNEXP_BELIEFS, as we expect managers’ beliefs (whether justified
+or not) to affect the loan loss provision.  However, the relation between the current loan loss provision and future charge-offs
+discussed in H2 should be stronger for UNEXP_BELIEFS compared to EXP_BELIEFS.  Because a variety of forces can constrain or
+influence accruals, and because some of the variation in EXP_BELIEFS could be attributable to managerial sentiment, it is
+possible that EXP_BELIEFS also affects the relation between the current loan loss provision and future charge-offs.  However,
+to the extent that UNEXP_BELIEFS better captures sentiment, we predict that this component will have a greater effect on the
+relation between loan loss provisions and future charge-offs than will EXP_BELIEFS. 
+Empirical design. 
+3. 3. 1.  Tests of H1. 
+H1 suggests that the contemporaneous association between managerial sentiment and loan loss provisions is negative. 
+To test H1, we first estimate the following pooled OLS models,
+where LLPi,t is the loan loss provision estimated for bank i in quarter t and BELIEFSt is our measure of managerial sentiment
+obtained from the Duke CFO survey for quarter t. 10 Our interest in Eq.  (2a) centers on β1.  If managerial sentiment affects
+estimates of the loan loss provision, then when sentiment is higher (lower), we expect the estimated provision to be lower
+(higher) such that β1 should be negative because an optimistic manager will reduce the loan loss provision, ceteris paribus. 
+In Eq.  (2b) we replace BELIEFS with its decomposition into expected and unexpected components: EXP_BELIEFS and
+UNEXP_BELIEFS. 
+In Eqs.  (2a) and (2b), we control for numerous bank-level variables shown to affect loan loss provisions.  Consistent with
+prior literature (Beatty and Liao, 2014; Bushman and Williams, 2012; Liu and Ryan, 2006), we include ΔNPAi,tþ 1 and ΔNPAi,t
+in the model to reflect the possibility that some banks use current and forward-looking information on non-performing
+loans in estimating loan loss provisions.  We include ΔNPAi,t 1 and ΔNPAi,t 2 to capture the fact that banks use historical
+information about non-performing loans to estimate loan loss provisions.  We control for bank size (SIZEi,t 1) given the
+potential differences in regulatory scrutiny or monitoring for banks of different sizes.  We control for loan growth (ΔLOANi,t),
+as loan loss provisions may be higher when the bank extends credit to more clients with lower credit.  We also follow prior
+research and include the lagged loan loss allowance (ALWi,t 1) (see Beaver and Engel, 1996; Beck and Narayanamoorthy,
+2013).  If a bank has recognized relatively high provisions in prior quarters, then a lower current provision may be justified,
+as the prior quarter loan loss allowance may be sufficient to account for expected uncollectibles.  Because the amount of
+charge-offs is related to the level of the allowance, which in turn affects provisions, we follow prior research and include net
+charge-offs (COt) in the model (Wahlen, 1994; Collins Name, 1995; Beatty Name, 1995).  We add controls for earnings before the
+provision (EBPi,t) and tier 1 capital ratio (CAPR1t) to control for potential incentives to manage earnings (e. g. , Bushman and
+Williams, 2012; and Beatty and Liao, 2014).  We scale all firm-level variables by total loans in quarter t 1.  Finally, we include
+the change in GDP (ΔGDPt), the return on the S&P/Case-Shiller U. S.  National Home Price Index (CSRETt), and the change in
+unemployment (ΔURATEt), as prior literature identifies these variables as determinants of loan loss provisions (e. g. , Bushman and Williams, 2012; Beck and Narayanamoorthy, 2013). 
+3. 3. 2.  Tests of H2. 
+H2 predicts that the amount of realized future charge-offs per dollar of loan loss provision estimated in quarter t is
+increasing in the level of quarter t sentiment.  We test this hypothesis by estimating the following pooled OLS model. 
+In Eq.  (3a), our interest is in assessing whether current period sentiment is related to the amount future charge-offs per
+dollar of current period provision.  Therefore, in Eq.  (3) we include control variables that prior research suggests may bias the
+provision (i. e. , affect the provision but not future charge-offs).  We include EBPi,t and CAPRi,t 1, to account for managers’
+incentives to smooth earnings (e. g. , Bushman and Williams, 2012) and meet regulatory capital requirements (Beatty and
+Liao, 2014).  A positive coefficient on BELIEFSt indicates that an increase in quarter t sentiment is associated with more future
+charge-offs per dollar of quarter t provision.  This association is consistent with managers under (over) provisioning for loan
+losses due to unjustified optimism (pessimism) about the future collection of receivables.  If managerial sentiment is not
+associated with estimates of the loan loss provision, we expect the loan loss provision to reflect only economic fundamentals, and sentiment should not affect the ratio of COi,tþ 1 to LLPi,t (i. e. , β1 in Eq.  (3a) should be statistically indistinguishable from zero). 
+We replace BELIEFSt with UNEXP_BELIEFSt and EXP_BELIEFSt in Eq.  (3b).  We expect the coefficient on UNEXP_BELIEFSt to be
+positive.  We are also interested in the difference in the coefficients between UNEXP_BELIEFSt and EXP_BELIEFSt. EXP_BELIEFSt captures justified beliefs while UNEXP_BELIEFSt measures unjustified beliefs (sentiment), then β1 should be
+significantly greater than β2 because, relative to justified beliefs, unjustified beliefs lead to greater estimation error in the
+provision. 
+A potential challenge with using realized future charge-offs is that it is not a perfect proxy for an unbiased expectation of
+future charge-offs (i. e.  realized charge-offs is the sum of both expected and unexpected future charge-offs).  If the unexpected component is uncorrelated with the regressors in the models (3a) and (3b), then the coefficient estimates will be
+unbiased.  However, if the unexpected component is correlated with any of the regressors, then the coefficient estimates
+could be biased. 
+Thus, as an alternative approach to testing H2, we adapt our primary LLP models in Eqs.  (2a) and (2b) by adding future
+charge-offs, the interaction of future charge-offs with sentiment, and abnormal returns in quarter tþ1 (
+1) as model regressors.  If sentiment has the predicted effect on the relation between future charge-offs and current period sentiment.  We winsorize all bank-level variables at the 1st and 99th percentiles.  The Appendix provides definitions and data sources for all variables used in our(H2), we expect sentiment to interact negatively with future charge-offs.  We include abnormal returns in quarter tþ1
+1) as a proxy for the unexpected component of future charge-offs, which allows us to control for correlation be(
+BHARi t, tween the unexpected component of future charge-offs and other regressors.  This approach is similar to prior research that
+uses future returns to mitigate measurement error arising from future events that affect future outcomes but were not
+anticipated in period t (Collins Name, 1994).  Although Collins Name (1994) use returns to partial out the unexpected component of future earnings, we use returns to partial out the unexpected component of future charge-offs, using the analogous
+logic that unexpected future charge-offs should be reflected in future stock returns. 
+To illustrate our expectation for how sentiment will affect the relation between the loan loss provisions and future
+charge-offs, consider the following (simplified) model, where the period t loan loss provision estimated for bank i (LLPi,t) is related to its period tþ1 charge-offs.  If there is no
+managerial sentiment in period t when the provision is estimated, then we expect β to reflect a “normal” positive association between the provision and future charge-offs (γ).  If, however, the provision is estimated during a period of high (low)
+− ( + ), where θ is greater
+sentiment, then we expect the association between the provision and future charge-offs to be γ
+than zero.  Fig.  2 illustrates this point.  When there is no managerial sentiment in period t, a dollar increase in future chargeoffs corresponds to an increase in LLPi,t of γ.  When managerial sentiment is high (low) in period t, a dollar increase in future
+charge-off corresponds to an increase in the loan loss provision that is less than (greater than) γ, consistent with managers
+under (over) provisioning for future charge-offs.  To examine this association, we estimate the following pooled OLS models. 
+If sentiment affects loan loss provisions, then we expect β1 in Eq.  (4a), the coefficient on the interaction between
+measures of sentiment in quarter t (BELIEFSt) and charge-offs in quarter tþ1 (COi,tþ 1), to be negative and significant.  A
+negative coefficient indicates that a unit increase in charge-offs in quarter tþ1 is associated with less of an increase in the
+quarter t provision when managers exhibit positive (or high) sentiment in quarter t as compared to quarters when managers
+exhibit negative (or low) sentiment.  If managerial sentiment is not associated with estimates of the loan loss provision, we
+expect the loan loss provision to reflect only economic fundamentals, and sentiment should not affect the relation between
+LLPi,t and COi,tþ 1 (i. e. , β1 in Eq.  (4a) should be statistically indistinguishable from zero). 
+We replace BELIEFSt with UNEXP_BELIEFSt and EXP_BELIEFSt in Eq.  (4b).  Here, we expect the coefficient on the interaction
+between COi,tþ 1 and UNEXP_BELIEFSt to be negative.  We are also interested in the difference between the coefficients for
+UNEXP_BELIEFSt  COi,tþ 1 and EXP_BELIEFSt  COi,tþ 1.  As before, if EXP_BELIEFSt captures justified beliefs, and UNEXP_BELIEFSt
+captures mangerial sentiment, then we expect the coefficient on UNEXP_BELIEFSt  COi,tþ 1 to be more negative than the
+coefficient on EXP_BELIEFSt  COi,tþ 1. 
+H3 posits that our predictions from H1 and H2 will hold in a sample of private banks.  We base this prediction on the
+notion that managers of private banks do not have the opportunities or incentives to exploit prevailing investor sentiment to
+temporarily increase stock price or meet analysts’ expectations.  To test H3, we conduct the previously outlined tests using a
+sample of private banks. 
+3. 4.  Sample. 
+Our primary sample consists of COMPUSTAT bank-quarter observations with the necessary data to construct our model
+variables for the period 2002:4 to 2013:2.  The resulting data set includes 19,840 bank-quarter observations.  We construct
+our measure of sentiment using data from the Duke/CFO Magazine Business Outlook Survey available at www. cfosurvey. org. 
+We obtain market returns from CRSP and macro variables from the Federal Reserve Bank of St.  Louis. 
+In constructing our sample of private banks, we use call report data from SNL Financial.  We identify public ownership
+using data from the Federal Reserve Bank of New York, FDIC, and SNL Financial.  Specifically, we determine whether a bank
+(or its parent) has ever been publicly traded.  Then, we restrict our private bank sample to banks that are private and for
+which all variables required by our regression models are available.  Finally, consistent with Ng and Roychowdhury (2013),
+who suggest that S-corporations have different loss provisioning processes, we remove S-corporations from the sample.  Our
+final private bank sample consists of 107,959 private bank-quarters over the period 2005 to 2011. 
+4.  Results
+4. 1.  Sentiment and macroeconomic factors
+As discussed in Section 3, we measure managerial sentiment in two ways.  Our first proxy is managers’ beliefs about
+future firm prospects (based on CFO survey responses).  Our second proxy is the component of managers’ beliefs that is
+unexplained by (or orthogonal to) macroeconomic fundamentals.  We obtain our second measure by estimating Eq.  (5).  As
+shown in Table 1, the results indicate that macroeconomic fundamentals explain about 90% of the variation in managers’
+beliefs (adjusted R-squared is 0. 907).  This result is consistent with our expectation that economic fundamentals are the
+primary driver of managers’ beliefs.  It is also comparable with the results in Lemmon and Portniaguina (2006), who report
+adjusted R-squared values between 0. 80 and 0. 90 in similar regressions using consumer sentiment.  We derive our second
+proxy for sentiment (UNEXP_BELIEFSt) as the set of residuals obtained from this regression.  Fig.  1 plots both BELIEFSt and
+UNEXP_BELIEFSt over our sample period. 
+4. 2.  Descriptive statistics and correlations
+Table 2 reports descriptive statistics for the key dependent and independent variables over the sample period.  Panel A
+reflects variables in Eq.  (1) and Panel B reflects the variables used in tests of H1 and H2.  We find that LLPi,t has a mean of
+0. 002 indicating that, on average, the loan loss provision is 0. 2% of lagged total loans.  Panel B also indicates that the distributional statistics for charge-offs are identical to those for LLPi,t; on average, charge-offs are also 0. 2% of total loans.  This
+consistency is not surprising as the loan loss provision is meant to capture future charge-offs.  The means (standard deviations) for BELIEFSt and UNEXP_BELIEFSt are 0. 659 (0. 046) and 0. 000 (0. 008), respectively.  These statistics further highlight
+the difference in the variances of BELIEFSt and UNEXP_BELIEFSt, and reinforce the notion that managers’ unexpected (or
+unjustified) beliefs constitute a relatively small portion of their total beliefs. 
+Table 3 presents both Pearson and Spearman correlations between the variables used in our analyses.  Panel A tabulates
+the correlations among the macroeconomic variables used in the Table 1 regression and Panel B tabulates the correlations
+among the variables used in the regression analyses to test H1 and H2.  We report Pearson correlations above the diagonal
+and Spearman correlations below.  We focus on the Pearson correlations and make the following observations.  First, Panel A
+indicates that BELIEFSt are significantly correlated with seven of the macroeconomic variables included as independent
+variables in Eq.  (1).  The magnitudes of these correlations are substantial; of the significant correlations, the absolute
+magnitudes range from 0. 295 to 0. 817.  Second, in Panel B we find that the unconditional correlation between LLPi,t and
+is negative ( 0. 345) and statistically significant, although the univariate correlation between LLPi,t and
+BELIEFSt
+UNEXP_BELIEFSt is not statistically distinguishable from zero.  Third, consistent with prior research, we find a positive correlation between LLPi,t and each of the changes in non-performing assets (ΔNPAi,tþ 1, ΔNPAi,t, ΔNPAi,t  1, and ΔNPAi,t  2). 
+Finally, the correlation between LLPi,t and COi,t (charge-offs), 0. 788, is significant as expected. 
+4. 3.  Results for H1
+Table 4 presents the results from estimating several models derived from Eqs.  (2a) and (2b).  In these models we regress
+LLPi,t on our measures of sentiment and various control variables.  In model (i) we use BELIEFSt as our measure of sentiment
+and include the control variables from Eq.  (2a).  In model (ii), we estimate Eq.  (2b) by replacing BELIEFSt with UNEXP_BELIEFSt
+and EXP_BELIEFSt.  In models (iii) and (iv) we add lagged measures of sentiment BELIEFSt  1 and UNEXP_BELIEFSt  1 to Eqs. 
+(2a) and (2b), respectively.  We add these measures to account for the relation between lagged investor sentiment and
+discretionary accruals documented in Simpson (2013).  In Table 4 (and the remaining tables), we include year fixed effects
+and estimate coefficients using within-year variation in managerial beliefs because we believe large temporal shifts in
+beliefs are more likely attributable to changes in fundamentals than changes in sentiment.  We exclude the year fixed effects
+in robustness tests (discussed in Section 5. 4).  We cluster standard errors at the firm level (Petersen 2009). 
+Consistent with H1, the results of estimating model (i) indicate a negative relation between LLPi,t and BELIEFSt.  More
+specifically, the coefficient on BELIEFSt is  0. 005 (po0. 001).  The signs of the estimated coefficients for the firm-level
+control variables are generally consistent with findings in prior literature, and the adjusted R-squared for model (i) is 0. 696. 
+Results from estimating model (ii) are similar to those from model (i).  Again, consistent with our hypothesis, the coefficient
+on UNEXP_BELIEFSt is negative ( 0. 004) and statistically significant (p¼0. 018).  The results for models (iii) and (iv) are
+comparable to those in models (i) and (ii) and indicate that even after controlling for lagged sentiment, our contemporaneous measures of sentiment are negatively associated with loan loss provision estimates.  Finally, as expected, the
+coefficient for EXP_BELIEFSt in model (iv) is negative ( 0. 005) and significant (po0. 001) indicating that the component of
+managerial beliefs that is explained by macroeconomic fundamentals is also associated with loan loss provision estimates. 
+To provide a sense of the economic significance of the effect of sentiment on the loan loss provision, we estimate the
+effect of a one standard deviation change in unexpected beliefs.  We find that a one standard deviation change in unexpected
+beliefs is associated with a 1. 60% decrease in the provision.  This is comparable in magnitude to the effect of the tier 1 capital
+ratio (CAPR1), a previously documented earnings management incentive, where a one standard deviation increase in tier
+1 capital reduces the provision by 1. 65% (untabulated).  In terms of its effect on net income, our results indicate that a one
+standard deviation change in sentiment is associated with a 1. 04% change in income before extraordinary items for the
+average bank in our sample. 12 Overall, the results in Table 4 are consistent with a negative and significant contemporaneous
+relation between loan loss provisions and managerial sentiment that is robust to controlling for bank-level factors that prior
+research documents as being associated with loan loss provisions as well as macro-level control variables shown to influence either loan loss provisions or measures of sentiment. 
+4. 4.  Results for H2. 
+Table 5 reports the results of our first tests of H2.  In model (i) we find that the coefficient on BELIEFSt is statistically
+indistinguishable from zero.  However, in model (ii) when we replace BELIEFSt with UNEXP_BELIEFSt and EXP_BELIEFSt, we
+find that the coefficient on UNEXP_BELIEFSt is positive and significant (po0. 10) whereas the coefficient on EXP_BELIEFSt is
+insignificant.  Testing for equality of coefficients confirms that the coefficient on UNEXP_BELIEFSt is significantly more positive than the coefficient on EXP_BELIEFSt (p¼0. 034), as predicted.  These results are consistent with higher sentiment
+leading to a greater level of charge-offs per dollar of loan loss provision, whereas justified beliefs do not have the same
+effect.  In terms of economic magnitude, we find that the effect of sentiment is similar to the effects of earnings management
+incentives on the provision (e. g.  Bushman and Williams, 2012; Beatty and Liao, 2014).  Specifically, a one standard deviation
+increase in sentiment is associated with one-quarter (one-year) ahead charge-offs that are 2. 25% (3. 25%) higher per dollar of
+provision, a one standard deviation change in earnings before the provision is associated results in a 5. 54% (3. 41%) increase
+in one-quarter (one-year) ahead future charges-offs per dollar of provision, and a one standard deviation change in the tier
+1 capital ratio results in a 6. 31% (6. 12%) increase in one-quarter (one-year) ahead future charges-offs per dollar of provision. 
+As an additional test of H2, we modify Eqs.  (3a) and (3b) by replacing COi,tþ 1 with COi,tþ 1234, which is the sum of chargeoffs for quarters tþ1, tþ2, tþ3, and tþ4.  Under the incurred loss model, the timing difference between provisioning for
+loan losses and charging off actual loans can vary, but guidance from bank regulators suggests that banks provision for
+charge-offs expected to occur within a relatively short time horizon, such as one year (Ronen and Ryan, 2009).  In model (iii)
+we find that the coefficient on BELIEFSt is positive and significant (po0. 05) as predicted, and in model (iv) we find that the
+coefficients on both UNEXP_BELIEFSt and EXP_BELIEFSt are positive and significant (p¼0. 002 and 0. 053, respectively).  The
+coefficient on UNEXP_BELIEFSt (20. 012) is also significantly greater than the coefficient on EXP_BELIEFSt (3. 944), consistent
+with UNEXP_BELIEFSt being a more direct measure of managerial sentiment than EXP_BELIEFSt. 
+Table 6 presents the results of the alternative tests of H2 (estimating Eqs.  (4a) and (4b)).  In regression models (i) and (ii),
+we interact quarter tþ1 charge-offs (COi,tþ 1) with quarter t sentiment, BELIEFSt and UNEXP_BELIEFSt, respectively.  Consistent
+with our prediction that the positive association between loan loss provisions and future charge-offs is attenuated when the
+provision is estimated during periods of high managerial sentiment, we find that the coefficient on the interaction term
+between charge-offs and sentiment is negative and significant in both models.  For model (i) the coefficient estimate is
+ 0. 789 (p¼0. 001) and for model (ii) the coefficient estimate is  4. 134 (po0. 001).  In model (ii), we find that the coefficient
+on EXP_BELIEFSt  COi,tþ 1 is also negative.  However, the magnitude of the coefficient is only one-fourth of the magnitude of
+the coefficient on UNEXP_BELIEFSt  COi,tþ 1 and the difference is statistically significant (p¼0. 002), suggesting that
+UNEXP_BELIEFSt is a more direct proxy for managerial sentiment than EXP_BELIEFS.  The results are even stronger in models
+(iii) and (iv) when extending the window for future charge-offs to one year (i. e.  COi,tþ 1234).  We find that the coefficients on
+the interactions between future charge-offs and quarter t measures of sentiment are negative and highly significant at
+conventional levels (po0. 01). 13 Taken together, the results in Table 6 provide evidence consistent with managerial sentiment affecting estimates of the loan loss provision and suggest that our measures of sentiment are not simply proxies for
+macroeconomic fundamentals. 
+4. 5.  Results for H3. 
+Table 7 provides the results for tests of H3a and H3b.  Panel A reports the results of re-estimating the models from Table 4
+using the sample of private banks (H3a).  To the extent that managers are subject to sentiment, we also expect to find a
+negative relation between LLPi,t and sentiment among private banks.  However, we do not expect to observe a significant
+association between LLPi,t and sentiment within the sample of private banks if the findings in Tables 4–6 merely reflect
+managers catering to investor sentiment to increase stock price or respond to analyst expectations.  We find a negative
+association between loan loss provisions and managerial sentiment in each of the models reported in Panel A (po0. 001). 
+These results are consistent with managerial sentiment influencing managers’ accrual estimates. 
+Table 7, Panels B and C report the results of tests in which we re-estimate the models from Tables 5 and 6, respectively,
+using the sample of private banks (H3b).  Similar to Panel A, the results in Panels B and C are consistent with those reported
+for public banks.  Specifically, in each of the models reported in Panel B we find that the coefficient on BELIEFS (UNEXP_BELIEFS) is positive and significant (po0. 001).  We also find in Panel C that the coefficients of interest in each of the
+specifications are negative and significant (po0. 01).  Taken together, the results from these private bank analyses support
+our hypotheses and mitigate concerns that the documented relation between the loan loss provision and managerial
+It is possible that our measures of sentiment could be correlated with some other incentive to manage earnings that is
+not adequately captured in our models.  To provide further evidence that the results in Tables 4–6 do not reflect earnings
+management, we conduct two additional tests.  First, we confirm in untabulated tests that the public banks in our sample are
+more likely to report small positive earnings and earning changes compared to the banks in our private sample (Beatty Name,
+2002).  Thus, we expect that public banks in our sample have greater incentives to manipulate earnings to meet or beat
+earnings expectations compared to private banks.  Second, we conduct a test in which we assess whether the coefficients on
+UNEXP_BELIEFSt in the public and private samples are significantly different.  If the coefficient on UNEXP_BELIEFSt captures
+earnings management rather than managerial sentiment, we would expect the coefficient to be significantly more negative
+in the public bank sample than in the private bank sample.  However, we find that the magnitude of the negative coefficient
+on UNEXP_BELIEFSt is actually greater (i. e. , more negative) for the private bank sample compared to the public bank sample
+(although the difference is not statistically significant at conventional levels, p¼0. 105).  In combination, the results of these
+tests further mitigate concerns that the results in Tables 4–6 reflect earnings management activity. 
+4. 6.  Uncertainty, sentiment, and accruals. 
+Theory suggests that the effects of psychological biases increase with the degree of uncertainty facing the decision maker
+(Baker and Wurgler, 2006, 2007).  Empirical findings from studies of investor sentiment support this theory.  For example,
+Baker and Wurgler (2006) find that investor sentiment has larger effects on stocks whose valuations are more subjective
+and difficult to estimate.  Hribar and McInnis (2012) find that the effects of sentiment on analyst forecasts are greatest for
+“hard-to-value” firms.  Therefore, if managers are subject to sentiment, we expect the effects of managerial sentiment on the
+accrual estimates to be greater for banks with future charge-offs that are more difficult to predict. 
+We test this prediction by comparing banks with high versus low uncertainty in predicting future charge-offs.  We use two
+proxies for uncertainty in predicting future charge-offs: the standard deviation of banks’ charge-offs (calculated over the entire
+sample period) and the standard deviation of banks’ changes in non-performing assets.  We expect that managers of banks with
+more volatile charge-offs (or changes in non-performing assets) face greater uncertainty about future charge-offs.  We construct
+an indicator variable for firms in the highest tercile of each uncertainty measure (HIGH_UNCERTAINTYi) and augment Eqs.  (2a)
+and (2b) by adding HIGH_UNCERTAINTYi and the interaction between our sentiment measures and HIGH_UNCERTAINTYi.  To
+compare firms with high uncertainty to those with low uncertainty, we omit firms in the middle uncertainty tercile from the
+analysis.  We expect a negative coefficient on the interaction between our measures of sentiment and HIGH_UNCERTAINTYi. 
+Table 8 presents the results of this analysis.  We find that the coefficients on BELIEFSt  HIGH_UNCERTAINTYi and
+UNEXP_BELIEFSt  HIGH_UNCERTAINTYi are each negative and significant (po0. 05).  This result is consistent with a stronger
+relation between managerial sentiment and accrual estimates when uncertainty is high.  Although we do not have a prediction on how uncertainty affects the relation between explained beliefs and accrual estimates, for consistency with our
+other tests we also include EXP_BELIEFSt in the analysis.  Here, the results show that the coefficient on
+EXP_BELIEFSt  HIGH_UNCERTAINTYi is also negative and significant.  In assessing the economic magnitude of the effect, we
+find that for banks where the loan loss provision is more difficult to predict (HIGH_UNCERTAINTY¼1), a one standard
+deviation change in sentiment is associated with a 3. 60–4. 

@@ -1,0 +1,49 @@
+
+Private enforcement via shareholder litigation is important to investor protection and stock market development
+(La Porta Name, 2006).  Prior literature suggests that cross-country variation in shareholder litigation threat affects the cost of
+equity (Hail and Leuz, 2009; Khurana and Raman, 2004).  However, there is relatively scant evidence on how firm-level
+mechanisms affect the disciplining role of shareholder litigation and therefore the cost of equity.  This research question is
+important as the cost of equity is a summary measure of how investors perceive the risk and return tradeoff of investing in a
+firm (Francis Name, 2004).  In addition, the cost of equity plays a key role in corporate financing and capital budgeting
+decisions.  In this study, we examine how directors' and officers' liability insurance (D&O insurance) affects a firm’s cost ofD&O insurance is a policy purchased by a firm to cover defense cost and potential damage award when its directors and
+officers (D&Os) are sued.  By effectively shielding D&Os from bearing personal financial liabilities, D&O insurance reduces the
+disciplining effect of shareholder litigation (Baker and Griffith, 2010).  We hypothesize that D&O insurance increases a firm’s
+cost of equity via two important channels.  First, as shareholder litigation encourages managers to increase transparency
+(Ball, 2001), D&O insurance can result in poor financial reporting and disclosure quality, leading to a higher cost of equity
+(Leuz and Wysocki, 2008).  Second, as D&O insurance limits the expected legal liabilities associated with bad outcomes of
+D&O decisions, it encourages risk-taking (Baker and Griffith, 2010; Core, 1997).  To the extent that risk-taking results in a
+higher exposure to market risks, the cost of equity is higher. 
+Using a large manually collected dataset on D&O insurance from Canada, we find that D&O insurance coverage is
+positively associated with the ex ante cost of equity implied in stock prices and analyst forecasts.  This association is robust to
+firm fixed effects regression and alternative cost of equity measures.  It is also economically significant.  Based on our baseline
+model, an increase in D&O insurance coverage by one standard deviation is associated with an increase in the cost of equity
+of about 7% of the sample mean. 
+The positive association between D&O insurance and the cost of equity can be driven by endogeneity as D&O insurance
+purchase is a firm’s choice.  It can be the case that high risks lead to both high D&O insurance coverage and a high cost of
+equity.  We conduct extensive tests to mitigate this concern.  First, we control for economic determinants of liability coverage
+and corporate governance quality (Chen Name, 2011; Core, 1997, 2000).  We continue to find a positive association between
+D&O insurance and the cost of equity.  Second, we conduct a lead-lag change analysis.  If it is risk, which is already known by
+investors and manifested in the cost of equity, determines a firm’s decision to purchase D&O insurance, then a change in the
+cost of equity should precede a change in D&O insurance.  In contrast, our hypothesis predicts that a change in the cost of
+equity follows a change in D&O insurance coverage.  We find that a change in the cost of equity follows, but not precedes, a
+change in D&O insurance coverage. 
+Next, we examine the market reaction to the release of proxy circulars that contain D&O insurance information.  A shortterm market event study is less likely to suffer from the omitted correlated variable bias.  If investors charge a high cost of
+equity for firms with a high level of D&O insurance coverage, then they would react negatively to the disclosure of an
+increase in D&O insurance.  Our finding is consistent with this prediction. 
+It is also possible that the D&O insurance purchase decision is based on D&Os' private information that is learnt by
+investors subsequently (the risk anticipation argument). 1 If this is the case, we can still observe that a change in the cost of
+equity follows, but not precedes, a change in D&O insurance coverage.  In addition, the disclosure of an increase in D&O
+insurance can reveal D&Os' private information on an increase in risk and therefore lead to a negative market reaction. 
+While the risk anticipation argument and our hypothesis are not mutually exclusive as a change in D&O insurance can reveal
+both D&Os' private information and an expected change in D&Os' behavior, empirically distinguishing them is difficult as
+D&Os' private information is not directly observable.  Nevertheless, we conduct several tests to address this concern.  First,
+we control for an ex ante measure of litigation risk developed by Kim and Skinner (2012) and continue to find a positive
+association between D&O insurance and the cost of equity.  Second, we test a cross-sectional prediction of the risk
+anticipation argument.  If the association between D&O insurance and the cost of equity is driven by D&Os' private
+information, then it should be more pronounced when D&Os have more private information.  Following Chen Name (2007),
+we develop proxies for D&Os' private information based on earnings surprises and CEOs' insider trading activities.  We do
+not find a more pronounced association between D&O insurance and the cost of equity for firms with D&Os having more
+private information. 
+Ideally, to clearly distinguish the risk anticipation argument from our hypothesis, one needs to identify a change in D&O
+insurance not driven by D&Os' private information.  However, we are not aware of decent instrumental variables that are
+capable of providing such identification. 

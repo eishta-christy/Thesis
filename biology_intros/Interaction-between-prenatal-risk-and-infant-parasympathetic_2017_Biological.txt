@@ -1,0 +1,589 @@
+Introduction
+
+Exposure to adversity during the prenatal period, such as maternal
+psychiatric problems, substance (ab)use, single parenthood and pov-
+erty, has been shown to predict aggression in childhood that persists
+into adolescence and adulthood (Côté, Vaillancourt, LeBlanc,
+Nagin, & Tremblay, 2006; Hay et al., 2011; NICHD Early Child Care
+Research Network, 2004). Yet, not all children seem to be equally af-
+fected by adversity. Guided by theories of diﬀerential susceptibility
+(Belsky & Pluess) and sensitivity to context
+(Boyce & Ellis, 2005), a number of studies have demonstrated that in-
+dividual diﬀerences in stress reactivity, as measured by indices of the
+cardiac autonomic nervous system (ANS), can predispose or protect
+against the eﬀects of adversity on children’s behavioral maladjustment
+(e.g. El-Sheikh & Erath, 2011). Although these studies provide im-
+portant insights into physiological measures of susceptibility, they have
+focused mostly on older children. Little is known about the role of the
+cardiac ANS in interaction with early adversity during infancy when the
+physiological systems involved in emotion regulation are emerging and
+presumably most responsive to environmental inﬂuences (Beauchaine,
+Neuhaus, Brenner, & Gatzke-Kopp, 2008; Laurent, Harold, Leve,
+Shelton, & Van Goozen, 2016).
+Altered ANS functioning has been consistently linked to aggression
+in children, adolescents and adults (Van Goozen, Fairchild,
+Snoek & Harold, 2008). The ANS is comprised of a sympathetic (SNS)
+and parasympathetic (PNS) branch. PNS activity is often assessed by
+respiratory sinus arrhythmia (RSA). RSA is the heart rate variability at
+the frequency of respiration (Cacioppo, Uchino, & Berntson, 1994), and
+is considered to index the neural control of the heart via the vagus
+nerve (Porges, 2007). During restful periods, the vagus exerts an in-
+hibitory inﬂuence on the heart acting as a ‘brake’ by increasing vagal
+output to the sino-atrial (SA) node of the heart and limiting sympathetic
+inﬂuences which contribute to a slow and steady heart rate. In response
+to stress, the vagal ‘brake’ is disengaged resulting in a decrease in vagal
+output to the SA node of the heart and thus contributing to an increase
+in heart rate (Porges, 2007). If withdrawal of the vagal ‘brake’ is not
+suﬃcient to manage a stressor, the sympathetic activity is expected to
+increase in order to prepare the body for a more active stress response.
+The majority of research examining stress reactivity in young chil-
+dren has focused on RSA or global measures of cardiac autonomic
+functioning like HR without speciﬁc assessments of activity within the
+sympathetic branch. Pre-ejection period (PEP) reﬂects the time interval
+between the onset of the heartbeat and ejection of blood into the aorta
+(Cacioppo et al., 1994) and is commonly used as an index of myocardial
+contractility and sympathetic control of the heart (Berntson et al.,
+1994). Both RSA and PEP are used as indicators of the complex pro-
+cesses that underlie responsiveness of the ANS to a changing environ-
+ment, e.g., from rest (baseline) to challenge or vice versa.
+Low baseline PNS activity, as indicated by RSA, has been identiﬁed
+as a vulnerability factor that exacerbates the relation between adversity
+(e.g. marital conﬂict, parental drinking problems) and children’s ex-
+ternalizing behavior (El-Sheikh, 2005a; El-Sheikh et al., 2001). Other
+studies have measured RSA reactivity to stress, with decreases in RSA in
+response to stress considered to be indicative of better adaptation (El-
+Sheikh & Erath, 2011). RSA withdrawal in response to stress has been
+associated with lower levels of externalizing behavior in the context of
+adversity (El-Sheikh, 2001; Katz, 2007), although ﬁndings have been
+inconsistent (Obradovic, Bush, Stamperdahl, Adler, & Boyce, 2010).
+Studies investigating interactions between adversity and SNS activity
+(measured as skin conductance level [SCL] in most studies) indicate
+that either very low or very high baseline levels of SCL and high SCL
+reactivity may increase the risk of aggression and externalizing beha-
+vior in the context of adversity (El-Sheikh, 2005b; El-Sheikh et al.,
+2007).
+
+It is clear that ANS functioning has important implications for the
+association between adversity and the development of aggression.
+However, such associations may be less straightforward in infancy. For
+example, recent studies indicated a stronger positive relation between
+higher (rather than lower) baseline RSA and (externalizing) problem
+behavior in infants and toddlers exposed to a more negative caregiving
+environment (Conradt, Measelle, & Ablow, 2013; Eisenberg et al.,
+2012). Measures of RSA reactivity and SNS functioning in infants have
+not been studied as moderators of relations between early adversity and
+aggression before, although there is one study in toddlers reporting no
+eﬀects of RSA reactivity (Eisenberg et al., 2012).
+
+Adaptation to stressful contexts requires a delicate balance in the
+operation of both the PNS and SNS (Porges, 2007), and the synergistic
+action of both systems determines the eﬀectiveness of regulation
+(Berntson, Cacioppo, & Quigley, 1991). Although the eﬀects of both
+branches of the ANS on the heart is generally believed to be reciprocal,
+with increased activity in one branch and decreased activity in the
+other, reactivity in both branches can also be nonreciprocal (i.e., in-
+creased or decreased activity of both branches at the same time;
+Berntson et al., 1991). Reciprocal cardiac PNS activation, with in-
+creased PNS stimulation and decreased SNS stimulation on the heart, is
+expected during calm states, while reciprocal SNS activation (i.e., in-
+creased SNS activity and decreased PNS activity) is more adaptive when
+confronted with challenging stressful situations. Previous studies have
+suggested that reciprocal cardiac SNS activation in response to stress is
+normative in children, adolescents and adults
+(Alkon, Boyce,
+Davis, & Eskenazi, 2011; Berntson et al., 1991; Salomon et al., 2000),
+and linked to better emotion regulation in young children (Stifter,
+Dollar, & Cipriano, 2011). Conversely, nonreciprocal activation of PNS
+and SNS, as indicated by coactivation (i.e., increased activity in both
+the PNS and SNS) and coinhibition (i.e., decreased activity in both the
+PNS and SNS), has been linked to more externalizing problems in
+school-aged children in the context of marital conﬂict, compared to
+patterns of reciprocal SNS activation or reciprocal PNS activation (El-
+Sheikh et al., 2009). Similar ﬁndings have been reported in the context
+of maltreatment predicting aggression in girls (Gordis, Feres, Olezeski,
+Rabkin, & Trickett, 2010).
+
+So far, there have been no studies that we know of that have ex-
+amined measures of both PNS and SNS functioning in infancy as po-
+tential moderators of the eﬀects of early adversity on outcome in tod-
+dlerhood. Elucidating how early physiological systems increase or
+decrease susceptibility to aggression, may enhance our ability to iden-
+tify children at risk of aggression at an early age, before developmental
+trajectories begin to be set.
+
+In the present study, we investigated the interaction between ANS
+response to and recovery from stress measured in 6-month-old infants,
+taking into consideration both the PNS and SNS, and prenatal risk in
+predicting physical aggression at 20 months of age. We were speciﬁ-
+cally interested in cumulative risk as previous work has shown a dose-
+dependent relation between the presence of multiple risk factors and
+child adjustment, with increases in the number of risk factors being
+associated with increased levels of problems (Appleyard, Egeland, van
+Dulmen, & Sroufe, 2005). We measured parasympathetic RSA and
+sympathetic PEP response and recovery from stress. Although previous
+studies involving PNS and SNS interactions have focused on SCL (El-
+Sheikh et al., 2009; Gordis et al., 2010), PEP is considered to be a more
+direct measure of cardiac SNS activity (Cacioppo et al., 1994), that can
+be reliably measured in infants (Alkon et al., 2006; Quigley & Stifter,
+2006). We hypothesized that higher levels of coactivation and coinhibi-
+tion would exacerbate the relation between cumulative prenatal risk
+and physical aggression, whereas, reciprocal PNS activation and re-
+ciprocal SNS activation would attenuate the association between cu-
+mulative risk and physical aggression.
+
+<Middle> Methods and materials.
+1.1. Participants.
+The participants in this study were part of an ongoing longitudinal
+study into neurobiological and neurocognitive predictors of early be-
+havior problems (Mother- Infant NeuroDevelopment Study in Leiden,
+The Netherlands [MINDS − Leiden]). We oversampled women based
+on the presence of one or more risk factors (see criteria under
+Cumulative risk). The sample was composed of 113 mothers and their
+infants (55.8% males) who had completed the prenatal home-visit
+during the third trimester of pregnancy (T1), and the postpartum home-
+visits at six (T2) and 20 months (T3). The mean age of the children was
+6.03 months (SD=0.41, range 5–7 months) at T2 and 19.94 months
+(SD=0.81, range 18–24 months) at T3. The mothers were on average
+22.96 years (SD = 2.12, range 17–27 years) at T1. Approximately 96%
+of the mothers had a partner (87.6% was married or living with a
+partner) and 32.7% of the mothers had a high educational
+level
+(Bachelor’s or Master’s degree). Families were predominantly
+Caucasian (88.5%).
+
+Of the 136 mothers originally enrolled in the study at T1, 10 did not
+participate at T2, and another 13 dropped out between T2 and T3. Main
+reasons for families dropping out were inability to contact, moving
+away or too busy. Sample attrition was unrelated to demographic
+variables (i.e., maternal age, ethnicity, marital status, educational level;
+ps > 0.05). However, mothers who dropped out were more often
+single (χ 2(1) = 8.41, p = 0.013).
+
+The study was approved by the ethics committee of the Department
+of Education and Child Studies at the Faculty of Social and Behavioral
+Sciences, Leiden University, and by the Medical Research Ethics
+Committee at Leiden University Medical Centre. Informed consent was
+obtained from all parents of infants included in the study. Mothers were
+compensated for each completed home or laboratory visit and children
+were given a small present for their participation.
+
+1.2. Procedures
+
+The protocol during the six-month home-visit (2 h), included at-
+tachment of cardiac monitoring equipment to the infant’s chest and
+back after which they watched a 2-min relaxing movie while lying on a
+blanket, followed by two procedures designed to elicit physiological
+responses to social stress (Still Face Paradigm) and frustration (Car
+seat). The social stress and frustration tasks were administered with a
+break in between to limit carry over eﬀects. Infants were only assessed
+in the next procedure when they were calm and displayed no distress.
+The home-visits were scheduled at a time of the day when mothers
+deemed their infant to be most alert.
+The Still Face Paradigm (SFP; Mesman, Van
+IJzendoorn, & Bakermans-Kranenburg, 2009) is a well-established social
+stress paradigm comprising a sequence of three 2-min episodes
+during which the mother is asked to interact normally with the infant
+(SFP baseline), then withhold interaction (SFP social stress), and then
+resume interaction (SFP recovery) (for a more detailed description of
+the SFP, see Suurland, Van der Heijden, Smaling, Huijbregts, Van
+Goozen, & Swaab, 2016). The Car Seat (CS) task, adapted from the La-
+boratory Temperament Assessment Battery Pre-locomotor version (Lab-
+TAB; Goldsmith & Rothbart, 1999), was used to measure infant phy-
+siological response to a frustrating event. Following a 2-min baseline
+(CS baseline), mothers placed their infants in a car seat and stood 1 m
+away from their child. After 1 min of restraint (CS frustration), a 2-min
+recovery period (CS recovery) followed in which mothers were allowed
+to hold their child and interact as they normally would. Mothers were
+instructed to remain neutral and refrain from comforting or speaking to
+the child during the CS frustration episode.
+
+During the challenge episodes, infant distress (i.e., whining, fussing
+or crying) was coded by trained raters from videotaped recordings ac-
+cording to scales of
+the Mother Infant Coding System (Miller,
+McDonough, Rosenblum, & Sameroﬀ, 2002) for the SFP; the Lab-TAB
+coding system (Goldsmith & Rothbart, 1999) was used for the CS.
+During the SFP social stress and the CS frustration episodes respectively
+26.8% and 25.5% of the infants showed signs of distress.
+
+1.3. Measures
+
+1.3.1. Physiological measures
+
+Parasympathetic RSA and sympathetic PEP were monitored con-
+tinuously with the Vrije Universiteit Ambulatory Monitoring System
+(VU-AMS 5 fs; De Geus, Willemsen, Klaver, & Van Doornen, 1995;
+Willemsen, De Geus, Klaver, Van Doornen, & Carroll, 1996). The VU-
+AMS device continuously recorded electrocardiogram (ECG), and im-
+pedance cardiogram (ICG) measures; basal thorax impedance (Z0),
+changes in impedance (dZ), and the ﬁrst derivative of pulsatile changes
+in transthoracic impedance (dZ/dt). The ECG and dZ/dt signal were
+sampled at 1000 Hz, and the Z0 signal was sampled at 10 Hz. The
+VUDAMS software suite version 2.0 was used to extract mean values of
+heart rate (HR), RSA, and PEP across SFP baseline (2 min), SFP social
+stress (2 min), and SFP recovery (2 min), and CS baseline (2 min), CS
+frustration (1 min), and CS recovery (2 min).
+
+R-peaks in the ECG, scored by the software, were visually checked
+and adjusted manually when necessary. RSA was derived by the peak-
+trough method (De Geus et al., 1995; Grossman et al., 1990), which
+combined the respiration (obtained from ﬁltered [0.1–0.4 Hz] thoracic
+impedance signal) and inter beat interval (IBI) time series to calculate
+the shortest IBI during heart rate acceleration in the inspiration phase
+and the longest IBI during deceleration in the expiration phase (De Geus
+et al., 1995). RSA was deﬁned as the diﬀerence between the longest
+IBI’s during expiration and shortest IBI’s during inspiration. Automatic
+scoring of RSA was checked by visual inspection of the respiratory
+signal from the entire recording. RSA was not calculated if > 30% of
+the data in an episode were missing.
+
+PEP is the time interval between the onset of the ventricular de-
+polarization (Q-wave onset) and the onset of left ventricular ejection of
+blood into the aorta (B-point on the Dz/dt complex) (De Geus et al.,
+1995). Average dZ/dt waveforms were derived by the software. PEP
+was automatically scored from the Q-wave onset (opening of the aortic
+valve) on the ECG and the B-point on the dZ/dt waveform. Each au-
+tomated scoring was checked and corrected manually when necessary
+(Riese et al., 2003). In case waveforms were morphologically distorted
+in such a way that visual correction of automated scoring was not
+possible, these waveforms were discarded. The procedure of interactive
+visual scoring was done independently by two trained raters. Post-
+scoring, the raters chose a consensus for the points where their judg-
+ment did not overlap, and these were retained for analysis; inter-rater
+reliability (intraclass correlation, ICC) was 0.949.
+
+1.3.2. Cumulative risk
+
+During the third trimester of pregnancy (between 26 and 40 weeks
+gestation, M = 29.78, SD = 3.63), mothers were screened for the
+presence of risk factors (see for a more elaborate description of these
+criteria: Smaling et al., 2015; Suurland et al., 2016), including current
+psychiatric disorder(s) with the Dutch version of the Mini- International
+Neuropsychiatric Interview (MINI-plus; Van Vliet, Leroy, & Van Megen,
+2000), substance use (alcohol, tobacco and/or drugs) during preg-
+nancy, no secondary education, unemployment, self-reported ﬁnancial
+problems, limited or instable social support network, single status, and
+maternal age < 20 years. The cumulative risk score was computed as
+the sum of risk factors present (maximum number of risk factors was
+10), with M=0.67, SD=0.93 (range 0–3). There were 66 mothers with
+no risk factors, 25 with one risk factor, 15 with two risk factors, and 7
+with three risk factors. The prevalence of the diﬀerent risk factors
+among mothers with one or more risk factors (41.6%) was: 55.3%
+current psychiatric diagnosis, 4.3% alcohol, 44.7% smoking, 2.1%
+drugs, 10.6% single status, 10.6% unemployed, 4.3% no secondary
+education, 8.5% ﬁnancial problems, 8.5% limited social support, 14.9%
+age < 20 years.
+
+1.3.3. Maternal reports of physical aggression
+
+Mothers reported on their child’s physical aggression at 20 months
+using the 11-item Physical Aggression Scale for Early Childhood
+(PASEC; Alink et al., 2006). Mothers indicated whether their child had
+shown physically aggressive behaviors (e.g. ‘hits’, ‘kicks’, ‘destroying
+things’) in the past two months on a 3-point Likert scale (0 = ‘not’ true
+to 2 = ‘very true or often true'). A total score for physical aggression
+was calculated by summing item scores (range 0–22). Internal con-
+sistency (Cronbach’s alpha) was 0.73.
+
+1.4. Missing data
+
+Approximately 12% of ANS data were missing across the SFP and CS
+episodes. Missing data were due to dyads that did not complete the SFP
+or CS because the infant became too fussy (3.8%), loose electrodes
+(5.7%), equipment failure (1.9%), or excessive child movement in
+which case PEP and/or RSA could not be scored (88.6%). Missing data
+were not systematically related to demographic and obstetric variables
+(see variables listed in Table 1; ps > 0.250) or cumulative risk and
+physical aggression (ps > 0.250). Main analyses were conducted based
+on the number of infants for which there was data (see Supplementary
+Table 1 for available ANS data across SFP and CS episodes).
+
+1.5. Data analysis
+
+All variables were examined for outliers and violations of speciﬁc
+assumptions applying to the statistical tests used. Variables with values
+that exceeded > 3SD from the group mean were recoded to the next
+extreme value within 3SD from the mean (across all SFP and CS epi-
+sodes there were 14 outliers for RSA and two outliers for PEP). Because
+RSA was skewed at baseline, the emotional challenge tasks, and re-
+covery, its natural logarithm (lnRSA) was used in the analyses.
+
+Baseline levels of lnRSA and PEP were signiﬁcantly correlated with
+lnRSA and PEP challenge scores (rs = .27 to 0.84, ps < 0.001).
+Further, lnRSA and PEP challenge scores were signiﬁcantly correlated
+with lnRSA and PEP recovery scores (rs = .53 to 0.87, ps < 0.001). To
+control for initial levels of arousal, response and recovery variables for
+lnRSA and PEP were computed as standardized residualized change
+scores (Eisenberg et al., 2012; El-Sheikh et al., 2009). The standardized
+residualized change scores for response to challenge were obtained by
+regressing the challenge scores on the baseline levels and for recovery
+from challenge by regressing the recovery scores on the challenge
+scores. This was done separately for the SFP and the CS. The standar-
+dized residualized change scores for lnRSA and PEP during response
+and recovery on the SFP were signiﬁcantly correlated with the stan-
+dardized residualized change scores for lnRSA and PEP during response
+and recovery on the CS (rs = .24 to 0.28, with ps = 0.021 to 0.009).
+Therefore, the residualized change scores of lnRSA and PEP on the SFP
+and CS were averaged to create four indices: lnRSA response and PEP
+response (average SFP and CS) and lnRSA recovery and PEP recovery
+(average SFP and CS). Negative values reﬂect lnRSA and PEP decreases
+(i.e., greater PNS suppression and greater SNS activation respectively),
+while positive values reﬂect lnRSA and PEP increases (i.e., greater PNS
+activation and greater SNS suppression respectively).
+
+Preliminary analyses tested for potential covariates (demographic
+and obstetric characteristics). Hierarchical linear regression analyses
+were conducted to examine the interactive eﬀects of cumulative risk
+and ANS response and recovery on physical aggression. Two sets of
+regression analyses were conducted: (1) lnRSA and PEP response
+measures, and (2) lnRSA and PEP recovery measures. All variables were
+centered to their mean prior to analyses (Aiken & West, 1991). Step 1
+included cumulative risk, Step 2 included lnRSA and PEP, Step 3 in-
+cluded all two-way interactions between cumulative risk, lnRSA and
+PEP, and Step 4 included the three-way interaction between cumulative
+risk, lnRSA, and PEP. Signiﬁcant interaction eﬀects were examined
+following procedures recommended by Aiken and West (Aiken & West,
+1991) by plotting regression lines of the relation between cumulative
+risk and physical aggression at 0 risk factors and 1.6 risk factors (i.e.,
+mean number of risk factors for the group of infants with ≥1 risk
+factors) and 1 SD above and below the mean for the moderators (lnRSA
+response/lnRSA recovery, and PEP response/PEP recovery).
+
+The scores for the cumulative risk variable were skewed to the right,
+with 58% of the participants having no risk factors and 42% having one
+or more risk factors. Although the regression residuals did not show any
+skewing, we checked the consistency of our ﬁndings by conducting all
+regression analyses with the cumulative risk variable dichotomized at 0
+versus 1 or more risk factors. The results of these analyses did not
+change the pattern of ﬁndings (data not shown). We also tested whether
+the main and interactive eﬀects were moderated by sex. Because this
+was not the case, we do not report these ﬁndings. All analyses were
+conducted using the Statistical Package for Social Sciences (SPSS for
+Windows, version 21.0, SPSS Inc., Chicago).
+
+2. Results
+
+2.1. Descriptive analyses
+
+Descriptive statistics for lnRSA and PEP baseline, challenge episodes
+and recovery are presented in Supplementary Table 1. LnRSA and PEP
+response and recovery levels on the SFP and CS were signiﬁcantly
+diﬀerent from zero (t(105) = 4.33, p < 0.001 for lnRSA SFP response,
+t(97) = 3.68, p < 0.001 for
+t(91) = 2.56,
+p < 0.05 for PEP SFP response, t(87) = 2.87, p < 0.01 for PEP CS
+response, and t(82) = −2.28, p < 0.05 for PEP CS recovery), except
+for lnRSA CS response (t(98) = 0.23, p = 0.816), lnRSA SFP recovery (t
+(105) = −1.15, p = 0.140), and PEP SFP recovery t(87) = 0.14,
+p = 0.889.
+
+Averaged across the SFP and CS challenge episodes, 63% of the
+sample showed a decrease in lnRSA (i.e., PNS suppression) and 62%
+exhibited a decrease in PEP (i.e., SNS activation) from baseline.
+Averaged across the SFP and CS recovery episodes, 44.5% of the sample
+showed an increase in lnRSA (i.e., PNS activation) and 54.4% showed
+an increase in PEP (i.e., SNS suppression) from the challenge episode.
+Thus, there was suﬃcient variability in infant lnRSA and PEP response
+to and recovery from challenge.
+
+2.2. Preliminary analyses
+
+Means, SDs, and correlations for the potential covariates and main
+study variables are presented in Table 1. For interpretation purposes,
+lnRSA and PEP raw change scores are used for means and SDs in
+Table 1; however, as noted, residualized change scores are used in the
+correlation and regression analyses. The demographic characteristics
+(ethnicity, sex) and obstetric characteristics (gestational age, birth
+weight) were not signiﬁcantly related to the main study variables
+(ps > 0.05). Higher levels of cumulative risk were associated with
+higher physical aggression scores (r = 0.31, p < 0.01). Cumulative
+risk was not related to response and recovery measures of lnRSA and
+PEP.
+
+2.3. Hierarchical regression analyses
+
+2.3.1. LnRSA and PEP response
+
+Results of the hierarchical regression analysis for lnRSA and PEP
+response are shown in Table 2. There was a signiﬁcant main eﬀect of
+cumulative risk (b = 0.65, SE = 0.27, p < 0.05). Higher cumulative
+risk predicted higher levels of physical aggression. There were no sig-
+niﬁcant main eﬀects for lnRSA response or PEP response. There were no
+signiﬁcant two-way interaction eﬀects between cumulative risk, lnRSA
+and PEP on physical aggression. However, a signiﬁcant three-way in-
+teraction between cumulative risk x lnRSA response x PEP response was
+found (b = −1.23, SE = 0.53, p < 0.05), explaining 4.7% of the
+variance in physical aggression over and above the variance explained
+by cumulative risk, lnRSA and PEP response and all two-way interac-
+tions.
+
+Examination of simple slopes (see Fig. 1) revealed that for infants
+exhibiting coactivation (i.e., lnRSA response at 1 SD above the mean
+and PEP response at 1 SD below the mean) in response to challenge,
+higher cumulative risk predicted higher levels of physical aggression
+(β = 0.74, p < 0.001). Conversely, for infants exhibiting coinhibition,
+reciprocal PNS activation and reciprocal SNS activation in response to
+challenge, cumulative risk was unrelated to physical aggression
+(β = 0.34,
+and β = −0.02,
+p = 0.929 for respectively coinhibition, reciprocal PNS activation and
+reciprocal SNS activation).
+
+p = 0.199, β = −0.05,
+
+p = 0.836,
+
+2.3.2. LnRSA and PEP recovery
+
+Results of the hierarchical regression analysis for lnRSA and PEP
+recovery are shown in Table 2. The main eﬀect for cumulative risk was
+the same as in the hierarchical regression analysis for lnRSA and PEP
+response. There were no signiﬁcant main eﬀects for lnRSA recovery or
+PEP recovery, and none of two-way or three-way interactions were
+signiﬁcant.
+
+<Conclusion> Discussion.
+Our ﬁndings showed that higher levels of coactivation of the PNS
+and SNS, as reﬂected in RSA increases and PEP decreases in response to
+stress, at 6 months increase vulnerability for physical aggression at 20
+months, but only in the presence of higher levels of cumulative prenatal
+risk. Cumulative risk was not associated with physical aggression for
+infants who exhibited reciprocal PNS activation, reciprocal SNS acti-
+vation or coinhibition in response to stress. We found no eﬀects for PNS
+and SNS recovery from stress.
+
+In previous studies, coactivation has been found to operate as a
+vulnerability factor for aggressive behavior and externalizing behavior
+problems in school-aged children exposed to adversity (e.g. marital
+conﬂict and maltreatment; El-Sheikh et al., 2009; Gordis et al., 2010).
+Our results extend these ﬁndings and indicate that coactivation of the
+PNS and SNS as represented by RSA and PEP at six months of age
+predicts physical aggression more than a year later. In fact, physical
+aggression scores for children exposed to a higher level of prenatal risk
+and exhibiting coactivation, were more than one standard deviation
+above the mean physical aggression scores reported in an community
+sample of 24-month old children (Alink et al., 2006).
+
+Coactivation of the PNS and SNS indicates that both branches of the
+ANS are activated, and this may yield an ambivalent physiological re-
+sponse in which one branch increases arousal whereas the other branch
+dampens it (Berntson et al., 1991). Salomon et al. (2000) found that
+children exhibiting coactivation produced smaller changes in HR in
+response to challenge than children exhibiting reciprocal SNS activa-
+tion. Although both coactivators and reciprocal SNS responders acti-
+vated the SNS, PNS activation buﬀered the HR response of coactivators,
+such that these children had the lowest HR reactivity. In situations
+without challenge or stress, coactivation of the PNS and SNS may op-
+erate to preserve the baseline functional state of an organ or system
+(Berntson et al., 1991). The results of our study suggest that coactiva-
+tion, as reﬂected in RSA increases and PEP decreases in response to
+challenge reﬂects a maladaptive ANS response and is linked to poorer
+developmental outcome. These results support previous ﬁndings that
+PNS activation (i.e., RSA increase) in response to stress is associated
+with impaired emotion regulation (e.g. Suurland et al., 2016). In case of
+increases in RSA accompanied by decreases in PEP in response to stress.
+the PNS continues to exert its inhibitory inﬂuence on the SNS and sti-
+mulates the body into a calm state, thereby prohibiting an active stress
+response. Interpreted within the framework of biological susceptibility
+to context (Boyce & Ellis, 2005), this pattern of stress responsivity may
+reﬂect infants’ conditional adaptation to a stressful prenatal and early
+postnatal environment. Moreover, in adverse early postnatal environ-
+ments patterns of coactivation may lead to consolidation of less adap-
+tive emotion regulation strategies contributing to higher levels of ag-
+gression, even more so because in these environments it may be more
+adaptive for children to act aggressively (i.e., to get what they want, or
+to get attention from others).
+
+The current study did not provide empirical support for previous
+ﬁndings indicating that coinhibition of the PNS and SNS, as reﬂected by
+RSA decreases and PEP increases, also acts as a vulnerability factor for
+externalizing behavior problems (El-Sheikh et al., 2009; Gordis et al.,
+2010). It should be noted that these results were obtained in older
+children exposed to adversity compared to the infants/toddlers in our
+study. It is possible that coinhibition acts as a biomarker for aggression
+only later in development, for example after more prolonged exposure
+to adverse, threatening or stressful situations.
+Contrary to our expectations, RSA and PEP recovery did not mod-
+erate the impact of prenatal adversity on physical aggression. It is
+possible that for the majority of infants the recovery period was not
+long enough to recover from the emotional challenge/stress.
+Consequently, variance in the RSA and PEP recovery variables was
+insuﬃcient to reveal eﬀects on physical aggression. The SFP showed no
+RSA and PEP recovery, whilst the CS showed a decrease in RSA and an
+increases in PEP upon recovery, indicating SNS recovery but no PNS
+recovery on the CS. Few studies to date have addressed ANS recovery
+from stress (see El-Sheikh & Erath, 2011). One study in adolescents
+linked blunted SNS recovery to more antisocial behavior (Sijtsema, Van
+Roon, Groot, & Riese, 2015). Another study in 4–7 year-old children
+showed that lower vagal recovery was associated with maladaptive
+emotion regulation strategies to frustration (Santucci et al., 2008). To
+our knowledge, no other previous studies have examined the associa-
+tion between ANS recovery and outcome in young children, underlining
+the importance of studying ANS recovery measures in future research.
+Recent literature has suggested that measures of heart rate varia-
+bility (HRV), including RSA, should be considered together with, or
+adjusted for, HR because of signiﬁcant overlap between measures of
+HRV and HR (e.g. Monfredi et al., 2014). There is no consensus as yet
+on whether HR corrections should be applied or not. Some researchers
+have noted that correcting HRV measures for HR may be especially
+important in study populations of young children with a large age range
+in which growth is likely to have a substantial impact on structural and
+morphological changes of the heart (Herzig et al., 2017). We in-
+vestigated the relation between HR and RSA in our study in additional
+analyses reported in the Supplementary materials. In line with Herzig
+et al. (2017), we found a strong and signiﬁcant linear correlation be-
+tween HR and RSA in response to and during recovery from stress.
+However, adjusting for HR in the regression models did not aﬀect our
+results, which is consistent with the restricted age range of our study
+population. In addition, physical aggression could not be predicted
+from the interaction between cumulative risk and HR alone, suggesting
+that it is important to examine speciﬁc indicators of PNS and SNS ac-
+tivity and their interaction with cumulative risk in order to gain more
+insight into which children are more at risk of developing physical
+aggression.
+
+The ﬁndings of this study provide insight into the mechanisms by
+which prenatal adversity interacts with biological susceptibilities to
+explain early aggression. However, it is unknown to which extent early
+adversity has already exerted its inﬂuence on the ANS earlier in de-
+velopment, in utero and the ﬁrst six months of life, and thus inﬂuenced
+this early biological susceptibility for aggression. In the present study,
+cumulative risk was not related to RSA and PEP activity. However, as
+noted by Boyce (Boyce, 2016), biology x environment interactions are
+probably ‘both the originating source and the functional mechanism’ of
+biological susceptibility to early environments. Future studies should
+therefore consider both mediating and moderating processes in the
+study of early adversity, biology and developmental outcomes.
+
+Although this study has some important strengths, including the
+longitudinal design, the use of speciﬁc measures of both PNS and SNS
+activity, and two diﬀerent stress tasks, there are also limitations that
+should be discussed. First, the range of cumulative risk was somewhat
+restricted, with 42% having one or more risk factors, but only 6%
+having three risk factors, which may limit the generalizability of our
+results to samples with higher levels of risk. Another limitation is the
+reliance on maternal reports of physical aggression. Although the
+PASEC has shown suﬃcient validity and reliability in earlier studies,
+future studies should use multiple informants and methods including
+behavioral observations of early physical aggression.
+
+The ﬁrst signs of aggression can already be observed in the ﬁrst year
+of life (Hay et al., 2011). Although higher rates of aggression are
+common around age two (Alink et al., 2006), children who show high
+levels of aggression as toddlers are at risk for severe and persistent
+aggressiveness over the course of childhood (Côté et al., 2006; NICHD
+Early Child Care Research Network, 2004). Understanding the biolo-
+gical mechanisms underlying the earliest forms of aggression is of cri-
+tical importance, particularly because the ANS still undergoes strong
+development in the ﬁrst years of life, which may also render it more
+malleable and a good target for intervention programs (Beauchaine
+et al., 2008). Our ﬁndings underline the importance of studying pat-
+terns of stress reactivity across systems, speciﬁcally their interplay, in
+interaction with adversity during the prenatal period. The results of this
+study show that coactivation of the PNS and SNS in response to stress
+may be a biological marker that, already by 6 months of age, increases
+vulnerability for aggression during toddlerhood. Future studies of how
+patterns of coactivation develop and whether these can be inﬂuenced
+by intervention are necessary.
+
+Acknowledgements

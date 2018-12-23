@@ -1,0 +1,480 @@
+ 
+Investors, preparers, regulators, and standard setters have expressed concern that corporate disclosure has become longer, 
+more redundant, less readable, less speciﬁc, and more boilerplate over time ( Li, 2008; KPMG, 2011; SEC, 2013 ).  In 2013, the 
+SEC began a comprehensive review of regulation with the intent of identifying excessive, unduly complex, and redundant 
+disclosure ( SEC, 2013 ).  Similarly, the FASB has an ongoing agenda project, the Disclosure Framework, evaluating the effectiveness of textual disclosure ( FASB, 2012 ).  A variety of explanations have been offered for why disclosure might be changing 
+over time including increases in litigation concerns, business complexity, globalization, regulation, and new mandatory disclosures ( KPMG, 2011; SEC, 2013; Monga and Chasan, 2015 ).  In this paper we quantify a variety of 10-K disclosure attributes 
+and provide initial descriptive evidence on trends in these attributes over time.  
+While there is a substantial academic literature on trends in the characteristics of quantitative accounting data (particuthe magnitude, economic determinants, speciﬁc content, and attributes of trends 
+larly earnings and book value) over time, 
+in textual disclosure have received less attention.  At least in part, this likely reﬂects the challenge in assessing the content 
+of 10-K textual disclosure and in categorizing and quantifying disclosure for a large number of lengthy, complex documents, 
+especially given that disclosure of a given topic often appears in multiple sections of the 10-K and any given passage often 
+combines multiple topics.  
+In many ways, the issues in assessing 10-K content are similar to those faced in other literatures.  For example, researchers 
+in journalism have been interested in trends in coverage of the New York Times ( Blei, 2012 ), those in literature in understanding topical trends in poetry ( Rhody, 2012 ), in politics understanding trends in Senate discourse ( Grimmer, 2010 ), in 
+history understanding historical trends using the content of State Department cables ( Chaney Name, 2015 ), and in science 
+understanding topical trends in journals such as Science ( Blei and Lafferty, 2007 ).  In all of these domains, the challenge is 
+in analyzing trends in corpuses far too large for humans to manually review and to summarize them in a way that is easily 
+interpretable.  
+Following that literature, we use a natural language processing technique, Latent Dirichlet Allocation (LDA), to understand the changing content of 10-Ks.  3 LDA is a Bayesian computational linguistic technique that identifies the latent topics in a corpus of documents.  4 It is well suited to understanding the text of the 10-K because it permits analysis of the topical content of a large group of lengthy documents over time in an objective and replicable matter and relies on a very limited set of assumptions that are likely to be met in 10-K disclosure.  Further, it is specifically designed to infer proportions of content for documents which contain multiple topics, even if the topics are entangled, which is important given that 10-Ks comprise a large number of interspersed topics.  5 It permits the proportion of the 10-K related to each topic to vary across documents so it is well-suited to examining topical trends in textual disclosure.  As a result, we can deconstruct the 10-K by topic irrespective of whether topics appear in, for example, the footnotes, risk factors, or Management’s Discussion and Analysis (MD&A).  We can then assess trends in the discussion of topics over time and relate them to changes in specific disclosure requirements (e. g. , new FASB standards, SEC requirements, and regulatory events such as SOX) and other events (e. g. , changes in litigation risk, mergers and acquisitions, etc. ). 
+Additionally, once the topic model is trained, it permits us to identify paragraphs by topic, so that we can track where 
+speciﬁc topics occur within the 10-K.  This allows us to identify the extent to which, for example, FASB requirements (e. g. , 
+footnotes) create redundancy with SEC requirements (e. g. , risk factors and MD&A) by highlighting which topics tend to 
+be redundant within the 10-K as well as across time and across ﬁrms.  Similarly, by accumulating text within a topic, we 
+can identify the topical sources of textual attributes that prior literature suggests may be important such as boilerplate, 
+redundancy, stickiness, and lack of speciﬁcity.  
+In our empirical analysis, we examine the text of 10-Ks for 10,452 ﬁrms and 75,991 ﬁrm-years over the period 1996 
+to 2013.  We begin by documenting trends in textual characteristics that have been identiﬁed by prior research as potentially affecting the informativeness of disclosure, including length ( Loughran and McDonald, 2014 ), readability ( Miller, 2010 ), 
+boilerplate ( Lang and Stice-Lawrence, 2015 ), redundancy ( Cazier and Pfeiffer, 2015b ), speciﬁcity ( Hope Name, 2016 ), stickiness  ( Brown  and  Tucker,  2011 ),  and  the  relative  prevalence  of  informative  numbers  in  the  text  or  “hard” information 
+( Blankespoor, 2016 ).  
+We document clear and consistent trends across all measures.  Median text length doubled from 23,0 0 0 words in 1996 to 
+nearly 50,0 0 0 in 2013, while redundancy, boilerplate, and stickiness increased nearly monotonically and readability, speciﬁcity, and the relative mix of hard information showed clear decreases.  Given these trends, we next investigate their topical 
+sources.  
+Prior literature (e. g. , Cazier and Pfeiffer, 2015b ) suggests that variables such as size, industry-composition, complexity, 
+one-time events, litigation, and SEC oversight affect textual attributes such as length and readability in the cross section.  
+Consistent with assertions by commentators such as Monga and Chasan (2015) , it could be the case that those factors also 
+change in the time series in ways that explain trends in textual attributes.  We examine textual attributes after controlling 
+for a wide variety of company-level variables suggested by the prior literature and for a constant sample of ﬁrms, but similar 
+patterns persist.  While those variables are signiﬁcant cross-sectional determinants of textual attributes, including them in a 
+regression framework does not explain the trend in disclosure characteristics over time.  
+Given that readily observable ﬁrm-level attributes do not explain the trends we observe, we use LDA to examine the 
+topical content and characteristics of the additional disclosure.  Our analysis suggests that the corpus of 10-Ks comprises 150 
+topics, which we aggregate into 13 broader categories for ease of discussion.  The four categories which account for the bulk 
+of 10-K length are Performance; Compliance with speciﬁc accounting and disclosure standards; Industry-Speciﬁc disclosure; 
+and Employee-Related disclosure.  However, only disclosure related to Compliance with speciﬁc accounting and disclosure 
+standards increased substantially over time.  Within this category, three topics explain the vast majority of the increase: fair 
+value and impairment disclosure, discussion of internal controls, and risk factor disclosure.  
+To ensure that we have accurately identiﬁed the content of these three topics, we demonstrate that they are associated 
+as expected with underlying economic attributes (special items, internal control weaknesses, and return variability).  Then, 
+we examine patterns in disclosure around the events that should have increased disclosure of these topics (implementation 
+of SFAS 157, Sarbanes-Oxley (SOX), and Item 1A).  We document sharp increases in the length of these three topics in the 
+years in which their associated standards were implemented, consistent with the LDA topics effectively capturing disclosure 
+in response to standards.  Disclosure associated with these topics is not limited to a single section of the annual report but 
+Similarly, the pattern in disclosure length for these three topics largely explains 
+extends across all of the major sections.  
+the increase in disclosure length for the 10-K as a whole.  
+In our third set of analyses, we link topical disclosure at the paragraph level, in particular that relating to the three major 
+increasing topics, to other textual attributes of the 10-K.  We demonstrate that fair value/impairment, risk factor, and internal 
+control disclosure tend to have relatively high levels of redundancy, stickiness, and boilerplate, and low levels of readability, 
+speciﬁcity, and hard information.  Further analyses indicate that the increasing prevalence of these three topics contributed 
+signiﬁcantly to the overall increases in redundancy, stickiness, and boilerplate, and the decreases in readability, speciﬁcity, 
+and the mix of hard information.  
+Finally, we examine cross-sectional variation in fair value, internal control, and risk factor disclosures.  We document 
+consistent patterns of increased length associated with these topics for disparate subsamples of ﬁrms suggesting that ﬁrms 
+signiﬁcantly increased disclosure length even when the additional disclosure may not have been as relevant.  Further, we 
+ﬁnd that ﬁrms for which the requirements were potentially less relevant often responded by providing disclosure that was 
+particularly high in boilerplate, redundancy, complexity, and stickiness, and lacking in hard information, although less so for 
+fair values where ﬁrms appear to have exercised more ﬂexibility to tailor disclosure based on materiality.  
+Overall, our evidence identiﬁes clear trends in textual attributes and suggests that a substantial portion can be explained 
+by disclosure in response to recent regulatory changes.  While the fact that disclosure associated with new requirements 
+increased over time is not in and of itself surprising, our results provide several potential contributions.  First, we believe it is 
+important to quantify the extent to which attributes of 10-K textual disclosure have, in fact, changed over time and attempt 
+to distinguish among various explanations.  While the three primary disclosure topics that we identify are logical candidates 
+to explain the increase in 10-K disclosure length over time, it is noteworthy that they explain such a large proportion of the 
+overall increase in length, as well as in other attributes such as complexity, redundancy, boilerplate, stickiness and lack of 
+speciﬁcity.  In contrast, economic factors from the prior literature (e. g. , litigation risk, business complexity, and globalization) 
+and the wide variety of other new requirements that were enacted during the sample period have limited ability to explain 
+the disclosure trends that we document.  
+Second, we develop and demonstrate the value of natural language processing techniques such as LDA in understanding 
+trends in the underlying content of textual disclosure.  To our knowledge, ours is the ﬁrst research to focus directly on 
+trends in 10-K content over time, and we believe that LDA has the potential to be a powerful tool for understanding trends 
+in the content of ﬁnancial text because it provides an approach for evaluating topical coverage for large samples of lengthy 
+documents on a consistent and objective basis over time.  While summary quantitative measures such as length, redundancy, 
+and readability are useful in providing aggregate characterizations of the accessibility and informativeness of documents, 
+it is important to develop techniques that permit insight into the underlying content of disclosure in order to make these 
+attributes interpretable.  LDA permits the researcher to identify speciﬁc disclosure topics, highlight trends, isolate causes, and 
+evaluate potential economic outcomes.  Beyond 10-Ks, LDA has the potential to provide insight into trends in the content of 
+other disclosures such as press releases, SEC speeches, conference calls, and articles in the business press.  
+Third, we use LDA to link speciﬁc topics to textual characteristics of annual reports that have been studied in prior 
+research, providing a mechanism to assess their topical content, and provide systematic evidence across a number of dimensions on the trends in these characteristics.  This is especially important given that prior literature focuses on textual 
+outcomes at an aggregate level and generally does not incorporate the fact that discussions of different topics will have different textual attributes.  LDA provides the opportunity to reinterpret the existing literature on outcomes of these attributes 
+factoring in the actual content of the discussion to which they relate.  
+This research is subject to important caveats.  First, topics from LDA (much like factors in factor analysis) require interpretation by the researcher.  As discussed in the research design section, we follow the prior computational linguistics literature 
+in identifying the appropriate number of topics.  In addition, we review the word lists and read representative paragraphs 
+for each topic to ensure the content matches the label and investigate the timing of changes in major topics around regulatory changes to ensure they behave as expected.  As a result, we are conﬁdent that our interpretations are reasonable and 
+consistent with the behavior of the topics in our corpus.  
+Second, our results are descriptive and do not allow us to draw normative conclusions.  
+We focus on a set of textual attributes that academic research, regulators, and investors suggest may be important attributes of disclosure.  However, we 
+acknowledge the limitations of these textual measures to capture meaningful aspects of disclosure in the speciﬁc context of 
+10-Ks, especially for sophisticated ﬁnancial statement users.  Closely related, while the textual attributes we consider have 
+been linked to various aspects of informativeness in prior research using aggregate 10-K text, it is possible that those results 
+do not apply to speciﬁc topics we consider.  
+2.  Background and related research. 
+As noted above, ﬁnancial reporting research has traditionally focused on quantitative data, particularly summary statistics such as net income and shareholders’ equity, reﬂecting in large part the relative ease of assessing associations between 
+quantitative data, coupled with an inherent assumption of unlimited information-processing capacity on the part of investors (see, for example, the papers cited in Footnote 1).  More recently, researchers have begun to explore determinants 
+of textual attributes of the 10-K.  While prior studies focus on cross-sectional determinants of textual characteristics, our  
+results suggest that those factors have limited ability to explain trends in reporting over time.  
+In  our  analysis  we  focus  on  a  broad  set  of  textual  attributes:  length,  readability,  redundancy,  boilerplate,  speciﬁcity, 
+stickiness, and the number of numbers in the text relative to the number of words (which we refer to as the relative mix of 
+hard and soft information).  We examine multiple characteristics because no single attribute can conceptually or empirically 
+capture all aspects of disclosure that are relevant to ﬁnancial statement users.  We are guided by attributes that have been 
+studied in the prior academic literature.  We acknowledge that the interpretation of these textual attributes is limited by the 
+fact that we do not directly measure the usefulness of the actual disclosure content, that different users (e. g. , sophisticated 
+and unsophisticated investors) may be affected by the same attributes differently, and that different types of information 
+may lend themselves to disclosure with different attributes (e. g. , some topics may lend themselves to disclosure which is 
+more redundant, boilerplate, or expressed in longer sentences).  To our knowledge, ours is the ﬁrst academic paper to focus 
+on identifying the magnitude, content, and causes of time trends in textual disclosure, although these trends have received 
+substantial attention by practitioners.  
+First, prior literature in academia and practice has discussed effects of less readable and lengthy disclosure, sometimes 
+referred to as disclosure “overload” ( KPMG, 2011 ).  Similar to the incomplete revelation hypothesis in Bloomﬁeld (2002) in 
+which statistics that are costly to extract are not fully incorporated into price, these attributes have been shown to decrease 
+information impounded at the time of the ﬁling and increase subsequent price drift ( Lee, 2012; You and Zhang, 2009 ).  
+Similarly, redundancy of disclosure within a document, re-use of the same ﬁrm’s disclosure from a prior period (disclosure “stickiness”), and generic and standardized disclosure (often referred to as “boilerplate”) are all discussed by the FASB 
+in its invitation to comment on the disclosure framework project ( FASB, 2012 ), and the SEC has urged ﬁrms to evaluate 
+boilerplate disclosure and indicated that redundancies between FASB and SEC disclosure requirements will be a focus going 
+forward ( Higgins, 2014; SEC, 1998, 2013 ).  Cazier and Pfeiffer (2015b) show that redundant disclosure leads to less eﬃcient 
+price discovery, while Brown and Tucker (2011) ﬁnd that MD&As that are updated less over time (“sticky” disclosures) have 
+muted stock price responses.  Lang and Stice-Lawrence (2015) empirically link the use of boilerplate to decreased liquidity, 
+analyst following, and institutional ownership for an international sample.  
+Lastly,  we  examine  the  speciﬁcity  of  disclosure  and  the  relative  amount  of  hard  information.   Regulators  have  expressed concern that textual disclosure has become increasingly vague and less likely to be supported by quantitative data 
+( SEC, 1998 ).  To capture this, we calculate speciﬁcity as how often the text refers to speciﬁc people, places, organizations, 
+times, or numbers.  Hope Name (2016) show that more speciﬁc risk disclosures lead to greater market reactions and better 
+risk assessments by analysts.  To measure the extent to which narrative disclosure is supported by quantitative data (the relative mix of hard and soft information), we measure the number of informative numbers in the 10-K (i. e. , excluding dates and 
+section numbers) relative to the total number of words.  This gives a sense of the quantitative density of disclosure, because 
+text that contains numbers is more veriﬁable and precise than general descriptions of topics.  Blankespoor (2016) documents 
+an increase in quantitative disclosure after the introduction of XBRL, consistent with ﬁrms providing more quantitative data 
+when users’ processing costs decrease.  
+We use LDA to identify notable changes in disclosure content over our period and the extent to which changes in topical 
+content inﬂuence trends in each of these disclosure attributes.  As noted earlier, LDA has been used in many other literatures; however, it has only recently been used in accounting and ﬁnance.  For example, Huang Name (2016) employ LDA to 
+examine differences between the topics discussed in conference calls and analyst reports, Hoberg and Lewis (2017) use LDA 
+to examine the content of a ﬁrm’s MD&A in years surrounding fraud, and Ball Name (2015) use LDA to identify topics within 
+MD&A.  While the prior literature conﬁrms that LDA has the potential to organize textual disclosure for numerical analysis, 
+it has not, to our knowledge, been applied to understanding trends in 10-K disclosure or to identifying the topical sources 
+of constructs such as length, readability, redundancy, speciﬁcity, boilerplate, stickiness, or the mix of hard information.  
+<Middle> Data. 
+We generate a database of text using SEC 10-K ﬁlings spanning the years 1996 to 2013.  
+Control variables in our reported 
+analyses are obtained from CRSP and Compustat.  Following Loughran and McDonald (2014) we remove ﬁrms with negative 
+market-to-book ratios.  The intersection of our data constraints results in a sample of 10,452 ﬁrms and 75,991 ﬁrm-years.  
+Deﬁnitions for all of our variables are included in the Appendix .  
+Table 1 provides descriptive sample statistics.  The median ﬁrm included 37,370 words in their annual report.  Based on 
+the Fog index, reading and comprehending the median annual report requires approximately 21. 21 years of formal education.  
+The median annual report has 2276 words (6% of the 10-K for the median ﬁrm) in sentences that are repeated verbatim 
+throughout the annual report, 10,882 words (29%) in sentences containing boilerplate phrases, and 22,500 words (67%) in 
+12 Median levels of Speciﬁcity and HardInfoMix of 50. 75 and 17. 93 indicate that the 
+sentences containing “sticky” phrases.  
+median 10-K includes about 51 and 18 speciﬁc terms and informative numbers, respectively, for every 10 0 0 words of text.  
+Lastly, approximately 77% of the sample ﬁrms are audited by a Big “N” auditor, and 31% report a loss.  
+Fig.  1 provides initial evidence on trends in reporting over our sample period, including length, readability, redundancy, 
+boilerplate, stickiness, speciﬁcity, and the mix of hard information.  Perhaps most prominent and relevant for our purposes 
+is the increase in length depicted in Fig.  1 Panel A and the near monotonicity of this increase.  While there is some evidence 
+of larger increases around SOX in the early 20 0 0s and the ﬁnancial crisis, especially for ﬁrms in the 75th percentile, the 
+increase for the median ﬁrm has been remarkably continuous.  The number of words for the median ﬁrm increased from 
+about 23,0 0 0 in 1996 to almost 50,0 0 0 in 2013.  
+In terms of other attributes, the pattern for redundant words in Fig.  1 Panel B is similarly conspicuous, with the median 
+13 Fig.  1 Panels C and D suggest 
+ﬁrm increasing from 800 words in redundant sentences in 1996 to almost 3300 in 2013.  
+similar upward trends in the amount of boilerplate and stickiness, with both tripling over time, indicating an increasing 
+tendency for ﬁrms to repeat disclosure from year to year and to use generic disclosure.  On the other hand, readability 
+for the median ﬁrm decreased monotonically over the twelve years since 20 0 0, following an increase between 1998 and 
+14 Results in Panels E and F also suggest clear 
+20 0 0 that was likely a result of the SEC’s plain English requirements in 1998.  
+decreases in other attributes of informative disclosure, with speciﬁcity and the relative mix of hard information exhibiting 
+nearly monotonic decreases over the period.  
+The preceding analysis is descriptive, but it provides strong initial evidence that trends in textual disclosure have been 
+systematic and that attributes which prior research suggests have the potential to reduce the informativeness of disclosure 
+have increased, while those which prior research suggests may enhance informativeness have decreased.  Further, the consistency in trends among the attributes suggests the possibility that the same underlying factors may be driving the series.  
+In the next section, we examine the extent to which determinants previously used to explain cross-sectional variation in 
+textual attributes explain the trends that we observe.  
+4.  Why have textual attributes changed over time.  
+There are several potential explanations for the changes in 10-K characteristics over time.  First, they might reﬂect a 
+change in sample composition if, for example, more ﬁrms with intangible assets (and potentially lengthier and more complex corresponding disclosure) began trading publicly during the sample period.  
+However, untabulated analysis indicates  that all seven of our attributes continue to trend very similarly for a constant sample.  
+Alternatively, some practitioners have suggested that changes in 10-K disclosure over time may be the result of changes 
+in the economic fundamentals of ﬁrms ( Monga and Chasan, 2015; FASB, 2012; SEC, 2013 ).  For example, factors such as 
+business complexity, leverage, size, auditor, and proﬁtability have been shown to be important cross-sectional determinants 
+of textual attributes ( Cazier and Pfeiffer, 2015a,b; Li, 2008 ).  In Table 2 we report results for regressions where we explain 
+our textual outcomes using variables such as size, auditor, NYSE membership, complexity in terms of numbers of business 
+segments or operating segments, market-to-book ratio, leverage, intangibles, and losses.  Although we do not discuss all 
+of  the  coeﬃcients  in  this  table  for  parsimony,  results  are  generally  consistent  with  expectations.   Length  increases  with 
+size, complexity, Big-N auditor, market-to-book, leverage, and losses.  Firms reporting losses tend to have vague and “foggy”
+discussions (lower readability, speciﬁcity, and hard information mix), consistent with the obfuscation hypothesis in Li (2008) .  
+However, the Trend variable remains strongly signiﬁcant for all of the textual attributes.  
+The preceding analysis suggests that disclosure attributes are inﬂuenced by ﬁrm-speciﬁc variables in predictable ways.  
+However, the trends remain signiﬁcant after controlling for these variables.  Another possibility is that the change in overall 
+length is driven by increases in speciﬁc sections of the 10-K due to changes in disclosure requirements by either the SEC or 
+the FASB ( KPMG, 2011; White, 2013 ).  
+Fig.  2 plots the median length for sections of the 10-K.  Of the eleven sections, three make up about 90% of the total text 
+in the most recent year: Sections 1 and 2 (Business and Property Descriptions), Section 7 (Management’s Discussion and 
+Analysis), and Section 8 (Financial Statements and Footnotes).  Sections 1 , 2 and 7 reﬂect SEC requirements and Section 8 reﬂects FASB standards.  Most noticeable from Fig.  2 is the fact that the length of each of the major sections has increased 
+substantially and at roughly the same rate over time.  As a consequence, the proportion of the 10-K in each section has 
+remained similar over time, with Sections 1 and 2 comprising 36% of the total in 1996 as compared with 35% in 2013, 
+Section 7 comprising 21% in 1996 vs.  25% in 2013, and Section 8 comprising 30% in both 1996 and 2013.  We ﬁnd similar 
+results when we examine the rest of our textual attributes at the section-level (untabulated for parsimony), with the textual 
+attributes trending within all of the major sections and the relative contribution of the major sections to overall attributes 
+remaining relatively constant over time.  Thus while changes to disclosure standards may be important determinants of overall changes in 10-K disclosure, these results suggest that overall changes in disclosure do not reﬂect requirements that are 
+unique to a speciﬁc section but rather reﬂect content that spans multiple sections, including sections under the purviews of 
+both the FASB and SEC.  
+The preceding analyses suggest that ﬁrm-level determinants from prior research and speciﬁc sections of the 10-K do not 
+fully explain the trends in textual disclosure.  In the next section we use LDA to identify the topical content of the disclosure 
+and, most importantly, to quantify the topics that account for the bulk of the changes in overall length that we observe.  
+This more nuanced analysis at the topic level allows us to study drivers of trends in a more detailed way than is possible 
+from analyzing text at the document- or even the section-level.  
+5.  Using LDA to explain the change in 10-K length. 
+LDA is an unsupervised Bayesian machine-learning approach developed by Blei Name (2003) to identify the topics contained in a large corpus of text.  LDA uses the probability of words co-occurring within documents to identify sets of topics 
+and their associated words and is conceptually similar to factor analysis, where the model produces topics instead of factors.  As in factor analysis, the computer identiﬁes the words associated with a topic and the researchers assign a label to 
+the topic based on their assessment of the likely content given the set of words and their probabilities.  LDA is particularly 
+useful in our setting because it allows us to identify the mix of topics in the overall 10-K and within each section, even 
+though multiple topics may be interwoven in any given section and any individual topic may occur in multiple sections.  
+This allows us to identify the topics contained in each 10-K and trends in their proportions over time.  
+As noted earlier, LDA has been used in a variety of contexts to investigate trends in the content of textual disclosure over 
+time and is designed to analyze large numbers of documents, each of which potentially contains multiple latent topics (e. g. , 
+the New York Times , French poetry, or State Department cables).  It makes a minimal number of assumptions that are likely 
+to be at least approximately met in 10-K disclosure.  First, it assumes that the overall corpus of documents contains a ﬁnite 
+number of topics, implying that every document consists of a mix of those topics.  With input from the researcher, LDA helps 
+to estimate the number of topics in the overall corpus (in our case 150 topics) as well as the proportion of each topic in each 
+document (the proportion can vary across documents or over time, and not every document need contain every topic).  
+Second, LDA assumes that speciﬁc words appear with different frequencies across topics.  LDA estimates the frequency of 
+each word within a topic (a given word may appear across multiple topics with different frequencies and not every word 
+need appear in every topic).  As a result, the output from applying LDA to the population of 10-Ks is the proportion of each 
+of the 150 topics that appears in each 10-K (e. g. , a given 10-K might be 1. 5% about Pensions), and the relative weights of 
+words in each topic (e. g. , the word “actuarial” might be 10 times more likely to occur in the Pension topic than the word 
+“derivative”).  While the researcher helps to determine the number of topics that are generated by the model (in our case 
+150), that choice is guided by a speciﬁc methodology discussed below.  We use the MALLET software developed by McCallum 
+(2002 ) to apply LDA to our sample and generate topics for our document collection using collapsed Gibbs sampling.  
+Because LDA is an unsupervised method, it is replicable and free of researcher bias.  However, because the topics can 
+sometimes be diﬃcult to interpret, it is important that the researchers help to select the number of topics generated by 
+the model.  Following prior literature, we use a variety of criteria to ensure that we identify the appropriate number of 
+interpretable topics.  First, as proposed in Blei Name (2003) , we measure the “perplexity” of the topic model (deﬁned more 
+formally in the Appendix ) for topic models with between 10 and 400 topics and observe that perplexity begins leveling off
+at 150 topics.  Because lower perplexity indicates that the model is a better ﬁt for the observed data, this indicates that the 
+model performance gains relatively little from increasing the number of topics after that point.  
+Although perplexity is a good general guide, and lower perplexity will always lead to models with at least marginally 
+better ﬁt relative to held-out data, the increase in ﬁt is sometimes at the expense of interpretability due to overﬁtting.  
+Chang Name (2009) discuss how increasing the number of topics to produce ever ﬁner partitions can make the model less 
+useful because it becomes almost impossible for humans to differentiate between many of the topics.  They propose a task in 
+which the overall interpretability of a particular LDA model is measured by how often a human coder agrees with the topics 
+chosen using the model.  We perform this “word intrusion” task by providing research assistants with sets of six words, ﬁve 
+of which the computer suggests belong in the same topic and a sixth which appears commonly in 10-Ks but which the 
+model did not assign to that topic (an “intruder” word).  The extent to which the human coder agrees with the computer 
+on the assignment of words to a topic is a measure of the effectiveness of the technique in capturing meaningful topics.  
+We perform this word intrusion task for topic models of 150, 200, and 250 topics (more details in the Appendix ) and ﬁnd 
+that the 150-topic model has the best interpretability (i. e. , the fewest disagreements between the LDA model and human 
+coders).  As a consequence, we use LDA topics from the 150-topic model.  
+Because it is diﬃcult to present details on 150 topics concisely, in our initial analyses we manually group each of the 
+LDA topics into thirteen broad categories.  To form these categories, two individuals with ﬁnancial backgrounds (one MBA 
+student with work experience in banking and one of the authors) independently evaluated each of the 150 topic word lists 
+19  Category labels are for parsimony and ease 
+and determined the best ﬁt of each topic into broader category groupings.  
+of interpretation and do not affect the statistical analysis.  The Internet Appendix includes the full list of all 150 topics, the 
+top 20 words most frequently associated with each topic, a topic label created by the researchers, and a “representative 
+paragraph” identiﬁed using a procedure similar to Hoberg and Lewis (2017) .  For all other details relating to the speciﬁcs of 
+our LDA procedure and the generation of representative paragraphs, please see the Appendix .  
+Table 3 lists the broad categories into which we group the topics in our analysis, along with brief descriptions.  
+For example, “Business Operations and Strategy” refers to discussion of day-to-day business operations such as products, advertising, and information systems; “Business Structure and M&A” refers to discussion of subsidiaries and partnerships, as well 
+as mergers, acquisitions, and other corporate transactions; and “Loans, Debt and Banking” refers to discussion of the ﬁrm’s 
+ﬁnancing.  Of the categories, the ﬁve that constitute the largest portion of 10-K text, especially in the early part of the sample 
+period, are: “Performance, Revenues, and Customers,” which is primarily discussion of the performance and revenue generation of the ﬁrm; “Industry Speciﬁc Disclosure,” which includes topics that are unique to speciﬁc industries (e. g. , healthcare or 
+transportation); “Employees and Executives,” which includes descriptions of executives and executive compensation plans; 
+“Compliance with SEC and Accounting Standards,” which is text associated with speciﬁc reporting requirements; and “Investments, Securities, and Derivatives,” which includes descriptions of ﬁnancial instruments.  The objective identiﬁcation of 
+topics by the LDA procedure and our more subjective grouping into categories allows us to disaggregate the overall trend 
+in length into the portions attributable to individual types of disclosure.  We construct a pseudo topic length by multiplying 
+the topic loadings by the length of the total document to estimate the number of words used to discuss each topic.  
+Fig.  3 Panel A plots the median number of words in each of the broader categories over time.  In general, the pattern is 
+clear.  Most topics have remained relatively constant over the sample period and therefore do not explain the overall increase 
+in 10-K length.  The notable exception is “Compliance with SEC and Accounting Standards” which increased markedly during 
+the sample period.  21 Essentially all of the increase in the length of disclosure for the median firm over the sample period appears to be associated with the Compliance with SEC and Accounting Standards category.  Fig.  3 Panel B provides a similar trend analysis but expressed as the median proportion of total disclosure (i. e. , scaling the proportion of disclosure on each topic so that the total adds up to 1).  22 Again, we see that the proportion of disclosure related to the Compliance category has
+increased markedly as a proportion of the total length over the sample period, while the proportions of the other categories (by construction) have decreased. 
+The preceding analysis provides preliminary, although circumstantial, evidence on the source of the increase in 10-K length over time.  Although a general increase in the length of the Compliance category may not be surprising given the introduction of new requirements over our sample period, the fact that the increases are limited to disclosure in the “Com- pliance”category is potentially more surprising because one might also have anticipated increases in categories such as “Business Operations and Strategy,”“Business Structure and M&A,”or “Performance, Revenues and Customers,”with, for example, general trends in business complexity, ﬁrm size, or globalization over time.  Further, the magnitude of the increase is 
+substantial, with textual disclosure in the Compliance category increasing approximately ten-fold over the sample period.  
+Although the components of the broader categories are somewhat subjective, the analysis of the subcomponents is objective because LDA determines the 150 individual topics and assigns speciﬁc text to them.  Table 4 reports the top increasing 
+topics by length.  The top three increasing topics are all part of the Compliance with SEC and Accounting Standards category, 
+namely fair value/impairment, internal control, and risk factor disclosures.  Notably, these three topics alone make up the 
+bulk of the increase in overall length with increases of 430 0, 220 0, and 210 0 words, respectively, compared to an increase 
+of less than 600 words for the next most increasing topic, customer accounts.  While we would expect these topics to have 
+increased in length given the implementation of new standards ( KPMG, 2011; White, 2013 ), it is noteworthy that they make 
+up such a large proportion of the total increase in disclosure length, especially given the substantial number of other new 
+FASB and SEC requirements during the sample period.  Because of the large magnitude of the increases in the lengths of 
+these three topics compared to all other topics, we focus on them in our remaining analyses.  Examining them individually 
+by year allows us to establish when (and, indirectly, why) these topics increased so substantially.  
+One potential concern with the preceding analysis is that LDA may be substituting disclosure that had previously appeared in other topics into our Top 3 topics as a mechanical effect of more standardized language following disclosure 
+guidance.  To ensure that is not the case, we investigated whether there are potentially offsetting decreases in any other 
+topics during our sample period.  Consistent with the notion that disclosure is added but seldom eliminated, none of the 
+other topics decreased in length over our sample period enough to account for the increase in our Top 3 topics.  To examine 
+the issue more formally, we identiﬁed the 3, 5 and 10 topics most closely related to each of our Top 3 topics based on 
+cosine similarity ( Brown and Tucker, 2011 ).  Netting changes in disclosure length of each of our Top 3 topics with changes 
+in related topics yields similar increases in net disclosure to those reported for our Top 3 topics alone, suggesting that 
+substitution across topics does not explain the increases that we observe.  
+The ﬁrst of these three topics relates to fair value and impairment disclosure.  Its top words according to the LDA procedure include: “fair,” “reporting,” “consolidated,” “impairment,” “control,” “future,” “recognized,” “estimated,” “expected,” and 
+“asset. ” 24  Because SFAS 157 is the most important standard to affect fair value accounting, we expect that much of the 
+disclosure categorized under this topic will be related to that standard.  In Table 5 we list the representative paragraphs for 
+each of our Top 3 increasing topics, including the Fair Value/Impairment topic.  The representative paragraph for this topic 
+relates to the effect of fair values for evaluating goodwill impairment (in addition to establishing a framework for measuring 
+fair value accounting, SFAS 157 speciﬁcally amended SFAS 142 relating to goodwill impairment).  Examination of paragraphs 
+with a high loading of the fair value topic indicates that the grouping reﬂects fair value discussion on a range of topics 
+including derivatives, investment securities, and other investments.  Because the representative paragraph technique is inherently biased toward more standardized paragraphs (e. g. , those that cite the relevant standards), we provide an additional 
+sample paragraph to provide a more comprehensive view of the range of discussions that fall within this topic (additional 
+sample paragraphs for all three topics are in the Internet Appendix ).  This paragraph discusses the use of fair values in yearly 
+evaluations of debt and equity securities, also related to SFAS 157.  
+The next topic relates to internal control disclosure, with the top ﬁve words being “control,” “internal,” “reporting,” “registrant,” and “material. ” The representative paragraph is the auditor’s opinion on management’s assessment of internal control, required under SOX Section 404, with an additional sample paragraph that is from management’s discussion of the 
+effectiveness of their internal control system.  Of all of our Top 3 topics, internal control disclosures tend to follow the wording of the associated standard most closely.  As discussed later, this standardization is also reﬂected in the associated textual 
+characteristics.  
+Our last main topic is risk factor disclosure.  The top ﬁve words in this topic are “results,” “future,” “ability,” “result,”
+and “adversely. ” This type of language is consistent with risk factor disclosures that are intended to provide information on 
+future events that might adversely affect ﬁrm performance.  Disclosure under this topic is relatively broad as reﬂected in the 
+fact that the representative paragraph describes the loss of key talent and personnel as a risk factor for the ﬁrm, while the 
+additional paragraph discusses risks associated with possible security breaches.  
+Although some ﬁrms disclosed risk factors voluntarily throughout our sample period, the SEC mandated this disclosure in Item 1A of the 10-K in 2005.  
+As further support that these three top increasing topics capture the type of disclosure that we have attributed to them, 
+we identify speciﬁc ﬁrm attributes that should be associated with each of the three topics and link them with the length of 
+these topics.  In the case of Internal Controls, we expect signiﬁcant additional text for ﬁrms with internal control weaknesses; 
+for Fair Value/Impairments we expect additional text for ﬁrms with substantial one-time items, in particular impairments; 
+26 Results in Table 6 indicate that special 
+and for Risk Factors we expect additional text for ﬁrms with substantial market risk.  
+items (including impairments), internal control weaknesses, and risk all have signiﬁcant and predictable associations with 
+their relevant disclosure topics.  The Trend variable remains strong and positive for each topic, suggesting that changes in 
+economic circumstance, as we measure them, do not explain the time trends.  
+We investigate more closely the timing of these trends in fair value, risk factor, and internal control disclosure to assess 
+patterns around the associated regulatory events and the probability that increases in these topics could explain increases 
+in overall 10-K length.  Fig.  4 plots the trends for these topics over time and provides evidence consistent with expectations.  
+Panel A, which plots the length of the Fair Value topic, is interesting for several reasons.  First, recall that SFAS 157, “Fair Value 
+Measurements,” was passed in 2006 and required for ﬁscal years beginning after November 15, 2007, with early adoption 
+encouraged.  That timeline is very consistent with the path of disclosure around 20 06–20 08, with virtually no disclosure for 
+that topic pre-2007, an initial substantial increase during 2007 likely reﬂecting early adopters, and the bulk of the increase 
+during 2008.  The fact that the pattern is consistent with expectations is reassuring because it suggests that, while LDA is 
+a naïve Bayesian approach, it can identify discussion associated with speciﬁc topics quite crisply irrespective of where it 
+appears within a document.  This is important because, although LDA has been applied in other contexts, it has not been 
+used to identify text associated with speciﬁc accounting rules.  
+Second, and more importantly, the ﬁgure indicates that disclosure around SFAS 157 was a major source of additional 
+length in the typical 10-K.  Recall that the median length of the Compliance category in Fig.  3 increased by about 10,0 0 0 
+words; in comparison, the increase in disclosure pertaining to SFAS 157 alone was nearly 4300 words.  To assess the statistical signiﬁcance of the increase, we regress the length of the Fair Value topic on an indicator that takes on a value of 
+one for years after the introduction of SFAS 157, controlling for the overall trend.  Fig.  4 reports the heteroscedasticity robust 
+t-statistic clustered by ﬁrm in the legend below Panel A (analogous t-statistics are reported for the regulatory changes in the other panels).  The increase in length associated with SFAS 157 is highly signiﬁcant (t-statistic 
+ 59. 35).  It is also interesting 
+to note that this increase does not appear to have been temporary.  The text associated with this topic leveled out to some 
+extent after the 2008 mandatory adoption date but continued to rise, albeit more gradually, through 2013, suggesting that 
+additional disclosure was necessitated with application of the standard (and related guidance) over time.  
+The second largest increase is disclosure related to internal controls.  Recall that SOX internal control certiﬁcations were 
+required for ﬁscal years starting in 2004 and 2005.  Panel B shows a distinct increase for the LDA topic we label Internal 
+Controls between 2004 and 2005, leveling off in 2006, suggesting that LDA correctly identiﬁed internal control disclosure.  
+More importantly, Fig.  4 suggests that internal control discussion is an important determinant of the increase in 10-K length, 
+especially between 2004 and 2006.  Unlike fair value disclosure which continued to increase, text associated with internal 
+controls dropped somewhat between 20 07 and 20 08 before leveling off at about 2100 words, down from a high of 3900 
+words in 2006.  This drop coincides with the introduction of Auditing Standard 5 (AS5) by the PCAOB for ﬁscal years ending 
+on or after November 15, 2007.  Among other changes, AS 5 allows auditors to issue a combined report on both the ﬁnancial statements and the internal controls over ﬁnancial reporting whereas previously auditors were required to issue two 
+separate reports.  The increase in length around adoption of SFAS 157 is highly significant (t-statistic = 89. 08) as is the decrease around A. 
+The third major source of the increased length is forward-looking disclosure associated with risk factors, depicted in 
+Panel C.  While not speciﬁcally required in the 10-K prior to 2005 (although required in prospectuses for debt and equity 
+offerings), ﬁrms often provided risk factor disclosures voluntarily when they made forward-looking statements ( Campbell 
+Name, 2014; Nelson and Pritchard, 2016 ).  Beginning in 2005, the SEC emphasized the importance of adequate risk factor 
+disclosures and required that they be discussed in a separate section of the 10-K (Item 1A).  As a result, we expect an increase 
+in the discussion of risk factors throughout our sample period as SEC interest increased, but with a substantial increase 
+around 2005 when the new rules became effective.  The graph for the risk factor topic displays the predicted pattern, with a 
+gradual increase through 2004 followed by a substantial jump in 2005 and a more gradual increase subsequent to 2005.  The 
+increase in length around adoption of Item 1A is highly signiﬁcant (t-statistic 
+ 16. 39).  Similar to fair values, the increase 
+in disclosure around the effective date does not appear to have been temporary, with an increasing subsequent trend likely 
+reﬂecting the SEC’s continuing focus on implementation along with evolving economic circumstances.  By 2013, median risk 
+factor disclosure had increased by almost 2300 words.  Fig.  4 Panel D displays the sum of the three topics over time, which combine to explain an increase of almost 10,0 0 0 
+words.  Further, there is a close similarity between the increase in Compliance disclosure from Fig.  3 and the sum of the three 
+components in Fig.  4 Panel D suggesting that those three factors explain the bulk of the increase in Compliance disclosure 
+(which, in turn, explains most of the increase in total 10-K length).  
+Overall, the additional detail that our LDA analysis provides allows us to dig more deeply into the causes and content of 
+the additional length in 10-K disclosure than would be possible with an analysis at the document- or section-level.  Perhaps 
+most notable is the extent to which, despite the number of additional SEC and FASB requirements during our sample period, 
+the bulk of the increase in textual disclosure relates to three topics, two under the purview of the SEC and one under the 
+purview of the FASB.  
+6.  Do changes in topical disclosure length reﬂect disclosure requirements.  
+A potential issue with the preceding results is that it is not possible to observe what ﬁrms would have disclosed in the 
+absence of the new requirements.  For example, it is possible that disclosure of risk factors, fair values, and internal controls would have increased irrespective of the requirements and that the new standards simply reﬂect changing demands 
+for information.  The patterns in Fig.  4 provide some evidence on that point because the timing of the changes in disclosure coincides quite tightly with the new requirements.  In addition, the regressions in Table 2 suggest that the trends are 
+robust to a wide variety of economic, regulatory, and litigation-related controls suggesting that general economic trends do 
+31 However, it is possible that the relation between our textual attributes and economic 
+not explain the increased length.  
+determinants is not stable over time or that our analysis excludes important variables.  
+An alternate approach is to consider a comparison sample of non-U. S.  ﬁrms that were not subject to the same regulatory 
+changes as our primary sample.  Although non-U. S.  ﬁrms experienced some mandatory changes in fair value disclosure because the IASB issued IAS 39 on fair values around the same time that the FASB issued SFAS 157, they were not subject to 
+the SEC risk factor and internal control requirements.  As a result, we would not expect to see the same pattern in risk factor 
+or internal control disclosure for a non-U. S.  sample if new SEC reporting requirements, and not changes to fundamentals, 
+drive our results.  
+To investigate that possibility, we analyze annual reports for a sample of 16,038 non-U. S.  ﬁrm-years from Lang and SticeLawrence (2015) and examine trends in disclosure using our trained LDA model.  Untabulated results suggest there is virtually 
+no disclosure on the internal control or risk factor topics either prior to or subsequent to the change in U. S.  regulations and 
+no evidence of an increase over time.  Consistent with the timing of IAS 39, disclosure on the fair value topic increases for 
+the non-U. S.  ﬁrms, especially during the 20 06–20 08 period, although the increase is not as large as for U. S.  ﬁrms.  Subject 
+to the caveat that the non-U. S.  sample may not be entirely comparable with the U. S.  sample, these results suggest that 
+the disclosure changes for the U. S.  sample, particularly those relating to risk factors and internal controls, primarily reﬂect 
+changes in regulatory requirements.  
+7.  Does the additional text contribute to trends in the other textual attributes.  
+Having documented that much of the increase in 10-K length appears to be a result of increases in speciﬁc topics associated with accounting and other regulatory action during the mid-20 0 0 s, we next investigate the textual characteristics 
+of this additional disclosure.  We focus on characteristics identiﬁed as potentially important by prior research and investigate the extent to which our Top 3 topics explain the trends documented in Fig.  1 .  An advantage of LDA is that we can 
+apply it at the paragraph level to evaluate textual characteristics within subsets of text.  In particular, we use our trained 
+LDA model to re-analyze each paragraph in the 10-K and estimate paragraph-level topic loadings (essentially the probability 
+that the paragraph belongs to a speciﬁc topic) in a process called “inferencing. ” We then assign the paragraph to the topic 
+32 This allows us to assign all paragraphs to individual topics and thus measure the textual 
+which has the highest loading.  
+characteristics of disclosure relating to that topic.  
+Table 7 provides descriptive statistics for each of the categories (as well as for our Top 3 increasing topics) aggregated 
+across all paragraphs within each category (topic).  Redundancy, boilerplate, and stickiness are expressed in percentage terms 
+so that the relative redundancy, boilerplate, and stickiness of disclosure can be directly compared across categories (topics) 
+Comparing the of different lengths.  The broad category statistics in Table 7 are generally consistent with expectations. 
+Compliance category to all other categories (“Other Disclosure Categories” in Table 7 ), Compliance has substantially higher 
+levels of boilerplate, Fog, stickiness, and redundancy and lower levels of hard information and speciﬁcity.  This fact, coupled 
+with the earlier ﬁnding that the proportion of the 10-K devoted to Compliance has increased substantially over time, suggests that the overall increase in these attributes could be the result of increases in the proportion of the 10-K representing 
+Compliance disclosure.  
+In terms of the Top 3 increasing topics, the descriptive statistics suggest that internal control disclosures tend to have 
+high levels of redundancy, Fog, boilerplate, and stickiness, in most cases higher than for any category, including other Compliance  disclosure.   This  is  not  altogether  surprising  because  SOX  requirements  are  fairly  speciﬁc  in  terms  of  disclosure, 
+leading to high levels of boilerplate.  Risk factor disclosures also tend to have high Fog and stickiness, and fair value disclosure has high stickiness.  All three topics tend to have relatively low levels of speciﬁcity and the mix of hard information.  
+The attributes of risk factor and fair value disclosures are noteworthy because ﬁrms have more ﬂexibility and these disclosures are intended to convey timely ﬁrm-speciﬁc information.  Given the textual attributes of the Compliance category, and 
+the Top 3 topics in particular, their increasing prevalence in the 10-K could help to explain the overall trends in disclosure 
+characteristics documented earlier.  
+In Fig.  5 , we investigate the extent to which increases in fair value, risk factor, and internal control disclosure contribute 
+to trends in other textual attributes.  Recall from Fig.  1 that Fog, boilerplate, redundancy, and stickiness have increased over 
+time while speciﬁcity and the relative mix of hard information have decreased.  Because we can identify speciﬁc portions of 
+the text relating to each topic, we can compare the levels of each of our textual attributes calculated using the entire text 
+to the attributes of the remaining text after paragraphs relating to the Top 3 topics are removed.  Essentially this allows us 
+to compare the actual trends to trends in the “counterfactual” text if those three topics had not been included.  We plot the 
+difference between attributes calculated with and without our Top 3 topics to show the contribution of each of the topics to 
+trends in our set of textual attributes.  To assess statistical signiﬁcance, we report under each panel and textual attribute label 
+in Fig.  5 the t-statistic associated with the change in that attribute around the implementation of the associated regulation.  
+Each of our Top 3 topics helps to explain the trends in disclosure attributes over our sample period.  Internal control 
+and fair value disclosures are more important drivers of redundancy, boilerplate and stickiness.  The increase in Fog, on the 
+other hand, is largely explained by increases in internal control disclosure, consistent with the very high level of Fog for 
+36 Similarly, all three topics are associated with 
+that disclosure in Table 7 , particularly after the introduction of SOX in 2004.  
+the decline in speciﬁcity, while risk factors and internal controls help explain the decrease in the mix of hard information 
+documented in Fig.  1 .  
+Overall, the results from this analysis provide strong evidence that the increase in length in the Top 3 topics also helps 
+explain the patterns in redundancy, boilerplate, stickiness, Fog, speciﬁcity and the mix of hard information.  Further, the 
+effects are consistent with the topic-level descriptive statistics from Table 7 , and with the trends by topic in Fig.  4 .  The 
+importance of each of the Top 3 topics varies across textual attributes, highlighting the importance of evaluating the effects 
+of a given topic in terms of speciﬁc attributes.  
+8.  Cross-Sectional variation. 
+The preceding analysis allows us to identify the sources of aggregate changes in disclosure length and link these changes 
+to changes in other textual attributes.  However, if there is heterogeneity in the extent to which new disclosure requirements 
+affect ﬁrms, then focusing on changes for the median ﬁrm masks the potential spectrum of outcomes across ﬁrms.  For 
+example, if risk plays a large role in determining how ﬁrms respond to risk factor disclosure requirements (e. g. , high-risk 
+ﬁrms provide substantially more risk factor disclosure), then we might ﬁnd that the median change in disclosure that we 
+document is not representative of disclosure changes for high- and/or low-risk ﬁrms.  Similarly, cross-industry variation in 
+fundamentals could affect the extent to which disclosure regulations are relevant.  
+In Fig.  6 we plot trends in median disclosure length over time at the category level (similar to Fig.  3 ) for ﬁrms in 4 of 
+the Fama-French 17-industry groupings (Food, Financial Institutions, Pharmaceuticals, and Retail Stores), chosen to illustrate 
+the range of disclosure across industries with very different underlying economics (graphs for the remaining 13 industries 
+are in the Internet Appendix ).  Two primary points are worth noting.  
+First, as expected, there are substantial differences in disclosure across ﬁrms with different underlying industry fundamentals.  To illustrate the variety of disclosure by industry, below each panel in Fig.  6 we note the largest category, other 
+than Compliance, and corresponding topic for the industry.  For example, Food is a very representative industry, with proportions of disclosure in the major categories similar to the sample as a whole from Fig.  3 .  The major source of non-Compliance 
+disclosure is in the Industry-Speciﬁc category, speciﬁcally in the Food Industry topic.  Retail Trade is generally quite similar to 
+the overall sample, but with greater discussion in the Performance, Revenues and Customers category relating speciﬁcally to 
+the Retail Industry topic.  Pharmaceuticals are notable for the extensive discussion in the Intellectual Property and R&D category, particularly related to Clinical Trials.  Financial Institutions have a greater proportion of disclosure in the Loans, Debt 
+and Banking category, particularly related to Investment Activity and, not surprisingly, disclosure in that category increased 
+substantially around the ﬁnancial crisis.  While these results are not surprising, they illustrate that there is substantial heterogeneity in disclosure driven by underlying economics and that LDA is effective in capturing that heterogeneity.  
+Second, and more importantly, each of the industries in Fig.  6 (as well as those in the Internet Appendix ) experience 
+substantial increases in 10-K length over the sample period.  Further, for all industries, a substantial portion of the increase 
+in length is due to increases in Compliance-related disclosure and the magnitude of the increase in Compliance-related 
+disclosure is consistently about 90 0 0–10,0 0 0 words, similar to the sample as a whole.  Overall, the increase in Compliancerelated length appears to have been pervasive across ﬁrms with very different underlying economics.  Results at the topiclevel for the Top 3 Topics provide similar inferences and are provided in the Internet Appendix .  
+The fact that we observe similar trends across a range of industries suggests that our results are not limited to a subsample of ﬁrms, which is interesting for several reasons.  First, it further conﬁrms that the patterns we document are likely 
+the result of changes in regulatory requirements and do not simply reﬂect the underlying economics of ﬁrms (i. e. , it seems 
+unlikely that ﬁrms across industry groupings would all simultaneously experience similar economic shocks).  Second, the 
+similarity in trends across a broad spectrum of ﬁrms suggests that, although the disclosure requirements were more likely 
+to be relevant for some types of ﬁrms than others, they resulted in substantial increases in disclosure length across a wide 
+cross-section of ﬁrms including those for which the additional disclosure may have been less relevant.  
+To further explore that possibility, we compare disclosure attributes of our Top 3 Topics for subsets of ﬁrms for which 
+each of these disclosures was ex ante likely to be more and less relevant.  In particular, we compare risk factor disclosure 
+for  ﬁrms  in the  top  and bottom  total risk  quintiles, internal control  disclosure  for  the top  and  bottom  internal control 
+risk quintiles, and fair value disclosure for the top and bottom intangible asset quintiles.  In Fig.  7 , we plot the trends in 
+disclosure length for the top and bottom quintiles and report t-statistics comparing redundancy, boilerplate, stickiness, fog, 
+speciﬁcity and mix of hard information across the two groups.  Overall, the results suggest that (particularly for risk factors 
+and internal controls) in both extreme quintiles ﬁrms tended to substantially increase disclosure in response to the new 
+regulations, but for those for whom the new standards were potentially less relevant (e. g. , risk factor disclosure for low-risk 
+ﬁrms), disclosure tended to be more redundant, boilerplate, sticky, and foggy, with lower levels of hard information.  
+In particular, results in Fig. 

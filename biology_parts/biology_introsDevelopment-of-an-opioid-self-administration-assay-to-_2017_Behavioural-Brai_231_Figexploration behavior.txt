@@ -1,0 +1,310 @@
+
+In recent years, opioids have become the second most commonly
+initiated drug of abuse.  A study by the National Survey of Drug Use and
+Health revealed that 12. 5 million Americans reported opioid abuse.  As a
+consequence, the incidence of overdose is reaching alarming rates
+across North America [1]. 
+A major limiting factor in the ﬁght against opioid abuse is the
+limited number of therapies currently available.  Despite the current
+situation, there is no eﬀective medical treatment for this type of addiction.  Substitution therapies are the only options currently available,
+consisting of a slow acting opioid such as methadone [2] or in some
+cases a combination of partial agonists (buprenorphine) and antagonists
+(naltrexone) [1].  Despite some success in controlling drug intake, these
+therapies do not treat drug seeking directly and are often unsuccessful
+[1], leading to a high rate of relapse.  Therefore, increasing eﬀorts are
+being put toward the development of drug addiction models to study
+the biological mechanism of substance abuse and to ﬁnd new treatment
+options.  So far, rodents and non-human primates have been used almost
+exclusively [3]. 
+Over the years, two main categories of assays have been developed
+to study addiction in animal models.  The ﬁrst consists of the non-contingent assays, including locomotor sensitization and the conditioned
+place preference paradigms.  The second category consists of the contingent models, including diﬀerent types of self-administration assays
+requiring a self-operant response in order to receive a dose [4].  Contingent assays are considered more signiﬁcant and have been shown to
+be an eﬃcient way to identify compounds aﬀecting addiction [5].  One
+of the main diﬀerences between these two categories resides in the fact
+that conditioned place preference is a form of passive administration, as
+opposed to self-administration, which is an active administration.  This
+distinction is important because studies have demonstrated that active
+administration leads to diﬀerent molecular and structural changes in
+the addicted brain [6,7]. 
+An interesting alternative to rodents or non-human primates in
+fundamental research is Danio rerio (zebraﬁsh), which is becoming an
+important model for dissecting complex neurological disorders [8,9]. 
+Previous studies demonstrated that zebraﬁsh are sensitive to a wide
+variety of drugs of abuse [10–15], including opioids [11,16].  In fact,
+several important neuronal networks implicated in addiction in humans
+are conserved in zebraﬁsh [17,18].  As with other models, ﬁsh show
+signs of addiction as well as withdrawal symptoms [19–22]. ⁎ Corresponding author. 
+E-mail address: randall. peterson@pharm. utah. edu (R. T.  Peterson). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 001
+Received 12 May 2017; Received in revised form 31 July 2017; Accepted 1 August 2017
+Available online 12 August 2017
+0166-4328/ 
+G. D.  Bossé, R. T.  Peterson
+Behavioural Brain Research 335 (2017) 158–166
+addition, given its ease of genetic manipulation and the ability to perform in vivo small molecule screening, zebraﬁsh have potential to be a
+powerful addition to the addiction research community. 
+Thus far, most substance abuse research in zebraﬁsh has been based
+on the conditioned place preference paradigm [11,13,14,23].  In these
+assays, a drug is delivered in a speciﬁc area of a tank combined with a
+speciﬁc visual cue, and trained ﬁsh developed a preference for the area
+presenting the cue.  Alternatively, a choice assay has been described in
+which ﬁsh larvae are given the option between an opioid solution in
+one end of the tank and a drug-free environment at the other end. 
+Zebraﬁsh larvae preferentially swim toward the side with morphine,
+and this preference is dependent on the dopamine pathway [16].  So far,
+a very limited number of active administration assays have been reported with zebraﬁsh.  Recently, an active alcohol administration protocol was designed in which ﬁsh are trained to voluntary consume
+gelatin containing various percentages of ethanol.  Using this technique,
+it was shown that ﬁsh consume a larger amount of a 10% EtOH gelatin
+compared to gelatin without EtOH [24].  Although this assay is an active
+form of administration, there was no increase in administration over
+time and no evidence of addiction development.  Therefore, the use of
+zebraﬁsh as an addiction model remains limited by the absence of a
+bona ﬁde self-administration model. 
+In order to overcome such limitations, we developed an opioid selfadministration assay using young adult zebraﬁsh, modeled after the
+self-administrations used in mammals.  In this assay, ﬁsh are trained to
+trigger the delivery of a hydrocodone solution by swimming across a
+speciﬁc underwater platform within a test arena.  Fish trained to selfadminister opioids demonstrate an escalation in the number of doses
+received, and self-administration is dependent on the μ-opioid receptor
+as well as two key pathways for drug addiction: the dopamine and
+glutamate pathways.  The development of this assay will enable improved understanding of
+the biological mechanism driving drug
+seeking. 
+<Middle> Methods. 
+2. 1.  Animal housing
+Ekkwill strain zebraﬁsh (Danio rerio) (EkkWill Waterlife Resources)
+were maintained and embryos were obtained according to standard ﬁsh
+husbandry protocols and with the approval of the Massachusetts
+General Hospital and University of Utah Institutional Animal Care and
+Use Committees. 
+2. 2.  Experimental apparatus
+2. 2. 1.  Design of the testing arena
+The conditioning arena consists of a plastic tray (4-3/4 Gallon
+Shallow Tray − 17-1/2"L x 15-1/2"W x 5"H, USPlastic, USA) with delimited submersible square platforms and connected to a larger water
+reservoir (15 gallons plastic bin, USPlastic, USA) equipped with a pump
+(Supreme Aqua-Mag, Thatﬁshplace, USA) to generate a continuous recirculating ﬂow of water (Fig.  1A).  The arena is illuminated with a
+warm white light source (2700 K, 40 W, CFL bulb, McMasterCarr, USA)
+providing just enough light to allow the ﬁsh to identify the diﬀerent
+platforms without aﬀecting behavior (Fig.  1A). 
+Infrared cameras (PiNoir camera, Adafruit, USA) are installed over
+each platform and are each connected to a mini-computer Raspberry Pi
+2 (Adafruit, USA) to monitor movement above each platform.  To generate optimal
+light conditions for the camera, an LED strip light
+(850 nm, Environmental Lights, USA) was installed above the arena. 
+One of the platforms is called the “active platform” and is yellow
+while the “inactive platform” is identical but is white.  The color yellow
+was chosen because ﬁsh do not seem to have a natural preference for
+this color [25,26].  The computer connected to the camera above the
+active platform also controls a peristaltic 12 V pump (Adafruit, USA)
+and a small green LED (Adafruit, USA).  A small silicone tube is ﬁxed to
+one side of the active platform to allow direct delivery of the drug at the
+platform. 
+2. 2. 2.  Development of the coding script
+The Raspberry Pi2 used in our assay runs on the latest Raspbian
+operating system and a homemade Python script was written to control
+the assay.  The script was designed to detect the movement generated by
+a ﬁsh swimming across the platform by comparing the pixel diﬀerence
+between the image of the current frame with the average image of the
+previous frames.  Movement above a platform was deﬁned as a triggering event when the pixel diﬀerence was higher than a manually set
+threshold.  The threshold was set to the minimum value for which the
+circulating water was not triggering the pump and was set for each
+experiment.  The code was also designed to record the elapsed time,
+save an image of the frame in which the motion is detected and record
+the total number of triggering events detected.  Finally, when a triggering event was detected above the active platform, the pump and the
+LED light were activated for 0. 3 s to deliver a dose of drug and to
+provide a secondary reinforcing cue. 
+2. 3.  Animal conditioning
+2. 3. 1.  Animal pre-conditioning
+Two to three-month-old ﬁsh were used as they are large enough to
+provide good movement detection yet small enough to maintain in
+large groups. 
+The main goal of this assay was to condition ﬁsh to associate the
+action of swimming over the active platform with receiving a dose of
+drug.  Because the arena was a novel environment which could be a
+source of stress [27] and the fact that opioids can be aversive for naïve
+animals [28], we decided to perform pre-conditioning sessions.  The preconditioning protocol was divided in two steps, the ﬁrst one consisted
+of performing one habituation session of 50 min daily for 5 days in the
+arena, allowing the ﬁsh to swim freely in the arena.  During those sessions, ﬁsh food (Larval, AP100, Zeigler, USA) was administered when
+motion was detected above the active platform, thus providing a reward
+for this action.  These sessions allowed the animals to acclimatize to the
+arena and forged a positive association with the action of swimming
+across the active platform.  At the opposite end, swimming above the
+inactive platform did not trigger anything, thus no positive reinforcement was developed toward this platform. 
+The second step of the pre-conditioning was to expose the animals
+to hydrocodone (1. 5 mg/L) for 60 min in a separate tank following the
+session in the arena.  Such pre-exposure to an opioid has been shown to
+improve opioid self-administration training in rodents [28,29]. 
+Additionally, to further reduce the stress associated with our assay,
+we decided to condition the animals in groups of 15 ﬁsh, as it has been
+shown that social isolation is a stressful condition for zebraﬁsh [30]. 
+The number of animals was selected based on early preliminary tests in
+the arena (data not shown).  To avoid pre-selection bias and to get a
+more uniform training across the diﬀerent groups, ﬁsh were re-grouped
+each night in large tanks containing 50–70 animals. 
+The combination of pre-training in the arena and pre-exposure to
+opioids served to acclimatize ﬁsh to the assay, forge a positive association with the active platform and sensitize the animals to opioids. 
+2. 3. 2.  Opioid self-administration conditioning
+The opioid self-administration conditioning followed an approach
+similar to the pre-conditioning.  Small groups of 15 animals were
+trained for 50 min daily for 5 consecutive days.  As with the pre-conditioning, to avoid any bias toward gender or potential genetic predisposition between the diﬀerent groups, as well as to generate uniform
+trainings, animals were kept in large groups between sessions and
+conditioned in randomly selected subgroups of 15. 
+As with the pre-conditioning, ﬁsh were allowed to swim freely in theG. D.  Bossé, R. T.  Peterson
+Behavioural Brain Research 335 (2017) 158–166
+Fig.  1.  Opioid self-administration conditioning.  A: Layout of the conditioning arena.  B: Fish generated a speciﬁc increase in triggering events at the active platform (n = 11) C: Fish
+trained with only water from the main system did not increase the number of triggering events (n = 6).  Treatment with naloxone (2. 7 μM) [11], for 60 min before each sessions abolished
+the increase in triggering events generated at the active platform (n = 5).  Error bars represent a 95% conﬁdence coeﬃcient.  *p-value < 0. 01, ** p-value < 4e-5. 
+arena but with the added factor of triggering the release of a dose of
+1. 5 μg of hydrocodone from a solution of 6 mg/L diluted in water from
+the main system by swimming across the active platform.  Each triggering event resulted in drug delivery, in accordance with a ﬁxed ratio
+(FR) training previously established in other models [3,28].  The continuous ﬂow of water prevented the saturation of the system and forced
+ﬁsh to re-activate the pump in order to receive another dose of drug. 
+2. 4.  Animal behavior
+2. 4. 1.  Novel tank assay
+The novel tank assay was performed in a 1. 5L tank (15. 2 cm height
+x 7. 1 cm width x 27. 9 cm long from Aquatic Habitats, Apopkam, USA)
+ﬁlled with water from the main system.  The assay was performed between 12pm and 4pm and recorded for 5 min.  We tested 3 ﬁsh at the
+same time as it has been suggested that small groups could yield more
+consistent results than individual ﬁsh [31].  The animals were transferred to the middle of the novel tank.  The ActualTrack software (ActualAnalysis, UK) was used to analyze the videos.  To analyze the exploration rate, two zones were created in the software, the center and
+the rest of the tank.  The software recorded the position of the ﬁsh in the
+tank and generated the data for the latency to enter the diﬀerent zones,
+time spent, number of visits in the zones.  The software gave the position
+(x, y) of the body center for each ﬁsh, the latency to enter the other
+area, the total time spent in the diﬀerent areas and the number of visits. 
+The coordinates of the body center of each ﬁsh were used to calculate
+the distance between each pair of animals with the equation:( 2x2( 2y22. 5.  Chemical treatment
+The following chemicals were use in this paper; Hydrocodone hydrochloride (Sigma-Aldrich, USA), Naloxone hydrochloride dihydrate
+(Sigma-Aldrich, USA), SCH-23390 hydrochloride (Tocris, UK), MK-801
+maleate (Tocris, UK), Ketamine hydrochloride (Sigma-Aldrich, USA)
+and CNQX (Tocris, UK). 3.  Results
+3. 1.  Opioid conditioning
+To test our conditioning protocol, we used a wild-type strain of
+zebraﬁsh (Ekkwill) and analyzed the number of triggering events produced in every training session for the active and the inactive platforms. 
+The analysis of the number of triggering events revealed that on the
+ﬁrst day of training, there was no signiﬁcant diﬀerence detected between the active platform (1249 ± 338 events) compared to the inactive platform (956 ± 380 events) (Fig.  1B). 
+As the week progressed, the number of triggering events increased
+for the active platform and decreased for the inactive platform such that
+the diﬀerence between the two platforms became signiﬁcant (Fig.  1B). 
+By day 5, there were 1771 ± 369 triggering events detected above the
+active platform, representing a 41% increase compared to day 1,
+whereas, we observed a total of 139 ± 51 triggering event at the inactive platform representing an 85% decrease in triggering events for
+the inactive platform between the ﬁrst and last day of training.  Thus,
+the increase in events detected is speciﬁc for the active platform.  As
+mentioned earlier, in this assay, each triggering event detected for the
+active platform resulted in one pump activation and thus the delivery of
+one dose of hydrocodone. 
+In order to conﬁrm that this increase in motion events was caused
+by the presence of hydrocodone in the solution and not just a preference
+for the color yellow or a consequence of the pre-conditioning with food,
+we repeated the training with pre-conditioned animals but the hydrocodone solution was substituted with only water from the main system. 
+Without opioid delivery, training failed to produce any increase in the
+number of triggering events for the active platform and caused the total
+activation for both platforms to decrease by more than 50% from day 1
+(Fig.  1C).  We also observed a similar number of triggering events detected through the week between the active and inactive platforms. 
+The activity of opioids is mainly dependent upon their binding to
+the μ-opioid receptor [32].  Therefore, to conﬁrm that the self-administration of hydrocodone in our assay was dependent on this receptor,
+we treated ﬁsh with the μ-opioid receptor antagonist, naloxone.  It has
+been shown that naloxone can block CPP and opioid self-administration
+G. D.  Bossé, R. T.  Peterson
+Behavioural Brain Research 335 (2017) 158–166
+in diﬀerent animal models [33].  We treated ﬁsh with naloxone for
+60 min before each pre-conditioning session as well as before each
+training session.  As expected, blocking the μ-opioid receptor prevented
+development of self-administration behavior.  As observed with the
+water treated groups, the total number of motion events decreased by
+more than 75% for both platforms as the week progressed and no difference was observed between the platforms (Fig.  1D). 
+These results suggest that the speciﬁc increase in motion events
+observed for the active platform is dependent on the administration of
+the opioid and implicate the μ-opioid receptor [11,16]. 
+3. 2.  Hallmarks of addiction
+3. 2. 1.  Self-administration despite adverse consequences
+One of the main characteristics of addiction is the repeat administration of a drug despite adverse consequences such as physical or
+mental pain.  For example, addicted animals will exhibit sustained administration while faced with a physical punishment such as electric
+shock [18,34–37].  We therefore sought to determine if zebraﬁsh would
+continue to exhibit self-administration in the face of conditions normally aversive to them. 
+It has been previously shown that zebraﬁsh prefer deep water, and
+that shallow water can trigger anxiety [38,39].  This particular behavior
+allowed us to create an aversive condition in our assay by raising the
+height of the active platform.  As a consequence, the water level above
+the active platform was reduced by ≈25%.  Instinctively, ﬁsh should
+avoid swimming above the elevated platform unless the reward associated with it is powerful enough. 
+Before testing hydrocodone-conditioned ﬁsh, we conﬁrmed that
+non-conditioned ﬁsh would avoid this elevated platform by testing a
+group of ﬁsh conditioned to self-administer food but not pre-exposed to
+hydrocodone.  For the testing session, apart for the change in the platform height, the assay was performed with the same parameters as
+previously described.  With these animals, we observed a reduction in
+the total number of triggering events at the elevated platform when
+compared with an assay performed with the regular platform (Fig.  2A). 
+Interestingly, there was no diﬀerence in the number of triggering events
+measured at the inactive platform (Fig.  2A). 
+When hydrocodone-conditioned ﬁsh were tested with the elevated
+active platform, there was no signiﬁcant diﬀerence in the total number
+of pump activations observed with the elevated platform versus the
+regular platform (Fig.  2B).  This suggests that conditioned ﬁsh will actively cross the active platform despite an aversive condition.  Even
+when the water depth above the active platform was further reduced to
+≈50% of the initial level (triple platform), ﬁsh still visited the active
+platform a signiﬁcantly higher number of times than the inactive
+platform thus conﬁrming that ﬁsh are willing to overcome an aversive
+condition to receive a dose of the drug. 
+3. 2. 2.  Self-administration following a progressive ratio
+As mentioned previously, in our assay, the animals were conditioned with a ﬁxed ratio, but to further establish that our assay is a bona
+ﬁde self-administration assay, we decided to test a diﬀerent conditioning protocol: the progressive ratio [28,40–43].  In this assay, animals are required to perform an increasing number of actions in order
+to receive a dose of the drug as opposed to the ﬁxed ratio where each
+action triggers release of a dose.  For example, a mouse would be required to press a lever ﬁve times in order to activate the delivery of the
+drug and this number is increased until the addicted animal gives up
+and loses interest.  This value is called the break point for this particular
+animal.  In most cases, the progressive ratio is tested with animals
+previously trained with a ﬁxed ratio [44–46]. 
+We thus tested progressive ratio training by modifying our python
+script so the pump would only be activated after a variable number of
+triggering events.  In other words, ﬁsh would have to swim across the
+active platform multiple times to receive a single dose.  Using this
+method is informative because if the ﬁsh simply developed a place
+preference for the location of the active platform in the arena, the
+number of motion events should not change and the ﬁsh should lose
+interest if no drug is delivered.  We decided to test the progressive ratio
+paradigm in our assay by setting the number of triggering events required to activate the pump to 5, 10, 15 and 20.  The number of triggering events required to activate the pump was increased on successive
+days and not during the same session. 
+We observed that conditioned ﬁsh increased their total number of
+visits each time the number of triggering events required for a dose was
+increased.  This trend was observed with 5 events/dose and became
+signiﬁcant with 10 and 15 events/dose, but at 20 events/dose, the
+diﬀerence was no longer signiﬁcant when compared to the ﬁxed ratio. 
+As a result, there were about 4 times more triggering events detected at
+the active platform for the 15 events/dose setting as compared with the
+ﬁxed ratio (Fig.  2C).  Interestingly, the increase in triggering events
+observed with the setting at 15 events/dose was such that the actual
+dose received by the animals was similar to the dose received with 5
+events/dose (Fig.  2D).  Furthermore, the fact that the number of visits
+doesn’t increase at 20 events/dose suggests that this value could be
+considered the break point for the group of ﬁsh tested. 
+The increase in total triggering events detected with the progressive
+ratio demonstrates that hydrocodone-conditioned ﬁsh are willing to
+perform the required action multiple times to get a dose.  This result
+combined with the administration despite an adverse consequence
+suggests that the activation of the pump is not simply a conditioned
+place preference but rather an active action to self-administer the drug. 
+3. 3.  Evidence of withdrawal symptoms
+Among the major hallmarks of drug addiction are the intense physical and psychological manifestations triggered by withdrawal from
+the drug.  These include an increase in anxiety and stress levels in both
+human and animal models, which are thought to promote continued
+drug seeking in addicted patients [47].  In zebraﬁsh, previous studies
+have demonstrated that withdrawal can cause profound physical
+manifestation such as reduced exploration behavior, increased erratic
+movements, changes in freezing behavior and changes in locomotion
+[19,48].  We therefore investigated the behavior of conditioned ﬁsh
+48 h after their last self-administered dose of hydrocodone in the Novel
+Tank assay [19].  In this assay, ﬁsh are introduced into a new tank and
+the behavior of the ﬁsh is recorded.  The inter-ﬁsh distance and the
+patterns of swimming can be used as measures of anxiety and stress
+level in zebraﬁsh [27,49–51]. 
+Stress and anxiety have been shown to increase social cohesion in
+zebraﬁsh [31,52].  We therefore analyzed the eﬀect of withdrawal on
+shoaling by measuring the distance between each ﬁsh in a group of
+three ﬁsh for a period of ﬁve minutes.  Hydrocodone-conditioned ﬁsh
+had an average distance of 4. 32 cm as compared to 5. 92 cm for naïve
+animals.  Thus, as hypothesized, ﬁsh undergoing withdrawal from hydrocodone form a tighter group than naïve animals (Fig.  3). 
+We also measured the exploration behavior of the ﬁsh by analyzing
+the time spent swimming in the center of the tank versus the outer area. 
+Stressed animals have been shown to exhibit reduced exploration of a
+novel environment [19]. 

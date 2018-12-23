@@ -1,0 +1,387 @@
+
+Why do ﬁrms engage in corporate environmental responsibility
+(CER) activities.  Understanding the incentives for CER engagement has
+spurred a large academic literature.  In general, there are three distinct
+perspectives on the determinants of CER.  The ﬁrst perspective focuses
+on the role of social pressure from nongovernmental organizations
+(NGOs), suppliers, customers and regulators in CER (Delmas and Toffel,
+2008).  The second perspective focuses on the ﬁrm-speciﬁc factors shaping CER, such as age, size, and ownership (Etzion, 2007.  Zeng Name,
+2010), corporate governance (Kassinis and Vafeas, 2002.  de Villiers
+Name, 2011.  Walls Name, 2012), and ﬁrm performance (Ye Name, 2013. 
+Sueyoshi and Goto, 2014.  Bostian Name, 2016).  The third perspective
+studies the effects of top executives on CER, which includes CEO demographic and psychological characteristics (Lewis Name, 2014.  Petrenko
+Name, 2016), CEO incentives and turnover (Deckop Name, 2006.  Meng
+Name, 2013). 
+Nevertheless, the literature is silent on whether political connections
+matter for a ﬁrm's propensity to engage in CER.  This paucity of research
+is somewhat surprising given the fact that many researchers have
+highlighted the effects of political connections on ﬁrm behavior and
+strategic decisions (Fisman, 2001.  Li and Atuahene-Gima, 2001.  Faccio,
+2006.  Zhou, 2013), and CER is increasingly viewed as an important
+business strategy by researchers, investors, and society as a whole
+(Etzion, 2007.  de Villiers Name, 2011).  The novel contribution of this
+research is to explicitly introduce such political connections dimension
+in an empirical study of corporate environmental practices.  Speciﬁcally
+we are concerned in this paper with how political connections may
+affect organizational CER in China. 
+China offers an ideal setting to investigate this issue.  A distinct
+feature of China is that the government plays a critical role in the
+economy.  As a special form of business-government relationship, political connections are an important means of government intervention in
+ﬁrms (Fan Name, 2007).  At the same time, political connections are also
+an important channel for Chinese ﬁrms to access to valuable resources
+and government protection (Li Name, 2008), which may in turn affect
+the costs and beneﬁts of CER activities.  Therefore, as a governmentdominated transitional country with severe environmental problems,
+China forms a good (quantitative) case study to evaluate the role of
+political connections in CER. 
+Our ﬁrst task is to examine whether political connections inﬂuence
+ﬁrm's propensity to engage in CER.  For this purpose, we propose a
+mechanism-based theoretical model to explore the possible positive
+and negative effects of political connections on CER.  And we test the
+model by constructing a CEO-ﬁrm matched panel data set of 823
+Chinese listed ﬁrms in polluting industries from 2008 to 2014.  After
+controlling for other factors, we ﬁnd that political connections have a
+signiﬁcant and positive impact on CER.  This ﬁnding is robust to a number of alternative estimation approaches. 
+We then go a step further and investigate where and how political
+connections are important to CER.  We argue that the effects of political
+connections on CER are likely to be different depending on contextual
+conditions.  This is tested through comparing the roles of political
+connections in ﬁrms with different ownership and in regions with
+different environmental regulatory systems.  Our empirical results
+show that the positive effect of political connections on CER is more
+pronounced for state-owned ﬁrms and in cities with stringent
+environmental rules and regulations.  With respect to the mechanisms
+through which political connections increase CER, we ﬁnd that political
+connections help ﬁrms to receive government grants, subsidies and tax
+reduction related to the environment protection, and implement
+government environmental policies.  These mechanisms work better
+for state-owned ﬁrms. 
+To the best of our knowledge, this study is the ﬁrst to establish a link
+between political connections and CER.  Our work contributes to the
+literature on CER by showing that political connections do matter in
+determining a ﬁrm's propensity to engage in CER.  We also add to the
+growing literature on political connections.  Previous research has
+examined the impact of political connections on ﬁrm's performance
+(Fan Name, 2007.  Li Name, 2008), corporate bailouts (Faccio Name,
+2006), entrepreneurial investment (Zhou, 2013), workplace fatalities
+(Fisman and Wang, 2015) and corporate diversiﬁcation (Li Name,
+2012), but has not examined their effects on ﬁrm's environmental
+responsibility.  By proposing an initial mechanism-based framework,
+this paper examines the possible role of political connections in CER
+and when political connections matter more or less in their effects on
+CER advances, which advances knowledge of the value of political
+connections. 
+The paper proceeds as follows.  Section 2 develops relevant hypotheses.  Section 3 describes the data, sample selection and variables. 
+Sections 4 and 5 present the empirical results, while Section 6 discusses
+the ﬁndings and concludes. 
+2.  Conceptual framework and hypotheses. 
+As the environmental component of Corporate Social Responsibility
+(CSR), CER means that ﬁrms voluntarily integrate environmental
+concerns into their core strategy and production processes.  The incorporation of environmental considerations into the design, manufacturing and distribution of products ranges from local and global pollution
+prevention and control, waste management, the protection of water
+resources, and the preservation of biodiversity, to energy efﬁciency,
+cleaner production, reverse logistics, and managing the environmental
+impacts from transportation (Crifo, 2014). 
+An economic analysis of CER begins with the realization that such
+activities have emerged in response to the perception or existence of a
+market failure-that is, instances where there is a divergence between
+the private and social costs of a ﬁrm's actions.  The societal cost is deﬁned as the private cost to the company plus an additional external
+cost, e. g.  pollution and environmental degradation (Siegel, 2009).  In
+order to engage in CER, ﬁrms need to spend money on some pollution
+control instruments.  Similarly, ofﬁce space, supplies, computers, telephones, and other communications equipment may be devoted to CER
+activities.  To the extent that additional capital is required, capital costs
+will be higher, which may affect a ﬁrm's price and thus proﬁtability
+(McWilliams and Siegel, 2001).  As a result, prior to taking on environmental responsibility projects, CEOs need to conduct a cost-beneﬁt
+analysis.  Political connections are often cited as an important channel
+for ﬁrms to access to scarce and valuable resources (Faccio, 2006.  Li
+Name, 2008), which would in turn affect the costs and beneﬁts of CER
+activities.  We therefore develop hypotheses with respect to the effects
+of political connections on a ﬁrm's propensity to engage in CER. 
+2. 1.  Positive effects. 
+According to the resource-based view of the ﬁrm (RBV), companies
+have bundles of heterogeneous resources and capabilities that are
+imperfectly mobile across ﬁrms.  If such resources and capabilities are
+valuable, rare, inimitable, and non-substitutable, they could constitute
+a source of sustainable competitive advantage (Barney, 1991).  For a
+politically connected ﬁrm, political connections can constitute a resource or capability that leads to a sustained competitive advantage. 
+For example, it has been found that political connections help ﬁrms to
+access to key resources such as bank loans (Khwaja and Mian, 2005. 
+Faccio, 2006), lower tax rates (Adhikari Name, 2006.  Wu Name, 2012),
+and provide protection of property rights (Zhou, 2013).  This would in
+turn help to relax the ﬁnancial constraint on environmental investments, lower ﬁrms' cost of capital related to environmental investment,
+share the risks of environmental technology innovation with the
+government, and thereby encourage ﬁrms to adopt environmentally
+friendly practices.  At the same time, CEOs with extensive political and
+social networks may excel at accessing information about the latest
+government environmental policy, which likely helps to better understand environmental regulations and policymakers' intentions, make
+effective decisions regarding CER investment and obtain the ﬁrstmover advantage associated with early investments in environmental
+technologies. 
+Politically connected ﬁrms can also get many social and political
+beneﬁts in return for their engaging in CER.  Beneﬁts that may arise
+from CER include enhanced product differentiation, reputation/image
+enhancement, and improved relations with workers, customers,
+suppliers, government, and the community (Siegel, 2009).  More
+importantly, CER would be a means to access to the government
+bureaucracy, which is an important way to strengthen the businessgovernment relationship and receive scarce and valuable resources. 
+For instance, an organization's environmental responsibility projects
+often bring attention in the form of praise not just to the ﬁrm, but
+often more directly to the CEO.  CEOs favored by both the government
+and the public are more likely to be elected and win a seat in congress
+(Ma and Parish, 2006). 
+In addition, politically connected ﬁrms are more likely to receive
+social and government attention than nonconnected ﬁrms.  For
+example, as a current or former member of the government, the politically connected CEO is expected by the public to have high moral standards and do what is morally right.  This pressure may motivate ﬁrms to
+act in environmentally responsible ways.  Hence the inclusion of environmental issues into corporate strategy could be viewed as a means
+to improve a company's alignment with the growing environmental
+concerns and government's expectations (Buysse and Verbeke, 2003). 
+In line with the research and reasoning laid out above, the following
+hypotheses might be set forth. 
+Hypothesis 1.  There will be a positive relationship between political
+connections and corporate environmental responsibility. 
+2. 2.  Negative effects. 
+As mentioned before, CER activities require signiﬁcant investments
+in production redesign, new equipment, and cross-functional employee coordination, whereas the rewards from strong environmental performance may only materialize in the long term.  These characteristics
+make environmental initiatives unpalatable to risk-averse managers. 
+Managers may be reluctant to incur expenses that do not have immediate ﬁnancial beneﬁts and therefore often focus on conservative initiatives that will maximize their reputation and ﬁnancial beneﬁts in
+the short term (de Villiers Name, 2011).  In this case, political connections may act as an umbrella of protection that helps ﬁrms to escapeSpeciﬁcally, Firms may bribe local government ofﬁcials through
+their political connections in order to form a strong interest group and
+get away with environmental regulation and penalties.  This is especially
+the case in China, where local government ofﬁcials have been evaluated
+on the basis of economic development since 1978 (Li and Zhou, 2005). 
+Gross regional product (GRP) and its growth rates are the main indices
+for the evaluation of local ofﬁcials' work achievements.  This provides a
+major incentive for local ofﬁcials to put economic growth ahead of environmental protection.  Engagement in the political process might be
+used as a form of insurance against environmental regulation.  Under
+protection of the local government, ﬁrms can sacriﬁce environment
+for the sake of short term ﬁnancial beneﬁts.  Local government ofﬁcials
+can also beneﬁt from higher levels of output in their region as well as
+bribes from politically connected polluting producers.  A typical example
+is Zijin Mining's pollution event in 2010, a Chinese listed company with
+political connections.  In fact, collusion between ﬁrms and the local
+bureaucracy is blamed for the China's pollution problems, allowing
+businesses to evade emissions regulations across a range of industries
+(Morgan, 2013). 
+Political connections can also provide an opportunity for ﬁrms to
+modify or inﬂuence environmental policy and future regulations in
+their favor.  In other words, ﬁrms may lobby the local government to
+weaken environmental laws and penalties through their political ties. 
+For example, the relevant state of the world is the environmental damage done by a particular pollutant, which often is unknown to
+policymakers (Lyon and Maxwell, 2008).  Firms then may convey unveriﬁable or wrong information through their political connections to public decision-makers that constrain regulators' ability to set tough
+standards. 
+Summarizing the above arguments, we hypothesize the following. 
+Hypothesis 2.  There will be a negative relationship between political
+connections and corporate environmental responsibility. 
+<Middle> Data, sample selection and variables. 
+3. 1.  Data and sample selection. 
+Like Du Name (2014), our study is based on all the China's public
+listed ﬁrms (e. g.  mining, petroleum, chemical and biological products,
+papermaking and printing etc. ) in polluting industries listed on the
+Shanghai and Shenzhen stock exchanges.  The ﬁrm-level data come
+from the China Securities Market and Accounting Research (CSMAR)
+database developed by GTA Information Technology Company, a
+leading provider of data on Chinese stock markets and listed companies. 
+The data contain detailed information on all the public listed ﬁrms in
+polluting industries, including the nature of each ﬁrm (such as the
+geographic location, ownership, size, age and founding date) as well
+as accounting and corporate governance data. 
+Consistent with the existing studies (Faccio, 2006.  Fan Name, 2007), a
+company is deﬁned as politically connected if its chief executive ofﬁcer
+(CEO) is a current or former government bureaucrat—that is, a current
+or former ofﬁcer of the central or local governments or the military.  In
+China, CEO is a relatively new concept and only very recently some
+companies have started to use the title (Kato and Long, 2006).  In fact,
+the chairman of the board holds a distinctive and decisive position
+within a ﬁrm.  The chairman position is a full time executive position
+and it ranks higher than the General Manager (zongjingli).  The chairman
+chairs the board of directors, deals with external parties, and is responsible for a company's daily operations.  The chairman often receives the
+highest pay from the ﬁrm and plays an important role in formulating
+and implementing business strategies (e. g.  CER).  Therefore, consistent
+with the existing studies (Firth Name, 2006.  Kato and Long, 2006. 
+Zhang, 2017), we consider the chairman as the CEO of the ﬁrm.  Since
+the Chinese government possesses the right to appoint the chairman
+of a state-owned listed company, the chairman's political afﬁliation
+provides a suitable proxy for government intervention in state-owned
+ﬁrms.  It also provides an opportunity to compare and explain the
+distinctive impacts of political connections on CER between stateowned ﬁrms and non- state-owned ﬁrms. 
+We manually collect CEO data from the annual reports of all listed
+companies in polluting industries.  For each company, we obtain a
+proﬁle of the CEO from the “Proﬁles of Directors, Supervisors and Senior
+Management” section of the annual report.  The proﬁle typically contains information on CEO's name, age, gender, education, tenure, duality
+and employment history.  From the proﬁle, we trace the CEO's political
+connections by examining whether he or she is currently or formerly
+an ofﬁcer of either the central government, a local government, or the
+military. 
+Since the environmental disclosure regulation was launched by
+China's Ministry of Environmental Protection (MEP) in 2007, the ﬁnal
+sample comprises 4898 ﬁrm-year observations on 823 ﬁrms over the
+period 2008–2014. 
+3. 2.  Measuring ﬁrm environmental responsibility. 
+Consistent with the existing studies (Cho and Patten, 2007.  Liu and
+Anbumozhi, 2009.  Meng Name, 2013.  Zeng Name, 2010), ﬁrm environmental responsibility is measured with the level of corporate environmental information disclosure (EID).  According to the Environmental
+Disclosure Rules issued by China's MEP in 2007, EID usually has ten
+main components listed in Table 1.  And each component is scored
+according to its level of disclosure.  The score ranges between 0 and
+3, where 3 is monetary and quantitative information, 2 is speciﬁc
+non-monetary information, 1 is general non-monetary information,
+and 0 is no information (Wiseman, 1982.  Zeng Name, 2010).  Indeed,
+Bewley and Li (2000) and Cho and Patten (2007) suggest that using
+monetary- and non-monetary-related environmental disclosure is an
+effective tool to gauge levels of corporate EID.  We manually collect
+EID data from the listed company's annual report. 
+The total score of EID for ﬁrm i in year t is this,
+where SCIDijt is the score of the jth component of EID for ﬁrm i, and
+j=1,2,3,…,10.  According to the voluntary disclosure theory (Clarkson
+Name, 2008), the higher the score, the higher the level of environmental
+information disclosure, and the higher the level of corporate environmental responsibility. 
+Table 2 presents the summary statistics for the ten components of
+EID.  There exists a signiﬁcant difference among the ten components
+in terms of the level of environmental information disclosure.  Specifically, I4 (government grants, subsidies and tax reduction related to
+the environment protection) and I3 (ﬁrm's environmental investment
+expenditure for technologies development) are the top two components that ﬁrms would like to disclose.  Conversely, I8 (loans related
+to environmental protection) and I6 (construction and operation of
+environmental improvement) are the two components that ﬁrms
+would not like to disclose, consistent with the ﬁndings in Zeng
+Name (2010). 
+In Table 3, Panel A we present descriptive statistics on EID by industry.  The lowest average score is 5. 3899 and is obtained by the medicine
+and biological products manufacturing industry, while the highest average score, 9. 5304, is obtained by the papermaking and printing industry. 
+In Table 3, Panel B we show descriptive statistics on EID by year.  The
+level of corporate environmental information disclosure has increased
+from 6. 6142 in 2008 to 8. 3925 in 2014, nearly 1. 27 times higher than3. 3.  Political connections. 
+As mentioned before, a company is deﬁned as politically connected if
+its CEO is a current or former government bureaucrat—that is, a current
+or former ofﬁcer of the central or local governments or the military. 
+Hence, political connections (POL) are a dummy variable that equals
+one when the company is politically connected, and zero otherwise. 
+3. 4.  CEO characteristics.  We include commonly used control variables for CEO characteristics
+(Barker and Mueller, 2002.  Petrenko Name, 2016).  CEO Age is measured
+in years and CEO Education level is measured on a ﬁve-point scale
+reﬂecting the highest level of education attained (1 = no college
+degree, 2 = three-year college degree (dazhuan), 3 = undergraduate
+degree, 4 = master's degree, 5 = Ph. D.  degree).  CEO Tenure is measured
+as the number of years for which the ﬁrm's CEO has been in that position.  CEO Gender is a dummy variable that equals one when CEO is a
+male, and zero otherwise.  CEO Duality is measured using a dummy variable that equals one when the Chairman also serves as the General
+Manager (zongjinli), and zero otherwise. 
+3. 5.  Firm characteristics. 
+We also include commonly used control variables for ﬁrm characteristics (Lin Name, 2011.  Liu Name, 2014).  Firm Age is measured as the
+number of years since a ﬁrm's founding date.  Ratio of debt to assets
+(Leverage) is measured with total liabilities divided by total assets.  We
+use the percentage of board members who are independent to measure
+board composition (Independent).  Firm size (Size) is measured as the
+natural log of total number of employees.  Firm ownership (ownership)
+is a dummy variable that equals one when it is a state-owned ﬁrm,
+two when it is a private ﬁrm, three when it is a foreign ﬁrm, and four
+otherwise.  Firm performance is measured as return on assets (ROA),
+where ROA is deﬁned as net proﬁt divided by total assets.  Given Chinese
+ﬁrms' unique ownership structures where share ownership is highly
+concentrated, we control for ownership concentration with direct
+ownership stakes held by the largest shareholders (CR1). 
+To control for time-speciﬁc and industry-speciﬁc macroeconomic
+effects, we include year and industry dummies in all speciﬁcations.  To
+control for unobserved city characteristics, we add a dummy variable
+indicating the status of being a capital city or being directly under the
+central government and a dummy variable indicating whether the city
+is located along a coast line.  Table 4 presents the summary statistics
+for all variables. 
+The sectoral distribution of politically connected ﬁrms is presented in
+Table 5.  The percentage of ﬁrms managed by politically connected CEOs
+has increased from 31. 65% in 2008 to 33. 90% in 2014.  This suggests that
+more and more polluting ﬁrms are establishing political connections via
+hiring politically-connected directors.  There is a cross-industry variation
+in the politically connected ﬁrms.  The highest percentage of politically
+connected ﬁrms occurs in the textiles, clothes, leather and fur products
+sector, and the production and supply of thermal power sector.  Above
+40% of ﬁrms in those two sectors are politically connected.  The lowest
+percentage of politically connected ﬁrms occurs in the medicine and
+biological products manufacturing sector (between 18. 67% and 26. 79%). 
+4.  Empirical analysis. 
+4. 1.  The empirical model and estimation method. 
+The following is our main regression model,
+where EIDijct stands for the CER (i. e.  environmental information
+disclosure) of ﬁrm i operating in industry j and city c at time t.  POL is a
+dummy variable indicating whether ﬁrm i is politically connected. 
+CEO_Char and Firm_Char are the two sets of control variables related to
+CEO characteristics and ﬁrm characteristics, respectively.  αi is ﬁrm ﬁxed
+effects to control for unobserved ﬁrm heterogeneities.  γt is year dummy
+and uijct is the error term. 
+Since CER data are count data, the basic model found in the literature
+to handle count data is the Poisson model (Hausman Name, 1984. 
+Wooldridge, 2002).  One advantage of this speciﬁcation is that the
+estimated coefﬁcients can be interpreted as elasticities when the
+explanatory variables are taken in logarithms.  Therefore, we use the
+Poisson regression with ﬁxed effects to estimate our main regression
+model (1).  At the same time, we also use negative-binomial regression
+with ﬁxed effects which allows for a greater variance of observations
+than is assumed for a Poisson process as a robustness check. 
+One may raise concern about the endogeneity of political connections,
+consistent with the idea that political connections could be affected by
+factors that also determine CER.  We apply Arellano-Bond two-step
+system GMM (Generalized Method of Moments) estimator to our panel
+to deal with the endogeneity originated from unobserved heterogeneity,
+simultaneity, and dynamic relation between political connections and
+CER.  Speciﬁcally, consistent with the existing studies (Roodman, 2006. 
+Wintoki Name, 2012.  Liu Name, 2014), all of the independent variables
+are assumed to be endogenous except ﬁrm age and the year dummies. 
+The third and fourth lags of the dependent variable and the endogenous
+variables, together with all the lags of the exogenous variables, are
+employed as IVs.  Heteroskedasticity is controlled by robust standard
+errors.  The exogeneity of the IVs and the serial correlation of the ﬁrstdifferenced residuals are discussed in Section 4. 2. 
+4. 2.  Main results. 
+Table 6 presents the results of our regression analysis related to the
+effects of political connections on CER.  The results based on the panel
+regression with ﬁxed effects method are reported in column (1), the
+ﬁxed effects Poisson regression in column (2), the ﬁxed effects
+negative-binomial regression in column (3), and the two-step system
+GMM in column (4). 
+As the two-step system GMM method represents a type of instrumental variables regression, it is important to consider the validity of
+the instruments when using this method.  Our test results show that
+our instruments are valid, as indicated by a Hansen test of overidentifying restrictions not being rejected.  We test the ﬁrst-differenced
+residuals for autocorrelations, and ﬁnd an AR(1) test is signiﬁcant and
+AR(2) test is insigniﬁcant. 
+Recall that our hypotheses focus on how CER is affected by political
+connections.  It is found that the coefﬁcients of political connections are
+positive and statistically signiﬁcant using all four methods, suggesting
+that political connections have a signiﬁcant and positive impact on
+CER and this result remains robust to different estimation approaches. 
+This ﬁnding also provides strong support for Hypothesis 1 rather than
+Hypothesis 2. 
+With regard to other CEO and ﬁrm characteristics, the results in
+Table 6 show that CEO's education level is positively associated with
+CER.  This is consistent with the ﬁndings in Fryxell and Lo (2003) and
+Lewis Name (2014).  CEOs with higher educational proﬁles are associated
+with a more complete understanding of environmental knowledge and
+values, which in turn helps to increase the environmental responsibility
+of ﬁrms and minimize environmental impacts.  The coefﬁcient of CEO
+Duality is negative and statistically signiﬁcant, which indicates that
+ﬁrms would reduce their CER activities when the CEO also serves as
+the board chairman.  Focusing on U. S.  publicly traded ﬁrms, de Villiers
+Name (2011) also ﬁnd that ﬁrms are more likely to have better environmental performance if they have a chairman who is not the CEO of the
+same ﬁrm.  They argue that combining the roles of the CEO and board
+chairman (CEO-chair duality) places much power in the hands of one
+person.  If the CEO is faced with a compelling motive for maximizing
+short-term ﬁnancial gains at the expense of strategic investments in environmental opportunities, the presence of a dual CEO-chair will reduce
+the likelihood of the board approving immediate investments in environmental opportunities with long payback periods.  Conversely, the
+separation of the CEO and board chairman roles mitigates the tension
+between managers and board members.  In such instances, the board
+chairman is more likely to promote investments in environmental
+opportunities with potential for long-term social and ﬁnancial beneﬁts. 
+Firm size exerts a signiﬁcantly positive impact on CER.  The signiﬁcant
+relationship between ﬁrm size and CER is consistent with ﬁndings
+from the more general voluntary disclosure literature (see, e. g.  Patten,
+2002.  Reid and Toffel, 2009).  These studies show that larger companies,
+due to visibility concerns, tend to disclose more environmental information than smaller ﬁrms. 
+4. 3.  Robustness checks. 
+To conﬁrm the general pattern of our results in Table 6, we conduct a
+number of robustness checks.  First, following Du Name (2014), we replicate our results using the Z-score normalization of EID (EID_NORM) as
+an alternative measure of CER to assess whether our results are sensitive
+to the speciﬁc CER measures we select.  Speciﬁcally, EID_NORM is
+obtained using the following expression,
+where μEID and σEID are the mean and standard deviation of EID, respectively.  As shown in columns (1) and (2) of Table 7, our main results
+remain robust to this alternate dependent variable. 
+Second, we use return on sales (ROS) as an alternative measure of
+ﬁrm performance, as in Wintoki Name (2012), where ROS is deﬁned as
+net proﬁt divided by sales revenue.  As shown in columns (3), (4) and
+(5) of Table 7, our main results remain robust to this measure of ﬁrm
+performance. 
+Third, we replace CR1 with CR3, direct ownership stakes held by the
+three largest shareholders, as a proxy for ownership concentration.  As
+shown in columns (6), (7) and (8) of Table 7, our main results remain
+robust to this alternative measure of ownership concentration. 

@@ -1,0 +1,241 @@
+Theta Oscillations in the Human Medial Temporal
+Lobe during Real-World Ambulatory MovementHighlights
+d Movement-related 8 Hz theta oscillations occur in the human
+medial temporal lobe
+d Theta occurs in short bouts that are more prevalent during
+fast versus slow movements
+d The duration and prevalence of theta are higher in a
+congenitally blind participant
+d Combined motion capture and iEEG allow for future studies
+of ambulatory behaviorZahra M.  Aghajan, Peter Schuette,
+Tony A.  Fields, . . . , John Stern, Itzhak
+Fried, Nanthia Suthana
+Correspondence
+nsuthana@mednet. ucla. edu
+In Brief
+Aghajan Name record deep brain activity,
+during untethered freely moving
+behavior, from participants chronically
+implanted with depth electrodes.  They
+demonstrate that 8 Hz theta oscillations,
+the hallmark of spatial navigation in
+rodents, also occur in humans, albeit in
+shorter bouts that are more prevalent
+during fast versus slow movements. 
+M.  Aghajan Name, 2017, Current Biology 27, 3743–3751
+December 18, 2017 Published by Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 062
+Current BiologyTheta Oscillations in the Human Medial Temporal
+Lobe during Real-World Ambulatory Movement
+Zahra M.  Aghajan,1 Peter Schuette,1 Tony A.  Fields,2 Michelle E.  Tran,3 Sameed M.  Siddiqui,1 Nicholas R.  Hasulak,4
+Thomas K.  Tcheng,4 Dawn Eliashiv,2 Emily A.  Mankin,3 John Stern,2 Itzhak Fried,1,3,5,6 and Nanthia Suthana1,3,7,8,*
+1Department of Psychiatry and Biobehavioral Sciences, Semel Institute for Neuroscience and Human Behavior, University of California, Los
+Angeles, Los Angeles, CA 90095, USA
+2Department of Neurology, University of California, Los Angeles, Los Angeles, CA 90095, USA
+3Department of Neurosurgery, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA 90095, USA
+4NeuroPace, Inc. , Mountain View, CA 94043, USA
+5Functional Neurosurgery Unit, Tel Aviv Medical Center, Tel Aviv 64361, Israel
+6Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv 69978, Israel
+7Department of Psychology, University of California, Los Angeles, Los Angeles, CA 90095, USA
+8Lead Contact
+*Correspondence: nsuthana@mednet. ucla. edu
+https://doi. org/10. 1016/j. cub. 2017. 10. 062The theta rhythm—a slow (6–12 Hz) oscillatory
+component of the local ﬁeld potential—plays a critical role in spatial navigation and memory by coordinating the activity of neuronal ensembles within the
+medial temporal
+lobe (MTL).  Although theta has
+been extensively studied in freely moving rodents,
+its presence in humans has been elusive and primarily investigated in stationary subjects.  Here we used
+a unique clinical opportunity to examine theta within
+the human MTL during untethered,
+real-world
+ambulatory movement.  We recorded intracranial
+electroencephalographic activity from participants
+chronically implanted with the wireless NeuroPace
+responsive neurostimulator (RNS) and tracked their
+motion with sub-millimeter precision.  Our data revealed that movement-related theta oscillations
+indeed exist in humans, such that theta power is
+signiﬁcantly higher during movement than immobility.  Unlike in rodents, however, theta occurs in
+short bouts, with average durations of 400 ms,
+which are more prevalent during fast versus slow
+movements.  In a rare opportunity to study a congenitally blind participant, we found that both the prevalence and duration of theta bouts were increased
+relative to the sighted participants.  These results
+provide critical support for conserved neurobiological characteristics of theta oscillations during ambulatory spatial navigation, while highlighting some
+fundamental differences across species in these
+oscillations between humans and rodents. 
+INTRODUCTION
+The crucial role of the medial temporal lobe (MTL) in declarative
+memory and encoding new experiences is unequivocal based on
+an abundant body of literature in humans and many mammalian
+species [1–3].  It is posited that the ongoing rhythmic oscillatory
+activity in the local ﬁeld potential (LFP) is critical for the temporal
+organization of neural assemblies in this region, allowing
+appropriate modiﬁcation of synaptic connections.  Additionally,
+various frequency bands are thought to be involved in different
+brain functions [4, 5]. 
+In particular, the 6–12 Hz frequency
+range—commonly referred to as the theta rhythm—has been
+associated with exploratory behavior [6, 7] and rapid eye movement (REM) sleep [8], and different features of this rhythm have
+been linked to memory performance on various tasks [9–13]. 
+In the rodent hippocampus, theta oscillations (6–12 Hz) are
+most prominent during locomotion, even during tasks with no
+memory demand, such as running on linear tracks and random
+foraging, although a lower frequency theta (3–7 Hz) has been
+reported during periods of immobility [14].  Theta has also been
+reported in other species, such as cats [15], and in shorter oscillatory bouts in bats [16, 17], non-human primates [18, 19], and
+humans [20–22].  There is, thus, an apparent discrepancy in the
+presence of persistent movement-related theta across species. 
+This issue is confounded by the fact that—due to restrictions
+imposed by recording techniques—electrophysiological recordings in primates, contrary to those performed in rodents, have
+typically employed virtual navigation in stationary subjects. 
+Recent rodent hippocampal recordings during virtual navigation
+have demonstrated signiﬁcant differences in theta dynamics
+between virtual and real-world navigation, including lower frequencies and a lack of frequency-speed dependence in virtual
+navigation [23, 24].  In light of these studies, resolving whether
+persistent movement-related theta could be a feature of human
+navigation requires directly probing the intracranial electroencephalogram (iEEG) during natural voluntary human movement. 
+Movement-related theta was observed in walking humans in one
+recent study [22].  However, due to lack of motion tracking, this
+study did not allow for characterization of theta with respect to
+movement parameters [22].  We therefore conducted an experiment to elucidate the properties of theta oscillations in the MTL
+of freely moving humans.  This was made possible by using a
+novel chronic implant that allowed for wireless iEEG recording
+outside of a restrictive hospital setting. 
+Current Biology 27, 3743–3751, December 18, 2017 Published by Elsevier Ltd.  3743
+Figure 1.  Simultaneous Motion Tracking
+and iEEG Recording within the Human MTL
+(A) Example post-operative CT of a participant with
+an implanted electrode in the right hippocampus
+(top left) along with a coronal view of a high-resolution MRI overlaid with co-registered electrodes
+(shown in yellow). 
+(B) Sample trajectory of a participant during one
+complete trial consisting of
+linear and circular
+movements. 
+(C) Schematic of the setup of cameras used for
+motion capture (see the STAR Methods).  Inset:
+real-time motion tracking of an example participant is shown. 
+(D) Movement speed distribution of all sighted
+participants (green; median, [25th, 75th] = 0. 87,
+[0. 20, 1. 14] m/s, Ntrials = 21) and one congenitally
+blind participant (black; median, [25th, 75th] = 0. 44,
+[0. 05, 0. 68] m/s, Ntrials = 7).  Dashed vertical lines
+indicate median value; shaded areas correspond
+to kernel smoothing function estimates of the distributions. 
+See also Tables S1 and S2 and Movie S1. 
+<Middle> RESULTS. 
+MTL Recordings in Freely Walking Humans Implanted
+with the RNS System
+Participants were four neurosurgical patients (one congenitally
+blind), chronically implanted with the FDA-approved NeuroPace
+RNS System (responsive neurostimulator) (Figure 1A) for treatment of pharmacologically intractable epilepsy.  For participant
+demographics, see Tables S1 and S2.  For studying ambulatory
+movement, the RNS System provides two signiﬁcant advantages over traditional recording techniques in the hospital
+setting: motion and muscle artifacts are entirely eliminated (since
+the implant is fully shielded); subjects are able to freely move
+around without the limitations imposed by restrictive hospital
+equipment, related safety protocols, and tethered implanted
+wires connected to large recording equipment.  The RNS System
+recorded continuous bipolar iEEG activity from two adjacent
+electrode contacts (sampling rate: 250 Hz, with an analog ﬁlter
+equivalent to a ﬁrst-order Butterworth with 3 dB attenuation at
+the cutoff frequencies (4–90 Hz); for a detailed description, see
+the STAR Methods).  Participants with MTL electrodes performed
+a task in which they were instructed to walk along linear and circular paths at slow and fast speeds.  A complete trial consisted of
+the following four movements: (1) slow movement in straight
+lines, (2) slow movement in circles, (3) fast movement in straight
+lines, and (4) fast movements in circles; the order of these instructions was randomized (Figure 1B; see the STAR Methods). 
+Within each trial, after the participants ﬁnished one type of movement, they were temporarily immobile until a pre-recorded voice
+command informed them to begin the next type of motion. 
+Motion tracking was performed using the OptiTrack system
+(Natural Point), which was capable of recording participants’ positional and rotational information (Figures 1C and 1D; Movie S1). 
+Position information was recorded simultaneously with iEEG
+3744 Current Biology 27, 3743–3751, December 18, 2017
+data (Figure 2A; Movies S2 and S3; see the STAR Methods). 
+The locations of electrodes were determined by co-registration
+of high-resolution post-operative computed tomography (CT)
+images with high-resolution pre-operative magnetic resonance
+images that had been subjected to automated segmentation of
+MTL subregions to facilitate visualization (Figure 2B; Table S3;
+see the STAR Methods).  Although the RNS System is implanted
+in potential seizure onset zones, pairs of electrode contacts
+frequently span up to 10 mm of tissue, thereby leading to
+some recordings in healthy tissue.  In the current study, each
+participant had at least one contact ipsilateral to the seizure
+onset zone (Table S3).  To further account for epileptic tissue in
+all contact recordings, we eliminated epochs with putative
+epileptic activity by using a thresholding algorithm, similar to
+methods previously described [25] (see the STAR Methods and
+Figure S1A), and visual inspection, which resulted in discarding
+3% of the data per trial (median, [25th, 75th] = 3. 04%, [1. 32%,
+4. 62%], Nparticipants = 4, Ntrials 3 channels = 112; Figure S1B). 
+Note that the responsive therapy (stimulation feature) was turned
+off during the experiments and, hence, there was no stimulation
+artifact in the data (see the STAR Methods). 
+Theta Oscillations during Movement and ImmobilityExamination of raw iEEG traces revealed striking theta oscillations, which were readily visible (Figure 2A; Movies S2 and S3). 
+We ﬁrst sought to examine whether these theta oscillations
+were more prominent during movement than immobility and
+would thus be considered an analog of movement-related theta
+in rodents.  To address this, in each trial a multi-taper power
+spectrum was calculated within each condition, i. e. , movement
+versus immobility, deﬁned as speeds below 10 cm/s.  We found
+that theta power was indeed higher during movement, as shown
+in individual examples (Figure 3A; Figure S2).  The theta power
+Figure 2.  Example Theta Oscillations in the Human MTL
+(A) Example 1-s-long raw iEEG traces (gray) from the MTL of all study participants overlaid with ﬁltered (3–12 Hz) theta oscillations (hippocampal and entorhinal
+theta shown in red and blue, respectively).  Participant P3 is congenitally blind.  Note that, on average, the duration of theta bouts is shorter than 1 s, as
+demonstrated in this ﬁgure (for a detailed characterization, see Figure 4). 
+(B) (Left) Sample electrode locations from a participant (P2) overlaid onto coronal pre-operative high-resolution MRI.  (Right) Automated MTL subregion
+segmentation (note that different colors correspond to different areas) demonstrating electrode locations in an example participant.  White areas correspond to
+white matter. 
+See also Figures S1 and S6, Table S3, and Movies S2 and S3. 
+index, a normalized measure of power difference between the
+two conditions, was signiﬁcantly positive for all participants
+(Figure 3B; see the STAR Methods) and on the population level(median, [25th, 75th] = 0. 40, [0. 30, 0. 51]; p = 4. 56 3 10
+Wilcoxon signed-rank test; n = 112).  This analysis assumes
+that individual data points are statistically independent and
+cannot account for potential clustering of the data due to the
+within-subject
+repeated-measures design.  To address this,
+since neighboring electrode contacts and repeated trials from
+the participant do not constitute independent samples, we
+used generalized estimating equations (GEEs) [26, 27] to model
+relative theta power as a function of whether the participant was
+moving or not (see the STAR Methods).  In agreement with the
+results obtained from the theta power index distribution, we
+found that movement is indeed a signiﬁcant factor in predicting
+relative theta power (p < 0. 001, Wald c2 = 172. 50; estimated
+means and 95% Wald conﬁdence intervals are as follows:for
+immobility). 
+for movement and 0. 30,
+[0. 67, 0. 73]
+[0. 27, 0. 33]
+Prevalence of Theta Oscillations
+To further investigate how movement speed modulated theta,
+we quantiﬁed the prevalence of signiﬁcant theta oscillations during fast versus slow movements using the better oscillation
+detection (BOSC) method [28–30].  This method uses wavelets
+to provide a power estimate for the signal, and—accounting
+for the background 1/f dependency—it can detect periods with
+signiﬁcant oscillations at different
+frequencies that exceed
+thresholds for power and duration (see the STAR Methods). 
+This method was recently used by Watrous Name [31]comparative study of theta oscillations between virtual navigation studies in humans and real-world navigation studies in rodents.  Therefore, applying the BOSC method allowed for direct
+comparisons of our ﬁndings with previously published results. 
+For each participant and within each trial, data were separated
+into low- and high-speed movements using a median split on
+speed in that trial to obtain an equal amount of data within
+each condition (see the STAR Methods).  By utilizing the BOSC
+method [28, 29], episodes with signiﬁcant oscillations between
+3 and 30 Hz (p-episodes, percentage trial time in oscillatory
+episodes [29]; occurring for at least 3 cycles and above 95%
+chance level; Figure 4A) were calculated in frequency windows
+of 0. 25 Hz (see the STAR Methods).  We found that, in all 4 participants, there was a signiﬁcant increase in theta oscillations
+during fast movements compared to slow movements
+(Figure 4B).  This increase in the prevalence of
+theta, as
+quantiﬁed by p-episodes, was observed between 7 and
+9. 25 Hz (Ntrials 3 channels = 84; p < 0. 05, clustered-based permutation test [32]; see the STAR Methods) for the sighted participants and between 6. 5 and 8. 75 Hz in the congenitally blind
+Current Biology 27, 3743–3751, December 18, 2017 3745
+Figure 3.  Theta Power during Movement versus Periods of Immobility
+(A) Example (normalized) power spectra from a sighted participant (P1, top, green) and the congenitally blind participant (P3, bottom, black) displaying more theta
+power during movement (solid lines) compared to immobility (dashed lines).  The power spectrum for each trial was normalized by the average power in that trial,
+during movement and immobility, over the frequency range 3–12 Hz. 

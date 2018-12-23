@@ -1,0 +1,1784 @@
+Applied Psycholinguistics 38 (2017), 1019–1043
+doi:10.1017/S0142716417000029
+
+Morphological awareness: Construct
+and predictive validity in Arabic
+
+SANA TIBI
+Florida State University
+
+JOHN R. KIRBY
+Queen’s University
+
+Received: April 4, 2016
+
+Accepted for publication: December 11, 2016
+
+ADDRESS FOR CORRESPONDENCE
+Sana Tibi, School of Communication Science and Disorders, Florida State University,
+201 West Bloxham Street, Tallahassee, FL 32306-1200. E-mail: stibi@fsu.edu
+
+ABSTRACT
+The purposes of this study were to examine the dimensions underlying morphological awareness (MA)
+in Arabic (construct validity) and to determine how well MA predicted reading (predictive validity). Ten
+MA tasks varying in key dimensions (oral vs. written, single word vs. sentence contexts, and standard
+vs. local dialect) and two reading tasks (real word and pseudoword reading) were administered to
+102 Arabic-speaking Grade 3 children in Abu-Dhabi. Factor analysis of the MA tasks yielded one
+predominant factor, supporting the construct validity of MA in Arabic. Closer inspection revealed that
+this factor had two subcomponents, oral and written. Hierarchical regression analyses, controlling for
+age and gender, indicated that both the one- and the two-factor solutions accounted for 48% of the
+variance in word reading, and 40% of the variance in pseudoword reading, supporting the predictive
+validity of MA. Implications for future research, assessment, and instruction are discussed.
+
+Recent research on reading in English provides mounting evidence for the role
+of morphology in a variety of literacy skills. Morphology refers to the aspect of
+language that deals with “word-formation processes, including inﬂections, deriva-
+tions, and compounds” (Nagy, Carlisle, & Goodwin, 2014, p. 4). Morphology
+provides meaningful cues for the reader and the speller, because it allows learners
+to analyze unknown words into their constituent morphemes and synthesize the
+morphemes into complex words. Whereas some morphological processing oper-
+ates automatically without conscious awareness (e.g., Deacon, Parrila, & Kirby,
+2008), the conscious metalinguistic sensitivity to morphological structure and the
+ability to manipulate morphemes have been referred to as morphological aware-
+ness (MA; Carlisle, 1995).
+
+The role of MA in word reading and reading comprehension has been well
+established in English monolinguals, above and beyond the effects of phonologi-
+cal awareness, vocabulary, and verbal and nonverbal intelligence (Carlisle, 1995;
+Kieffer, & Lesaux, 2012; Kirby et al., 2012; Nagy, Beringer, & Abbott, 2006). MA
+has been linked to a variety of literacy skills, including reading accuracy, reading
+
+© Cambridge University Press 2017 0142-7164/17
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1020
+
+ﬂuency, reading comprehension (Roman, Kirby, Parrila, Wade-Woolley, & Dea-
+con, 2009), spelling (Carlisle, 1987; Deacon, Kirby, & Casselman-Bell, 2009;
+Nunes & Bryant, 2006; Nunes, Bryant, & Olsson, 2003), and vocabulary (Bow-
+ers & Kirby, 2010; Carlisle & Fleming, 2003; Nagy & Anderson, 1984). Meta-
+analyses show that morphological instruction leads to signiﬁcant gains in vocab-
+ulary and reading (Bowers, Kirby, & Deacon, 2010; Goodwin & Ahn, 2013).
+Morphological problem solving has been linked to children’s ability to deci-
+pher previously untaught complex words (Anglin, 1993; Bowers & Kirby, 2010;
+Carlisle, 2007; Carlisle & Fleming, 2003; Wysocki & Jenkins, 1987). All of these
+ﬁndings underscore the role of morphology in literacy outcomes.
+
+In contrast, MA and reading by Arabic-speaking children is underresearched
+(Abu-Rabia, 2007, Abu-Rabia & Shalhoub-Awwad, 2004; Saiegh-Haddad, 2013;
+Saiegh-Haddad & Geva, 2008; Shalhoub-Awwad & Leiken, 2016; Taha & Saiegh-
+Haddad, 2016, 2017). The available studies on processes of reading Arabic have
+included relatively small samples (sometimes not from a monolingual Arabic pop-
+ulation), used a limited number of morphological tasks, or dealt exclusively with
+adults in priming experiments. The paucity of research on MA in Arabic reading
+is conspicuous, particularly because morphology is a salient feature of the Arabic
+lexical structure. The majority of Arabic words are at least bimorphemic because
+surface forms are derived by applying two abstract morphemic units (roots and
+word patterns; Eviatar & Ibrahim, 2012). Furthermore, Arabic morphology and
+orthography have a number of features that distinguish them from more com-
+monly studied languages and orthographies such as English. For example, as
+Boudelaa (2015) said, “The historically predominant analysis of Arabic morphol-
+ogy is stated in root-and pattern terms, where surface word forms are constructed
+by interleaving bound morphemes one within the other” (p. 2). After describing
+the nature of morphological processing and morphological awareness, and re-
+viewing evidence (in English) on the dimensionality of morphological awareness,
+we will return to a more detailed analysis of Arabic language, orthography, and
+morphology.
+
+MORPHOLOGICAL PROCESSING AND MORPHOLOGICAL
+AWARENESS
+
+It is important to note that there is a difference between MA and morphological
+processing. The classical example of the “Wug test” devised by Berko (1958)
+has provided evidence that children as young as 4 years old have and can use
+knowledge about English morphological rules. Children’s overgeneralization of
+the –ed sufﬁx to irregular past tenses such
+buyed is another example
+of their unconscious knowledge of their morphology system (Nagy et al., 2014;
+Owens, 2001). These are examples of tacit morphological processing. At the
+more explicit level, MA requires conscious working out of the morphological pro-
+cesses needed, that is, awareness. There seems to be a ﬁne line between MA and
+morphological processing, and sometimes it is not easy to differentiate between
+implicit and explicit MA tasks. For example, selecting which of two sentences has
+correct morphology could be done by judging which sounds better, without any di-
+rect or explicit application of morphological knowledge. Other tasks, for instance,
+
+goed or
+
+∗
+
+∗
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1021
+
+constructing a word that has particular morphological characteristics, require more
+explicit morphological knowledge (Deacon et al., 2008). Bowers et al. (2010) and
+Nagy et al. (2014) have pointed out that this is a complex issue because existing
+measures of MA draw on both implicit and explicit processes. Deacon et al. (2008)
+argued that morphological tasks vary with respect to modality, content, and pro-
+cess, and proposed a taxonomy to delineate the types of MA tasks. For example, a
+morphology task may use oral or written stimuli and oral or written responses. The
+content of a morphology task could include inﬂectional or derivational morphol-
+ogy. Furthermore, morphology tasks may ask participants to produce a response
+or judge the correctness of a particular response. Other factors contributing to
+this complexity include developmental issues; for example, younger children who
+are still in the process of reading acquisition may perform differently than older
+children who read more ﬂuently and have gained more vocabulary. Another factor
+could be individual differences between children depending on the type of educa-
+tion they receive and their abilities, including intellectual abilities. Task demands
+vary also and may tap other factor such as memory or syntax. Finally, differences
+across languages/orthographies and the way the type of morphology (linear vs.
+nonlinear or root based vs. stem based) would play a role in the processes needed
+to process words.
+
+THE DIMENSIONALITY OF MORPHOLOGICAL AWARENESS
+
+While numerous studies have examined the role of MA in the development of
+reading in English and other alphabetic orthographies, only a few studies have
+investigated the dimensionality of MA in English-speaking children (Muse, 2005)
+or adults (Tighe & Schatschneider, 2015). Although a wide range of MA mea-
+sures has been used across studies (Apel, Diehm, & Apel, 2013), only few studies
+(Muse, 2005; Spencer et al., 2015; Tighe & Schatschneider, 2015) have examined
+the number of dimensions underlying multiple MA measures. Muse (2005) ad-
+ministered nine MA measures to a sample of fourth graders and found that MA
+emerged as a single latent construct, having considered a number of possible dis-
+tinctions underlying the morphological structure: oral–written, implicit–explicit,
+multiple-choice versus production, inﬂection versus derivational, different levels
+of word complexity, and whether contextual clues were included or excluded.
+Tighe and Schatschneider (2015) gave seven measures of MA and two vocab-
+ulary measures to a group of adult students, ﬁnding that MA divided into two
+dimensions, one for real words and one for pseudowords, each separate from vo-
+cabulary. Furthermore, Spencer et al. (2015) reported on the unidimensionality of
+morphological awareness in two studies using a number of different morpholog-
+ical awareness tasks and an expanded set of vocabulary measures examining the
+breadth and depth of vocabulary knowledge. They emphasized that morphological
+awareness is an integral part of vocabulary knowledge and may even be considered
+a facet of an individual’s depth of vocabulary knowledge. Spencer et al. (2015)
+supported a unidimensional model that encompassed morphological awareness
+and vocabulary knowledge.
+
+The variety of MA measures used in the literature spans many differences in
+task requirements, as described in the above studies and in the taxonomy proposed
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1022
+
+by Deacon et al. (2008). Although there are linguistic differences between Arabic
+and English, it is important to note that the current study is partially framed in
+terms of the English literature on morphological awareness only because that is
+the greatest amount of literature available. Hence, the multidimensionality of MA
+as a construct needs to be explored further, and in languages other than English.
+No study has investigated the construct of MA and examined its relationship
+to reading among native Arabic-speaking children using multiple measures with
+distinct task requirements.
+
+ARABIC LANGUAGE AND ORTHOGRAPHY
+
+Arabic is a Semitic language. Its orthography has 28 letters that are primarily
+consonantal, is written from right to left, and uses superscripted diacritics to
+mark its three short vowels (Saiegh-Haddad & Henkin-Roitfarb, 2014). When
+Arabic orthography employs the diacritics, it is considered to be a shallow (i.e.,
+transparent) orthography. However, when Arabic words and texts appear without
+superscripted vowels (diacritics), it is considered to be a deep (i.e., opaque) or-
+thography. Abu-Rabia (2001) demonstrated that vowelized words and text were
+read more accurately than nonvowelized words and text by skilled Arabic read-
+ers. However, Shalhoub-Awwad and Leikin (2016) showed that morphological
+knowledge conveyed by the consistency in the word patterns compensated for the
+missing vowels. In explaining how readers of Semitic languages such as Arabic
+and Hebrew read when short vowels are omitted, Hansen (2014) argued “The fact
+that short vowels are normally omitted in Semitic writing makes decoding more
+reliant on other kinds of information than phonology. . . . , decoding is predomi-
+nantly orthographic, and the vast number of homographs makes the reader heavily
+dependent on context in the quest for the meaning of words” (p. 71).
+
+A description of the Arabic language would be incomplete without a men-
+tion of diglossia. The term diglossia describes two linguistically related varieties
+of a language: the standard and the spoken (Ferguson, 1959). Literary or Stan-
+dard Arabic is used in writing and in formal communication, whereas spoken
+Arabic, a linguistically related form usually referred to as colloquial Arabic, is
+used in daily conversation. Although each country in the Arab world has its
+own distinguishing dialects, they all share the same standard language, which
+is the only form that appears in conventional writing. All literate Arab per-
+sons are taught this standard form in formal schooling and are expected to read
+and write using this written standard form regardless of their spoken dialects
+(Tibi & McLeod, 2014).
+
+The difference between the standard form and the dialect has been referred as
+“linguistic distance” by Saiegh-Haddad (2003), and the differences exist at the
+phonological, morphological, syntactic, and lexical levels. In a series of studies,
+Saiegh-Haddad (2003, 2004, 2005) tested the impact of the phonological distance
+on phonological awareness and word decoding, and showed that the difﬁculty
+children have with Standard Arabic phonemes appears to be related to the quality
+of phonological representations in long-term memory. In a recent study, Saiegh-
+Haddad and Schiff (2016) showed that this affects reading in both vowelized and
+unvowelized Arabic across the school grades (Grades 2–10). If we acknowledge
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1023
+
+that “reading is jointly deﬁned by a language and by the writing system that encodes
+the language” (Perfetti, 2003, p. 4), then Arabic reading acquisition in the context
+of diglossia deserves to be investigated further. In spite of considerable overlap
+between spoken Arabic and Standard Arabic, diglossia is evident in all aspects
+of the language: phonology, morphology, syntax, and vocabulary. For example,
+morphology in spoken Arabic has fewer inﬂections than Standard Arabic (for a
+review, see Saiegh-Haddad & Henkin-Roitfarb, 2014).
+
+ARABIC MORPHOLOGY
+
+The cross-linguistic differences between Arabic and more commonly studied lan-
+guages like English extend to its morphology. Arabic morphology is in sharp
+contrast with Indo-European morphology in its linguistic structure and functions
+(Boudelaa, 2014; Boudelaa, Pulverm¨uller, Hauk, Shtyrov, & Marslen-Wilson,
+2010; Frost, 2012; Saiegh-Haddad, 2013; Saiegh-Haddad & Henkin-Roitfarb,
+2014). Two main systems make up Arabic morphology: inﬂectional and deriva-
+tional. Inﬂectional morphology provides information about the grammatical func-
+tions of a word such as gender, number (singular, dual, and plural), person, case,
+mood, and tense (see Saiegh-Haddad & Henkin-Roitfarb, 2014). In this inﬂec-
+tional system, preﬁxes, sufﬁxes, or both are added to real words in a linear fashion
+/kitaab/ “one book” /kitaabaan/ “two books.” In Arabic derivational morphology,
+words are formed by combining two bound morphemes (root and word pattern).
+The root is only consonantal and carries the general meaning of the lexeme,
+whereas the word pattern is mainly vocalic and provides phonological and mor-
+phosyntactic information (Holes, 2004). Derivations are formed by interleaving
+the consonants of the root with different word patterns. The different word patterns
+are classiﬁed into nominal word patterns and verbal words patterns that represent
+different grammatical categories such as agentive, passive adjective, passive verb,
+and active participle (for more examples, see Saiegh-Haddad & Henkin-Roitfarb,
+2014). To illustrate, the root /k t b/ with its general semantic ﬁeld “anything related
+to writing” when afﬁxed on different word patterns (with each dash representing
+the position of a root consonant), such as (-a-a-a), (-a:-i-), (-u-i-a), or (ma- - a-),
+yields the following distinct but semantically related words with different syn-
+tactic functions: /kataba/ meaning “to write,” /ka:tib/ (“writer”), /kutiba/ (“was
+written”), and /maktab/ (“ofﬁce” or “desk”). The root’s three consonants /k t b/
+remain in the same order in all of the derivatives. Preserving the sequence of these
+consonants has a morphological function (lexical access) and provides the general
+semantic ﬁeld, in this case “anything related to writing.” Conversely, changing the
+order of the consonants changes the semantic ﬁeld. For example, the word /kabata/
+yields a different word meaning, “to suppress.” In some cases, such a change may
+yield a pseudoword (e.g.,
+
+takaba).
+
+∗
+
+In contrast, when the same word pattern combines with different roots, the
+result is different words with similar syntactic functions, but completely different
+meanings. For example, the pattern (-a-a-a) has the grammatical function of the
+verb “to do.” When afﬁxed to different roots such as /d r s/, /k t b/, or /r s m/,
+the result is /darasa/, /kataba/, or /rasama/, meaning “to study,” “to write,” and
+“to draw,” respectively. It has been reported that there are 5,336 roots and 2,324
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1024
+
+word patterns in Standard Arabic (Boudelaa & Marslen-Wilson, 2010). The root-
+word pattern structure causes almost all Arabic words (with the exception of few
+function words) to be at least bimorphemic. Some roots are highly productive
+allowing for many words to be derived from them.
+
+In addition to the inﬂectional and derivational systems of Arabic morphology,
+there is another group of morphemes referred to as clitics, which Saiegh-Haddad
+and Henkin-Roitfarb (2014) described as “grammatically independent, but phono-
+logically dependent on another word or phrase. . . . Clitics may attach to the
+word . . . and can co-occur within the same word, resulting in one-word phrases
+and clauses” (p. 14). For example, the one-word clause /bimadrasatihi/ “in his
+school” includes the preﬁx /bi/ “in,” /madrasat/ “school,” and “hi/ referring to the
+sufﬁx that means “his.”
+
+The complexity of Arabic morphology being both linear and nonlinear requires
+the Arabic reader to process its morphology by means of composition and de-
+composition processes to attain comprehension (Boudelaa, 2014; Boudelaa et al.,
+2010). In the composition process, the Arabic learner applies different patterns to
+the root in order to derive different words. In the decomposition process, the learner
+extracts the root from the polymorphemic word to derive the meaning. Both pro-
+cesses are important and natural for the advanced learner. Frost, Kugler, Deutsch,
+and Forster (2005) found that morphological priming was far more robust than
+orthographic priming in Hebrew and Arabic. Boudelaa (2015) provided evidence
+from two cross-modal priming experiments that Arabic learners rely mainly on
+the root in accessing meaning. He found that the consonants that belong to the root
+were more effective primes than the vowels of the word patterns. Boudelaa con-
+cluded that the roots and word patterns in Arabic have distinct representational and
+processing properties. Similarly, Ussishkin, Dawson, Wedel, and Schluter (2015)
+found that the consonantal root facilitated priming in spoken-word recognition in
+Maltese, another Semitic language.
+
+The predominance of the root-word pattern morphological structure in Arabic
+words has been shown to play a key role in reading accuracy and comprehension
+among normal and dyslexic Arabic readers across different age groups (Abu-
+Rabia, 2007; Abu-Rabia, Share, & Mansour, 2003; Abu-Rabia & Taha, 2004) and
+in spelling (Saiegh-Haddad, 2013). Abu-Rabia (2007) compared typically devel-
+oping and dyslexic Palestinian students in Grades 3, 6, 9, and 12 and found that,
+within groups and across grade levels, performance on an orthographic morphol-
+ogy task was a robust, and often the sole, predictor of word recognition accuracy
+and reading comprehension in vowelized texts. In a previous study, Abu-Rabia
+et al. (2003) compared reading-disabled and normal readers of the same chrono-
+logical age (9.5–10.5 years), and younger normal readers (7.5–8.5 years) at the
+same reading level as the reading disabled children. They found that the reading-
+disabled children performed poorly on the morphological measures, and their
+overall performance was signiﬁcantly poorer than that of the other groups. After
+phonological awareness, morphology was the strongest predictor. Saiegh-Haddad
+(2013) found that Grade 1 Arabic-speaking students made use of morphology
+while doing a spelling task. For example, spelling accuracy with the letter <t>
+increased when the <t> was part of the root as opposed to part of the word pattern
+(e.g., present tense preﬁx).
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+THE CURRENT STUDY
+
+1025
+
+Considering the relative lack of research on Arabic MA and reading, especially
+among children, the importance of morphology in the Arabic lexical structure,
+and the speciﬁc linguistic nature of Arabic (e.g., differences between spoken and
+Standard Arabic, and differences between the root and word patterns), we set out
+to investigate the dimensionality of Arabic MA and its role in reading Arabic with
+native Arabic-speaking Grade 3 children. Examining morphological awareness in
+Arabic may reveal new insight because of its varied types of morphology (linear
+and nonlinear), and because its words are formed mostly through derivational
+processes. Furthermore, the diglossic situation of Arabic makes it different from
+other languages investigated so far. It is also important to note that the available
+studies on Arabic processes of reading have included a relatively small sample
+(sometimes not from an Arabic population), examined older students only, used
+a limited number of morphological tasks, or dealt with adults only in priming
+experiments. None of the Arabic studies has examined the performance of typical
+Arabic-speaking children living in an Arabic country on a wide range of mea-
+sures capturing all domains of morphology in addition to reading measures. More
+important, none of the available studies on Arabic morphology has attempted to
+examine the underlying nature of morphological knowledge in Arabic. Our reasons
+for studying Arabic are, ﬁrst, to extend the MA literature, and second, to capitalize
+on key features of Arabic concerning morphology and its potential relationship
+to reading. The mounting evidence on the strong relationship between morpho-
+logical awareness and reading motivated us to explore this relationship in Arabic,
+particularly because Arabic combines linear and nonlinear morphology and plays
+a central role in forming its words. Therefore, the present study investigates the
+following research questions:
+
+1. What dimensions underlie morphological awareness in Arabic?
+2. Does morphological awareness predict the reading ability of Arabic-speaking
+
+children, and if so, how well?
+
+To answer the ﬁrst question, we developed 10 MA tasks in Arabic covering a
+wide range of dimensions (Deacon et al., 2008), and examined their dimension-
+ality through exploratory factor analysis. An exploratory analysis was conducted
+because there were many plausible alternative structures and little guidance was
+provided by prior research regarding constructs and construct validity. We used
+Deacon et al.’s taxonomy to construct a set of 10 MA tests that varied in several
+dimensions. In designing the tasks, we took into consideration the morphological
+structure of Arabic (e.g., root vs. word pattern), and inﬂectional versus derivational
+processes. We included a variety of different consonantal roots and different word
+patterns covering a wide range of grammatical functions and different inﬂectional
+and derivational processes in each measure. Because Arabic is diglossic in nature,
+it was possible to assess children on an oral task in their own dialect. Including
+an oral task may shed light on the nature of dimensionality in Arabic MA. For
+example, are there two dimensions, dialect versus standard? The same applies
+to including both written and oral tasks in the sense that oral versus written di-
+mensions could emerge. To answer the second research question, we developed
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1026
+
+two reading tests (words and pseudowords), and due to the central function of
+morphology in forming Arabic words, we investigated the relationship between
+MA and reading (predictive validity).
+
+METHOD
+
+Participants
+Participants were 102 Arabic-speaking children (51 girls; mean age = 104 months,
+SD = 5.7 months) recruited from three public schools in the Emirate of Abu Dhabi
+in the United Arab Emirates (UAE). All children in Grade 3 in the participating
+schools were invited to participate. Only the children with parental consent and
+child assent were tested; the participation rate was 60%. All children were assessed
+informally for any signs of developmental impairment by the ﬁrst author. All
+children with any sign of hearing or cognitive impairment were excluded from
+participation in this study. All participants were native Arabic-speaking Emirati
+children with both parents being native speakers of Arabic, and were tested at the
+end of Grade 3. All children were learning Standard Arabic as a core subject in
+their curriculum. In addition, the children were studying English, mathematics,
+and science in English. Although these children had started studying English in
+Grade 1, their knowledge of English was at best rudimentary. Possible reasons
+for this are that their exposure to English is limited to the class periods, many of
+the teachers who teach these subjects are not native English speakers, and lack
+of access to peers who are native or near native English speakers (only Emirati
+children attend government schools in UAE). The only mode of communication in
+the children’s homes is also Arabic. Therefore, considering the factors proposed
+by Paradis, Genesee, and Crago (2011; i.e., the majority language, ethnolinguistic
+community, and time of exposure), we see the sample as primarily Arabic speaking.
+
+Procedure
+
+Children completed a series of tasks administered individually by the ﬁrst author
+(who is a native speaker of Arabic) in a quiet room in their school. Task admin-
+istration for each child was broken up into two sessions, 30 min each. The ﬁrst
+session included the word reading test and the six oral MA tests. The second
+session included the pseudoword reading test and the four written MA tests. In the
+written tests, children were instructed to carefully read the sentences presented
+in print and were given a pencil to use for writing or circling the correct choice.
+All tests were preceded by practice items (four for MA tests and three for reading
+measures) to ensure that children understood the task; during the practice items,
+corrective feedback was given if needed. All instructions were given in the Emirati
+dialect, though the content of most tests was in Standard Arabic. All assessments
+and contacts with the children were exclusively in Arabic.
+
+Measures
+
+We developed 10 MA tasks covering the dimensions addressed in the Deacon
+et al. (2008) taxonomy and other relevant factors (see Table 1). Four of the tasks
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1027
+
+Table 1. Morphological awareness tasks, examples, and description in terms of Deacon
+et al. (2008) taxonomy, and number of items
+
+Test Name
+
+Picture choice
+
+Sentence
+
+selection
+
+Sentence
+
+completion
+
+Morphological
+
+relation
+judgment
+
+Word analogy-
+administered
+in standard
+and local
+Arabic
+
+Morphological
+composition
+
+Sentence
+analogy
+
+Deacon et al. (2008)
+
+Taxonomy
+
+Example
+
+C or D E or I O or W Items
+
+C, D
+
+C, D
+
+C
+
+I
+
+I
+
+I
+
+O
+
+20
+
+W
+
+20
+
+W
+
+20
+
+C, D
+
+I
+
+O
+
+20
+
+C, D
+
+E
+
+O
+
+20
+each
+
+C
+
+E
+
+W
+
+20
+
+C, D
+
+E
+
+O
+
+20
+
+Children are shown 4 pictures to
+
+choose one from representing the
+target word said by the
+experimenter (e.g., bread, baker,
+beads, tailor).
+
+Children are asked to select the
+morphologically appropriate
+word from a choice of four
+alternatives (e.g., I live in this/F,
+this/M, these two, these/pl) house.
+
+Children are asked to complete
+each sentence with the correct
+form from the given word (root)
+(e.g., “to clean”. The teacher said:
+we have to keep the ____ of the
+school. The target response is
+“cleanliness,” which is a derived
+noun from the given root.
+
+The child needs to judge by saying
+
+Yes or No if pairs of words are
+related or not in meaning (e.g.,
+hunt and hunter (Yes); clap and
+cage (No).
+
+The child needs to produce a word
+to complete an analogy (e.g., she
+student: plural female students
+(regular):: he student: plural male
+students (irregular).
+Children are presented in print with
+words followed by a + sign and a
+sufﬁx and are asked to write the
+correct word with the inﬂection
+attached to it (e.g., kitaab+aan=
+kitaabaan).
+
+Children are provided in print with
+a pair of sentences (a:b) and then
+with a sentence (c) and the child
+is expected to produce/compose a
+sentence analogous to the given
+sentence and the pair (e.g., Tom
+helps Mary: Tom helped Mary::
+Tom sees Mary: ____).
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+Table 1 (cont.)
+
+1028
+
+Test Name
+
+Word analysis
+
+Morphological
+
+decomposition
+
+Deacon et al. (2008)
+
+Taxonomy
+
+Example
+
+C or D E or I O or W Items
+
+D
+
+E
+
+O
+
+20
+
+D
+
+E
+
+W
+
+20
+
+Children will be asked questions
+such as: Is there a little word in
+“danced” that means something
+like “danced”? Children will be
+given partial marks depending on
+how many morphemes they can
+decompose/extract. This test in
+Arabic will include what is known
+as one-word sentences (one word
+containing a verb, subject, &
+object).
+
+Children will be provided in writing
+
+with a sufﬁxed word and a
+sentence that has a blank. The
+child is expected to complete the
+sentence with the correct form of
+the provided word. This is done by
+decomposing the target word (the
+child is given the word “farmer”
+and asked to complete the
+sentence with the correct word by
+decomposing it: “The plowed
+ﬁelds are on the ”. (farm).
+
+Note: C, Composition; D, decomposition; E, explicit; I, implicit; O, oral; W, written; F,
+feminine; M, masculine; pl, plural.
+
+were presented in vowelized print and required the participants to read and write or
+circle the correct answer. The other 6 MA tasks were presented orally and required
+the child to either provide an oral answer or to say Yes or No. Nine out of the 10
+MA tests were in Standard Arabic, whereas the 1 MA test was in the local Emirati
+dialect. The termination rule for each MA task was 4 consecutive errors, for word
+reading 10 consecutive errors, and for pseudoword reading 4 consecutive errors.
+To address as many types of morphological process as possible, we included items
+within each test that varied in the degrees of transparency/opacity of phonology,
+orthography, and semantics. Furthermore, all measures involved both inﬂections
+and derivations, though these were not included as separate scales. We also in-
+cluded both linear and nonlinear morphology items. We explicitly included two
+variations of the word analogy task, one in Standard Arabic and one in the local
+dialect to examine the diglossia issue. In all multiple-choice tasks, the position of
+correct answers was varied randomly. All tasks are listed in Table 1, with examples
+and descriptions in terms of the Deacon et al. (2008) taxonomy.
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+Written tasks.
+
+1029
+
+WORD SELECTION. This task was based on Singson, Mahony, and Mann (2000)
+and Tyler and Nagy (1989, 1990). Participants were presented with 20 written
+vowelized incomplete sentences and asked to complete each sentence by circling
+the appropriate word from four alternatives. The four word choices for each
+item contained the target word plus distractors that were morphologically related,
+orthographically similar, or phonologically similar to the target, but incorrect. A
+typical item was “In the summer, the weather is usually ________.” The four
+choices were Ha:r, Hur, Hari:r, Hararah, meaning hot, free, silk, and heat. The
+participant’s score was the number of items correct.
+
+In this task (based on Carlisle, 2000) the par-
+SENTENCE COMPLETION.
+ticipants were presented with 20 written sentences each preceded by a clue
+word, and they were asked to write the correct form of the word to com-
+plete each sentence. Half of the target words required application of inﬂec-
+tional morphology, the other half derivational morphology. An example of this
+task was “/kitaab/ (book): I have two __________.” The correct answer would
+be /kitaabaan/ (two books). The participant’s score was the number of items
+correct.
+
+In this task based on Carlisle (2000),
+MORPHOLOGICAL DECOMPOSITION.
+the participants were shown 20 incomplete sentences, each preceded by a
+clue word, and asked to complete each sentence in writing with a word related to
+the clue word. Half of the items required inﬂectional morphology processes, and
+the other half derivational morphology processes. The correct responses varied in
+the type of morphological operations required (e.g., verb to noun; noun to verb;
+plural to singular; dual to singular; adjective to noun; and so on). An example of
+this task was “/ʔmTarat/ (rained): The rain /maTar/ falls in the winter season.” The
+score was the number of items answered correctly.
+
+MORPHOLOGICAL COMPOSITION. This measure (based on Carlisle, 1988)
+had two parts. In the ﬁrst 13 items, participants were presented with written words
+plus preﬁxes and/or sufﬁxes, and asked to write them as complete words (all of
+these were to be composed in a linear fashion). For example, children were shown
+“t + ʔistaqbala + hum,” for which the correct response is “tastaqbiluhum” (she
+received them). Another example that required more change at the phonological
+and orthographic levels was “/j/+ / ʕa:da/” (correct answer “/yaʕu:du/|” (to return).
+The other 7 items on this test targeted the broken plural (irregular inﬂection).
+Broken plural in Arabic, unlike regular plural, follow different nonlinear process
+of morphological derivation (see Saiegh-Haddad, Levin, Hende, & Ziv 2011). The
+7 broken plural items were administered by presenting children with a picture of
+one object (e.g., rabbit) /ʔarnab/, then a picture of ﬁve rabbits, and asking the child
+to say the name of the plural form which is /ʔara:nib/. The rationale for this was
+the nonlinear quality represented in the broken plural. Participants’ scores were
+the number of correct responses.
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+Oral tasks.
+
+1030
+
+In this task based on Carlisle and
+MORPHOLOGICAL RELATION JUDGMENT.
+Nomanbhoy (1993) and Derwing (1976), the participants were presented orally
+with 20 pairs of words and asked if the two words in each pair were morphologi-
+cally related (shared the same meaning). Half of the items were morphologically
+related pairs and half were phonologically related foils. For example, “/mi”za:n/
+and /zama:n/” (scale, time) were not related, whereas “/muTa:laʕa/ and /Ta:laʕa/”
+(reading, read) were related. The participant’s score was the number of items
+correct.
+
+In this task (based on Kirby et al., 2012; Nunes,
+STANDARD WORD ANALOGY.
+Bryant, & Bindman, 1997), children were asked to supply words that completed
+morphological analogies. They were told a pair of words that had a morphological
+relationship, and then asked to apply that same relationship to a third word. For
+example, if the tester said /kataba (he wrote): katabu:/ (they wrote), and then
+/laʕiba/ (he played), the child was supposed to say /laʕibu:/ (they played). To
+reduce the likelihood of participants responding according to phonological cues
+and replicating a phonological pattern (see Kirby et al., 2012, for a discussion of
+this issue), some items included irregular formation processes or a phonological
+shift. There were 20 items, half of which required linear operations while the
+remainder were nonlinear, and the participant’s score was the number of items
+correct.
+
+LOCAL WORD ANALOGY. This test followed the same format as Standard word
+analogy except that this test included different words and all items were presented
+in the spoken Emirati dialect. The two tests were constructed to be as equivalent
+as possible in terms of linear and nonlinear operations and other morphological
+processes. The participants were required to respond orally in the local dialect
+to complete each analogy. For example, if the tester said /ﬁnja:n/ (cup):/fana:ji:n/
+(cups) :: /rajja:l/ (man), the correct answer would be /rajaji:l/ (men). Some items
+required more phonological shifts than others. There were 20 items (a balanced
+number of linear and nonlinear operations), and the participant’s score was the
+number of items correct.
+
+In this task based on Nunes et al. (1997), the participants
+SENTENCE ANALOGY.
+were presented orally with two sentences in Standard Arabic in which the ﬁrst
+sentence had been transformed into the second one by a morphological change.
+They were then asked to apply the same transformation to a third sentence. To
+reduce the likelihood of participants responding according to phonological cues,
+some items included irregular formation processes or a phonological shift. For
+example, /ha:ð:hi d͡ʒari:da/ (this is a newspaper) :/ha:ði hi d͡ʒara:ʔid/ these are
+newspapers:: /ha:ða qalam/ (this is a pencil), the correct answer would be “/ha:ð:hi
+ʔaqla:m/ these are pencils.” The transformation in this example requires irregular
+plural formation in which there is a phonological change between the ﬁrst plural
+/d͡ʒara:ʔid/ and the second plural /ʔaqla:m/. The participant’s score was the number
+of correct answers. There were 20 items.
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1031
+
+WORD ANALYSIS. This 20-item task (based on Carlisle & Fleming 2003; Rubin,
+1988) asked the participants to generate as many smaller words as possible from
+given complex words. Participants were asked cue questions, such as “Is there a
+smaller word in the given word that means something like the given word?” For ex-
+ample, the word /mudarrisu:n/ (teachers) contains /mudarris/(teacher), /darrasa/(to
+teach), /darasa/(to study), and /dars/(lesson). Each of these words is derived by
+means of a different word pattern calling for different vocalic/phonological form.
+Children were given corrective feedback on practice items, to ensure that they
+understood they needed to strip the word into its smallest constituting word or
+root in some cases. Responses were scored zero when the child was not able to
+provide any smaller and related word from the given multimorphemic words, 1
+point when the child provided a smaller word that was not the smallest possible
+word, and 2 points when the child was able to provide the smallest word or root
+from the target word. There were 20 items, so the maximum score for this test was
+40.
+
+In this task based on Casalis and Louis-Alexandre (2000),
+PICTURE CHOICE.
+the participants were shown 20 sets of four pictures, and asked to choose the picture
+that correctly represented the target word spoken by the experimenter. In designing
+this task, the four pictures selected for each individual item included ones which
+(a) corresponded to the target word; (b) represented a word morphologically re-
+lated to the target word, but was semantically wrong; (c) was phonologically and
+semantically similar to the target word, but was incorrect morphologically; and
+(d) was phonologically and orthographically similar to the target but was incorrect
+semantically and morphologically. The pictured words assessed children’s knowl-
+edge of a variety of inﬂectional and derivational morphemes. For example, when
+the target spoken word was “/tuffa:Hataan/ (two apples), the child was shown
+pictures of (a) /tuffa:Hataan/ (two apples); (b) /mawzata:n/ (two bananas); (c)
+/tuffa:Ha/ (one apple); and (d) /mufta:H/ (key). The participant’s score was the
+number of correct answers.
+
+Reading measures. Two reading tests were constructed, one with real words and
+one with pseudowords. The real words were selected based on the frequency count
+from two sources each representing a different corpus. One source was the lexical
+database of Modern Standard Arabic known as Aralex (Boudelaa & Marslen-
+Wilson, 2010). Aralex consists of 40 million word tokens primarily drawn from
+Arabic newspapers available online, and includes information about orthographic
+forms, vowelized stems, unvowelized stems, roots, and word patterns. Aralex also
+provides statistical information about words and morphemes. The second source
+was a corpus of 147,527 word tokens compiled from Arabic textbooks used in
+primary schools (Grades 1–6) from two different Arab countries (Libya and UAE)
+by Belkhouche, Harmain, Al Najjar, Taha, and Tibi (2010). Words chosen for the
+reading test ranged in frequency from most frequent as in the preposition /ﬁ:/ (in)
+with a frequency of 32,189 in Aralex (and 4,100 in the textbook corpus) to the
+lowest frequency of .13 in Aralex (and 1 in textbook corpus) as in the one-word
+phrase /lijabi:ʕha:/ (to sell it).
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+Table 2. Summary of descriptive statistics on all tasks (untransformed data; N = 102)
+
+1032
+
+Measure
+
+Min.
+
+Max.
+
+Mean
+
+SD
+
+Split-Half
+Reliability
+
+Word selection
+Sentence completion
+Morphological decomposition
+Morphological composition
+Morphological relation judgment
+Standard word analogy
+Local word analogy
+Sentence analogy
+Word analysis
+Picture choice
+Word reading
+Pseudoword reading
+
+5
+0
+0
+0
+5
+0
+0
+0
+0
+13
+2
+0
+
+20
+20
+20
+20
+20
+18
+19
+18
+37
+20
+78
+20
+
+17.01
+15.32
+16.26
+14.08
+18.19
+10.57
+13.37
+12.63
+30.53
+18.97
+59.54
+15.76
+
+2.87
+4.06
+3.62
+5.22
+1.93
+4.48
+4.34
+4.21
+5.92
+1.13
+19.497
+4.412
+
+0.78
+0.91
+0.87
+0.92
+0.67
+0.88
+0.86
+0.86
+0.82
+0.62
+0.98
+0.85
+
+All real words were vowelized, and represented different parts of speech, with
+nouns comprising the largest percentage, followed by verbs, adjectives, and par-
+ticles. Words varied in number of syllables, ranging from monosyllabic to ﬁve-
+syllable words. There were 80 words in the word reading measure. Each word was
+vowelized and appeared in 26-point Times New Roman font. Words were arranged
+in order of decreasing frequency. Participants were instructed to read each word
+out loud with its complete vowelization. The score for the reading measures was
+1 point for each word read accurately. The termination rule was 10 consecutive
+errors.
+
+The pseudoword reading test was developed based on the Arabic structure of
+words. For example, the pseudowords included phonemes (consonants and vowels)
+and syllabic structures that are similar to real words. Pseudowords varied in number
+of syllables, and in orthographic, morphological, and phonological structure. The
+set of pseudowords included all Arabic letters and captured a variety of different
+word patterns. The test consisted of 20 vowelized pseudowords, arranged in order
+of expected difﬁculty as judged by two Arabic language inspectors and the ﬁrst
+author. Children were asked to read all pseudowords with their vowelizations.
+One point was given to every pseudoword word read accurately. The termination
+rule was four consecutive errors. The ﬁrst author scored both word reading and
+pseudoword reading tests. Each test began with the more frequent word patterns,
+and with the words that are most frequent or (in the case of the pseudowords) were
+judged to be easiest (by the ﬁrst author and two Arabic language experts).
+
+RESULTS
+
+Descriptive statistics and split-half reliability estimates for all variables are dis-
+played in Table 2. The word reading, pseudoword reading, and 9 out of 10 MA test
+distributions showed negative skewness. The exception to the skewness among the
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1033
+
+10 MA tests was the Standard word analogy. All skewness problems were solved
+by square root, logarithmic, or inverse transformations, except for the sentence
+completion test, which after a logarithmic transformation required further win-
+sorizing (following the guidelines of Tabachnick & Fidell, 2007).
+
+Correlations between measures are reported in Table 3. Correlations between
+MA tests ranged from .12 to .63 and most were signiﬁcant; the exception was
+morphological relation judgment (an oral test) that was not strongly correlated
+with some of the other measures, namely the three measures that required students
+to read and write. The two MA tests that varied in the language variety (Standard
+and local word analogy) were signiﬁcantly correlated (r = .63, p < .01). The
+two reading measures were correlated signiﬁcantly (r = .78, p < .01). All of
+the MA tests correlated signiﬁcantly with both reading tests (range = .22–.60,
+p < .05).
+
+The dimensionality of the 10 MA tasks was examined using principal axis
+factor analysis with direct oblimin rotation when appropriate. The ﬁrst eigen-
+value was substantial (4.06), much larger than the second (1.06) and subsequent
+eigenvalues. Although the scree plot clearly showed one factor, we decided to
+explore one- and two-factor solutions because the second eigenvalue was greater
+than 1.0.
+
+Both the one- and two-factor solutions are shown in Table 4. The single factor
+has substantial loadings for all tests, although the loadings of morphological
+relation judgment and word analysis were lower than the others. This factor,
+termed MA, accounted for 40.1% of the variance. In the two-factor solution, all
+oral MA tests loaded on the ﬁrst factor (hence, we labeled it oral MA); however,
+the loading for word analysis was not high. All tests requiring reading or writing
+loaded on the second factor, which we labeled written MA. Only one test (word
+selection) had split loadings; this test required students to read a sentence and
+make a choice of three options by placing a circle around it, rather than writing
+a word. The two-factor solution accounted for 51.3% of the variance. Regression
+factor scores were generated from the one-factor and the two-factor solutions.
+Correlations between the factor scores and all of the other variables can be seen
+in Table 3. Each factor score correlated signiﬁcantly with each MA test, and with
+both reading variables.
+
+Finally, hierarchical regression analyses were conducted to investigate the extent
+to which the MA factors predicted reading after controlling for age and gender.
+Two regression analyses were conducted from each factor solution, one for real
+words and one for pseudowords (see Table 5). In each model, gender and age were
+entered in the ﬁrst step and the MA factor score(s) in the second step. Gender
+and age accounted for about 4% to 7% of the variance in the outcomes, mostly
+due to gender (higher performance by girls). For real-word reading, the single
+MA factor accounted for a further 44% of the variance (Model 2A in Table 5).
+When the two MA factors of the two-factor solution were used, the amount of
+variance accounted for stayed essentially the same (Model 2B in Table 5); the beta
+coefﬁcients indicate that written MA (β = 0.41) was more powerful than oral MA
+(β = 0.29), though each was signiﬁcant (p < .01). For pseudoword reading, both
+the single and the dual MA factors contributed an additional 33% of the variance
+(Models 2A and 2B in Table 5); in the analysis with two factors, written MA
+
+Table 3. Correlations between transformed variables
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+1. Word selection
+2. Sentence completion
+3. Morphological
+decomposition
+4. Morphological
+
+composition
+
+5. Morphological
+
+relation judgment
+
+—
+.39** —
+
+.34** .53** —
+
+.42** .55** .43** —
+
+.28** .17
+
+.18
+
+.13 —
+
+6. Standard word analogy .44** .47** .41** .43** .30** —
+7. Local word analogy
+8. Sentence analogy
+9. Word analysis
+10. Picture choice
+11. Word reading
+12. Pseudoword reading
+13. MA single factor
+14. Oral MA (two factor
+
+.36** .42** .43** .38** .27** .63** —
+.32** .42** .32** .31** .21*
+.27** .29** .24*
+.21*
+.29** .35** .24*
+.26** .24*
+.50** .54** .44** .47** .35** .57** .45** .29** .28** .35** —
+.37** .45** .37** .39** .22*
+.63** .76** .67** .68** .39** .79** .72** .66** .40** .51** .68** .61** —
+
+.46** .45** —
+.22*
+.13
+.29** .23*
+
+.57** .48** .27** .26** .33** .78** —
+
+.24* —
+.41** .27** —
+
+.19
+
+.61** .57** .53** .50** .57** .82** .73** .70** .42** .56** .63** .57** .94** —
+
+solution)
+
+15. Written MA (two
+
+factor solution)
+
+Note: MA, Morphological awareness.
+*p < .05. **p < .01.
+
+.57** .87** .71** .78** .23*
+
+.68** .63** .55** .33** .42** .65** .57** .95** .79** —
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+Table 4. Summary of principal axis factor analysis (N = 102)
+
+1035
+
+Test
+
+Word selection
+Sentence completion
+Morphological decomposition
+Morphological composition
+Morphological relation judgment
+Standard word analogy
+Local word analogy
+Sentence analogy
+Word analysis
+Picture choice
+
+Factor Loading
+
+One Factor
+Solution
+
+Two Factor Solution
+
+Oral MA
+
+Written MA
+
+.586
+.701
+.621
+.631
+.361
+.733
+.664
+.610
+.367
+.473
+
+.341
+.018
+.107
+−.005
+.584
+.522
+.453
+.485
+.286
+.407
+
+.308
+.769
+.578
+.708
+−.153
+.298
+.288
+.201
+.126
+.127
+
+Note: Direct oblimin rotation used in two-factor solution. Loadings > .300 are in bold.
+
+Table 5. Summary of hierarchical regression analyses predicting real word reading and
+pseudoword reading
+
+Outcome Variable
+
+Real Word Reading
+
+Pseudoword Reading
+
+Model
+
+Test
+
+β
+
+R2
+
+Total R2
+
+β
+
+R2
+
+Total R2
+
+1
+
+Gender (M =
+0.206*
+1, F = 2)
+Age (months) −0.027
+2A Gender (M =
+0.147*
+1, F = 2)
+Age (months)
+MA (single
+factor score)
+Gender (M =
+1, F = 2)
+Age (months)
+Oral MA (two
+
+0.154*
+
+2B
+
+.045
+
+.045
+
+0.045
+0.667*** .436*** .480***
+
+.066*
+
+0.239*
+−0.070
+0.187*
+−0.008
+0.586*** .335*** .402***
+
+.066*
+
+0.191*
+−0.007
+0.297*
+
+0.047
+0.293**
+
+factor
+solution)
+Written MA
+(two factor
+solution)
+
+Note: M, Male; F, female; MA, morphological awareness.
+*p < .05. **p < .01. ***p < .001.
+
+0.414**
+
+.439*** .484***
+
+0.321*
+
+.335*** .401***
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1036
+(β = 0.32) was only slightly more powerful than oral MA (β = 0.30), but again
+each was signiﬁcant (p < .05).
+
+DISCUSSION
+
+The goals of the current study were to explore the dimensionality of MA and
+establish its relationship with reading in Arabic. The results indicated that MA is
+predominantly one dimensional, though when forced, this factor splits into oral
+and written MA factors. It should be noted that the two-factor solution is not clean
+in that one oral measure (word analysis) did not load highly on the oral factor
+and another measure (word selection) loaded on both factors. Whether seen as
+one factor or two, these results support the construct validity of MA in Arabic.
+Whether used as a single predictor or as two, MA accounted for a substantial and
+equivalent amount of variance in reading, establishing its predictive validity in
+Arabic.
+
+Dimensionality
+
+In recent years many researchers have used many different measures of MA.
+Deacon et al. (2008) pointed out that these measures can be classiﬁed in terms
+of modality, content, and process. Although there is some work in English ex-
+ploring how many dimensions underlie such measures (Muse, 2005; Spencer et
+al., 2015; Tighe & Schatschneider, 2015), this is the ﬁrst study to do so in Ara-
+bic. The measures administered in the current study covered a wide variety of
+MA task features: spoken dialect/Standard Arabic, inﬂectional/derivational, im-
+plicit/explicit, word/sentence level, composition/decomposition, oral/written, and
+judgment/constructed response (see Table 1). In contrast to previous studies, this
+set of measures provides a broad coverage of the MA domain in Arabic. The
+characteristics of Arabic (diglossia, phonological transparency, and linear and
+nonlinear morphological structure) made many possible dimensions feasible.
+
+Our results demonstrate either a single MA dimension representing all 10 mea-
+sures or two dimensions representing the oral and written tests separately. The sin-
+gle factor suggests that MA knowledge in Arabic is essentially one dimensional,
+in spite of the diversity of measures used and the complexity of the processes in-
+volved in Arabic. This conclusion is helpful for researchers and practitioners alike
+because it implies that relatively few measures could be used to assess the MA
+construct. However, we also investigated the two-factor solution as an alternative
+model, which resulted in distinct oral and written factors. Almost all MA tasks
+that were administered orally and required an oral response loaded on the oral
+MA factor, the exception being that word analysis did not load highly. Conversely,
+all of the tasks that were presented in writing and required a written response
+loaded on the written MA factor, except for word selection, which had loadings on
+both factors. Psychometrically, the one-factor solution is cleaner and has a simpler
+structure.
+
+The two-factor structure does not challenge the underlying cognitive nature of
+MA, and may be attributed to the developmental stage of the Grade 3 participants
+in this study. Although many of the children had acquired the basic foundational
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1037
+
+skills of reading and writing, some children were still in the process of learning to
+read, spell, and write. This may have been inﬂuenced by the differences between
+written and spoken Arabic, so that oral knowledge could not be used as a reliable
+support when dealing with print, and by differences in reading instruction. Hence,
+some children with adequate oral MA knowledge may have performed poorly on
+written tasks, giving rise to the second factor. We would expect the oral–written
+separation to disappear with increased age and reading ability. Oral measures may
+be more appropriate for younger children, but given the consistent orthographic
+representations of morphemes in Arabic, written measures should be introduced as
+soon as instruction makes it possible. Once reading competence is well established,
+the single MA factor should emerge: this should be tested in longitudinal studies.
+
+MA and reading
+
+The second aim of the current study was to investigate the predictive validity of
+MA in Arabic by examining its relationship with reading. Previous research in
+English and other languages has found substantial relationships between reading
+and MA (Carlisle, 1995; Kirby et al., 2012; Mahony, Singson, & Mann, 2000;
+Nagy et al. 2006). We found that both the one-factor MA and the two-factor MA
+(oral and written) predicted a substantial proportion of real-word and pseudoword
+reading, thus supporting the predictive validity of MA. With regard to real words,
+our ﬁndings are consistent with those of Abu-Rabia (2007), who found that MA
+predicted real-word reading accuracy in normal and dyslexic Arabic readers in
+Grades 3, 6, 9, and 12.
+
+As for pseudoword reading, our ﬁnding is consistent with that of Deacon and
+Kirby (2004), who found that MA made a signiﬁcant contribution to pseudoword
+reading, after controlling measures of prior reading ability, verbal and nonverbal
+intelligence, and phonological awareness. Deacon and Kirby were initially sur-
+prised that pseudoword reading would be predicted, because pseudowords should
+not be meaningful and thus should not have morphological structures. However,
+some of the pseudowords on the test they used appeared to have morphological
+structures (e.g., gaked). Kirby et al. (2012) argued that morphology could be used
+to rule out certain pronunciations by identifying either the presence or the absence
+of morphological boundaries. In the present study, the result was less surpris-
+ing because the pseudowords had been constructed in a way similar to real-word
+structures in Arabic. Furthermore, pseudoword reading was highly correlated with
+real-word reading (r = .78, p < .01), so the prediction could be due to this degree
+of covariance. Future research could explore this relationship further by including
+pseudoword measures with different degrees of (pseudo) morphological structure
+and observing the relationship with MA.
+
+Limitations, future directions, and implications
+
+Several limitations of this study should be mentioned, each of which should be
+addressed in future studies. First, although a wide range of measures was em-
+ployed, other measures of MA need to be studied; these could include priming and
+response time measures. Word and pseudoword reading accuracy were addressed
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1038
+
+here, but word-reading ﬂuency, spelling, and reading comprehension need to be
+examined. Including other measures varying in other features may affect the fac-
+tor structure that emerges; for example, if we had included separate inﬂection and
+derivation measures (rather than embedding both in each test as we did), those
+tests could have deﬁned separate factors. Second, the study took place within one
+Arabic country; given the diversity of spoken Arabic, other national settings and
+educational systems need to be studied. Third, to fully assess the effect of MA
+on reading, further control variables need to be included in the predictive mod-
+els, such as intelligence, executive functions, vocabulary, phonological awareness,
+and orthographic knowledge. Furthermore, only experimental studies, in which
+MA was taught, could establish a causal relation. Fourth, future studies should
+investigate the developmental course of the MA factors.
+
+More generally, it would be important to investigate the sources of morpho-
+logical awareness before it is taught deliberately in school (if it is taught). Two
+obvious candidates are the home language environment and genetic factors. Hart
+and Risley (1995), for example, observed large individual differences in vocabulary
+development related to amount of language exposure. Morphological awareness
+is intertwined with vocabulary (Spencer et al., 2015), so it will be important to
+determine their developmental relationships. Samuelsson et al. (2005) found that
+vocabulary and morphology demonstrated stronger shared-environment inﬂuences
+and weaker genetic inﬂuences than other language skills, including general verbal
+ability and phonological awareness. Results such as those of the present study show
+that largely untaught morphological awareness predicts reading ability, and other
+studies (e.g., Bowers et al., 2010; Goodwin & Ahn, 2013) show that morphological
+awareness can be taught with positive effects on reading. It remains to be clariﬁed
+to what extent the preschool factors (home environment and genetics) interact
+with deliberate instruction, but Lyster, Lerv¨ag, and Hulme (2016) have shown that
+preschool morphological instruction leads to long-term gains in reading.
+
+The present results provide a framework for researchers interested in pursuing
+studies in the morphological processes of the Arabic language on Arabic-speaking
+children in Arabic countries. Given the relatively strong relationship between MA
+and word reading, measures of MA should be included in predictive studies so that
+a more complete picture of linguistic strengths and weaknesses can be obtained.
+By including other predictors, the unique effects of MA will be shown. Building
+on the current ﬁndings will help us also deepen our understanding of morphology’s
+effects and help us reﬁne the tools further for different age groups.
+
+For educators, two applications arise. First, assessment of morphological aware-
+ness should be included in any language or early reading assessment. Teachers
+and speech-language pathologists need to give this area more attention in their
+assessments (American Speech-Language–Hearing Association, 2010; Gabig &
+Zaretsky, 2013). We are not aware of any formal evidence about the assessment of
+morphological awareness by teachers and speech-language pathologists in Arabic,
+but our discussions with these professionals suggest that little is currently being
+done. Second, another application would be in instruction. The strong association
+between MA and reading suggests that it may be a useful target for instruction;
+this would be supported by instructional studies in other languages (for reviews,
+see Bowers et al., 2010; Carlisle, 2010; and Goodwin & Ahn, 2013). Instruction
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1039
+
+programs explicitly targeting MA in Arabic are sorely needed. Considering the
+important role morphology has in Arabic word construction and the present re-
+sults, it seems very likely that enhanced morphological knowledge would exert a
+powerful positive inﬂuence on literacy achievement in Arabic. One impediment
+for both researchers and educators is the lack of standardized measures of reading
+and reading-related processes in Arabic, even though all Arab countries share the
+same standard form of the language. The development of such tools should be
+seen as a priority for policymakers in the Arab world.
+
+This study offers a basis for further research on the morphological and other
+cognitive processes involved in Arabic reading of Arabic-speaking subjects re-
+siding in an Arabic country. The construct and predictive validity demonstrated
+in the current study should spark more research in the ﬁeld of Arabic reading
+and morphological processing. This research is needed to improve the literacy
+skills of many children in many countries. The distinctive features of the Arabic
+language and orthography also offer opportunities to researchers to broaden their
+understanding of language and literacy in a global context.
+
+ACKNOWLEDGMENTS
+The authors thank the Abu Dhabi Education Council for allowing access to the schools
+to conduct this study. We also thank the children who participated in the study and their
+parents.
+
+REFERENCES
+Abu-Rabia, S. (2001). The role of vowels in reading Semitic scripts: Data from Arabic and Hebrew.
+
+Reading and Writing, 14, 39–59. doi:10.1023/A:1008147606320
+
+Abu-Rabia, S. (2007). The role of morphology and short vowelization in reading Arabic among
+normal and dyslexic readers in Grades 3, 6, 9, and 12. Journal of Psycholinguistic Research,
+36, 89–106. doi:10.1007/s10936-006-9035-6
+
+Abu-Rabia, S., & Shalhoub-Awwad, J. (2004). Morphological structures in visual word recognition:
+The case of Arabic. Journal of Research in Reading, 27, 321–336. doi:10.1111/j.1467-9817.
+2004.00235.x
+
+Abu-Rabia, S., Share, D., & Mansour, M. S. (2003). Word recognition and basic cognitive processes
+among reading disabled and normal readers in Arabic. Reading and Writing, 16, 423–442.
+doi:10.1023/A:1024237415143
+
+Abu-Rabia, S., & Taha, H. (2004). Reading and spelling error analysis of native Arabic dyslexic
+
+readers. Reading and Writing, 17, 651–690. doi:10.1007/s11145-004-2657-x
+
+American Speech-Language-Hearing Association (ASHA) (2010). Roles and responsibilities of
+SLPs in schools [Professional Issues Statement]. Retrieved September 19, 2016, from
+http://www.asha.org/policy
+
+Anglin, J. M. (1993). Vocabulary development: A morphological analysis. Monographs of the Society
+
+for Research in Child Development, 58, 1–165. doi:10.2307/1166112
+
+Apel, K., Diehm, E., & Apel, L. (2013). Using multiple measures of morphological awareness to
+assess its relation to reading. Topics in Language Disorders, 33, 42–56. doi:10.1097/TLD.
+0b013e318280f57b
+
+Belkhouche, B., Harmain, H., Al Najjar, L., Taha, H., & Tibi, S. (2010). Analysis of primary school
+Arabic language textbooks. Paper presented at the 10th Arab Conference on Information Tech-
+nology Retrieved from http://acit2k.org/ACIT/index.php/proceedings/acit-2010-proceedings
+
+Berko, J. (1958). The child’s learning of English morphology. Word, 14, 150–177.
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1040
+
+Boudelaa, S. (2014). Is the Arabic mental lexicon morpheme-based or stem based? Implications for
+spoken and written word recognition. In E. Saiegh-Haddad & M. Joshi (Eds.), Handbook of
+Arabic literacy: Insights and perspectives. Amsterdam: Springer.
+
+Boudelaa, S. (2015). The differential time course for consonant and vowel processing in Arabic:
+Implications for language learning and rehabilitation. Frontiers in Psychology, 5, 1557. doi:10.
+3389/fpsyg.2014.01557
+
+Boudelaa, S., & Marslen-Wilson, W. D. (2010). Aralex: A lexical database for Modern Standard
+
+Arabic. Behavior Research Methods, 42, 481–487. doi:10.3758/BRM.42.2.481
+
+Boudelaa, S., Pulverm¨uller, F., Hauk, O., Shtyrov, Y., & Marslen-Wilson, W. (2010). Arabic morphol-
+ogy in the neural language system. Journal of Cognitive Neuroscience, 22, 998–1010. doi:10.
+1162/jocn.2009.21273
+
+Bowers, P. N., & Kirby, J. R. (2010). Effects of morphological instruction on vocabulary acquisition.
+
+Reading and Writing, 23, 515–537. doi:10.1007/s11145-009-9172-z
+
+Bowers, P. N., Kirby, J. R., & Deacon, S. H. (2010). The effects of morphological instruction on literacy
+skills: A systematic review of the literature. Review of Educational Research, 80, 144–179.
+doi:10.3102/0034654309359353
+
+Carlisle, J. F. (1987). The use of morphological knowledge in spelling derived forms by learning-
+
+disabled and normal students. Annals of Dyslexia, 37, 90–108. doi:10.1007/BF02648061
+
+Carlisle, J. F. (1988). Knowledge of derivational morphology and spelling ability in fourth, sixth and
+
+eighth grades. Applied Psycholinguistics, 9, 247–266. doi:10.1017/S0142716400007839
+
+Carlisle, J. F. (1995). Morphological awareness and early reading achievement. In L. B. Feldman (Ed.),
+
+Morphological aspects of language processing (pp. 189–209). Hillsdale, NJ: Erlbaum.
+
+Carlisle, J. F. (2000). Awareness of the structure and meaning of morphologically complex words:
+
+Impact on reading. Reading and Writing, 12, 169–190. doi:10.1023/A:1008131926604
+
+Carlisle, J. F. (2007). Fostering morphological processing, vocabulary development, and reading com-
+prehension. In R. K. Wagner, A. E. Muse, & K. R. Tannenbaum (Eds.), Vocabulary acquisition:
+Implications for reading comprehension (pp. 78–103). New York: Guilford Press.
+
+Carlisle, J. F. (2010). Effects of instruction in morphological awareness on literacy achievement: An
+
+integrative review. Reading Research Quarterly, 45, 464–487. doi:10.1598/RRQ.45.4.5
+
+Carlisle, J. F., & Fleming, J. (2003). Lexical processing of morphologically complex words in the ele-
+mentary years. Scientiﬁc Studies of Reading, 7, 239–274. doi:10.1207/S1532799XSSR0703 3
+Carlisle, J. F., & Nomanbhoy, D. (1993). Phonological and morphological awareness in ﬁrst graders.
+
+Applied Psycholinguistics, 14, 177–195. doi:10.1017/S0142716400009541
+
+Casalis, S., & Louis-Alexander, M. F. (2000). Morphological analysis, phonological analysis and
+learning to read French: A longitudinal study. Reading and Writing, 12, 303–335. doi:10.1023/
+A:1008177205648
+
+Deacon, H. S., & Kirby, J. R. (2004). Morphological awareness: Just “more phonological?” The roles of
+morphological and phonological awareness in reading development. Applied Psycholinguistics,
+25, 223–238. doi:10.1017/S0142716404001110
+
+Deacon, H. S., Kirby, J. R., & Casselman-Bell, M. (2009). How robust is the contribution of mor-
+phological awareness to general spelling outcomes? Reading Psychology, 30, 301–318. doi:10.
+1080/02702710802412057
+
+Deacon, S. H., Parrila, R., & Kirby, J. R. (2008). A review of the evidence on morphological processing
+in dyslexics and poor readers: A strength or weakness? In G. Reid, A. Fawcett, F. Manis, &
+L. Siegel (Eds.), The Sage handbook of dyslexia (pp. 212–237). London: Sage.
+
+Derwing, B. L. (1976). Morpheme recognition and the learning of rules in children of differing language
+
+backgrounds. Canadian Journal of Linguistics, 21, 38–66.
+
+Eviatar, Z., & Ibrahim, R. (2012). Multilingualism among Israeli Arabs and the neuropsychology of
+reading in different languages. In M. Leikin, M. Schwartz, & Y. Tobin (Eds.), Current issues
+in bilingualism: Cognitive and socio-linguistic perspectives (pp. 57–74). New York: Springer
+Science + Business Media.
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1041
+
+Ferguson, C. A. (1959). Diglossia. Word, 14, 47–56.
+Frost, R. (2012). Towards a universal model of reading. Behavioral and Brain Sciences, 35, 263–279.
+
+doi:10.1017/S0140525X11001841
+
+Frost, R., Kugler, T., Deutsch, A., & Forster, K. I. (2005). Orthographic structure versus morphological
+structure: Principles of lexical organization in a given language. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 31, 1293–1326. doi:10.1037/0278-7393.31.6.
+1293
+
+Gabig, C., & Zaretsky, E. (2013). Promoting morphological awareness in children with language needs:
+Do the common core standards pave the way? Topics in Language Disorders, 33, 7–26. doi:10.
+1097/TLD.0b013e318280f592
+
+Goodwin, A. P., & Ahn, S. (2013). A meta-analysis of morphological interventions in English: Effects
+on literacy outcomes for school-age children. Scientiﬁc Studies of Reading, 17, 257–285. doi:10.
+1080/10888438.2012.689791
+
+Hansen, G. F. (2014). Word recognition in Arabic: Approaching a language-speciﬁc reading model. In
+E. Saiegh-Haddad & M. Joshi (Eds.), Handbook of Arabic literacy: Insights and perspectives.
+Amsterdam: Springer.
+
+Hart, B., & Risley, T. (1995). Meaningful differences in the everyday experience of young American
+
+children. Baltimore, MD: Paul H. Brookes.
+
+Holes, C. (2004). Modern Arabic: Structures, functions and varieties (rev. ed.). London: Longman.
+Kieffer, M. J., & Lesaux, N. K. (2012). Development of morphological awareness and vocabulary
+knowledge in Spanish-speaking language minority learners: A parallel process latent growth
+curve model. Applied Psycholinguistics, 33, 23–54. doi:10.1017/S0142716411000099
+
+Kirby, J. R., Deacon, S. H., Bowers, P. N., Izenberg, L., Wade-Woolley, L., & Parrila, R. (2012).
+Children’s morphological awareness and reading ability. Reading and Writing, 25, 389–410.
+doi:10.1007/s11145-010-9276-5
+
+Lyster, S.-A. H., Lerv¨ag, A. O., & Hulme, C. (2016). Preschool morphological training produces long-
+term improvements in reading comprehension. Reading and Writing, 29, 1269–1288. doi:10.
+1007/s11145-016-9636-x
+
+Mahony, D., Singson, M., & Mann, V. (2000). Reading ability and sensitivity to morphological
+
+relations. Reading and Writing, 12, 191–218.
+
+Muse, A. E. (2005). The nature of morphological knowledge (Unpublished doctoral dissertation,
+
+Florida State University, Tallahassee).
+
+Nagy, W. E., & Anderson, R. (1984). How many words in printed school English? Reading Research
+
+Quarterly, 19, 304–330. doi:10.2307/747823
+
+Nagy, W. E., Berninger, V. W., & Abbott, R. D. (2006). Contributions of morphology beyond phonology
+to literacy outcomes of upper elementary and middle-school students. Journal of Educational
+Psychology, 98, 134–147. doi:10.1037/0022-0663.98.1.134
+
+Nagy, W. E., Carlisle, J., & Goodwin, A. (2014). Morphological knowledge and literacy acquisition.
+
+Journal of Learning Disabilities, 47, 3–12. doi:10.1177/0022219413509967
+
+Nunes, T., & Bryant, P. (2006). Improving literacy by teaching morphemes. New York: Routledge.
+Nunes, T., Bryant, P., & Bindman, M. (1997). Spelling and grammar: The necsed move. In C. A. Per-
+fetti, L. Rieben, & M. Fayol (Eds.), Learning to spell: Research, theory, and practice across
+languages (pp. 3–20). Mahwah, NJ: Erlbaum.
+
+Nunes, T., Bryant, P., & Olsson, J. (2003). Learning morphological and phonological spelling
+rules: An intervention study. Scientiﬁc Studies of Reading, 7, 289–307. doi:10.1207/
+S1532799XSSR0703 6
+
+Owens, R. E. (2001). Language development: An introduction (5th ed.). Boston: Allyn & Bacon.
+Paradis, J., Genesee, F., & Crago, M. B. (2011). Dual language development and disorders. Baltimore,
+
+MD: Paul H. Brookes.
+
+Perfetti, C. A. (2003). The universal grammar of reading. Scientiﬁc Studies of Reading, 7, 3–24. doi:10.
+
+1207/S1532799XSSR070102
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1042
+
+Roman, A. A., Kirby, J. R., Parrila, R. K., Wade-Woolley, L., & Deacon, S. H. (2009). Toward a
+comprehensive view of the skills involved in word reading in Grades 4, 6, and 8. Journal of
+Experimental Child Psychology, 102, 96–113. doi:10.1016/j.jecp.2008.01.004
+
+Rubin, H. (1988). Morphological knowledge and early writing ability. Language & Speech, 31, 337–
+
+355. doi:10.1177/002383098803100403
+
+Saiegh-Haddad, E. (2003). Linguistic distance and initial reading acquisition: The case of Arabic
+
+diglossia. Applied Psycholinguistics, 24, 431–451. doi:0.1017.S0142716403000225
+
+Saiegh-Haddad, E. (2004). The impact of phonemic and lexical distance on the phonological analysis
+of words and pseudowords in a diglossic context. Applied Psycholinguistics, 25, 495–512.
+doi:10.1017.S0142716404001249
+
+Saiegh-Haddad, E. (2005). Correlates of reading ﬂuency in Arabic: Diglossic and orthographic factors.
+
+Reading and Writing, 18, 559–582. doi:10.1007/s11145-005-3180-4
+
+Saiegh-Haddad, E. (2013). A tale of the letter T: Morphological processing in early Arabic spelling.
+
+Writing Systems Research, 5, 169–188. doi:10.1080/17586801.2013.857586
+
+Saiegh-Haddad, E., & Geva, E. (2008). Morphological awareness, phonological awareness, and reading
+in English-Arabic bilingual children. Reading and Writing, 21, 481–504. doi:10.1007/s11145-
+007-9074-x
+
+Saiegh-Haddad, E., & Henkin-Roitfarb, R. (2014). The structure of Arabic language and orthography.
+In E. Saiegh-Haddad & M. Joshi (Eds.), Handbook of Arabic literacy: Insights and perspectives.
+Amsterdam: Springer.
+
+Saiegh-Haddad, E., Levin, I., Hende, N., & Ziv, M. (2011). The linguistic afﬁliation constraint and
+
+phoneme recognition in diglossic Arabic. Journal of Child Language, 38, 297–315.
+
+Saiegh-Haddad, E., & Schiff, R. (2016). The impact of diglossia on voweled and unvoweled word
+reading in Arabic: A developmental study from childhood to adolescence. Scientiﬁc Studies of
+Reading, 20, 311–324. doi.org/10.1080/10888438.2016.1180526
+
+Samuelsson, S., Byrne, B., Quain, P., Wadsworth, S., Corley, R., DeFries, J. C., . . . Olson, R. (2005).
+Environmental and genetic inﬂuences on prereading skills in Australia, Scandinavia, and the
+United States. Journal of Educational Psychology, 97, 705–722. doi:10.1037/0022-0663.97.4.
+705
+
+Shalhoub-Awwad, Y., & Leikin, M. (2016). The lexical status of the root in processing morphologically
+
+complex words in Arabic. Scientiﬁc Studies of Reading, 20, 296–310.
+
+Singson, M., Mahony, D., & Mann, V. (2000). The relation between reading ability and morphological
+skills: Evidence from derivation sufﬁxes. Reading and Writing, 12, 219–252. doi:10.1023/A:
+1008196330239
+
+Spencer, M., Muse, A., Wagner, R. K., Foorman, B., Petscher, Y., Schatschneider, C., . . . Bishop, M.,
+D. (2015). Examining the underlying dimensions of morphological awareness and vocabulary
+knowledge. Reading and Writing, 28, 959–988. doi:10.1007/s11145-015-9557-0
+
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). Boston: Allyn &
+
+Bacon.
+
+Taha, H., & Saiegh-Haddad, E. (2016). The role of phonological versus morphological skills in the
+development of Arabic spelling: An intervention study. Journal of Psycholinguistic Research,
+45, 507–535.
+
+Taha, H., & Saiegh-Haddad, E. (2017). Morphology and spelling in Arabic: Development and interface.
+
+Journal of Psycholinguistic Research, 46, 27–38. doi:10.1007/s10936-016-9425
+
+Tibi, S., & McLeod, L. (2014). The development of young children’s Arabic language and literacy
+in the United Arab Emirates. In E. Saiegh-Haddad & M. Joshi (Eds.), Handbook of Arabic
+literacy: Insights and perspectives. Amsterdam: Springer.
+
+Tighe, E. L., & Schatschneider, C. (2015). Exploring the dimensionality of morphological awareness
+and its relations to vocabulary knowledge in adult basic education. Reading Research Quarterly,
+50, 293–311. doi:10.1002/rrq.102
+
+Tyler, A., & Nagy, W. E. (1989). The acquisition of English derivational morphology. Journal of
+
+Memory and Language, 28, 649–667. doi:10.1016/0749-596X(89)90002-8
+
+Applied Psycholinguistics 38:5
+Tibi & Kirby: Morphological awareness
+
+1043
+
+Tyler, A., & Nagy, W. E. (1990). Use of derivational morphology during reading. Cognition, 36, 17–34.
+
+doi:10.1016/0010-0277(90)90052-L
+
+Ussishkin, A., Dawson, C. R., Wedel, A., & Schluter, K. (2015). Auditory masked priming in Maltese
+spoken word recognition. Language, Cognition and Neuroscience, 30, 1097–1115. doi:10.
+1080/23273798.2015.1005635
+
+Wysocki, K., & Jenkins, J. R. (1987). Deriving word meanings through morphological generalization.
+
+Reading Research Quarterly, 22, 66–81. doi:10.2307/747721
+
+

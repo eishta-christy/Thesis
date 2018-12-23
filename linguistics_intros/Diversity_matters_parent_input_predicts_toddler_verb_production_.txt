@@ -1,0 +1,2255 @@
+J. Child Lang.  (), –. © Cambridge University Press 
+doi:./S
+
+Diversity matters: parent input predicts toddler verb
+
+production*
+
+NING HSU, PAMELA A. HADLEY A N D
+
+MATTHEW RISPOLI
+
+University of Illinois at Urbana-Champaign, USA
+
+(Received  December  – Revised  May  – Accepted  October  –
+
+First published online  December )
+
+A B S T R A C T
+
+The contribution of parent input to children’s subsequent expressive
+verb diversity was explored in twenty typically developing toddlers
+with small verb lexicons. Child developmental factors and parent
+input measures (i.e. verb quantity, verb diversity, and verb-related
+structural cues) at age ; were examined as potential predictors of
+children’s verb production in spontaneous language samples at age
+;. Parent verb input diversity, rather than input quantity, was the
+factor contributing to children’s subsequent verb
+primary input
+diversity. Regression analysis showed that verb diversity in parent
+input at age ; accounted for % of the variance in children’s verb
+production six months later, with children’s total vocabulary size at
+age ; accounting for an additional % of the variance. These
+ﬁndings demonstrate the relative contributions of developmental and
+input
+language
+development and establish the importance of input diversity to verb
+acquisition.
+
+individual diﬀerences
+
+in toddlers’
+
+factors
+
+to
+
+I N T R O D U C T I O N
+Children’s acquisition of a verb lexicon forms a crucial interface between
+lexical and grammatical development (Pinker, ; Tomasello, ).
+
+[*] Data collection of the archival database used in this study was supported by BCS--
+, NSF awarded to Matthew Rispoli. This paper is based upon Ning Hsu’s
+Doctoral Early Research Project completed at the University of Illinois, and was
+supported by an Illinois Distinguished Fellowship from the Graduate College of the
+University of Illinois. Portions of this paper were previously presented at the 
+Symposium on Research in Child Language Disorders, Madison, WI. We are grateful
+to numerous students who assisted in data collection, transcription, and analyses. Our
+sincere appreciation extends to participating parents and children who made the work
+possible. Address for correspondence: Ning Hsu, University of Illinois at Urbana-
+Champaign, Department of Speech and Hearing Science,  South Sixth Street,
+Champaign, Illinois, IL , United States. e-mail: ninghsu@illinois.edu
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+than noun acquisition. First, verbs
+
+Verbs emerge later than nouns and occupy a smaller percentage of the initial
+lexicon (Bates et al., ; Nelson, ). Theoretically, verb acquisition
+may be more diﬃcult
+involve
+conceptually more complicated notions (cf. Gleitman, Cassidy, Nappa,
+Papafragou & Trueswell, ). Whereas early common nouns denote
+entities, verbs denote event structures. The meaning of verbs must encode
+relationships between the event and one or more noun phrases, also known
+as arguments. Second, information in the input may provide more support
+for the acquisition of nouns relative to verbs. Nouns in the input tend to
+be aligned with the physical objects they refer to, but verbs in the input
+may not be ‘time locked’ to the events they describe (Gleitman et al.,
+). Finally, “verb acquisition entails the learning of sentence frames”
+(Hadley, , p. ). To learn a verb meaning is to learn what noun
+phrase arguments are involved and how to arrange the verb and the
+arguments in the correct sequence (Pinker, ; Rice, ). In this
+sense, the expansion of the verb lexicon provides a foundation for the
+development of simple, diverse sentences (Hadley, ).
+
+from distinct
+
+research
+
+tradition
+
+input
+
+and individual diﬀerences
+
+perspectives. One
+
+Despite the importance of
+
+the verb lexicon to children’s language
+development, few studies have investigated how input aﬀects children’s
+verb acquisition, and diﬀerent research traditions have approached this
+question
+in
+developmental and educational psychology has focused on understanding
+relationships between language
+in
+children’s rate of vocabulary development. These input studies have
+established the associations between lexical quantity and lexical diversity
+in parent input and children’s general vocabulary development (Hoﬀ &
+Naigles, ; Huttenlocher, Haight, Bryk, Seltzer & Lyons, ;
+Huttenlocher, Waterfall, Vasilyeva, Vevea & Hedges, ; Rowe, ).
+By the third year of life, lexical diversity in parent input has been shown
+to be a stronger predictor of children’s later vocabulary abilities than the
+sheer quantity of words in parent input (Rowe, ). However, it is not
+clear whether such relationships hold speciﬁcally for the verb lexicon. An
+alternative approach, inﬂuenced by psycholinguistic theories of language
+acquisition, has focused on the problem of how children learn verb
+meanings. Theories of SYNTACTIC BOOTSTRAPPING have proposed that
+children are sensitive to verb-related syntactic and morphological cues, as
+these cues may serve to restrict verb meanings (Behrend, Harris &
+Cartwright, ; Fisher, Hall, Rakowitz & Gleitman, ; Naigles &
+Swensen, ; Yuan, Fisher & Snedeker, ). However, little is known
+about the nature of these structural cues in naturalistic parent input and
+how parents vary in providing verb-related structural cues to their
+children. The current study integrated these two research traditions by
+investigating the contribution of lexical quantity,
+lexical diversity, and
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+verb-related structural cues in parent
+expressive verb diversity.
+
+input
+
+to children’s subsequent
+
+The methods used in early input studies were primarily observational,
+with studies documenting correlations between features of naturalistic
+parent speech at Time  and children’s progress in language development
+between Time  and Time  (see Richards, , and Valian, , for
+comprehensive reviews). More recent studies have associated parent input
+quantity and diversity with children’s language development
+(Hoﬀ &
+Naigles, ; Huttenlocher et al., , ; Rowe, ). For example,
+Hoﬀ and Naigles () studied sixty-three children who ranged in age
+from ; to ;. Time  parent input measures, speciﬁcally the number of
+total words, the number of diﬀerent words, and mean length of utterance
+(MLU) in morphemes, were positively associated with children’s Time 
+vocabulary size obtained  weeks later. Huttenlocher et al.
+()
+reported converging results using a more sophisticated measure of
+children’s vocabulary GROWTH for twenty-two children from ; to ;.
+After controlling for child gender, Huttenlocher and colleagues found that
+the variance in children’s rate of vocabulary
+approximately % of
+acceleration was accounted for by the number of total words in the parent
+input. Huttenlocher et al. () adopted a similar longitudinal design,
+following the children from ; to ;. They found that both lexical and
+grammatical development were predicted by parent input quantity and
+diversity. Additionally, Huttenlocher and colleagues revealed bi-directional
+inﬂuences with children’s language abilities accounting for later lexical
+measures of parent input. This means that parents were not only exerting
+an inﬂuence on children’s later language development, but they were also
+adjusting their vocabulary input
+lexical
+development. However, bi-directional
+inﬂuences were not apparent for
+the grammatical measures. Most recently, Rowe () examined the
+input quantity and diversity to children’s
+contribution of parent
+vocabulary abilities one year later on a standardized measure of receptive
+vocabulary knowledge. Diﬀerent
+input properties emerged as better
+predictors of children’s vocabulary scores at diﬀerent time points. Parent
+input quantity at ; was most strongly related to children’s vocabulary
+scores at ;, whereas input richness in both vocabulary diversity and
+sophistication at ; were stronger predictors of the subsequent vocabulary
+scores at ;. These ﬁndings underscore the importance of children’s
+exposure to diverse words in parent input during the third year of life.
+
+to their children’s levels of
+
+Other input studies have been inspired by the SYNTACTIC BOOTSTRAPPING
+HYPOTHESIS, focusing on verb-related structural cues such as syntactic
+frames or morphological contexts that may support children’s verb
+acquisition (de Villiers, ; Naigles & Hoﬀ-Ginsberg, , ).
+SYNTACTIC BOOTSTRAPPING refers to a process by which children restrict
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+verb meanings according to the structural environments in which verbs
+occur (Gleitman, ; Landau & Gleitman, ; Naigles & Swensen,
+). Structural cues tend to correspond with verb semantics (Naigles &
+Hoﬀ-Ginsberg, , ). For example, verbs involving agent-and-
+patient relations such as take and push usually occur in the transitive frame
+(Naigles & Hoﬀ-Ginsberg, ). In experimental studies, children show
+sensitivity to structural cues such as the number of arguments attached to
+verbs or the morphological contexts of verbs (Behrend et al., ; Fisher
+et al., ; Yuan et al., ). The hypothesis is that the more diﬀerent
+structural cues a verb co-occurs with, the earlier the verb will emerge in
+the lexicon. Children may also use the verb in more diﬀerent ways.
+
+Guided by the syntactic bootstrapping hypothesis, Naigles and Hoﬀ-
+Ginsberg (, ) investigated ﬁfty-seven parent–child dyads and
+collected naturalistic conversations at home. The relationship between
+Time  parents’ verb use and Time  children’s verb production was
+examined, with a -week interval between Time  and Time . The
+input sample at Time  was constructed by combining the ﬁfty-seven
+parent speech samples into a single input corpus, with each parent
+providing the same number of utterances (i.e. ). The child speech
+sample at Time  was constructed by combining the ﬁfty-seven child
+speech samples into a single child corpus, with each child contributing
+ninety utterances. Naigles and Hoﬀ-Ginsberg examined the emergence of
+twenty-ﬁve commonly used verbs in parent
+input and child speech,
+analyzing the verb frequency and the verb-related syntactic frames in the
+pooled input sample. They coded two types of syntactic frames, the ‘broad
+syntactic frames’ and the ‘narrow syntactic frames’. The broad frames
+identiﬁed
+postverbal
+prepositional phrases, and adverbs. Naigles and Hoﬀ-Ginsberg showed
+that the broad frames in parent input were reliable cues to the verb
+input sentences containing the
+semantics. For example, % of all
+transitivity frame had main verbs
+that
+indicated agent-and-patient
+relations. Likewise, % of input sentences with a post-verbal sentence
+frame had main verbs that referred to internal states such as think and
+know. Finally, % of
+input sentences with postverbal prepositional
+phrases had main verbs that denoted physical motions such as come and
+go. In a second analysis, Naigles and Hoﬀ-Ginsberg used the narrow
+frames to identify the SEQUENCE of non-head materials of the target verb
+phrases. This was hypothesized to reﬂect the potential parsing strategies
+children with rudimentary syntax might adopt when listening to input.
+Using the narrow syntactic frame coding, Naigles and Hoﬀ-Ginsberg
+showed that the frequency of individual verbs in the Time  child speech
+was signiﬁcantly correlated with Time  input verb frequency and the
+narrow syntactic frame diversity. The regression analysis suggested that
+
+transitivity,
+
+postverbal
+
+verbs
+
+for
+
+sentences,
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+Time  input verb frequency explained % of the variance in Time 
+verb frequency in child production, and the narrow syntactic frame
+diversity accounted for an additional % of the variance beyond the input
+verb frequency. Naigles and Hoﬀ-Ginsberg interpreted this ﬁnding as
+evidence that using multiple syntactic frames with verbs facilitates verb
+learning. Of interest to the current study was whether syntactic frame
+diversity would also support children’s verb acquisition when applied to
+individual parent–child dyads, a question that Naigles and Hoﬀ-Ginsberg
+did not ask.
+
+In another study of structural cues, de Villiers () investigated the
+input and children’s production of verb
+relationship between parent
+morphology with two parent–child dyads. Language
+samples were
+collected through bi-weekly -hour sessions at home in a series of ten
+sessions. The input sample was constructed for each child by combining
+the mother’s speech in the ﬁrst ﬁve sessions. Both parents’ and children’s
+verb use were coded for their immediately adjacent morphemes, with
+thirteen morphological contexts identiﬁed. Examples are third person
+singular present tense -s, present progressive tense V-ing, or regular past
+tense -ed. Only verbs that were shared between the parent input and the
+child output were analyzed. Children’s morphological variety of verb use
+was regressed on children’s verb frequency, input verb frequency, and
+input morphological variety of verb use. Separate regression analyses for
+the two children revealed similar results. Morphological variety of verb
+use in the parent input was the only signiﬁcant predictor for both parent–
+child dyads. Furthermore, de Villiers found that each child’s production
+was predicted by their own mother’s verb use, but not by that of the other
+mother. De Villiers suggested that the input and the output of individual
+parent–child dyads were unique to the dyad, and not to more general
+properties of parent input to children.
+
+frames
+
+Though Naigles and Hoﬀ-Ginsberg () and de Villiers ()
+demonstrated that verb-related syntactic
+and morphological
+contexts in parent input are helpful for children to learn verbs, these
+studies have several
+limitations. First, methodological choices in study
+design temper the strength of the generalizations that can be drawn. Recall
+that Naigles and Hoﬀ-Ginsberg used pooled speech samples of maternal
+input and child output to study how input properties inﬂuenced the
+acquisition of DIFFERENT VERBS. Their study was not designed to examine
+the contribution of diﬀerences in parent input to between-child diﬀerences
+in verb diversity. The ﬁndings therefore cannot be generalized to the verb
+acquisition of
+individual children. In contrast, de Villiers examined
+individual parent–child dyads, but the sample size (two dyads) was very
+small. Second, Naigles and Hoﬀ-Ginsberg did not provide a clear rationale
+for assessing narrow syntactic frame diversity as a parent input property.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+Given that they stated “it is not obvious how these narrow frame diﬀerences
+might translate into meaning diﬀerences for the children” (Naigles &
+Hoﬀ-Ginsberg, , p. ), the measure of narrow frame diversity
+seems to lack a solid theoretical basis. Third, these studies examined only
+a subset of common verbs. And ﬁnally, the relationship between the
+children’s verb use and parents’ verb use was not controlled. Based on
+ﬁndings of Huttenlocher et al. (),
+it is important to consider the
+possibility of bi-directional
+inﬂuences from child to parent, as well as
+parent to child.
+
+In summary, two gaps are apparent in our understanding of how
+naturalistic input contributes to children’s verb acquisition. First, it is not
+clear whether the relationships that exist between input quantity, input
+diversity, and children’s lexical development hold speciﬁcally for verbs.
+Second, much less is known about how verb-related structural cues are
+used in naturalistic parent input, such as syntactic frame diversity and
+morphological context diversity. Whether these cues provide additional
+beneﬁt to increase children’s verb lexicon remains uncertain. The current
+study addressed these issues by investigating the contribution of parent
+input to children’s subsequent verb diversity. Conventional measures of
+verb input quantity and diversity were included, as well as theoretically
+motivated measures of syntactic and morphological context diversity (de
+Villiers, ; Naigles & Hoﬀ-Ginsberg, , ). In addition, we
+expected children’s prior developmental abilities to inﬂuence subsequent
+verb acquisition. Children who used more diﬀerent words early in
+development were anticipated to produce more diﬀerent verbs six months
+later. Controlling for initial vocabulary abilities was also important in light
+of Huttenlocher
+inﬂuences
+between children’s vocabulary abilities and lexical properties of parent
+input. Children’s intelligibility and talkativity during conversations were
+also considered, because these factors might
+input.
+Finally, child gender was considered, because Huttenlocher et al. ()
+reported that gender inﬂuenced the rate of lexical development, with girls
+accelerating more quickly than boys before ;.
+
+() evidence of bi-directional
+
+et al.’s
+
+inﬂuence parent
+
+The following four research questions were explored:
+
+. Are measures of children’s ; developmental abilities associated with
+their ; verb diversity? This question explored the evidence for
+general continuity in early language development.
+
+. Are measures of children’s ; developmental abilities associated with ;
+parent input measures? This question addressed whether parent input is
+related to concurrent children’s abilities.
+
+. Are the ; parent input verb quantity, verb diversity, and verb-related
+structural cues associated with children’s ; verb diversity? This
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+question explored diﬀerent dimensions of parent verb input that may
+inﬂuence children’s subsequent verb production.
+
+. Do parent input verb measures at age ; predict children’s verb diversity
+at age ; when children’s ; developmental abilities are controlled? This
+to children’s
+question addressed the contribution of parent
+subsequent verb acquisition above and beyond the contribution of the
+children’s developmental abilities.
+
+input
+
+M E T H O D S
+Participants
+Participants for the current study were selected from an existing longitudinal
+database funded by the Natural Science Foundation (NSF; Rispoli &
+Hadley, ). Fifty-eight families were originally recruited for a study of
+the acquisition of tense and agreement in toddlers between ; and ; in
+English monolingual homes. Children with congenital or acquired
+neurological or sensory impairments,
+insertion of pressure equalization
+tubes as a result of repeated bouts of otitis media, or delayed onset of
+walking or
+talking (i.e. after ;) were not eligible to participate.
+Spontaneous language samples were collected in the lab playroom at ages
+;, ;, ;, ;, ;, and ;. The -hr data collection involved two
+contexts. Parents were instructed to “play as they would at home” with
+their children for the ﬁrst  min with age-appropriate toys. In the second
+-min context, an examiner joined the parent–child dyads to create more
+opportunities for the children to produce tense and agreement morphemes
+with diﬀerent lexical subjects and verbs. Information regarding children’s
+general development and language production was also available from two
+parent report checklists, the Ages and Stages Questionnaire (ASQ; Bricker
+& Squires, ) and the MacArthur-Bates Communicative Development
+Inventories: Words and Sentences (CDI; Fenson, Marchman, Thal, Dale,
+Reznick & Bates, ). For a parent–child dyad to be included in the
+current study, the children were required to: (a) demonstrate a passing
+score on the communication section of ASQ at ; and ;;
+(b)
+demonstrate an expressive vocabulary at or above the th percentile on
+the CDI at ;; and (c) have no history of early intervention (EI) services
+prior to ;. The above criteria excluded twelve children and identiﬁed
+forty-six children as typically developing in regards to communication and
+vocabulary development. From this pool, twenty-one children with ten or
+fewer action words on the CDI (i.e. Part I section : Action Words) at ;
+were selected. Based on cross-sectional CDI norms, these children could
+be characterized as low-average typically developing toddlers (i.e. th
+percentile at  months =  action words; Dale & Fenson, ;
+Jørgensen, Dale, Bleses & Fenson, ). We then combined the verbs
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+parents reported on the CDI with the diﬀerent verbs children produced in
+the ; language sample. The number of diﬀerent verbs combined for one
+girl was  SD above the mean for the participants selected; therefore, she
+was excluded due to her outlier status. Together, the combination of
+inclusionary and exclusionary criteria created a homogeneous group of
+typically developing children. Selecting a homogeneous sample was an
+important design feature for revealing the contribution of input to verb
+acquisition for two reasons. First, it minimized the extent to which prior
+verb lexicon size would inﬂuence subsequent outcomes. Second, it reduced
+the possibility that diﬀerences observed in parents’ use of verbs in their
+child-directed speech could be attributed to diﬀerences in children’s initial
+status.
+
+The twenty children ( boys) selected for this study had one to thirteen
+verbs (M = ·, SD = ·)
+in their expressive vocabulary at ;, as
+determined by the combination of CDI action words reported and the
+verbs children produced in the language sample. Most children were in
+the single-word stage, with their MLUs in morphemes ranging from ·
+to · (M = ·, SD = ·). Boys were over-represented in this sample
+because of diﬀerences in CDI action words reported at ;. Approximately
+two-thirds of the typically developing boys in the database had ten or
+fewer CDI action words reported, whereas only one-fourth of the girls
+met this inclusionary criteria.
+
+Twenty parents ( father) participated in the study, ranging in age from
+(M = ·, SD = ·). Parents’ highest
+twenty-three to forty years
+educational levels included completion of high school (n = ), associate’s
+degree or some college (n = ), bachelor’s degree (n = ), and advanced
+degree (n = ). Participating parents and children were primarily White,
+non-Hispanic (n = ). One parent self-identiﬁed as White Hispanic and
+three parents self-identiﬁed as Black (n = ).
+
+Language samples
+The input speech samples came from the -min of parent–child free play at
+;. Each sample was transcribed according to the standard conventions
+of the Systematic Analysis of Language Transcripts (SALT; Miller &
+Iglesias, ). The transcription of adult and child utterances was
+completed separately by trained graduate or undergraduate research
+assistants based on audio- and video-recordings. Transcribers listened to
+each utterance a maximum of three times and used video-recordings to
+provide information about the physical context, if necessary. Following the
+initial transcription pass, a second transcriber completed a consensus pass
+(cf. Shriberg, Kwiatkowski & Hoﬀmann, ),
+re-listening to the
+recording and marking as unintelligible or removing any morphemes that
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+could not be conﬁrmed. The consensus transcriber was allowed to add
+content words, but was not allowed to add tense/agreement morphemes
+without conﬁrmation by a third transcriber, since the original study
+focused on the acquisition of tense and agreement.
+
+Measures and the coding procedures
+
+Parent input measures at ;. Measures of parent input from the ;
+measurement point were computed to characterize the total amount of
+parent input, the quantity and diversity of verb input, and the verb-related
+structural cues provided by the parents. These parent input variables were
+examined as potential predictors of children’s ; verb diversity.
+
+. Descriptive measures. Several descriptive measures were computed from
+parents’ spontaneous, complete, and fully intelligible utterances, including
+the number of total utterances addressed to the children, the number of
+total words, and the number of diﬀerent words produced by the parents.
+Utterances produced during singing, book reading, or daily and game-
+playing routines (e.g. ‘peekaboo’) were excluded. When computing the
+number of total words and the number of diﬀerent words, we followed the
+general procedures of Huttenlocher and colleagues (Huttenlocher et al.,
+; Huttenlocher, Vasilyeva, Waterfall, Vevea & Hedges, ). Speciﬁc
+classes of words such as animal noises (e.g. baaa, moo, quack, etc.), letter
+names, and parental imitations of babbling were excluded. Interjections
+such as ooh, oops, or ohno, and words used as interjections such cool, great,
+or darn were also excluded. Words derived from derivational aﬃxes were
+types (e.g. bake and baker). Regular inﬂectional
+considered diﬀerent
+variants of one word were considered the same type (e.g. cook, cooks,
+cooking, and cooked), whereas irregular inﬂectional variants were considered
+distinct types (e.g. run and ran; goose and geese; go and went; see and saw).
+Frequently used irregular forms in English tend to be phonologically
+distinct from their base forms, and children might treat the early irregular
+forms and the base forms as separate words. A proper name and its
+nickname were considered one word type (e.g. Cynthia and Cindy).
+Diminutives
+also
+standardized and counted as examples of the same word type (e.g. doggy
+and dog; ma, mama, mommy, and mom).
+
+and commonly occurring motherese words were
+
+. Measures of verbs. The quantity and diversity of verbs were measured by
+the number of total verbs and the number of diﬀerent verbs produced by the
+parents. Verbs that could be used as main verbs or as auxiliaries (i.e. have and
+do) were counted only when parents used them as main verbs.
+
+. Measures of input verb-related structural cues of frequently used verbs. To
+investigate whether parents provided structurally diﬀerent environments
+when using verbs, the syntactic frame diversity and the morphological
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+context diversity proposed by Naigles and Hoﬀ-Ginsberg (, ) and
+de Villiers () were examined. To control the eﬀect of verb frequency
+upon the diversity of structural cues, only the ten most frequently used
+verbs in each language sample were analyzed. Verbs used less than ﬁve
+times were excluded because they provided insuﬃcient opportunities for
+parents to demonstrate diversity. Five verbs (i.e. eat, go, help, sit, and stop)
+that were already produced by more than % of the children (n = ) were
+also excluded in order to reduce the inﬂuence of children’s verb use on
+parents’ verb use. These procedures were adopted to focus on verbs that
+were: (a) not initially part of children’s lexicon; and (b) frequent enough
+to demonstrate the diversity of structural cues if present. Note that the
+number of frequent verbs that met these criteria varied among parents. A
+parent might have less than ten verbs in this analysis because fewer verbs
+were produced at least ﬁve times. Other parents might have more than ten
+verbs in the analysis if two or more verbs were produced with an identical
+frequency.
+
+.. Syntactic frame diversity. Recall that Naigles and Hoﬀ-Ginsberg
+(, ) used the broad frame coding to demonstrate the frame cue
+validity in restricting verb meanings, and the narrow frame coding to
+assess input syntactic frame diversity and its relationship to children’s use
+of corresponding verbs. Because their narrow frame coding was not
+theoretically motivated, we integrated their two types of frame coding to
+form the current coding scheme. This approach retained the spirit of
+Naigles and Hoﬀ-Ginsberg’s narrow frame coding in that it provided
+more opportunities to capture input variation for each verb type than
+would be possible with the broad frame coding alone. At the same time, it
+preserved the cue validity to verb semantics that was revealed by the broad
+frame coding.
+
+The broad frame coding was adopted with two modiﬁcations. First,
+phrasal verb construction (e.g. put away the toys) was added as a valid
+frame because many English verbs co-occur with verb particles to form
+distinct semantic units. Second, the adverb frame was excluded. Unlike
+the noun phrase direct objects or the prepositional phrases, adverbs as a
+syntactic category do not provide clues to the verb semantics. Naigles and
+the adverb frame “has not been
+Hoﬀ-Ginsberg ()
+hypothesized to correlate with verb meaning” (Naigles & Hoﬀ-Ginsberg,
+, p. ). The broad frame coding therefore included: (a) transitivity
+(i.e. followed immediately by a noun phrase direct object); (b) postverbal
+and (d) verb–particle
+sentence;
+construction. Each target verb was then coded for its COMBINATION of
+broad frames. For example, the verb put in the sentence put the box under
+the chair would be coded as combining the transitivity frame and the
+postverbal prepositional phrase frame. The target verb blow in the sentence
+
+(c) postverbal prepositional phrase;
+
+stated that
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+are you blowing? would be coded as combining no broad frames, which is
+itself a unique frame combination. The coding scheme thus allowed
+sixteen possible broad frame combinations (see ‘Appendix’). Finally, for
+each verb analyzed, we
+frame
+combinations and computed the ratio of diﬀerent combinations to total
+verb tokens. Each parent received an average ratio for his/her ten most
+frequently used verbs. This represented the extent to which the parent
+used diverse syntactic frames. See Hsu () for a detailed example of
+computing the syntactic frame diversity.
+
+calculated the number of unique
+
+.. Morphological context diversity. Verbs that were analyzed for syntactic
+frame diversity were also analyzed for morphological context diversity. The
+coding followed de Villiers () with some modiﬁcations. Twelve
+morphological contexts for verbs were coded, with negative constructions
+being
+twelve
+morphological contexts were:
+
+categorized with
+
+forms. The
+
+their
+
+corresponding
+
+(a) Unmarked V
+(b) Inﬁnitive to V
+(c) Modal + V (e.g. can, must, should + V)
+(d) Future will + V and the contracted ’ll + V
+(e) Catenatives + V and the full forms of catenatives + V (e.g. gonna, wanna,
+
+gotta + V and going to, want to, got to + V)
+
+(f) Do support + V
+(g) Progressive be + V-ing
+(h) Third person present tense V-s
+(i) Regular past tense V-ed
+(j) Perfect have + V participle
+(k) Irregular past tense (e.g. blew, said, ran, etc.)
+(l) Irregular third person present tense (e.g. says, has, etc.)
+
+Similar to the analysis of syntactic frame diversity, the ratio of diﬀerent
+morphological contexts to total verb tokens was computed for each target
+verb. Each parent received an average ratio that reﬂected the diversity of
+his/her ten most
+frequently used verbs with diﬀerent morphological
+contexts. See Hsu () for a detailed illustration for computing the
+morphological context diversity.
+
+Child developmental measures at ;. Several measures of children’s ;
+developmental abilities were computed as potential predictors of the ;
+verb diversity and to determine whether children’s language production
+inﬂuenced concurrent properties of parent input in the ; language samples.
+. Measures of vocabulary size. Two measures of children’s vocabulary size,
+CDI total words and the number of diﬀerent words produced by children in
+the language samples, were used. CDI total words reﬂected children’s overall
+lexicon size as reported by their parents. The number of diﬀerent words
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+denoted the expressive lexicon size observed during the naturalistic
+conversations during free play. The number of diﬀerent words was used to
+investigate continuity in lexical development and the potential inﬂuence of
+children’s vocabulary use on parent language input.
+
+. The measure of talkativity and intelligibility. Children’s talkativity and
+intelligibility was measured using the number of complete and intelligible
+utterances produced in the -min language sample. Only spontaneous
+utterances were included. Children’s imitations of the adult utterances
+were not
+included. Utterances such as singing, number counting, or
+daily and game-playing routines (e.g. amen) were also excluded. We
+hypothesized that children’s talkativity and intelligibility would be related
+to the number of diﬀerent words they produced. In addition, it seemed
+possible that parents might respond diﬀerently to children with limited
+intelligibility, so we examined the inﬂuence of children’s number of
+complete and intelligible utterances on parent input.
+
+Child expressive verb diversity at ;. Children’s ; verb diversity was
+measured by the number of diﬀerent verbs produced in the -min
+language sample. For a word to be counted as a verb, it had to either belong
+only to the verb category or be used in a context that granted the word verb
+status. For example, the word put would be counted as a verb because it can
+only be used as a verb. On the other hand, an appropriate verb context was
+required for the word open to be counted as a verb in the child’s lexicon (cf.
+I open the door [verb] vs. the door is open [adjective]). The ﬁrst author
+examined all words that had the possibility to be used as other word classes.
+All words counted as verbs were used in appropriate verb contexts.
+
+Reliability
+Transcribers completed approximately  hours of training. They were
+required to complete three consecutive training transcripts at %
+reliability overall before transcribing child data used in the analyses.
+Transcription reliability was obtained through consensus procedures
+designed to reduce measurement error and to err on the side of
+conservative transcription whenever possible (Shriberg et al., ). The
+consensus transcription procedures, previously described, provided the
+transcription reliability for this study. These procedures were adopted
+given the inherent diﬃculty in transcribing very young children’s speech,
+consistent with the procedures of other investigators transcribing toddlers’
+speech (e.g. Eisenberg, Guo & Germezia, ; Rescorla, Roberts &
+Dahlsgaard, ; Theakston & Rowland, ).
+
+The ﬁrst author was the primary coder for all parent verb measures at ;
+and the children’s verb diversity at ;. To ensure high levels of coding
+reliability, a graduate student research assistant with prior experience
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+coding verbs was trained on the study-speciﬁc procedures. Since the coding
+schemes for verb-related structural cues were unique to this study, the
+reliability coder completed three practice trials and received feedback on
+any coding disagreements. The three practice trials were all above %
+accuracy in both syntactic frame coding and morphological context coding.
+When computing the agreement rate for syntactic frame coding,
+the
+original coding and the reliability coding had to have the same frame
+for each parent
+combinations to be counted as agreement. That
+utterance,
+(i.e.
+transitivity, postverbal sentence, postverbal prepositional phrase, and verb–
+particle construction) had to be coded identically.
+
+absence/presence of
+
+syntactic
+
+frames
+
+four
+
+is,
+
+the
+
+the
+
+Three additional language samples were then coded independently (% of
+the data). For all three samples, coding agreement on all measures exceeded
+acceptable levels of reliability (i.e. % agreement). Agreement rates for
+each measure follow: parent verb identiﬁcation (M = ·, SD = ·);
+syntactic frame coding (M = ·, SD = ·); morphological context
+coding (M = ·, SD = ·); child verb diversity (M = ·, SD = ·).
+
+Analysis plan
+First, Pearson correlation coeﬃcients were computed to explore the
+relationships between children’s ; developmental abilities, parent ;
+verb input measures, and children’s ; verb diversity. Results of the
+correlational analyses served to answer the ﬁrst three research questions
+and to identify developmental factors and verb input measures that were
+potential predictors of children’s subsequent verb diversity.
+
+A hierarchical regression analysis was conducted to address the fourth
+research question. This analysis investigated the unique contribution of
+parent input to children’s verb diversity after controlling for children’s
+developmental abilities. Children’s ; verb diversity was the outcome
+variable. The predictor variables were entered in three blocks. Block 
+included all measures of children’s ; developmental abilities to control
+for children’s developmental diﬀerences at ;. Block  included measures
+of ; parent verb input. Only input measures that were signiﬁcantly
+correlated with children’s ; verb diversity were used as predictor
+variables in the regression analysis. Gender was entered in Block  to
+remove any spurious
+relations between predictors and the outcome
+variable that were inﬂuenced by gender.
+
+R E S U L T S
+A total of , input utterances were examined, containing , verbs.
+Descriptive
+and child
+developmental measures at ; and the child verb diversity at ; are
+
+input measures
+
+the parent
+
+statistics
+
+for
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+TA B L E . Developmental and input measures at ; and ; by child gender
+
+H S U E T A L.
+
+Boys
+(n = )
+
+Girls
+(n = )
+
+Total
+(n = )
+
+Boys vs. Girls
+
+M (SD)
+
+M (SD)
+
+M (SD)
+
+t
+
+p
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+·
+
+p
+
+·
+
+·
+−·
+−·
+
+·
+
+·
+
+·
+
+·
+−·
+−·
+−·
+
+t
+
+·
+
+Variable
+
+Age ;
+
+Child CDI-total
+
+Child NDW
+
+Child C&I Utts
+
+Parent C&I Utts
+
+Parent NTW
+
+Parent NDW
+
+Parent NTV
+
+Parent NDV
+
+Parent syntactic diversity
+
+Parent morphological diversity
+
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+·
+(·)
+
+Age ;
+
+Child verb diversity
+
+M (SD)
+
+M (SD)
+
+M (SD)
+
+·
+(·)
+
+·
+(·)
+
+·
+(·)
+
+NOTES: NDW = the number of diﬀerent words; C&I utt = the number of complete and
+intelligible utterances; NTW = the number of total words; NTV = the number of total
+verbs; NDV = the number of diﬀerent verbs. Child verb diversity = the number of diﬀerent
+verbs children produced.
+
+presented in Table . Because boys were over-represented in this sample (i.e.
+%), independent sample t-tests were conducted. There were no signiﬁcant
+gender diﬀerences in the developmental measures at ; or for children’s
+verb diversity at ; (see Table ). Boys and girls appeared to receive
+similar verb input at ;. No diﬀerences were observed between boys and
+girls in the number of total verbs and the number of diﬀerent verbs
+produced by parents in the -min free play.
+
+We ﬁrst explored the relationships among the ; developmental measures.
+Pearson correlation coeﬃcients for CDI total words, the number of diﬀerent
+words, and the number of complete and intelligible utterances are presented
+in Table . The number of diﬀerent words produced by the children and
+the number of complete and intelligible utterances were signiﬁcantly
+correlated with each other (r() = ·, p = ·), indicating that children
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+TA B L E . Pearson correlations among developmental measures at ;, parent
+
+verb input measures at ;, and child verb diversity at ;
+
+Age ;
+
+Developmental
+measures
+
+Parent verb input measures
+
+Measures
+
+.
+
+.
+
+.
+
+.
+
+·
+·** −·
+·
+–
+
+–
+
+·
+–
+
+. Child CDI-total
+. Child NDW
+. Child C&I Utts
+. Parent NTV
+. Parent NDV
+. Parent syntactic
+
+diversity
+
+. Parent
+
+morphological
+diversity
+
+.
+
+.
+−· −·
+·
+·
+·
+·
+·
+·** −·* −·
+·
+·**
+
+·
+·
+·
+
+·
+–
+
+–
+
+–
+
+Age ;
+
+Child verb
+diversity
+
+.
+
+·*
+·*
+·
+·
+·*
+·
+
+·
+
+NOTES: NDW = the number of diﬀerent words; C&I utt = the number of complete and
+intelligible utterances; NTV = the number of total verbs; NDV = the number of diﬀerent
+verbs; * p < ·, ** p < · (two-tailed).
+
+who produced more intelligible utterances also used more diﬀerent words in
+the conversational
+language samples. In contrast, correlations were
+not statistically signiﬁcant between the language sample measures and
+children’s total lexicon size estimated by the parent report; however, the
+correlation between the number of diﬀerent words and CDI total words
+was in the predicted direction (r() = ·, p = ·).
+
+To address the ﬁrst research question, we explored the continuity between
+children’s ; measures with the measure of ; verb diversity. Both ;
+vocabulary measures were signiﬁcantly correlated with the ; verb
+diversity, CDI total words (r() = ·, p = ·), number of diﬀerent
+words produced (r() = ·, p = ·). In addition,
+the correlation
+between the number of complete and intelligible utterances at ; and the
+; verb diversity approached signiﬁcance (r() = ·, p = ·). In light
+of these signiﬁcant correlations, children’s developmental abilities at ;
+were associated with their verb diversity at ;. Therefore, it was necessary
+to control for children’s prior development in the primary analysis to
+identify the relative contribution of developmental and input factors to
+children’s subsequent verb diversity.
+
+The second research question explored if children’s developmental
+inﬂuenced parents’ verb use. Correlations between the ;
+abilities
+measures of child vocabulary and talkativity and the measures of parent
+verb input were examined. None of the correlations were statistically
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+signiﬁcant (see Table ), indicating that parents’ verb use was not directly
+inﬂuenced by their children’s expressive vocabulary abilities or by their
+talkativity during the parent–child interactions.
+
+We then examined the relationships between the ; parent verb input and
+children’s ; verb diversity. Pearson correlation coeﬃcients were computed
+for the number of total verbs and the number of diﬀerent verbs produced by
+parents in the -min free play, syntactic frame diversity and morphological
+context diversity of the frequently used verbs, and children’s verb diversity
+(see Table ). The number of total verbs and the number of diﬀerent verbs in
+parent input correlated with each other (r() = ·, p = ·), indicating
+that parents who produced more verbs also used more diﬀerent verbs.
+However, only parents’ number of diﬀerent verbs in the input was
+correlated with children’s ; verb diversity (r() = ·, p = ·);
+parents’ total verbs was unrelated (r() = ·, p = ·). Input syntactic
+frame diversity of
+correlated with the
+morphological context diversity (r() = ·, p < ·). Parents who used
+the frequent verbs in more unique syntactic frames also employed more
+diﬀerent morphological contexts. Interestingly, the number of total verbs
+produced was negatively correlated with the syntactic frame diversity of
+the frequently used verbs (r() = –·, p = ·). Parents who produced
+more verbs appeared to be more repetitive in their use of the frequent
+verbs, repeating this set of verbs in similar syntactic patterns.
+
+frequently used verbs
+
+the
+
+A hierarchical regression analysis was conducted to determine if parent
+verb input explained additional variance in children’s ; verb diversity,
+after controlling for children’s prior developmental abilities. Children’s ;
+verb diversity was the outcome variable. Three developmental factors were
+entered in Block : CDI total words, the number of diﬀerent words, and
+the number of complete and intelligible utterances produced. Together,
+the three ; developmental factors explained approximately % of the
+variance in the ; verb diversity (R = ·, F(,) = ·, p = ·).
+Next, the number of diﬀerent verbs produced by parents was entered in
+Block , since it was the only input measure that had a signiﬁcant correlation
+with children’s ; verb diversity. The addition of parent verb input
+diversity resulted in a signiﬁcantly improved model (R change = ·,
+F(,) = ·, p = ·; R = ·, F(,) = ·, p = ·). In this
+model, the four predictor variables together explained % of the variance;
+only the number of diﬀerent verbs produced by parents and children’s CDI
+total words were signiﬁcant predictors. Finally, gender was entered in Block
+ to control for potential spurious eﬀects inﬂuenced by gender. The addition
+of gender did not improve the model (R change < ·, F(,) = ·,
+p = ·), nor did it alter the signiﬁcant predictor variables. In addition,
+semi-partial correlations were used to identify which predictor variables
+explained unique variance in children’s ; verb diversity, that is, variance
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+explained that was not shared with any other variables in the model. In the
+ﬁnal model, the number of diﬀerent verbs produced by parents at ;
+accounted for % of the variance in children’s ; diversity (t() = ·,
+p = ·), and children’s CDI total words at ; accounted for an
+additional % of the variance (t() = ·, p = ·). Note that the
+degree of overlap between verbs that parents used at ; and those that
+children used at ; diﬀered among the dyads, ranging from % to %
+(M = %, SD = ·). In contrast, children’s number of diﬀerent words
+the number of complete and intelligible
+from the language samples,
+utterances produced by children, and gender, were not
+signiﬁcant
+predictors (t() = ·, p = ·; t() = ·, p = ·; t() = –·,
+p = ·, respectively) (see Table ).
+
+D I S C U S S I O N
+The ﬁeld of language development has long recognized that language
+learning is inﬂuenced by factors internal to the child as well as factors
+external to the child, such as his or her linguistic environment. The
+current study revisited this topic, presenting new empirical ﬁndings about
+these two inﬂuences on children’s verb
+the unique contribution of
+acquisition. Parents’ ; verb input diversity predicted children’s ; verb
+diversity, uniquely accounting for % of the variance. Evidence for
+developmental continuity in children’s
+lexical development was also
+apparent, as children’s ; lexicon size predicted their verb diversity six
+months later, explaining an additional % of the variance.
+
+it
+
+is
+
+input
+
+The current study builds upon the ﬁndings of prior research in children’s
+lexical development (Hoﬀ & Naigles, ; Huttenlocher et al., , ;
+Rowe, ) by uncovering evidence for input eﬀects speciﬁc to verb lexicon
+development. As verb acquisition is a vital component
+in language
+development,
+facilitates
+children’s verb learning. The previous literature documents that both
+input quantity and input diversity are important to lexical development at
+diﬀerent ages (Huttenlocher et al., , ; Rowe, ), with input
+diversity becoming more important than quantity by ;. Our ﬁndings
+provide converging evidence for the importance of input diversity to verb
+acquisition at an earlier point in development before the second birthday.
+
+to know how parent
+
+important
+
+To better understand the kinds of verbs that parents with more diverse
+verb lexicons were using, we examined which verbs were used by most
+parents and which verbs were used by only a few. A total of  diﬀerent
+verbs was produced collapsed across the twenty parents in the study, with
+thirty-two verbs (%) used by more than half of the parents. Nine verbs
+were produced by all parents: do, get, go, have, look, play, put, see, and
+want, with most of them falling into the categories of the ‘light verbs’
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+ 
+
+C
+a
+m
+b
+r
+i
+d
+g
+e
+C
+o
+r
+e
+ 
+t
+e
+r
+m
+s
+ 
+o
+f
+ 
+u
+s
+e
+
+,
+ 
+
+a
+v
+a
+
+i
+l
+
+l
+
+ 
+
+a
+b
+e
+a
+t
+ 
+h
+t
+t
+p
+s
+:
+/
+/
+
+.
+
+w
+w
+w
+.
+c
+a
+m
+b
+r
+i
+d
+g
+e
+o
+r
+g
+/
+c
+o
+r
+e
+/
+t
+e
+r
+m
+s
+.
+ 
+
+h
+t
+t
+p
+s
+:
+/
+/
+d
+o
+
+i
+.
+
+.
+
+o
+r
+g
+/
+1
+0
+1
+0
+1
+7
+/
+S
+0
+3
+0
+5
+0
+0
+0
+9
+1
+5
+0
+0
+0
+6
+9
+0
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+s
+:
+/
+/
+
+ 
+
+w
+w
+w
+.
+c
+a
+m
+b
+r
+i
+d
+g
+e
+o
+r
+g
+/
+c
+o
+r
+e
+
+.
+
+.
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+a
+e
+t
+s
+b
+b
+
+i
+
+l
+i
+
+ 
+
+o
+t
+h
+e
+k
+K
+a
+i
+s
+e
+r
+s
+l
+a
+u
+t
+e
+r
+n
+
+,
+ 
+
+ 
+
+ 
+
+o
+n
+2
+2
+D
+e
+c
+ 
+2
+0
+1
+8
+a
+t
+ 
+1
+4
+2
+6
+3
+0
+
+:
+
+:
+
+ 
+
+j
+
+,
+ 
+s
+u
+b
+e
+c
+t
+ 
+t
+o
+ 
+t
+h
+e
+
+TA B L E . Predicting children’s ; verb diversity using ; child developmental measures, ; input verb measure, and child
+
+gender
+
+Coeﬃcients
+
+Predictors
+
+beta
+
+t
+
+p
+
+semi-partial r
+
+F
+
+p
+
+Model 
+
+Child developmental measures
+
+
+
+
+Model 
+
+Child developmental measures
+
+Model 
+
+Input verb measure
+Child developmental measures
+
+Input verb measure
+Child gender
+
+CDI-total
+C-NDW
+C-C&I utt
+CDI-total
+C-NDW
+C-C&I utt
+P-NDV
+CDI-total
+C-NDW
+C-C&I utt
+P-NDV
+C-Gender
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+−·
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+−·
+
+·
+·
+·
+·*
+·
+·
+·**
+·*
+·
+·
+·**
+·
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+−·
+
+R
+
+·
+
+H
+S
+U
+
+E
+T
+
+A
+L
+.
+
+F(,) = ·
+
+·*
+
+F(,) = ·
+
+·**
+
+·
+
+F(,) = ·
+
+·**
+
+·
+
+NOTES: C-NDW = children’s number of diﬀerent words; C-C&I utt = children’s number of complete and intelligible utterances; P-NDV =
+parents’ number of diﬀerent verbs; C-Gender = child gender. * p < ·, ** p < ·.
+
+D I V E R S I T Y M A T T E R S
+
+proposed by Pinker () or the general all-purpose (GAP) verbs proposed
+by Rice and Bode (). These verbs are frequent in input and are less
+speciﬁc in meanings as they do not map to speciﬁc actions (Pinker, ;
+Rice & Bode, ). The nine most
+frequently used verbs in the
+CHILDES database (Li & Shirai, ; MacWhinney, ) completely
+overlapped with our parents’ most frequently used verbs. Only do and
+have were not included in the CHILDES list of verbs. More than half of
+our parents used common mental state verbs such as know, think, and like.
+They also used verbs that were commonly associated with the speciﬁc
+activities and materials in the playroom, including eat, feed, cook (kitchen
+area), ﬁt (puzzles), blow (bubbles), and open (cabinets, toys in boxes with
+lids).
+
+Among the total of  verbs,  verbs (%) were used by ten or fewer
+parents, and  verbs (%) were produced by only a single parent. Thus, the
+input verb lexicon collapsed across parents consisted of a small number of
+frequent verbs shared by most parents, with the vast majority of verbs
+rarely produced, often by only a single parent. Although the verbs
+produced by the majority of parents were mostly meaning-general, the
+remaining % included verbs that were more speciﬁc in the manner or
+the instrument encoded in the designated actions. Fewer parents used
+verbs with more speciﬁc meanings. For example, the general movement
+verb go was used  times by all
+its
+manner-speciﬁc counterparts such as walk, run, and step were produced by
+fewer than six parents. Another example is the verb play. Play could be
+used as a general action label for many diﬀerent activities and was used
+ times by all twenty parents, yet verbs denoting more precise play
+actions such as bounce, lift, and toss were used by fewer than three parents.
+Similarly, the activity verb cook was more likely to be used in the kitchen
+area of the playroom. It was produced  times by thirteen of the twenty
+parents. In contrast, the more speciﬁc verbs such as stir, fry, and bake
+were used by fewer than four parents. In summary, parents with more
+diverse verb lexicons tended to expose their children to more meaning-
+speciﬁc verbs,
+children encountered these verbs
+infrequently in the input. Nevertheless, exposure to more meaning-speciﬁc
+verbs provided critical opportunities for children to increase their verb
+lexicon size.
+
+twenty parents, whereas
+
+even though the
+
+Of the developmental factors considered, children’s ; vocabulary size
+as measured by parent report was a signiﬁcant predictor of ; verb
+diversity. This ﬁnding provides additional evidence for developmental
+continuity in early language development (Bates, Bretherton & Snyder,
+; Marchman & Thal, ), as the expansion of the verb lexicon starts
+later compared to the rapid expansion of common nouns (Bates et al.,
+). On the other hand, children’s talkativity and intelligibility at ;
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+input
+
+did not predict their subsequent verb diversity. Children who were more
+intelligible or more talkative were not necessarily more advanced in verb
+development. Additionally, children’s ; developmental abilities did not
+inﬂuence the concurrent parent
+they received. No signiﬁcant
+relationships were observed between measures of children’s vocabulary size
+and talkativity with the parents’ verb input quantity, input diversity, or
+verb-related structural diversity. Although the ﬁnding diﬀers
+from
+Huttenlocher et al.’s (), it should be noted that we restricted our
+sample to children with a limited initial verb lexicon size. Thus, the
+diﬀerence in ﬁndings may be attributable to a narrower range of children’s
+vocabulary abilities in our sample as compared to Huttenlocher et al.’s
+sample.
+
+The study further tested the hypothesis that syntactic and morphological
+diversity facilitate verb acquisition (de Villiers, ; Naigles & Hoﬀ-
+Ginsberg, , ). Our coding scheme, adapted from Naigles and
+Hoﬀ-Ginsberg (, ), better captured the notion of the syntactic
+bootstrapping hypothesis. We counted the unique combinations of ‘broad
+syntactic frames’, the frames considered to be cues to verb meanings,
+whereas Naigles and Hoﬀ-Ginsberg used the ‘narrow syntactic frames’,
+which do not translate into cues to verb meanings in an obvious manner
+(Naigles & Hoﬀ-Ginsberg, , p. ). However, our input syntactic
+frame diversity variable was not signiﬁcantly correlated with children’s
+subsequent verb diversity, and hence was not included in the regression
+analysis. Recall
+that Naigles and Hoﬀ-Ginsberg used pooled speech
+samples to examine the contribution of input structural cues to children’s
+verb production. In contrast, we concentrated on the variation among
+parents in their input structural diversity. The fact that there were no
+signiﬁcant relations between input structural diversity and children’s
+subsequent verb diversity suggested that either parents did not diﬀer
+suﬃciently in their use of structural cues with frequent verbs, or the
+variability that was apparent did not contribute to children’s verb
+diversity. It should also be noted that Naigles and Hoﬀ-Ginsberg’s
+measure of input structural diversity explained only % of the additional
+variance in child verb frequency, after controlling for the parent input
+verb frequency. Insofar as the current study examined variability in a
+small sample of individual parent–child dyads (n = ) and not variability
+in the use of verbs within a language for a large pooled sample of many
+more dyads (n = ), the absence of a signiﬁcant eﬀect for the structural
+cues may not be particularly surprising. Future research is needed to
+reconcile the diﬀerence between these two approaches to characterize
+structural cue diversity in input and its eﬀect on verb acquisition.
+
+This study also made use of a valuable methodological technique for
+exploring the impact of parent input on individual diﬀerences in toddlers’
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+D I V E R S I T Y M A T T E R S
+
+in Hoﬀ and Naigles’
+
+language development. Following the design of Huttenlocher et al. ()
+and Rowe () for initial vocabulary development, and Hadley, Rispoli,
+Fitzgerald, and Bahnsen () for initial morphosyntactic development,
+we selected children to be homogeneous in age and developmental status.
+Developmental diﬀerences in verb lexicon size at the initial measurement
+point were also controlled, selecting children with ten or fewer verbs on
+the CDI. If developmental diﬀerences had been too extensive at the initial
+measurement point, the eﬀects of developmental continuity could have
+overpowered the contribution of parent input. In addition, since parents
+may adjust their input to their children’s level of lexical development
+(Huttenlocher et al., ), homogeneity in the target variable across the
+child participants also minimized diﬀerences in parent input that could be
+inﬂuenced by children’s vocabulary abilities. Despite the homogeneity in
+children’s initial verb lexicons, the parent input remained variable. As a
+result, we were able to isolate the contribution of input diversity to
+subsequent between-child diﬀerences in verb diversity. In contrast, the
+child participants
+study were more
+heterogeneous. Hoﬀ and Naigles investigated input eﬀects on lexical
+development using children who were approximately ;. They selected
+children who “were just beginning to combine words”, and examined the
+relationship between Time  input and Time  children’s lexicon size ten
+weeks later. However, the child participants varied both in age and lexicon
+size at Time . Hoﬀ and Naigles did not ﬁnd input lexical diversity to be
+a signiﬁcant predictor of children’s subsequent lexicon size. Given the
+developmental diﬀerences between children at Time , it is possible that
+the developmental diﬀerences overrode the input eﬀect. On the other
+hand, the current study was limited by the use of an archival database.
+Ideally, we would have initiated this study at ;, when nearly all children
+might be expected to have small expressive verb vocabularies. Because the
+initial measurement point in the archival database was at ;, we had to
+restrict our child participants
+to those with small expressive verb
+vocabularies to reduce initial developmental diﬀerences. This decision
+resulted in a sample of children drawn from the low to average range of
+verb acquisition (Dale & Fenson, ; Hadley, Rispoli & Hsu, in press)
+and a gender imbalance of ﬁfteen boys and ﬁve girls. Replication of this
+study, beginning at an earlier point in development, will be important to
+determine the extent to which characteristics of the child participants may
+have inﬂuenced our ﬁndings.
+
+()
+
+In light of Rowe’s () ﬁndings, future studies should also be designed
+to determine whether diﬀerent input characteristics contribute to children’s
+verb diversity in diﬀerent developmental periods. Given our observation that
+parents who had a more diverse verb lexicon tended to expose their children
+to more semantically speciﬁc verbs, future studies are needed to understand
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+factors that may inﬂuence the diversity and sophistication of the parent input
+verb lexicon. Potential factors such as parents’ general education level, verbal
+ability, and joint engagement in play activities are worth exploring.
+
+In closing, the current study showed that parent verb input diversity at ;
+had a signiﬁcant impact on children’s subsequent verb diversity six months
+later, even after accounting for developmental continuity in early lexical
+development. Although a suﬃcient amount of parent input is essential
+early in children’s lexical development (Huttenlocher et al., , ), a
+diverse parent input verb lexicon with more semantically speciﬁc verbs
+appears to be a crucial factor for enhancing toddler’s verb acquisition
+between ; and ;.
+
+R E F E R E N C E S
+
+Bates, E., Bretherton, I. & Snyder, L. (). From ﬁrst words to grammar: individual
+
+diﬀerences and dissociable mechanisms. New York, NY: Cambridge University Press.
+
+Bates, E., Marchman, V. A., Thal, D. J., Fenson, L., Dale, P. S., Reznick, J. S., Reilly, J. &
+Hartung, J. (). Developmental and stylistic variation in the composition of early
+vocabulary. Journal of Child Language , –.
+
+Behrend, D. A., Harris, L. L. & Cartwright, K. B. (). Morphological cues to verb
+meaning: verb inﬂections and the initial mapping of verb meanings. Journal of Child
+Language , –.
+
+Bricker, D. & Squires, J. (). Ages and Stages Questionnaire: a parent-completed, child
+
+monitoring system, nd ed. Baltimore, MD: Brookes Publishing.
+
+Dale, P. S. & Fenson, L. (). Lexical development norms for young children. Behavior
+
+Research Methods, Instruments, and Computers (), –.
+
+de Villiers, J. G. (). Learning how to use verbs: lexical coding and the inﬂuence of the
+
+input. Journal of Child Language , –.
+
+Eisenberg, S. L., Guo, L.-Y. & Germezia, M. (). How grammatical are -year-olds?
+
+Language, Speech, and Hearing Services in Schools , –.
+
+Fenson, L., Marchman, V. A., Thal, D. J., Dale, P. S., Reznick, J. S. & Bates, E. (). The
+Macarthur-Bates Communicative Development Inventories: user’s guide and technical manual,
+nd ed. Baltimore, MD: Brookes Publishing.
+
+Fisher, C., Hall, D. G., Rakowitz, S. & Gleitman, L. R. (). When it is better to receive
+than to give: syntactic and conceptual constraints on vocabulary growth. Lingua , –.
+Gleitman, L. R. (). The structural sources of verb meanings. Language Acquisition (),
+
+–.
+
+Gleitman, L. R., Cassidy, K., Nappa, R., Papafragou, A. & Trueswell, J. C. (). Hard
+
+words. Language Learning and Development (), –.
+
+Hadley, P. A. (). Assessing the emergence of grammar in toddlers at risk for speciﬁc
+
+language impairment. Seminars in Speech and Language (), –.
+
+Hadley, P. A., Rispoli, M., Fitzgerald, C. & Bahnsen, A.
+
+(). Predictors of
+morphosyntactic growth in typically developing toddlers: contributions of parent input
+and child sex. Journal of Speech, Language, and Hearing Research (), –.
+
+Hadley, P. A., Rispoli, M. & Hsu, N. (in press). Toddlers’ verb lexicon diversity and
+
+grammatical outcomes. Language, Speech, and Hearing Services in Schools.
+
+Hoﬀ, E. & Naigles, L. R. (). How children use input to acquire a lexicon. Child
+
+Development (), –.
+
+Hsu, N. (). Parent input and verb lexicon growth. Unpublished doctoral early research
+
+project, University of Illinois at Urbana-Champaign.
+
+Huttenlocher, J., Haight, W., Bryk, A., Seltzer, M. & Lyons, T. (). Early vocabulary
+
+growth: relation to language input and gender. Developmental Psychology (), –.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+Landau, B. & Gleitman, L. R. (). Language and experience: evidence from the blind child.
+
+Cambridge, MA: Harvard University Press.
+
+Li, P. & Shirai, Y. (). The acquisition of lexical and grammatical aspect. Berlin/New York,
+
+NY: Mouton de Gruyter.
+
+MacWhinney, B. (). The CHILDES Project: tools for analyzing talk, rd ed. Mahwah,
+
+NJ: Lawrence Erlbaum Associates.
+
+Marchman, V. & Thal, D. J. (). Words and grammar. In M. Tomasello & D. I. Slobin
+(eds), Beyond nature–nurture: essays in honor of Elizabeth Bates, –. Mahwah, NJ:
+Lawrence Erlbaum Associates.
+
+Miller, J. & Iglesias, A. (). Systematic Analysis of Language Transcripts [Computer
+
+software]. Middleton, WI: SALT Software, LLC.
+
+Naigles, L. R. & Hoﬀ-Ginsberg, E. (). Input to verb learning: evidence for the
+
+plausibility of syntactic bootstrapping. Developmental Psychology (), –.
+
+Naigles, L. R. & Hoﬀ-Ginsberg, E. (). Why are some verbs learned before other verbs?
+Eﬀects of input frequency and structure on children’s early verb use. Journal of Child
+Language , –.
+
+Naigles, L. R. & Swensen, L. D. (). Syntactic supports for word learning. In E. Hoﬀ &
+M. Shatz (eds), Blackwell handbook of language development, –. Oxford: Blackwell
+Publishing Ltd.
+
+Nelson, K. (). Structure and strategy in learning to talk. Monographs of the Society for
+
+Research in Child Development , –.
+
+D I V E R S I T Y M A T T E R S
+
+Huttenlocher, J., Vasilyeva, M., Waterfall, H. R., Vevea, J. L. & Hedges, L. V. (). The
+
+varieties of speech to young children. Developmental Psychology (), –.
+
+Huttenlocher, J., Waterfall, H. R., Vasilyeva, M., Vevea, J. L. & Hedges, L. V. ().
+
+Sources of variability in children’s language growth. Cognitive Psychology (), –.
+
+Jørgensen, R. N., Dale, P. S., Bleses, D. & Fenson, L. (). CLEX: a cross-linguistic lexical
+
+norms database. Journal of Child Language , –.
+
+Pinker, S. (). Learnability and cognition: the Acquisition of argument structure. Cambridge,
+
+MA: MIT Press.
+
+Rescorla, L., Roberts, J. & Dahlsgaard, K. (). Late talkers at : outcome at age . Journal
+
+of Speech, Language, and Hearing Research (), –.
+
+Rice, M. L. (). Children with speciﬁc language impairment: toward a model of
+teachability. In N. Krasnegor, D. M. Rumbaugh, R. L. Schiefelbusch & M. Studdert-
+Kennedy (eds), Biological and behavioral determinants of language development, –.
+Hillsdale, NJ: Lawrence Erlbaum Associaties.
+
+Rice, M. L. & Bode, J. V. (). GAPS in the verb lexicons of children with speciﬁc
+
+language impairment. First Language (), –.
+
+Richards, B. J. (). Child-directed speech and inﬂuences on language acquisition:
+methodology and interpretation. In C. Gallaway & B. J. Richards (eds), Input and
+interaction in language acquisition, –. Cambridge: Cambridge University Press.
+
+Rispoli, M. & Hadley, P. A. (). The growth of tense and agreement: ﬁnal report. National
+
+Science Foundation, BCS-.
+
+Rowe, M. L. (). A longitudinal investigation of the role of quantity and quality of
+
+child-directed speech in vocabulary development. Child Development (), –.
+
+Shriberg, L. D., Kwiatkowski, J. & Hoﬀmann, K. (). A procedure for phonetic
+
+transcription by consensus. Journal of Speech and Hearing Research (), –.
+
+Theakston, A. L. & Rowland, C. F. (). The acquisition of auxiliary syntax: a longitudinal
+elicitation study. Part : auxiliary BE. Journal of Speech, Language, and Hearing Research
+, –.
+
+Tomasello, M. (). Constructing a language: a usage-based theory of language acquisition.
+
+Cambridge, MA: Harvard University Press.
+
+Valian, V. (). Input and language acquisition. In W. C. Ritchie & T. K. Bhatia (eds),
+
+Handbook of child language acquisition, –. San Diego, CA: Academic Press.
+
+Yuan, S., Fisher, C. & Snedeker, J. (). Counting the nouns: simple structural cues to verb
+
+meaning. Child Development (), –.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+H S U E T A L.
+
+Appendix
+
+The sixteen potential unique syntactic frame combinations with examples
+from the input corpus
+
+Examples
+
+Target Vs Trans
+
+Post-V Sen
+
+Post-V PP Verb-P
+
+Are you blowing?
+You want to blow bubbles?
+I thought you said byebye
+bubbles.
+Do you wanna play with the
+farm?
+Were you cleaning up?
+I’ll go get you some more to
+drink if you ﬁnish that.
+Can you bring them to the
+table?
+Mommy has shoes on.
+Go to the store and then we’ll
+eat lunch.
+Sit down this way until I tell
+you.
+Do you want me to hold on
+to them?
+You knocked so much stuﬀ on
+the ﬂoor that you can’t even
+walk.
+Wipe it up because you got a
+little on the table.
+Can you put the bubbles back
+on the table?
+No example
+No example
+
+blow
+blow
+think
+
+play
+
+clean
+get
+
+bring
+
+have
+go
+
+sit
+
+hold
+
+knock
+
+wipe
+
+put
+
+o
+✔
+o
+
+o
+
+o
+✔
+
+✔
+
+✔
+o
+
+o
+
+o
+
+✔
+
+✔
+
+✔
+
+o
+✔
+
+o
+o
+✔
+
+o
+
+o
+✔
+
+o
+
+o
+✔
+
+✔
+
+o
+
+✔
+
+✔
+
+o
+
+✔
+✔
+
+o
+o
+o
+
+✔
+
+o
+o
+
+✔
+
+o
+✔
+
+o
+
+✔
+
+✔
+
+o
+
+✔
+
+✔
+✔
+
+o
+o
+o
+
+x
+
+✔
+o
+
+o
+
+✔
+o
+
+✔
+
+✔
+
+o
+
+✔
+
+✔
+
+✔
+✔
+
+NOTES: Target Vs = target verbs; Trans = transitivity; Post-V Sen = post-verbal sentence;
+Post-V PP = post-verbal prepositional phrase; Verb-P = verb-particle construction.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000690
+
+

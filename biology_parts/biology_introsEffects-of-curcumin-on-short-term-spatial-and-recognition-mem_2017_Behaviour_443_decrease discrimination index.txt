@@ -1,0 +1,435 @@
+
+Alzheimer’s disease (AD) is the most common progressive neurodegenerative disorder of the elderly, characterized by a decline in
+cognitive functions.  Sporadic AD (sAD; i. e. , late-onset AD), the most
+frequent form of AD with an unknown etiology, presents early abnormalities in brain glucose metabolism and insulin signaling, thus
+resulting in an insulin-resistant state in the brain, which has been
+suggested to be related to etiological events in its pathogenesis [1,2]. 
+Additionally, protein aggregates [3], mitochondrial dysfunctions [4],
+oxidative stress [5], neuroinﬂammation [6], brain cholinergic deﬁcits
+[7], and dysfunctions in adult neurogenesis [8–10] are among the main
+features of
+sAD.  These features may be modeled by a intracerebroventricular (ICV) injection of low, subdiabetogenic doses of
+streptozotocin (STZ) in rodents [11,12] and non-human primates [13]. 
+Adult neurogenesis is a multi-step process of the formation of new
+neurons in the mammalian brain throughout life.  Evidence suggests
+that newly generated neurons play a crucial role in hippocampus-dependent learning and memory (e. g. , spatial memory and orientation)
+and recovery from neuronal injury [14].  Neurogenesis starts from the
+proliferation of resident neural stem cells (NSC) and neural progenitor
+cells (NPC) in two neurogenic niches in the central nervous system
+(CNS): the subventricular zone (SVZ) of the lateral ventricles (LVs), and
+the subgranular zone (SGZ) ofthe dentate gyrus (DG) of
+Abbreviations: BDNF, brain-derived neurotrophic fator; CC, corpus callosum; CNS, central nervous system; DCX, doublecortin; DG, dentate gyrus; EPM, elevated plus maze; GFAP, glial
+ﬁbrillary acidic protein; Iba-1, ionized calcium binding adaptor molecule-1; ICV, intracerebroventricular; LVs, lateral ventricles; NSC, neural stem cells; NPC, neural progenitor cells; OFT,
+open ﬁeld test; OLT, object location test; ORT, object recognition test; sAD, sporadic Alzheimer’s disease; SGZ, subgranular zone; STZ, streptozotocin; SVZ, subventricular zone; TNF-α,
+tumor necrosis factor alfa
+⁎ Corresponding author. 
+E-mail address: taysa_bassani@yahoo. com. br (T. B.  Bassani). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 014
+Received 11 July 2017; Received in revised form 1 August 2017; Accepted 5 August 2017
+Available online 08 August 2017
+0166-4328/ 
+T. B.  Bassani Name
+Behavioural Brain Research 335 (2017) 41–54
+hippocampus.  The process of adult neurogenesis can be inﬂuenced by
+many intrinsic and extrinsic factors.  Growth factors and neurotrophins,
+such as brain-derived neurotrophic factor (BDNF),
+increase diﬀerentiation, maturation, and survival of proliferating NSC/NPC, stimulating neurogenesis.  In contrast, microglial activation and release of
+proinﬂammatory cytokines (e. g. , interleukin-1β (IL-1β), IL-6, and tumor
+necrosis factor-α (TNF-α)) have been demonstrated to inhibit neurogenesis by reducing the proliferation of NSC/NPC.  The consequence of
+inhibiting neurogenesis is cognitive deﬁcit, reﬂected by impairments in
+spatial and recognition learning and memory [15].  Several studies have
+reported an increase in neuroinﬂammation in the STZ model of sAD,
+reﬂected by reactive gliosis and an increase in proinﬂammatory markers that are associated with cognitive decline [16–19].  Other studies
+reported a decrease in neurogenesis associated with oxidative stress
+[20] or amyloid pathology [21]. 
+Current therapeutic options for AD are limited because most agents
+provide only symptomatic relief from cognitive deﬁcits.  A neuroprotective agent able to improve cognitive function along with slowing
+neuronal loss, decrease neuroinﬂammation and improve neurogenesis
+is needed.  Curcuma longa (turmeric) is a rhizomatous native plant from
+South and Southeast Asia which belongsZingiberaceae [22].  Traditionally curcumin, the main active ingredient
+in turmeric, has been used as a common food additive and herbal
+medicine [23].  Epidemiological studies have suggested that societies
+that widely use curcumin have a reduced incidence of AD and improved
+cognitive function [24,25]. 
+to the ginger
+The natural polyphenol curcumin possesses pleiotropic properties.  It
+has been reported to provide neuroprotection in cellular and animal
+models of neurodegenerative and neuropsychiatric disorders including
+AD, Parkinson’s disease, Huntington’s disease, multiple sclerosis, depression, and schizophrenia [26].  Neuroprotection provided by curcumin may be due to its antioxidant properties, by upregulation of the
+transcription factor Nrf2 [27], and anti-inﬂammatory properties, by
+suppression of NF-κB activation [28].  Curcumin also inhibits amyloid
+beta (Aβ)-oligomerization and tau-phosphorylation [29] and increases
+BDNF levels in corticosterone-treated rats [30], chronically stressed rats
+[31] and Wistar Kyoto rats [23]. 
+In addition, curcumin potentiates spatial and non-spatial memory in
+aged mice [32] and rats [33], in Aβ-induced [34] and STZ-induced
+models of AD [35–38].  The positive eﬀects of curcumin on cognition
+may be related to its capacity to enhance neurogenesis.  Curcumin has
+shown to increase neurite outgrowth and proliferation of NSC both in
+vitro and in vivo through the activation of the ERK and MAP kinase
+pathways [39,40].  Curcumin treatment
+increases neurogenesis in
+chronically stressed rats [41], aged rats [33] and in Aβ-induced model
+of AD [26].  Nevertheless, the eﬀects of prolonged curcumin treatment
+on adult neurogenesis were not studied in the STZ-ICV model of sAD. 
+Therefore, we hypothesized that curcumin treatment would be able to
+preserve cognitive functions of STZ-ICV injected rats by increasing
+adult neurogenesis and decreasing neuroinﬂammation. 
+<Middle> Methods. 
+2. 1.  Animals
+In this study, 3–4 months old male Wistar rats weighing 300–340 g
+at the beginning of the experiment were used.  All animals were obtained from our breeding colony.  The animals had free access to food
+and water, were maintained in a temperature-controlled room
+(22 °C ± 2 °C) on a 12 h/12 h light/dark cycle (lights on at 7:00 AM),
+and were randomly housed in groups of 3–4 in polypropylene cages
+with wood shavings as bedding.  The studies were performed in accordance with the guidelines of the Federal University of Paraná and
+were approved by the University Ethics Committee (protocol no.  735). 
+Fig.  1.  Experimental design.  The present study was designed to assess the eﬀects of
+prolonged curcumin treatment in three diﬀerent doses (25, 50 and 100 mg/kg) on shortterm spatial and recognition memory, neuroinﬂammation and adult neurogenesis in rats
+that received a single bilateral ICV injection of STZ.  IHC, immunohistochemistry; OFT,
+open ﬁeld test; EPM, elevated plus maze; OLT, object location test; ORT, object recognition test; Hab, habituation. 
+2. 2.  Drugs
+Streptozotocin (N-[methylnitrosocarbamoyl]-α-D-glucosamine) was
+purchased from Santa Cruz Biotechnology (Santa Cruz, CA, USA) and
+curcumin (from Curcuma longa) was purchased from Sigma-Aldrich (St. 
+Louis, MO, USA). 
+2. 3.  Experimental design
+The rats were randomly divided into ﬁve groups: sham (n = 7), STZ
+(n = 7), STZ + curcumin 25 mg/kg (STZ + cur 25; n = 6), STZ
++ curcumin 50 mg/kg (STZ + cur 50; n = 8), and STZ + curcumin
+100 mg/kg (STZ + cur 100; n = 7).  The STZ groups received a single
+bilateral ICV injection of STZ (3 mg/kg total dose) dissolved in sterile
+0. 9% saline (4. 5 μl per injection site).  The sham group received a single
+bilateral ICV injection of sterile 0. 9% saline (4. 5 μl per injection site;
+Fig.  1).  Treatment with curcumin (25, 50 and 100 mg/kg, per os) or its
+vehicle (0. 5% carboxymethylcelulose in distilled water with 1% Tween
+80) was performed over 30 days, once a day in the afternoon, and
+started 1 h before the beginning of stereotaxic surgeries. 
+The animals were allowed to recover for 3 weeks following surgery
+before behavioral evaluations.  These animals were assessed in the open
+ﬁeld test (OFT) to evaluate spontaneous locomotor activity on day 21
+after surgery and in the elevated plus maze (EPM) on day 22 to assess
+anxiety-like behavior.  Cognitive performance was evaluated in the
+object location test (OLT) on day 28, in the object recognition test
+(ORT) on day 29, and in the spatial version of the Y maze on day 30. 
+Right after the last behavioral analysis, blood glucose levels were
+measured using a G-Tech Free device using blood samples that were
+collected by tail prick. 
+i. p. ) and intracardially perfused for posterior
+Afterward, animals were deeply anesthetized with chloral hydrate
+(400 mg/kg,
+immunohistochemical evaluation of Doublecortin (DCX; a marker of
+newborn and migrating neurons), Ki-67 (a marker of cell proliferation),
+ionized calcium binding adaptor molecule (Iba-1; a marker of microglia), and glial ﬁbrillary acidic protein (GFAP; a marker of astrocytes). 
+2. 4.  Stereotaxic surgery
+The animals were deeply anesthetized with sodium thiopental
+(30 mg/kg, i. p. ) and chloral hydrate (150 mg/kg, i. p. ) and placed in a
+stereotaxic frame (David Kopf, USA).  The skull was exposed, and the
+following stereotaxic coordinates for the LVs, according to Paxinos and
+Watson [42], were calculated: anterior/posterior, −0. 8 mm from
+bregma; medial/lateral, ± 1. 5 mm from the midline; dorsal/ventral,
+−3. 8 mm from the skull.  A hole was drilled through the skull, and a 28gauge stainless steel needle was manually lowered into each LV.  An
+electronic pump (Insight, Ribeirão Preto, SP, Brazil) was used to controlT. B.  Bassani Name
+the ﬂow of the injections at a rate of 1. 0 μl/min over 4. 5 min.  At the end
+of the injections, the needle was left in place for an additional 2 min to
+avoid reﬂux.  The lesioned group received bilateral ICV injections of STZ
+(3 mg/kg total dose) dissolved in sterile saline (4. 5 μl per injection site)
+into the LVs.  Sham surgery followed the same procedure, but the same
+volume of sterile saline was injected instead of STZ [35].  Streptozotocin
+was dissolved in cold sterile saline, protected from light, and kept on ice
+until the time of the injection to prevent degradation.  After surgery, all
+the rats received Pentabiotic (0. 1 ml, intramuscular) to prevent infection and were allowed to recover from anesthesia for 2–4 h in a heated
+and well-ventilated room.  Food and water were placed inside the cage
+for 10–15 days so that the animals could easily access it without physical trauma caused by head surgery. 
+2. 5.  Open ﬁeld test
+The OFT was performed 21 days after surgery to evaluate spontaneous locomotor activity of the animals.  The open ﬁeld apparatus was
+placed in a moderately lit room (20 lx) and consisted of a circular arena
+(97 cm diameter, 42 cm height) which was divided into three concentric circles and subdivided into 19 quadrants.  A video camera was
+placed on the ceiling right above the arena in order to record animal’s
+behavior for posterior analysis.  The animals were individually placed in
+the center of the apparatus and allowed to freely explore it for 5 min. 
+The following parameters were measured: the total number of crossings
+from one quadrant to another, crossings in periphery, crossing in the
+center, time spent in periphery, time spent in the center, and rearing
+frequency (i. e. , the number of times the animals stood on their hindpaws).  A crossing was considered only when the animal entered another quadrant with its four paws.  The apparatus was cleaned with a
+10% ethanol-water solution between each test to eliminate possible
+odors left by other rats. 
+2. 6.  Elevated plus maze
+The EPM test was performed to evaluate anxiety-like behavior
+22 days after surgery, according to previous studies [43,44].  The EPM
+apparatus was constructed of wood and painted black.  It consisted of
+two opposite open arms (50 cm × 10 cm) without sidewalls and two
+closed arms (50 cm × 10 cm × 30 cm) with sides and end walls extending from a central area (10 cm × 10 cm).  The maze was elevated
+60 cm above the ﬂoor and placed in a moderately lit room (20 lx).  A
+video camera was placed on the ceiling right above the arena in order to
+record the animals’ behavior for posterior analysis.  The animals were
+individually placed in the central area of the EPM, facing an open arm. 
+Their behavior was recorded for 5 min and the following parameters
+were analyzed: time spent on the open arms, percentage of time spent
+on the open arms, time spent on the closed arms, percentage of time
+spent on the closed arms, number of open arm entries, number of closed
+arm entries, total entries, risk assessment (i. e. , the number of times the
+rat left a closed arm with the forepaws and head only and investigated
+the surroundings, not necessarily accompanied by body stretching), and
+head dipping (i. e. , the animal is in one of the open arms with its head
+advanced to the edge of the platform).  The EPM was cleaned between
+each test with a 10% ethanol solution to eliminate odors left by other2. 7.  Object location test (OLT) and object recognition test (ORT)
+The OLT and ORT were performed between day 27 and 29 following
+surgery to evaluate short-term spatial and short-term recognition
+memory, respectively.  Both tests took place in a squared arena,
+100 cm × 100 cm × 40 cm, made of wood and painted black.  It was
+placed in a moderately lit room (20 lx).  A video camera was positioned
+over the arena, and the animals’ behavior was recorded for later evaluation. Behavioural Brain Research 335 (2017) 41–54
+The ﬁrst procedure consisted of habituation of the animals in the
+box.  Each animal was placed in the empty apparatus for 5 min for free
+exploration.  Twenty four hours later, a novel habituation session of
+5 min was performed.  After a 1 h delay, on the training session, two
+identical objects were placed in the apparatus in a symmetrical position
+about 10 cm away from the wall.  The animals were allowed to explore
+them freely for 5 min and were then returned to their home cages.  In
+the OLT (which was performed on day 28), after a 1 h delay, during the
+test session, each rat was put back into the box with one of the objects
+displaced 15 cm away from the original position (novel position); animals were allowed to freely explore the objects for 3 min.  In the ORT
+(which was performed on day 29), a new training session was done with
+two other identical objects placed in a symmetrical position about
+10 cm away from the wall, and the animals were allowed to explore
+them freely for 5 min and were then returned to their home cages.  After
+a 1 h interval, the rats were put back into the arena for the test session;
+but now with two dissimilar objects, a familiar one (the sample) and a
+new one, and the animals were allowed to freely explore the objects for
+3 min [45,46]. 
+The objects were made of plastic, glass, or ceramic.  In order to avoid
+an olfactory bias, before each trial, the objects were cleaned with a 20%
+ethanol solution.  All objects and locations were balanced to reduce
+potential biases due to preferences for particular locations or objects.  A
+rat could not displace the objects and the subjects were always placed
+into the box facing the same wall [45].  Exploration was deﬁned as
+sniﬃng at a distance of no more than 2 cm or touching the objects with
+the nose and/or forepaws.  Sitting on or turning around the objects was
+not considered as exploratory behavior [47].  The animals that spent
+less than 5 s exploring the objects were excluded from the test. 
+The measures for both the OLT and ORT were the time spent by the
+rats while exploring each object during the test session.  The time spent
+exploring the familiar and the new object (ORT)/displaced object (OLT)
+was represented by ‘a’ and ‘b’, respectively.  The following variables
+were calculated: e = a + b, and d = (b − a)/e.  The ‘e’ variable is a
+measure of the total exploration time of both objects during the test
+session.  ‘d’ is considered a discrimination index between the new and
+the familiar objects/locations, and also a relative measure of discrimination that corrects for the exploratory activity (e) [45]. 
+2. 8.  Spatial version of Y maze
+A symmetrical Y maze was constructed of wood and painted black. 
+It consisted of three arms (50 cm length, 27 cm height, 12 cm width)
+and arranged at a 120° angle relative to each other.  The spatial version
+of this test was performed on day 30 after surgery.  It consisted of a
+training session and a test session that were performed at a 1 h interval. 
+In the training session, one arm was made inaccessible by a removable
+door that was placed in front of it.  Each animal was placed in one of the
+other arms (i. e. , “start arm”), which was randomized between groups. 
+The animal was allowed to explore these two arms for 5 min and was
+then returned to its home cage.  After a 1 h interval, the rat was returned
+to its corresponding start arm, but the blockade that prevented access to
+the third arm (i. e. , “novel arm”) was removed, thus providing access to
+all three arms.  The rat was allowed to explore the three arms for 3 min. 
+A video camera was positioned over the Y maze to record the animals’
+behavior for later evaluation.  An arm entry was considered only when
+both hindpaws were placed completely inside an arm.  Short-term spatial memory was assessed as the time spent on the novel arm, which had
+to be signiﬁcantly greater than 33. 3% of the total time in the maze
+(corrected for the latency to move from the start arm to another arm
+and the time spent in the center of the maze).  The Y maze apparatus
+was cleaned between sessions with a 10% ethanol solution to prevent
+an olfactory bias [46,48]. 
+T. B.  Bassani et al. Open Field Test. 
+Behavioural Brain Research 335 (2017) 41–54STZ
+STZ + cur 25
+STZ + cur 50
+STZ + cur 100
+Total number of crossings
+Crossings in periphery
+Crossings in center
+Time in periphery (s)
+Time in center (s)91. 86 ± 8. 97
+76. 43 ± 5. 972
+6. 86 ± 2. 09
+272. 40 ± 1. 70
+27. 61 ± 1. 70
+32. 43 ± 3. 05
+100. 00 ± 16. 85
+79. 50 ± 15. 41
+9. 25 ± 2. 02
+247. 50 ± 12. 45
+52. 51 ± 12. 45
+31. 25 ± 4. 80
+85. 67 ± 13. 11
+74. 17 ± 12. 32
+5. 83 ± 0. 83
+278. 50 ± 6. 04
+21. 43 ± 6. 04
+28. 17 ± 4. 18
+60. 57 ± 15. 91
+48. 86 ± 13. 14
+5. 43 ± 1. 90
+204. 90 ± 45. 62
+95. 08 ± 45. 62
+22. 57 ± 6. 66
+82. 83 ± 12. 02
+67. 00 ± 7. 66
+7. 67 ± 1. 89
+248. 30 ± 27. 15
+51. 62 ± 27. 15
+18. 33 ± 4. 06
+The data are mean ± SEM.  One-way ANOVA with Tukey’s multiple comparisons test. Elevated plus maze test. 
+Time in Open Arms (s)
+Time in Closed Arms (s)
+% of Time in Open Arms
+% of Time in Closed Arms
+Open Arm Entries
+Closed Arm Entries
+Total Entries
+Risk Assessment
+Head DippingSTZ
+STZ + cur 25
+STZ + cur 50
+STZ + cur 100
+44. 87 ± 15. 17
+210. 80 ± 14. 89
+14. 96 ± 5. 06
+70. 25 ± 4. 97
+4. 57 ± 1. 27
+11. 29 ± 0. 75
+15. 86 ± 1. 50
+10. 14 ± 1. 18
+7. 00 ± 2. 38
+148. 00 ± 27. 06
+106. 80 ± 19. 56**
+49. 32 ± 9. 02
+35. 58 ± 6. 52**
+9. 13 ± 2. 37
+7. 38 ± 1. 72
+16. 50 ± 2. 41
+6. 13 ± 1. 83
+20. 88 ± 4. 89
+82. 46 ± 12. 80
+178. 50 ± 9. 90
+27. 49 ± 4. 27
+59. 49 ± 3. 30
+7. 00 ± 1. 00
+9. 50 ± 1. 26
+16. 50 ± 1. 26
+6. 33 ± 1. 73
+15. 50 ± 2. 45
+101. 50 ± 21. 73
+131. 00 ± 22. 38
+33. 82 ± 7. 25
+43. 67 ± 7. 46
+6. 43 ± 1. 45
+6. 43 ± 1. 66
+12. 86 ± 2. 96
+6. 00 ± 1. 66
+14. 71 ± 4. 03
+109. 80 ± 40. 20
+114. 30 ± 28. 38*
+36. 60 ± 13. 40
+38. 09 ± 9. 46*
+5. 00 ± 1. 44
+9. 17 ± 3. 09
+14. 17 ± 4. 49
+6. 33 ± 2. 25
+12. 83 ± 2. 64
+The data are mean ± SEM.  *p < 0. 05, **p < 0. 01 vs.  sham group (One-way ANOVA with Tukey’s multiple comparisons test). 
+2. 9.  Immunohistochemistry
+After the last behavioral assessment, 30 days after surgery, the animals were deeply anesthetized with an overdose of chloral hydrate and
+transcardially perfused with cold 0. 01 M phosphate-buﬀered saline
+(PBS; pH 7. 4) followed by a cold ﬁxative solution (4% paraformaldehyde in 0. 1 M PBS, pH 7. 4), using a peristaltic pump (Insight, Ribeirão
+Preto, SP, Brazil).  The brains were removed and postﬁxed in the same
+ﬁxative solution for 24 h at 4 °C.  Cryoprotection was made by immersion in a solution of 30% sucrose in 0. 1 M PBS (pH 7. 4) at 4 °C until the
+block sank.  After, the brains were snap-frozen in dry ice and ethanol
+and stored at −80 °C until sectioning in a cryostat (Leica Biosystems,
+Nussloch, Germany). 
+Frozen tissue was sliced into coronal semi-serial 30 μm thick sections of the dorsal hippocampus and LVs.  For the dorsal hippocampus,
+brain slices spaced 240 μm apart were collected in 8 wells, corresponding to coronal coordinates from bregma −2. 56 to −4. 52 mm
+[42], totaling 8–10 sections per well.  For the LVs, brain slices spaced
+240 μm apart were collected in 8 wells, corresponding to coronal coordinates from bregma +1. 00 to −0. 92 mm [42], totaling 8–10 sections per well.  The sections were stored at −20 °C in a cryoprotectant
+solution that contained 30% ethylene glycol and 15% sucrose in a
+0. 05 M phosphate buﬀer until processing.  All sections of each well were
+used in an immunohistochemistry reaction for a diﬀerent marker. 
+Free-ﬂoating immunohistochemistry for DCX, Ki-67, GFAP, and Iba1 was performed with a ﬁrst step of antigen retrieval.  Brieﬂy, the brain
+slices were washed with 0. 1 M PBS with 0. 5% Triton X-100, incubated
+with 0. 1 M citrate buﬀer (pH 6. 0) for 30 min at 50 °C, washed again,
+incubated with 0. 5% H2O2 for 30 min at room temperature and protected from light.  The brain sections were washed, and incubated with a
+2% solution of bovine serum albumin (BSA) in 0. 1 M PBS with 0. 5%
+Triton X-100 for 1 h.  The brain slices were incubated overnight at 4°C
+with the following primary antibodies: goat polyclonal anti-DCX
+(1:200; Santa Cruz Biotechnology, Santa Cruz, CA, USA), rabbit polyclonal anti-Ki-67 (1:200; Santa Cruz Biotechnology, Santa Cruz, CA,
+USA), rabbit polyclonal anti-GFAP (1:500; Dako, Carpinteria, CA, USA),
+and goat polyclonal anti-Iba-1 (1:500; Abcam, Cambridge, MA, USA). 
+The sections were then incubated with the respective biotinylated
+secondary antibodies (1:200) for 2 h at 4 °C, washed, and further
+incubated in ABC reagent
+(Vectastain Elite ABC Kit, Vector
+Laboratories, Burlingame, CA, USA) for 2 h at room temperature.  The
+reaction was revealed by incubating the brain slices with 3,3′-diaminobenzidine (DAB; Vector Laboratories, Burlingame, CA, USA) for
+8 min in room temperature [46]. 
+Ki-67-stained slices of the DG were counterstained with Nissl
+staining and coverslipped according to our standard protocol to facilitate visualization and counting of Ki-67-positive cells in the SGZ of the
+DG.  The brain slices for detection of the other markers and areas were
+mounted on microscope slides, dehydrated in solutions of ascending
+ethanol concentrations, cleared in xylene, and cover slipped.  Ki-67positive cells only in the SGZ, and DCX-positive cells in both the SGZ
+and GCL of the DG of the dorsal hippocampus were manually counted
+using a BX50 optical microscope (Olympus Optical, Center Valley, PA,
+USA) at 400× magniﬁcation.  The periventricular areas (LVs, septum,
+and corpus callosum), and the DG, CA1 area, and CA3 area of the dorsal
+hippocampus were photographed using the same optical microscope at
+200× magniﬁcation.  The immunorreactivity of DCX, Ki-67, GFAP, and
+Iba-1 was assessed as the optical density using Image J software
+(National Institutes of Health, Bethesda, MD, USA).  The data are expressed as the total number of DCX- or Ki-67-positive cells in the DG of
+the hippocampus, and GFAP- or Iba-1- immunorreactive (IR) cells relative to the sham group in DG, CA1 area and CA3 area of hippocampus. 
+In the SVZ, the data are expressed as the percentage of DCX, Ki-67-,
+GFAP-, and Iba-1-IR cells relative to the sham group. 
+2. 10.  Statistical analysis
+The data are presented as mean ± standard error of the mean
+(SEM).  The data were tested for a Gaussian distribution using the
+Kolmogorov Smirnov test.  Group diﬀerences were analyzed using oneway analysis of variance (ANOVA) with Tukey’s post-hoc test.  Values of
+p < 0. 05 were considered statistically signiﬁcant. 
+3.  Results
+3. 1.  Non cognitive behavioral characterization
+The OFT was performed 21 days after the STZ infusion to assessT. B.  Bassani Name
+Behavioural Brain Research 335 (2017) 41–54
+Fig.  2.  Behavioral evaluation of curcumin eﬀects in STZ-injected animals compared with
+sham animals.  Cognitive performance was evaluated in the object location test (A), object
+recognition test (B) and spatial version of the Y maze (C).  The data are expressed as
+mean ± SEM.  n = 6–8 per group.  *p < 0. 05, **p < 0. 01, vs.  sham group, #p < 0. 05,
+vs.  STZ group (one-way ANOVA with Tukey’s multiple comparison test). 
+Fig.  3.  Immunohistochemical analysis of Ki-67- and DCX-positive cells to detect proliferating cells and immature neurons, respectively.  The ICV injection of STZ reduced
+proliferating NSC/NPC (Ki-67-positive cells) in the SVZ (A) and DG (B) and reduced
+immature neurons (DCX-positive cells) in the SVZ (C) and DG (D) 30 days after surgery. 
+Curcumin treatment did not restore the Ki-67- and DCX-positive cells both in the SVZ and
+DG.  The data are expressed as mean ± SEM.  n = 6 per group.  *p < 0. 05, **p < 0. 01,
+***p < 0. 001, vs.  sham group (one-way ANOVA with Tukey’s multiple comparison test). T. B.  Bassani Name
+Behavioural Brain Research 335 (2017) 41–54
+Fig.  4.  Representative photomicrographs of Ki-67- (A) and DCX-positive cells (B) in the DG and in the SVZ.  Ki-67 in DG is counterstained with Nissl staining.  Scale bar = 200 μm. 
+spontaneous locomotion and exploratory behavior.  The EPM was performed 22 days after the STZ infusion to assess anxiety-like behavior. 
+Both behaviors could interfere with the animals’ performance in the
+cognitive tests.  The analysis of spontaneous locomotor activity in the
+OFT did not reveal any changes in the locomotion parameters analyzed
+in all of the groups compared to the sham group (Table 1). 
+In the EPM, a reduction in the time spent in closed arms and percentage of time spent in closed arms was observed in the STZ and STZ
++ cur 100 groups compared to the sham group (Table 2), which is an
+indication of decreased anxiety-like behavior in those STZ-lesioned
+animals.  Anxiety-like behavior can reduce the exploration of novelty in
+the OLT, ORT and Y maze.  None of the groups exhibited more anxietylike behavior than the sham group in all of the EPM parameters tested
+(Table 2).  In addition, elevated glycemia is another factor that could
+interfere with cognitive performance [49].  Therefore, blood glucose
+levels were measured 30 days after surgery after the last behavioral
+test, to ensure that the animals did not become diabetic.  There were no
+signiﬁcant alterations in glycemia in all of the groups compared with
+the sham group (p > 0. 05; data not shown). 
+3. 2.  STZ-ICV caused cognitive impairments that were partially prevented by
+curcumin prolonged treatment
+Short-term spatial memory was assessed in the OLT and Y maze on
+days 28 and 30 after surgery, respectively, with a 1 h interval between
+the training and test sessions.  Short-term recognition memory was assessed in the ORT on day 29 after surgery, with a 1 h interval between
+the training and test sessions.  STZ-lesioned animals presented deﬁcits inshort-term spatial memory,
+reﬂected by
+a decrease
+discrimination index in the OLT (Fig.  2A), and a decrease in the time
+spent on the new arm in the Y maze (Fig. 

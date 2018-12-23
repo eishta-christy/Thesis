@@ -1,0 +1,929 @@
+Novel Microbial Diversity and Functional Potential in
+the Marine Mammal Oral MicrobiomeHighlights
+d Genomes were recovered from dolphin-associated
+candidate phyla bacteria
+d Two new bacterial phyla were deﬁned (C.  Delphibacteria and
+C.  Fertabacteria)
+d C.  Delphibacteria is common in the dolphin mouth and may
+affect host physiology
+d Novel functional diversity was identiﬁed, including unusual
+CRISPR-Cas9 systemsNatasha K.  Dudek, Christine L.  Sun,
+David Burstein, . . . , Brian C.  Thomas,
+Jillian F.  Banﬁeld, David A.  Relman
+Correspondence
+relman@stanford. edu
+In Brief
+Dudek Name reconstruct genomes from
+previously uncharacterized microbes
+living in the dolphin mouth.  Three of these
+genomes represent two new phyla, and
+22 come from members of nine relatively
+unexplored candidate phyla.  Novel
+taxonomic diversity in the community is
+accompanied by novel functional
+diversity, such as unusual CRISPR-Cas9
+systems. 
+Dudek Name, 2017, Current Biology 27, 3752–3762
+December 18, 2017 Published by Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 040
+Current BiologyNovel Microbial Diversity and Functional Potential
+in the Marine Mammal Oral Microbiome
+Natasha K.  Dudek,1 Christine L.  Sun,2,3 David Burstein,4 Rose S.  Kantor,5 Daniela S.  Aliaga Goltsman,2,3
+Elisabeth M.  Bik,2,8 Brian C.  Thomas,4 Jillian F.  Banﬁeld,4,6 and David A.  Relman2,3,7,9,*
+1Department of Ecology and Evolutionary Biology, University of California, Santa Cruz, Santa Cruz, CA 95064, USA
+2Department of Microbiology and Immunology, Stanford University School of Medicine, Stanford, CA 94305, USA
+3Department of Medicine, Stanford University School of Medicine, Stanford, CA 94305, USA
+4Department of Earth and Planetary Science, University of California, Berkeley, Berkeley, CA 94720, USA
+5Department of Plant and Microbial Biology, University of California, Berkeley, Berkeley, CA 94720, USA
+6Earth and Environmental Science, Lawrence Berkeley National Laboratory, Berkeley, CA 94720, USA
+7Veterans Affairs Palo Alto Health Care System, Palo Alto, CA 94304, USA
+8Present address: uBiome, San Francisco, CA 94105, USA
+9Lead Contact
+*Correspondence: relman@stanford. edu
+https://doi. org/10. 1016/j. cub. 2017. 10. 040The vast majority of bacterial diversity lies within
+phylum-level
+lineages called ‘‘candidate phyla,’’
+which lack isolated representatives and are poorly
+understood.  These bacteria are surprisingly abundant in the oral cavity of marine mammals.  We employed a genome-resolved metagenomic approach
+to recover and characterize genomes and functional
+potential from microbes in the oral gingival sulcus of
+two bottlenose dolphins (Tursiops truncatus).  We detected organisms from 24 known bacterial phyla and
+one archaeal phylum.  We also recovered genomes
+from two deep-branching, previously uncharacterized phylum-level lineages (here named ‘‘Candidatus
+Delphibacteria’’ and ‘‘Candidatus Fertabacteria’’). 
+The Delphibacteria lineage is found in both managed
+and wild dolphins; its metabolic proﬁle suggests
+a capacity for denitriﬁcation and a possible role in
+dolphin health.  We uncovered a rich diversity of predicted Cas9 proteins, including the two longest predicted Cas9 proteins to date.  Notably, we identiﬁed
+the ﬁrst type II CRISPR-Cas systems encoded by
+members of the Candidate Phyla Radiation.  Using
+their spacer sequences, we subsequently identiﬁed
+and assembled a complete Saccharibacteria phage
+genome.  These ﬁndings underscore the immense
+microbial diversity and functional potential that await
+discovery in previously unexplored environments. 
+INTRODUCTION
+The vast majority of bacterial diversity is found within phylumlevel
+lineages that lack isolated representatives [1], commonly
+referred to as ‘‘candidate phyla. ’’ Candidate phyla constitute at
+least 103 out of approximately 142 widely recognized bacterial
+phyla for which there is genomic representation [1–3]; 46% of
+known bacterial phyla are clustered in the Candidate Phyla Radiation (CPR).  However, there remain many phylum-level bacterial
+lineages that have no genomic representation and are not yet
+formally recognized [4].  Genome-resolved metagenomic studies
+offer unique and unprecedented insights into the biology of these
+uncultured, poorly understood lineages and their biochemical
+diversity [3–8].  In addition to revealing the environmentally and
+economically important roles played by such bacteria, these
+studies contribute greatly to our understanding of the distribution
+of lifestyles across the tree of life.  For example, genomes from
+members of the CPR suggest that they are metabolically sparse
+and lack many biosynthetic pathways typically required for life,
+presumably because these organisms are dependent on other
+microbes for survival
+[6, 9].  Candidate phyla genomes may
+also reveal novel functional diversity, as phylogenetic diversity
+is correlated with novel proteomic diversity and biological properties [10, 11]. 
+Marine mammals are an ecologically important group of
+animals harboring little-explored microbial communities.  Previous research has shown that bottlenose dolphins, in particular,
+host a rich diversity of novel bacteria [12].  Nearly 70% of nearfull-length 16S rRNA genes from the dolphin microbiota were
+novel in 2015 at the species level, and representatives from 25
+bacterial phyla were present in the mouth alone.  Furthermore,
+a surprising number of candidate phyla such as Gracilibacteria
+(BD1-5/GN02), Modulibacteria (KSB3), and the Parcubacteria
+(OD1) supergroup, which are unusual in mammal-associated environments, were found in the dolphin mouth [12].  Genomes from
+such candidate phyla have nearly exclusively been retrieved
+from non-host-associated environments, and thus it is unknown
+how these bacteria adapt to a mammalian environment.  Interestingly, despite evidence that the marine mammal microbiota is
+shaped by the sea, these bacteria were not detected in the adjacent seawater [12]. 
+The vast majority of bacterial diversity is found within phylumlevel lineages that lack isolated representatives [1], commonly
+referred to as ‘‘candidate phyla. ’’ Candidate phyla constitute at
+least 103 out of approximately 142 widely recognized bacterial
+On the basis of these prior observations, we concluded that
+marine mammals afford an unusual opportunity for studying
+bacterial diversity.  Working under the hypothesis that novel
+phylogenetic diversity correlates with novel functional diversity,
+3752 Current Biology 27, 3752–3762, December 18, 2017 Published by Elsevier Ltd. 
+in this study we applied genome-resolved metagenomics to
+investigate the diversity and functional potential of the dolphin
+oral microbiome.  The results hint at the wealth of evolutionary
+and biochemical diversity that remains uncharted within previously unexplored environments, including mammalian microbiomes, and will contribute to future comparative studies of
+host-associated versus non-host-associated candidate phyla
+bacteria. 
+<Middle> RESULTS. 
+Dolphin Oral Microbiota Composition and Structure
+Swab samples were collected from the gingival sulcus of
+healthy bottlenose dolphins (Tursiops truncatus) under the purview of the U. S.  Navy’s Marine Mammal Program in San Diego
+Bay, California.  Samples from two dolphins were selected for
+shotgun sequencing based on the ﬁndings of Bik Name [12],
+which indicated that
+these two samples (DolJOral78 and
+DolZOral124) contained representatives from nine candidate
+phyla at relative abundances of R0. 05% (Table S1).  Pairedend Illumina HiSeq reads were generated, ﬁltered, assembled,
+and used to recover microbial genomes, as described in STAR
+Methods. 
+From >63 Gbp of ﬁltered paired-end sequences, we recovered
+107 draft-quality genomes from 24 previously described
+bacterial phyla and one circular genome from a candidate Saccharibacteria (TM7) phage (presented below).  These genomes
+derived from 22 organisms afﬁliated with the candidate phyla
+Absconditabacteria (SR1), Campbellbacteria (OD1), Cloacimonetes (WWE1), Delongbacteria, Fermentibacteria (Hyd24-12),
+Gracilibacteria (BD1-5/GN02), Modulibacteria (KSB3), and Moranbacteria (OD1), and the Saccharibacteria (TM7) phylum. 
+Phylum-level assignments (or lack thereof, as was the case for
+three of our genomes) were determined by constructing a phylogeny based on an alignment of 15 concatenated ribosomal
+proteins (Figure 1; Data S1; see STAR Methods).  Of note, we
+were able to link a 16S rRNA gene sequence to a member of
+the Delongbacteria phylum, which previously consisted of a single genome for which no 16S rRNA gene had been recovered [2]. 
+Additionally, low-coverage (%33) archaeal genome fragments
+were recovered from two members of the Woesearcheota
+phylum.  Similar sequences have been recovered from hostassociated environments (see SILVA database [13–15]), such
+as coral heads [16] and human skin [17], but were not originally
+recognized as afﬁliated with the Woesearcheota phylum or
+placed within a comprehensive phylogeny. 
+Bacterial community composition and structure inferred
+from the same DNA preparations differed depending on the
+survey method: genome-resolved metagenomics (this study)
+versus 16S rRNA gene ampliﬁcation [12] (Figure 2; Figure S1;
+Table S1).  Notably, the 16S rRNA gene that was associated
+with the highest-coverage genome in both samples (17% and
+4% relative abundance in DolJOral78 and DolZOral124, respectively; Figure 2) was barely detected in the amplicon-based survey (not detected in DolJOral78; 0. 04% relative abundance in
+DolZOral124).  This is surprising, because the PCR primers
+match the assembled sequence perfectly, the GC content of
+the gene is 58%, and it contains no unusual
+insertions.  The
+two genomes are from the same species of Actinobacteria (order
+Micrococcales), and the GC content of the genome is 68%. 
+Furthermore, members of the CPR were greatly under-detected
+using the amplicon-based approach.  From the metagenomic assemblies, we detected 16 unique CPR species-level genomes,
+some of which ranked among the highest-coverage genomes
+recovered (Figure 2).  For example, the fourth most abundant
+bacterial organism in the DolJOral78 sample was a member of
+the Saccharibacteria phylum (4% relative abundance), although
+no Saccharibacteria representatives were detected in the
+DolJOral78 sample in the previous 16S rRNA gene amplicon survey.  In the amplicon-based study [12], only nine unique operational taxonomic units (OTUs) from the CPR were identiﬁed
+from both samples combined, with a maximum relative abundance of 0. 24%.  This discrepancy can be explained at least
+partially by primer mismatches, consistent with previous reports
+on the CPR [4].  Of the 21 unique CPR 16S rRNA genes assembled and identiﬁed in the metagenomic data, nine span the region between the commonly used 338F and 906R bacterial
+primers (also used in Bik Name [12]) and have sufﬁcient read
+coverage to validate the assembly.  Eight of these have 1–3 mismatches in at least one primer site.  In the amplicon study, eight
+of the nine OTUs were detected among all samples, although
+only the one OTU with no primer site mismatches was detected
+in the two samples studied here. 
+Given the breadth of novel bacterial diversity in the dolphin
+oral samples, we next searched for novel phage diversity. 
+Using a stringent set of criteria (see STAR Methods), we identiﬁed a set of 33 and 55 sequences from DolJOral78 and
+DolZOral124, respectively, for which we had high conﬁdence
+in their derivation from phage genomes.  These sequences
+range in length from 1,583 to 119,885 bp (average 19,363
+and 21,462; SD 13,243 and 19,615 bp).  To assess overlap
+between samples, we performed a reciprocal best-hit BLAST
+[18, 19] search between phage sequences from the two
+samples.  We identiﬁed 14 phage genome fragments that
+were present (or had close relatives present) in both samples. 
+To evaluate the degree of phage genome novelty, we BLASTed
+[18, 19] phage sequences against the NCBI non-redundant
+nucleotide
+(https://ncbi. nlm. nih. gov/nucleotide). 
+Only three alignments were longer than 1,000 bp, the longest
+of which was only 2,919 bp.  These alignments corresponded
+to 2. 3%, 3. 8%, and 8. 2% of the lengths of the respective
+phage scaffolds.  This suggests that phages in the dolphin
+mouth are only distantly related to phages for which genomic
+fragments have previously been recovered, as one would
+expect under the hypothesis that novel bacterial diversity begets novel phage diversity. 
+database
+Novel, Deeply Divergent Phylum-Level Lineages
+The concatenated ribosomal protein tree enabled determination
+of the phylum-level identity of recovered genomes (Figure 1). 
+Within this tree, three genomes belonging to two deep-branching lineages eluded identiﬁcation.  To evaluate whether these
+two lineages were representative of previously undescribed
+phyla, we examined whether (1) they formed monophyletic lineages in both the concatenated ribosomal protein phylogeny and
+the 16S rRNA gene phylogeny, and (2) the 16S rRNA gene sequences of such lineages were at least 25% divergent from
+those of known phyla (i. e. , the threshold used by Yarza Name [20]). 
+Current Biology 27, 3752–3762, December 18, 2017 3753
+Figure 1.  Phylogenetic Relationships among Genomes Recovered from the Dolphin Mouth
+The maximum-likelihood tree includes representation from all genomes that contained R8 of 15 ribosomal proteins used to infer the phylogeny (with the
+exception of one Delongbacteria genome with 7 ribosomal proteins) as well as from published genomes.  Bootstrap support values R50% are denoted with a
+closed circle on the branches.  Branches of phyla with genomic representation in the dolphin mouth are color coded such that dark blue indicates candidate
+phylum, light blue indicates other phylum, and red indicates novel, deep-branching lineage.  Labels for these phyla appear around the tree, with dotted lines
+indicating the corresponding branch.  Numbers next to candidate phyla names indicate the number of genomes from each phylum that are publicly available in
+NCBI databases prior to this study (purple), the number of those that come from an animal-associated environment (green), and the number that were recovered
+in this study (orange).  Branches of the remaining phyla are included in the tree as references, are colored black, and can be identiﬁed using the legend at the
+bottom of the ﬁgure.  The CPR is denoted with blue shadowing, and the FCB superphylum is denoted with green shadowing.  The topology of the tree with respect
+to the position of the CPR does not recapitulate that of Hug Name [1], presumably due to lower sampling depth reducing the ability to resolve the branching order of
+the deepest lineages.  See also Figures S1–S3, Table S1, and Data S1. 
+3754 Current Biology 27, 3752–3762, December 18, 2017
+Figure 2.  Community Structure of the Dolphin Oral Microbiota
+The top panel presents the community structure of the DolJOral78 sample, and the bottom panel presents that of the DolZOral124 sample.  Each symbol represents a bin, which is a set of scaffolds that share similar genomic signatures.  In most cases, bins represent of a genome (or fragments of a genome) from a single
+organism.  Bins that contain multiple genomes from organisms with similar genomic signatures are denoted by a purple outline around the symbol.  The average
+coverage of all scaffolds in a bin is represented on the y axis, and bins are ranked in order of decreasing average coverage on the x axis.  Due to the complexity of
+the samples, not all low-coverage genomes could be binned.  This point, after which only a portion of genomes could be binned, is denoted by an arrow for
+DolJOral78 and is not reached in the top 75 bins for DolZOral124.  See also Figure S1 and Table S1. One lineage, for which we propose the name ‘‘Delphibacteria’’
+(rationale in Supplemental Discussion),
+is afﬁliated with the
+Fibrobacteres-Chlorobi-Bacteroidetes (FCB) superphylum and
+is represented by genomes DolJOral78_Bacteria_63_78 and
+DolZOral124_Bacteria_64_63.  The names refer, for example, to
+sample DolZOral124,
+taxonomic resolution Bacteria,
+GC content of 64%, coverage of 633).  The 16S rRNA gene
+sequence from the Delphibacteria lineage clusters with sequences from what is currently recognized as the Latescibacteria phylum in the SILVA database [13–15] (see Supplemental
+Discussion, Figure S2, and Data S1).  The diversity encompassed
+by this ‘‘phylum’’ was recently found to be an assemblage of at
+least two phylum-level lineages: Latescibacteria and the newly
+proposed Eisenbacteria [2].  Nearly all members of the Delphibacteria lineage share <75% sequence identity across the 16S
+rRNA gene with members of the Eisenbacteria phylum (Figure S2A) and <78. 5% sequence identity with members of the
+Latescibacteria phylum (Figure S2B).  Predicted proteins in the
+near-complete genome from this lineage were most similar to
+those from the Deltaproteobacteria phylum (Figure S3A). 
+Notably, the Delphibacteria lineage was detected in 41 oral samples from 15 of 33 U. S.  Navy dolphins and one of ten wild dolphins surveyed with 16S rRNA gene amplicon pyrosequencing
+in Bik Name [12], although it was classiﬁed as a member of the
+Latescibacteria phylum.  In the DolJOral78 sample, two Delphibacteria genomes were detected at relative abundances of
+1. 6% and 1. 2%, while in the DolZOral124 sample one Delphibacteria genome was detected at a relative abundance of 0. 7%. 
+The second previously uncharacterized lineage, for which we
+propose the name ‘‘Fertabacteria’’ (rationale in Supplemental
+Discussion), is afﬁliated with the CPR and is represented by
+the genome DolZOral124_Bacteria_38_8.  The 16S rRNA gene
+sequence from Fertabacteria clusters with sequences from
+what is currently recognized as the Peregrinibacteria (PER)
+phylum in the SILVA database (see Supplemental Discussion
+and Data S1).  It is part of a well-supported clade with <75%
+sequence identity to the rest of the PER phylum, including
+PER-ii (Figure S2C).  Predicted proteins from this lineage are
+Current Biology 27, 3752–3762, December 18, 2017 3755
+Figure 3.  Functional Proﬁle of Delphibacteria
+Key predicted metabolic and functional features are depicted.  Genes of interest are denoted by abbreviations in the colored shapes.  Filled shapes represent
+genes predicted to be present or likely to be present, whereas unﬁlled shapes represent genes that were not identiﬁed.  See also Figure S3 and Data S2. 
+most similar to those from the Peregrinibacteria phylum (Figure S3B), yet the 16S rRNA gene sequence identity argues
+against its inclusion in this group.  Out of all samples surveyed
+with 16S rRNA gene pyrosequencing in Bik Name [12], only a single Fertabacteria amplicon was detected.  The amplicon was
+generated from a sample of forcefully expired air (‘‘chuff’’) from
+the dolphin respiratory tract collected on sterile ﬁlter paper,
+and was originally classiﬁed as a member of the Gracilibacteria
+phylum.  The 906R primer used in Bik Name [12] had two mismatches to the corresponding priming site, and therefore this
+organism may have been widely under-detected in the amplicon-based survey.  The Fertabacteria genome is one of the
+lowest-coverage genomes (83) in this study, with a relative
+abundance of 0. 09% in the DolZOral124 sample. 
+Functional Proﬁle of the Delphibacteria Lineage
+Due to the abundance and prevalence of Delphibacteria organisms in the dolphin oral samples, we investigated the metabolic
+potential of
+the near-complete DolZOral124_Bacteria_64_63
+genome.  The genome dataset contained 49 of 51 universal bacterial single-copy genes used to assess completeness [21]. 
+It comprised 3,362,850 bp and is predicted to contain 3,011 protein-coding genes.  It appears to utilize a variety of compounds as
+carbon and energy sources, including polysaccharides such as
+starch/glycogen, acetate, acetaldehyde, ethanol, and butyrate
+(Figure 3; Data S2).  DolZOral124_Bacteria_64_63 carries the
+potential to ferment to acetate, with ethanol and acetaldehyde
+3756 Current Biology 27, 3752–3762, December 18, 2017
+being produced during regeneration of NAD+ required for glycolysis.  Two of the three genes speciﬁc to gluconeogenesis are also
+present, as are those involved in the non-oxidative pentose
+phosphate pathway.  The genome includes the capacity for
+amylose synthesis and possibly GDP-L-rhamnose synthesis. 
+The complete gene complement required for running the
+forward tricarboxylic acid (TCA) cycle is present.  Accordingly,
+the DolZOral124_Bacteria_64_63 genome is predicted to
+support aerobic respiration and possibly also anaerobic respiration using nitrogen compounds as terminal electron acceptors.  The catalytic subunit of a periplasmic nitrate reductase
+was detected (napA), as were accessory periplasmic nitrate
+reductase subunits.  The catalytic subunit of a nitric oxide
+reductase (norB) and the terminal nitrous oxide reductase
+(nosZ) were also detected.  Nitrite reductase genes (nirK
+or nirS) were not identiﬁed, nor were many of the subunits
+typically associated with the above reductases.  Nonetheless,
+the presence of catalytic subunits for three out of the four
+steps involved in converting nitrate to dinitrogen suggests
+that this Delphibacteria representative is capable of denitriﬁcation.  We detected another mechanism for generating proton
+motive force in the form of a pumping pyrophosphatase,
+indicating that DolZOral124_Bacteria_64_63 may be able
+to utilize pyrophosphate as an alternative chemical energy
+carrier to ATP. 
+DolZOral124_Bacteria_64_63 is most likely a lipopolysaccharide-producing bacterial species with ﬂagella and type IV pili andB
+Figure 4.  Novel Non-ribosomal Peptide Synthesis BGC Encoded by the Dominant Actinobacteria Genome
+(A) Predicted protein and biosynthetic domain structure in the 80. 5-kbp genomic region comprising the BGC.  Open reading frames along the 80. 5-kbp genomic
+region are color coded by function: red, transposase or integrase; gray, unknown function; green, non-ribosomal peptide synthesis (NRPS); blue, other; and
+yellow, transport-related.  Biosynthetic domains of genes involved in NRPS are indicated: A, adenylation domain; E, epimerization domain; C, condensation
+domain; PCP, peptide carrier protein domain; nMT, N-methylation domain; and TE, thioesterase domain.  Each of the 17 adenylation domains encoded by NRP
+synthesis genes is responsible for the recognition and activation of amino acids that will be incorporated into the peptide product.  The cumulative length of these
+three genes is 69,771 bp. 
+(B) Predicted structure of the peptide product.  The amino acid sequence of the predicted peptide was established based on three A domain substrate speciﬁcity
+algorithms incorporated in antiSMASH [24–26].  Non-ribosomal peptide (NRP) was designated when no consensus was reached.  Underlined amino acids are
+predicted to be in the D conﬁguration, due to the presence of a dedicated epimerization domain in their modules.  We cannot distinguish between the possibilities
+of a circular or linear product. 
+See also Figure S4. 
+capable of chemotaxis.  We identiﬁed ten acriﬂavin resistance
+proteins, which are typically involved in efﬂux of cationic antimicrobial peptides.  Overall, we infer that this is a heterotrophic
+organism that has the genomic potential for oxygen and most
+likely nitrate reduction. 
+given the large size of the BGC.  Based on the prominence of
+this Actinobacterium in both dolphin oral microbiotas and the
+size of this genomic region (3% of the genome), the peptide
+product is likely to be advantageous to the organism, and may
+facilitate interactions within the community and/or with the host. 
+Large Biosynthetic Gene Cluster in the Dominant
+Actinobacteria Genome
+One of the two highest-coverage bins in both samples contained
+scaffolds that nearly exclusively encoded genes that were part of
+a small-molecule biosynthetic gene cluster (BGC).  The products
+of BGCs are diverse and often act as mediators in bacteria-host
+or bacteria-bacteria interactions [22, 23].  On ﬁrst inspection, the
+BGC was not assigned to any draft-quality genomes from these
+samples.  Extension of the BGC-associated scaffold revealed
+that it is part of the genome of the most abundant species in
+both samples (Actinobacteria phylum).  The BGC is located
+within an 80,484-bp-long region of the genome ﬂanked by mobile elements and has a relatively high GC content (74% versus
+68% for the rest of the genome) (Figure S4A) and a distinct tetranucleotide composition (Figure S4B).  Its read coverage is
+consistent with the rest of the genome (Figure S4C).  These ﬁndings suggest that the BGC was acquired through a relatively
+recent horizontal gene transfer event.  Notably, the BGC is predicted to produce a relatively long non-ribosomal peptide
+(NRP) of 17 amino acids (Figure 4).  NRPs are synthesized by
+NRP synthetase enzyme complexes, independent of the ribosome.  In the MIBiG database [27], the average size of NRPs
+synthesized by BGCs is only 6 amino acids long (SD ±4. 5) (Figure S4D).  Because the BGC does not have signiﬁcant similarity
+to known BGCs and its predicted product does not resemble
+any known peptide, elucidation of the function of this BGC product will require heterologous expression—a daunting challenge
+Novel Cas9 Diversity
+Given the wealth of both novel bacterial and phage genomes, we
+attempted to link phage sequences to bacterial hosts.  We
+ﬁrst identiﬁed CRISPR-Cas systems and, in doing so, discovered surprising CRISPR-Cas9 diversity (see Supplemental
+Discussion, Figure S5, and Data S3 and S4).  We identiﬁed a
+total of 67 unique predicted Cas9 proteins (see STAR Methods). 
+Interestingly, two are longer than all Cas9 protein sequences
+in the RefSeq database [28]
+(accessed December 2016)
+(Figure 5A) (DolZOral124_scaffold_19676_2: 1,895 amino acids;
+DolZOral124_scaffold_953_34: 1,794 amino acids).  Neither was
+assigned to any of the recovered genomes.  Another Cas9 contains a large insertion in the RuvC-III domain (DolZOral124_
+scaffold_26_62, also unassigned).  We aligned all three novel
+Cas9 amino acid sequences against AnaCas9 from Actinomyces
+naeslundii (Figure 5B).  AnaCas9 was selected as a reference
+because it has a resolved crystal structure and it is a type II-C
+Cas9, as are the three novel predicted proteins in the present
+study (Figure S6; Data S1).  We found that the largest insertions
+in the two long Cas9 proteins are concentrated in regions
+that align with the a-helical, b-hairpin, and RuvC-III domains
+of AnaCas9.  The DolZOral124_scaffold_26_62 Cas9 has a
+304-amino acid insertion in the RuvC-III domain when compared
+with AnaCas9.  This insertion has signiﬁcant homology (R30%
+identity over 100% sequence length; e value < 1e-10) to seven
+other Cas9 proteins in the NCBI non-redundant protein database
+(https://www. ncbi. nlm. nih. gov/protein/).  Attempts to infer the
+Current Biology 27, 3752–3762, December 18, 2017 3757B
+Figure 5.  Unusual Predicted Cas9 Protein Sequences in the Dolphin
+Oral Samples
+(A) Length distribution of 1,799 complete Cas9 proteins from the RefSeq
+database [28] (light blue) and 53 complete Cas9 proteins from the dolphin
+datasets (dark blue).  The longest Cas9 protein in the RefSeq database [28]
+is 1,669 amino acids long, whereas the longest Cas9 proteins in the dolphin
+datasets are 1,794 and 1,895 amino acids long. 
+Insertions and deletions in the three dolphin-associated Cas9 pro(B)
+teins, DolZOral124_953_34, DolZOral124_19676_2, and DolZOral124_26_62,
+compared to the reference Cas9 protein, AnaCas9.  The x axis represents the
+position with respect to the novel Cas9 protein sequence, in amino acids.  The
+AnaCas9 protein is split into each of its nine functional domains.  Regions
+where both proteins have a residue (although not necessarily the same one)
+are shown in gray, regions where the dolphin Cas9 has an insertion are shown
+in red, and regions where the dolphin Cas9 has a deletion are shown in blue. 
+ARG, arginine-rich; CTD, C-terminal domain; HNH, histidine-asparagine-histidine nuclease. 
+See also Figures S5 and S6 and Data S3. 
+function of the insertion were inconclusive (see Supplemental
+Discussion) [29, 30]. 
+Saccharibacteria Type II CRISPR-Cas Systems and a
+Saccharibacteria-Infecting Phage
+CRISPR-Cas systems are exceedingly rare within the CPR.  In a
+survey of 354 high-quality draft genomes from the CPR, Burstein
+Name [31] found that only ﬁve genomes (1. 4%) contained a
+CRISPR-Cas system, and none contained a type II system.  We
+found complete type II CRISPR-Cas systems in two out of ﬁve
+Saccharibacteria (CPR) genomes (see Supplemental Discussion).  The Saccharibacteria genomes are not closely related to
+each other; the ribosomal protein S3 sequences share 67%
+amino acid identity, which is less than expected for genomes
+in the same family [32].  Although the two complete Saccharibac3758 Current Biology 27, 3752–3762, December 18, 2017
+teria Cas9 proteins are afﬁliated with a single clade of type II-C
+Cas9 proteins (Figure S6), neither of the CRISPR-Cas loci encodes a Cas4 protein, as would be expected for a type II-CThe ability to identify phages that infect CPR bacteria is
+important to understanding CPR bacterial evolution and the constraints that they face in their natural settings.  However, it is rare
+to identify phages that infect the CPR [31, 33, 34].  Using
+CRISPRFinder [35] and Crass [36], we identiﬁed a total of 42
+unique spacers from Saccharibacteria CRISPR arrays (see Supplemental Discussion and Data S4).  Of the Saccharibacteria
+spacers, only one (from the sole CRISPR array associated with
+DolZOral124_Saccharibacteria_55_12_B) matched a genomic
+fragment that was identiﬁable as a phage genome (DolZOral124_
+Phage_53_65).  The phage and Saccharibacteria genomes were
+originally binned together based on tetranucleotide frequency. 
+Convergence of tetranucleotide frequency is suggestive of a history of co-evolution between a phage and its bacterial host [37]. 
+The phage genome is circular and 38,841 bp long, with a GC
+content of 52%.  No read pairs mapped to both the phage and
+Saccharibacteria genomes.  Consequently, we infer that the
+phage was not integrated into the host genome at the time of
+sampling.  The phage genome contains 50 predicted open
+reading frames (ORFs) and no tRNAs (Figure 6; Data S5).  Predicted functions of these ORFs include host cell lysis, phage
+packaging, and DNA recombination. 
+<Conclusion> DISCUSSION. 
+We used genome-resolved metagenomics to study the microbial communities of
+two dolphin oral samples in order to
+explore the unusual evolutionary and functional diversity predicted by a previous 16S rRNA gene-based survey [12].  Of
+note, we detected and characterized novel
+lineages distantly
+related to and reproducibly unafﬁliated with known phyla.  We
+propose that they represent phylum-level
+lineages for which
+we put forth the names Candidatus Delphibacteria and Candidatus Fertabacteria.  The Delphibacteria representative characterized here is predicted to denitrify, which is a process that
+may impact dolphin health and physiology.  For example, in humans, denitriﬁcation by oral bacteria can affect oral and gastric
+blood ﬂow, signaling in bacteria-bacteria and bacteria-host
+interactions, and mucus thickness in the stomach [38, 39].  It
+is unclear whether bacteria in the Delphibacteria candidate
+phylum remain uncultured due to intrinsic biological factors or
+due to the absence of a systematic effort to culture and identify
+them using traditional methods.  Regardless, our genomic analysis may provide insights into the conditions required for
+successful cultivation of these and closely related bacteria,
+especially with regard to oxygen conditions and potential energy and carbon sources. 
+In addition, we recovered genomes from candidate phyla
+whose members are seldom associated with animals.  These genomes will be a valuable resource for future comparative studies
+aimed at understanding how such bacteria adapt to a mammalian environment.  Interestingly, we detected members of the
+Saccharibacteria phylum.  Members of this phylum have been
+associated with human oral disease [40].  At least one Saccharibacteria strain, an obligate endobiont of an Actinobacterium, has
+Figure 6.  Genome Organization of the Saccharibacteria Phage
+The inner ring represents the phage genome (total length 38. 8 kbp; positions are indicated inside the ring).  The outer ring shows the position of open reading
+frames (ORFs) around the genome, numbered from 1 to 50.  ORFs are color coded based on inferred property or function.  For those ORFs that have an inferred
+property or function, green squares denote annotations supported by domain structure, blue circles denote annotations supported by a BLAST [18, 19]
+hit of R30% identity over R70% length of the ORF with an e value %1e-05, and yellow stars denote annotations whose top BLAST [18, 19] hit was to a genome in
+the CPR.  The position of the spacer match from DolZOral124_Saccharibacteria_55_12_B is represented by a red slash perpendicular to the phage genome.  See
+also Data S3, S4, and S5. 
+the ability to modify human immune responses in vitro [9].  This
+may aid Saccharibacteria and potentially also their microbial
+host/s in avoiding clearance by the human immune system.  It
+remains unclear whether oral Saccharibacteria are detrimental
+to dolphin health, and whether they may be associated with
+Actinobacteria in this setting. 
+An interesting aspect of our community composition analysis
+was that the highest-coverage genome was from an Actinobacterium that went virtually undetected in the previously published
+16S rRNA amplicon survey.  The underlying reasons for this
+discrepancy remain unknown.  This ﬁnding highlights the fact
+that even among relatively well characterized phyla there exist
+unexplored branches represented by organisms with unusual
+predicted properties that are inherently distinct from the bacteria
+we are accustomed to studying. 
+By exploring the microbiology of the dolphin mouth, we
+uncovered an unexpected diversity of CRISPR systems
+that are related to those used in recently developed CRISPRCas9-based genome editing methods [41].  At this time, the
+potential technological value of divergent proteins from class 2
+CRISPR-Cas systems (those with single-subunit CRISPR RNA
+(crRNA)-effector molecules) remains relatively unexplored and
+so the signiﬁcance of the ﬁndings remains unclear.  However,
+the ﬁndings further establish the potential importance of genes
+discovered in the genomes of bacteria newly characterized by
+cultivation-independent metagenomics [10]. 
+Previously unexplored environments, such as the marine
+mammal oral cavity, contain a wealth of phylogenetic and functional novelty of which we have only just scratched the surface. 
+Populating the tree of life with genomes from poorly understood
+Current Biology 27, 3752–3762, December 18, 2017 3759
+or previously unsampled microbial lineages from diverse environments, and characterizing the phages that infect them, is an
+important step toward creating a comprehensive picture of the
+evolutionary history of life on Earth. 
+Received: July 14, 2017
+Revised: September 13, 2017
+Accepted: October 13, 2017
+Published: November 16, 2017
+STAR+METHODS
+REFERENCES
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d CONTACT FOR REAGENT AND RESOURCE SHARING
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+d METHOD DETAILS
+B DNA extraction, sequencing, and quality ﬁltering
+B Metagenome assembly, annotation, and binning
+B Identiﬁcation of phage scaffolds
+B Reﬁning selected scaffolds
+B Bin completeness and characterization
+B Phylogenetic placement of genomes
+B Metabolic reconstruction of DolZOral124_Bacteria_64_63 (Candidatus Delphibacteria)
+B Biosynthetic gene cluster structural predictions
+B Identiﬁcation and classiﬁcation of CRISPR-Cas systems and predicted Cas9 proteins
+B Identiﬁcation and analysis of scaffolds targeted by
+CPR spacers
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+d DATA AVAILABILITY
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes Supplemental Discussion, six ﬁgures, one
+table, and ﬁve data ﬁles and can be found with this article online at https://doi. 
+org/10. 1016/j. cub. 2017. 10. 040. 
+AUTHOR CONTRIBUTIONS
+N. K. D. , C. L. S. , E. M. B. , and D. A. R.  designed the study.  N. K. D. , C. L. S. , and
+B. C. T.  processed sequence and assembly data.  N. K. D. , C. L. S. , D. B. ,
+R. S. K. , D. S. A. G. , J. F. B. , and D. A. R.  conducted data analysis.  N. K. D. , C. L. S. ,
+and D. A. R.  wrote the manuscript with input from all authors.  All authors read
+and approved the ﬁnal manuscript. 
+ACKNOWLEDGMENTS
+We thank Mohamed Donia (Princeton University) for guidance in the analysis of
+the Actinobacteria biosynthetic gene cluster.  We thank Stephanie Venn-Watson, Kevin Carlin, and Eric D.  Jensen from the U. S.  Navy Marine Mammal Program (San Diego, CA, USA) for providing the dolphin oral samples, Alix Switzer
+(Stanford University) for the contribution of DNA prepared from a harbor seal
+oral sample, and Frances Gulland and coworkers at The Marine Mammal Center (Sausalito, CA, USA) for collection of the harbor seal oral sample.  We thank
+Beth Shapiro (University of California, Santa Cruz) for her support of this
+research, as well as members of the Relman laboratory for helpful comments
+and discussion, especially Elizabeth Costello.  Funding was provided by a B1
+fellowship from the Fonds de Recherche du Quebec–Nature et Technologie
+(to N. K. D. ), a long-term EMBO fellowship (to D. B. ), a Frontiers in Science
+award from the Allen Institute (to J. F. B. ), a cycle grant from the U. S.  Department of Energy (to J. F. B. ), Ofﬁce of Naval Research grant 00014-07-1-0287
+(to D. A. R. ), and the Thomas C.  and Joan M.  Merigan Endowment at Stanford
+University (to D. A. R. ).  B. C. T.  and J. F. B.  are shareholders of Metagenomi. co. 
+E. M. B.  is an employee and shareholder of uBiome. 
+3760 Current Biology 27, 3752–3762, December 18, 2017
+1.  Hug, L. A. , Baker, B. J. , Anantharaman, K. , Brown, C. T. , Probst, A. J. ,
+Castelle, C. J. , Butterﬁeld, C. N. , Hernsdorf, A. W. , Amano, Y. , Ise, K. ,
+Name (2016).  A new view of the tree of life.  Nat.  Microbiol.  1, 16048. 
+2.  Anantharaman, K. , Brown, C. T. , Hug, L. A. , Sharon, I. , Castelle, C. J. ,
+Probst, A. J. , Thomas, B. C. , Singh, A. , Wilkins, M. J. , Karaoz, U. , Name
+(2016).  Thousands of microbial genomes shed light on interconnected
+biogeochemical processes in an aquifer system.  Nat.  Commun.  7, 13219. 
+3.  Eloe-Fadrosh, E. A. , Paez-Espino, D. , Jarett, J. , Dunﬁeld, P. F. , Hedlund,
+B. P. , Dekas, A. E. , Grasby, S. E. , Brady, A. L. , Dong, H. , Briggs, B. R. ,
+Name (2016).  Global metagenomic survey reveals a new bacterial candidate phylum in geothermal springs.  Nat.  Commun.  7, 10476. 
+4.  Brown, C. T. , Hug, L. A. , Thomas, B. C. , Sharon, I. , Castelle, C. J. , Singh, A. ,
+Wilkins, M. J. , Wrighton, K. C. , Williams, K. H. , and Banﬁeld, J. F.  (2015). 
+Unusual biology across a group comprising more than 15% of domain
+Bacteria.  Nature 523, 208–211. 
+5.  Hug, L. A. , Thomas, B. C. , Sharon, I. , Brown, C. T. , Sharma, R. , Hettich,
+R. L. , Wilkins, M. J. , Williams, K. H. , Singh, A. , and Banﬁeld, J. F.  (2016). 
+Critical biogeochemical functions in the subsurface are associated with
+bacteria from new phyla and little studied lineages.  Environ.  Microbiol. 
+18, 159–173. 
+6.  Kantor, R. S. , Wrighton, K. C. , Handley, K. M. , Sharon,
+I. , Hug, L. A. ,
+Castelle, C. J. , Thomas, B. C. , and Banﬁeld, J. F.  (2013).  Small genomes
+and sparse metabolisms of sediment-associated bacteria from four candidate phyla.  MBio 4, e00708–e00713. 
+7.  Sekiguchi, Y. , Ohashi, A. , Parks, D. H. , Yamauchi, T. , Tyson, G. W. , and
+Hugenholtz, P.  (2015).  First genomic insights into members of a candidate
+bacterial phylum responsible for wastewater bulking.  PeerJ 3, e740. 
+8.  Wrighton, K. C. , Thomas, B. C. , Sharon, I. , Miller, C. S. , Castelle, C. J. ,
+VerBerkmoes, N. C. , Wilkins, M. J. , Hettich, R. L. , Lipton, M. S. , Williams,
+K. H. , Name (2012).  Fermentation, hydrogen, and sulfur metabolism in multiple uncultivated bacterial phyla.  Science 337, 1661–1665. 
+9.  He, X. , McLean, J. S. , Edlund, A. , Yooseph, S. , Hall, A. P. , Liu, S. Y. ,
+Dorrestein, P. C. , Esquenazi, E. , Hunter, R. C. , Cheng, G. , Name (2015). 
+Cultivation of a human-associated TM7 phylotype reveals a reduced
+genome and epibiotic parasitic lifestyle.  Proc.  Natl.  Acad.  Sci.  USA 112,
+244–249. 
+10.  Burstein, D. , Harrington, L. B. , Strutt, S. C. , Probst, A. J. , Anantharaman, K. ,
+Thomas, B. C. , Doudna, J. A. , and Banﬁeld, J. F.  (2017).  New CRISPR-Cas
+systems from uncultivated microbes.  Nature 542, 237–241. 
+11.  Wu, D. , Hugenholtz, P. , Mavromatis, K. , Pukall, R. , Dalin, E. , Ivanova, N. N. ,
+Kunin, V. , Goodwin, L. , Wu, M. , Tindall, B. J. , Name (2009).  A phylogenydriven genomic encyclopaedia of Bacteria and Archaea.  Nature 462,
+1056–1060. 
+12.  Bik, E. M. , Costello, E. K. , Switzer, A. D. , Callahan, B. J. , Holmes, S. P. , Wells,
+R. S. , Carlin, K. P. , Jensen, E. D. , Venn-Watson, S. , and Relman, D. A. 
+(2016).  Marine mammals harbor unique microbiotas shaped by and yet
+distinct from the sea.  Nat.  Commun.  7, 10516. 
+13.  Pruesse, E. , Quast, C. , Knittel, K. , Fuchs, B. M. , Ludwig, W. , Peplies, J. ,
+and Glo¨ ckner, F. O.  (2007).  SILVA: a comprehensive online resource for
+quality checked and aligned ribosomal RNA sequence data compatible
+with ARB.  Nucleic Acids Res.  35, 7188–7196. 
+14.  Quast, C. , Pruesse, E. , Yilmaz, P. , Gerken, J. , Schweer, T. , Yarza, P. ,
+Peplies, J. , and Glo¨ ckner, F. O.  (2013).  The SILVA ribosomal RNA gene
+database project:
+improved data processing and web-based tools. 
+Nucleic Acids Res.  41, D590–D596. 
+15.  Yilmaz, P. , Parfrey, L. W. , Yarza, P. , Gerken, J. , Pruesse, E. , Quast, C. ,
+Schweer, T. , Peplies, J. , Ludwig, W. , and Glo¨ ckner, F. O.  (2014).  The
+SILVA and ‘‘All-species Living Tree Project (LTP)’’ taxonomic frameworks. 
+Nucleic Acids Res.  42, D643–D648. 
+16.  Sato, Y. , Willis, B. L. , and Bourne, D. G.  (2013).  Pyrosequencing-based
+proﬁling of archaeal and bacterial 16S rRNA genes identiﬁes a novel
+archaeon associated with black band disease in corals.  Environ. 
+Microbiol.  15, 2994–3007. 
+17.  Probst, A. J. , Auerbach, A. K. , and Moissl-Eichinger, C.  (2013).  Archaea on
+33.  Paez-Espino, D. , Eloe-Fadrosh, E. A. , Pavlopoulos, G. A. , Thomas, A. D. ,
+Huntemann, M. , Mikhailova, N. , Rubin, E. , Ivanova, N. N. , and Kyrpides,
+N. C.  (2016).  Uncovering Earth’s virome.  Nature 536, 425–430. 
+34.  Paez-Espino, D. , Chen, I. A. , Palaniappan, K. , Ratner, A. , Chu, K. , Szeto,
+E. , Pillay, M. , Huang, J. , Markowitz, V. M. , Nielsen, T. , Name (2017). 
+IMG/VR: a database of cultured and uncultured DNA viruses and retroviruses.  Nucleic Acids Res.  45, D457–D465. 
+human skin.  PLoS ONE 8, e65388. 
+18.  Altschul, S. F. , Gish, W. , Miller, W. , Myers, E. W. , and Lipman, D. J.  (1990). 
+Basic local alignment search tool.  J.  Mol.  Biol.  215, 403–410. 
+35.  Grissa, I. , Vergnaud, G. , and Pourcel, C.  (2007).  CRISPRFinder: a web tool
+to identify clustered regularly interspaced short palindromic repeats. 
+Nucleic Acids Res.  35, W52–W57. 
+19.  Camacho, C. , Coulouris, G. , Avagyan, V. , Ma, N. , Papadopoulos, J. ,
+Bealer, K. , and Madden, T. L.  (2009).  BLAST+: architecture and applications.  BMC Bioinformatics 10, 421. 
+36.  Skennerton, C. T. , Imelfort, M. , and Tyson, G. W.  (2013).  Crass: identiﬁcation and reconstruction of CRISPR from unassembled metagenomic
+data.  Nucleic Acids Res.  41, e105. 
+20.  Yarza, P. , Yilmaz, P. , Pruesse, E. , Glo¨ ckner, F. O. , Ludwig, W. , Schleifer,
+K. H. , Whitman, W. B. , Euzeby, J. , Amann, R. , and Rossello´ -Mo´ ra, R. 
+(2014).  Uniting the classiﬁcation of cultured and uncultured bacteria and
+archaea using 16S rRNA gene sequences.  Nat.  Rev.  Microbiol.  12,
+635–645. 
+21.  Raes, J. , Korbel, J. O. , Lercher, M. J. , von Mering, C. , and Bork, P.  (2007). 
+Prediction of effective genome size in metagenomic samples.  Genome
+Biol.  8, R10. 
+22.  Donia, M. S. , Cimermancic, P. , Schulze, C. J. , Wieland Brown, L. C. , Martin,
+J. , Mitreva, M. , Clardy, J. , Linington, R. G. , and Fischbach, M. A.  (2014).  A
+systematic analysis of biosynthetic gene clusters in the human microbiome reveals a common family of antibiotics.  Cell 158, 1402–1414. 
+23.  Kadioglu, A. , Weiser, J. N. , Paton, J. C. , and Andrew, P. W.  (2008).  The role
+of Streptococcus pneumoniae virulence factors in host respiratory colonization and disease.  Nat.  Rev.  Microbiol.  6, 288–301. 
+24.  Medema, M. H. , Blin, K. , Cimermancic, P. , de Jager, V. , Zakrzewski, P. ,
+Fischbach, M. A. , Weber, T. , Takano, E. , and Breitling, R. antiSMASH: rapid identiﬁcation, annotation and analysis of secondary
+metabolite biosynthesis gene clusters in bacterial and fungal genome
+sequences.  Nucleic Acids Res.  39, W339–W346. 
+25.  Blin, K. , Medema, M. H. , Kazempour, D. , Fischbach, M. A. , Breitling, R. ,
+Takano, E. , and Weber, T.  (2013).  antiSMASH 2. 0—a versatile platform
+for genome mining of secondary metabolite producers.  Nucleic Acids
+Res.  41, W204–W212. 
+26.  Weber, T. , Blin, K. , Duddela, S. , Krug, D. , Kim, H. U. , Bruccoleri, R. , Lee,
+S. Y. , Fischbach, M. A. , Mu¨ ller, R. , Wohlleben, W. , NameantiSMASH 3. 0—a comprehensive resource for the genome mining of
+biosynthetic gene clusters.  Nucleic Acids Res.  43, W237–W243. 
+27.  Medema, M. H. , Kottmann, R. , Yilmaz, P. , Cummings, M. , Biggins, J. B. ,
+Blin, K. , de Bruijn, I. , Chooi, Y. H. , Claesen, J. , Coates, R. C. , Name (2015). 
+Minimum information about a biosynthetic gene cluster.  Nat.  Chem. 
+Biol.  11, 625–631. 
+28.  O’Leary, N. A. , Wright, M. W. , Brister, J. R. , Ciufo, S. , Haddad, D. , McVeigh,
+R. , Rajput, B. , Robbertse, B. , Smith-White, B. , Ako-Adjei, D. , Name (2016). 
+Reference sequence (RefSeq) database at NCBI: current status, taxonomic expansion, and functional annotation.  Nucleic Acids Res.  44,
+D733–D745. 
+29.  So¨ ding, J. , Biegert, A. , and Lupas, A. N.  (2005).  The HHpred interactive
+server for protein homology detection and structure prediction.  Nucleic
+Acids Res.  33, W244–W248. 
+30.  Kelley, L. A. , Mezulis, S. , Yates, C. M. , Wass, M. N. , and Sternberg, M. J. E. 
+(2015).  The Phyre2 web portal for protein modeling, prediction and analysis.  Nat.  Protoc.  10, 845–858. 
+31.  Burstein, D. , Sun, C. L. , Brown, C. T. , Sharon, I. , Anantharaman, K. , Probst,
+A. J. , Thomas, B. C. , and Banﬁeld, J. F.  (2016).  Major bacterial lineages are
+essentially devoid of CRISPR-Cas viral defence systems.  Nat.  Commun.  7,32.  Sharon,
+I. , Kertesz, M. , Hug, L. A. , Pushkarev, D. , Blauwkamp, T. A. ,
+Castelle, C. J. , Amirebrahimi, M. , Thomas, B. C. , Burstein, D. , Tringe,
+S. G. , Name (2015).  Accurate, multi-kb reads resolve complex populations
+and detect rare microorganisms.  Genome Res.  25, 534–543. 
+37.  Pride, D. T. , Wassenaar, T. M. , Ghose, C. , and Blaser, M. J. Evidence of host-virus co-evolution in tetranucleotide usage patterns of
+bacteriophages and eukaryotic viruses.  BMC Genomics 7, 8. 
+38.  Lundberg, J. O. , Weitzberg, E. , and Gladwin, M. T.  (2008).  The nitrate-nitrite-nitric oxide pathway in physiology and therapeutics.  Nat.  Rev.  Drug
+Discov.  7, 156–167. 
+39.  Schreiber, F. , Stief, P. , Gieseke, A. , Heisterkamp, I. M. , Verstraete, W. , de
+Beer, D. , and Stoodley, P.  (2010).  Denitriﬁcation in human dental plaque. 
+BMC Biol.  8, 24. 
+40.  Brinig, M. M. , Lepp, P. W. , Ouverney, C. C. , Armitage, G. C. , and Relman,
+D. A.  (2003).  Prevalence of bacteria of division TM7 in human subgingival
+plaque and their association with disease.  Appl.  Environ.  Microbiol.  69,
+1687–1694. 
+41.  Jinek, M. , Chylinski, K. , Fonfara,
+I. , Hauer, M. , Doudna, J. A. , and
+Charpentier, E.  (2012).  A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity.  Science 337, 816–821. 
+42.  Fichant, G. , Basse, M. J. , and Quentin, Y.  (2006).  ABCdb: an online
+resource for ABC transporter repertories from sequenced archaeal and
+bacterial genomes.  FEMS Microbiol.  Lett.  256, 333–339. 
+43.  Lindblad-Toh, K. , Garber, M. , Zuk, O. , Lin, M. F. , Parker, B. J. , Washietl, S. ,
+Kheradpour, P. , Ernst, J. , Jordan, G. , Mauceli, E. , Name; Broad Institute
+Sequencing Platform and Whole Genome Assembly Team; Baylor
+College of Medicine Human Genome Sequencing Center Sequencing
+Team; Genome Institute at Washington University (2011).  A high-resolution map of human evolutionary constraint using 29 mammals.  Nature
+478, 476–482. 
+44.  Kanehisa, M. , Sato, Y. , Kawashima, M. , Furumichi, M. , and Tanabe, M. 
+(2016).  KEGG as a reference resource for gene and protein annotation. 
+Nucleic Acids Res.  44, D457–D462. 
+45.  Kanehisa, M. , Furumichi, M. , Tanabe, M. , Sato, Y. , and Morishima, K. 
+(2017).  KEGG: new perspectives on genomes, pathways, diseases and
+drugs.  Nucleic Acids Res.  45, D353–D361. 
+46.  Kanehisa, M. , and Goto, S.  (2000).  KEGG: Kyoto encyclopedia of genes
+and genomes.  Nucleic Acids Res.  28, 27–30. 
+47.  Brister, J. R. , Ako-Adjei, D. , Bao, Y. , and Blinkova, O.  (2015).  NCBI viral
+genomes resource.  Nucleic Acids Res.  43, D571–D577. 
+48.  Wattam, A. R. , Abraham, D. , Dalay, O. , Disz, T. L. , Driscoll, T. , Gabbard,
+J. L. , Gillespie, J. J. , Gough, R. , Hix, D. , Kenyon, R. , et al. PATRIC, the bacterial bioinformatics database and analysis resource. 
+Nucleic Acids Res.  42, D581–D591. 
+49.  Suzek, B. E. , Wang, Y. , Huang, H. , McGarvey, P. B. , and Wu, C. H. ; UniProt
+Consortium (2015).  UniRef clusters: a comprehensive and scalable alternative for improving sequence similarity searches.  Bioinformatics 31,
+926–932. 
+50.  Langmead, B. , and Salzberg, S. L.  (2012).  Fast gapped-read alignment
+with Bowtie 2.  Nat.  Methods 9, 357–359. 
+51.  Li, W. , and Godzik, A.  (2006).  Cd-hit: a fast program for clustering and
+comparing large sets of protein or nucleotide sequences.  Bioinformatics
+22, 1658–1659. 
+Current Biology 27, 3752–3762, December 18, 2017 3761
+52.  Krzywinski, M. , Schein, J. , Birol, I. , Connors, J. , Gascoyne, R. , Horsman,
+D. , Jones, S. J. , and Marra, M. A.  (2009).  Circos: an information aesthetic
+for comparative genomics.  Genome Res.  19, 1639–1645. 
+65.  Wang, Q. , Garrity, G. M. , Tiedje, J. M. , and Cole, J. R. 
+(2007).  Naive
+Bayesian classiﬁer for rapid assignment of rRNA sequences into the
+new bacterial taxonomy.  Appl.  Environ.  Microbiol.  73, 5261–5267. 
+66.  Joshi, N. A. , and Fass, J. N.  (2011).  Sickle: a sliding-window, adaptive,
+quality-based trimming tool for FastQ ﬁles, version 1. 33.  https://github. 
+com/najoshi/sickle. 
+67.  Pruesse, E. , Peplies, J. , and Glo¨ ckner, F. O.  (2012).  SINA: accurate highribosomal RNA genes. 
+throughput multiple sequence alignment of
+Bioinformatics 28, 1823–1829. 
+68.  Lowe, T. M. , and Eddy, S. R.  (1997).  tRNAscan-SE: a program for improved
+detection of transfer RNA genes in genomic sequence.  Nucleic Acids Res. 
+25, 955–964. 
+69.  Edgar, R. C.  (2010).  Search and clustering orders of magnitude faster than
+BLAST.  Bioinformatics 26, 2460–2461. 
+70.  Dick, G. J. , Andersson, A. F. , Baker, B. J. , Simmons, S. L. , Thomas, B. C. ,
+Yelton, A. P. , and Banﬁeld, J. F.  (2009).  Community-wide analysis of microbial genome sequence signatures.  Genome Biol.  10, R85. 
+71.  Hug, L. A. , Castelle, C. J. , Wrighton, K. C. , Thomas, B. C. , Sharon,Frischkorn, K. R. , Williams, K. H. , Tringe, S. G. , and Banﬁeld, J. F.  (2013). 
+Community genomic analyses constrain the distribution of metabolic traits
+across the Chloroﬂexi phylum and indicate roles in sediment carbon
+cycling.  Microbiome 1, 22. 
+72.  Guindon, S. , and Gascuel, O.  (2003).  A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood.  Syst.  Biol. 
+52, 696–704. 
+73.  Finn, R. D. , Coggill, P. , Eberhardt, R. Y. , Eddy, S. R. , Mistry, J. , Mitchell,
+A. L. , Potter, S. C. , Punta, M. , Qureshi, M. , Sangrador-Vegas, A. , Name
+(2016).  The Pfam protein families database: towards a more sustainable
+future.  Nucleic Acids Res.  44, D279–D285. 
+74.  Eddy, S. R.  (2011).  Accelerated proﬁle HMM searches.  PLoS Comput.  Biol. 
+7, e1002195. 
+75.  Makarova, K. S. , Wolf, Y. I. , Alkhnbashi, O. S. , Costa, F. , Shah, S. A. ,
+Saunders, S. J. , Barrangou, R. , Brouns, S. J. J. , Charpentier, E. , Haft,
+D. H. , Name (2015).  An updated evolutionary classiﬁcation of CRISPRCas systems.  Nat.  Rev.  Microbiol.  13, 722–736. 
+76.  Fu, L. , Niu, B. , Zhu, Z. , Wu, S. , and Li, W.  (2012).  CD-HIT: accelerated
+for clustering the next-generation sequencing data.  Bioinformatics 28,
+3150–3152. 
+77.  Shmakov, S. , Abudayyeh, O. O. , Makarova, K. S. , Wolf, Y. I. , Gootenberg,
+J. S. , Semenova, E. , Minakhin, L. , Joung, J. , Konermann, S. , Severinov,
+K. , Name (2015).  Discovery and functional characterization of diverse class
+2 CRISPR-Cas systems.  Mol.  Cell 60, 385–397. 
+53.  Ultsch, A. , and Mo¨ rchen, F.  (2005).  ESOM-Maps: tools for clustering, visualization, and classiﬁcation with emergent SOM (Department of
+Mathematics and Computer Science, University of Marburg, Germany),
+Technical Report 46, 1–7. 
+54.  Kearse, M. , Moir, R. , Wilson, A. , Stones-Havas, S. , Cheung, M. ,
+Sturrock, S. , Buxton, S. , Cooper, A. , Markowitz, S. , Duran, C. , Name
+(2012).  Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data. 
+Bioinformatics 28, 1647–1649. 
+55.  Finn, R. D. , Clements, J. , Arndt, W. , Miller, B. L. , Wheeler, T. J. , Schreiber,
+F. , Bateman, A. , and Eddy, S. R.  (2015).  HMMER web server: 2015 update. 
+Nucleic Acids Res.  43, W30–W38. 
+56.  Peng, Y. , Leung, H. C. M. , Yiu, S. M. , and Chin, F. Y. L.  (2012).  IDBA-UD: a de
+novo assembler for single-cell and metagenomic sequencing data with
+highly uneven depth.  Bioinformatics 28, 1420–1428. 
+57.  Jones, P. , Binns, D. , Chang, H. Y. , Fraser, M. , Li, W. , McAnulla, C. ,classiﬁcation. 
+McWilliam, H. , Maslen, J. , Mitchell, A. , Nuka, G. , Name
+InterProScan
+Bioinformatics 30, 1236–1240. 
+genome-scaleprotein
+function
+58.  Letunic, I. , and Bork, P.  (2011).  Interactive Tree Of Life v2: online annotation and display of phylogenetic trees made easy.  Nucleic Acids Res.  39,
+W475–W478. 
+59.  Moriya, Y. , Itoh, M. , Okuda, S. , Yoshizawa, A. C. , and Kanehisa, M.  (2007). 
+KAAS: an automatic genome annotation and pathway reconstruction
+server.  Nucleic Acids Res.  35, W182–W185. 
+60.  Edgar, R. C.  (2004).  MUSCLE: multiple sequence alignment with high accuracy and high throughput.  Nucleic Acids Res.  32, 1792–1797. 
+61.  Ruby, J. G. , Bellare, P. , and Derisi, J. L.  (2013).  PRICE: software for the targeted assembly of components of (meta) genomic sequence data.  G3
+(Bethesda) 3, 865–880. 
+62.  Hyatt, D. , Chen, G. L. , Locascio, P. F. , Land, M. L. , Larimer, F. W. , and
+Hauser, L. J.  (2010).  Prodigal: prokaryotic gene recognition and translation
+initiation site identiﬁcation.  BMC Bioinformatics 11, 119. 
+63.  Darriba, D. , Taboada, G. L. , Doallo, R. , and Posada, D.  (2011).  ProtTest 3:
+fast selection of best-ﬁt models of protein evolution.  Bioinformatics 27,
+1164–1165. 
+64.  Stamatakis, A.  (2014).  RAxML version 8: a tool for phylogenetic analysis
+and post-analysis of large phylogenies.  Bioinformatics 30, 1312–1313. 
+3762 Current Biology 27, 3752–3762, December 18, 2017
+STAR+METHODS
+KEY RESOURCES TABLE
+REAGENT or RESOURCEIDENTIFIER
+Biological Samples
+Dolphin oral swabs
+Critical Commercial Assays
+Kapa hyper prep kit
+QIAamp DNA mini kit
+Deposited Data
+U. S.  Navy Marine
+Mammal Program
+http://www. nmmf. org/service. html
+Kapa BiosystemsCat#KK8504
+Cat#51304
+Dolphin oral swab sequence data
+This paper
+Harbor seal oral swab sequence data
+This paper
+Human saliva sequence data
+This paper
+ABCdb database
+Dolphin genome
+KEGG database
+NCBI non-redundant nucleotide database
+NCBI non-redundant protein database[43]https://www. ncbi. nlm. 
+nih. gov/nucleotide/
+https://www. ncbi. nlm. 
+nih. gov/protein/
+NCBI RefSeq database
+NCBI viral genomes database
+PATRIC database
+SILVA NR Ref 99 database
+UniRef 90 database
+Software and Algorithms
+antiSMASHBowtie2CircosCRISPRFinder
+Databionics ESOM Tools
+Geneious[47][13–15][24–26]
+[18, 19][51][36][53]NCBI BioProject PRJNA174530 (https://www. ncbi. nlm. 
+nih. gov/bioproject/PRJNA174530/) with BioSample identiﬁers
+SAMN01162460 and SAMN01162508 for DolJOral78 and
+DolZOral124, respectively, and ggKbase (http://ggkbase. 
+berkeley. edu/DOLJORAL78 and http://ggkbase. berkeley. edu/
+DOLZORAL124)
+NCBI BioProject PRJNA412531(https://www. ncbi. nlm. 
+nih. gov/bioproject/PRJNA412531) with BioSample identiﬁer
+SAMN07716580
+NCBI BioProject PRJNA288562 (https://www. ncbi. nlm. 
+nih. gov/bioproject/PRJNA288562) with BioSample
+identiﬁers SAMN03845088, SAMN03845091,
+SAMN03845094, SAMN03845097, SAMN03845100,
+SAMN03845103, SAMN03845106, SAMN03845108,
+SAMN03845111, SAMN03845111, SAMN03845114,
+and SAMN03845224 for human A and SAMN03845448,
+SAMN03845451, SAMN03845454, SAMN03845458,
+SAMN03845460, SAMN03845463, SAMN03845466,
+SAMN03845469, SAMN03845472, SAMN03845475,
+and SAMN03845503 for human B
+https://www-abcdb. biotoul. frhttp://www. genome. ad. jp/kegg/
+https://www. ncbi. nlm. nih. gov/nucleotide/
+https://www. ncbi. nlm. nih. gov/protein/
+https://www. ncbi. nlm. nih. gov/refseq/
+https://www. ncbi. nlm. nih. gov/genome/viruses/
+https://www. patricbrc. org
+https://www. arb-silva. de/projects/ssu-ref-nr/
+http://www. uniprot. org/uniref
+https://antismash. secondarymetabolites. org/#!/start
+https://blast. ncbi. nlm. nih. gov/Blast. cgi
+http://bowtie-bio. sourceforge. net/bowtie2/index. shtml
+http://weizhongli-lab. org/cd-hit/
+http://circos. ca
+http://ctskennerton. github. io/crass/index. html
+http://crispr. i2bc. paris-saclay. fr
+http://databionic-esom. sourceforge. net
+http://www. geneious. com/
+Current Biology 27, 3752–3762. e1–e6, December 18, 2017 e1
+(Continued on next page)
+Continued
+REAGENT or RESOURCEHMMERInkscape
+InterProScanKAASPRICE
+Prodigal
+ProtTest3
+Ra2 suiteRDP classiﬁerSickletRNAscan16S rRNA gene prediction scriptsBanﬁeld Lab[56]
+https://inkscape. org/en/[58][60][62][4][65]
+https://github. com/
+jstjohn/seqprep[67][69]IDENTIFIER
+http://ggkbase. berkeley. edu
+http://hmmer. org
+http://i. cs. hku. hk/alse/hkubrg/projects/idba_ud/
+https://inkscape. org/en/
+http://www. ebi. ac. uk/interpro/search/sequence-search
+http://itol. embl. de
+http://www. genome. jp/tools/kaas/
+http://www. drive5. com/muscle/
+http://derisilab. ucsf. edu/software/price/
+http://prodigal. ornl. gov
+https://github. com/ddarriba/prottest3
+https://github. com/christophertbrown/ﬁx_assembly_errors
+https://sco. h-its. org/exelixis/web/software/raxml/index. html
+https://rdp. cme. msu. edu/classiﬁer/classiﬁer. jsp
+https://github. com/jstjohn/SeqPrep
+https://github. com/najoshi/sickle
+https://www. arb-silva. de/aligner/
+http://eddylab. org/software. html
+http://www. drive5. com/usearch/download. html
+https://github. com/christophertbrown/bioscripts/
+CONTACT FOR REAGENT AND RESOURCE SHARING
+Further information and requests for reagents and resources should be directed to, and will be fulﬁlled by the Lead Contact, David A. 
+Relman (relman@stanford. edu). 
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+Oral samples were obtained from the left gingival sulcus of dolphins managed by the U. S.  Navy Marine Mammal Program (MMP) in
+San Diego, California.  The swabbing protocol adhered to the guidelines described in the CRC handbook of Marine Mammal Medicine.  From the 22 dolphin oral specimens included in Bik Name [12], two were selected for metagenomic analysis.  Sample DolJOral78
+originated from a healthy 5-year-old male and sample DolZOral124 originated from a healthy 29-year-old lactating female.  The MMP
+is accredited by the Association for Assessment and Accreditation of Laboratory Animal Care (AAALAC) International and adheres to
+the national standards of the United States Public Health Service Policy on the Humane Care and Use of Laboratory Animals and the
+Animal Welfare Act.  As required by the U. S.  Department of Defense, the MMP’s animal care and use program is routinely reviewed by
+an Institutional Animal Care and Use Committee (IACUC) and by the U. S.  Navy Bureau of Medicine and Surgery.  The animal use and
+care protocol for MMP dolphins in support of this study was approved by the MMP’s IACUC and the Navy’s Bureau of Medicine and
+Surgery (IACUC #92-2010, BUMED NRD-681). 
+To compare the proportion of CRISPR-Cas types across oral environments from different mammals (see Supplemental Discussion
+and Figure S5), we additionally analyzed data from two humans and a harbor seal.  Saliva samples were obtained from two healthy,
+pregnant women who presented at Lucille Packard Children’s Hospital in Stanford, California.  These samples were collected from
+subjects who signed a written consent, and following procedures described in an IRB protocol (21956) that was approved by an
+Administrative Panel for the Protection of Human Subjects at Stanford University.  Swab samples from the left gingival sulcus of a
+harbor seal were obtained from an animal originally admitted to the Marine Mammal Center in Sausalito, California, USA with pneumonia, malnutrition, and a left hind ﬂipper injury.  The animal was treated with Clavamox from July 5-18, 2012, recovered, and was
+released back into the wild.  The sample used here was the last collected prior to release at a time of health, and was taken on
+August 22, 2012 during a routine clinical exam. 
+e2 Current Biology 27, 3752–3762. e1–e6, December 18, 2017
+METHOD DETAILS
+DNA extraction, sequencing, and quality ﬁltering
+We used the same DNA preparations from MMP dolphin gingival sulcus samples as used by Bik Name [12].  These samples were processed using the QIAamp Mini Kit (QIAGEN, Valencia, CA).  Library preparation and shotgun sequencing were performed by the Keck
+Center at the University of Illinois at Urbana-Champaign.  Brieﬂy, short read Illumina libraries (2 3 250bp) were constructed using the
+Kapa Hyper Prep Kit (Kapa Biosystems, Wilmington, MA) and the two libraries were sequenced on a single Illumina HiSeq 2500 lane. 
+The average gDNA fragment length was 580 bp (range: 350-800 bp).  93,369,641 raw read-pairs for sample DolJOral78
+and 76,479,271 raw read-pairs for sample DolZOral124 were quality-ﬁltered using Sickle [66] with the ‘‘-q 28’’ ﬂag speciﬁed to increase the minimum threshold of acceptable quality scores.  Adapters were removed and anomalously short reads (< 100 bp)
+were discarded in one step using SeqPrep (https://github. com/jstjohn/seqprep).  Reads that mapped to the dolphin genome (turTru2)
+[43] were considered to be host contamination and were removed from the dataset using bowtie2 version 2. 2. 4 [50].  Six percent and
+two percent of reads from the DolJOral78 and DolZOral124 samples mapped to the dolphin genome, respectively.  After host
+sequence removal, 58,250,929 and 82,272,429 read-pairs were available for metagenome assembly. 
+Metagenome assembly, annotation, and binning
+Assembly of read-pairs from each sample was performed using IDBA-UD version 1. 1. 1 [56].  IDBA-UD was patched to increase the
+maximum permissible length of paired end reads from 128 bp to 250 bp (via the kMaxShortSequence constant), thereby allowing for
+the use of 250 bp reads with the ‘‘-r’’ option.  The DolJOral78 and DolZOral124 reads were assembled into 306,641 and 149,038 scaffolds greater than one kb in length, respectively.  Genes were predicted using the metagenome implementation of Prodigal version
+2. 6. 0 [62].  USEARCH version 7. 0. 1 [69] was used to compare protein sequences from all predicted ORFs against the UniRef 90 [49]
+and KEGG [44–46] databases, as well as an in-house database of predicted ORFs from candidate phyla genomes.  16S and 23S rRNA
+genes were predicted using in-house HMM-based rRNA gene identiﬁcation scripts [4] and tRNA genes were predicted using tRNAscan version 1. 23 [68]. 
+A bin is a set of scaffolds that share similar genomic features, and is typically representative of a genome.  Binning of scaffolds was
+performed using ggKbase, based on %GC content, read coverage, and inferred taxonomy of scaffolds by best-hit annotations of
+predicted proteins.  Bins were reﬁned on the basis of tetranucleotide frequency using emergent self-organizing maps (ESOM).  To
+do so, tetranucleotide frequency was calculated for all scaffolds greater than or equal to ﬁve kb in length over window sizes of
+ﬁve kb (as described in Dick Name [70]), and ESOMs were computed and visualized with the Databionics ESOM Tools software [53]. 
+Identiﬁcation of phage scaffolds
+To identify candidate phage sequences, we required that scaffolds have two or more gene annotations containing virus-speciﬁc keywords from the list: ‘‘capsid, phage, terminase, base plate, baseplate, prohead, virion, virus, viral, tape measure, tapemeasure neck,
+tail, head, bacteriophage, prophage, portal, DNA packaging, T4, p22, holin’’ (excepting annotations with following terms: ‘‘abortive,
+shock, forkhead, T7 exclusion, macrophage, hth-like transcriptional regulator, peptidase family t4, lamin a/c globular’’).  Candidate
+phage scaffolds were eliminated if any gene annotations contained prokaryote-speciﬁc terms from the list ‘‘tRNA synthetase,
+tRNA synthase, ribosomal protein, preprotein translocase, DNA gyrase subunit A. ’’ This yielded 322 and 708 candidate sequences
+for DolJOral78 and DolZOral124, respectively. 

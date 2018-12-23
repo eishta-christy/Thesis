@@ -1,0 +1,378 @@
+Origins and Speciﬁcation of the Drosophila WingGraphical AbstractDavid Requena, Jose Andres A´ lvarez,
+Hugo Gabilondo, Ryan Loker,
+Richard S.  Mann, Carlos Estella
+Correspondence
+rsm10@columbia. edu (R. S. M. ),
+cestella@cbm. csic. es (C. E. )
+In Brief
+By studying a cis-regulatory module that
+is speciﬁcally active in the embryonic
+dorsal (wing and haltere) primordia of
+Drosophila, Requena Name demonstrate
+that dorsal fates are derived from two
+separate groups of cells, one of which
+shares a lineage with the ventral
+primordia.  These data are consistent with
+a dual evolutionary origin of the wing. 
+Highlights
+d An enhancer that marks the initial wing primordia in
+Drosophila is deﬁned
+d The signals that initiate wing and leg development are distinct
+d Lineage experiments show that the wing comes from ventral
+and dorsal primordia
+d Insect wings may have evolved from dual ventral and dorsalRequena Name, 2017, Current Biology 27, 3826–3836
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 023
+Current BiologyOrigins and Speciﬁcation of the Drosophila Wing
+David Requena,1 Jose Andres A´ lvarez,2 Hugo Gabilondo,1 Ryan Loker,3 Richard S.  Mann,3,* and Carlos Estella1,4,*
+1Departamento de Biologı´a Molecular and Centro de Biologı´a Molecular Severo Ochoa, Consejo Superior de Investigaciones
+Cientı´ﬁcas-Universidad Auto´ noma de Madrid (CSIC-UAM), Nicola´ s Cabrera 1, 28049 Madrid, Spain
+2Departamento de Biologı´a and Centro de Biologı´a Molecular Severo Ochoa, Consejo Superior de Investigaciones Cientı´ﬁcas-Universidad
+Auto´ noma de Madrid (CSIC-UAM), Nicola´ s Cabrera 1, 28049 Madrid, Spain
+3Departments of Biochemistry and Molecular Biophysics and Systems Biology, Mortimer B.  Zuckerman Mind Brain Behavior Institute,
+Columbia University, 701 W.  168th St. , HHSC 1104, New York, NY 10032, USA
+4Lead Contact
+*Correspondence: rsm10@columbia. edu (R. S. M. ), cestella@cbm. csic. es (C. E. )
+https://doi. org/10. 1016/j. cub. 2017. 11. 023The insect wing is a key evolutionary innovation that
+was essential for insect diversiﬁcation.  Yet despite
+its importance, there is still debate about its evolutionary origins.  Two main hypotheses have been
+proposed: the paranotal hypothesis, which suggests
+that wings evolved as an extension of the dorsal
+thorax, and the gill-exite hypothesis, which proposes
+that wings were derived from a modiﬁcation of a
+pre-existing branch at the dorsal base (subcoxa) of
+the leg.  Here, we address this question by studying
+how wing fates are initially speciﬁed during
+Drosophila embryogenesis, by characterizing a cisregulatory module (CRM) from the snail (sna) gene,
+sna-DP (for dorsal primordia).  sna-DP speciﬁcally
+marks the early primordia for both the wing and haltere, collectively referred to as the DP.  We found that
+the inputs that activate sna-DP are distinct from
+those that activate Distalless, a marker for leg fates. 
+Further, in genetic backgrounds in which the leg
+primordia are absent, the DP are still partially speciﬁed.  However, lineage-tracing experiments demonstrate that cells from the early leg primordia
+contribute to both ventral and dorsal appendage
+fates.  Together, these results suggest that the wings
+of Drosophila have a dual developmental origin: two
+groups of cells, one ventral and one more dorsal, give
+rise to the mature wing.  We suggest that the dual
+developmental origins of the wing may be a molecularappendage, in which cells of the subcoxa of the leg
+coalesced with dorsal outgrowths to evolve a dorsal
+appendage with motor control. 
+the evolutionary history of
+remnant of
+INTRODUCTION
+It is estimated that nearly three-quarters of the species currently
+living on Earth are insects.  Although there have been several hypotheses to explain this vast diversity, one likely contributing factor was the acquisition of ﬂight due to the development of wings
+approximately 350 million years ago, long before any vertebrate
+acquired the ability to ﬂy [1, 2].  However, despite their importance to life on Earth, there is still debate about the evolutionary
+origins of insect wings [3].  One set of ideas, collectively termed
+the paranotal hypothesis, suggests that wings evolved as an
+extension from a part of the dorsal thorax called the thoracic
+tergum, or paranotal lobe [4, 5].  According to this hypothesis,
+this anatomical outgrowth initially gave insects the ability to
+glide, creating the opportunity for the evolution of wing anatomy
+and function.  However, the paranotal lobe was unlikely to have
+any musculature or neural innervation, raising signiﬁcant questions about how motor control of these dorsal outgrowths would
+have evolved.  An alternative hypothesis proposes that wings
+were derived from a modiﬁcation of a pre-existing branch at
+the dorsal base of the leg, a region referred to as the subcoxa
+[6–10].  In aquatic arthropods, this structure may have initially
+evolved as a gill, specializing in gas exchange, and subsequently
+modiﬁed to become a wing following terrestrialization of some
+crustacean lineages. 
+Two principal approaches have informed our current view of insect wing evolution.  One approach, which depends on careful examination of the fossil record to trace the origins of the wing, has
+provided support for both a paranotal lobe and a subcoxa origin
+[5–7, 11].  One limitation of this approach is that there is a large
+gap in the fossil record that spans the period of time when wings
+ﬁrst appeared.  An alternative approach relies on comparing the
+expression patterns of molecular markers of appendages in extant
+insects and crustaceans that may represent the early steps of
+wing evolution [3].  With this approach, for example, genes that
+are expressed in the developing wing of Drosophila melanogaster
+were also found to be expressed in the subcoxal gills of branched
+appendages in two different crustaceans, consistent with a subcoxal origin for the insect wing [8, 12].  Although compelling, these
+types of studies also have their limitations.  For one, the presence
+of similar markers in the ﬂy wing and non-wing structures such as
+the crustacean gill could represent examples of convergent,
+instead of divergent, evolution.  Second, many of the markers
+used in these studies are expressed in both leg and wing precursors, or at late stages of development, making them less deﬁnitive
+[13].  More recently, in two insects, wing markers were found to be
+expressed in two separate domains, corresponding to the positions of dorsal outgrowths and subcoxal branches, providing evidence for the idea that wings evolved from a fusion of these two
+initially distinct structures [3, 14, 15].  This dual-origin hypothesis
+3826 Current Biology 27, 3826–3836, December 18, 2017 ª 2017 Elsevier Ltd. 
+has also been supported by functional studies and recent fossil
+analysis [11, 16–18]. 
+A complementary approach that may help inform the origins of
+insect appendages are experiments that characterize how the
+wing and leg primordia are initially speciﬁed during development
+using cis-regulatory modules (CRMs) that are active in the
+appendage primordia.  Not only are these CRMs useful as
+markers, but they also can be used to genetically label and trace
+the progeny of these primordia.  For example, the characterization of an early CRM from the Distalless (Dll) gene in Drosophila,
+called Dll304, has already provided evidence for a subcoxal
+origin of the wing [19, 20].  Although Dll function is not required
+for the establishment of wing fates, Dll304 is active in a group
+of 30 ventral cells early in embryogenesis, and the progeny of
+these cells contribute to both the ventral (leg) and dorsal (wing
+and haltere) appendages [20, 21].  Slightly later in embryogenesis, a different Dll CRM, called DllLT, is active in a subset of
+the cells that previously expressed Dll304 [19–21].  Unlike
+Dll304, DllLT-expressing cells only give rise to part of the leg
+and do not contribute to dorsal appendages [21, 22].  In sum,
+these experiments reveal that Dll-expressing ventral cells in the
+early embryo contribute to both leg and wing fates, but soon
+thereafter, the only adult structures that Dll-expressing cells
+give rise to are legs (reviewed in [23]). 
+To the extent that developmental studies in extant organisms
+can be used to inform evolution, these ﬁndings are consistent
+with a shared evolutionary origin of legs and wings.  However,
+an important but currently missing test of this idea is to characterize CRMs that are speciﬁcally active in the dorsal (wing and
+haltere) primordia (DP).  Although several genes, including vestigial (vg), snail (sna), and escargot (esg), are well-known embryonic markers of the DP in Drosophila, no CRMs have yet been
+described that speciﬁcally label these cells [24–29].  Here, we
+describe the ﬁrst such CRM that is speciﬁcally active in both
+the wing and haltere primordia during Drosophila embryogenesis.  We use this CRM, derived from the sna gene, to analyze
+the signals and transcription factors that are required for the
+speciﬁcation of the DP.  We ﬁnd that the inputs that activate
+this CRM are distinct from those that activate Dll, suggesting
+that the DP are, at least in part, speciﬁed independently of the
+ventral (leg) primordia (VP).  Moreover, in genetic backgrounds
+in which the VP are absent or ablated, DP fates are still partially
+speciﬁed.  Together, these results demonstrate that the dorsal
+appendages of Drosophila have a dual developmental origin:
+although some DP cells share a lineage with the VP, much of
+the DP is independently derived from non-VP cells.  Based on
+these developmental data in Drosophila, we discuss the idea
+of a dual evolutionary origin of wings, in which cells of the subcoxa migrated and coalesced with dorsal outgrowths to evolve
+a dorsal appendage with motor control. 
+<Middle> RESULTS. 
+Identiﬁcation of the sna-DP CRM
+The formation of
+the wing and haltere primordia requires
+the function of sna and esg [27].  Although sna expression is
+restricted to the DP, esg is also expressed in the VP [24–27]
+(Figures 1B and 2A).  Therefore, we searched for CRMs of the
+sna gene speciﬁcally active in the DP. 
+Although multiple sna CRMs have been identiﬁed [30–32],
+none of them drive expression in the DP.  An unbiased scan
+of the locus identiﬁed a single fragment that had such activity;
+notably, this fragment overlaps with VT7914 from the Vienna
+Drosophila Resource Center (VDRC) that also shows activity
+in the DP (Figure 1A).  We named this CRM sna-DP and used
+it to drive lacZ reporter genes and compare its activity with
+Dll during embryonic development (Figure 1B).  sna-DP was ﬁrst
+detected at stage 12/13 in a few cells dorsal to Dll-expressing
+cells in the second and third thoracic segments (T2 and T3,
+respectively), and, by stage 14, the number of sna-DP cells in
+T2 and T3 increased to an average number of 20 and 14 cells,
+respectively.  The sna-DP reporter overlaps perfectly with Sna
+and Vg proteins (Figure S1).  Like sna, sna-DP is not active in
+third instar imaginal discs.  However, cell-lineage tracing experiments using a minimized version of sna-DP (sna-1. 7; discussed
+later) efﬁciently labeled the entire wing and haltere imaginal
+discs and a small number of proximal cells of all three leg discs
+in third instar larvae (Figures 1C and S2).  Thus, sna-DP marks
+DP cells that will give rise to the dorsal regions of the T2
+and T3 segments of the adult, including the wing and haltere
+appendages, respectively. 
+Partially Independent Origins of the DP and VP
+Because of the shared lineages for the ventral and dorsal
+appendage primordia [20, 21, 33], we investigated the relationship between these primordia using sna-DP as a marker.  First,
+we compared the spatial and temporal expression patterns
+between cells that had expressed Dll, using DllMD23-Gal4;
+UAS-GFP (Dll>GFP), and the sna-DP reporter (Figure 1E).  The
+perdurance of Gal4 and GFP allowed us to trace the cells that
+had activated, but no longer actively transcribe, Dll.  The initial
+activation of sna-DP at stage 12/13 was observed primarily in
+Dll>GFP cells, while at stage 14, approximately half of the snaDP-expressing cells were also labeled with Dll>GFP (Figures
+1E and 1F; Movie S1), consistent with Dll lineage-tracing experiments (Figures 1D and S2).  Although Dll-expressing cells can
+give rise to all regions of the third instar wing disc, individual
+wing discs are only partially labeled, and there is a bias for these
+cells to populate the ventral portion of the disc (Figures 1D
+and S2).  The partial labeling of the wing discs by DllMD23-Gal4
+contrasts with near-100% labeling of the leg imaginal discs,
+arguing that it is unlikely due to a low efﬁciency of the lineagetracing method.  Curiously, lineage tracing with the early Dll304
+CRM, which is only active early and transiently, reveals a bias
+for labeling the anterior compartment (Figure S2). 
+Although these lineage-tracing experiments demonstrate that
+the progeny of Dll-expressing cells of the VP contribute to dorsal
+structures, they do not address whether the DP requires a contribution from the VP.  We ﬁrst tested this by using Dll MD23-Gal4 to
+ablate the ventral progenitor cells by expressing the proapoptotic gene head involution defective (hid).  The leg and
+wing primordia were visualized with esg-lacZ (Figures 2A, 2B,
+and S1C).  As expected, no VP cells were observed in these
+embryos, as seen by the absence of ventral esg-lacZ expression. 
+In contrast, DP cells were still present, although the size of dorsal
+primordia was reduced by approximately 50% (Figure 2B). 
+Similar results were observed when the dose of
+the proapoptotic genes was increased (Figures 2C–2E). 
+Current Biology 27, 3826–3836, December 18, 2017 3827
+Figure 1.  Overview of the sna-DP Enhancer and Its Relationship to Dll Expression
+(A) The sna genomic region.  sna-DP CRM (green bar) is a 3. 3-kb fragment 3
+in the DP, and sna-1. 7 is deﬁned by the non-overlapping region of these two fragments. 
+(B) Embryonic time course of sna-DP activity (green) compared to Dll protein (red). 
+(C and D) Lineage-tracing results for sna-DP (C) and Dll (D).  (C) The progeny of sna-DP cells (green) label the entire wing and haltere imaginal discs and a small
+number of cells in the leg (asterisk).  (D) The progeny of Dll-expressing cells (green) contribute to the entire leg and to parts of the wing disc (see Figure S2). 
+(E) Time course of sna-DP activity (driving nuclear lacZ; green) compared to Dll>GFP (red).  Note that some cells derived from the VP (due to perdurance of GFP
+from Dll>GFP; red) overlap with sna-DP-expressing DP cells (green). 
+(F) An enlargement of stage 14 wing primordia. 
+W, wing primordia; H, haltere primordia; L, leg primordia.  See also Figures S1 and S2 and Movie S1. 
+to the sna transcription start site.  VT7914, but not VT7913 (both from VDRC), is activeWe further tested the independence of the DP by examining
+embryos mutant for Dll and the ventral selector genes buttonhead (btd) and Sp1 [23, 34–36].  Even in these triple-mutant
+embryos, sna-DP and vg were normally expressed (Figure 2G). 
+However, although Dll protein was not detected, we note that
+Dll MD23-Gal4 is still active in the triple mutant, suggesting that
+VP fates are still partially speciﬁed (Figure S2G). 
+Together, these results suggest that, in the absence of the VP
+or when the VP is severely compromised, DP fates are still speciﬁed, although the size is reduced. 
+Distinct Regulation of the DP and VP
+If the DP arise, in part, independently of the VP, we would expect
+them to have distinct genetic inputs.  However, before carrying
+out a detailed analysis, we used both gain- and loss-of-function
+manipulations to demonstrate that sna-DP is not a Sna-dependent autoregulatory element and that it is activated independently of vg, presumably by signals and other transcription
+factors present in these embryos at the correct time and position
+(Figure S3). 
+Dll expression in the VP is activated by Wingless (Wg) and
+restricted dorsally and ventrally by the Decapentaplegic (Dpp)
+and epidermal growth factor receptor (EGFR) pathways, respectively [20, 37–39].  We therefore compared how these three pathways inﬂuence the formation and size of both primordia, using
+sna-DP-lacZ and Dll expression as readouts.  In addition to
+3828 Current Biology 27, 3826–3836, December 18, 2017
+examining mutants, as described later, we manipulated these
+pathways in various ways using prd-Gal4, which is expressed
+throughout the T2, but not the T3, segment, thus allowing a comparison of prd-Gal4-expressing and non-expressing segments
+in the same embryo (Figure S3). Initially, wg is expressed in dorso-ventral stripes in the anterior
+compartment of each thoracic segment that are later interrupted due to repression by the T-box transcription factors encoded by the three Dorsocross (Doc) genes [40].  Repression of
+wg by Doc creates a Wg-free domain in the lateral ectoderm
+(Figures 3A–3C).  sna-DP activity is only observed after wg
+repression and within the Doc expression domain (Figures
+3D–3F).  Consistent with these expression patterns, ectopic
+activation of
+the Wg pathway by expressing an activated
+form of the transcriptional co-activator Armadillo (Arm*) results
+in smaller DP and an increase in the number of VP cells (Figures
+4C and 4O).  Conversely, downregulation of the Wg pathway
+using a dominant-negative version of the Wg transcriptional
+effector TCF (TCFDN) had no effect on sna-DP but completely
+abolished Dll expression (Figures 4B and 4O).  Moreover, in embryos homozygous for a deﬁciency that removes all three Doc
+genes, Df(3L)DocA, the DP are absent, and there is a dramatic
+expansion of
+the Dll-expressing VP (Figures 4D and 4O). 
+Ectopic expression of one of the Doc genes, Doc-2, eliminates
+the VP, while the number of sna-DP-positive cells remains
+Figure 2.  The DP Is Reduced when the VP Is Ablated
+(A) Thoracic view of esg-lacZ (green) and Dll>GFP (red) expression in WT stage 14 embryos.  The three legs and DP are labeled with arrows and arrowheads,
+respectively. 
+(B) Genetic ablation of the VP in Dll>hid embryos (red and arrows) reduced the size of the DP (arrowheads) and eliminates ventral expression of esg-lacZ (arrows). 
+(C) Thoracic view of sna-DP (green) and Dll>GFP (red) in WT stage 14 embryo. 
+(D) Ablation of the VP in Dll>rpr+hid embryos (red) reduced the size of the DP (green). 
+(E) Quantiﬁcation of the number in T2 of sna-DP (green bars) in WT and Dll>rpr+hid enbryos.  *p < 0. 05 with Student’s t test.  Error bars represent SEM. 
+(F) WT stage 14 embryo stained for sna-DP-lacZ (green), Vg (blue), and Dll (red). 
+(G) A stage 14 Df(btd,Sp1); Dll
+An asterisk in (F) and (G) labels a band of muscle cells that express sna-DP and Vg.  W, wing primordia; H, haltere primordia; L, leg primordia.  See also Figure S2. 
+embryo.  DP size is unaffected. unchanged (Figures 4E and 4O).  These data are consistent with
+the idea that Doc-mediated repression of wg is necessary for
+the formation of the DP and that wg is an essential activator
+of the VP [20, 39, 41]. The dorsal and ventral appendage primordia also have different
+responses to dpp, which is initially expressed as a dorsal spot
+within Dll-expressing cells and gradually expands dorsally along
+with sna-1. 7 activity (minimized version of sna-DP)
+(Figures
+3G–3I).  The expression of a constitutively active version of the
+Dpp receptor, thickveinsQD (tkvQD) almost doubles the size
+of the DP without affecting the size of the VP (Figures 4G
+and 4O).  Inhibition of the Dpp pathway through the expression
+of the Dpp pathway repressor Brinker (Brk) abolishes both snaDP and Dll expression (Figures 4F and 4O).  The effects of Dpp
+manipulations on sna-DP are consistent with previous ﬁndings
+that dpp is required for Doc expression [40, 41]. Activation of the EGFR pathway, as visualized using an antibody
+to phospho-MAP kinase (pMAPK), is initially detected in Dll-expressing cells at stage 10/11, and by stage 14, it is restricted
+to a subset of the VP and is mostly absent from the DP (Figures
+3J–3L).  Consistent with previous results [38], in EGFR mutant
+embryos, the size of the DP increases while the size of the VP
+is reduced (Figures 4H and 4O).  Conversely, expression of a
+constitutively active version of the EGFR receptor (EGFR. ltop)
+reduces the size of the DP and increases the size of the VP (Figures 4I and 4O). 
+Epistasis Experiments
+The experiments described earlier suggest that the activation of
+the Doc genes by Dpp results in the repression of wg in the lateral
+ectoderm, thus generating a permissive domain where sna-DP
+can be activated.  To further investigate the roles of Dpp, Doc,
+and Wg, we carried out epistasis experiments to more precisely
+decipher the logic of sna-DP activation. 
+Initially, we tested whether the activation of the Dpp pathway,
+which increases the size of the DP, would increase their size
+further when the Wg pathway was downregulated.  In prd>tkvQD,
+TCFDN embryos, the size of the DP increased compared to that
+of wild-type (WT) (compare Figure 4J with 4A) but was similar
+to the size observed in prd>tkvQD embryos (compare Figure 4J
+with 4G and 4O). 
+We next asked whether the Doc genes play a role in sna-DP
+activation besides its indirect role through the repression of wg. 
+Current Biology 27, 3826–3836, December 18, 2017 3829
+Figure 3.  Relationship between sna-DP, Dll,
+Doc, and Signaling Pathways
+All panels show thoracic views of WT embryos
+stained for the indicated markers.  See also Figure S3. 
+(A–C) At stage 11 (A), Wg is expressed in uninterrupted dorso-ventral stripes.  Later, sna-DP is
+activated in a lateral domain where the Wg stripe is
+interrupted (arrow).  (B) Stage 13.  (C) Stage 14. 
+(D–F) sna-DP is activated within the Doc-2 domain
+(arrow).  (D) Stage 11.  (E) Stage 13.  (F) Stage 14. 
+(G–I) dpp is initially expressed as a dorsal spot
+within Dll-expressing cells (arrows).  (G) Stage 11. 
+At (H) stage 13 and (I) stage 14; sna-DP is activated
+in dpp-lacZ-expressing cells. 
+(J–L) pMAPK is detected within Dll-expressing
+cells at (J) stage 10 (arrows).  sna-DP is active in
+cells with low or no pMAPK staining.  (K) Stage 13. 
+(L) Stage 14. 
+the Hox proteins control
+Hox Regulation of sna-DP
+Although the Wg, Dpp, and EGFR
+pathways are deployed similarly in all
+thoracic and abdominal segments of
+the embryo, the DP are only formed in
+the T2 (wing) and T3 (haltere) segments
+(Figure 1B).  Previous results suggestthe
+segmental expression of Dll and vg
+[19, 29], and, for Dll, direct Hox inputs
+have been deﬁned thatexpression to the three thoracic segments [19, 42, 43].  To investigate the
+relationship between the Hox genes
+and the DP, we ﬁrst compared the
+expression of the Hox genes Scr, Antp, Ubx, and abd-A with
+sna-DP (Figures 5A–5D).  At the stage when sna-DP is fully activated in T2 and T3 (stage 14), Scr is restricted to the ﬁrst
+thoracic segment, T1 (Figure 5A).  Antp protein is observed in
+all three thoracic segments, where it overlaps with sna-DP at
+stage 13 (Figure S4).  However, by stage 14, Antp is not
+observed in sna-DP-positive cells (Figure 5B). 
+In contrast,
+Ubx overlaps with sna-DP in the haltere primordia in T3 but
+not with the wing primordia in T2 (Figure 5C).  Abd-A is
+restricted to the abdominal segments, with higher levels in
+the posterior compartment (Figure 5D). 
+restrict
+As the regulation of the VP gene Dll is compartment speciﬁc
+[43], we examined the relationship between sna-DP and the posterior-compartment gene engrailed (en) in WT and Hox mutant
+embryos.  In Scr mutant embryos, ectopic DP are observed in
+the T1 segment, in both anterior and posterior compartments
+(Figure 5F).  In Antp mutants, sna-DP is expressed in both compartments, but the number of cells is reduced in T2 (Figures
+5G and 5Q).  In Ubx mutant embryos, sna-DP is derepressed in
+the anterior compartment of the ﬁrst abdominal segment (A1)
+(Figures 5H and 5Q).  Consistent with this observation,abd-A mutant embryos, sna-DP is derepressed in 4 posterior-compartment cells in abdominal segments (Figure 5I), and
+in Ubx abd-A double-mutant embryos, sna-DP is derepressed
+First, we tried to rescue the lack of sna-DP activation in tkva12
+null mutant embryos by expressing Doc-2 with prd-Gal4. 
+Doc-2 was not sufﬁcient to induce sna-DP in the absence of
+tkv, suggesting a Doc-independent role for the Dpp pathway
+in activating sna-DP (Figure 4K).  Similarly, sna-DP expression
+was not rescued in Df(3L)DocA embryos in which the the Wg
+pathway was downregulated by the expression of TCFDN, suggesting that Doc plays a positive role in addition to the repression of wg (Figure 4L).  In a third experiment, we examined
+Df(3L)DocA embryos in which the Dpp pathway was also upregulated.  In these embryos, we observed a small number of snaDP-positive cells dorsal to the Dll domain (Figure 4M).  This
+limited rescue could be due to ectopic expression of wg typical
+of Df(3L)DocA mutant embryos [40].  To test for this, we also
+downregulated the Wg pathway in these embryos (Df(3L)
+DocA; prd>tkvQD, TCFDN).  In these embryos, activation of the
+Dpp pathway was sufﬁcient to increase the number of snaDP-expressing cells (Figure 4N). 
+Together, these epistasis experiments indicate that sna-DP
+is activated by the Dpp pathway by two parallel mechanisms:
+one is via Dpp’s activation of Doc (which represses wg), and
+one is independent of Doc (Figure 7).  We further conclude
+that the primary role for Doc in the activation of sna-DP is to
+repress wg. 
+3830 Current Biology 27, 3826–3836, December 18, 2017
+Figure 4. 

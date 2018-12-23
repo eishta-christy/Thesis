@@ -1,0 +1,506 @@
+
+Reward anticipation (‘wanting’) is crucial for human adaptation to
+the environment (Bubic, von Cramon, & Schubotz, 2010).  The ability to
+predict future motivational events permits us to organize our behavior
+proactively to cope with the impact of those events.  For instance, gain
+anticipation can promote approach behavior whereas loss anticipation
+can promote avoidance behavior (Knutson & Greer, 2008).  On the other
+hand, dysfunction in reward anticipation has been identiﬁed as a critical contributor to psychopathologies such as schizophrenia (Gard,
+Kring, Gard, Horan, & Green, 2007), depression (Treadway & Zald,
+2011), and addictive behaviors (Robinson & Berridge, 2008). taskincentive
+A well-validated task designed to evaluate reward anticipation is the
+monetary
+(Knutson, Westdorp,
+Kaiser, & Hommer, 2000), which has been extensively used across
+healthy and clinical populations in conjunction with functional magnetic resonance imaging (fMRI; Lutz & Widmer, 2014).  In a typical MID
+task trial, participants initially observe a cue signaling trial information
+(i. e. , gain, loss, or neutral), followed by a delayed period during which
+the participants prepare a motor response for an imperative visual
+target.  Following the motor response, another interval is provided
+striatum, anterior
+during which the participants wait for the outcome of their performance on that trial.  In healthy individuals, reward anticipation mainly
+implicates the mesocorticolimbic dopaminergic pathway,
+includinginsula, and anterior cingulate cortex
+(Knutson & Greer, 2008).  However, despite its excellent spatial resolution, fMRI cannot provide the necessary temporal resolution to fully
+characterize the temporal dynamics of reward anticipation in the
+human brain.  Speciﬁcally, it remains largely unexplored whether those
+sub-stages (e. g. , cue evaluation, motor preparation, and feedback anticipation) coarsely labelled reward anticipation are dissociable on the
+neural level. 
+Electroencephalography (EEG) with its superior temporal resolution
+provides a narration of distinct psychological processes as they unfold
+during reward anticipation millisecond-by-millisecond.  Three anticipatory slow waves are associated with reward anticipation.  The ﬁrst
+slow negative-going wave, labelled the contingent negative variation
+(CNV), is typically observed between a warning stimulus (cue) and an
+imperative stimulus (target) and is maximal at central sites (Walter,
+Cooper, Aldridge, McCallum, & Winter, 1964).  The CNV is believed to
+reﬂect neural activity within the thalamo-cortico-striatal network and
+has been linked with anticipatory attention, motivation, as well as
+⁎ Corresponding author at: Department of Psychology, Dalian Medical University, No.  9 West Section, Lvshun South Road, Dalian 116044, China. 
+E-mail address: zhengya@dmu. edu. cn (Y.  Zheng). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 011
+Received 6 January 2017; Received in revised form 13 July 2017; Accepted 17 July 2017
+Available online 21 July 2017
+0301-0511/ 
+Y.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+motor preparation (Brunia, van Boxtel, & Böcker, 2012; Fan Name,
+2007).  Analogous to the CNV, a broad slow negative-going wave during
+the waiting period of a motivationally relevant stimulus (e. g. , the
+period between the target and feedback in the MID task), called the
+stimulus-preceding negativity (SPN), is manifest as a plateau-shaped
+distribution at
+frontal areas with a right hemisphere dominance
+(Brunia, Hackley, van Boxtel, Kotani, & Ohgami, 2011).  The most likely
+neural generator of the SPN, given its frontotemporal focus, is the right
+anterior insula (Bocker, Brunia, & van den Berg-Lenssen, 1994; Brunia,
+de Jong, van den Berg-Lenssen, & Paans, 2000).  In contrast to the CNV,
+the SPN reﬂects anticipatory processing more purely due to the exclusion of motor preparation in the waiting period (van Boxtel & Böcker,
+2004).  Finally, incentive cues during the cue-evaluation stage often
+elicit a P3 component (i. e. , the cue-P3), a positive-going wave peaking
+between 300 and 600 ms at parietal sites (Broyd Name, 2012; Goldstein
+Name, 2006).  The cue-P3 is generally associated with attentional resources for stimulus evaluation based on motivational signiﬁcance
+(Nieuwenhuis, Aston-Jones, & Cohen, 2005). 
+Previous research has thus identiﬁed three ERP correlates of reward
+anticipation: the cue-P3 during the cue-evaluation stage, the CNV
+during the motor-preparation stage, and the SPN during the feedbackanticipation stage.  However, it remains to be determined whether these
+anticipatory ERP components reﬂect a common neural process or a set
+of distinct neural processes.  Supporting the former hypothesis, all these
+ERP components have a close association with the mesocorticolimbic
+dopaminergic pathway.  Speciﬁcally, previous research has demonstrated that the dopaminergic system plays a critical role in the generation of the P3 (Pogarell Name, 2011; Takeshita & Ogura, 1994) and
+that P3 amplitude variation is correlated with brain activity in the
+ventral striatum (Pfabigan Name, 2014).  Similarly, CNV amplitude is
+inﬂuenced by dopaminergic manipulation (Linssen Name, 2011) and is
+associated with ventral striatal activity (Plichta Name, 2013; but see
+Pfabigan Name, 2014).  Finally, recent research has shown that the SPN
+is moderated by genetic variation in dopamine (Foti & Hajcak, 2012)
+and that SPN amplitude is reduced in individuals with Parkinson’s
+disease, a disorder with well-known deterioration of dopamine pathway
+(Mattox, Valle-Inclan, & Hackley, 2006). 
+However, despite the fact that all these anticipatory ERP components are associated with reward anticipation (Broyd Name, 2012;
+Goldstein Name, 2006; Gruber & Otten, 2010; Kotani, Hiraku,
+Suda, & Aihara, 2001; Krebs, Boehler, Appelbaum, & Woldorﬀ, 2013;
+Schevernels, Krebs, Santens, Woldorﬀ, & Boehler, 2014; van den Berg,
+Krebs, Lorist, & Woldorﬀ, 2014), recent evidence suggests that they are
+dissociable in terms of reward valence (i. e. , gain anticipation vs.  loss
+anticipation).  On the one hand, the CNV appears to be insensitive to
+reward valence such that it is comparable for gain and loss anticipation
+(Novak & Foti, 2015; Pfabigan Name, 2014).  On the other hand, both the
+cue-P3 and SPN seem to be modulated by reward valence.  The cue-P3 is
+observed with larger amplitude after gain cues relative to loss cues
+(Pfabigan Name, 2014; Santesso Name, 2012; Zheng Name, 2017; but see
+Schmitt, Ferdinand, & Kray, 2015).  Similarly, the SPN appears to be
+more sensitive in gain context as compared to loss context (Ohgami
+Name, 2006; Zheng, Li, Wang, Wu, & Liu, 2015). 
+To address this issue, we ﬁrst investigated whether the anticipatory
+ERP components (i. e. , the cue-P3, CNV, and SPN) elicited in an MID
+task were modulated by incentive valence (gain vs.  loss anticipation)
+commonly or selectively.  If these ERP components are driven by
+common neural mechanisms, then they should be modulated by incentive valence similarly.  Moreover, given its close relationship with
+the mesocorticolimbic dopaminergic pathway, these anticipatory ERP
+components should also relate to other measures of the dompaminergic
+pathway. 
+approach motivation
+(Salamone & Correa, 2012).  Here, we then examined the relationship
+between the ERP correlates of gain anticipation and a novel behavioral
+index of approach motivation as measured by the eﬀort expenditure for
+Schwartzman,Buckholtz,
+Treadway,(EEfRT;suchindexLambert, & Zald, 2009) to further determine whether these ERP components were driven by common or distinct neural mechanisms.  If they
+reﬂect similar neural substrates, the gain-anticipation ERP components
+should be associated with the behavioral index of approach motivation
+in a similar way.  Otherwise, diﬀerent patterns should be observed. 
+As a human analog of rodent paradigms designed to evaluate the
+approach motivational functioning of the dopamine system (Salamone,
+Cousins, McCullough, Carriero, & Berkowitz, 1994), the EEfRT requires
+participants to make a choice between a low-eﬀort low-reward task and
+a high-eﬀort high-reward task during a series of trials.  Participants’
+willingness to expend eﬀort (i. e. , approach motivation) increases following d-amphetamine administration (Wardle, Treadway, Mayo,
+Zald, & de Wit, 2011), is related to individual diﬀerences in dopamine
+receptor sensitivity (Treadway Name, 2012), and left frontal cortical
+activity (Hughes, Yates, Morton, & Smillie, 2015), as well as anticipatory pleasure trait (Geaney, Treadway, & Smillie, 2015).  Moreover,
+these associations appear to be speciﬁc to trials with low probability of
+reward receipt, indicating that dopamine mitigates perceived eﬀort
+costs when pursuing large but unlikely rewards. 
+In the current study, participants performed both an MID task and
+an EEfRT.  During the MID task, the participants were presented with
+incentive cues indicating that they would either win or lose monetary
+(i. e. , the cue-evaluation stage), then waited for a variable preparatory
+period (i. e. , the motor-preparation stage) and responded to a rapidly
+presented target to either won or avoided losing money, then waited for
+another delay period (i. e. , the feedback-anticipation stage) to see the
+outcome of their performance.  During the EEfRT, the participants were
+presented with a series of choices in which they could expend either
+minimal eﬀort to obtain a small reward or greater eﬀort to obtain a
+larger reward with varying probability levels of reward receipt.  In light
+of the ﬁndings reviewed above, we hypothesized that the cue-P3 and
+SPN, rather than the CNV, would be sensitive to gain anticipation. 
+Importantly, higher gain cue-P3 and SPN amplitudes would be associated with a greater willingness to expend eﬀort (i. e. , a greater proportion of hard-task choices in the EEfRT) for rewards especially when
+reward probability was low.  No clear predictions were made for the
+CNV because of its various functional signiﬁcances.  If the CNV reﬂects
+gain anticipation, then it would also be associated with approach motivation as the cue-P3 and SPN. 
+<Middle> Materials and methods. 
+2. 1.  Participants
+Fifty-six right-handed undergraduates (30 females and 26 males,
+17–23 years of age) participated in this study.  All had normal or corrected-to-normal visual acuity and reported no history of psychiatric or
+neurological disorders.  The participants received a base payment of Ұ30
+(roughly equal to $4. 5) for participation, as well as a bonus money
+based on their performance in the two tasks (see details below).  All the
+participants provided written, informed consent.  This study was approved by the Dalian Medical University Institutional Review Board. 
+2. 2.  Procedures
+The participants were seated in a dimly lit and sound-attenuating
+chamber and performed both the MID task and the EEfRT.  The EEfRT
+was always performed after the MID task.  EEG data were collected only
+during the MID task. 
+2. 3.  ERP task—the MID task
+In order to elicit anticipatory brain activity, the participants performed a modiﬁed version of the MID task (Knutson Name, 2000),
+during which they could maximize rewards and minimize losses by
+responding as quickly as possible to a visual target.  On each trialY.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+Fig.  1.  Trial structures of the MID task (A) and the EEfRT (B).  ITI = intertrial interval. 
+(Fig.  1A), the participants were ﬁrst presented with one of three cues
+for 1000 ms signaling potential monetary gain (a plus sign), monetary
+loss (a minus sign), or no money at stake (an empty circle).  Following a
+jittered interstimulus interval (ISI; 2000–2500 ms), a white square was
+presented as the target stimulus, during which the participants were
+instructed to respond by pressing a button as fast as possible.  Initially,
+the duration of the target was set to 250 ms and then was adjusted
+between 100 and 400 ms based on individual reaction times for each
+incentive condition.  Target duration was decreased by 25 ms following
+a successful response (i. e. , a response that occurred while the target was
+still on the screen) and was increased by 25 ms following an unsuccessful response (i. e. , a response that occurred either before or after
+target presentation).  This staircase procedure resulted in an approximately 50% success rate for all three conditions (gain: 50. 05% ± 0. 92;
+neutral: 50. 11% ± 0. 89; loss: 50. 01% ± 1. 20).  Following a second
+ISI (2000 ms), the participants were shown performance feedback for
+1000 ms.  The successful response was signaled by a white tick and the
+unsuccessful response by a white cross.  On gain trials, the tick feedback
+indicated a winning of Ұ1 whereas the cross feedback indicated a
+wining of Ұ0.  On loss trials, the tick feedback indicated a loss of Ұ0
+whereas the cross feedback indicated a loss of Ұ1.  On neutral trials,
+both tick and cross feedbacks resulted in Ұ0.  Each trial ended with an
+intertrial interval varying from 1200 to 1500 ms. 
+The task consisted of 240 trials divided into four blocks (60 trials
+each), and a rest break was provided between blocks.  The participants
+were endowed with an initial bankroll of Ұ30 and were told that they
+should respond as fast as possible to maximize their ﬁnal bankroll.  Prior
+to the formal experiment, the participants played a practice version of
+the task with 18 trials for familiarization. 
+After blocks 2 and 4, the participants rated their aﬀective responses
+during the anticipation and receipt of outcomes under all three incentive conditions.  The aﬀective responses were collected via a 5-pointscale in terms of valence (1 = negative and 5 = positive) and arousal
+(1 = low intensity and 5 = high intensity). 
+The EEG was recorded continuously using an electrode cap with 64
+Ag/AgCI electrodes mounted according to the extended International
+10/20 system.  The signals were recorded using a left mastoid reference
+electrode and re-referenced oﬄine to the mean of the activity at the left
+and right mastoids.  The horizontal electrooculogram (EOG) was recorded as the voltage between two electrodes placed at the external
+canthi of each eye and was used to detect horizontal eye movements. 
+The vertical EOG was recorded as the voltage between two electrodes
+placed above and below the left eye to measure vertical eye movements
+and blinks.  The EEG and EOG were ampliﬁed using a Neuroscan
+SynAmp2 ampliﬁer with a low-pass of 100 Hz in DC acquisition mode,
+and were digitized at a sample rate of 500 Hz.  Electrode impedance was
+kept under 5 KΩ. 
+The EEG data were preprocessed and analyzed in MATLAB 2014a
+using EEGLAB toolbox (Delorme & Makeig, 2004).  The EEG data were
+ﬁltered with a low-pass of 30 Hz (roll-oﬀ 6 dB/octave).  For the cue-P3
+and CNV, the signals were epoched from −4000 to 3000 ms relative to
+cue onset with the activity from −200 to 0 ms serving as the baseline. 
+For the SPN, the signal was epoched from −4000 to 3000 ms relative to
+feedback onset with the activity from −1900 to −1700 ms serving as
+the baseline.  All epoched data were screened manually for artifacts
+(e. g. , spikes, drifts, and non-biological signals) and then were subjected(runica;
+Delorme & Makeig, 2004; Jung Name, 2001).  Individual components
+were inspected and blink components were removed.  To remove additional artifacts, we utilized a semi-automated procedure (Foti,
+Weinberg, Dien, & Hajcak, 2011), with artifacts deﬁned as a step more
+than 50 μV between sample points, a voltage diﬀerence exceeding
+200 μV within a trial, or a maximum voltage diﬀerence less than 0. 5 μV
+within 100-ms intervals.  Finally, the epoched data were averaged
+independent
+componentinformax
+analysis
+Y.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+Fig.  2.  Grand average ERP waveforms from a parietal ROI
+during the cue-evaluation stage, a central ROI during the
+motor-preparation stage, and a right frontotemporal ROI
+during the feedback-anticipation stage, where the shaded
+areas depict the time windows during which the cue-P3, CNV,
+and SPN were scored, and scalp topographies for the cue-P3
+(400–550 ms), CNV (2800–3000 ms), and SPN (−200 toacross trials for each condition.  For ﬁgures, the SPN and CNV data were
+ﬁltered with a low-pass cutoﬀ at 7 Hz, as implemented using ERPLAB
+toolbox (Lopez-Calderon & Luck, 2014). 
+ERP components were quantiﬁed using a region-of-interest (ROI)
+approach (Fig.  2).  The cue-P3 was measured as the mean activity from
+400 to 550 ms post cue onset over a parietal ROI (P1, Pz, P2, POz) and
+the CNV from 2800 to 3000 ms post cue onset over central ROI (C1, Cz,
+C2, FCz).  Given its multiple sources throughout the brain, the SPN was
+measured as the mean activity from −200 to 0 ms before feedback
+onset over frontotemporal (FT: F7/8, FT7/8, T7/8), laterofrontocentral
+(LFC: F5/6, FC5/6, C5/6), frontocentral (FC: F3/4, FC3/4, C3/4), and
+mediofrontocentral (MFC: F1/2, FC1/2, C1/2) ROIs; these ROIs have
+been used in previous
+(Ohgami, Kotani, Arai,
+SPN studies
+Kiryu, & Inoue, 2014; Ohgami Name, 2006). 
+2. 4.  Behavioral task—the EEfRT
+The EEfRT is a multi-trial game during which the participants were
+asked to choose between an easy task and a hard task to obtain varying
+monetary rewards (for more detailed descriptions see Treadway Name,
+2009).  The easy task required 30 button presses with the dominant
+index ﬁnger within 7 s and the participants were eligible to win Ұ1
+upon each trial success.  In contrast, the hard task required 100 button
+presses with the pinky ﬁnger within 21 s and the participants were
+eligible to win varying amounts of monetary rewards (Ұ1. 24–Ұ4. 21)
+upon each trial success.  Since the participants were not guaranteed to
+win the reward for each trial success, one of three levels of reward
+probability (12%, 50%, and 88%) along with varying reward magnitude was provided during the choice period.  Probability levels were
+applied for both the easy task and the hard task.  The proportions of
+each probability level were equal across the experiment.  The participants received win or no win feedback once the chosen task was
+completed.  The complexity of variables made it unlikely to develop a
+strategy for optimal performance, ensuring that the participants’ decisions reﬂected their willingness to expend eﬀort for an expected reward. Y.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+On each trial (Fig.  1B), a ﬁxation cross was presented for 1000 ms,
+followed by a 5000-ms choice period in which the participants were
+presented with information regarding reward magnitude and reward
+probability for the easy versus hard task.  Upon their choice, a ready
+screen was presented for 1000 ms and the participants then completed
+the chosen task.  Following task completion, the participants were
+shown a feedback screen informing the outcome of their performance. 
+If the chosen task was completed successfully, then a second screen
+appeared for 2000 ms to indicate whether or not they won the money
+for that trial.  The participants had 20 min to play as many trials as they
+could, and the minimum number (47) of trials completed by all the
+participants within this time limit was included in following analyses. 
+3.  Results
+3. 1.  The MID results
+3. 1. 1.  Behavioral data
+Response times (RTs) were subjected to a one-way ANOVA with
+incentive valence (gain, neutral, loss) as a within-subjects factor and
+revealed a signiﬁcant main eﬀect, F(2, 110) = 6. 59, p < . 0001,2 = . 38.  Pairwise comparisons revealed that RTs were signiﬁcantly
+faster on both gain (224. 79 ms ± 31. 23, p < . 0001) and loss
+(229. 32 ms ± 30. 60,(242. 80 ms ± 35. 48) trials.  In addition, RTs on gain trials were faster
+than those on loss trials (p = . 013).  These results thus indicate a reward-related speeding in the MID task. 
+p < . 0001)
+comparedto
+3. 1. 2.  Aﬀective rating data
+Valence and arousal ratings for anticipation and outcome were
+averaged separately across the ﬁrst and second sessions, which are
+shown in Table 1. 
+2 = . 43,
+indicating that
+the rating scores
+Valence and arousal ratings for anticipation were analyzed using an
+ANOVA with incentive valence as a within-subjects factor.  For valence,
+there was a signiﬁcant main eﬀect, F(2, 110) = 41. 38, p < . 0001,ranked as gain >
+neutral > loss (ps < . 0001).  For arousal, there was also a signiﬁcant
+main eﬀect, F(2, 110) = 8. 60, p < . 001, ηp
+2 = . 14.  Gain anticipation
+was rated as more arousing than loss (p = . 015) and neutral (p = . 001)
+anticipation, with no diﬀerences between loss and neutral anticipation. 
+Valence and arousal ratings for outcomes were analyzed using an
+ANOVA with incentive valence and subsequent outcome (hit, miss) as
+within-subjects factors.  For valence, there were signiﬁcant main eﬀects
+of incentive valence, F(2, 110) = 22. 91, p < . 0001, ηp
+2 = . 29, and
+outcome, F(2, 110) = 201. 49, p < . 0001, ηp
+2 = . 79, as well as a sigincentive valence and outcome, F(2, 110)
+niﬁcant interaction of
+= 45. 24, p < . 0001, ηp
+2 = . 45.  Pairwise comparisons indicated that
+when the participants succeeded, their valence-rating scores ranked as
+gain > loss > neutral (ps < . 0001).  When failed,
+their valencerating scores
+(ps < . 05).  For
+arousal, there were signiﬁcant main eﬀects of incentive valence, F(2,
+loss < gain < neutral
+ranked asAﬀective rating data (M ± SD) averaged across the ﬁrst and second ratings. NeutralAnticipationArousal
+Successful outcomeArousal
+3. 52 ± 0. 67
+3. 50 ± 0. 87
+4. 34 ± 0. 59
+3. 93 ± 0. 79
+Unsuccessful outcomeArousal
+2. 21 ± 0. 65
+3. 23 ± 0. 78
+3. 06 ± 0. 32
+3. 10 ± 0. 68
+3. 39 ± 0. 58
+3. 22 ± 0. 79
+2. 73 ± 0. 48
+3. 10 ± 0. 69
+2. 58 ± 0. 57
+3. 23 ± 0. 69
+3. 86 ± 0. 81
+3. 61 ± 0. 81
+1. 99 ± 0. 72
+3. 44 ± 0. 93110) = 13. 82, p < . 0001, ηp
+2 = . 20, and outcome, F(2, 110) = 49. 40,
+p < . 0001, ηp
+2 = . 47, as well as a signiﬁcant interaction of incentive
+valence and outcome, F(2, 110) = 14. 24, p < . 0001, ηp
+2 = . 21. 
+Pairwise comparisons indicated that when the participants succeeded,gain > loss > neutral
+(ps < . 005).  When failed, they rated loss trials as more arousing than
+neutral trials (p = . 017). 
+arousal-ratingscores3. 1. 3.  Electrophysiological data
+Fig.  2 illustrates the grand average ERP waveforms elicited during
+the cue-evaluation, motor-preparation, and feedback-anticipation
+stages, as well as scalp voltage maps for the cue-P3, CNV, and SPN. 
+Consistent with previous studies, the cue-P3 component was observed
+as a parietally maximal positivity during the cue-evaluation stage.  The
+CNV was evident as a centrally maximal negativity during the motorpreparation stage and increased as the target arrived.  Similarly, during
+the feedback-anticipation stage, the SPN appeared as a relative negativity after motor response and reached its maximum before feedback
+onset.  The topographic maps of the SPN indicated an occipital distribution and a bilaterally frontal distribution with a right hemisphere
+dominance. 
+The cue-P3 and CNV data were analyzed separately using an
+ANOVA with incentive valence as a within-subjects factor.  There was a
+signiﬁcant main eﬀect of incentive valence, F(2, 110) = 4. 77, p = . 011,2 = . 08.  Pairwise comparisons revealed that the cue-P3 was more
+positive for gain trials (3. 96 μV) compared to both loss (3. 24 μV,
+p = . 047) and neutral (3. 13 μV, p = . 026) trials, with no diﬀerences
+between loss and neutral trials (p > . 9).  Similarly, CNV amplitude
+diﬀered as a function of incentive valence, F(2, 110) = 7. 87, p = . 001,2 = . 13.  Post hoc comparisons indicated that the CNV was more negative for both gain (−13. 71 μV, p = . 035) and loss (−14. 23 μV,
+p = . 001) trials than for neutral trials (−12. 13 μV), with no diﬀerences
+between gain and loss trials (p = . 880). 
+The SPN data were entered into an ANOVA with incentive valence,
+hemisphere (left, right), and site (FT, LFC, FC, MFC) as within-subjects
+factors.  There was a signiﬁcant main eﬀect of site, F(3, 165) = 25. 29,
+p < . 0001, ηp
+2 = . 32, indicating that SPN amplitude was enhanced at
+more lateral electrode locations (i. e. , FT and LFC) and reduced at more
+locations (i. e. , FC and MFC).  Although the main eﬀect ofhemisphere was not signiﬁcant, F(3, 165) = 2. 06, p = . 157, ηp
+2 = . 04,
+a signiﬁcant site-by-hemisphere interaction was observed, F(3, 165)
+= 6. 59, p = . 001, ηp
+2 = . 11.  Pairwise comparisons revealed that the
+right-hemisphere dominant eﬀect of the SPN arose at the lateral (i. e. , FT
+and LFC, ps < . 05) but not medial (i. e. , FC and MFC, ps > . 1) locations.  More importantly, we observed a signiﬁcant main eﬀect of incentive valence, F(2, 110) = 4. 20, p = . 019, ηp
+2 = . 07.  Post hoc comparisons indicated that SPN amplitude was greater for gain (−1. 24 μV)
+compared to neutral (−0. 41 μV, p = . 034) trials.  Moreover, SPN amplitude for loss trials (−0. 87 μV) was comparable with that for both
+gain (p = . 535) and neutral (p = . 276) trials.  No other eﬀects reached
+signiﬁcance. 
+3. 2.  The EEfRT results—preliminary analysis
+Overall, proportions of hard-task choices diﬀered as a function of
+probability levels, F(1, 35) = 39. 29, p < . 0001, ηp
+2 = . 53, with higher
+probability trials associated with more hard-task choices.  Moreover, the
+proportion of hard-task choices for medium probability trials was correlated with the proportion of hard-task choices for both low (r = . 73,
+p < . 0001) and high (r = . 60, p < . 0001) probability trials.  High and
+low probability trials were uncorrelated (r = . 25, p < . 066). 
+In line with previous research (Geaney Name, 2015; Treadway Name,
+2009), eﬀects of experimental variables on the likelihood of choosing
+the hard-task were modeled using generalized estimating equations
+(GEE).  A preliminary GEE model (Model 1) examined the validity of the
+reward magnitude
+EEfRT, with reward probability (categorical),
+Y.  Zhang et al. GEE models of hard-task choice predictors in the EEfRT. 
+PredictorsTrial Number
+Probability
+Medium Probabilitya
+High Probabilitya
+MagnitudeModel 2
+Gain cue-P3Gain cue-P3 × Probability×MediumModel 4χ2SEUpper8. 68 −0. 022. 349. 720. 370. 340. 01 −0. 02 −0. 01
+0. 24 −0. 110. 110. 190. 241. 840. 97. 008. 016. 0010. 080. 00. 0461. 550. 650. 120. 05 −0. 040. 05 −0. 060. 170. 14. 212. 420
+Gain cue-P3 × Magnitude0. 030. 00. 029Gain cue-P3 × EVGain CNVGain CNV × Probability×MediumModel 8
+Gain CNV × MagnitudeGain CNV × EV
+Model 10
+Gain SPN
+Model 110. 04
+0. 02 −0. 01. 077
+0. 23 −0. 01
+0. 02 −0. 06. 6300. 111. 78 −0. 040. 00
+0. 03 −0. 05
+0. 03 −0. 06
+0. 03 −0. 110. 06. 407. 9770. 33 −0. 01
+0. 01 −0. 02. 569
+0. 85 −0. 01
+0. 01 −0. 04. 358
+4. 75 −0. 09
+0. 04 −0. 17 −0. 01Gain SPN × Probability×Medium11. 15
+5. 06 −0. 13
+7. 88 −0. 13
+0. 17 −0. 02
+0. 06 −0. 24 −0. 02
+0. 05 −0. 22 −0. 04
+0. 06 −0. 13. 011. 005Model 12
+Gain SPN × Magnitude
+Model 13
+Gain SPN × EV
+6. 05 −0. 04
+0. 01 −0. 07 −0. 012. 97 −0. 04
+0. 03 −0. 09. 085
+Note: All models included reward probability (categorical), reward magnitude, expected
+value (EV), and trial number as within-subjects factors.  Signiﬁcant eﬀects were highlighted in bold. 
+a Parameter estimates of medium probability and high probability were computed
+relative to low probability, the parameter for which was therefore redundant. 
+Biological Psychology 128 (2017) 89–97
+(continuous), expected value (probability × magnitude, continuous),
+and trial number (continuous) as within-subjects factors.  Consistent
+with previous ﬁndings, all
+these variables were signiﬁcantly independent predictors of hard-task choices (Table 2), indicating that the
+participants were willing to expend greater eﬀort for potential rewards
+with larger magnitude, higher likelihood of receipt, or greater expected
+value.  Moreover, the signiﬁcant eﬀect of trial number suggests that the
+participants were unwilling to make hard-task choices as the experiment proceeded.  These ﬁndings thus demonstrate a good validity of
+experimental manipulation in our sample. 
+3. 3.  Interactions between gain ERPs and eﬀort expenditure for rewards
+To test the interactions between gain ERPs and eﬀort-based motivation, a series of following GEE models that expanded on Model 1
+were performed with gain cue-P3 amplitude at parietal ROI (continuous, Models 2–5), gain CNV amplitude at central ROI (continuous,
+Models 6–9), and gain SPN amplitude at right FT ROI (continuous,
+Models 10–13) as predictors (Table 2).  Amplitudes of each ERP component were maximal over these ROIs. 
+For the gain cue-P3, the main eﬀect was signiﬁcant, indicating that
+this component was associated with increased willingness to choose the
+hard task.  The interaction between the gain cue-P3 and probability was
+signiﬁcant.  Speciﬁcally, the gain cue-P3 positively predicted the likelihood of choosing the hard-task when the probability of reward receipt
+was medium (Fig.  3).  The signiﬁcant interaction between the gain cueP3 and reward magnitude revealed that reward magnitude inﬂuenced
+the association between the gain cue-P3 and eﬀort-based choices for
+rewards.  For the gain CNV, no signiﬁcant eﬀects were found, indicating
+that this component had no relationship with hard-task choices.  For the
+gain SPN, its amplitude was associated with increased willingness to
+choose the hard-task, as revealed by a signiﬁcant main eﬀect.  The interaction between the gain SPN and probability was also signiﬁcant,
+indicating that the gain SPN predicted the willingness to exert more
+eﬀort for larger rewards when the probability of reward delivery was
+low and medium (Fig.  3).  Moreover, the interaction between the gain
+SPN and reward magnitude was signiﬁcant, suggesting that reward
+magnitude impacted the relationship between the gain SPN and the
+likelihood of choosing the hard-task.  Finally, we examined the speciﬁcity of gain anticipation by performing another series of GEE models
+with the ERP components in response to loss and neutral trials.  As expected, no signiﬁcant main or interaction eﬀects were obtained
+(ps > . 05), supporting that the association between anticipatory ERPs
+and eﬀort-based approach motivation was restricted to gain trials. 
+<Conclusion> Discussion. 
+Combining an ERP task and a behavioral task, the current study
+aimed to dissect reward anticipation on the electrophysiological level. 
+Consistent with previous research, we observed a cue-P3 during the
+cue-evaluation stage, a CNV during the motor-preparation stage, and an
+Fig.  3.  Scatter plots of ERP (the gain cue-P3, CNV, SPN) amplitudes and proportion of hard-task choices as a function of reward probability. Y.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+SPN during the feedback-anticipation stage.  Extending these ﬁndings,
+we found dissociations between the three EPR components.  First, incentive valence aﬀected the cue-P3 and SPN but not the CNV.  Second,
+both the cue-P3 and SPN, instead of the CNV, for gain anticipation
+selectively predicted an eﬀort-based approach motivation.  These ﬁndings suggest that reward anticipation can be parsed into three stages,
+that is, the cue evaluation, motor preparation, and feedback anticipation, each with distinct functional signiﬁcance. 
+Although previous ERP research has identiﬁed three ERP correlates
+of reward anticipation (i. e. , the cue-P3, CNV, and SPN), it remains
+ambiguous that these ERP components are modulated by incentive
+valence (i. e. , gain vs.  loss anticipation) in an integrated way or a dissociated way (Novak & Foti, 2015; Ohgami Name, 2006; Pfabigan Name,
+2014; Santesso Name, 2012; Zheng Name, 2015; , 2017).  This is partly
+attributable to the fact that these ERP components have been examined
+for incentive valence separately with diﬀerent paradigms.  Our study is
+the ﬁrst one to examine the eﬀects of incentive valence on the three
+ERP components within a single task.  We observed that the three anticipatory ERP components were modulated by incentive valence differently.  First, the cue-P3 was enhanced for gain anticipation compared
+to both loss and neutral anticipation, which is consistent with previous
+studies (Pfabigan Name, 2014; Santesso Name, 2012; Zheng Name, 2017). 
+The greatest sensitivity to gain anticipation for the cue-P3 may reﬂect
+gain as the natural target, as this component is potentiated by taskrelevance (Duncan-Johnson & Donchin, 1977).  That is, gain cues relative to loss and neutral cues were subjectively evaluated as more taskrelevant in such a monetary incentive task, which is consistent with our
+behavioral ﬁnding of a reward-related speeding.  It should be noted,
+however, that the cue-P3 ﬁnding is at variance with a recent study
+observing comparable cue-P3s in response to gain and loss cues
+(Schmitt Name, 2015).  This discrepancy possibly reﬂects methodological
+diﬀerences between the two studies in that our task is a speeded response time task with a ∼50% success rate whereas the task used in the
+previous study is a working memory task with a much higher success
+rate (> 90%). 
+Second, the CNV exhibited greater amplitude for both gain and loss
+anticipation relative to neutral anticipation, indicating that this component mainly encodes incentive salience whereby the participants
+were engaged in cued target-anticipation and motor-preparation (Fan
+Name, 2007; Leuthold & Jentzsch, 2001).  This speculation is supported
+by post hoc correlational analyses between CNV amplitude and RTs. 
+Speciﬁcally, greater CNV amplitude was associated with faster RTs inr = . 45,
+p < . 

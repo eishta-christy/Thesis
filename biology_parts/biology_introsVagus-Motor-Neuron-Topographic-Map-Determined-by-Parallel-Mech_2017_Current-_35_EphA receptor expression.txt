@@ -1,0 +1,79 @@
+Article
+Vagus Motor Neuron Topographic Map Determined
+by Parallel Mechanisms of hox5 Expression and Time
+of Axon Initiation
+Highlights
+d Time of axon formation is differentially regulated independent
+of neuron birthdateGabrielle R.  Barsh, Adam J.  Isabella,
+Cecilia B.  Moens
+d hox5 genes are expressed in posterior, but not anterior,
+vagus motor neurons
+Correspondence
+cmoens@fredhutch. org
+d hox5 directs vagus topographic map formation independent
+of time of axon outgrowth
+d Time of axon outgrowth directs vagus topographic map
+formation independent of hox5
+In Brief
+The development of topographic maps
+classically relies upon spatial patterning
+mechanisms.  Barsh Name show that in
+zebraﬁsh vagus motor neurons, map
+formation is determined by a hox5dependent spatial mechanism that acts in
+parallel with a novel temporal mechanism
+dependent upon the time of axon
+outgrowth. 
+Barsh Name, 2017, Current Biology 27, 3812–3825
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 022
+Current BiologyVagus Motor Neuron Topographic Map
+Determined by Parallel Mechanisms
+of hox5 Expression and Time of Axon Initiation
+Gabrielle R.  Barsh,1,2,3 Adam J.  Isabella,1 and Cecilia B.  Moens1,2,4,*
+1Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA
+2Molecular and Cellular Biology, University of Washington, Seattle, WA 98195, USA
+3Medical Scientist Training Program, University of Washington, Seattle, WA 98195, USA
+4Lead Contact
+*Correspondence: cmoens@fredhutch. org
+https://doi. org/10. 1016/j. cub. 2017. 11. 022Many networks throughout the nervous system are
+organized into topographic maps, where the positions
+of neuron cell bodies in the projecting ﬁeld correspond
+with the positions of their axons in the target ﬁeld.  Previous studies of topographic map development show
+evidence for spatial patterning mechanisms, in which
+molecular determinants expressed across the projecting and target ﬁelds are matched directly in a point-topoint mapping process.  Here, we describe a novel
+temporal mechanism of topographic map formation
+that depends on spatially regulated differences in the
+timing of axon outgrowth and functions in parallel
+with spatial point-to-point mapping mechanisms.  We
+focus on the vagus motor neurons, which are topographically arranged in both mammals and ﬁsh.  We
+show that cell position along the anterior-posterior
+axis of hindbrain rhombomere 8 determines expression of hox5 genes, which are expressed in posterior,
+but not anterior, vagus motor neurons.  Using live imaging and transplantation in zebraﬁsh embryos, we
+additionally reveal that axon initiation is delayed in
+posterior vagus motor neurons independent of neuron
+birth time.  We show that hox5 expression directs
+topographic mapping without affecting time of axon
+outgrowth and that time of axon outgrowth directs
+topographic mapping without affecting hox5 expression.  The vagus motor neuron topographic map is
+therefore determined by two mechanisms that act in
+parallel: a hox5-dependent spatial mechanism akin
+to classic mechanisms of topographic map formation
+and a novel axon outgrowth-dependent temporal
+mechanism in which time of axon formation is spatially
+regulated to direct axon targeting. 
+INTRODUCTION
+Topographic maps are a common organizational motif in neurobiology and are crucial for the ability of animals to accurately
+perceive and respond to their external environment.  These
+maps are characterized by an arrangement of neurons in which
+neighbor-neighbor relationships are preserved between cell
+bodies and axon targets, creating representations of the outside
+world inside the brain [1].  The best-studied topographic maps
+form through a spatial patterning process, where precise patterns of gene expression in neurons and their target areas direct
+axons to the proper location in a point-to-point matching system
+[2, 3].  For example, in the retinotopic map, gradients of EphA receptor expression in the retina and EphrinA ligand expression in
+the tectum are matched such that high and low EphA-expressing
+neurons innervate opposite regions of the tectum while neighbor
+neurons expressing similar EphA levels innervate the same
+region [4–9].  Similarly, in the spinal musculotopic map, dorsal
+and ventral limb-innervating neurons occupy spatially distinct locations and reach their respective targets due to the presence of
+repulsive ligands expressed by the inappropriate targets [10–14]. 

@@ -1,0 +1,114 @@
+
+Is Friday ‘right’ and Monday ‘left’? Some individuals experience vivid
+spatial forms for non-numerical sequences such as the weekdays, and most
+would agree on a left-to-right arrangement, at least in Western societies
+reading from left-to-right.  In fact, psychological experiments show that the
+cognitive representation of sequence includes a spatial component: In
+natural sequences such as numbers, months and weekdays (Dehaene,
+Bossini, & Giraux, 1993; Gevers, Reynvoet, & Fias, 2003; Gevers,
+Reynvoet, & Fias, 2004), but also in just rehearsed artiﬁcial sequences of
+random numbers or objects (van Dijck & Fias, 2011), the primary/ﬁnal
+items are mentally arranged to the left/right by healthy participants and
+corresponding left-hand and right-hand responses are relatively faster in
+simple classiﬁcation tasks.  Seeing these resembling behavioral patterns, a
+concise theory could assume that the same neurocognitive process underlies the tendency to project all enumerable objects mentally onto space. 
+The SNARC eﬀect (spatial-numerical associations of response codes)
+oﬀers a reliable and insightful testbed for exploring spatial associations
+and the eﬀect was originally observed in judgments of numerical symbols. 
+Numerous studies replicated its central ﬁnding of relatively faster left-side
+than right-side responding to smaller numbers, and vice versa for larger
+numbers (Dehaene Name, 1993; see Wood, Willmes, Nuerk, & Fischer,
+2008 for a meta-analysis).  Originally, the SNARC eﬀect was understood as
+a long-term spatial representation of numerical magnitude resembling a
+mental number line (Pinel, Piazza, Bihan, & Dehaene, 2004; Restle, 1970). 
+However, this classical account would assume that a distinct spatial
+⁎ Corresponding author at: Department of Psychiatry & Psychotherapy, Neurophysiology & Interventional Neuropsychiatry, University of Tuebingen, Calwerstr.  14, 72762 Tübingen,
+Germany. 
+E-mail address: philipp. schroeder@uni-tuebingen. de (P. A.  Schroeder). 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 008
+Received 9 February 2017; Received in revised form 12 July 2017; Accepted 12 July 2017
+Available online 18 July 2017
+0301-0511/ 
+P. A.  Schroeder Name
+Biological Psychology 128 (2017) 39–49
+representation would produce SNARC eﬀects with non-numerical sequences such as letters or weekdays. 
+representations
+in the SNARC eﬀect
+Notably, although SNARC and SNARC-like eﬀects were documented
+for both numerical and non-numerical sequences (Dehaene Name, 1993;
+Fias, Brysbaert, Geypens, & D’Ydewalle, 1996; Gevers Name, 2004), sequences such as the weekdays expose a clear ordinal structure with additional cyclic component (Zamarian, Egger, & Delazer, 2007) whereas the
+number sequence includes mixed ordinal and cardinal magnitude features. 
+For instance, the single-digit ‘2’ could refer to the second item in a row
+(ordinality), but the same digit ‘2’ could also imply twice the amount of
+something (cardinality).  In contrast, ‘Tuesday’ only refers to the second
+day of the week and never implies the summed-up amount of two days.  A
+conceptual controversy among numerical cognition researchers regards
+therefore the distinction between number magnitude and sequential order
+information (e. g. , Fitousi, 2010) and their respective roles in forming(e. g. , Nathan, Shaki,
+Salti, & Algom, 2009).  A potentially unifying account was recently promoted by experimentally disentangling the cardinal and ordinal properties
+of number: In a delayed working memory (WM) paradigm, participants
+were asked to maintain randomized number sequences (e. g. , 4-1-6-8-3)
+and performed a SNARC task on the memorized numbers in a delay
+period.  In this experiment (and in several follow-up studies), it turned out
+that spatial-numerical associations were based on the sequential order and
+not on the semantic magnitude information of the numbers (van Dijck,
+Abrahamse, Acar, Ketels, & Fias, 2014; van Dijck & Fias, 2011).  This
+ﬁnding led to the WM account of the SNARC eﬀect: Here, numbers are
+thought to elicit spontaneous adaptations of a general cognitive process to
+arrange the present sequence with a spatial layout at the level of WM to
+temporarily built an eﬀective (spatial) mental representation (Abrahamse,
+van Dijck, & Fias, 2016).  The important contribution of verbal WM to the
+SNARC eﬀect was highlighted even before in diﬀerent studies that showed
+reversals of SNARC eﬀects by verbal labels positioned at physically incompatible locations (Gevers, Verguts, Reynvoet, Caessens, & Fias, 2006;
+Gevers Name, 2010).  Moreover, compatibility eﬀects were observed between the parity concept and spatial responding in the MARC eﬀect
+(Berch, Foley, Hill, & Ryan, 1999; Iversen, Nuerk, Jäger, & Willmes, 2006;
+Iversen, Nuerk, & Willmes, 2004; Nuerk,
+Iversen, & Willmes, 2004;
+Schroeder & Pﬁster, 2015).  The assumption of the MARC eﬀect is based on
+the principle of markedness: Linguistically, there is a default member in
+opposite pairs which is deﬁned by semantic, distributional, or formal
+characteristics.  If a classiﬁcation involves stimulus and response features
+that share their markedness status, this can lead to faster performance than
+when one feature is marked and the other is not.  This behavior can also
+account for the standard numerical SNARC eﬀect because response features and verbal magnitude categorization share the marked members
+(small-left) or unmarked linguistic members (large-right) in compatible
+trials, which usually yield faster responses than incompatible trials.  In less
+detail, the verbally mediated categorical correspondence principle is also
+compatible with the proposal of polarity correspondence (Proctor & Cho,
+2006) and the involvement of verbal circuits for magnitude processing
+(Dehaene, Piazza, Pinel, & Cohen, 2003). 
+Regarding the underlying functional neuroanatomy, the uniﬁed
+theory also invites shifting the focus from the parietal regions bolstering
+numerical representations and operations (Cohen Kadosh & Walsh,
+2009; Dehaene Name, 2003; Piazza, Pinel, Le Bihan, & Dehaene, 2007)
+to prefrontal cortex regions and their contributions to the processing of
+sequential order (Marshuetz, Smith, Jonides, DeGutis, & Chenevert,
+2000; Shimamura, Janowsky, & Squire, 1990), most likely in conjunction with distributed WM systems (Baddeley, 2000; D’Esposito & Postle,
+2015; Hurlstone, Hitch, & Baddeley, 2014).  Furthermore, previous research identiﬁed especially frontoparietal networks for abstract quantity representations in non-human primates, possibly along a hierarchical gradient (Nieder, 2016; Tudusciuc & Nieder, 2009).  Prefrontal
+activations were also often found in early neuroimaging studies of
+number processing; however, they were often interpreted as subserving
+only or predominantly non-numerical processes and were thus not (orless) considered in neurofunctional models (e. g. , Dehaene Name, 2003). 
+Disruption of the frontoparietal number circuits in human participants
+with transcranial magnetic stimulation over right frontal eye ﬁeld and
+inferior frontal gyrus, but not over parietal regions, reduced spatialnumerical associations (Rusconi, Dervinis, Verbruggen, & Chambers,
+2013).  Furthermore, functional and structural connectivities between
+neuroanatomically distinct frontal and parietal areas corroborate verbal
+and non-verbal processing of numerical magnitude (Klein Name, 2016). 
+By administering transcranial direct current stimulation (tDCS) to the
+left prefrontal cortex, we recently demonstrated polarity-dependent modulations of SNARC eﬀects in a sham-controlled setting (Schroeder, Pﬁster,
+Kunde, Nuerk, & Plewnia, 2016).  Originally, this tDCS conﬁguration was
+motivated by the possibility to modulate WM processes with cathodal tDCS
+(e. g. , Wolkenstein, Zeiller, Kanske, & Plewnia, 2014; Zaehle, Sandmann,
+Thorne, Jäncke, & Herrmann, 2011), and a recent publication demonstrated
+the selectivity of left-hemispheric tDCS on a verbal letter n-back WM tasks
+and right-hemispheric tDCS on a visuospatial n-back task (Ruf,
+Fallgatter, & Plewnia, 2017).  Similar modulations of number processing by
+prefrontal tDCS were also observed in number bisection and clock drawing
+tasks (Arshad Name, 2016).  Transcranial brain stimulation with tDCS directs
+weak currents in the range of 1–2 mA to targeted brain regions and its
+eﬀects are best deﬁned by the current polarity, which produces predominant excitation underneath the ‘anodal’ electrode and inhibition underneath the ‘cathodal’ electrode (Nitsche & Paulus, 2000).  The eﬀects of
+tDCS are thought
+to depend on the current network activity
+(Fertonani & Miniussi, 2016), as neural structures are not entirely blocked,
+but resting membrane potentials are shifted and thus ﬁring thresholds are
+reduced (anodal tDCS) or increased (cathodal tDCS). 

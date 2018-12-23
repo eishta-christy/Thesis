@@ -1,0 +1,29 @@
+
+Multinational entities (MNEs) face tax incentives to shift taxable income from high-tax jurisdictions to low-tax
+jurisdictions by strategically valuing intercompany transactions.  To mitigate tax-motivated transfer prices for goods,
+services, intellectual property, and debt, tax authorities require that transfer prices be “arm’s length,” or comparable to
+prices charged between independent enterprises (Organisation for Economic Cooperation and Development (OECD), 2010a). 
+Because arm’s length contractual prices are generally unobservable, MNEs often benchmark transfer prices by identifying a
+set of observable, economically comparable, and independent companies that use similar accounting standards to compare
+profit margins (PWC, 2006).  Specifically, taxpayers calculate the observable range of book profit rates reported by
+comparable firms and demonstrate that affiliate taxable profits are within this benchmark range (McKinley and Owsley,
+2013).  Adoption across jurisdictions of a common set of accounting standards, such as International Financial Reporting
+Standards (IFRS), expands the set of potential benchmark firms and could allow MNEs more flexibility to support taxadvantaged transfer prices.  However, tax authorities could use a larger set of benchmarks to enforce tighter comparability
+standards, resulting in narrower profit ranges. 
+In this paper, I examine tax-motivated income shifting across jurisdictions following affiliate adoption of a common set of
+accounting standards for unconsolidated financial reporting.  Unconsolidated financial reporting provides separate entity
+accounts for each affiliate of a MNE group.  In contrast to the 2005 mandated use of IFRS for consolidated financial reporting
+in the European Union (EU), countries varied in mandating or permitting IFRS for unconsolidated financial reporting.  As of
+2014, 14 of the 27 EU member states require IFRS for unconsolidated financial reporting for certain types of firms, nine
+countries allow IFRS for certain firms, and four countries do not allow IFRS.  This significant variation in unconsolidated IFRS
+reporting rules by country, year and entity type across the EU makes the EU a powerful setting to address whether unifying
+GAAP at the affiliate level increases MNE flexibility when selecting comparable companies to use in benchmarking transfer
+prices.  My study contributes to the literature by exploiting institutional details of intercompany transfer pricing to
+investigate a tax consequence of countries permitting or requiring IFRS for unconsolidated financial reporting.  I consider
+how an accounting change interacts with tax incentives to affect managerial behavior, thereby addressing an important new
+intersection between financial accounting and tax planning. 
+All EU member countries follow guidance published by the OECD for substantiating intercompany transfer prices. 1 These
+Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations state that,
+for the purposes of
+benchmarking intercompany prices, an “important aspect of comparability is accounting consistency” (OECD, 2010a, p. 
+72). 

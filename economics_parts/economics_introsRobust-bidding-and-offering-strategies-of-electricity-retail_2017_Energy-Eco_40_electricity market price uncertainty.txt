@@ -1,0 +1,52 @@
+
+In order to supply end-user customers and determine optimum selling price for expected proﬁt maximization, uncertainty modeling of
+market price and demand should be done by retailer (Growe-Kuska
+Name, 2003).  The retailer can determine the selling price based on
+ﬁxed price, time-of-use price or real-time price.  Finally, the retailer
+should prepare the curves for day-ahead market to purchase (sell)
+power from (to) the power market.  It should be noted that retailer
+can use the power market, bilateral contracts, self-dispatchable distributed generation units (DGs) and renewable energy sources (PV systems
+& wind turbines) to supply demand of customers.  But, sometimes it is
+possible that demand of customers is low.  Therefore, surplus energy
+from renewable energy sources and DG units can be sold to power market by retailer.  Therefore, in addition to determining the optimal bidding curves, optimal offering curves of retailer are obtained based on
+proposed robust optimization approach in the proposed paper. 
+1. 1.  Literature review. 
+The researches about determination of retail price by retailer are
+generally classiﬁed into three time periods containing long-term, midterm and short-term planning.  The review of related researches is categorized based on objective function, type of selling price determination,
+solution methodology and uncertainty modeling. 
+In long-term planning, Ref.  (Nojavan Name (2017d) minimizes total
+cost without pricing, uncertainty modeling, demand response program
+(DRP) and smart grid technology and maximization of expected proﬁt
+considering uncertainty modeling using scenario-based stochastic
+model is provided in Ref.  Ahmadi Name (2013) without pricing. 
+It should be mentioned that used ROA in Khojasteh and Jadid (2015)
+and Nojavan and Aalami (2015) is related to mid-term planning of
+retailer in which only the bidding curve has been obtained without pricing while the proposed ROA is used in this paper in short-term planning
+of retailer to obtain the bidding and offering curves for the power
+market under ﬁxed pricing (FP), time-of-use pricing (TOU) and realtime pricing (RTP). 
+Furthermore, short-term planning of retailer is reviewed in Hatami
+Name (2009), Nojavan Name (2015b), 2017c, Charwand Name (2015),
+Mahmoudi-Kohan Name (2010a), Hajati Name (2011), and Fleten and
+Pettersen (2005).  These researches are organized similar to mid-term
+planning.  The objective functions of short-term planning are profit
+maximization (Hatami Name, 2009.  Nojavan Name, 2015b, 2017c. 
+Mahmoudi-Kohan Name, 2010a.  Hajati Name, 2011.  Fleten and Pettersen,
+2005) or costminimization (Charwand Name, 2015.  Mahmoudi-Kohan
+Name, 2010a.  Nojavan Name, 2017c).  Unlike mid-term planning, realtime
+pricing (Hajati Name, 2011.  Nojavan Name, 2017c) as well as fixed
+pricing (Hatami Name, 2009.  Mahmoudi-Kohan Name, 2010a.  Fleten
+and Pettersen, 2005) and time-of-use pricing (Nojavan Name, 2015b)
+are used as different types of selling price in short-term planning. 
+Also, Stackelberg game (Nojavan Name, 2017c), genetic algorithm
+(Charwand Name, 2015) or GAMS (Hatami Name, 2009.  Nojavan Name,
+2015b.  Mahmoudi-Kohan Name, 2010a.  Hajati Name, 2011.  Fleten and
+Pettersen, 2005) are used to solve the problem.  Furthermore, in
+Nojavan Name (2015b), Charwand Name (2015), and Hajati Name
+(2011) the uncertainty modeling is not considered.  Also, scenario
+based method and IGDT are used as uncertainty modeling approaches
+in Hatami Name (2009), Fleten and Pettersen (2005), Nojavan Name
+(2017c) and Mahmoudi-Kohan Name (2010a), respectively. 
+1. 2.  Aims, scope, procedure and contributions. 
+In this paper, the electricity market price uncertainty implies that
+the final profit of the retailer is unknown.  Therefore, input parameters
+uncertainty modeling is necessary. 

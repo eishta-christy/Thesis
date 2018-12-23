@@ -1,0 +1,364 @@
+
+1. Introduction
+
+The human startle response is a reﬂexive contraction of the skeletal
+and facial muscles in response to a sudden, intense stimulus and is re-
+garded as a defensive rather than an orienting response (Braﬀ, 2010).
+The strength of the human eye blink reﬂex is assessed as a sub-
+component of the whole body startle reﬂex using electromyography
+(EMG) of the orbicularis oculi muscles. PPI of the startle reﬂex is the
+phenomenon that the startle magnitude as a result of a startle-eliciting
+stimulus (or “pulse”, e.g. a sound of approximately 118 dB) is decreased
+whenever a less intense and non-startling stimulus (or “prepulse”, e.g. a
+sound of approximately 85 dB) is presented just before the intense sti-
+mulus. PPI can, among others, be modulated by the interval that se-
+parates the prepulse and pulse stimuli, with the maximum inhibition
+usually occurring between 100 and 120 ms (Graham & Murray, 1977;
+Stitt, Hoﬀman, & DeVido, 1980). Hence, it is regarded a useful tool to
+investigate information processing, more speciﬁcally, a measure of
+sensorimotor gating because the eye-blink reﬂex is based on a muscle
+contraction (Braﬀ & Geyer, 1990; Braﬀ, 1993).
+
+For schizophrenia patients, there is ample evidence that PPI is re-
+duced compared to healthy individuals when using unimodal para-
+digms (Braﬀ et al., 1978; Graham, 1975; see Braﬀ, Geyer, & Swerdlow,
+2001; Braﬀ, 2010; Takahashi et al., 2011 for reviews).
+
+Previous studies have shown that PPI also occurs with other than
+acoustic stimuli, particularly stimuli from the tactile and nociceptive
+modality have been studied, both in healthy control subjects
+(Blumenthal, Burnett, & Swerdlow, 2001; Kumari, Antonova, & Geyer,
+2008) and schizophrenia patients (Bolino et al., 1994; Kumari et al.,
+2003) by using either electrical stimulation or airpuﬀs. There is also
+evidence that PPI can be induced by using cross-modal paradigms in
+healthy individuals from studies using acoustic prepulses and tactile
+pulses (Hoﬀman, Cohen, & Stitt, 1981; Flaten, Firan, & Blumenthal,
+2016; Sanes & Ison, 1979; Stitt et al., 1980), studies using tactile pre-
+pulses and acoustic pulses (Blumenthal & Gescheider, 1987;
+Blumenthal & Tolomeo, 1989; Elden & Flaten, 2003; Hill & Blumenthal,
+2005; Perlstein, Simons, & Graham, 2001) and studies using visual
+prepulses and electrocutaneous (Rossi et al., 1995) or acoustic (Oranje,
+Geyer, Bocker, Kenemans, & Verbaten, 2006) pulses. Typically, the ef-
+ﬁciency of those cross-modal pairings in eliciting PPI was lower com-
+pared to unimodal conditions. Yet, up to now there is only one cross-
+modal study in schizophrenia patients: Braﬀ, Grillon, and Geyer (1992)
+reported reduced PPI in schizophrenia patients compared to healthy
+controls with acoustic prepulses and either tactile (airpuﬀs) or acoustic
+pulse stimuli.
+
+For stimulus processing, it is known that processing times diﬀer
+between sensory modalities: For example, it is known that the overall
+processing time of acoustic stimuli is shorter than that of visual stimuli.
+This is due to faster transduction times in the ear and a shorter distance
+from the ear to the auditory cortex (King, 2005). Processing times of
+electrocutaneous,
+i.e. nociceptive, stimuli are also longer than of
+acoustic stimuli (Flaten et al., 2016).
+
+In the current study we investigated the stimulation eﬃciency of an
+electrocutaneous prepulse combined with an acoustic startle-eliciting
+pulse in healthy controls as well as in patients with schizophrenia. We
+expected to ﬁnd signiﬁcantly lower PPI in patients compared to controls
+as this was found with both unimodal and cross-modal paradigms be-
+fore (see Braﬀ et al., 2001 for a review). We also reasoned that a cross-
+modal pairing of stimuli should result in a lower PPI for both patients
+and controls as electrocutaneous prepulses have proven to be less ef-
+fective in evoking PPI compared to acoustic ones in unimodal para-
+digms (Flaten et al., 2016).
+
+This study was part of a larger project investigating somatosensory
+(electrocutaneous stimuli) P50 suppression in healthy individuals and schizophrenia patients.
+
+<Middle> Methods.
+2.1. Subjects.
+The study was approved by the Committee for Biomedical Research
+Ethics, Copenhagen, taking into account the ethical principles stated in
+the Declaration of Helsinki (Amendment of Washington, 2002). After
+written and oral information had been given, written informed consent
+was obtained from all subjects before enrolment in the study. To reduce
+variance we included only male participants as it is described that
+women have lower levels of PPI than males in both healthy people
+(Swerdlow et al., 1993) and schizophrenia patients
+(Kumari, Aasen, & Sharma, 2004). Additionally, women’s PPI levels are aﬀected
+by the menstrual cycle (Swerdlow, Hartman, & Auerbach, 1997).
+Twenty-four healthy male volunteers (mean age: 25.67, SD = 4.90)
+were recruited through an advertisement on the internet, all from the
+Copenhagen area. Absence of any psychiatric disorder as well as alcohol
+or drug abuse was ensured by the use of Schedule for Clinical
+Assessment in Neuropsychiatry, version 2.1 (SCAN, Wing et al., 1990).
+Moreover, the healthy volunteers did not have a ﬁrst-degree relative
+with a DSM-IV diagnosis and none of them had ever received psycho-
+pharmacological medication, nor had they participated in any electro-
+physiological experiment before.
+
+Twenty-three schizophrenia patients (mean age: 35.91, SD = 9.49)
+were recruited either by advertisement in the community mental health
+centre, or were referred to us by their practitioner. Psychopathology
+was assessed with the Positive and Negative Syndrome Scale (PANSS;
+Kay, Fiszbein, & Opler, 1987), and the diagnosis was conﬁrmed with the
+SCAN. Fulﬁlled DSM-IV criteria for substance dependence was an ex-
+clusion criterion. Seventeen patients received antipsychotic treatment
+at the time of participation: one with ﬁrst-generation antipsychotics,
+three with clozapine, eleven with other second-generation anti-
+psychotics, and two with a combination of ﬁrst- and second-generation
+antipsychotics. Six patients were free of any medication, deﬁned as
+having received no antipsychotics in the last three months preceding
+study participation. Twelve patients and ﬁve healthy controls were
+smokers ranging from 5 to 25 cigarettes a day. PANSS scores of one
+patient were missing. Thus, PANSS scores of 22 patients are reported.
+Details regarding healthy control participants and both patient
+groups are summarized in Table 1.
+
+2.2. Experimental design and tasks
+
+
+Prior to the test session a urine sample of all participants was
+screened for cannabis, opiates, cocaine, and amphetamines
+(Syva®RapidTest d.a.u®4). In order to minimize potential eﬀects of
+caﬀeine and/or nicotine, all subjects were asked to refrain from
+drinking beverages that contained caﬀeine prior to the assessments on a
+test day, and from smoking an hour before meeting at the laboratory.
+Subjects were seated comfortably in a sound insulated room
+(40 dB), situated adjacent to the control room. They were instructed to
+sit still and stay awake. The paradigm was presented via Presentation®
+software (Neurobehavioral Systems®, Albany, CA, USA; soundcard:
+Creative soundblaster®5.1, 2008 Creative Technology Ltd, Singapore).
+The electrocutaneous stimuli were presented by an electrical stimulator
+(Digitimer®, model DS7A, Hertfordshire, UK). Acoustic stimuli were
+presented binaurally through stereo insert earphones (Eartone® ABR,
+1996–2008 Interacoustics A/S, Denmark, C and H Distributors Inc.,
+USA).
+
+In our bimodal PPI paradigm we used a short (5 ms) weak electro-
+cutaneous stimulus applied over the median nerve of the left forearm as
+prepulse. The intensity was set at 80% of the electric current that was
+needed to activate the subject’s thenar reﬂex. As such, the electric sti-
+mulation could be felt but was not painful according to participants’
+reports. The intensities ranged from 2 to 8.4 mA, with a mean of 4.9 mA
+(SD = 1.6) for both patients and healthy controls. The startle-eliciting
+stimulus consisted of a sound (white noise) with an intensity of 118 dB
+and a duration of 20 ms, instant rise and fall.
+
+The assessment of PPI started with three minutes of acclimation to a
+background noise (70 dB white noise), which was presented con-
+tinuously during the paradigm. The actual experiment consisted of one
+block with 24 pseudo-randomized (not more than two trials of the same
+type succeeding each other) trials, superimposed on the background
+noise: 12 pulse alone trials (pa, trials in which the startle-eliciting sti-
+mulus was presented alone) and 12 prepulse-pulse trials (pp, trials in
+which the electrocutaneous prepulse preceded the startle-eliciting sti-
+mulus). The intertrial intervals (ITI) were randomized between 10 and
+20 s. The interval between the prepulse and pulse (stimulus onset
+asynchrony, SOA) was ﬁxed to 120 ms. The assessment took approxi-
+mately 11 min.
+
+2.3. Signal recording
+
+The eye-blink component, i.e. electromyographic (EMG) activity, of
+the startle response was recorded from the right m.orbicularis oculi:
+Two electrodes were placed under the right eye for startle response
+measurement. The ﬁrst of these was aligned with the pupil, the other
+positioned just laterally. EMG recordings were assessed with BioSemi®
+hardware (Biosemi, Amsterdam, the Netherlands). Sampling started
+immediately before the experimental block was started and lasted until
+the end of it (continuous recording). All EMG signals were digitized
+online by a computer, at a rate of 4096 Hz.
+
+2.4. EMG data processing
+
+Following oﬄine ﬁltering of the data between 25 and 250 Hz,
+startle amplitude was scored as the highest absolute amplitude in mi-
+crovolt within the time interval 20–100 ms after the startle-eliciting
+pulse. A computerized algorithm was used for peak detection. For each
+individual, PPI was calculated as the percentage reduction of the mean
+amplitude of prepulse-pulse-trials over the mean of pulse-alone-trials:
+%PPI = [(1–(pp/pa))*100%].
+
+2.5. Data analysis
+
+All statistical analyses were performed with IBM SPSS Statistics®,
+version 24. Data was checked by Shapiro-Wilk’s test and QQ-diagrams
+for normal distribution and Levene’s test was used to check for homo-
+geneity of variance. α-level was set a priori at 0.05. First, a repeated
+measures ANOVA was performed with within factor “trialtype” (pulse-
+alone or prepulse-pulse-trials) and between factor “group” (patients or
+controls), to check for group diﬀerences on raw startle amplitudes.
+
+Second, a one-way ANOVA on %PPI data with factor “group” as
+ﬁxed factor was performed to screen for possible group diﬀerences in
+PPI. To screen for possible eﬀects of medication a second one-way
+ANOVA was performed with factor “medication” (medicated versus
+medication-free) in patients only. “Age” and “smoking status” (yes/no)
+was used as a covariate since subjects were only matched on sex. These
+covariates were removed if not signiﬁcant. Post hoc-tests (Student’s t-
+tests) were carried out to explore signiﬁcant ANOVA eﬀects.
+
+Additionally, Spearman’s Rho-correlations of PANSS total scores
+and the three PANSS subscores (positive, negative, and general) with
+“%PPI” were calculated to check for possible associations between ill-
+ness severity and %PPI levels.
+
+3. Results
+
+3.1. General
+
+Assumptions to carry out parametric tests were met, i.e. normal
+distribution and homogeneity of variance. The factor “age” did neither
+covary signiﬁcantly in the raw amplitude analyses, nor in the %PPI
+analyses, and was therefore excluded in further analyses. “Smoking
+status” had a signiﬁcant eﬀect on %PPI data (p < 0.036) but not on raw
+startle amplitude data (p > 0.05) and was therefore only included as
+covariate in the analyses of the %PPI data.
+
+3.2. Raw data
+
+The repeated measures ANOVA revealed a signiﬁcant main eﬀect of
+“trialtype” [F(1, 45) = 14.725, p < 0.001, partial η2 = 0.247], in-
+dicating a larger startle amplitude to pulse-alone-trials than to prepulse-
+pulse-trials as expected. The interaction “trialtype” * “group” failed to
+reach statistical signiﬁcance, [F(1, 45) = 2.250, p = 0.141, partial
+η2 = 0.048] similar as the between-subjects factor “group”, [F(1, 45)
+= 0.174, p = 0.679, partial η2 = 0.004]. Average raw amplitude levels
+are presented in Table 2.
+
+3.3. %PPI data
+
+The one-way ANCOVA with the covariate “smoking status” revealed
+a signiﬁcant eﬀect of “group” [F(1, 44) = 8.486, p < 0.006, partial
+η2 = 0.162]. The ANOVA on medication status failed to reveal a sig-
+niﬁcant eﬀect [F(1, 21) = 1.312, p = 0.265, partial η2 = 0.059], in-
+dicating no %PPI diﬀerence between medicated and medication-free
+patients. Post hoc, only the diﬀerence between medication-free patients
+(n = 6) and controls (n = 24) became signiﬁcant:
+t(28) = 2.446,
+p = 0.021, d = −1.549, while the diﬀerence between medicated pa-
+tients (n = 17) and controls (n = 24) did not reach signiﬁcance level: t
+(39) = 1.562, p = 0.126, d = −0.495.
+
+Post hoc one-sample t-tests showed only signiﬁcant diﬀerence from
+0 for controls (t(23) = 4.627, p < 0.001). For the patient group as a
+whole (t(22) = 1.368, p = 0.185),
+for medicated patients (t(16)
+= 1.633, p = 0.122) and medication-free patients (t(5) = −0.422,
+p = 0.691) there was no signiﬁcant diﬀerence from 0 concerning %PPI
+data. Moreover, we tried to get age-matched subgroups of patients and
+controls by eliminating the lowest quartile age in controls, i.e. n = 6,
+and the highest quartile age in patients, i.e. again n = 6. However, the
+calculated t-test on age still showed a signiﬁcant diﬀerence: t(24)
+= −2.347, p = 0.030. The eﬀect of diagnosis expressed by Cohen’s d
+as calculated eﬀect size from an independent sample t-test on %PPI
+indicated a large eﬀect: t(33) = 2.457, p = 0.019, d = 0.831. The re-
+sults are presented in Fig. 1.
+
+3.4. Correlations
+
+Spearman’s Rho correlations revealed no signiﬁcant relationship
+between %PPI and symptom severity, as expressed by PANSS scores
+(total, positive, negative, or general) neither in our patient group in
+total, nor in the medicated subsample, nor in the medication-free sub-
+sample of patients.
+
+<Conclusion> Discussion.
+In this study we investigated if an electrocutaneous prepulse cou-
+pled with an acoustic pulse induces diminished PPI in schizophrenia
+patients compared to healthy controls, similarly as is usually observed
+in unimodal paradigms. To the best of our knowledge, this is the ﬁrst
+study using this pair of stimuli for examining PPI in schizophrenia
+patients.
+
+In concordance with our hypotheses, our patient group showed
+indeed a signiﬁcantly lower %PPI compared to our healthy control
+group. Supporting previous unimodal studies in schizophrenia patients
+(e.g. Swerdlow et al., 2006) this eﬀect appeared mainly based on
+medication-free patients. Given the average raw startle amplitudes the
+signiﬁcant group diﬀerence in %PPI is predominantly caused by a dif-
+ference in the response of our patients to prepulse-pulse-trials, and not
+to pulse-alone-trials, compared to the controls, although this did not
+reach statistical signiﬁcance in post hoc-tests. The diﬀerence in %PPI is
+therefore more likely reﬂecting a true sensorimotor gating deﬁcit in our
+patients instead of simply a reduction in startle reactivity.
+As already mentioned above, studies usually report lower PPI levels
+in healthy controls in cross-modal compared to unimodal paradigms
+(Blumenthal & Gescheider,
+1989;
+Elden & Flaten, 2003; Hill & Blumenthal, 2005; Perlstein et al., 2001),
+including a previous report from our own laboratory (Oranje et al.,
+2006). Therefore, we also expected to ﬁnd less %PPI in at least our
+healthy participants, and probably also our patients, in the current
+study compared to what is usually reported in studies using unimodal
+PPI paradigms.
+
+Acoustic prepulses in the range of 80–87 dB (SOA = 100–120 ms)
+typically elicit %PPI in a range between 58 and 75% in healthy controls
+(e.g. Braﬀ et al., 1992; Düring, Glenthøj, Andersen, & Oranje, 2014;
+Oranje et al., 2006; Oranje, Wienberg, & Glenthøj, 2011; Quednow
+et al., 2008), while this reached only 35 > 25% (mean > SD) in the
+current study. Using the same acoustic prepulses, schizophrenia pa-
+tients typically show %PPI in a range between 35 and 70% depending
+on medication status and stage of the disease (e.g. Aggernaes et al.,
+2010; Braﬀ et al., 1992; Hammer et al., 2013; Oranje, van Oel, Gispen-
+de Wied, Verbaten, & Kahn, 2002; Quednow et al., 2008) in unimodal
+acoustic PPI paradigms while in the present study only 10 > 29% was
+reached.
+
+A possible explanation for our ﬁndings could be the following: the
+unimodal auditory paradigm that usually induces maximal levels of PPI
+in healthy participants consists of a prepulse intensity of 86 dB and a
+pulse intensity of 115 dB separated by a SOA of 120 ms (Braﬀ, 2010). A
+change in SOA results in lower PPI (Braﬀ et al., 2001). Logically, PPI
+could therefore be decreased in cross-modal paradigms (regardless of
+experimental population) due to diﬀerences in processing time of sen-
+sory stimuli, i.e. the perceived SOA is diﬀerent from the actual (phy-
+sical) SOA (Flaten et al., 2016). In our paradigm, the longer processing
+time for electrocutaneous stimuli will result in a perceived SOA shorter
+than 120 ms and consequently also less PPI (Braﬀ et al., 2001). Sup-
+porting this notion, a study by Bolino et al. (1994) used an unimodal
+electrocutaneous PPI paradigm with a perceived SOA of 120 ms and
+found PPI levels more close to the ﬁndings from unimodal auditory
+paradigms in schizophrenia patients. However, an alternative ex-
+planation for the lower PPI levels in the current study, namely that they
+are due to a prepulse intensity eﬀect, cannot be excluded: It is con-
+ceivable that by using higher levels of electric current we would have
+found higher PPI levels in both groups (for the relation between in-
+crease in prepulse intensity and PPI see Grillon, Ameli, Charney,
+Krystal, & Braﬀ, 1992).
+
+We explored the modality-independent nature of PPI by using a
+cross-modal prepulse-pulse combination that had never been used be-
+fore in schizophrenia patients to test if the previous result of Braﬀ et al.
+(1992) is a general cross-modal phenomenon. Possible eﬀects of drugs,
+caﬀeine, and smoking were either controlled for by our procedures or
+by the speciﬁc statistical approach that was used. Our study is limited in
+the sense that we only managed to match the groups on gender, not on
+age. Age could also have had inﬂuences on the comparisons between
+medicated and medication-free patients, as the medication-free patients
+are younger and probably have a shorter duration of illness and had
+fewer acute episodes. However, many studies failed to ﬁnd an eﬀect of
+age on PPI (e.g. Oranje & Glenthøj, 2013; Düring et al., 2014; Yang
+et al., 2017). Moreover, age did not covary signiﬁcantly in any of the
+analyses of our present study. A further limitation is the small sample
+size of the medication-free subgroup of patients. In addition, the con-
+clusions drawn from the results of this study are pertinent only to males
+and a re-examination in female subjects could be an interesting en-
+deavor for future studies. Furthermore, the incorporation of unimodal
+control conditions (both acoustic-only and electrocutaneous-only sti-
+muli) would enable direct comparisons between within-modality versus
+cross-modality PPI. Finally, future studies should test diﬀerent SOAs,
+and possible eﬀects of diﬀerent prepulse intensities within a cross-
+modal paradigm, to tease out the eﬀects of perceived versus actual SOA.
+In conclusion, we were able to elicit PPI with a paradigm based on
+cross-modal (electrocutaneous-acoustic) stimuli in both healthy con-
+trols and schizophrenia patients. Moreover, we found less PPI in our
+patients compared to controls, which is analogous to the results of
+many previous studies using similar populations of subjects, yet using
+unimodal PPI paradigms. Hence, our current results provide further
+evidence that sensorimotor gating deﬁcits in schizophrenia are in-
+dependent of stimulus modality. In addition, compared to those studies
+reporting on unimodal paradigms, we detected less PPI regardless of
+diagnostic group, which may be related to diﬀerent speeds of proces-
+sing in the brain of the two stimuli modalities used.
+
+
+
+Acknowledgements
+

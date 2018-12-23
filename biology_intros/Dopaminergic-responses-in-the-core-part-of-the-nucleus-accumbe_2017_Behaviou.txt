@@ -1,0 +1,603 @@
+
+1. Introduction
+
+According to the current thinking, schizophrenia is the result of a
+functional dysconnection between various integrative cerebral regions
+[1,2] which, for a number of cases at least, has a neurodevelopmental
+origin [3,4]. One of these regions, the prefrontal cortex (PFC), appears
+to be especially aﬀected [5], as suggested by cytoarchitectural, mor-
+phological and functional anomalies described in patients with schi-
+zophrenia, particularly in the left hemisphere [6–8]. These anomalies
+could be due to perinatal changes occurring during cerebral develop-
+ment, in particular in cellular migration, with changes expressed in the
+form of defective connectivity which leads to the characteristic psychic
+dissociation observed in schizophrenia.
+
+Concerning the pathophysiology of schizophrenia, the existence of a
+dysregulation of striatal dopaminergic (DAergic) transmission is
+generally acknowledged [9] and is supported by a number of studies of
+brain imaging performed over the past 20 years which highlighted an
+enhanced basal level of striatal dopamine (DA) as well as an increase in
+its release in non-treated patients with schizophrenia compared to
+healthy subjects [10]. These data that suggest an increase in DAergic
+transmission are in keeping with the common property of typical and
+atypical antipsychotics, which is to block type D2 DAergic receptors.
+However, the increase in basal DA transmission may not be uniformly
+distributed in the striatum, and some authors have suggested diﬀer-
+ences between sub-regions of the striatum, namely an increase in the
+anterior dorsal striatum, but not in the ventral striatum [11,12]. The
+striatum is the principal region of projection of mesencephalic DAergic
+neurons and comprises two regions, the dorsal striatum and the ventral
+striatum. The main component of the ventral striatum is the nucleus
+accumbens (Nacc), usually subdivided into two subsections which can
+be diﬀerentiated from an anatomo-functional point of view. These two
+subsections are an external part, the shell sub-region, which surrounds a
+central part, the core sub-region, located near the anterior commissure
+[13].
+
+In neuroimaging studies [11,12], no subdivision was made between
+the core and shell sub-regions of the ventral striatum. As regards dif-
+ferentiation between the core and shell parts of the Nacc in humans,
+post-mortem anatomical studies suggest that the DA synthesis, as as-
+sessed in terms of the density of tyrosine hydroxylase labelling, is si-
+milar for the two sub-regions of the Nacc in control subjects and pa-
+tients with schizophrenia [14]. However, in contrast to that, recent
+human post-mortem ultrastructural
+investigations revealed an en-
+hancement in the density of asymmetric synapses, typical of excitatory
+aﬀerents, in the core part of the Nacc but not in the shell of patients with
+schizophrenia, compared to controls [15]. A reduction in the post-
+synaptic density (PSD) area of asymmetric synapses was also observed
+in both core and shell parts of the Nacc, but more markedly so in the core
+sub-region of patients [15]. Whatever the exact meaning of the ultra-
+structural data, they may suggest that control of DA release by ex-
+citatory inputs may be aﬀected diﬀerently in the two parts of the Nacc
+in patients with schizophrenia (and preferentially in the core part).
+
+As regards the pathophysiology of schizophrenia, a dysfunction of
+glutamatergic transmission involving N-methyl-D-aspartate (NMDA)
+receptors has also been suggested [16]. Based on the results of several
+studies carried out in humans it has been established that at sub-an-
+esthetic doses, administration of non-competitive antagonists of NMDA
+receptors induced symptoms comparable to those observed in schizo-
+phrenia in healthy subjects [17,18] and aggravated such symptoms in
+patients with schizophrenia [19,20]. These observations led several
+authors [16,21] to propose that the dysregulation of the striatal
+DAergic transmission in schizophrenia could result from defective
+prefrontal-striatal connectivity involving NMDA receptors.
+
+Improving our knowledge of the pathophysiology of schizophrenia
+is vital for the development of new treatments. The nature of the dis-
+ease is such, however, that it is not easy to conduct clinical investiga-
+tions with non-treated patients, which is why animal modeling of the
+pathophysiology of schizophrenia is so important [22]. The aforemen-
+tioned data suggest several hypotheses should be taken into account
+with a view to achieving the best possible animal modeling of the
+disease. In particular, it is important to bear in mind that rather than
+being evenly dysregulated, striatal DAergic transmission in schizo-
+phrenia may be dysregulated diﬀerently in the striatal sub-regions. In
+this context, and also taking into account the hypothesis of a neuro-
+developmental impairment of the left PFC as well as that of defective
+prefrontal-striatal connectivity involving NMDA receptors in schizo-
+phrenia, we previously investigated DAergic responses to challenge
+with NMDA antagonists in the anterior dorsal striatum [23] and in the
+dorsomedial shell part of the Nacc [24] in adult rats microinjected with
+tetrodotoxin (TTX) at postnatal day 8 (PND8). The results showed that
+in adult animals neonatally inactivated with TTX, compared to re-
+spective PBS control animals, treatment with the NMDA antagonist
+ketamine induced a greater increase in DA release in the anterior dorsal
+striatum [23]. As regards the dorsomedian shell, at adulthood the
+NMDA antagonists ketamine and MK 801 induced a decrease in DA
+release below basal levels in PBS controls, whereas administration of
+the two NMDA antagonists induced a reversal of the DA reduction
+observed in PBS controls followed by an increase in DA levels in ani-
+mals neonatally microinjected with TTX in the PFC [24]. In this con-
+nection, with respect to neurodevelopmental animal modeling for
+schizophrenia, to the best of our knowledge there are no other data in
+the literature regarding the impact of neonatal manipulation (blockade
+or lesioning) of the PFC on NMDA receptor-dependent DA release in the
+dorsal striatum or in the Nacc, particularly in the core sub-region. It is
+interesting to note, however, that after PFC neonatal ibotenic acid le-
+sions an altered responsiveness to DAergic drugs (apomorphine, halo-
+peridol) was observed in the core part of the Nacc, possibly linked to the
+
+loss of PFC eﬀerent pathways in respect of glutamatergic regulation in
+neonatally lesioned animals [25]. In other respects, in our studies we
+also estimated behavioral reactivity to NMDA antagonists by measuring
+locomotor activity. This behavioral index is commonly used in animal
+modeling of some aspects of the pathophysiology of schizophrenia,
+based on the parallel that can be established between the emergence of
+locomotor hyperactivity observed in rats and that of positive symptoms
+described in humans after administration of psychostimulants [26,27].
+In our previous studies [23,24] no obvious relationships were observed
+between DAergic changes and locomotor responses.
+
+The aim of the present work was to study the eﬀects of neonatal
+functional TTX inactivation of the left PFC at PND8 on DAergic varia-
+tions in the core part of the Nacc and on locomotor responses after
+subcutaneous administration (s.c.), to adult rats, of dizocilpine (MK
+801), a particularly selective non-competitive antagonist of NMDA re-
+ceptors [28,29], presenting a high aﬃnity for these receptors. As sug-
+gested by the human post-mortem ultrastructural investigations dis-
+cussed above [15], the core part of the Nacc, in particular, would appear
+to be involved in the pathophysiology of schizophrenia and therefore
+deserves speciﬁc investigation in the context of animal modeling. Fur-
+thermore, the core is of particular interest insofar as this sub-region of
+the Nacc seems to be involved in the expression of locomotor responses
+and behavioral responses adapted to the context [13], particularly in
+latent inhibition paradigms carried out in studies concerning animal
+modeling of the pathophysiology of schizophrenia [see Meyer and
+Louilot,30].
+
+<Middle> Materials and methods.
+2.1. Animals and experimental design.
+All the experimental procedures were carried out according to
+Directive 2010/63/EU revising Directive 86/609/EEC of the European
+Union relative to the protection of animals used for experimental and
+other scientiﬁc purposes and were authorized by the French Ministry of
+Agriculture (authorization 67-244) and the Strasbourg Regional Ethics
+Committee on Animal Experimentation
+(CREMEAS-CEEA35)
+(License:AL/42/49/02/13). The experimental protocol is similar to that
+reported in previous papers [23,24,31]. In short, the Sprague-Dawley
+rats used in the present study were maintained at 22 ± 2 °C and given
+ad libitum access to food and water. Rat pups were issued from gestant
+mothers (Janvier-Labs, Le Genest St-Isle, France) subjected to a 12 h/
+12 h light-dark cycle (lights on from 7:00 am to 7:00 pm) and housed
+individually during pregnancy. At postnatal day 8 (PND8), pups were
+microinjected in the prefrontal cortex (PFC) with either TTX or PBS (the
+solvent). At postnatal day 56 (PND56), male animals were placed under
+a reversed lighting cycle (lights oﬀ from 11:00 am to 11:00 pm). At
+postnatal day 70 (PND70), male rats were implanted with a specially
+designed microsystem [32] allowing DA to be monitored in the core
+part of the Nacc, in parallel to behavior, in freely moving animals. After
+recovering from the surgery (at least 7 days) the animals were subjected
+to the pharmacological challenge during the dark phase of the cycle
+[For further details see 23,24].
+
+2.2. Neonate surgery: functional inactivation of the PFC
+
+TTX functional inactivation of the left PFC was performed in rat
+pups at PND8. Neonates were subjected to isoﬂurane anaesthesia
+(Isovet®, CSP, Cournon-d’Auvergne, France). Control animals and ex-
+perimental animals were then given the PFC microinjection of PBS and
+TTX respectively, on a random basis. For each solution a volume of
+0.3 μl was infused over 2 min 15 s with the following coordinates:
+1.5 mm anterior to bregma (AP), 0.4 mm lateral to the midline (L) and
+3.9 mm below the cortical surface (H). The procedure has already been
+published in detail [23,24,31]. As discussed in our previous studies, the
+eﬃcient spread for the volume of TTX microinjected in the PFC is
+unlikely to have a radius greater than 0.67 mm, and TTX functional
+inactivation lasts between 4 h and two days [33,34].
+
+2.3. Adult surgery: stereotaxic implantation of the microsystem
+
+So that is was possible to follow the behavior and DAergic changes
+in freely moving animals simultaneously, a specially designed micro-
+system, Unimécanique [32] was surgically implanted at PND70 to allow
+carbon ﬁber electrodes to be inserted extemporaneously in the left core
+part of the Nacc. To that end, adult male rats, microinjected with TTX
+or PBS in the left PFC at PND8 and weighing about 400 ± 25 g at the
+time of surgery, were ﬁrst anaesthetized with chloral hydrate (400 mg/
+kg; 8 ml/kg ip) [35]; placed in a stereotaxic apparatus (Unimécanique,
+Epinay/Seine, France) and then to ensure an analgesia as complete as
+possible an additional s.c. injection of a local anesthetic (Xylovet®,
+Centravet, Nancy, France) is made at the level of the head of the animal
+before the cutaneous plans are incised. The animals were then im-
+planted with the following coordinates 10.6 mm (AP), 1.6 mm (L), and
+7.1 mm (H) [36]. Once the microsystem had been implanted, the male
+rats were given at least 7 days to recover.
+
+2.4. Behavioral analysis
+
+A total of 61 animals were used for the behavioral study. The lo-
+comotor activity was recorded simultaneously with the extracellular
+levels of DA in the core part of the Nacc before and after administration
+of MK 801 (Sigma, France). After the carbon ﬁber microelectrode had
+been inserted in the core part of the Nacc by means of a specially de-
+signed microsystem, each animal was introduced into the experimental
+cage (W 24 cm × L 27 cm × H 44 cm). An infrared camera ﬁtted into
+the ceiling of the cage was used to capture a video recording of the
+animals’ behavior. After approximately one hour of habituation and
+stabilization of the voltammetric signal, the rats were given a sub-
+cutaneous (s.c.) injection of either NaCl 0.9% (control animals), MK
+801 0.1 mg/kg or MK 801 0.2 mg/kg (experimental animals) on a
+random basis. They were then recorded for a further 120 min. The ﬂoor
+of the cage was divided, virtually, into four areas of identical surface so
+that the locomotor activity could be quantiﬁed by observing visually
+each animal via the video recording and by counting the number of
+times it crossed from one area to another in 10 min periods [23,24,31]
+[for further details see 23,24,31]. Data were expressed as mean ±
+SEM.
+
+2.5. Voltammetric analysis of the DAergic signal
+
+The voltammetric detection of DA in vivo was obtained as previously
+reported, using diﬀerential normal pulse voltammetry (DNPV) coupled
+with electrochemical pre-treatment of the carbon ﬁber microelectrodes
+and computerized mathematical analysis of
+the DNPV signal
+[23,24,31,37]. For each animal, the average amplitude of the last 10
+peaks of DA recorded during the control period of stability of the DNPV
+signal (approximately 1 h), corresponding to the last 10 min preceding
+the s.c. injection of NaCl 0.9% or MK 801, is calculated and ﬁxed at
+100%. The variations in the DAergic signal, recorded per minute in the
+core part of the Nacc, are then expressed as percentages (average ±
+SEM).
+
+2.6. Statistics
+
+The statistical analysis of the behavioral and voltammetric results
+was performed by means of a multifactorial analysis of variance
+(ANOVA), with repeated measures for the time factor. The independent
+variables were the neonatal microinjection, a factor at two levels (PBS
+or TTX), and the MK 801 dose administered to the adult rat, a factor at
+three levels (NaCl 0.9%, MK 801 0.1 mg/kg or MK 801 0.2 mg/kg). The
+dependent variables were, on one hand, the number of crossings for the
+behavioral study and, on the other hand, the variation in the extra-
+cellular levels of DA in the core part of the Nacc for the voltammetric
+study. Contrast analyses of the ANOVA were performed post-hoc to test
+certain hypotheses [38,39]. The signiﬁcance level for all the analyses
+was set at p < 0.05.
+
+2.7. Histology
+
+Two types of staining were used (Neutral Red and Thionin) to
+identify the neonatal microinjection site in the PFC and the voltam-
+metric recording site in the core part of the Nacc, respectively. At the
+end of the experiment, rats were deeply anaesthetized with a lethal
+dose (240 mg/kg i.p.) of Doléthal® and then perfused intracardially
+with 60 ml of NaCl 0.9% and 100 ml of formalin 4%. Upon removal
+their brains were kept at 4 °C in a solution of paraformaldehyde (8%)
+and sucrose (30%) before histological sectioning. The site of the neo-
+natal microinjection in the left anteromedian PFC was then visualized
+by means of the track left by the Evans Blue added to the PBS and TTX
+microinjected solutions at PND8 and revealed by the Neutral Red
+staining [23,24,40–42]. The voltammetric recording site in the core part
+of the left Nacc was visualized by electrocoagulation and Thionin
+staining as described previously [see 40 for details]. The stereotaxic
+atlas published by Paxinos and Watson [36] was used to accurately
+locate the various anatomical structures.
+
+3. Results
+
+3.1. Histology (Fig. 1)
+
+The voltammetric recording sites in the left core part of the Nacc and
+neonatal microinjection sites in the left PFC (infralimbic/prelimbic re-
+gions) were visualized in adult animals on frontal sections stained with
+Thionin Blue and Neutral Red respectively (Fig. 1). The qualitative
+macroscopic analysis of histological sections taken from adult rats mi-
+croinjected at PND8 with either the PBS solution, Fig. 1(A & A’), or TTX
+solution, Fig. 1(B & B’), did not reveal gliosis or any anatomical diﬀer-
+ences in either the core part of Nacc or in the PFC.
+
+Following histological control, only rats where the neonatal mi-
+croinjection corresponded to the infralimbic/prelimbic region of the
+left anteromedian PFC were included for further analyses. Animals not
+presenting an implantation site of the carbon ﬁber microelectrode
+clearly localized in the left core part of the Nacc were not considered for
+voltammetric analysis but were included in our behavioral analysis. In
+total, 76 animals were used for the study. Of them, 61 animals were
+included in the behavioral analysis, and of these 61 animals, 44 were
+considered for the voltammetric analysis.
+
+3.2. Behavioral analysis: locomotor activity (Fig. 2)
+
+Before s.c. administration of either NaCl 0.9% or MK 801, locomotor
+activity of the various groups was not signiﬁcantly diﬀerent. The gen-
+eral ANOVA performed for the 61 animals as regards the number of
+crossings in the 10 min preceding the s.c. injection showed no sig-
+niﬁcant eﬀect of the neonatal microinjection (F[1,55] = 1.39; ns) or
+the dose x microinjection interaction (F[2,55] = 0.83; ns).
+
+After s.c. injection of NaCl 0.9%, locomotor activity of the PBS and
+TTX groups was not very diﬀerent (Fig. 2A). It remained relatively low
+and constant in the two hours post-injection. The maximal values for
+locomotor activity were reached during the 80–90 min post-injection
+period for the animals in the PBS group (18.0 ± 4.5 crossings, n = 10)
+and during the ﬁrst 10 min post-injection period for the animals in the
+TTX group (16.2 ± 3.5 crossings, n = 11).
+
+After s.c. injection of MK 801 0.1 mg/kg, changes in locomotor
+activity of the PBS and TTX groups were slightly diﬀerent (Fig. 2B).
+Locomotor activity gradually increased to a maximal value during the
+30–40 min post-injection period for the animals in the PBS group
+(38.3 ± 10.3 crossings, n = 11) and during the 20–30 min post-in-
+jection period for the animals in the TTX group (72.1 ± 24.4 crossings,
+n = 10). In both groups locomotor activity then gradually returned to
+values close to those recorded during the pre-injection period.
+
+After s.c. injection of MK 801 0.2 mg/kg, locomotor activity dis-
+played diﬀerent changes in the PBS and TTX groups (Fig. 2C). The
+maximal value of locomotor activity was reached during the 40–50 min
+post-injection period for the animals in the PBS group (163.4 ± 56.2
+crossings, n = 10), whereas for the animals in the TTX group the
+maximal value was observed earlier during the post-injection period
+30–40 min (274.1 ± 54.5 crossings, n = 9). Furthermore, the return
+towards pre-injection values was slower for the animals in the TTX
+group, for whom the level of activity remained very high 120 min after
+the s.c. injection.
+The general ANOVA carried out for all 61 animals as regards the
+number of crossings for the 120 min post-injection displayed a sig-
+niﬁcant eﬀect of the s.c. dose administered (NaCl 0.9%, MK 801
+0.1 mg/kg or MK 801 0.2 mg/kg) (F[2,55] = 22.29; p < 0.001), and
+of the neonatal microinjection (PBS or TTX)
+(F[1,55] = 4.58;
+p < 0.05), and a signiﬁcant dose x neonatal microinjection interaction
+(F[2,55] = 3.69; p < 0.05). Contrast analyses of ANOVA were carried
+out for the 120 min post-injection to test the hypothesis that the loco-
+motor activity is signiﬁcantly diﬀerent depending on the neonatal in-
+jection (PBS or TTX) for the MK 801 s.c. doses 0.1 mg/kg and 0.2 mg/
+kg. These analyses highlighted signiﬁcant eﬀects only for the higher
+dose of MK 801 (0.2 mg/kg s.c) (F[1,55] = 11.32; p < 0.01), not for
+the lower dose (0.1 mg/kg) (F[1,55] = 0.10; ns).
+
+As for the temporal proﬁle of the locomotor activity, the within-
+subjects ANOVA performed for the 61 animals during the 120 min post-
+injection, revealed a highly signiﬁcant time eﬀect (F [11,605] = 15.17;
+p < 0.001) and a signiﬁcant time x dose interaction (F [22,605]
+= 10.02; p < 0.001). However, both the time x neonatal microinjec-
+tion interaction and time x dose x neonatal microinjection interaction
+were not signiﬁcantly diﬀerent: (F [11,605] = 1.62; ns) and (F
+[22,605] = 0.89; ns) respectively.
+
+3.3. Voltammetric analysis: dopaminergic variations in the core subregion
+of nacc (Fig. 3)
+
+After s.c. injection of NaCl 0.9%, DAergic variations in the core part
+of the left Nacc remained close to the basal pre-injection level in the 2 h
+post-injection period for the PBS and TTX groups (Fig. 3A). Maximal
+values were 132.8 ± 4.8% (n = 7) at the 84th min for the PBS group
+and 136.2 ± 5.2%, (n = 8) at the 60th min for the TTX group.
+
+After s.c. injection of MK 801 0.1 mg/kg, DAergic variations in the
+core part displayed small
+increases for the PBS and TTX groups
+(Fig. 3B). For the PBS group the injection was followed immediately by
+a moderate but steady increase in the DAergic signal which attained a
+maximal value of 141.8 ± 15.3% (n = 8) at the 120th min. For the
+TTX group, the increase in the extracellular levels of DA was more
+marked, attaining the maximal value of 186.7 ± 16.8% (n = 7) at the
+106th min.
+
+After s.c. injection of MK 801 0.2 mg/kg, there were clear increases
+in DAergic variations in the PBS and TTX groups (Fig. 3C). For the
+animals in the PBS group, the s.c. injection was ﬁrst followed by a rapid
+increase in the extracellular DA levels which reached a maximal value
+of 172.0 ± 15.3% (n = 7) at the 56th min. Secondly, the DAergic
+signal dropped, before ﬂuctuating to reach 150.5 ± 14.4% (n = 7) at
+the 120th min. For the animals in the TTX group, post-injection DAergic
+variations were characterized by a rapid and marked increase, attaining
+a maximal value of 251.3 ± 42.5% (n = 7) at the 70th min. Extra-
+cellular DA levels then gradually decreased until the end of the 2 h post-
+injection period, to reach the minimal value of 159.9 ± 27.2% (n = 7)
+at the 120th min.
+
+The general ANOVA performed for the 44 animals as regards var-
+iations of the DAergic signal during the 120 min post-injection revealed
+a signiﬁcant eﬀect of
+the administered dose (F [2,38] = 6.79;
+p < 0.01) and neonatal microinjection (F [1,38] = 5.37; p < 0.05)
+but not of the dose × neonatal microinjection interaction (F [2,38]
+= 1.45; ns).
+As for the time-course of the DAergic variations, the within-subjects
+ANOVA performed for the 44 animals during the 120 min post-injection
+revealed a highly signiﬁcant eﬀect of time (F [59,2242] = 15.01;
+p < 0.001),
+[118,2242] = 2.54;
+p < 0.001) and time x neonatal microinjection interaction (F
+[59,2242] = 2.62; p < 0.001) but not of time x dose x neonatal mi-
+croinjection interaction (F [118,2242] = 1.20; ns).
+
+<Conclusion> Discussion.
+In the present work, we sought to investigate the eﬀects of neonatal
+functional inactivation of the left PFC on behavioral and DAergic re-
+sponses measured in the core part of the Nacc after s.c. administering a
+particularly selective non-competitive antagonist of the NMDA re-
+ceptors, MK 801, to adult rats. It is worth emphasising that the core is of
+particular interest given that this striatal sub-region has been shown to
+be more speciﬁcally involved in the emergence of behavioral responses
+according to the context (environmental, behavioral, emotional),
+whether these responses are normal or pathological [see Meyer and
+Louilot,30]. The results we obtained showed that the eﬀects in adult-
+hood of functional inactivation of the PFC by TTX in PND8 animals
+compared to the respective control animals neonatally microinjected
+with PBS were, on the one hand, an increase in locomotor hyperactivity
+and, on the other hand, a greater increase in the extracellular levels of
+DA in the core part of the Nacc after MK 801 administration.
+
+4.1. Locomotor activity
+
+The saline injection had no notable eﬀects on the locomotor activity
+of animals neonatally microinjected with either PBS or TTX. By con-
+trast, after administration of MK 801 this behavioral index increased in
+animals from both PBS and TTX groups. We showed that both the
+amplitude and duration of the locomotor activity response depended on
+the administered dose (NaCl 0.9%, MK 801 0.1 mg/kg or MK 801
+0.2 mg/kg). MK 801-induced locomotor hyperactivity was higher for
+the animals in the TTX group and statistically diﬀerent at the dose of
+0.2 mg/kg (s.c.). For the animals in the PBS group, the changes ob-
+served were consistent with those reported by various authors using MK
+801 in a range of doses comparable to our own [24,43,44]. Concerning
+the animals in the TTX group, the eﬀects of the neonatal functional
+inactivation of the PFC on locomotor reactivity to MK 801 adminis-
+tration in adult rats were consistent with those previously reported
+[24].
+
+4.2. Temporal relationship between the behavioral and DAergic responses
+
+The locomotor responses and DAergic variations in the core part of
+the Nacc following administration of MK 801 presented a similar tem-
+poral proﬁle for both the PBS and TTX groups. However, the relation-
+ship between the behavioral and neurochemical indexes did not appear
+to be a simple correlation. For both PBS and TTX-microinjected ani-
+mals, DAergic variations reached their maximum later and remained
+high longer in comparison with locomotor responses. This temporal
+relationship is consistent with data previously reported in the literature.
+After s. c. administration of MK 801, in doses comparable to our own,
+Mathé et al. [44] reported a similar temporal discrepancy between lo-
+comotor hyperactivity and DA release measured in the Nacc with in vivo
+microdialysis. These results could be interpreted in light of the works of
+several authors [43,45], who reported that locomotor hyperactivity
+following administration of MK 801 could be related to an interaction
+between NMDA receptors and Nacc DAergic receptors, in particular D2
+DAergic receptors, probably occurring at a postsynaptic rather than a
+presynaptic level. This would explain why the behavioral index is only
+partially dependent on the DA release. Whatever the exact mechanisms,
+what is important with our results is that neonatal TTX inactivation of
+the PFC leads in adulthood to an increase in reactivity to MK 801 with
+respect to both neurochemical and behavioral indexes, which is com-
+patible with a change in NMDA receptor sensitivity.
+
+4.3. DAergic variations in the core part of the nacc
+
+The s.c. injection of NaCl 0.9% had no consequences on the extra-
+cellular levels of DA in the core part of the Nacc for animals in the PBS
+and TTX groups. By contrast, the administration of MK 801 resulted in
+an increase in the DAergic signal. Changes in DA levels were dependent
+on the administered dose (NaCl 0.9%, MK 801 0.1 mg/kg or MK 801
+0.2 mg/kg) and more marked for the animals in the TTX group, in a
+signiﬁcant way for the two hours post-injection.
+
+As regards animals microinjected with PBS, the intracerebral ad-
+ministration of MK 801 (10−6–10−5 M) in awake and freely moving
+rats resulted in a dose-dependent increase in the extracellular levels of
+DA in the core part of the Nacc [46], which, upon initial analysis,
+suggests that the DAergic variations we observed are related to an ac-
+tion of MK 801 directly at the level of the Nacc. However, based on data
+found in the literature it can be proposed, in a heuristic perspective,
+that DA release in the core part of the Nacc is regulated via the NMDA
+receptors mainly by multisynaptic inhibitory pathways involving G-
+ABA, rather than direct excitatory glutamatergic pathways. Indeed, the
+increase in DA release obtained by intracerebral infusion of MK 801 at
+the level of the core of the Nacc has been shown to be greatly limited
+following destruction of the cell bodies of the accumbal neurons by
+kaïnic acid [47]. These observations could be explained by the ex-
+istence of an indirect regulatory pathway of DA release in the core part
+of the Nacc involving NMDA receptors present on the cell bodies of
+GABAergic interneurons [see Kantrowitz and Javitt,21]. This proposal
+is compatible with data suggesting that DA release in the core part of
+the Nacc is under the negative inﬂuence of presynaptical regulation of
+the DAergic terminal endings by the GABAergic transmission [48].
+Another hypothesis involves the medium spiny neurons of the Nacc,
+mainly GABAergic, which send direct projections towards the ventral
+tegmental area (VTA) of the midbrain [49], which is the region where
+DAergic innervation of the Nacc originates. Thus, the blockade of
+NMDA receptors located on these two types of neuronal entities (in-
+terneurons and medium spiny neurons) [50,51] by MK 801 (antagonist
+of NMDA receptors) could reduce the inhibitory action of GABA on DA
+release in the Nacc and, consequently, induce an increase in DA ex-
+tracellular levels, as shown in our present work.
+
+VTA contains not only DAergic neurons, but also∼30% of two types
+of GABAergic neurons [52]. They are either interneurons, which are at
+the origin of a local inhibition of DAergic neurons [52,53], or, for a
+minority of them, GABAergic projection neurons. This second type of
+GABAergic neurons projects to several brain regions also innervated by
+DAergic neurons, including, for a small proportion of them, the core
+part of the Nacc [51,52,54]. In other respects, various ultrastructural
+studies have shown that the excitatory glutamatergic eﬀerents of the
+PFC reaching the VTA selectively innervate the GABAergic neurons
+projecting to the Nacc [51]. Moreover, the presence of NMDA receptors
+on GABAergic neurons originating from the VTA has been described by
+Bonci and Malenka [55]. Once account has been taken of all these as-
+pects, it cannot be ruled out that a direct inhibitory action of MK 801 on
+these GABAergic neurons may also contribute to the increase in the
+DAergic responses observed in the core part of the Nacc.
+
+If account is taken of the data from the literature previously pre-
+sented for the animals in the PBS group, a possible explanation for the
+proﬁles of the responses obtained for the TTX animals after MK 801
+administration could be involvement of the indirect inhibitory path-
+ways. The diﬀerence in the eﬀects of MK 801 observed between the PBS
+and TTX groups could result from early changes occurring during cer-
+ebral development induced by the TTX microinjection and causing a
+connectivity defect involving the NMDA receptors situated at the level
+of the Nacc or VTA. It is important to remember that neuronal electrical
+activity during development is essential
+for establishing adequate
+connections of the cortical ﬁbres at the level of the target-region
+[56,57], and that the PFC eﬀerents are still maturing in rats in the ﬁrst
+two postnatal weeks [58]. The duration of TTX eﬀects appears to be
+between 4 h and 48 h [33,34]. Whatever the actual duration of TTX
+blockade, the most important point seems to be that the microinjection
+was performed during the crucial two-week postnatal developmental
+period. For it has been shown that TTX microinjected (in the ventral
+hippocampus) at PND7 results in the disruption of diﬀerent behavioral
+and neurochemical indexes in adulthood, whereas TTX microinjected at
+PND32 did not induce any changes in the same indexes in adult animals
+[42,59]. The consequences of the postnatal blockade of electrical ac-
+tivity by TTX, as investigated by various authors with diﬀerent kinds of
+preparations, were 1) impairment of the appropriate axonal arboriza-
+tion and connections in target-regions [60]; 2) a marked decrease in the
+number of myelinating oligodendrocytes (i.e. in the myelin formation)
+[61]; and 3) a disruption of the normal diﬀerentiation and maturation
+of dendrite spines [62]. Interestingly, impaired myelination [63] and
+dendritic spine alterations [64] have been reported in schizophrenia. In
+addition to the possible consequences of the TTX microinjection de-
+scribed above, the interruption of neuronal electrical activity by TTX at
+a crucial moment for cerebral development could also lead to abnormal
+functioning of the NMDA receptors. The NMDA receptor is a tetramer
+formed by two NR1-type sub-units, essential for forming a functional
+ionic channel, and two NR2-type sub-units [65], the maturation and
+expression of which depend on the neuronal electrical activity during
+postnatal development [66]. Based on the aforementioned data, it is
+possible to suggest that for animals microinjected in the PFC with TTX
+at PND8, there is a dysregulation of DA release in the core part of the
+Nacc related to a functional impairment of the glutamatergic projec-
+tions stemming from the PFC and involving NMDA receptors, con-
+secutive to the postnatal TTX inactivation.
+
+The impact of glutamate dysregulation on DA transmission, as re-
+gards neurodevelopmental animal models for schizophrenia, has been
+well documented in studies dealing with neonatal lesions of the ventral
+hippocampus [67,68]. Investigations into the disruptions of glutamate-
+DA interactions after these postnatal lesions, with the involvement of
+NMDA receptors, focused on the PFC, as a target structure [e.g. 69]. By
+contrast, concerning the eﬀects of the neonatal lesions of the PFC on the
+glutamate – NMDA receptors – dependent DA release in the Nacc,
+particularly in the core sub-region, as far as we know there are no data
+available in the literature, mainly because the number of such studies is
+fairly low [see 70,71]. Thus, because direct evidence is lacking our
+proposal above is tentative and should be considered in a heuristic
+perspective.
+
+Finally, it would be interesting to compare heuristically the present
+results with those obtained previously after TTX blockade of the PFC at
+PND8 and challenge to NMDA non-competitive antagonists in adults.
+However, strict comparison is only possible for the dorsomedian shell
+[24], given that data for the anterior dorsal striatum [23] were ob-
+tained only after ketamine administration and striatal DA changes after
+MK 801 need further investigations. Brieﬂy, as regards the dorsomedian
+shell, in animals microinjected at PND8 with TTX an increase in DAergic
+levels was observed after administration of MK 801 in adult rats,
+whereas a reduction in DAergic levels was obtained in control animals
+microinjected with PBS at PND8. Enhanced locomotor activity, re-
+corded at the same time as DAergic variations, was observed for both
+TTX and PBS groups, suggesting there is no relationship between the
+two variables as regards the dorsomedian shell. By contrast, in the
+present study, concerning the core, increases in DA release following
+MK 801 challenge were observed in both TTX and PBS groups, and were
+more marked for TTX animals. In the present study, administration of
+MK 801 at adulthood was also followed by an increase in locomotor
+activity which was more marked for TTX animals. Interestingly, how-
+ever, in this case the time course of the two variables (locomotor ac-
+tivity and DA variations) was close, although not identical. This is an
+important point as regards animal modeling of the pathophysiology of
+schizophrenia if we accept that the emergence of locomotor hyper-
+activity in rodents is a good index for modeling at least some of the
+positive symptoms typical of schizophrenia in humans [26,27].
+
+To conclude, the present study suggests that future investigations
+should look carefully at the core part of the Nacc with a view to ob-
+taining a better understanding of the pathophysiology of schizophrenia.
+In particular, in this context it would be important to ascertain whether
+ultrastructural synaptic changes observed at the level of the core in
+patients with schizophrenia [15] correspond in some way to a dysre-
+gulation of DA release in the core involving disrupted NMDA receptor-
+mediated glutamate transmission.
+
+
+References
+

@@ -1,0 +1,442 @@
+
+This paper examines the relation between industry-wide and firm-specific information contained in earnings and the extent to
+which this information is reflected in stock prices.  Economic theory suggests that firm performance determined by industry
+fundamentals (e. g. , consumer taste, production technology, and regulatory environment) is relatively long-lasting.  On the other
+hand, performance that deviates from industry norms tends to dissipate more quickly because learning and imitation improve
+industry losers’ performance but erode industry winners’ competitive edge (e. g. , Mueller, 1977, 1986, 1990; Waring, 1996).  To the
+extent that accounting earnings are a (noisy) measure of economic profits, we expect the industry-wide component of earnings to
+be more persistent than the firm-specific component.  Prior research suggests that investors tend to fixate on reported earnings,
+however, not fully recognizing differences in the persistence of its components (e. g. , Sloan, 1996).  As a result, we expect the market
+to underreact to the higher persistence of the industry-wide component of earnings. 
+Predicting greater persistence of the industry-wide component of earnings inherently assumes industry homogeneity
+and stationarity.  Firms in homogeneous industries face relatively similar economic forces, and thus industry-wide earnings
+should be more persistent than in heterogeneous industries.  Earnings components should also be more persistent in stable
+industries than in those disrupted by business shocks.  The effect of business shocks, however, should be smaller on
+industry-wide earnings than on firm-specific earnings if, as expected, industry-wide earnings are more stationary in
+general.  Investors that underestimate the persistence of industry-wide earnings are thus more likely to do so for
+homogeneous industries and in the presence of a large industry-wide business shock. 
+Our focus on economic fundamentals represents a departure from Sloan’s (1996) work on accruals and cash flows, which
+are components of earnings defined by accounting systems (Dechow, 1994; Subramanyam, 1996).  He shows that even
+though the accrual component is less persistent than the cash flow component, stock prices act as if investors fail to fully
+appreciate this difference.  Thus, we also gauge the differential persistence and pricing of earnings components classified by
+both economic forces and accounting constructs.  We decompose industry-wide and firm-specific earnings into their
+respective cash flow and accrual components.  Considering both economic fundamentals and accounting constructs suggests
+that industry-wide cash flows is the most persistent component of earnings, while at the other extreme firm-specific
+accruals is the least persistent.  The relative persistence of the other two components – industry-wide accruals and firmspecific cash flows – is less clear.  On the one hand, there is robust prior evidence that cash flows are more persistent than
+accruals.  On the other hand, economic theory suggests that industry-wide performance is more persistent than firm-specific
+performance. 
+We test our empirical predictions over the period 1988–2011.  Following Bhojraj Name (2003), we use Global Industry
+Classification Standard (GICS) industry codes and define industry-wide earnings as average earnings (scaled by assets) of all
+firms in the same eight-digit GICS industry.  We define firm-specific earnings as the difference between a firm’s reported
+earnings (scaled by assets) and the industry-wide earnings. 
+Consistent with predictions, we find that industry-wide earnings are significantly more persistent than firm-specific
+earnings.  However, investors fail to fully distinguish this differential persistence as stock prices place similar weights on
+these two earnings components in forecasting one-year-ahead earnings.  In other words, the market underreacts to the
+persistence of industry-wide earnings and overreacts to the persistence of firm-specific earnings. 
+To further test the implications of industry fundamentals on the persistence and pricing of earnings components, we
+partition the sample using three alternative proxies for industry homogeneity, i. e. , within-industry similarity in size,
+operating activities, or the number of business segments.  As expected, industry-wide earnings are significantly more
+persistent in homogenous industries compared to heterogeneous industries.  In contrast, the persistence of firm-specific
+earnings does not vary with industry homogeneity.  Further, the market fails to understand the consequences of industry
+homogeneity for the relative persistence of industry-wide earnings.  In fact, the underreaction to industry-wide earnings is
+significant only in homogeneous industries. 
+In a similar vein, we find that the market fails to understand the consequences of business model shocks on the
+persistence of earnings components.  We identify large industry-wide business shocks following Guay Name (2014) and firmspecific business shocks following Owens Name (2014).  Although these business shocks reduce the persistence of industrywide and firm-specific earnings, respectively, the effect is significantly lower for industry-wide earnings, consistent with
+this being the more persistent earnings component in general.  The market, however, appears to overestimate the effect of
+the business shock on the persistence of industry-wide earnings, and thus overreacts to its effect on industry-wide earnings. 
+Finally, consistent with predictions, we find that industry-wide cash flows is the most persistent component of earnings
+while firm-specific accruals is the least persistent.  Thus, the higher (lower) persistence of cash flows (accruals) documented
+in prior research is attributable primarily to the industry-wide (firm-specific) component and it is these specific components
+that we expect to drive mispricing.  The results confirm that stock prices significantly underweight the persistence of
+industry-wide cash flows and significantly overweight the persistence of firm-specific accruals. 
+Our results are robust to several alternative industry classifications, including Standard Industry Classification (SIC) and
+North America Industry Classification System (NAICS) codes, and industry-size portfolios.  Importantly, our results do not
+replicate in a pseudo-industry classification, suggesting that our findings cannot be explained as a mechanical artifact
+attributable to the aggregation of data across firms.  Our results are also robust to defining industry-wide earnings as the
+sales- or market-value-weighted average of firms in the industry. 
+Additional tests show that industry-wide earnings are a significant predictor of future stock returns, consistent with
+investor underreaction.  The spread between the annualized returns of the highest and lowest deciles of industry-wide
+earnings is 9. 5% (4. 9%) in the first (second) year after portfolio formation, both statistically and economically significant. 1
+Moreover, the spread is negative in only one year of our twenty four-year sample period, indicating that the results are
+stable over time.  Findings from regression analyses show that these results are robust to controlling for a variety of other
+factors that may be correlated with industry-wide earnings and future abnormal stock returns. 
+This paper contributes to the literature on earnings persistence and its role in equity valuation.  Over the past two
+decades there has been a substantial amount of research focusing on the persistence of total earnings and its accounting
+components (i. e. , cash flows and accruals), leading Dechow Name (2010) to call for more extensive study on how economic
+fundamentals as well as their interaction with accounting rules affect earnings persistence.  This paper provides an initial
+step in this important direction.  Our findings also have implications for the literature on the determinants of earnings
+quality, for which persistence is a commonly used proxy.  Prior research in this area focuses almost exclusively on firm-level
+determinants of earnings quality.  More recently, however, accounting academics have recognized the importance of
+studying the role of economic fundamentals in the earnings generating process and its effects on earnings quality (e. g. ,
+Owens Name, 2014).  Thus, our findings more generally illustrate the importance of considering economic fundamentals in
+modeling earnings quality. 
+We focus our attention on industry fundamentals as a key driver of earnings persistence.  Financial statement analysis
+texts typically emphasize the importance of industry analysis in assessing firm performance (e. g. , Wahlen Name, 2015), and
+survey data indicates that financial professionals view industry fundamentals as one of the most important factors affecting
+the sustainability of earnings at their company (Dichev Name, 2013).  However, as yet there is limited empirical evidence on
+the role of industry fundamentals, and innate factors in general, on the persistence of reported earnings.  Early work by
+Brown and Ball (1967) and Magee (1974) finds that a significant portion of the variability of a firm’s earnings can be
+explained by industry-level news.  Lev (1983) reports a significant association between earnings persistence and economic
+factors including product type and industry competition.  We provide new evidence documenting the differential
+persistence of industry-wide and firm-specific earnings, and how these persistence parameters vary predictably with
+several economic fundamentals as well as interact with the accounting constructs of accruals and cash flows. 
+Finally, we contribute to the literature examining market participants’ use of industry-related earnings information in
+evaluating performance and valuing the firm.  Prior work examines how quickly industry-wide earnings information is
+impounded in stock prices, with mixed results (e. g. , Ayers and Freeman, 1997; Elgers Name, 2008).  Other research shows that
+analysts increase the relative amount of industry-wide earnings news incorporated into stock prices (Piotroski and
+Roulstone, 2004), even though investors' underreact to the industry-wide earnings news contained in analysts’ industry
+reports (Hui and Yeung, 2013).  Extending our analysis of earnings persistence, we contribute to this research by showing
+that investors not only underreact to the higher persistence of industry-wide earnings in general but also overreact to the
+lower persistence of firm-specific earnings.  Moreover, these effects are exacerbated by other economic fundamentals (e. g. ,
+industry homogeneity, business model shocks) that investors also fail to fully understand. 
+The remainder of our paper proceeds as follows.  Section 2 outlines our sample and the measurement of our test
+variables.  Section 3 reports our primary tests regarding industry-wide and firm-specific earnings.  Section 4 extends this
+analysis to examine the cash flow and accrual components of industry-wide and firm-specific earnings, while Section 5
+reports the results of several additional analyses.  Section 6 concludes. 
+<Middle> Data and variable measurement. 
+2. 1.  Sample. 
+Our sample selection strategy proceeds in two steps.  First, we impose only those data requirements necessary to calculate
+industry-wide earnings (as well as industry-wide accruals and cash flows) to ensure that we have the most representative measures
+of these variables for our analyses.  Thus, our sample selection starts with the 127,178 firms-years in the Compustat universe that have
+common shares listed on one of the three major U. S.  stock exchanges (NYSE, AMEX, or NASDAQ) and a GICS code during the period
+1988–2011. 2 From this initial sample, we exclude financial institutions (two-digit GICS code¼40) because the nature of accruals for
+financial institutions differs from that for industrial firms, leaving 101,688 observations.  Next, we require each eight-digit GICS
+industry to have at least two firms with Compustat data on earnings and cash flows from the Statement of Cash Flows.  We use the
+remaining 81,415 observations to calculate the industry-wide measures of earnings, cash flows, and accruals defined in Section 2. 2. 
+In the second step of our sample selection strategy we obtain the final sample of observations for our empirical tests by
+merging the preliminary sample with the CRSP stock files, leaving 71,843 observations.  We then drop observations without
+the requisite data to calculate the measures of business model shocks, reducing our sample to 68,368 firm-years.  Lastly, to
+implement the Mishkin tests for market rationality, we further require one-year-ahead earnings, accruals, and stock returns
+data, leaving 60,259 firm-year observations in our final sample. 3
+Panel A of Table 1 shows the average number of firms in our final sample for each five-year window in our sample period
+(except for the last window which is only four years).  There are fewer firms, on average, in the first window of the sample
+period, consistent with the general trend observed in Compustat.  Panel B shows the number of firms across NYSE size
+deciles.  As expected, the sample leans slightly toward small firms (e. g. , Fama and French, 2008).  Panel C shows the number
+and frequency of sample firm-years in each major industry sector defined by the two-digit GICS code, as well as the
+frequency of all firms in the Compustat-CRSP population.  This comparison shows that the industry composition of our
+sample is similar to that of the Compustat-CRSP population.  The largest sectors in the sample are information technology
+(20. 00%) industrials (19. 94%), consumer discretionary (19. 27%), and health care (13. 24%). 
+2. 2.  Computation of main variables and descriptive statistics. 
+Our tests require partitioning earnings into industry-wide and firm-specific components.  Following prior studies (e. g. ,
+Brown and Ball, 1967; Ayers and Freeman, 1997; Hui and Yeung, 2013), industry-wide earnings represent the common
+component of earnings for all firms in the same industry, while firm-specific earnings are the deviations of individual firms'
+earnings from the industry average. 4 Specifically, let Earni,j,t denote the earnings of firm i in industry j for year t, measured as
+operating income after depreciation scaled by average assets (Sloan, 1996). 5 Assuming there are N firms in industry j, the
+industry-wide earnings of industry j for year t is defined as
+and firm-specific earnings of firm i in industry j for year t is defined as this. 
+Following the same approach, we also decompose industry-wide earnings (IndEt) into industry-wide operating cash
+flows (IndCFt) and industry-wide accruals (IndAcct),
+where IndCFt is the average of operating cash flows scaled by average assets (CFt) for all firms in the same industry, and
+IndAcct is the difference between IndEt and IndCFt.  Similarly, we decompose firm-specific earnings (FirmEt) into firm-specific
+operating cash flows (FirmCFt) and firm-specific accruals (FirmAcct),
+where FirmCFt is the difference between CFt and IndCFt, and FirmAcct is the difference between FirmEt and FirmCFt. 
+Table 2 provides descriptive statistics for the key variables of interest.  The median of Earn is 0. 044, indicating that return
+on assets for the typical firm in our sample is approximately 4. 4%.  The standard deviation of FirmE is almost twice that of
+IndE, consistent with our expectation that firm-specific profitability is more volatile than industry-wide profitability. 
+Turning to the accounting components of earnings, cash flows are positive (0. 073), on average, and accruals are negative
+( 0. 058), consistent with prior work.  The statistics also indicate that the variation in cash flows and accruals is mainly
+driven by their firm-specific components.  The standard deviations of FirmCF and FirmAcc are approximately twice as large as
+the standard deviations of IndCF and IndAcc, respectively. 
+3.  Analysis of industry-wide and ﬁrm-speciﬁc earnings
+3. 1.  Univariate results of differential persistence
+The basic premise of our paper is that the industry-wide component of earnings is more persistent than the firm-specific
+component.  To provide initial evidence on this issue, Fig.  1A (1B) displays time-series plots of average earnings for the top and bottom
+deciles of IndEt (FirmEt) over a [t 3, tþ3] window, where year zero is the year in which firms are ranked into the extreme deciles. 6
+Fig.  1A shows that earnings performance is generally quite persistent for IndE, although there is some mean reversion for negative IndE. 
+In contrast, Fig.  1B shows a conspicuous pattern of mean reversion in earnings for both positive and negative FirmE, consistent with our
+expectation that the firm-specific component of earnings dissipates more rapidly than the industry-wide component.  More specifically,
+we find that earnings of firms in the bottom (top) decile of IndE are significantly more persistent than earnings of firms in the bottom
+(top) decile of FirmE (po0. 01). 7
+3. 2.  Mispricing of industry-wide and firm-specific earnings components,
+To test the joint proposition that the industry-wide component of earnings is more persistent than firm-specific earnings
+but investors fail to fully appreciate this difference, we follow prior research (e. g. , Abarbanell and Bernard, 1992; Sloan, 1996)
+and use the Mishkin (1983) approach to estimate the implicit weights placed on these earnings components in prices. 8 We
+first test whether the industry-wide component of earnings is more persistent than the firm-specific component by
+estimating the following ordinary least square (OLS) regression,
+where Earntþ 1 is reported earnings for year tþ1, and IndEt and FirmEt are the industry-wide and firm-specific components
+of earnings for year t, respectively.  We expect that the association between industry-wide earnings and future earnings is
+greater than the association between firm-specific earnings and future earnings (i. e. , a14a2). 
+To estimate the weights implicit in stock prices on the two earnings components in predicting one-year-ahead earnings,
+we use the following Mishkin non-linear generalized least square pricing regression model,
+where CARtþ 1 is the (size-adjusted) abnormal return for year tþ1 (i. e. , starting the fourth month after the end of fiscal year
+t), and Multiple is the earnings response coefficient. 9 If stock prices behave as if investors fail to fully appreciate the
+differential persistence of the earnings components, we expect α1¼α2 in model (5b).  Further, comparing coefficient
+estimates across models (5a) and (5b), we expect a14α1 and a2oα2. 
+Before we discuss the results of these estimations, panel A of Table 3 shows baseline regressions that forecast one-yearahead earnings with current total earnings in column (1) and the forecasting equation implicit in stock returns in column
+(2).  We find in column (1) that the estimated coefficient on current earnings (Earnt) is 0. 536.  Consistent with the market on
+average correctly pricing the persistence of total earnings, we find in column (2) that the implied weight on Earnt is 0. 534,
+which is statistically indistinguishable from the estimated persistence of earnings (p¼0. 95). 
+Turning to the main findings, column (1) of panel B presents the results of estimating Eq.  (5a).  The estimated coefficient
+on industry-wide earnings (IndE) is 0. 760, significantly greater than the 0. 487 estimated coefficient on firm-specific earnings
+(FirmE) (po0. 01).  Thus, as predicted, the evidence indicates that the industry-wide component of earnings is significantly
+more persistent than the firm-specific component. 10
+Column (2) of panel B shows the estimated weights on industry-wide and firm-specific earnings implicit in stock prices. 
+The estimated coefficients on IndE (0. 587) and FirmE (0. 523) are not significantly different from each other (p¼0. 60). 
+Furthermore, the χ2 tests comparing estimated coefficients in columns (1) and (2) indicate that stock prices significantly
+underweight IndE (i. e. , 0. 587o0. 760, po0. 01) but overweight FirmE (i. e. , 0. 52340. 487, p¼0. 04). 11 Taken together, these
+results support our prediction that investors fixate on reported earnings without recognizing the higher (lower) persistence
+of performance attributable to the industry-wide (firm-specific) component of earnings. 12
+3. 3.  Cross-sectional tests. 
+In this section, we report the results of two additional tests exploring potentially important sources of cross-sectional
+variation in the persistence of industry-wide and firm-specific earnings.  Specifically, we consider whether industry
+homogeneity (Section 3. 3. 1) or business model shocks (Section 3. 3. 2) affect the persistence of earnings components and
+their pricing by investors. 
+3. 3. 1.  Industry homogeneity. 
+When firms in an industry are relatively homogeneous (i. e. , they transact in similar factor and product markets and
+employ similar production technologies), their performance is more likely to be influenced by the same set of underlying
+economic forces.  As a result, industry-wide earnings should be more informative about firms’ future earnings than in
+industries where firms are relatively heterogeneous.  If investors fail to distinguish the higher persistence of the industrywide component of earnings, and if this effect is exacerbated by industry homogeneity, then we expect the results reported
+above to be stronger for more homogeneous industries. 
+To examine the effects of industry homogeneity, in Table 4 we repeat our primary tests partitioning the sample using
+three alternative proxies for industry homogeneity13.  In panel A, an industry is regarded as homogeneous if the firms in the
+industry are of similar size (e. g. , Albuquerque, 2009; Ecker Name, 2013).  We define an industry as homogeneous
+(heterogeneous) if the standard deviation of market value of firms in the industry in a given year is below (above) the
+median standard deviation of all industries in our sample in that year.  The results reveal three notable differences between
+homogeneous and heterogeneous industries.  First, the forecasting equation has significantly greater explanatory power in
+homogeneous industries (adjusted R2¼49. 01%) compared to heterogeneous industries (adjusted R2¼37. 96%) (po0. 01). 
+Second, the estimated persistence of IndE in homogeneous industries (0. 789) is significantly greater than in heterogeneous
+industries (0. 664) (p¼0. 03).  In contrast, there is relatively little difference in the estimated persistence of FirmE across
+homogeneous (0. 498) and heterogeneous industries (0. 462) (p¼0. 36).  Taken together, these effects result in a larger
+differential persistence (p¼0. 09) between industry-wide earnings and firm-specific earnings in homogeneous industries
+than in heterogeneous industries.  Third, building on these results, the market underreaction to industry-wide earnings is
+significant only in homogeneous industries (po0. 01).  The results reported in panel A thus support our contention that
+industry homogeneity contributes not only to greater persistence of the industry-wide component of earnings, but also to
+greater mispricing of this component by investors. 
+Our second proxy classifies an industry as homogeneous if the operating activities of firms in that industry have similar
+characteristics.  In panel B of Table 4, an industry is homogeneous (heterogeneous) if the dispersion of firms’ operating
+activities in that industry in a given year is below (above) the median dispersion of all industries in our sample in that year. 
+14 Our third proxy for industry homogeneity is the dispersion in the number of business segments.  In panel C of Table 4, an
+industry is homogeneous (heterogeneous) if the average number of business segments of firms in the industry in a given
+year is below (above) the median of all industries in our sample in that year. 
+The results using either of these alternative proxies for industry homogeneity are consistent with those reported in panel
+A.  Specifically, the earnings components have greater explanatory power for forecasting future earnings in homogenous
+industries, driven by a relatively high persistence of industry-wide earnings compared to firm-specific earnings for firms in
+these industries.  Moreover, the market underreaction to industry-wide earnings is significant only in homogeneous
+industries.  In sum, the results in Table 4 show that our main finding that industry-wide earnings are more persistent and
+investors fail to understand this property is stronger for homogeneous industries, as expected. 
+3. 3. 2.  Business model shocks. 
+The persistence of earnings should be highly influenced by the economic environment in which firms operate.  When
+there is a shock to that environment, earnings persistence is likely to diminish.  Industry-wide business shocks, such as
+changing customer tastes, likely affect the persistence of industry-wide earnings.  Firms in the same industry, however, may
+react differently to business shocks or experience a firm-specific shock, such as a technological innovation, thus affecting the
+persistence of firm-specific earnings. 
+We test whether industry-wide (firm-specific) shocks reduce the persistence of industry-wide (firm-specific) earnings by
+estimating the following OLS regression,
+where IndShockt (FirmShockt) is an indicator variable representing the presence of a large industry (firm) business shock in
+year t.  We expect negative coefficient estimates for the interaction variables IndEt  IndShockt and FirmEt  FirmShockt (i. e. ,
+b3o0 and b4o0). 
+We follow Guay Name’s (2014) approach to measuring industry-wide shocks.  Specifically, an industry is viewed as
+experiencing a large shock if the average absolute value of the percentage changes of the following variables from the prior
+year is greater than the sample median: Industry Assets (sum of all firms’ assets in the industry), Industry Sales (sum of sales
+in the industry), US Sales (average U. S.  sales-to-total sales ratio in the industry), Industry Growth (average market-to-book
+ratio in the industry), Industry Investment (sum of capital expenditure in the industry), Industry Research (sum of research
+and development expense in the industry), and Industry Advertising (sum of advertising expense in the industry). 
+Similarly, we follow Owens Name’s (2014) approach to identify large firm-specific shocks.  A firm is classified as
+experiencing a large shock in year t if the average of the following five indicators is above the median value of all firms in
+that year: Merger (equals one if Compustat footnote data item “sale_fn”¼“AB”, i. e. , sales have been “restated for/reflects a
+major merger or reorganization resulting in the formation of a new company”), Discontinued Operation (equals one if the
+magnitude of the income effect of discontinued operations is greater than five percent of sales), Industry Membership Change
+(equals one if the firm’s eight-digit GICS differs in years t 1 and t), Restructuring (equals one if the magnitude of
+restructuring charges is greater than 5% of sales), and Large Special Items (equals one if the magnitude of special items is
+greater than five percent of sales). 
+Column (1) of Table 5 presents the results of estimating equation (6a).  For firms not experiencing a large business shock,
+we continue to find that industry-wide earnings are more persistent than firm-specific earnings (i. e. , 0. 83240. 561,
+po0. 01).  As expected, the coefficient estimates on both interaction terms, IndEt  IndShockt and FirmEt  FirmShockt, are
+negative and significant, and indicate that industry-wide shocks have less of an effect on earnings persistence than firmspecific shocks (i. e. , –0. 113o–0. 200, po0. 01).  This result is consistent with our prediction that industry-wide earnings are
+more persistent in general, and thus shocks tend to have a smaller effect. 
+To test whether investors fail to fully recognize the impact of business shocks on the persistence of earnings components,
+we estimate the following regression. 
+If investors correctly assess the impact of business shocks on the persistence of earnings components, the coefficients on the
+interaction variables, IndEt  IndShockt and FirmEt  FirmShockt, will be negative (i. e. , β3o0 and β4o0) and not
+significantly different from those estimated in the forecasting regression (6a) (i. e. , β3¼b3 and β4¼b4).  However, if investors
+underestimate the persistence of industry-wide earnings, as documented above, we expect them to assume that the
+industry business shock reduces persistence to a greater extent than it actually does, leading to an overreaction to the effect
+of the industry shock on industry-wide earnings (i. e. , β3 is more negative than b3).  Similarly, investors that over-estimate the
+persistence of firm-specific earnings will underreact to the negative impact of the firm shock on firm-specific earnings (i. e. ,
+β4 is less negative than b4). 
+Column (2) of Table 5 reports the results of estimating regression (6b).  Comparing the estimated regression coefficients
+across the forecasting equation (column 1) and return equation (column 2), shows that the market correctly weights the
+persistence of IndE and FirmE in the absence of a large business shock (i. e. , when IndShock¼0 and FirmShock¼0).  However, a
+large shock to the industry or firm significantly impairs investors’ ability to assess earnings persistence.  Specifically, the
+market overreacts to the lower persistence of industry-wide earnings arising from an industry business shock (i. e. ,
+–0. 306o–0. 113, po0. 01) but underreacts to the lower persistence of firm-specific earnings arising from a firm-specific
+shock (–0. 1474–0. 200, p¼0. 07).  Overall, the results in Table 5 provide supporting evidence that (i) industry-wide earnings
+are more persistent than firm-specific earnings, as the impact of a business shock on industry-wide earnings is smaller than
+that on firm-specific earnings, and (ii) the market does not appear to recognize the higher persistence of industry-wide
+earnings even in the presence of a large business shock. 
+4.  Analysis of industry-wide and ﬁrm-speciﬁc cash ﬂows and accruals. 
+Our assertion regarding the effects of industry fundamentals suggests that the persistence of industry-wide cash flows
+and accruals (IndCF and IndAcc) is greater than the persistence of firm-specific cash flows and accruals (FirmCF and FirmAcc). 
+Extending the argument of Sloan (1996), however, suggests that the persistence of IndCF (FirmCF) is greater than the
+persistence of IndAcc (FirmAcc).  Considering both industry fundamentals and accounting constructs together therefore leads
+to the prediction that industry-wide cash flows (IndCF) is the most persistent component of earnings and firm-specific accruals
+(FirmAcc) is the least persistent.  The relative persistence of the other two components – industry-wide accruals (IndAcc) and
+firm-specific cash flows (FirmCF) – is less obvious as the industry and accounting forces affecting persistence are not acting in
+concert.  In this section, we present results analyzing the persistence and pricing of these four earnings components. 
+We use the following Mishkin generalized least square regressions to test the persistence and pricing of the industrywide and firm-specific cash flows and accruals. 
+In regression model (7a), we expect that the persistence of industry-wide cash flows (i. e. , c1) is highest while the persistence
+of firm-specific accruals (i. e. , c4) is lowest.  Moreover, in regression model (7b), we expect that the underreaction associated
+with cash flows documented by Sloan (1996) is mainly driven by industry-wide cash flows because the higher persistence of
+cash flows is attributable to the industry-wide component.  If our prediction is correct, we expect c14γ1 (underreaction to
+industry-wide cash flows).  Likewise, we predict that Sloan’s (1996) evidence of an overreaction associated with accruals is
+mainly driven by firm-specific accruals because the lower persistence of accruals is attributable to the firm-specific
+component.  In other words, we expect c4oγ4 (overreaction to firm-specific accruals). 
+We do not make explicit predictions on the relation between c2 and γ2 and between c3 and γ3.  Under the earnings
+fixation hypothesis, investors are likely to apply one average persistence parameter to all earnings components (as
+suggested by Table 3, panel A).  Thus, there may be no difference between c2 and γ2 (and between c3 and γ3), not because
+investors understand their persistence but because the average persistence parameter used by investors roughly equals the
+persistence of FirmCF and IndAcc by chance. 
+Panel A of Table 6 reports our replication of prior findings (e. g. , Sloan, 1996) showing that the market underreacts to cash
+flows and overreacts to accruals.  We find in our sample that the implied weight on CF in prices is significantly lower than the
+estimated persistence of CF (i. e. , 0. 518o0. 583, po0. 01).  We also find that the implied weight on Acc in prices is significantly
+higher than the estimated persistence of Acc (i. e. , 0. 55040. 489, po0. 01) but insignificantly different from the implied
+weight on CF in prices (p¼0. 25). 
+The first column of panel B of Table 6 shows the results of estimating model (7a).  Consistent with our predictions, we
+find that industry-wide cash flows are the most persistent component of earnings and firm-specific accruals are the least
+persistent.  Specifically, the estimated coefficient on IndCF (¼0. 826) is significantly higher than the coefficients on any of the
+other components of earnings.  In addition, the estimated coefficient on FirmAcc (¼0. 449) is the lowest of all the earnings
+components.  We also find that the estimated coefficient on FirmCF (¼0. 528) is significantly lower than that on IndAcc
+(¼0. 666), indicating that industry-wide accruals are more persistent than firm-specific cash flows. 
+The second column of panel B presents the results of estimating model (7b).  Consistent with our expectations, we find that the
+estimated coefficient on IndCF in the return regression (¼0. 529) is significantly lower than that in the forecasting regression
+(¼0. 826) and that the estimated coefficient on FirmAcc in the return regression (¼0. 534) is significantly higher than that in the
+forecasting regression (¼0. 449).  These results indicate that the underreaction to cash flows is mainly attributable to its industrywide component while the overreaction to accruals is mainly attributable to its firm-specific component. 15 Finally, the insignificant
+results of the F-tests in the return regression further suggest that the market does not differentiate the persistence of the four
+main components of earnings partitioned by economic fundamentals and accounting conventions. 
+In sum, we find that industry fundamentals play an important role in determining the persistence of earnings that is
+distinct from the accounting constructs of accruals and cash flows investigated in prior research.  Our analysis serves to
+pinpoint the source of differential persistence, and hence market mispricing, as attributable primarily to the relatively high
+persistence of industry-wide cash flows at one extreme and the low persistence of firm-specific accruals at the other. 
+However, cash flows are not uniformly more persistent than accruals, as firm-specific cash flows are less persistent than
+industry-wide accruals. 
+5.  Additional analyses. 
+5. 1.  Good news versus bad news. 
+Prior research shows that bad earnings news is less persistent than good earnings news (i. e. , Basu, 1997).  Our finding that firmspecific earnings are less persistent than industry-wide earnings indicates the possibility that bad news is largely firm-specific (e. g. ,
+write-offs).  To shed some light on this issue, we test (i) whether the differential persistence of industry-wide and firm-specific earnings
+is more pronounced when firms report bad news and (ii) whether the market understands the firm-specific nature of bad news. 
+Table 7 presents the results of Mishkin tests which include two BadNews interaction terms in our main model in Eqs.  (5a) and (5b). 
+BadNews is an indicator variable set equal to one if the change in reported earnings is negative, and zero otherwise.  As expected, the
+results in column (1) indicate that the lower persistence of firm-specific earnings is primarily driven by bad news.  In particular, we
+observe economically and statistically significant differential persistence between IndE BadNews and FirmE BadNews.  In contrast, the
+difference between the estimated coefficients for IndE and FirmE is much smaller.  Column (2) presents the implied differential
+persistence of earnings components in stock prices.  The results indicate that while the market understands that bad news is less
+persistent (i. e. , the coefficient estimates are significantly negative for both BadNews interaction terms), it does not seem to understand
+that bad news is largely firm-specific.  The coefficient estimates on the two BadNews interaction terms are not significantly different
+from each other (p¼0. 74), suggesting that the market perceives bad news as equally less persistent for industry-wide and firm-specific
+earnings.  This result reinforces our main finding that the market does not seem to understand the differential persistence of industrywide and firm-specific components of earnings, either in general or in the presence of bad news. 
+5. 2.  Pre- versus post-2004. 
+Green Name (2011) finds that the accruals anomaly first documented by Sloan (1996) appears to have decayed significantly after
+2004.  In this section we discuss untabulated tests examining whether the markets’ mispricing of the industry-wide and firm-specific
+components of earnings also disappears after 2004.  We first confirm in our data that investors do not appear to significantly misprice
+the differential persistence of the accrual and cash flow components of earnings after 2004, consistent with the findings in Green
+Name (2011).  In contrast, we find that investors continue to significantly misprice the differential persistence of industry-wide and
+firm-specific earnings (i. e. , the results reported in Table 3, Panel B are robust both before and after 2004). 
+To reconcile these findings, we partition industry-wide and firm-specific earnings into their respective accrual and cash
+flow components.  We find a noticeable shift in the weighting of the industry-wide components after 2004.  Specifically,
+there is an increase in investors’ weighting on the persistence of industry-wide cash flows after 2004 and an even larger
+decrease in the weighting on industry-wide accruals. 16 Because these shifts both occur in the weighting of the accounting
+components of industry-wide earnings, there is no overall change in the weighting of industry-wide earnings over time. 
+However, the substantial decrease in the weighting on industry-wide accruals does decrease the overweighting of total
+accruals, and hence diminishes the accruals anomaly effect.  Thus, we not only reconcile our findings to those of Green Name
+(2011) but also further our understanding of the persistence of earnings and its components as defined by industry
+economic fundamentals and accounting constructs.  We leave for future research to explore why investors’ weighting of the
+industry-wide cash flow and accrual components of earnings shifted in recent years. 
+5. 3.  Alternative industry definitions
+We examine the sensitivity of our main results to two alternative industry definitions, four-digit SIC code and six-digit
+NAICS code.  In both cases, we find that industry-wide earnings are significantly more persistent than firm-specific earnings,
+consistent with the findings reported above.  However, the coefficient estimate on IndE using the GICS classification (¼0. 760,
+Table 3) is significantly higher than the estimates using either SIC or NAICS, consistent with prior research suggesting that
+GICS is a better industry definition for capital markets-based research.  In contrast, the coefficient estimates on FirmE are
+similar across all three industry classifications.  Nevertheless, inferences regarding the underreaction (overreaction) to
+industry-wide (firm-specific) earnings are unchanged using either SIC or NAICS. 
+We further examine the robustness of our results using a combination of both industry and firm size as an alternative
+definition of industry (e. g. , Albuquerque, 2009).  Specifically, we re-define industry-wide earnings as the average earnings (scaled
+by average assets) of all firms in the same eight-digit GICS code and in the same size decile.  We continue to find that industrywide earnings are significantly more persistent than firm-specific earnings.  However, the estimated coefficient on IndE in this
+analysis is significantly less than in our primary GICS-based analysis (po0. 01), suggesting that this approach does not provide a
+superior industry classification in our particular context.  We continue to find underreaction (overreaction) to industry-wide (firmspecific) earnings using the combination of both industry and firm size as an alternative definition of industry. 
+Finally, we repeat our main analyses using industry-wide and firm-specific earnings defined by a pseudo-industry
+classification.  One potential concern with our findings is that the persistence of industry-wide earnings is higher than firmspecific earnings because of the aggregation of data across firms rather than because of industry economic fundamentals.  To
+the extent that aggregating earnings reduces noise in the data, we could obtain a higher estimate of persistence even if the
+firms are not from the same industry.  Our analysis of industry homogeneity in Section 3. 3. 1 suggests that this does not
+explain our results, but to further rule out any mechanical relation introduced by aggregation, we form 136 pseudoindustries, equal to the total number of eight-digit GICS industries in our sample.  Observations are assigned to each pseudoindustry according to the alphabetic order of the sample firms’ names.  The number of observations in each pseudo-industry
+equals the number of observations in each eight-digit GICS industry in our sample. 17 Industry-wide and firm-specific
+earnings are then calculated within each pseudo-industry.  Untabulated results show that the persistence of pseudo-IndE is
+not significantly different from that of pseudo-FirmE (p¼0. 79).  Thus, the results from this analysis indicate that our findings
+cannot be explained as a simple function of aggregation. 
+5. 4.  Alternative definitions of industry-wide earnings. 
+It is possible that industry leaders’ earnings are more representative of industry-wide earnings than the average earnings of all
+firms in the industry.  We thus test our predictions defining industry-wide earnings as the sales- or market value-weighted average
+earnings of all firms in the same industry.  We continue to find that industry-wide earnings are significantly more persistent than
+firm-specific earnings with either definition, and stock prices behave as if investors do not understand these differences. 
+5. 5.  Analysis of future stock returns. 
+One implication of our prediction that investors underreact to industry-wide earnings is that we should observe a
+predictable drift in future stock prices in the direction of industry-wide earnings.  To test for this effect, we examine future
+average abnormal stock returns for each decile portfolio of IndE.  In this analysis, we impose two additional filters on our
+sample, leaving 53,960 observations.  First, we require that firms have a December fiscal year-end and that the dominant
+fiscal year-end in the industry is December. 18 This requirement avoids look-ahead bias in the data because the distribution
+of industry-wide earnings for a year is known to investors (e. g. , Sloan 1996).  Second, we require stock price at the end of the
+year to be above $1 to avoid the noise in CRSP stock prices due to a variety of microstructure issues (infrequent trading, bid–
+ask spread bounces, etc. ). 
+We calculate the cumulative abnormal return (CAR) as the size-adjusted 12-month buy-and-hold stock return starting
+the fourth month after the end of the fiscal year t (i. e. , April of year tþ1), adjusted for the 12-month stock return for the
+firm’s corresponding NYSE and AMEX size decile return. 19 As a robustness check, we also calculate the DGTW three-factor
+(size, book-to-market, and momentum) adjusted returns (CAR3f) (Daniel Name, 1997; Wermers, 2004). 20
+Table 8 reports average future abnormal stock returns for the IndE decile portfolios.  The results in column (3) show a
+monotonic increase in CARtþ 1 from the Low IndE decile ( 0. 060) to the High IndE decile (0. 035).  The difference between the
+average CARtþ 1 in the Low and High deciles is 9. 5%, an economically and statistically significant result. 21 We report similar
+results in column (4) where the average CARtþ 2 generally increases from the Low decile ( 0. 036) to the High decile (0. 012),
+producing a statistically significant difference of 4. 9% (po0. 01). 22 The evidence therefore suggests that the ability of industrywide earnings to predict future returns is relatively long-lasting, although the magnitude of the hedge portfolio return
+decreases by 50% from the first year to the second year after portfolio formation.  Finally, the evidence in column (5) indicates
+that industry-wide earnings do not predict three-years-ahead abnormal returns (CARtþ 3).  Results in Columns (6)–(9) are similar
+when we use the three-factor adjusted returns. 23
+To test whether the observed univariate return predictability is robust, we estimate the following OLS regression model
+to control for other variables that may be correlated with both industry-wide earnings and future abnormal stock returns,
+where IndE10t represents decile-ranked industry-wide earnings converted to [0,1]. 24
+Our primary focus is on industry-wide earnings (IndE10) which we predict is positively associated with one-year-ahead
+abnormal stock returns (i. e. , b140).  We include controls for several other accounting-based market anomalies documented
+in prior literature.  Specifically, we include accounting accruals and net operating assets, as Sloan (1996) and Hirshleifer Name
+(2004) find that accruals and cumulative accruals predict negative future stock returns.  Similarly, we include earnings
+surprise (Surp10) to control for the effects of post-earnings announcement drift (e. g. , Bernard and Thomas, 1989, 1990;
+Collins and Hribar, 2000).  We also include proxies for firm risk (Log MV, Beta, BM and SalesG), industry and firm momentum
+in stock prices (IndMom and FMom) (Moskowitz and Grinblatt, 1999, Jegadeesh and Titman, 1993), and arbitrage costs
+(Arbitrage). 
+Columns (1) and (2) of Table 9 present the results of estimating eq.  (8) with one- and two-years ahead size-adjusted
+returns as the dependent variable, respectively.  As expected, the coefficient estimates on IndE10 are significantly positive in
+both regressions and their magnitudes indicate that the univariate hedge returns reported in Table 8 are robust to
+controlling for other factors. 25 Consistent with prior findings, we find that Acc10 and NOA10 predict future negative stock
+returns, while Surp10 predicts future positive stock returns, and these effects decline over longer horizons.  Finally, we find
+significantly positive coefficients on BM and IndMom, consistent with the book-to-market and industry momentum effects. 
+Columns (3) and (4) of Table 9 present the results using three-factor adjusted abnormal stock returns.  The coefficient
+estimates on IndE10 remain significant in both estimations (tZ1. 80).  Interestingly, the estimated coefficients for IndMom are
+no longer significant, indicating that the industry return momentum results are sensitive to risk-adjustments.  Overall, we
+find that the univariate results are robust to controlling for several other important factors that are correlated with future
+stock returns. 26
+<Conclusion> Summary and conclusion. 
+Economic theory suggests that the component of firm performance determined by industry fundamentals is more
+persistent than the component unique to the firm.  Based on this foundation, we examine the relative persistence of
+industry-wide and firm-specific earnings and whether investors correctly anticipate how economic fundamentals affect the
+persistence of these earnings components.  To test our predictions, we group firms into industries using the Global Industry
+Classification Standard (GICS) and parse reported earnings into an industry-wide component, equal to the average earnings
+of all firms in the industry, and a firm-specific component, equal to the residual. 
+Consistent with predictions, we find that industry-wide earnings are significantly more persistent than firm-specific
+earnings. 
+Investors place similar weights on the two components, however, causing equity prices to underweight
+(overweight) the persistence of industry-wide (firm-specific) earnings.  We further identify two economic forces – industry
+homogeneity and business model shocks – that we expect to systematically affect industry-wide earnings persistence.  Using
+three different proxies for industry homogeneity, we find that industry-wide earnings are significantly more persistent in
+homogenous industries than heterogeneous industries, as expected.  The market does not appear to recognize the effects of
+homogeneity on earnings persistence, however, and thus underreacts to the persistence of industry-wide earnings to a
+greater extent in homogenous industries.  Also consistent with expectations, we find that business model shocks reduce the
+persistence of both industry-wide and firm-specific earnings, although as the more persistent of the two components, the
+effect is significantly less pronounced for industry-wide earnings.  Investors do not appear to recognize the higher
+persistence of industry-wide earnings even in the face of a large business shock, and thus overreact to its effects.  Our
+findings are robust to alternative definitions of industries and industry-wide earnings. 
+Our focus on economic fundamentals and the persistence of industry-wide and firm-specific earnings differs from the
+prior research based on the accounting classification of earnings into cash flow and accruals (e. g. , Sloan 1996).  To examine
+these two non-mutually exclusive perspectives on earnings components, we decompose industry-wide and firm-specific
+earnings into their respective cash flow and accrual components.  Consistent with predictions, we find that industry-wide
+cash flow is the most persistent component of earnings while firm-specific accruals is the least persistent, and accordingly
+market mispricing is attributable to these components. 
+Our results highlight the importance of industry economics in the earnings generating process and investors’ naïve
+expectations about this fundamental valuation attribute.  Our results also have implications for the earnings quality
+literature in which earnings persistence is a commonly used metric (e. g. 

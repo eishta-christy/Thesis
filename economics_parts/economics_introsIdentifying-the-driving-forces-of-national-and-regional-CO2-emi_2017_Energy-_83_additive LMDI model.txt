@@ -1,0 +1,125 @@
+
+In recent years, climate change has aroused worldwide attention,
+and in-depth international discussions have been held to mitigate
+climate change.  Since 2007, China has surpassed the US to become the
+world's largest CO2 emitter, and thus becomes a focus of global efforts
+to reduce CO2 emissions.  As one of the Parties to the United Nations
+Framework Convention on Climate Change, China has always been
+promoting the implementation of the Convention and fulﬁlling its obligations.  Chinese government committed to reduce CO2 emissions per
+unit of gross domestic production (GDP) by 40–45% towards 2020 at
+2009 Copenhagen Climate Change Conference and by 60–65% towards
+2030 at 2015 Paris Climate Change Conference.  To achieve such
+challenging emission-reduction targets, China has attempted to adopt
+effective policy instruments, such as the deployment of renewable
+energy, the establishment of national carbon emission trading market. 
+China has experienced a signiﬁcant increase in CO2 emissions in the
+past decades (Liu Name, 2015).  Large variations in the growth pattern of
+China's CO2 emissions at the regional level exist due to uneven distribution of initial resource endowment, economic scale, industry structure,
+development stage etc.  (Meng Name, 2016).  CO2 emissions per capita
+and CO2 emissions per unit of GDP among China's 30 regions also vary
+sharply (Shan Name, 2016).  Emission-reduction targets for each region
+should be set in considering the characteristics of socio-economic
+development (Wang Name, 2016).  Therefore, it is necessary to explore
+the driving forces of the variations of national and regional CO2 emissions of China in order to set accurate emission-reduction targets and
+take effective measures from the perspective of national and regionalThis study explores the changes of national and regional CO2
+emissions using temporal decomposition analysis model, and analyzes
+the differences of CO2 emissions between China's 30 regions and the national average using spatial decomposition analysis model.  In addition,
+this study evaluates the potential of emission-reduction of China's 30
+regions.  The study did not only contribute to the energy saving and
+emission reduction of China's CO2 emissions but also provide some
+targeted suggestion for emission-reduction at regional and sectoralThe remainder of this study is organized as follows.  Section 2 reviews some existing literature.  Section 3 presents the models including
+temporal and spatial decomposition analysis models and data sources
+used in this study, and the overview of the national and regional CO2
+emissions in China.  Section 4 depicts the decomposition results and
+evaluates the potential of emission-reduction in China's 30 regions. 
+Section 5 details further discussion of the deep-rooted reasons of key
+factors with larger effect on CO2 emissions and the future tendency of
+contribution of key factors.  Section 6 shows conclusion of the analysis,
+with summary and policy implications. 
+2.  Literature review. 
+Existing studies have been conducted to analyze the driving forces of
+the variations of national and regional CO2 emissions from the perspective of temporal and spatial level. 
+First, tracking changes of CO2 emissions and quantifying the driving forces of the changes over time have long been a focus area of
+researchers and policymakers.  Intensive studies have analyzed the
+CO2 emissions and the driving forces of the change of CO2 emissions
+at national (Wu Name, 2005.  Jung Name, 2012.  Cortés-Borda Name,
+2015.  Sumabat Name, 2016.  van Ruijven Name, 2016), regional (Liang
+Name, 2007.  Geng Name, 2013.  Wang Name, 2017) and industrial
+level (Lin and Moubarak, 2013.  Xu and Lin, 2016a.  Talbi, 2017) overSecond, growing interest among researchers in comparing regions in
+terms of CO2 emissions emerges in recent years.  The comparison allows
+variations among countries or regions to be revealed, the contributing
+factors identiﬁed, and the scope for improvement better understood
+(Ang Name, 2016).  Many studies on analyzing the differences in CO2
+emissions among different countries (Sun, 2000a, 2000b.  Zhang and
+Ang, 2001.  Bataille Name, 2007), regions (Feng Name, 2009.  Su and Ang,
+2016.  Xu and Lin, 2016b.  Wang Name, 2016.  Xu Name, 2016), and a speciﬁc sector among regions (Cui and Li, 2015.  Xu and Lin, 2016a, 2016c. 
+Long Name, 2016) have also been conducted.  Besides, some studies are
+also involved in the spatio-temporal analysis on the differences in regional CO2 emissions in recent years (Huang and Meng, 2013.  Kim
+and Dall'erba, 2014.  Chen and Yang, 2015.  Ang Name, 2016).  Existing
+literatures on the spatial analysis mainly focus on the differences in
+CO2 emissions among regions from the perspective of production or a
+speciﬁc production sector, and less literature are involved in householdDecomposition analysis is usually used to analyze the variations in
+energy usage and emissions (Ang, 2015).  The model can not only
+identify the main driving forces of the variations in an aggregation but
+also show the clearly quantitative results of to what extent the driving
+forces affect the variations (Su and Ang, 2012, 2015).  The logistics
+mean Division index (LMDI) model is a preferred index decomposition
+analysis approach because of the advantages of path independence,
+residue free, ability to handle zero values, and consistency in aggregation (Ang, 2004).  Previous studies mainly adopted LMDI model to
+study the determinants of variations of an aggregate based on the data
+collected chronologically at different points in time for a speciﬁc region,
+such as Ang and Liu (2001), Wang Name (2005), Mairet and Decellas
+(2009), Wang and Li (2016), Shao Name (2016), Lin and Ahmad
+(2017).  Therefore, this study uses LMDI method to conduct a temporal
+decomposition analysis of the changes of national and regional CO2
+emissions of China. 
+Ang Name (2015) proposed a multi-regional (M-R) spatial decomposition model, which can be used to analyze why the differences in CO2
+emissions exist among countries or among different regions within a
+country.  The model shows an advantage in reducing decomposition
+cases, avoiding subjectivity in benchmark region selection, maintaining
+the property of circularity, and providing valuable information in terms
+of the potential of energy-saving and emission-reduction.  Therefore,
+this study adopts the M-R spatial decomposition model to compare
+the CO2 emission performance of China's 30 regions. 
+This study explores the driving forces of the changes of national and
+regional CO2 emissions using LMDI model, and investigates the driving
+forces of the differences of CO2 emissions between China's 30 regions
+and the national average using multi-regional M-R spatial decomposition analysis model.  Compared with the existing studies, the main contributions of this study are as follows.  (1) We carry out an in-depth
+analysis to uncover the main driving forces of the changes of national
+and regional CO2 emissions in China, and to analyze the dominant
+driving forces of the differences in CO2 emissions among China's 30
+regions.  The study provides deep insights into why and what degree
+the key factors affect national and regional CO2 emissions of China
+from the perspective of temporal and spatial dimensions, and offers
+policymakers references to formulate and implement targeted mitigation policies at both national and regional level.  (2) The original M-R
+spatial decomposition analysis model is improved in this study.  On
+one hand, household sector is introduced into the M-R spatial decomposition model for the ﬁrst time, and thus this study quantiﬁes the effects
+of urbanization, income improvement and population.  On the other
+hand, economic output and economic structure are introduced into
+the model in aspect of production sector.  The improved temporal and
+spatial decomposition analysis models in this study can be employed
+to analyze the variation of an aggregation, such as energy, water,
+waste, pollutants etc. , from the perspective of both production sector
+and household sector. 
+<Middle> Modelology and data. 
+3. 1.  Decomposition model. 
+3. 1. 1.  Kaya identity. 
+In the decomposition analysis framework, energy-related CO2
+emissions are classiﬁed into two categories according to emission
+sources.  energy-related CO2 emissions from production sector and
+energy-related CO2 emissions from household sector.  National and
+regional CO2 emissions in China can be decomposed into nine kinds of
+driving forces, as shown in Eq.  (1). 
+Where, i denotes each region in China.  j denotes the sectors involved in
+this study (j=1,2,⋯,6 for agriculture, industry, construction, service,
+urban residents and rural residents).  k denotes the energy type
+consumed by each sector (k= 1, 2,⋯,12 for raw coal, coke, crude oil,
+gasoline, kerosene, diesel oil, fuel oil, LPG, reﬁnery gas, other petroleum
+products, natural gas and electricity). 
+The variables involved in the temporal and spatial decomposition
+models are deﬁned in Tables 1 and 2. 
+3. 1. 2.  Temporal decomposition analysis. 
+Based on additive LMDI model proposed by Ang (2005), the
+aggregate changes of CO2 emissions for each region of China between
+the base year 0 and the target year T are decomposed into 9 driving
+forces, see Eq.  (2), i. 

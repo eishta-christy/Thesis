@@ -1,0 +1,130 @@
+The Plastid Genome in Cladophorales Green Algae Is
+Encoded by Hairpin ChromosomesHighlights
+d The chloroplast genome of Cladophorales algae is
+fragmented into hairpin chromosomes
+d The hairpin chromosomes are short GC-rich ssDNA
+molecules with one or two genes
+d Chloroplast genes are highly divergent from their
+corresponding orthologs
+d Fragmentation of the chloroplast genome coincided with
+gene transfer to the nucleusAndrea Del Cortona, Frederik Leliaert,
+Kenny A.  Bogaert, . . . ,
+Heroen Verbruggen,
+Klaas Vandepoele, Olivier De Clerck
+Correspondence
+olivier. declerck@ugent. be
+In Brief
+Del Cortona Name describe intriguing
+features of the plastid genome of
+Cladophorales, which is fragmented into
+linear ssDNA molecules that fold into
+hairpin conﬁgurations due to the
+presence of inverted repeats.  This
+architecture is unprecedented among
+eukaryotes, and highlights unexpected
+variation in plastid genome structure. 
+Del Cortona Name, 2017, Current Biology 27, 3771–3782
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 004
+Current BiologyThe Plastid Genome in Cladophorales Green Algae
+Is Encoded by Hairpin Chromosomes
+Andrea Del Cortona,1,2,3,4,11 Frederik Leliaert,1,5,11 Kenny A.  Bogaert,1 Monique Turmel,6 Christian Boedeker,7
+Jan Janouskovec,8 Juan M.  Lopez-Bautista,9 Heroen Verbruggen,10 Klaas Vandepoele,2,3,4 and Olivier De Clerck1,12,*
+1Department of Biology, Phycology Research Group, Ghent University, Krijgslaan 281, 9000 Ghent, Belgium
+2Department of Plant Biotechnology and Bioinformatics, Ghent University, Technologiepark 927, 9052 Zwijnaarde, Belgium
+3VIB Center for Plant Systems Biology, Technologiepark 927, 9052 Zwijnaarde, Belgium
+4Bioinformatics Institute Ghent, Ghent University, Technologiepark 927, 9052 Zwijnaarde, Belgium
+5Botanic Garden Meise, Nieuwelaan 38, 1860 Meise, Belgium
+6Institut de Biologie Integrative et des Syste` mes, Departement de Biochimie, de Microbiologie et de Bio-informatique, Universite Laval,
+Pavillon Charles-Euge` ne-Marchand 1030, Avenue de la Medecine, Quebec City, QC G1V 0A6, Canada
+7School of Biological Sciences, Victoria University of Wellington, New Kirk Building, Kelburn Parade, P. O.  Box 600, Wellington 6012,
+New Zealand
+8Department of Genetics, Evolution and Environment, University College London, Gower Street, London WC1E 6BT, UK
+9Department of Biological Sciences, The University of Alabama, 300 Hackberry Lane, Tuscaloosa, AL 35484-0345, USA
+10School of BioSciences, University of Melbourne, Professors Walk, Melbourne, VIC 3010, Australia
+11These authors contributed equally
+12Lead Contact
+*Correspondence: olivier. declerck@ugent. be
+https://doi. org/10. 1016/j. cub. 2017. 11. 004Virtually all plastid (chloroplast) genomes are circular double-stranded DNA molecules, typically between 100 and 200 kb in size and encoding circa
+80–250 genes.  Exceptions to this universal plastid
+genome architecture are very few and include the
+dinoﬂagellates, where genes are located on DNA
+minicircles.  Here we report on the highly deviant
+chloroplast genome of Cladophorales green algae,
+which is entirely fragmented into hairpin chromosomes.  Short- and long-read high-throughput
+sequencing of DNA and RNA demonstrated that
+the chloroplast genes of Boodlea composita are
+encoded on 1- to 7-kb DNA contigs with an exceptionally high GC content, each containing a long inverted repeat with one or two protein-coding genes
+and conserved non-coding regions putatively
+involved in replication and/or expression.  We propose that
+these contigs correspond to linear
+single-stranded DNA molecules that fold onto themselves to form hairpin chromosomes.  The Boodlea
+chloroplast genes are highly divergent from their
+corresponding orthologs, and display an alternative
+genetic code.  The origin of this highly deviant chloroplast genome most likely occurred before the
+emergence of the Cladophorales, and coincided
+with an elevated transfer of chloroplast genes
+to the nucleus.  A chloroplast genome thatcomposed only of linear DNA molecules is unprecedented among eukaryotes, and highlights unexpected variation in plastid genome architecture. 
+INTRODUCTION
+Photosynthetic eukaryotes possibly originated 1. 9 billion years
+ago following an endosymbiotic event in which a heterotrophic
+ancestor of the Archaeplastida engulfed a cyanobacterium that
+became stably integrated and evolved into a membrane-bound
+organelle, the plastid [1, 2].  Following this primary endosymbiosis, an intricate history of plastid acquisition via eukaryoteeukaryote endosymbioses resulted in the spread of plastids to
+distantly related eukaryotic lineages [3]. 
+Plastids have retained a reduced version of the genome inherited from their cyanobacterial ancestor.  A core set of genes
+involved in the light reactions of photosynthesis, ATP generation,
+and functions related to transcription and translation is typically
+retained [4].  Many genes have been lost or transferred to the nuclear genome and, as a result, plastids are dependent on nuclear-encoded, plastid-targeted proteins for the maintenance
+of essential biochemical pathways and other functions such as
+genome replication, gene expression, and DNA repair [5].  Nearly
+all plastid genomes consist of a single circular-mapping chromosome, typically between 100 and 200 kb and encoding circa
+80–250 genes [4, 6].  Diversity in size, gene content, density,
+and organization of plastid genomes among different eukaryotic
+lineages [7–9] is by and large limited, especially when compared
+to mitochondria. 
+Whereas fragmented mitochondrial genomes evolved several
+times independently during the evolution of eukaryotes [8, 10],
+fragmented plastid genomes are only known in dinoﬂagellates
+[11] and a single green algal species [12].  In peridinin-containing
+dinoﬂagellates,
+the chloroplast genome is fragmented into
+DNA minicircles of 2–3 kb, most of which carry one gene only
+[11, 13].  Larger minicircles of up to 12 kb have also been
+described [14], as well as minicircles containing two genes [15]
+and ‘‘empty’’ minicircles without genes [16].  The genes located
+on these minicircles mostly encode key components of the major
+Current Biology 27, 3771–3782, December 18, 2017 ª 2017 Elsevier Ltd.  3771
+Figure 1.  Boodlea composita
+(A) Specimen in natural environment. 
+(B) Detail of branching cells. 
+(C) Detail of chloroplasts, each containing a single
+pyrenoid, and forming a parietal network (the white
+line is a calcium oxalate crystal). 
+(D) Native agarose gel comparing genomic DNA of
+Bryopsis plumosa (Bryopsidales) and Boodlea
+composita (Cladophorales).  Lane 1: 1-kb ladder,
+sizes in bp; lane 2: B.  plumosa; lane 3: B.  composita. 
+HMW and low-molecular-weight (LMW) DNA bands
+of B.  composita are indicated. 
+See also Figure S1. 
+plasmid-like DNA that has been observed
+in the chloroplasts of several species
+[29, 30].  These plasmid-like DNA molecules represent a low-molecular-weight
+(LMW) DNA fraction, visible on agarose
+gels of total DNA extracts (Figure 1D).  Pioneering work revealed that these structures are single-stranded DNA (ssDNA)
+molecules of 1. 5–3. 0 kb that fold into a
+hairpin conﬁguration and lack sequence
+similarity to the nuclear DNA [31, 32]. the hairpin-like DNAs contain
+putatively transcribed sequences with
+similarity to chloroplast genes encoding
+(psaB, psbB, psbC, and
+subunits of photosystems I and II
+psbF) [31]. 
+Here we describe intriguing features of the plastid genome of
+Cladophorales, focusing on Boodlea composita.  Through the
+integration of different DNA sequencing methods, combined
+with RNA sequencing, we found that chloroplast protein-coding
+genes are highly expressed and encoded on 1- to 7-kb linear
+ssDNA molecules.  Due to the widespread presence of inverted
+repeats, these molecules fold into a hairpin conﬁguration. 

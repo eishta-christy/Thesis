@@ -1,0 +1,97 @@
+
+Opioid peptides have a long history of involvement in pain, reward,
+and learning and memory.  Previous reports from our laboratory and
+others have demonstrated that the general opioid antagonist naloxone,
+impairs learning of many associative tasks such as delay conditioning,
+operant lever-pressing behavior, fear conditioning, and trace eyeblink
+conditioning [1–5].  In exploring the role for speciﬁc opioid receptors in
+learning and memory, our laboratory has shown that antagonizing the
+kappa-opioid receptor (KOR) impairs acquisition for the associative
+paradigm whisker-trace eyeblink (WTEB) conditioning [6]. 
+In WTEB conditioning a neutral conditioned stimulus (CS; Whisker
+stimulation) is paired following a stimulus free trace interval with a
+salient unconditioned stimulus that elicits an eye-blink (US; Eye shock). 
+This paradigm has been shown to be dependent on, and induce plasticity in primary somatosensory cortex (S1), a likely site for memory
+storage [7–10].  Our subsequent studies exploring the role of KOR with
+learning have demonstrated that either systemic or direct S1 KOR inhibition impairs WTEB acquisition [6].  Consistent with our ﬁndings,
+many studies have shown that KOR modulation can alter learning on
+various tasks such as inhibitory avoidance, spontaneous alternation,
+water-maze, radial-arm-maze, and conditioned place aversion [11–15]. 
+These studies have strongly suggested that KOR plays a prominent role
+in mediating various types of learning. 
+KOR’s endogenous ligand and the most likely molecular trigger for
+these eﬀects on learning is dynorphin.  Dynorphin is synthesized from
+the precursor peptide prodynorphin (PD), which is synthesized in vesicles from the precursor preprodynorphin (PPD) [16].  Similar to KOR,
+Dynorphin and its upstream precursors have been implicated in various
+forms of learning.  For instance, PD knockout mice exhibit enhanced
+levels of freezing in a contextual fear conditioning task [17].  Likewise,
+dynorphin knockout mice display reduced age-related deﬁcits in water
+⁎ Corresponding author at: Beckman Institute, 405 N.  Mathews Ave, Urbana, IL 61801, USA. 
+E-mail addresses: RyanLoh2@illinois. edu (R.  Loh), Smcolli2@illinois. edu (S.  Collins), Rgalvez@illinois. edu (R.  Galvez). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 015
+Received 14 June 2017; Received in revised form 31 July 2017; Accepted 5 August 2017
+Available online 09 August 2017
+0166-4328/ 
+R.  Loh Name
+Behavioural Brain Research 335 (2017) 145–150
+maze learning [18], while dynorphin injected directly into the hippocampus impairs water maze performance [19].  Although the speciﬁc
+role of dynorphin and its precursors in learning appears to vary depending upon the tasks, these studies collectively suggest that they play
+a prominent role in the acquisition and consolidation of learning tasks. 
+Upon exploring the speciﬁc cell type expressing these peptides, it
+has been demonstrated that the dynorphin precursor ligand PPD is
+primarily found in Somatostatin-containing GABAergic interneurons
+(SOM) within S1 [20].  These ﬁndings suggest that SOM interneurons
+are a likely upstream cell of KOR activation in S1 with WTEB.  SOMs are
+a major subclass of interneurons in the central nervous system that
+serve a variety of roles in various species.  SOM cells represent a signiﬁcant proportion of all inhibitory interneurons in the neocortex [21]. 
+Additionally, this population of cells is localized in areas important for
+learning and memory, such as the neocortex and hippocampus [22],
+two brain regions critically involved in WTEB acquisition [8,23,24].  In
+S1, tonically-active SOM cells serve to inhibit neuronal activity, as
+optogenetic silencing SOM cells causes an increase in ﬁring of pyramidal cells in the area.  SOM cells in S1 also receive input from vasoactive intestinal peptide (VIP)-containing inhibitory interneurons. 
+Interestingly, during active whisking, VIP-containing cells cause a decrease in SOM activity [25].  This process does not seem to require active whisking by the animal as passive whisking will also instigate the
+same mechanism via thalamic relays [26]. 
+Similar to that observed with KOR modulation, studies have
+strongly suggested a role for SOM cells in learning.  Silencing SOM cells
+in the hippocampus impairs acquisition of contextual-based fear
+learning [27].  SOM cells are also disinhibited by VIP-containing inhibitory neurons during auditory discrimination [28].  This VIP disinhibition is similar to what is seen in S1 during active [25], or passive
+whisking [26].  Additionally, SOM cells have been demonstrated to increase in density within somatosensory cortex in a whisker associative
+paradigm [29].  These studies suggest that neocortical SOM cells regulate learning processes.  Furthermore, these studies along with those
+mentioned above collectively suggest that neocortical SOM cells are
+regulating learning through KOR modulation.  However, the speciﬁc
+role for neocortical SOM regulation of KOR activity with associative
+learning has never been explored.  To explore this molecular pathway
+and its potential role with associative learning, the current study set out
+to characterize the expression proﬁle of PD (Dynorphin’s precursor) in
+S1 SOM interneurons during and immediately following WTEB acquisition. 
+<Middle> Methods. 
+2. 1.  Animals
+Three to six month old male C57BL/6 mice were bred in-house and
+housed in same litter groups until surgery.  After surgery they were
+transferred to individual housing in standard (12” × 12” × 12”) laboratory cages.  All mice were kept on a 12-h light-dark schedule (lights
+on at 0700) in a temperature controlled room (∼21° C) and provided ad
+libitum access to food and water.  All procedures performed were reviewed and approved by the University of Illinois Animal Care and Use
+Committee. 
+2. 2.  Surgery
+Surgeries were performed as previously described [30].  Mice were
+placed under ketamine (1 mg/kg i. p. ) and xylazine (6 mg/kg i. p. ) anesthesia.  Once anesthetized, a headgear consisting of a plastic strip
+connector with two Teﬂon-coated stainless steel wires and one uncoated ground wire were secured to the skull via dental cement.  Teﬂoncoated wires from the headgear were fed under the skin to the periorbital region of the eye, stripped to provide contact, and fastened to
+the skin.  A ground wire was tightly secured to a screw in the skull.  All
+mice were given a minimum of seven days to recover from surgery
+before onset of training. 
+2. 3.  Behavioral training
+Mice were placed into standard laboratory cages diﬀerent from their
+home-cage in a sound- and light-attenuated chamber.  All WTEB
+training took place between 0900 and 1400.  The headgear described in
+the surgery section was connected to a tether that was connected to a
+computer running a custom LabView program.  The program delivered
+both whisker and shock stimuli as well as monitored eyelid closure via a
+camera attached to the tether.  Whisker stimulation was delivered via
+activation of a piezo-electric strip (Piezo Systems, Cambridge, MA) attached to a comb that was situated directly in front of the whisker pad. 
+This allowed for precise control in stimuli presentation, timing and
+delivery.  For a complete description see Ref.  [30].  One day prior to
+training, mice were habituated to the tether and chamber for 10 min. 
+On training days, mice were conditioned as previously described [30]. 
+A presentation of the CS (250 ms whisker stimulation) was paired with
+a US (100 ms periorbital shock, 0. 1–0. 5 mA square wave shock, 60 Hz,
+0. 5 ms pulses). 

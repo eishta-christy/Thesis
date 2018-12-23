@@ -1,0 +1,102 @@
+
+Reward anticipation (‘wanting’) is crucial for human adaptation to
+the environment (Bubic, von Cramon, & Schubotz, 2010).  The ability to
+predict future motivational events permits us to organize our behavior
+proactively to cope with the impact of those events.  For instance, gain
+anticipation can promote approach behavior whereas loss anticipation
+can promote avoidance behavior (Knutson & Greer, 2008).  On the other
+hand, dysfunction in reward anticipation has been identiﬁed as a critical contributor to psychopathologies such as schizophrenia (Gard,
+Kring, Gard, Horan, & Green, 2007), depression (Treadway & Zald,
+2011), and addictive behaviors (Robinson & Berridge, 2008). taskincentive
+A well-validated task designed to evaluate reward anticipation is the
+monetary
+(Knutson, Westdorp,
+Kaiser, & Hommer, 2000), which has been extensively used across
+healthy and clinical populations in conjunction with functional magnetic resonance imaging (fMRI; Lutz & Widmer, 2014).  In a typical MID
+task trial, participants initially observe a cue signaling trial information
+(i. e. , gain, loss, or neutral), followed by a delayed period during which
+the participants prepare a motor response for an imperative visual
+target.  Following the motor response, another interval is provided
+striatum, anterior
+during which the participants wait for the outcome of their performance on that trial.  In healthy individuals, reward anticipation mainly
+implicates the mesocorticolimbic dopaminergic pathway,
+includinginsula, and anterior cingulate cortex
+(Knutson & Greer, 2008).  However, despite its excellent spatial resolution, fMRI cannot provide the necessary temporal resolution to fully
+characterize the temporal dynamics of reward anticipation in the
+human brain.  Speciﬁcally, it remains largely unexplored whether those
+sub-stages (e. g. , cue evaluation, motor preparation, and feedback anticipation) coarsely labelled reward anticipation are dissociable on the
+neural level. 
+Electroencephalography (EEG) with its superior temporal resolution
+provides a narration of distinct psychological processes as they unfold
+during reward anticipation millisecond-by-millisecond.  Three anticipatory slow waves are associated with reward anticipation.  The ﬁrst
+slow negative-going wave, labelled the contingent negative variation
+(CNV), is typically observed between a warning stimulus (cue) and an
+imperative stimulus (target) and is maximal at central sites (Walter,
+Cooper, Aldridge, McCallum, & Winter, 1964).  The CNV is believed to
+reﬂect neural activity within the thalamo-cortico-striatal network and
+has been linked with anticipatory attention, motivation, as well as
+⁎ Corresponding author at: Department of Psychology, Dalian Medical University, No.  9 West Section, Lvshun South Road, Dalian 116044, China. 
+E-mail address: zhengya@dmu. edu. cn (Y.  Zheng). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 011
+Received 6 January 2017; Received in revised form 13 July 2017; Accepted 17 July 2017
+Available online 21 July 2017
+0301-0511/ 
+Y.  Zhang Name
+Biological Psychology 128 (2017) 89–97
+motor preparation (Brunia, van Boxtel, & Böcker, 2012; Fan Name,
+2007).  Analogous to the CNV, a broad slow negative-going wave during
+the waiting period of a motivationally relevant stimulus (e. g. , the
+period between the target and feedback in the MID task), called the
+stimulus-preceding negativity (SPN), is manifest as a plateau-shaped
+distribution at
+frontal areas with a right hemisphere dominance
+(Brunia, Hackley, van Boxtel, Kotani, & Ohgami, 2011).  The most likely
+neural generator of the SPN, given its frontotemporal focus, is the right
+anterior insula (Bocker, Brunia, & van den Berg-Lenssen, 1994; Brunia,
+de Jong, van den Berg-Lenssen, & Paans, 2000).  In contrast to the CNV,
+the SPN reﬂects anticipatory processing more purely due to the exclusion of motor preparation in the waiting period (van Boxtel & Böcker,
+2004).  Finally, incentive cues during the cue-evaluation stage often
+elicit a P3 component (i. e. , the cue-P3), a positive-going wave peaking
+between 300 and 600 ms at parietal sites (Broyd Name, 2012; Goldstein
+Name, 2006).  The cue-P3 is generally associated with attentional resources for stimulus evaluation based on motivational signiﬁcance
+(Nieuwenhuis, Aston-Jones, & Cohen, 2005). 
+Previous research has thus identiﬁed three ERP correlates of reward
+anticipation: the cue-P3 during the cue-evaluation stage, the CNV
+during the motor-preparation stage, and the SPN during the feedbackanticipation stage.  However, it remains to be determined whether these
+anticipatory ERP components reﬂect a common neural process or a set
+of distinct neural processes.  Supporting the former hypothesis, all these
+ERP components have a close association with the mesocorticolimbic
+dopaminergic pathway.  Speciﬁcally, previous research has demonstrated that the dopaminergic system plays a critical role in the generation of the P3 (Pogarell Name, 2011; Takeshita & Ogura, 1994) and
+that P3 amplitude variation is correlated with brain activity in the
+ventral striatum (Pfabigan Name, 2014).  Similarly, CNV amplitude is
+inﬂuenced by dopaminergic manipulation (Linssen Name, 2011) and is
+associated with ventral striatal activity (Plichta Name, 2013; but see
+Pfabigan Name, 2014).  Finally, recent research has shown that the SPN
+is moderated by genetic variation in dopamine (Foti & Hajcak, 2012)
+and that SPN amplitude is reduced in individuals with Parkinson’s
+disease, a disorder with well-known deterioration of dopamine pathway
+(Mattox, Valle-Inclan, & Hackley, 2006). 
+However, despite the fact that all these anticipatory ERP components are associated with reward anticipation (Broyd Name, 2012;
+Goldstein Name, 2006; Gruber & Otten, 2010; Kotani, Hiraku,
+Suda, & Aihara, 2001; Krebs, Boehler, Appelbaum, & Woldorﬀ, 2013;
+Schevernels, Krebs, Santens, Woldorﬀ, & Boehler, 2014; van den Berg,
+Krebs, Lorist, & Woldorﬀ, 2014), recent evidence suggests that they are
+dissociable in terms of reward valence (i. e. , gain anticipation vs.  loss
+anticipation).  On the one hand, the CNV appears to be insensitive to
+reward valence such that it is comparable for gain and loss anticipation
+(Novak & Foti, 2015; Pfabigan Name, 2014).  On the other hand, both the
+cue-P3 and SPN seem to be modulated by reward valence.  The cue-P3 is
+observed with larger amplitude after gain cues relative to loss cues
+(Pfabigan Name, 2014; Santesso Name, 2012; Zheng Name, 2017; but see
+Schmitt, Ferdinand, & Kray, 2015).  Similarly, the SPN appears to be
+more sensitive in gain context as compared to loss context (Ohgami
+Name, 2006; Zheng, Li, Wang, Wu, & Liu, 2015). 
+To address this issue, we ﬁrst investigated whether the anticipatory
+ERP components (i. e. , the cue-P3, CNV, and SPN) elicited in an MID
+task were modulated by incentive valence (gain vs.  loss anticipation)
+commonly or selectively.  If these ERP components are driven by
+common neural mechanisms, then they should be modulated by incentive valence similarly.  Moreover, given its close relationship with
+the mesocorticolimbic dopaminergic pathway, these anticipatory ERP
+components should also relate to other measures of the dompaminergic
+pathway. 

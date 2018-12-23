@@ -1,0 +1,102 @@
+Article
+Genetic and Epigenetic Strategies Potentiate Gal4
+Activation to Enhance Fitness in Recently Diverged
+Yeast Species
+Highlights
+d GAL epigenetic transcriptional memory promotes fasterVarun Sood, Jason H.  Brickner
+reactivation of GAL genes
+d Previously produced Gal1 provides a large future ﬁtness
+beneﬁt in galactose
+d Epigenetic GAL memory most likely evolved from genetically
+encoded priming
+d The Gal4 central domain promotes both Gal80 repression and
+maximal activation
+Correspondence
+j-brickner@northwestern. edu
+In Brief
+Sood and Brickner ﬁnd that faster GAL
+gene induction during transcriptional
+memory accelerates adaptation to
+galactose and requires both previously
+produced Gal1 to relieve Gal80
+repression and the Gal4 central domain,
+which potentiates stronger activation. 
+Related yeasts use either genetic or
+epigenetic means to alter GAL gene
+activation rates. 
+Sood & Brickner, 2017, Current Biology 27, 3591–3602
+December 4, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 035
+Current BiologyGenetic and Epigenetic Strategies
+Potentiate Gal4 Activation to Enhance
+Fitness in Recently Diverged Yeast Species
+Varun Sood1 and Jason H.  Brickner1,2,*
+1Department of Molecular Biosciences, Northwestern University, Evanston, IL 60208, USA
+2Lead Contact
+*Correspondence: j-brickner@northwestern. edu
+https://doi. org/10. 1016/j. cub. 2017. 10. 035Certain genes show more rapid reactivation for
+several generations following repression, a conserved
+phenomenon called epigenetic transcriptional memory.  Following previous growth in galactose, GAL
+gene transcriptional memory confers a strong ﬁtness
+beneﬁt in Saccharomyces cerevisiae adapting to
+growth in galactose for up to 8 generations.  A genetic
+screen for mutants defective for GAL gene memory revealed new insights into the molecular mechanism,
+adaptive consequences, and evolutionary history of
+memory.  A point mutation in the Gal1 co-activator
+that disrupts the interaction with the Gal80 inhibitor
+speciﬁcally and completely disrupted memory.  This
+mutation conﬁrms that cytoplasmically inherited
+Gal1 produced during previous growth in galactose
+directly interferes with Gal80 repression to promote
+faster induction of GAL genes.  This mitotically heritable mode of regulation is recently evolved;diverged Saccharomyces species, GAL genes show
+constitutively faster activation due to genetically
+encoded basal expression of Gal1.  Thus, recently
+diverged species utilize either epigenetic or genetic
+strategies to regulate the same molecular mechanism.  The screen also revealed that the central
+domain of the Gal4 transcription factor both regulates
+the stochasticity of GAL gene expression and potentiates stronger GAL gene activation in the presence
+of Gal1.  The central domain is critical for GAL gene
+transcriptional memory; Gal4 lacking the central
+domain fails to potentiate GAL gene expression and
+is unresponsive to previous Gal1 expression. 
+INTRODUCTION
+Transcriptional adaptation to ﬂuctuations in nutrient availability is
+critical for ﬁtness [1].  In response to previous experiences,
+certain inducible genes show a mitotically heritable increase in
+the rate of transcription [2–12].  This epigenetic phenomenon,
+referred as transcriptional memory,
+is observed in yeast,
+Drosophila, and humans [5, 7, 13].  However, its evolutionary
+history and adaptive impact have not been explored.  Also,
+whereas some aspects of transcriptional memory are deeply
+conserved, gene-speciﬁc features also occur [4, 6, 8, 14], suggesting that gene-speciﬁc regulatory systems can be regulated
+by transcriptional memory. 
+In S.  cerevisiae, GAL genes exhibit transcriptional memory. 
+These genes are speciﬁcally induced in galactose to mediate
+galactose utilization [15, 16].  When cells are shifted from glucose
+to galactose, the initial rate of induction of GAL genes is very
+slow; the Gal1 protein reaches steady-state levels 10 hr after
+shifting from glucose to galactose (Figure 1B; compared with
+the doubling time of budding yeast, 1. 5–2 hr).  However, in cells
+that have been previously grown in galactose, GAL genes are
+rapidly reactivated.  This phenomenon persists in the population
+for 7 or 8 cell divisions after repression in glucose [2, 11, 14, 17]. 
+Like other genes that show memory, GAL transcriptional
+memory is also associated with changes in chromatin structure,
+leading to a state that is poised for faster reactivation [14]. 
+The initial induction of GAL genes is slow in part because, in
+most cells, there are fewer molecules of the Gal3 co-activator
+than the Gal80 inhibitor [11, 18].  Consequently, the expression
+is initially heterogeneous, with some cells responding and others
+not [18].  On the other hand, during memory, reactivation is more
+uniform [18].  GAL memory requires the Gal1 galactokinase, a
+paralog of Gal3 [2, 11, 14, 17].  Gal1 is abundantly produced in
+galactose, extremely stable, and diluted very slowly after repression in glucose [14].  A few hundred molecules of Gal1 are necessary and sufﬁcient to produce the effects of memory, including
+the changes in chromatin structure over the GAL1 promoter
+and uniformity of expression [11, 14].  Because both Gal1 and
+Gal3 can interact with Gal80 to relieve inhibition of the Gal4 activator [19–23], this leads to a model whereby residual Gal1 allows
+cells to more rapidly overcome Gal80 repression and rapidly
+induce GAL genes during memory (Figure 1A). 
+Here, we explored the adaptive value, evolutionary history,
+and molecular mechanism of GAL gene transcriptional memory. 
+In S. 

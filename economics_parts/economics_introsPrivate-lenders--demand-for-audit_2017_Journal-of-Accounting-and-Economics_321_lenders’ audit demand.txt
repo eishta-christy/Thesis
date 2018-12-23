@@ -1,0 +1,368 @@
+
+Accounting covenants are widely used in private lending agreements to mitigate conﬂicts of interest between shareholders and lenders.  These covenants increase contracting eﬃciency by providing the basis for the optimal allocation of control 
+rights when contracts are incomplete ( Watts and Zimmerman, 1986; Roberts and Suﬁ, 2009a; Christensen and Nikolaev, 
+1 Auditors are required to check borrowers’ compliance with covenants in private lending 
+2012; Christensen Name, 2016 ).  
+agreements under GAAP.  In particular, accounting and auditing standards require auditors to conﬁrm the going concern assumption and to ensure the appropriate classiﬁcation of debt as current or non-current, which entails checking covenant 
+compliance.  In addition to these standard obligations to verify compliance, however, auditors may offer a letter providing 
+speciﬁc negative assurance directly to lenders by certifying that they have no knowledge of any default.  What is unclear 
+is whether this additional covenant compliance assurance occurs at random, or whether it can be explained by eﬃcient 
+contracting.  To date, the literature has been largely silent on the conditions under which lenders seek such assurance from 
+auditors.  We seek to address this question in this paper.  
+The fact that auditors report on borrowers’ covenant compliance directly to lenders may be economically important 
+because of its effects on auditor liability.  Under the GAAP regime, auditors are not liable to lenders because lenders are 
+regarded as non-contractual third parties to standard audit arrangements.  Nevertheless, auditors may become liable to third 
+parties depending on whether auditors are aware that ﬁnancial statements are to be used for particular purposes by known 
+parties, and whether there is any conduct by the auditors linking them to third parties ( Feinman, 2015 ).  Because they require 
+auditors to write to lenders to state they have no knowledge of any defaults on the covenants, auditor covenant compliance 
+assurance clauses are likely to extend auditors’ liability to lenders, even though there is no contract between them.  This is 
+because it will be more diﬃcult for auditors to convince a court that they were not aware who they were reporting to and 
+what their reports were to be used for.  
+We present novel descriptive evidence of auditors providing assurance to private lenders of borrowers’ compliance with 
+accounting covenants.  If the standard GAAP regime is suﬃcient for lenders’ needs, we do not expect to observe systematic associations between lenders’ audit demands and borrower or loan characteristics.  According to agency theory and the 
+theory of incomplete contracting, information asymmetries and contracting eﬃciency should drive observed variation in 
+lenders’ demand for additional assurance.  Agency theory predicts that covenants appear in debt contracts to reduce conﬂicts of interest between providers of equity and providers of debt ( Jensen and Meckling, 1976; Smith and Warner, 1979 ).  
+More recent insights based on the theory of incomplete contracting view accounting information as part of an eﬃcient contracting regime, where ﬁnancial covenants represent the contingency for the allocation of control rights ( Christensen Name, 
+2016 ).  We draw on these arguments and predict that lenders will demand auditor assurance of covenant compliance in an 
+attempt to reduce agency problems and to enhance contracting eﬃciency.  Such assurance involves reporting speciﬁcally to 
+lenders on borrowers’ compliance with the chosen set of contractual accounting deﬁnitions ( Li, 2010 ).  To test our predictions, we conduct a cross-sectional analysis of auditor covenant compliance clauses, using a large sample of private lending 
+agreements retrieved from the SEC EDGAR archives for the period 1996 to 2012.  
+Around 35% of the 6,513 loan agreements in our sample are identiﬁed as containing an auditor covenant compliance 
+assurance (CCA) clause.  After adjusting for the total number of ﬁnancial covenants in loan agreements, the use of CCA 
+clauses is comparatively stable over our sample period.  We do not ﬁnd that the use of CCA clauses is concentrated among 
+a few banks or industries–their use is widespread.  When we explore the sources of the variation in the incidence of CCA 
+clauses, our results are inconsistent with the idea that they are randomly distributed across private lending arrangements.  
+In particular, in various empirical speciﬁcations, we ﬁnd that private lenders’ demand for independent assurance by auditors 
+is stronger when accounting measurement rules depart more from GAAP, when agreements rely more on accounting data 
+(either in the form of more accounting covenants or accounting-based performance pricing provisions), when borrowers 
+have high levels of harder-to-verify intangible assets, and when there are more lenders in the loan syndicate.  
+The paper makes several contributions to the literature.  First and foremost, it provides novel empirical evidence that in 
+addition to their standard obligations under GAAP, auditors play a role in ameliorating information asymmetries and enhancing contracting eﬃciency between borrowers and lenders.  In addition to the information they receive via standard general 
+purpose ﬁnancial statements, lenders also often demand direct assurance from auditors that borrowers have conformed to 
+the negotiated measurement rules speciﬁed in the contract.  These results are consistent with Li’s (2010) conjecture that 
+more extensive departures from GAAP rules involve higher monitoring costs for lenders and may help explain why debt 
+contracts often contain comparatively few accounting ratios ( Christensen Name, 2016 ).  
+Our results contribute to the contracting literature by indicating that covenant compliance assurance by auditors is associated with borrower and loan characteristics.  Furthermore, our ﬁndings suggest that when it is deemed optimal by contracting parties, auditor covenant compliance assurance may facilitate contracting on the basis of intangible assets that are 
+harder to verify ( Frankel Name, 2008 ).  Our results also contribute to the agency literature by showing that the number of 
+lenders in loan syndicates is positively associated with explicit requirements for auditor assurance of covenant compliance.  
+This may be due to reduced monitoring effectiveness induced by large loan syndicates or because of higher renegotiation 
+costs in the event of a misclassiﬁed covenant violation.  Finally, and more broadly, our research contributes to the growing 
+evidence on the importance and inﬂuence of private lenders as active participants in ﬁnancial reporting and corporate governance mechanisms.  Although several studies have examined the role of auditors in stock markets and public debt markets 
+(e. g.  Teoh and Wong, 1993; Mansi Name, 2004; Lou and Vasvari, 2013 ), evidence on their role in private debt markets remains 
+scarce ( Menon and Williams, 2016 ).  This is in spite of reports that corporations raise more capital from banks than from 
+public debt and equity markets combined ( Ferreira and Matos, 2012; Nini Name, 20 09; Suﬁ, 20 07 ).  Our ﬁndings thus contribute to the nascent literature demonstrating that banks exert inﬂuence over borrowers’ corporate governance processes, 
+even outside default states ( Triantis and Daniels, 1995; Nini Name, 2012; Christensen Name, 2016 ).  
+Overall, our research indicates that auditors fulﬁll important functions in private debt markets in addition to their main 
+responsibilities under GAAP.  We emphasize at the outset, however, that although our analyses are guided by theory, our 
+study is exploratory and as such, only allows us to document statistical associations, not causal relationships.  As is common in this ﬁeld, our results are vulnerable to concerns that different contractual features are determined simultaneously 
+( Armstrong Name, 2010 ).  
+In Section 2 , we outline the regulatory and legal background to the auditor-lender relationship and review relevant prior 
+literature.  In Section 3 , we develop our hypotheses.  Section 4 outlines our sample and data collection methods and describes 
+our primary measure of private lenders’ demand for audit.  Section 5 presents our empirical results and we summarize and 
+conclude in Section 6 .  
+2.  Background and prior literature. 
+2. 1.  Auditors’ responsibilities under GAAP and legal liability. 
+In the absence of any audit arrangements between contracting parties, auditors are required to test whether borrowers 
+are in compliance with debt covenants as part of the annual audit under GAAP.  In particular, ASC 470 Debt requires auditors 
+to classify debt as current when clients violate any covenants set out in the loan agreement.  
+Hence, unless the debt is already classiﬁed as current, auditors check borrowers’ compliance with covenants as a matter of routine.  
+An important feature of the GAAP regime is that auditors’ responsibility is to shareholders.  This seems unsatisfactory 
+from the point of view of lenders, who might seek legal redress from auditors with ‘deep pockets’ in the event of borrower 
+default.  Accordingly, clauses in private lending agreements often require auditors to report directly to creditors regarding 
+borrowers’ compliance with contractual terms.  Auditing standards (for public issuers and non-issuers) recognize such obligations and offer guidance to auditors in specifying the limited nature and scope of this type of assurance.  For public issuers, 
+AS 3305 Special Reports , states: 
+… loan agreements usually also require the borrower to furnish annual ﬁnancial statements that have been audited by 
+an independent auditor.  In some instances, the lenders … may request assurance from the independent auditor that 
+the borrower has complied with certain covenants of the agreement relating to accounting matters.  The independent 
+auditor may satisfy this request by giving negative assurance relative to the applicable covenants based on the audit 
+of the ﬁnancial statements.  
+This standard goes on to provide an example of a report that auditors may issue to lenders under such arrangements.  
+There are two important features of this example: (i) it is addressed solely to the management of the borrower and a 
+speciﬁc bank or lender; and (ii) it only offers negative assurance, i. e. , it states that nothing came to auditors’ attention that 
+the borrower failed to comply with the covenants in the debt contract.  
+It is generally accepted that in equity markets, auditors play an insurance role in addition to their information role 
+( DeFond and Zhang, 2014 ).  This is not necessarily the case in private debt markets, however, because lenders are regarded 
+as third parties to the audit regime.  As such, auditors are not liable to lenders unless certain conditions are met.  The extent 
+of auditors’ liability to lenders depends on which of the four legal standard courts apply: (i) privity, (ii) near privity, (iii) 
+restatement (or known users), or (iv) reasonable foreseeability.  
+We expect covenant compliance assurance clauses to increase auditors’ liability to lenders under the two most commonly 
+applied standards – near privity and restatement.  First, under a restatement approach, where inaccurate information supplied by auditors is reasonably relied on by creditors and banks (or other non clients), auditors are held liable, as long as 
+the third parties relying on the reports are known to the them ( Scherl, 1994 , p.  273).  Because CCA clauses involve auditors 
+writing to lenders, it will be diﬃcult for them to argue that they were unaware that lenders were relying on the information they provide.  Second, under near privity, while the CCA clauses may not automatically be suﬃcient to establish a 
+direct relationship between the auditor and the lenders, courts sometimes interpret the necessary linking conduct as ‘some 
+communication or contacts demonstrating the accountant’s awareness of the third party’s reliance’ ( Feinman, 2015 , p.  146).  
+We expect CCA clauses to lead to direct communication between the auditor and the lenders, increasing the likelihood that 
+courts will ﬁnd auditors liable.  
+The recent case of GSP Finance versus KPMG illustrates that lenders place signiﬁcant emphasis on the assurance provided 
+by auditors – not just via a clean audit report ( Menon and Williams, 2016 ), but also through their demand for conﬁrmation 
+of borrowers’ compliance with ﬁnancial covenants.  
+This case also suggests that CCA clauses may increase auditors’ litigation  risk from lenders, even under a strict near-privity standard.  
+The case involved a credit facility of over $525 million taken out by the borrower (Hicks Sports), $67 million of which was 
+supplied by GSP.  The lending agreement contained clauses requiring the borrower’s auditors, KPMG, to deliver to lenders ( 1 ) 
+a clean audit report and (2) a letter of compliance with ﬁnancial covenants, one of which limited borrower’s consolidated 
+total debt to $600 million.  
+The borrower subsequently defaulted on the payment of the loan.  KPMG were sued by GSP for providing a clean audit 
+opinion and a letter stating that the borrower was in compliance, with the plaintiffs arguing that Hicks had exceeded the 
+$600 million debt threshold.  The lenders argued that had the borrower’s capital lease obligations been included within the 
+deﬁnition of consolidated indebtedness (as they had been in previous years), Hicks would have surpassed its credit limit, 
+allowing the lenders to exercise control rights that would have reduced their losses.  
+The letter of covenant compliance represents an important component of the litigation against the auditors in this case.  
+The plaintiffs’ testimony also reveals that the contractual requirement for auditors to conﬁrm compliance with the covenants 
+in the lending agreement was an important part of their decision to issue the loan.  
+This discussion demonstrates that auditor covenant compliance clauses in lending agreements are likely to extend auditors’ legal liability to lenders.  If this is the case, contracting theory suggests that lenders’ demand for such additional 
+protection will vary according to the nature of the loan transaction and/or the characteristics of the borrower.  
+2. 2.  Contracting theory and prior literature. 
+The use of accounting covenants in private debt contracts has traditionally been understood to be a manifestation of 
+agency conﬂicts between lenders and shareholders.  Such conﬂicts include the risk of excessive dividend payments, future 
+debt issuance reducing the probability of repayment, asset substitution (where ﬁrms invest in riskier projects at the expense 
+of debt-providers) and underinvestment ( Jensen and Meckling, 1976; Smith and Warner, 1979 ; Armstrong Name, 2010 ).  Financial contracting acts as a primary mechanism for reducing conﬂicts between agents ( Roberts and Suﬁ, 2009a ) and outputs of 
+the accounting system often appear in debt contracts in the form of clauses on capital expenditures, asset sale restrictions, 
+dividend payments, covenants linked to leverage ratios, net worth and cash ﬂow sweeps (e. g.  Nini Name, 2009 ).  More recent theoretical insights view the presence of accounting ﬁgures in debt contracts as part of an eﬃcient contracting regime, 
+where accounting data act as contractible signals for the state-contingent allocation of control.  The main purpose of accounting covenants in this context is to eﬃciently allocate control rights in the event of deteriorating borrower performance 
+( Christensen Name, 2016 ).  
+Both agency and incomplete contracting interpretations suggest that the use of accounting numbers in debt contracts 
+creates incentives for managers to distort accounting ﬁgures.  Prior research documents income-increasing accounting choices 
+in the run-up to covenant violations (e. g.  DeFond and Jiambalvo, 1994; Sweeney, 1994 ) and indicates that disputes with 
+auditors often follow such choices ( DeFond and Jiambalvo, 1993 ).  Accordingly, auditors are reported to increase their fees 
+in response to debt covenant violations, even in cases where borrowers’ ﬁnancial performance is not necessarily poor ( Gao 
+Name, 2016 ).  
+Potential conﬂicts surrounding debt covenant compliance have been analyzed in theoretical models where changes in 
+control are triggered not necessarily by payment default, but by realization of veriﬁable states of the world ( Aghion and 
+Bolton, 1992; Roberts and Suﬁ, 2009a; Christensen Name, 2016 ).  Studies often recognize that resulting incentive conﬂicts 
+create a demand for independent state veriﬁcation (e. g.  Townsend, 1979; Roberts and Suﬁ, 2009a ), 
+yet to date, there has been limited empirical evidence on whether, when and how this takes place.  
+Because the monitoring role of accounting in ﬁnancial contracting differs from its typical ‘valuation’ role of informing 
+equity and debt markets ( Holthausen and Watts, 2001; Ball Name, 2015 ), the deﬁnitions of accounting data used in debt 
+contracts regularly depart from GAAP (e. g.  Leftwich, 1983; El-Gazzar and Pastena, 1990; Citron, 1992; Frankel Name, 2008 ), 
+usually due to lenders’ preferences for conservative and more veriﬁable accounting ( Li, 2010; Li, 2013 ).  For example, exclusions of intangible assets are common, because their values are often subjective and certain components (such as goodwill) 
+have low liquidation values ( Holthausen and Watts, 2001; Watts, 2003 ).  Recent studies provide evidence consistent with 
+debt markets’ demand for conditional conservatism ( Ball Name, 2008b; Beatty Name, 2008; Zhang, 2008 ) and lending terms 
+(both price and non-price related) are sometimes more favorable when ﬁrms have higher accounting quality ( Bharath Name, 
+2008 ).  
+While conservatism may make accounting ﬁgures more suitable for contracting purposes, it may also be sub-optimal for 
+control to shift to lenders where borrowers’ ﬁnancial position is strong, because violations involve costly renegotiation.  Li 
+(2013) shows that renegotiation costs can be signiﬁcant drivers of accounting characteristics in debt markets.  Hence, while 
+conservative accounting may produce contracting beneﬁts, a suﬃcient number of Type 1 errors (false positives) may also be 
+costly ( Armstrong Name, 2010; Lambert, 2010 ).  
+Demand for auditor assurance of covenant compliance may therefore originate in the negotiated measurement rules that 
+adapt GAAP ﬁgures to make them more suitable for contracting.  Although auditors are required to check compliance with 
+covenants under the standard general purpose accounting regime, more complex accounting adjustments may involve more 
+intensive monitoring when auditors face litigation risk from lenders.  
+In summary, private lenders may place demands on auditors for assurance of covenant compliance in addition to the 
+main audit report prepared as part of general purpose ﬁnancial reporting.  Furthermore, in theory, agency-based incentive 
+problems and contracting eﬃciency may be improved by independent and effective monitoring of covenant compliance.  
+Empirical research on auditors’ role in private lending arrangements is scarce.  In a recent exception, Menon and Williams 
+(2016) report that ﬁrms with higher credit risk are more likely to be required in their lending agreements to have an audit 
+report free of going concern modiﬁcations and to have contractual clauses restricting their choice of auditor.  Chen Name, 
+(2016) ﬁnd that ﬁrms with modiﬁed audit opinions (particularly going concern opinions) face punitive changes to the price and non-price terms of their debt, and that auditor opinions convey additional information to lenders about borrower risk.  
+These studies do not investigate the extent to which auditors are obliged to provide lenders with independent assurance of 
+borrowers’ compliance with accounting-based covenants.  Our paper seeks to address this gap in the literature.  
+3.  Hypotheses development. 
+Although our study is exploratory, we draw on prior theoretical and empirical research to develop our predictions.  Our 
+ﬁrst prediction is that lenders’ demand for audit will be higher where measurement rules for the accounting ﬁgures used in 
+debt contracts depart more from the GAAP rules that auditors are already obliged to verify as part of their responsibilities to 
+shareholders in the main audit.  A long line of literature shows that debt contracts are based on tailored accounting rules 
+( Armstrong Name, 2010 ), where the adjustments are designed to make accounting data more appropriate for contracting.  
+Where modiﬁcations to GAAP are more extensive, we expect demand by lenders for additional covenant compliance assurance to be stronger.  This is because lenders are likely to seek conﬁrmation that the negotiated rules, as well as the GAAP 
+rules, have been adhered to by the borrower.  Our ﬁrst hypothesis, stated in alternative form, is therefore: 
+H1.  The presence of auditor covenant compliance assurance clauses is positively associated with the level of adjustments to GAAP 
+in lending agreements.  
+Our second prediction is that lenders’ demand for covenant compliance assurance will be an increasing function of the 
+extent to which the lending agreement relies on accounting data, irrespective of the number of accounting adjustments.  
+Reliance on accounting covenants is a distinctive feature of the private debt market ( Christensen and Nikolaev, 2012; Nini 
+Name, 2012; Roberts and Suﬁ, 2009a ) and while the vast majority of private debt contracts contain some accounting-based 
+15 More extensive use of accovenants ( Nini Name, 2012 ), empirical research shows that the number can vary signiﬁcantly.  
+counting in lending agreements is likely to require detailed information on borrowers’ internal accounting systems.  Auditors 
+are uniquely placed in having access to this information.  
+In addition to ﬁnancial covenants, performance pricing provisions based on accounting data are common in private debt 
+contracts (e. g. , Asquith Name, 20 05 ; 20 06; Ball Name, 20 08a ).  These provisions may affect borrowers’ incentives to manipulate 
+accounting ﬁgures ( Armstrong Name, 2010 ).  We therefore formulate the following alternative hypothesis, where the level of 
+reliance on accounting data in our empirical analysis is measured by the number of ﬁnancial covenants and the inclusion of 
+accounting-based performance-pricing provisions in the lending agreement: 
+H2.  The presence of auditor covenant compliance assurance clauses is positively associated with the level of reliance on accounting 
+data in the lending agreement.  
+Our third prediction is that the demand for auditor covenant compliance assurance in private debt agreements will be 
+higher when the valuation of assets is more subjective and when accounting data contain more ‘soft’ information (e. g.  Watts, 
+2006 ).  In our analysis, we capture this in two ways: the ratio of borrowers’ intangible assets to total assets and the book 
+to market ratio.  We expect information asymmetries to be more pronounced for intangible assets because active markets 
+for these assets do not exist (e. g.  Barth Name, 2001 ), making them diﬃcult to verify and to value objectively ( Holthausen 
+and Watts, 2001; Watts, 2006; Kothari Name, 2010 ).  Moreover, disagreements in the valuation of intangible assets may arise 
+between lenders and shareholders due to the information being used for different purposes by different capital providers 
+( Kothari Name, 2010 ).  This may lead to lenders attempting to monitor the measurement of intangibles via audit covenant 
+checking requirements.  Intangible assets are regularly excluded from accounting covenants ( Armstrong Name, 2010 ), but it 
+can sometimes represent more eﬃcient contracting for them to remain in contractual asset deﬁnitions ( Frankel Name, 2008 ).  
+Beatty Name (2008) ﬁnd that intangible assets are often kept in covenant deﬁnitions and even where they are excluded, this 
+does not necessarily satisfy lenders’ demand for conservatism.  Our third hypothesis is therefore: 
+H3.  The presence of auditor covenant compliance assurance clauses is positively associated with the level of intangibility of the 
+borrower’s assets.  
+Our fourth prediction focuses on the quality of monitoring by lenders, measured by the size of the loan syndicate.  There 
+is extensive evidence in the ﬁnance literature that free-riding in information gathering/monitoring tends to be higher when 
+there are more lenders ( Dennis and Mullineaux, 20 0 0; Esty and Megginson, 20 03; Graham Name, 20 08; Suﬁ, 20 07; Kim et 
+al. , 2011; Lin Name, 2012 ).  As noted by Suﬁ (2007) , moral hazard problems are exacerbated in syndicated loans, because 
+uninformed participants delegate monitoring responsibilities to lead arrangers, whose effort is unobservable and whose incentives may not be clearly aligned with those of the other participants.  Hence, larger syndicates imply a greater demand for 
+assurance by auditors that borrowers are in compliance with accounting covenants.  Based on these arguments, we propose 
+the following hypothesis: 
+H4.  The presence of auditor covenant compliance assurance clauses is positively associated with the number of lenders in the loan 
+syndicate.  
+Our ﬁfth and ﬁnal hypothesis relates to the maturity of the loan.  Debt with shorter maturity is associated with reduced 
+agency costs of debt because the ﬁrm’s ﬁnancial position is less likely to deteriorate materially over shorter periods.  Lenders 
+may choose to issue loans that are repayable on demand or over shorter, ﬁxed periods instead of providing longer term 
+loans with covenants ( Rajan and Winton, 1995; Datta Name, 2005 ).  For loans with longer maturity, covenants represent the 
+primary mechanism through which lenders are able to intervene over the life of the loan, making it more important to seek 
+assurance that borrowers are in compliance.  Consistent with this line of argument, prior research ﬁnds that longer maturity 
+debt requires more monitoring by auditors when reporting to shareholders ( Gul and Goodwin, 2010 ) and to lenders ( Menon 
+and Williams, 2016 ).  We therefore propose the following hypothesis: 
+H5.  The presence of auditor covenant compliance assurance clauses is positively associated with loan maturity.  
+An alternative explanation for the auditor clauses we observe is that they are ‘neutral mutations’, i. e. , ﬁnancial phenomena that serve no useful purpose but can persist indeﬁnitely because they are benign ( Miller, 1977 ).  According to this view, 
+however, we should observe no predictable associations between CCA clauses and the ﬁrm and loan characteristics covered by our discussion and hypotheses above.  The following section outlines how we collect the data and constructed the 
+measures used to test our predictions.  
+<Middle> Sample construction. 
+Our sample is based on data from three different sources.  We begin by collecting data for all non-ﬁnancial companies 
+contained in the Compustat/CRSP annual database between 1996 and 2012.  The starting year of 1996 is due to the need to 
+obtain loan agreements from the SEC EDGAR system, which commenced collecting data in earnest in 1996 ( Roberts and Suﬁ, 
+2009b ).  We collect data on lending agreements from Dealscan for the same period and use the Compustat–Dealscan link 
+ﬁle (August 2012 version) provided by Chava and Roberts (2008) to form the common sample between these two sources.  
+In order to collect data on auditor covenant compliance assurance clauses (which are not recorded by Dealscan), we 
+develop a Perl algorithm to identify and search corporate lending agreements in the EDGAR archive.  
+We ﬁrst use the program to identify 10-K, 10-Q and 8-K ﬁlings containing a loan contract, using the algorithm developed by Nini. 
+We use Perl to obtain the date of the agreement from the contract because the date of ﬁling with the SEC often 
+bears little resemblance to the date the loan was initiated.  
+We initially identify 16,258 agreements over our sample period (excluding ﬁnancial companies).  When we merge this 
+sample with the intersection of Compustat and Dealscan, we obtain 6,513 lending agreements.  
+Because our initial sample is larger than the ﬁnal sample, and because the appearance of ﬁrms in the Compustat/Dealscan intersection may not be 
+random, where appropriate, we present descriptive statistics for both our initial and ﬁnal samples.  
+We obtain our main measure of lenders’ demand for audit by examining all lending agreements to identify auditors’ 
+responsibility for independently verifying compliance with covenants.  Speciﬁcally, we search contracts for cases where auditors are required to offer assurance that borrowers are in compliance with the accounting covenants.  An example of an 
+auditor CCA clause is provided below.  
+‘With each of the audited Financial Statements delivered pursuant to Section 5. 2(a), a certiﬁcate of the independent 
+certiﬁed public accountants that examined such statement to the effect that they have reviewed and are familiar 
+with this Agreement and that, in examining such Financial Statements, they did not become aware of any fact or 
+condition which then constituted a Default or Event of Default with respect to a ﬁnancial covenant, except for those, 
+if any, described in reasonable detail in such certiﬁcate. ’ (Applica Inc. , December 8th, 2001) 
+Importantly, in the absence of such clauses, a covenant compliance letter is still required, but is provided by the CEO or 
+CFO without independent assurance by the auditor, as illustrated in the following example: 
+‘Borrower shall provide … a copy of the annual audited ﬁnancial statements… together with a certiﬁcate of the chief 
+ﬁnancial oﬃcer, principal accounting oﬃcer or chief executive oﬃcer of Borrower, in the form of the Compliance 
+Certiﬁcate, stating that, as of the date of such certiﬁcate, to the best of his knowledge, after reasonable inquiry, no 
+event has occurred which constitutes a Default or an Event of Default, or, if a Default or an Event of Default has 
+occurred and is continuing, a statement as to the nature thereof’ (Atricure Inc. , July 1st, 2008) 
+To identify and assess the nature of auditor CCA clauses, we ﬁrst hand-collected and read 250 lending agreements.  Based 
+on this process, we developed a regular expression to automate our search.  The regular expression is designed to capture 
+cases where auditors are required to provide assurance of borrowers’ compliance with covenants to lenders.  
+For our additional analysis, we also developed a text search algorithm to identify Big 4 auditor clauses by searching 
+for the names of the Big 4 (and their ‘Big N’ counterparts before they merged).  To ensure the accuracy of our automated 
+procedures, we hand-collected and checked a random sample of 200 lending agreements.  The results of this process showed 
+22 This compares favorably with 
+the code to be correct for 89% of both the auditor CCA clauses and auditor name clauses.  
+prior research using text search programs on debt contracts (e. g.  Nini Name, 2009; 2012 ).  
+In order to assess the relationship between auditor clauses and different measurement rules (for H1), we next developed 
+an algorithm to capture the extent of accounting-based adjustments to net income in the loan agreements.  We focus on 
+income-based covenants, since these are the most commonly occurring covenants in private lending agreements ( Li, 2010; 
+Christensen Name, 2016 ).  This program identiﬁes the beginning and end of the contractual deﬁnitions of both net income 
+and EBITDA and records the number words in the deﬁnitions, together with the number of separate accounting adjustments required (proxied by the number of times a single letter or number - Arabic or Roman - appears in the net income 
+deﬁnition).  
+The measures for both net income and EBITDA deﬁnitions are aggregated in order to form an overall measure of the complexity of the adjustments that auditors have to check when signing the covenant compliance assurance letter.  Li (2010) reports that net income appears either directly or indirectly in contracts through the use of EBITDA.  An examination of the 
+deﬁnitions in our sample of contracts revealed that the basis for EBITDA is typically ‘adjusted net income’ rather than GAAP 
+net income.  Auditors therefore have to provide assurance of compliance with covenants after assessing both adjusted net 
+income and EBITDA.  We manually checked a sample of 100 contracts and this procedure conﬁrmed that the program is 
+reasonably accurate.  The correlation between the actual number of words in the contractual adjusted net income/EBITDA 
+deﬁnitions and the number counted by the Perl program was 0. 84.  
+5.  Results. 
+5. 1.  Empirical model. 
+Our main analysis of lenders’ demand for audit is based on the following regression model, where all variables are 
+deﬁned in Appendix A. 
+CCA_CLAUSE is our primary measure of audit demand and is set to 1 if the auditor is required to report to lenders on the 
+compliance certiﬁcate provided by the borrower to lenders, and 0 otherwise.  We use two measures of the complexity of the 
+adjustments to GAAP ( ADJ_COMPLEX ).  The ﬁrst is the natural log of the number of words used to deﬁne the income-based 
+measure in the contract ( EBITDA_WDS ); the second is the number of clauses (i. e. , separate instances of numerals or letters 
+appearing in parentheses) in the same deﬁnition ( EBITDA_ADJ ).  Our main models include a vector of control variables drawn 
+from prior literature, as well as time and industry ﬁxed effects.  
+5. 2.  Descriptive statistics. 
+Table 1 provides descriptive statistics for our ﬁnal sample.  The table shows that 35% of lending agreements include a 
+CCA clause requiring the borrower’s auditor to provide lenders with assurance of borrowers’ compliance with covenants.  
+The remaining 65% of lending agreements still require a letter of covenant compliance from the borrower (i. e. , when 
+CCA_CLAUSE, though this is to be signed only by company oﬃcers and not by auditors (see the examples provided 
+in Appendix B and in Taylor and Sansone, 2007 ; p.  302).  Table 1 also reveals that over half (52%) of the agreements contain 
+a Big 4 auditor clause.  
+Table 1 reports the distribution of departures from GAAP in net income/EBITDA covenant deﬁnitions.  The median and 
+maximum for EBITDA_WDS are 4. 78 and 7. 33 respectively.  These translate into a median of 119 words and a maximum of 
+1,531 words in deﬁning contractual net income and EBITDA.  The mean (median) number of adjustments ( EBITDA_ADJ ) is 5. 18 
+(4).  These ﬁgures indicate that the differences between contractual net income measures and GAAP net income are quite 
+substantial.  
+The average loan facility in our sample is for $356 m, maturing at 44 months with 8 lenders.  These ﬁgures are broadly 
+comparable with those reported by Nini Name (2012) .  Average total assets and market values are $3,414 m and $3,179 m 
+respectively, while 41% of the lending agreements in our sample contain accounting-based performance pricing features.  
+The ratio of intangible assets to total assets ( INTANGIBILITY ) has a mean of 0. 16, ranging from zero to 0. 91 and the mean 
+spread over the relevant base rate is 1. 87%.  
+Table 2 Panel A shows that, inter alia , contracts containing an auditor CCA clause include income measures that depart 
+more signiﬁcantly from GAAP, relate to smaller loans, have longer maturity and are more likely to include accounting-based 
+performance pricing provisions.  Borrowers with CCA clauses are typically smaller ( TOTAL ASSETS and MKT_VAL ), have higher 
+leverage, have a higher proportion of intangible assets ( INTANGIBILITY) and are less likely to have their debt rated.  
+Panel B of Table 2 reports the use of auditor CCA clauses by the top ten lead arrangers (when ranked by aggregate 
+funds arranged over our sample period).  This evidence reveals widespread variation in the reliance on auditor covenant 
+compliance assurance clauses across different lenders.  Hence, CCA clauses are not concentrated among particular banks and 
+there is signiﬁcant variation in their usage within banks.  Panels C and D of Table 2 show the distribution of CCA clauses across the Fama-French industries in our ﬁnal ( n 
+ 6,513) and initial ( n 
+ 16,258) samples, respectively.  Both samples indicate that while there is some variation, the proportion of 
+contracts with a CCA clause is comparatively stable across industries.  The exception is utilities, where the incidence is lower.  
+Fig.  1 (Graphs A and B) shows that CCA_CLAUSE follows a similar pattern over time in both our initial sample and in our 
+ﬁnal sample, though it is more volatile in our ﬁnal sample, and lower in both samples in more recent years .  
+Fig.  2 shows how the average levels of adjustments to GAAP net income vary over time.  Both the average number of 
+words and the number of clauses have increased - from 2. 1 (1. 9) in 1996 to 3. 97 (7. 1) in 2012 for the mean log of the 
+number of words (mean number of adjustments).  This may reﬂect lenders’ dissatisfaction with the recent changes to GAAP 
+that are reported to have made accounting less suitable for contracting ( Demerjian, 2011; Ball Name, 2015 ).  
+Table 3 reports the correlations between the variables included in our models.  Most coeﬃcients are statistically significant at the 1% level.  The largest coeﬃcients in absolute terms relate principally to ﬁrm and facility size and loan spread.  
+Auditor CCA clauses are, inter alia , positively correlated with the departures of accounting measurement rules from GAAP, 
+the propensity to require Big 4 auditors in the contract, loan maturity, the number of covenants, the level of intangibility, 
+syndicate size, loan spread and the use of accounting-based performance pricing terms.  
+5. 3.  Cross sectional analysis of covenant compliance assurance clauses. 
+Table 4 presents our main regression results for the cross-sectional determinants of CCA_CLAUSE.  CCA_CLAUSE takes a 
+value of 1 where auditors are required to provide assurance of borrowers’ compliance with the ﬁnancial covenants and 
+χ 2 statistics, which offers overall evidence to reject a null hypothesis 
+0 otherwise.  All models have large values of Wald 
+25 Columns (1) and (2) report results based on a pooled logit regression, whereas 
+that CCA clauses are ’neutral mutations’.  
+26 Models in columns (1)–(4) include industry and year 
+columns (3) and (4) are based on random effects logit regression.  
+ﬁxed effects, while columns (5) and (6) report estimates for models with lead arranger ﬁxed-effects.  
+Column (1) of Table 4 reveals that the level of complexity of the income measure used in the contract–EBITDA_WDS, 
+measured as the natural log of the number of words in the contractual net income/EBITDA deﬁnition–is strongly and posi=
+tively associated with lenders’ demand for auditor assurance of borrowers’ covenant compliance ( z 
+ 8. 13).  Column (2) shows 
+that the coeﬃcient estimate for our alternative measure of complexity of adjustments ( EBITDA_ADJ ) is also signiﬁcant and  0. 001.  These results are consistent with H1 and support the idea that more complicated measurement rules 
+positive at p 
+by the number of covenants and the use of accounting-based performance pricing–is also signiﬁcantly positive at p ( NUM_COV ) and p 
+ 0. 01 ( PERF_PRICE ).  This result is consistent with H2.  Columns (1) and (2) show that INTANGIBILITY is signiﬁcantly and positively associated with the existence of a CCA clause, 
+consistent with a need to provide lenders with higher levels of veriﬁability of intangible asset values.  This offers support for 
+H3.  Table 4 also presents limited evidence (in column (1) at p 
+ 0. 10) that ﬁrms with higher book to market ratios are less 
+likely to have auditors provide lenders with assurance on covenant compliance.  Although the evidence is not as strong, it is 
+consistent with the results on the intangibility of assets and suggests that lenders to ﬁrms with more growth opportunities 
+are more likely to require additional auditor assurance. 
+The results in each of columns (1)–(4) in Table 4 suggest that larger loan syndicates are signiﬁcantly more likely to 
+require auditors to provide assurance of covenant compliance at p 
+ 0. 01.  Hence, regardless of the estimator used, the coeﬃcient for lnSYN_SIZE is consistently positive and signiﬁcantly different from zero.  This is consistent with H4 that less 
+diligent monitoring due to large syndicates may be reduced by engaging independent auditors to assure lenders of covenant 
+compliance.  
+Overall, for H1-H5, the standard logit results reported in columns (1) and (2) of Table 4 are reinforced by the random 
+effects logit estimates in columns (3) and (4).  The exceptions are the book to market ratio ( BOOK_MKT ), loan maturity ( MATURITY ) and accounting-based performance-pricing ( PERF_PRICE ), with the latter two being signiﬁcant at p 
+ 0. 05 with 
+the random effects estimator.  Columns (5) and (6) conﬁrm that our results are not driven by auditor assurance clauses 
+being part of ‘boilerplate’ contracts written by particular banks: including lead arranger ﬁxed effects does not affect our 
+main inferences.  
+In untabulated analyses, we quantify the economic effects implied by the results in Table 4 .  When all predictors are set 
+to their means, the probability of a contract containing a CCA_CLAUSE is 34%.  Holding all other variables at their means, 
+the predicted probability of the lending agreement containing a CCA clause increases substantially from 24% to 40% as 
+EBITDA_WDS increases from the 25th percentile (which is 0 words) to the 75th percentile (280 words).  Moving from the 
+25th to 75th percentiles for INTANGIBILITY ( lnSYN_SIZE ) increases the probability of having a CCA clause from 31% (from 
+29%) to 35% (to 38%).  The corresponding increases for NUM_COV and MATURITY are 32%–34% and 32%–36%, respectively.  
+These statistics indicate that the predictors in our main model have material effects on the probability that the lending 
+agreement contains a CCA clause.  
+5. 4.  Simultaneous estimation of auditor demand with Big 4 auditor clauses. 
+Recent research by Menon and Williams (2016) indicates that lenders’ demand for audit is reﬂected in clauses that 
+restrict borrowers’ choice of auditor on the basis that larger (Big 4) auditors are more accurate and more able to compensate 
+lenders in the event of litigation.  In order to allow for simultaneous demand for covenant compliance assurance and clauses 
+that restrict auditor choice, in Table 5 , we estimate CCA_CL AUSE and BIG4_CL AUSE models simultaneously, using a bivariate 
+probit estimator.  This allows for any conditional correlation between the residuals of both models.  
+The primary conclusions we draw from the results in Table 5 are that the residuals are correlated across the CCA_CLAUSE and BIG4_CLAUSE equations (rho is positive and significant at p < 0. 01) but that our main inferences are unchanged when this cross-correlation is allowed for.  29 The coefficients for both EBITDA_WDS and EBITDA_ADJ remain significant and positive at p < 0. 01 in all models.  The coefficient for INTANGIBILITY is significantly different from zero at p < 0. 05 in the CCA_CLAUSE equation, but is not significantly different from zero in the Big 4 model (column (2)), suggesting that higher levels of intan- gible assets manifest themselves in stronger demand for assurance of covenant compliance, but not for auditor-restriction clauses.  Moreover, the use of accounting-based performance pricing measures remains positively associated with the use of CCA clauses, but is negatively associated with auditor restriction clauses.  30 The coefficient for lnSYN_SIZE is significant at p < 0. 01 in all models.  Overall, Table 5 shows that our main inferences are unchanged when audit demand is simultaneously estimated with the auditor restriction clauses reported in Menon and Williams (2016) and that our results are robust to measuring private lenders’ audit demand using Big 4 auditor clauses. 
+5. 

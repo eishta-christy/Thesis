@@ -1,0 +1,565 @@
+
+1. 1.  The problem. 
+A popular product sold by energy companies to medium-to-large
+customers is one where an unspeciﬁed amount of power can be
+bought at a ﬁxed price during a certain time-interval.  We call this a
+ﬁxed price, unspeciﬁed consumption contract or simply a ﬁxed price
+agreement.  The business-to-business electricity market in Denmark
+in 2014 was 23. 1 TWh, about MEUR 800 million in monetary terms. 
+60% was sold as ﬁxed price agreements in some form. 
+Having entered into the ﬁxed price agreement, the energy
+company must asses and manage the risks associated with the
+obligations of the contract.  This is challenging for several reasons.  If
+the seller faced only the risk from price-ﬂuctuations, he could simply buy forward contracts to set up a full, perfect hedge.  However,
+with a criterion function that takes into account both (expected)
+gains and losses, this is expensive if forward-prices are typically
+above expected future spot-prices.  This so-called contango is the
+norm in Nordic power markets, as demonstrated by both Botterud
+Name (2002) and our analysis in Section 5. 1. 
+Another complicating factor is quantity risk.  If the consumer’s
+quantity choice were all-or-nothing, the contract would have payoff akin to call options.  Handling that would require modelling the
+price randomness of the electricity market which has several characteristics that are different from standard ﬁnancial markets such
+as stocks and exchange rates.  But the consumer has more ﬂexibility
+and because energy demand is created by physical use, her choice
+will not be all-or-nothing.  Demand will be positively correlated with
+the price as high demand drives up the price.  For the contract seller
+that creates what in other areas of ﬁnance would be known as
+wrong-way risk.  He will have to deliver a lot of energy for a ﬁxed
+price when buying it in the spot market is expensive. 
+In this paper, we will deal with these risks with a joint model of
+spot-price and consumption load. 
+1. 2.  Previous work, related literature. 
+The non-storability of electricity is a key complicating factor in
+energy markets.  It makes physical hedging inoperable and it causes
+highly volatile spot-markets with structural price jumps, see for
+instance Benth Name (2008).  As a consequence, the problem of
+joint quantity and price risk on electricity markets is commonly
+studied in the literature and it stresses the importance of incorporating price–quantity correlation into the models.  For an example,
+Bessembinder and Lemmon (2002) consider an equilibrium market
+model for which the correlation has a signiﬁcant impact on optimal hedging strategies in forward markets.  Their model has been
+extended by, for instance, Willems and Morbee (2010) who study the
+effect of including options onto the market.  From the retailer’s perspective with an exogenously given spot and forward market, Oum
+Name (2006) use utility maximisation to derive optimal hedge strategies that exploit the correlation to manage price–quantity risk in a
+single period setting.  As another example, Boroumand Name (2015)
+address the problem of price–quantity risk on an intra-day scale and
+demonstrate with a simulation approach that intra-day hedging outperforms daily and longer term portfolios.  We also take the retailer’s
+perspective and model the spot-price/consumption-load correlation
+with a bivariate model where both the spot and load have temporal dependency.  Based on that model, we set out to hedge the
+price–quantity risk of a ﬁxed price agreement with forward contracts.  In relation to our approach, Coulon Name (2013) develop an
+intricate three-factor model and consider hedging strategies based
+on options that are priced with closed form expressions.  In contrast,
+we do not consider the problem of pricing derivatives under our
+model, but concentrate on a operational hedging approach based on
+exogenously given market forward-price data. 
+1. 3.  Structure, contributions, and ﬁndings. 
+The rest of the paper is organised as follows.  In Section 2, we formulate a dynamic model for electricity spot-price and consumptionload — a two-dimensional Gaussian Ornstein-Uhlenbeck model with
+a seasonality component.  In Section 3, we analyse expected loss
+minimisation.  Looking speciﬁcally at static hedging strategies with
+forward contracts, a main contribution of the paper is the derivation
+of explicit formulas for optimal hedge portfolios based on three different loss functions.  the square, the exponential, and the “hockey
+stick”.  the two latter based on asymmetric risk measures appear
+new.  Section 4 is an empirical study of the hedging performance
+based on publicly available consumption, spot- and forward-prices
+from the Nordic region.  The empirical results demonstrate substantial beneﬁts for the derived asymmetric hedges over the common
+industry benchmark that uses a position in forward contracts equal
+to the expected load.  It should be noted that unlike many sources
+in the literature, the hedge experiments in this paper truly test outof-sample performance.  The hedge portfolio constructed at, say, time
+t uses only information about state-variables and model parameters
+that was truly available at time t.  Section 5 investigates the robustness of the results.  First, we test if forward-prices add information
+that can be easily exploited in the hedge constructions.  We ﬁnd this
+not to be the case.  Second, we consider a model extension with jumps
+(or spikes) in which we derive optimal hedges and implement these. 
+We ﬁnd little to no empirical improvement over the original hedge
+performance.  Section 6 concludes and describes directions for future
+research. 
+<Middle> The electricity price and consumption model. 
+Our approach will be to model jointly the electricity spot price
+and the consumption load with a continuous stochastic process.  Both
+the price and the load exhibit seasonal patterns – the time of the day,
+day of the week and climatological season naturally effect the spot
+price and consumption, see Benth Name (2008) and Haugom (2011) –
+and we will ﬁt deterministic periodic functions to capture this
+seasonality.  The residual price and load will then be modelled with
+a stationary process and we conveniently choose the continuous
+Ornstein-Uhlenbeck process for this purpose. 1
+2. 1.  The bivariate Ornstein-Uhlenbeck process. 
+The bivariate mean-reverting Ornstein-Uhlenbeck process
+(Xt, Yt)t≥0 is given by the solution to the stochastic differential
+equation,
+where jx, jy, s x, s y are positive parameters, hx, hy ∈ R and the
+Brownian motions W(1), W(2) are correlated with qw ∈ [−1, 1].  The
+standard trick of multiplying by integrating factors, i. e.  using the
+Ito formula on e−jxtX(t) and e−jytY(t), gives us the more explicit
+expressions, from which we see that the univariate covariance functions are here,
+and that the cross-covariance function is this,
+where we have deﬁned the parameters. 
+From Eq.  (1) it also follow that (X, Y) is a Gaussian process, in
+particular the conditional distribution is bivariate normal (BVN) and
+given by this,
+with mean vector and covariance matrix. 
+2. 2.  Parameter estimation. 
+2. 3.  The seasonal Ornstein-Uhlenbeck model. 
+With observed data we refer to a set of observations made at n+1
+time-points t0, .  .  .  , tn with Di = ti − ti−1 denoting the spacings of the
+time grid.  An observed path x = (x0, .  .  .  , xn) of the process (Xt)t≥0
+is a set of observations where xi is the observed value of Xti for i =
+0, .  .  .  , n.  From Eq.  (2) we write the log-likelihood for the observed
+path x of the univariate Ornstein-Uhlenbeck process as a function of
+the parameters x = (j, h, s)
+where 0 is the normal density function, here with (conditional) mean
+li+1|i = xie−jDi+1 + h(1 − e−jDi+1 ) and variance s 2
+t+1|i = s 2(1 −
+e−2jDi+1 )/(2j).  The decomposition of the density comes from the fact
+that X is a Markov process.  since the Markov property gives that
+f(xi+1|xi, .  .  .  , x0) =f (xi+1|xi) for the conditional density, we can write
+f (x0, .  .  .  , xn) = f (xn|xn−1) .  .  .  f (x1|x0)f (x0). 
+The maximum likelihood estimate 
+x is the argument that maximizes the log-likelihood
+which may be obtained by a numerical optimiser. 2 Calculating the
+observed information matrix by numerical differentiation at estimated values gives an estimatedstandard error of the j(cid. 5)th parameter as
+xx and ˆ
+denotes element i, j of the inverse matrix of A.  Further, if ˆare univariate estimates from two observed paths x and y,
+gives an estimator of qw where ˆq(x, y) is the sample correlation
+coeﬃcient between x and y. 
+A bivariate observation (x, y)
+from the bivariate OrnsteinUhlenbeck process with parameters xxy = (jx, hx, s x, jy, hy, s y, qw)
+yields the log-likelihood from Eq 
+where li+1|i ≡ lti+Di|ti
+and Si+1|i ≡ Sti+Di|ti are the conditional
+mean vector and covariance matrix given in the previous section. 
+Here 02 denotes the bivariate normal density and the maximum
+likelihood estimate ˆxxy may be obtained by numerical optimisation along with estimated standard errors from the numerically
+calculated information matrix. 
+Since the price and consumption of electricity exhibit seasonal behaviours, we will work with a model for the spot-price S
+and consumption-load L as given by so-called seasonal OrnsteinUhlenbeck model,
+where (˜S, ˜L) follows a bivariate Ornstein-Uhlenbeck process while
+HS(t) andH L(t) are deterministic seasonality functions of time.  For
+this purpose, we let H(t) be a periodic function deﬁned by
+and the regression matrix
+A(0) of dimension [n × p + 1] is a function of the phase vector. 
+If, for a moment, we consider the phases to be ﬁxed, then the estimation of the amplitudes is a standard least-squares optimisation
+problem. 
+ie.  a function of the phase vector a∗ = a∗(0).  This lead us to perform
+the estimation in two steps. 
+by numerical optimisation.  Then we perform the regression
+to obtain parameter estimates (ˆa, ˆ
+0) of the periodic function.  Our
+estimation approach ﬁts the seasonal functions to price and load
+in the ﬁrst step and an Ornstein-Uhlenbeck process to the deseasonalised price and load in the second step. 
+2 For equidistant observations estimators can be found in closed, but slightly
+lengthy, form. 
+Remark 1.  As an alternative to a two-step estimation of the seasonal
+Ornstein-Uhlenbeck process, note that we may write the likelihood
+of the full model.  Following the notational convention that we introduce in Section 3. 2 and denoting the respective amplitude- and
+phase vectors with aS, 0S, aL, 0L, the 4p + 9 parameter vector
+goes into the Gaussian likelihood of the same form as Eq.  (3) with
+conditional mean being a function of amplitudes and phases as well,
+see Eqs.  (8)–(9).  Numerical optimisation of the likelihood is, however, unstable due to the large number of parameters.  For example,
+in the empirical study of Section 4 we use ﬁve periods for the seasonal components which yields 29 parameters in total.  We found the
+numerical optimisation of the likelihood on market data with respect
+to the full vector Eq.  (5) to be unstable.  For this reason, we employ
+the robust two-step approach instead. 
+3.  Risk-minimising static hedging
+The hedging problem we are facing is to replicate a future uncertain ﬁnancial obligation.  That is, one tries to replicate the future
+payment with other ﬁnancial products, typically liquid contracts that
+are traded in the market, and in our case we will use forward contracts.  We design a static hedging strategy.  a buy-and-hold position
+in the forward contract that aims at hedging our ﬁnancial obligation. 
+Our approach to determine the forward position will be the method
+of expected loss minimisation. 
+To this end, let pT denote the payoff at time T of the hedged position, that is, the ﬁnancial obligation we want to hedge together with
+a portfolio of hedging instruments.  Then −pT gives the loss of the
+position and
+E[u(−pT)]gives a measure of risk for some speciﬁed loss function u (see Artzner
+Name (1999) for details of risk measures).  The problem at hand is to
+choose the hedging portfolio such that this risk is minimised.  Hence,
+the task is to choose both type of hedging instruments and positions
+to buy/sell of these instruments at initiation.  Notice that if we were
+to set up a dynamic hedging strategy instead, then we would have to
+choose the time-points or events at which to rebalance the hedging
+portfolio. 3
+3. 1.  Hedging a ﬁxed price agreement. 
+Assume that we want to hedge a ﬁxed price agreement that
+expires at a speciﬁed future time T > t0 where t0 is the initiation
+time.  This is a ﬁnancial contract with payoff (ST − Ffpa)LT at time T for
+the long position and its features can be explained by the following
+situation.  At time t0, we enter a contract with a counterparty where
+we obligate ourselves to deliver an unspeciﬁed quantity LT of electricity at time T for the agreed price Ffpa.  The quantity will be the
+unknown consumption of the counterparty.  At the expiry time T, we
+will have to cover our contracted delivery of electricity by purchasing
+the same quantity from the spot market at a price ST.  Our cash-ﬂow
+for the position at time T then amounts to
+FfpaLT − STLT
+which is the short position of the ﬁxed price agreement. 
+7. 2 and references therein. 
+To set up a static, buy-and-hold, hedge at time t0 for the naked
+position (notice that ST and LT are unknown at t0), we enter a forward
+contract with expiry time T and forward price F.  This is a contract
+with payoff ST − F at time T and we enter the forward with a position
+V to be determined at initiation.  If we assume that the ﬁxed price
+agreement has a price relative to the forward Ffpa = F + m, where
+m is some non-negative margin, then the total payoff of our hedged
+position is this. 
+The hedging problem is to specify, at initiation time t0, the forward position V in an optimal way.  For this purpose, we employ the
+approach of minimising the risk measure Eq.  (6) speciﬁed with three
+different loss functions.  (i) the positive loss u(x) =max(x, 0), (ii) the
+quadratic loss u(x) =x 2 and (iii) the exponential loss u(x) =exp(x). 
+Our aim is thus to minimise the risk of the hedged portfolio with
+respect to the forward position, that is. 
+Common to all three loss functions is that they are convex which
+makes the corresponding risk measures convex as well, see Föllmer
+and Schied (2011).  A second property which holds for the positive
+loss and exponential loss is monotonicity.  if the outcome of position A is certainly smaller than that of position B, then position A
+will have greater risk.  This means that these measures take downside risk into account while, in contrast, the quadratic-loss measure
+is symmetric.  both positive and negative variations of the loss are
+equal contributors to the risk.  The expected positive loss also satisﬁes the sub-additivity property part of the coherent risk measure
+deﬁnition.  A monetary interpretation of this property means that one
+will beneﬁt from diversiﬁcation.  the risk of a portfolio of assets is less
+or equal to the risk of the individual assets. 
+Financial contracts traded at the exchange for power derivatives
+are typically not speciﬁed with a single expiry-time as in the previous example.  A power forward obligate the counterparties to settle
+the difference between spot and ﬁxed price at a set of time-points
+during a speciﬁed period, for example a month, quarter or a year. 
+There is typically a base-load and a peak-load version of the contract
+as well, where the latter has settlements on peak-hours only, that is
+weekdays 08. 00 to 20. 00 for the Nordic market, while the former has
+settlements on every full hour during the expiry period. 
+We consider ﬁxed price agreements and forwards that are speciﬁed with an expiry month M and we let M(p) denote peak-hours
+during this month and M(op) the remaining off-peak hours.  The
+payoff at time Ti for the hedged position during off-peak is thus
+for all Ti ∈ M(op), where V b is the position in thebase-load forward with price Fb.  Notice that we assume the pricing
+Fb-fpa = Fb +m with margin m ≥ 0 for delivery during off-peak of the
+ﬁxed price agreement, in particular, we let m = 0.  For a time-point
+(cid. 20)
+during peak periods we have the choice to include in our hedge portfolio a position Vp in the peak-load forward with price Fp ≥ Fb where we assume a pricing Fp-fpa ≥ ˜F + m with margin m ≥ 0 and we
+set m = 0 here as well.  To determine the optimal hedge for the entire
+month M with the expected loss measure, we minimise the function
+for the off-peak and peak contract respectively.  Starting with the
+positive loss function u(x) = max(x, 0), the expected loss may be
+written as such that the minimising argument
+load forward positions of our hedge. 
+Remark 2.  Note that, as the loss functions are convex, and convex
+(cid. 24)
+functions are invariant under aﬃne transformations, we have that
+V (cid. 9)→ u(−(S − F)(V − L)) is a convex map, as well as the total risk V (cid. 9)→
+iu(−(Si−F)(V−Li)).  Thus, we have that any local minimum is indeed
+a global minimum and the same holds for minimising f(Vb, V p) jointly
+with respect to (Vb, Vp) due to linearity. 
+3. 2.  Hedging with the seasonal Ornstein-Uhlenbeck model. 
+To be able to minimise the total expected loss of a monthly contract and ﬁnd the optimal hedge we will derive an expression for
+the expectation in Eq.  (7) with the margin set to zero.  To simplify
+the notation, assume a current time t0 = 0 with given spot-price
+S0 = s and load L0 = l such that ˜S0 = ˜s = s − HS(0) and ˜L0 =
+˜l = l − HL(0) are the current values of the de-seasonalised spot and
+load.  Let (jS, jL, hS, hL, s S, s L, qW) be the parameters of the OrnsteinUhlenbeck process (˜S, ˜L).  The distribution of (S, L) at a future time T, 
+are independent standard normal variables and we have
+such that we can write the expected positive loss. 
+For a general Gaussian variable, X ∼ N (l, s 2) , straightforward
+calculations give this,
+where V and 0 are the standard normal distribution and density
+respectively.  These expressions may readily be used for h1 and h2. 
+Note that the ﬁrst moments depend on both the time t and timelag D while the second moments depend on the time-lag only.  In
+effect we may write the payoff at time T of the hedged position as the
+product of two linear functions of Z and Z,
+that is, the payoff is a product of two correlated normal variables
+dependent on F, V, where F, V will play the role of Fb, Vb and ˜F, Vb +Vp
+which gives us a ﬁnal expression for the expected positive loss,
+this simpliﬁes the expected positive loss to a closed-form expression. 
+The expected loss calculated with dependency between the deseasonalised spot and load4 is shown in Fig.  1 along with the
+expected loss calculated from the independent speciﬁcation of the
+model.  The difference between the two expected loss functions is
+small.  In particular, the minimum expected loss from the two models
+is obtained at the same argument, that is, the zero-correlation case
+yields the same optimal hedge position as the dependent case. 
+For the exponential loss function u(x) = exp(x) we again have by this. 
+we obtain a ﬁnal expression for the expected exponential loss. 
+Where the moment generating function of g(Z, Z
+mally distributed as in Eq.  (10) is used for the second equality. 
+Expanding the square, we may write the exponent as a quadratic
+function of Z,
+and hence, with the coeﬃcients a, b, c, deﬁned as above. 
+For the quadratic loss function u(x) = x2 we have the expected
+squared loss measure where the conditional expectation is this. 
+Substituting this back into Eq.  (11) gives, after a few simpliﬁcations,
+the quadratic loss measure, where we have employed the fact that E[Z] =E [Z3] = 0
+while E[Z2] = 1 and E[Z4] = 3 for a standard normal variable. 
+Differentiation with respect to V and equating to zero yields this where
+is chi-squared distributed with one degree of freedom and non-centrality parameter b2/(4c2).  Using the moment
+generating function of the non-central chi-squared distribution
+generated outcomes from the standard normal distribution
+which is the forward position of the optimal hedge obtained from
+minimising the expected quadratic loss.  Notice here that quadratic
+hedging suggests a forward position equal to the expectation of the
+load in the case when the de-seasonalised spot and load are assumed
+Upon inspection of Fig.  2, we see that both the spot-price and load
+series exhibit seasonal patterns, particularly evidently for the load. 
+Power consumption inherently varies with the time of the day and
+day of the week.  Due to electrical heating during winter (and air cooling during summer) there is a variety with the climatological season
+as well.  The seasonality of consumption is transferred to the spot
+price as demand for electricity affects its price.  Further, as the climatological season affects the production of hydroelectricity, there will
+also be seasonal dependent factors that affects supply, and thus the
+price.  Finally, notice that the spot price may turn negative with some
+remarkably large negative values recorded around the new years of
+2012, 2013 and 2014. 6
+uncorrelated.  The hedging strategy is hence completely independent of our expectation of the future spot price.  I particular, the loss
+(ST−F)(LT−V) will potentially be substantial for the hedger when the
+load is at high levels (above expectation) since then the spot-price is
+typically high as well, due to the actual positive correlation between
+the two (the wrong-way risk).  On the other hand if one assumes
+a non-zero positive correlation, the hedge position Eq.  (12) will be
+increased if the spot is expected to be high, lS > F, which in turn
+decreases the potential large losses in high-spot-high-load scenarios. 
+4.  Empirical study. 
+In this section, we present an empirical study of the performance
+of our hedging approach.  We base the study partly on publicly available market data, partly on a set of proprietary load data obtained
+from DONG Energy who is a major player in the Danish power
+market.  The data is presented in the next section along with ﬁtted
+seasonal functions and estimated Ornstein-Uhlenbeck parameters
+from the residual processes.  Next, we report the results from our
+hedging approach based on expected loss minimisation and compare
+these with a benchmark average-load strategy which is widely used
+by the industry.  Finally, we present a simple extension of our model
+to account for spikes in the spot price and investigate how this affects
+the hedging results. 
+4. 1.  Data and ﬁtted model. 
+We test the empirical performance of
+the model-based
+loss-minimising hedges using spot-prices,
+forward-prices and
+consumption-load data from the price area DK1 of the Danish power
+market. 5 The price and load data are recorded with an hourly observation frequency during the period 1 January 2012 to 31 December
+2014 and it is shown in Fig.  2.  The spot price (top panel) is measured
+in EUR/MWh (euros per megawatt hour) while the load data (bottom
+panel) is measured in MWh.  In addition to the publicly available consumption data in Fig.  2, we have access to a set of proprietary load
+data that has been made available to us from DONG Energy.  This data
+has been anonymized by scaling with the maximum load and it is
+shown in Fig.  2 in the Appendix.  We return to the data from DONG
+Energy in Section 4. 3. 
+We use market quotes of peak and base forwards with monthly
+expiries for the DK1 price area in addition to the spot-price and
+load data.  We initiate our hedge approximately two weeks prior to
+the expiry month of the forward contract and we have listed the
+corresponding forward prices in Table 1. 
+Remark 3.  The data from the Nordic power market contains quotes
+of base and peak forwards noted on the Nord-Pool system spot-price
+and certiﬁcate of difference forwards (CDF) for the different Nordic
+price areas, see Table 5 in the Appendix.  As the CDF forward for the
+DK1–system difference is quoted for a base version only, we are, in
+fact, subject to a basis risk that we do not hedge against.  However,
+since the basis affects peak-hours only with the DK1-system spotprice difference (typically an order of magnitude smaller than the
+actual price) and with the peak-position (typically half the size of the
+base-position), we chose to ignore the basis and perform our hedging
+experiment as if the peak-forward was noted on the DK1 spot price
+as well.  We ignore the same basis for the average-load hedge to be
+able to fairly compare the two strategies. 
+To achieve a better ﬁt for the seasonality functions, we separate
+weekends (including holidays) from weekdays (Monday to Friday)
+and ﬁt two periodic functions separately to each of the two data
+sets. 7 The combined seasonality functions ﬁtted to the load and spot
+price from the period 2012-01-01 to 2012-12-31 (Fig.  3) clearly capture a seasonal behaviour where the ﬁtted function for the load is
+particularly reminiscent of the original data.  We used ﬁve periods of
+12, 24, 168 (one week), 4380 (half year) and 8760 (one year) hours for
+this purpose.  Notice that the axes’ scales of Fig.  3 are kept unchanged
+from Fig.  2 to highlight how the amplitude of ﬁtted periodic functions
+compare to the amplitude of unﬁtted data.  The residual processes
+(the de-seasonalised data shown in the middle panels of Fig.  5) are
+then ﬁtted to a bivariate Ornstein-Uhlenbeck process with resulting
+estimated parameters and standard errors recorded in Table 2. 
+We do a rough investigation of the goodness-of-ﬁt of our model
+before we continue with the hedging problem.  The histogram of deseasonalised spot-price data in Fig.  4 shows a decent ﬁt to the normal
+distribution (the marginal distribution of the Ornstein-Uhlenbeck
+process) while the load data shows a strong ﬁt.  Next, if we compare simulated paths from the bivariate Ornstein-Uhlenbeck process
+(left panels of Fig.  5) with the de-seasonalised data (middle panels of
+Fig.  5), we ﬁnd that the simulated processes are fairly reminiscent of
+the data we intend to model.  Obviously, our model can not generate
+any jump discontinuities – the Ornstein-Uhlenbeck process and the
+periodic function are continuous functions – or jump-like extremes
+and thus the model fails to capture the jumps of the market data.  This
+is particularly evident when we look at the simulated spot-spice (ie. 
+the simulated Ornstein-Uhlenbeck process added to the ﬁtted seasonality function, top right Fig.  5) compared to the original data (top
+Fig.  2), while it is not as evident for the load.  However, as our ultimate objective is to ﬁnd an eﬃcient hedging strategy and not to ﬁnd
+the best ﬁtting time-series model, we are continue with our model
+while aware of some of its shortcomings. 8
+If we look at the sample autocorrelation functions of the deseasonalised data and compare to the correlation function e−jD of the
+Ornstein-Uhlenbeck process, we ﬁnd a mediocre match (left panel
+of Fig.  6).  However, notice that the sample autocorrelation of the
+spot and load (middle panel of Fig.  6) are quite similar to the sample autocorrelation functions of the simulated processes (right panel
+of Fig.  6).  This is due to fact that the temporal dependency is partly
+captured by the seasonality functions. 
+Remark 4.  When we derived an expression for the expected positive loss under the seasonal Ornstein-Uhlenbeck model (Section 3. 2),
+we obtained a simpler, closed-form expression in the case when
+there is no cross-correlation between the de-seasonalised processes. 
+We then compared to the dependent case with an example, and
+found that the two loss functions where close (in particular, their
+minimum was obtained at the same argument).  An explanation for
+this is that the cross dependency is partly captured by the seasonality functions, partly by the Ornstein-Uhlenbeck process (just
+as for the temporal dependency).  Indeed.  for the 2012 data, the
+empirical cross-correlation is 0. 37 of the de-seasonalised price and
+load, and 0. 93 of the respective seasonality functions.  This means
+that we might hedge well enough with the closed-form expression
+of the uncorrelated model speciﬁcation, since much of the cross
+dependency is still captured by the seasonality functions. 
+4. 2.  Empirical hedging experiment. 
+We set up an out-of-sample empirical experiment for the DK1
+market to hedge 24 ﬁxed-price agreements with monthly expires
+during 2013 and 2014.  At initiation time t0, set to be approx 15 days
+prior to the ﬁrst day of the expiry month, we enter a ﬁxed price
+agreement with reference load according to the consumption data
+presented in previous section and a ﬁxed price with zero margin
+according to the corresponding t0 market forward price of Table 1.  To
+hedge the contract, we enter forwards (on the same expiry month)
+with hedge positions decided from either the minimum expected
+loss functions (the model hedge strategies) or from the benchmark
+average-load strategy which takes the average load of the contract
+month as the forward position.  If the spot and load are uncorrelated,
+hedging at the expected load gives the minimal variance position —
+a deﬁning property of expectation.  Thus, it is a robust approach
+commonly used by the industry, but it does still leave the expected
+load to be speciﬁed by the user.  A range of proprietary models are
+used by practitioners to estimate the expected load, some of which
+are probably more accurate than our Ornstein-Uhlenbeck model.  In
+order not to stick our hands in a wasps’ nest, we simply use realised
+average loads from the actual contract months.  In effect, this also
+gives an upper bound on minimal-variance hedge performance. 
+For the experiment, we rescale the load data with the maximum load to improve stability of the numerical optimisation and to
+obtain a time-series that corresponds to the rescaled load data from
+DONG Energy.  This just means that our hedging positions (Vb, Vp)
+are expressed as percentages of the maximum load.  To begin with
+the January-13 contract, we employ six months of spot and rescaled
+load data up until t0, that is 2012-06-18 to 2012-12-17, to estimate
+the seasonal Ornstein-Uhlenbeck model in the ﬁrst step (parameters
+recorded in Table 6 in the Appendix).  We use three periods of 12,
+24 and 168 h.  Including periods of a half/one year will improve the
+ﬁt within the estimation set, while extrapolation from long periods
+will impair the out-of-sample ﬁt, ie.  the prediction of the periodic
+function throughout the expiry month. 
+To demonstrate with the positive loss measure, we calculate the
+expected loss based on estimated parameters as a function of peakand base forward positions in the hedge portfolio (Fig.  7) and ﬁnd
+the argument (V b*,V p*)=(0. 361,0. 340) that achieves the minimumloss.  Note that, as the load data is rescaled with the maximum load,
+Vb*, Vp*, are percentages of the maximum load as well.  The realised
+payoff from the optimally hedged position is then calculated for each
+hour ti of the expiry month M as this,
+where Sti and Lti are the realised spot-price and (unscaled) consumption while the optimal forward positions have been scaled back
+with the maximum load.  The results for the January-13 contract are
+shown in left Fig.  8. 
+To verify the results of the model hedge, we calculate the averageload, (¯Vb, ¯Vp) = (0. 632, 0. 222) from the contract month, (percentage of maximum load) and show the realised hourly payoff in the
+right-hand panel of Fig.  8.  The average-load strategy means holding
+forward positions corresponding to the expected load as obtained by
+minimising the quadratic loss function under zero correlation. 
+The most notable feature from the hourly payoffs of the model
+hedge and average-load hedge (Fig.  8) is that the model hedge yields
+an average payoff per hour that is positive at 3208 EUR, while
+the average-load hedge yields a negative average hourly payoff of
+−2192 EUR.  The negative average payoff inexorably leads to a negative accumulative payoff at expiry for the January-13 contract – see
+left panel of Fig.  9 – while the model hedge dispenses a positive
+net proﬁt-and-loss at the expiry.  On the other hand, the standard
+deviation of hourly model-hedge payoff is 10,224 EUR while the
+average-load hedge yields a lower standard deviation of 4808 EUR. 
+This means reducing the risk in classical terms with a lower variation
+of the outcome. 
+Further, if we calculate the optimal model hedge with the exponential loss measure we obtain an average hourly payoff 1859 EUR
+and standard deviation 8690 EUR.  Compared to the linear positive
+loss, the exponential function penalises large losses more heavily
+which leads to a more risk-averse strategy with lower standard
+deviation and lower average of the realised payoff.  Similarly, the
+quadratic loss measure realises an average payoff 525 EUR and standard deviation 7310 EUR per hour.  Thus, we see a positive average
+realised payoff for the January-13 contract even if the quadratic measure is symmetric around zero.  Still we have a higher variance than
+for the average-load.  this is the trade-off we have to do for the beneﬁt
+of higher average returns. 
+A second measure of eﬃciency for the hedging strategies is the
+probability of loss.  22. 6% for the positive loss hedge, 23. 1% for the
+exponential and 26. 9% for the quadratic measure while it is considerable higher at 63. 2% for the average-load hedge.  In concrete terms,
+this means that we make a loss in 63. 2% of the hourly payoff outcomes during January-13 with the average-load strategy while the
+model hedges yield losses for about 25% of the outcomes. 
+4. 3.  Results. 
+We now repeat the procedure above and determine the static
+hedges for all 24 contracts, thus obtaining the optimal peak/load
+forward positions reported in Table 3 for the model hedge with the
+positive loss measure and the average-load hedge, respectively.  As
+for the January-13 contract, we see in Table 3 that monthly averages
+of hourly payoffs from the model hedge are positive for a majority
+of the contracts and higher (except for two contracts) than the average payoffs for the corresponding average-load hedge.  This is natural
+as the purpose of the model hedge is to minimise the (expected)
+positive loss.  We also observe that the standard deviation of hourly
+payoffs is higher for the model hedge for all but one contract (where
+the mean is still higher) when we compare to the average-load
+strategy.  As we basically minimise the variance of the payoff (or
+the loss) with the average-load strategy, this should be expected asThe monetary effect of a relatively high hourly payoff with a
+higher standard deviation for the model hedge from the positive
+loss measure can be seen for the entire set of contracts in the top
+and middle panes of Fig.  10.  The model hedge has a positive average hourly payoff of 821 EUR (when looking at the entire 24-month
+period) while the average-load has a negative average payoff per
+hour of −1107 EUR.  In return, we observe from the quantiles that
+the model hedge yields a greater variation (a standard deviation of
+5419 EUR while the average-load yields 3325 EUR).  From the ﬁgures,
+it is notable that the negative part of the hourly payoff outcomes are
+fairly similar for the two strategies (with a few more large negative
+payoffs for the model hedge) while the set of positive outcomes is
+considerably reduced for the average-load hedge.  If we compare the
+relative size of the hourly payoff from the strategies, we ﬁnd that the
+model hedge yields the largest payout 66% of the time.  This agrees
+with the probability of loss, which is lower for the model hedge for
+almost all contracts as recorded in Table 3.  We can also observe from
+the hourly payoff distributions in the right panel of Fig.  9 that the
+model hedges yield positively skewed payoffs with fatter tails for
+the proﬁtable part, while the average-load has a negativity skewed
+distribution with a relatively fatter tail for the losses. 
+Similar results are obtained with the model hedge based on the
+exponential measure.  an average hourly payoff over all contracts
+of 559 EUR and standard deviation 4892 EUR.  In terms of relative
+payoff sizes compared to the average-load strategy we have an outperformance probability of 63%.  As for the January-13 contract, we
+thus see a somewhat lower average payoff and also a lower variation
+when comparing to the positive loss measure.  With the quadratic
+loss we obtain a slightly negative average payoff of −34 EUR and
+standard deviation of 4258 EUR while the out-performance probability is 63% here as well.  Hence we see a stronger effect from the
+symmetry of the measure with close to zero realised payoffs on the
+average but still a high out-performance rate when comparing to the
+average-load hedge.  Optimal positions and payoff results for each
+of the 24 contracts are given in Table 4 for the exponential and
+quadratic measures. 
+In all, we have thus reduced the opportunity of large, positive
+payoff outcomes with the average-load strategy, for the beneﬁt of a
+smaller variance.  But this comes at a large cost in terms of proﬁt.  If
+we look at the month-end, accumulated proﬁt-and-losses for all 24
+contracts plotted in the bottom panel of Fig.  10, we ﬁnd negative values for all contracts hedged with the average-load strategy, while in
+contrast the model hedge based on the positive loss yields a proﬁt
+in the end of the month for most of the contracts (19 out of 24).  The
+picture is similar for the exponential loss measure (proﬁt for 18 out
+of 24 contracts) while the quadratic loss measure yields a proﬁt at
+month-end for about every second contract (10 out of 24). 
+We now try to put the observations above in quantitative ﬁnancial terms.  First, we calculate reward-to-risk ratios (mean over
+standard deviation) of the realised hourly proﬁt-and-losses.  For
+the model hedges, the positive loss realises the highest ratio 0. 15,
+the exponential loss 0. 11 and the quadratic loss −0. 008 while the
+average-load hedge yields a (negative) ratio of −0. 33.  One way of
+compensating for poor reward-to-risk performance is to charge a
+safety margin (or mark-up) m to the contract price, such that the total
+realised payoff adds to this. 
+We can then calculate a margin certainty equivalent that makes
+two strategies have the same realised reward-to-risk ratio.  A margin
+of m = 0. 72 EUR/MWh must be added to the average-load strategy
+to obtain a reward-to-risk ratio of 0. 15 — the ratio realised by the
+model hedge based on the positive loss measure.  In ﬁnancial terms,
+this gives roughly 0. 72 × 30 •24 •2240 = 1. 16 MEUR per month,
+where 2240 MWh is the average load and 30•24 is the number of
+hours per month.  Considering that the month-end profit-and-losses
+are in the range of −1–3 MEUR, (see bottom panel of Fig.  10), this is
+a substantial premium.  Differently put, a margin of 0. 72 would add
+about 1. 7% to the price that the energy company charges the fixed
+price agreement customer.  A similar analysis for the exponential loss
+function-based hedges leads to a mark-up of 1. 3%. 
+Remark 5.  In Remark 4, we noted that a specification with zero
+cross-dependency between the de-seasonalised processes could
+potentially perform as well as the original specification with the positive
+loss measure.  If we repeat our hedging experiment with the
+independent specification (employing the closed-form expression
+for the expected positive loss), we obtain an average hourly payoff of
+EUR 742 and a standard deviation of 5259.  This gives a reward-to-risk
+ratio of 0. 14, compared with 0. 15 for the dependent specification,
+while the out-performance probability is 65. 5%. 
+Finally, when we repeat the empirical experiment with the proprietary
+set of consumption data from DONG Energy (shown in
+Fig.  10 in the Appendix) we obtain similar results as for the market
+data — see Table 4.  For realised hourly payouts, the model hedge
+based on the positive loss measure out-performs with a 70% probability
+on an hourly basis and in every single one-month period,
+see Fig.  13 in the Appendix. 

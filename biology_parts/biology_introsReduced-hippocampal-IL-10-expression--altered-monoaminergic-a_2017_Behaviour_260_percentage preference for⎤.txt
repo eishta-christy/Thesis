@@ -1,0 +1,335 @@
+
+The incidence of stress-related disorders, such as depression, is approximately twice as high in women as in men [1,2].  In addition, the
+symptoms and pharmacological treatments of these conditions diﬀer in
+both sexes [3].  This disparity could be due to physiological and behavioral sexual diﬀerences in response to the same stressor or diﬀerences
+in the stimuli perceived as stressful [4–6].  Despite these ﬁndings, the
+contribution of these diﬀerences to the development of stress-related
+disorders in women is poorly understood.  This lack of knowledge may
+be due to bias toward males in research in this ﬁeld, perhaps because of
+the need for a homogeneous sample devoid of hormonal ﬂuctuations
+[7] or the lack of a social stress model appropriate for females. 
+Chronic social stress is considered the most common etiological
+factor in the precipitation of depressive disorders in humans [8].  In
+preclinical studies, a commonly used animal model of social stress is
+⁎ Corresponding author. 
+E-mail address: l. garmendia@ehu. eus (L.  Garmendia). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 002
+Received 8 May 2017; Received in revised form 10 July 2017; Accepted 1 August 2017
+Available online 05 August 2017
+0166-4328/ 
+social defeat in male rodents.  This model is based on the resident-intruder paradigm, where subjects interact aggressively to establish
+dominance over the territory [9].  This model has been very useful in
+establishing the mechanisms underlying depressive symptoms [10,11]
+but is not considered adequate to induce chronic social stress in females
+because females do not exhibit territorial aggression [12,13].  Given the
+importance of social support in coping with stress in females [6], the
+disruption of the social network may be a more valid social stressor. 
+Thus, the chronic social instability stress model used in rats [12] and
+mice [14] seems to be a better suited stress model given the social
+nature of females.  This model consists of interrupting the animals’ social network, alternating periods of
+isolation and crowding with
+membership rotation.  Although few studies have used this model and
+the protocols used in these studies diﬀer, the results have shown
+changes in the HPA axis in both rats and mice.  These studies also describe anxiety and depressive-like behavioral changes in conventional
+A.  Labaka Name
+Behavioural Brain Research 335 (2017) 8–18
+behavioral tests, but data are still inconclusive [14–17].  Moreover, the
+eﬀects of CSI on the immune and monoaminergic systems, which play
+an essential role in the pathology of depression [18,19], are unknown. 
+A large body of evidence supports the association between increases
+in the production of inﬂammatory cytokines, such as interleukin (IL)1β, IL-6 and tumor necrosis factor-alpha (TNF-α), and the pathogenesis
+of aﬀective disorders [20,21].  These data have been supported by animal models in which psychosocial stress, in addition to resulting in
+inﬂammatory immune activation, produces behavioral changes associated with depression.  An increase in inﬂammatory cytokine levels has
+also been observed in brain structures involved in aﬀective disorders,
+such as the prefrontal cortex, amygdale and hippocampus [22,23]. 
+Although most research has focused on the increase of pro-inﬂammatory cytokines, several studies indicate that an imbalance between pro- and anti-inﬂammatory cytokines can produce lasting
+changes in brain function and attribute a protective role to anti-inﬂammatory cytokines, such as IL −10, thereby highlighting their role
+in depressive behavior [24,25]. 
+Many studies have focused on the impact of pro-inﬂammatory cytokines on monoaminergic function.  Speciﬁcally,
+the enzyme indoleamine 2,3-dioxygenase (IDO), activated by pro-inﬂammatory cytokines, metabolizes TRYP into KYN, leading to serotonin reduction,
+which has been implicated in depression [26].  In addition, the activation of kynurenine metabolic pathways may lead to the formation of
+neurotoxic products, including 3-HK, a precursor of the quinolinic acid
+[27] which increase has been associated with severe depression [28]. 
+Pro-inﬂammatory cytokines may also aﬀect monoaminergic transmission by increasing the function of their reuptake pumps and/or decreasing the availability of tetrahydrobiopterin (BH4), a key enzyme cofactor in the synthesis of all monoamines [29]. 
+In the context of this work, which analyzes the eﬀects of social stress
+on females, in addition to the well-documented inﬂuence of the HPA
+axis in the regulation of immune function [30], the role of female sex
+steroids must be also considered.  The modulation of immune responses
+by estrogen is complex because it may increase or decrease the production of inﬂammatory cytokines depending on the context, its concentration or type of receptor to which it binds [31].  Estrogens, similar
+to other sex steroids, alter the functioning of immune cells by binding to
+speciﬁc receptors that are expressed in the immune system.  In the brain,
+ERα and ERβ have been identiﬁed in glial cells [32], and some studies
+suggest that estrogen exhibits anti-inﬂammatory properties by binding
+to ERβ [33].  In this sense, it has been observed that estrogens modulate
+inﬂammation in the hippocampus and anxiety and depressive-like behaviors via ERβ [34]. 
+In this work, we studied in female mice the eﬀect of CSI on behavior
+and diﬀerent systems associated to stress related aﬀective disorders.  For
+this purpose, we assessed behavior in the FST and sucrose preference
+test (SPT), as well as barbering behavior, since this behavior was observed in stressed mice throughout the experiment.  We also measured
+hippocampal changes in the expression of the pro-inﬂammatory cytokines IL-1β, IL-6, and TNF-α and the anti-inﬂammatory cytokine IL-10
+as well as monoaminergic activity.  Taking into account the relationship
+between monoaminergic and immune activity, the expression of IDO
+and the levels of TRYP, KYN and 3-HK in the same brain structure were
+measured.  The hippocampus was chosen because, in addition to interacting with other structures related to depression, such as the prefrontal
+cortex, amygdala and striatum, it is also a structure that is particularly
+sensitive to the eﬀects of stress and sex hormones [35].  Moreover, it
+plays an important role in the stress-induced inﬂammatory response
+[36].  Finally, we assessed the eﬀect of this chronic stress model on the
+HPA and HPG systems by measuring the levels of plasma corticosterone
+and estradiol and their receptors in the brain.  In addition, estrous cycle
+was also studied. 
+<Middle> Materials and methods. 
+2. 1.  Animals
+Sixty-two 8-week-old female CD1 mice (Janvier Labs, France) were
+housed in groups of three for 7 days in transparent plastic cages measuring 24. 5 × 24. 5 × 15 cm.  Food and water were available ad libitum. 
+The holding room was maintained at a constant temperature of 20 °C
+with a reversed 12-h light/dark cycle (white lights on from 20:00 to
+08:00 h), to enable mouse manipulation during the animal’s active
+phase (dark).  All experimental procedures were conducted under dim
+red light conditions in a room adjacent to the holding facility.  The
+European regulations for the care and treatment of experimental animals were followed, and the procedures were controlled and approved
+by the Diputación Foral de Gipuzkoa, Spain, in compliance with the
+European Directive (2010/63/EU) on the protection of animals used for
+scientiﬁc purposes (22 September 2010).  The procedures were approved by the Ethical Committee for animal welfare of the Basque
+Country University (CEBA). 
+2. 2.  Experimental procedure
+The experiment began after a 7-day adaptation period.  A control
+group (n = 30) and a group of socially stressed mice (n = 32) were
+established.  Chronic social instability stress was applied to the stress
+group during a 28-day period.  The control mice remained in same
+conditions as the habituation time.  Blood was collected via submandibular vein puncture on days 1 and 25 for all subjects (N = 62) to
+measure plasma corticosterone levels.  Body weight was measured at the
+beginning and at the end of stress period.  Vaginal smears were collected
+at the start (days 1–4) and at the end (days 25–28) of the procedure to
+determine the estrous cycle phase.  On day 29, half of the animals from
+the control group (n = 15) and half from the stressed group (n = 16)
+were sacriﬁced by cervical dislocation.  Blood was immediately collected by cardiac puncture to determinate plasma estradiol concentration, the brain was removed, and the whole hypothalamus and hippocampi were dissected and analyzed.  All dissections were performed
+under sterile conditions and stereomicroscopic observation with reference to the mouse brain atlas [37].  These samples were stored at
+−80 °C until they were used for biological measurements.  After the
+mice were sacriﬁced, a barbering assessment was performed.  On day
+29, the remaining stressed (n = 16) and control (n = 15) mice were
+singly housed to perform the sucrose preference and food intake test for
+24 h.  Then, the control mice were returned to their original cage mates,
+while the stressed mice remained isolated until the forced swimming
+test was performed on day 31.  Finally, the animals were sacriﬁced. 
+Barbering was not assessed in this case, because isolation prevented this
+behavior.  (Fig.  1). 
+2. 3.  Stress procedure
+The female mice were stressed using the chronic social instability
+stress model, which was adapted and modiﬁed from a protocol described by Haller Name [12] in rats and by Schmidt Name [14] in mice. 
+The mice were exposed to a highly unstable social situation with alternating phases of isolation (1 day) and crowding (4 per cage, during
+3 days) over 28 days.  During each crowding phase, we ensured that
+four diﬀerent mice that had no previous contact were placed together in
+a new clean cage. 
+2. 4.  Behavioral assessment
+2. 4. 1.  SPT and food intake
+The control and stressed mice that were assigned to the behavioral
+tests were individually housed and were oﬀered a free choice between
+two bottles for 24 h; one bottle contained a 0. 8% sucrose solution, andA.  Labaka Name
+Behavioural Brain Research 335 (2017) 8–18
+Fig.  1.  Experimental procedure. 
+one bottle contained water.  To prevent the possible eﬀects of a side
+preference in drinking, the position of the bottles was counterbalanced. 
+At the same time, the mice were provided four pellets.  The animals
+were not deprived of food or water before the test.  The consumption of
+the sucrose solution, water and food was measured by weighing the
+bottles and the pellets at the beginning and end of the test.  The consumption of sucrose and food was expressed in relation to body weight. 
+The sucrose preference was calculated as percentage of sucrose consumption vs.  sucrose plus water consumption. 
+2. 4. 2.  FST
+Individual mice were placed in glass cylinders (height 18. 5 cm and
+diameter 12. 5 cm) containing 13. 5 cm of water at 25 ± 1° C for 6 min. 
+The test was performed 24 h after the SPT and was recorded for subsequent assessment.  The following behaviors were assessed:
+immobility, swimming and climbing.  The latency, frequency and time
+spent engaged in each behavior were recorded manually by an experimenter blinded to the stress condition, using The Observer 4. 0
+program (Noldus, ITC, Wageningen, Netherlands). 
+2. 4. 3.  Whisking assessment
+As the mice showed no traces of barbering on any body parts other
+than the snout, we speciﬁcally examined whisking signs at the moment
+of sacriﬁce.  Whisking is a type of hetero-barbering in which the socalled barber holds a cage mate down and cuts its vibrissae with its
+incisors [38,39].  Whisker length was assessed by a trained observer and
+classiﬁed using the following two-point scale: (1) intact whiskers— for
+no deterioration of the vibrissae and (2) shortened whiskers—for
+shortening or removal of the vibrissae. 
+2. 5.  Physiological determinations
+2. 5. 1.  Blood collection and plasma isolation
+The blood was collected from all subjects (N = 62) by submandibular vein puncture on days 1 and 25 between 9:00 and 10:00
+a. m.  for the corticosterone measurement.  On day 29, after analyzing
+vaginal smears, the blood was collected by cardiac puncture (n = 31)
+for the estradiol measurement.  The blood was stored in heparinized
+containers and then centrifuged at 1800 x g for 15 min at 4 °C.  The
+resulting plasma was collected and stored at −70 °C until it was assayed. 2. 5. 2.  Determination of plasma corticosterone concentrations
+The plasma corticosterone concentrations (ng/ml) at days 1 and 25
+were determined using a commercially available enzyme immunoassay
+kit (Assay Designs, Ann Arbor, MI, USA) and a Synergy HT microplate
+reader (BioTek Instruments, Inc. , Winooski, VT, USA).  The sensitivity of
+the assay was 5 pg/ml, and the intra- and inter-assay variation coeﬃcients were 7% and 8%, respectively. 
+2. 5. 3.  Determination of plasma estradiol (E2) concentrationsavailable
+commercially
+The plasma estradiol concentrations (ng/ml) at day 29 were determined using
+enzyme-linked immunosorbent assay (Calbiotech, Spring Valley, CA, USA) and a Synergy
+HT microplate reader (BioTek Instruments, Inc. , Winooski, VT, USA). 
+The sensitivity of the assay was 3 pg/ml, and the intra- and inter-assay
+variation coeﬃcients were 3. 1% and 9. 9%, respectively. 
+2. 5. 4.  Determination of estrous cycle phases
+The vaginal smears were collected during days 1–4 and 25–28 from
+all subjects using a cotton swab dampened with saline.  Then, the smears
+were microscopically analyzed to identify the phases of the estrous
+cycle using the following standard criteria [40]: (a) proestrous was
+characterized by a predominance of nucleated epithelial cells; (b) estrous was characterized by large clumps of anucleated corniﬁed cells;
+(c) metestrous was characterized by the same proportions of leukocytes,
+corniﬁed, and nucleated epithelial cells; and (d) diestrous was characterized by a predominance of leukocytes. 
+2. 5. 5.  Real-Time RT −PCR measurements of mRNA expression in the
+hypothalamus and hippocampus
+The total RNA of each structure was isolated using the NucleoSpin
+RNA Plus kit (Macherey Nagel, Germany).  A UV spectrophotometric
+analysis was performed at 260 nm to determine the RNA concentrations, while the 260:280 absorbance ratio was utilized to assess the
+nucleic acid purity.  (Synergy HT, BioTek Instruments, Inc. , Winooski,
+VT, USA).  The total RNA was then reverse-transcribed with the
+PrimeScript RT reagent kit (Takara Bio Inc. , Madrid, Spain).  The resulting
+SYBR Green-based
+(SYBR®Premix Ex TaqTM, Takara Bio Inc. , Madrid, Spain) real-time
+PCR, and the formation of PCR products was monitored using the 7500
+Real-Time PCR System (Applied Biosystems, Madrid, Spain).  The cDNA
+sequences were obtained from GenBank at the National Center for
+cDNA levels were
+quantiﬁed by
+A.  Labaka et al. PCR primer speciﬁcation. 
+Behavioural Brain Research 335 (2017) 8–18
+Function
+Primer sequences (5′ → 3′)
+Analyzed structure
+GenBank accession No. 
+NM_008361. 3
+NM_031168. 1
+NM_010548
+NM_013693. 2
+NM_007956
+NM_207707
+X66367. 1
+AJ311855. 1
+BC049931. 1
+NM_008084. 2
+NM_013556. 2IL-1βIL-10ERαGRIDO
+Pro-inﬂammatory cytokine
+Pro-inﬂammatory cytokine
+Anti-inﬂammatory cytokine
+Pro-inﬂammatory cytokine
+Estrogen receptor α
+Estrogen Receptor β
+Glucocorticoid receptor
+Mineralocorticoid receptor
+Rate-limiting enzyme of tryptophan
+catabolism
+Hippocampus
+F: GATGATAACCTGCTGGTGTGTGA R:
+GTTGTTCATCTCGGAGCCTGTAG
+F: AGCCAGAGTCCTTCAGAGA R: TCCTTAGCCACTCCTTCTGT
+F: GCCAAGCCTTATCGGAAATG R: CCGCATCCTGAGGGTCTTC
+F: GACGTGGAACTGGCAGAAGAG R: TGCCACAAGCAGGAATGAGA
+F: AAGGCGGCATACGGAAAGA R: CATTTCGGCCTTCCAAGTCA
+Hippocampus
+Hippocampus
+Hippocampus
+Hippocampus
+Hypothalamus
+F: CCAGACTGCAAGCCCAAATGT R: AGAAGCGATGATTGGCAGTGG Hippocampus
+Hypothalamus
+Hypothalamus
+Hypothalamus
+F: CCCATGGAGGTAGCGATTGT R: TGTAAAGGCTGCCCAATGTGT
+F: ACCTGCAGAGAGGACCAATGA R:
+GGAGTAATTCGTGTTTTTCTTTGCT
+F: AAAGCAATCCCCACTGTATCCA R: TGCCTTTTCCAATGCTTTCAG Hippocampus
+GAPDH Catalizyng enzyme of glycolysis
+F: CGGCCGCATCTTCTTGTG R: GTGACCAGGCGCCCAATACCatalizyng transferase of hypoxanthine
+F: TGGGAGGCCATCACATTGT R: TCCAGCAGGTCAGCAAAGAAC
+Hippocampus
+Hypothalamus
+Hippocampus
+Hypothalamus
+Biotechnology Information (www. ncbi. nlm. nih. gov).  Both hypoxanthine phosphoribosyl
+transferase (HPRT) and glyceraldehyde-6phosphate dehydrogenase (GAPDH) were used as the reference genes. 
+The primer sequences were designed using Primer Express Software
+v3. 0 (Applied Biosystems, Madrid, Spain), and obtained from Applied
+Biosystems (Table 1).  The relative gene expression was determined
+using the 2−DΔt method [41]. 
+2. 5. 6.  Determination of hippocampal monoamines, their metabolites and
+amino acids by HPLC(DOPAC),
+To determine the monoaminergic activity in the hippocampus, the
+dopamine (DA), noradrenaline (NA) and serotonin (5-HT) levels were
+analyzed, as well as their respective metabolite levels, including: 3,4dihydroxyphenylacetic
+3-Methoxy-4-hydroxyphenylglycol (MHPG) and 5-hydroxyindoleacetic acid (5-HIAA).  The
+serotonin precursor TRYP, KYN, and 3-HK were also determined.  All the
+analytes were analyzed via high-performance liquid chromatography
+(HPLC).  The HPLC equipment comprised an Agilent 1200 LC system
+(Agilent Technologies, Madrid, Spain) equipped with a vacuum degasser, quaternary pump, cooled autosampler, thermostted column
+compartment, and ﬂuorescence and variable wavelength detectors.  The
+chromatographic separation was performed on a Poroshell 120 EC-C18
+column (100 × 4. 6 mm, 2. 7 μm) protected by a cartridge guard column
+(Agilent Technologies).  The mobile phase comprised 0. 05% triﬂuoroacetic acid (solvent A) and acetonitrile (solvent B).  The ﬂow was
+maintained at a constant rate of 0. 5 ml/min.  The gradient elution
+program was as follows: from 0 to 8 min, 6% solvent B (v/v); from 8 to
+15 min, 10% solvent B (v/v); from 15 to 22 min, 20% solvent B (v/v);
+and from 22 to 25 min, 2% solvent B (v/v).  The column was maintained
+at 30 °C during the analysis, and the samples were maintained at 4 °C in
+an autosampler unit.  The eﬄuent was monitored with the ﬂuorescence
+detector at the emission wavelengths of 320 nm for DA, DOPAC, NA
+and MHPG and 366 nm for 5-HT, 5-HIAA and TRYP.  For these analyses,
+the excitation wavelength was 210 nm.  The eﬄuent of KYN and 3-HK
+was monitored with variable wavelength detector set at 360 nm.  The
+total sample analysis time was 25 min. 
+Prior to the sample preparation, the frozen tissues were weighed on
+AG204 analytical scales (Mettler-Toledo International, Inc. , Columbus,
+OH, USA).  The tissues were homogenized and deproteinized in 60 μl
+homogenization solution (1% formic acid in acetonitrile) in a Bullet
+Blender homogenizer (BBY24 M Bullet Blender Storm, Next, Advance,
+New York, USA).  The homogenate processing, calibration curve preparation, and data processing were performed as previously described
+[42].  The ﬁnal data were expressed as pg/mg wet tissue.  Regarding the
+KYN data, the samples for which the absorbance intensity was very low
+and could not be converted to an observed concentration (16 of 31
+samples) were assigned the lowest detectable concentration. 
+2. 6.  Statistical analysis
+All the statistical analyses were carried out using SPSS 22 for
+Windows (SPSS Inc. , Chicago, Ill. , USA) with the level of signiﬁcance
+set at p < 0. 05.  The criterion of normality and homogeneity was respected, and outliers were eliminated in accordance with the boxplot
+outlier labeling rule.  The behavioral and physiological variables were
+analyzed using one-way ANOVA or two-way ANOVA for repeated
+measures.  Diﬀerences in estrous cycle phases duration and whisking
+behavior were analyzed using McNemar’s test and Fisher’s exact test,
+respectively. 
+3.  Results
+3. 1.  Eﬀect of CSI on the SPT, food intake and body weight
+The analysis of variance showed that chronically stressed mice
+consumed less sucrose solution in relation to body weight than the
+control group (F[1,30] = 5. 174; p = 0. 031).  When sucrose preference
+was analyzed, the control mice showed a preference of 72,6%, compared to the 60,4% of the stressed mice, but this diﬀerence did not
+reach the signiﬁcation level (F[1,30] = 2. 38; p = 0. 133) (Fig.  2).  No
+diﬀerences were found for food intake (F[1,30] = 0. 03; p = 0. 854) or
+body weight gain (F[1,30] = 1. 17; p = 0. 28). 
+3. 2.  Eﬀect of CSI on the FST
+The analysis of variance showed that stressed mice performed
+climbing with a higher frequency (F[1,29] = 6. 75; p = 0. 015) and that
+they spent more time engaged in this behavior (F[1,29] = 6. 24;
+p = 0. 018) (Fig.  3a, b).  No diﬀerences were found between the groups
+as regards either frequency of immovility (F[1,29] = 0. 03; p = 0. 856) or
+swimming (F[1,29] = 1. 78; p = 0. 192).  Nor were any diﬀerences in the
+immobility (F[1,29] = 0. 30; p = 0. 582) and swimming
+duration of
+(F[1,29] = 1. 199;
+immovility
+(F[1,29] = 0. 04; p = 0. 839). 
+p = 0. 283),ofthe
+3. 3.  Eﬀect of CSI on whisking behavior
+Fisher’s exact test showed that CSI aﬀected the whisker length.  In
+the stress group, 83% of the subjects showed shortened whiskers,
+whereas all the whiskers were intact in the control group (oddsA.  Labaka Name
+Behavioural Brain Research 335 (2017) 8–18
+Fig.  2.  Sucrose consumption relative to body weight
+are represented for the control group (n = 15) and
+the stress group (n = 16).  Numbers above the bars
+indicate the corresponding percentage preference for⎤
+the sucrose solution: ⎡
+.  Data are⎣
+gsucrose
+gsucrose+
+expressed as the mean ( ± SEM). 

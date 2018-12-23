@@ -1,0 +1,214 @@
+
+Cognitive control includes the capacity to enhance the activation of
+task-relevant processes while suppressing distracting ones. Stroop paradigm [1], a typical cognitive control task, one has to name
+the font color of words and ignore their meaning.  Color naming time
+and errors increase when the word color and meaning are incongruent
+(e. g. , BLUE written in red) relative to when they are congruent (e. g. ,
+BLUE written in blue) or neutral (e. g. , BLUE written in black).  Classical
+explanations suggest that, to combat interference during incongruent
+conditions, cognitive control processes suppress a habitual reading
+mode and activate controlled color naming [2,3]. 
+Cognitive control requires the complementary activation of the
+anterior cingulate and lateral prefrontal cortex, as demonstrated in
+functional neuroimaging studies [4,5].  Speciﬁcally, verbal Stroop-related activations have been observed in the dorso- and ventro-lateral
+prefrontal cortex, predominantly in the left hemisphere (e. g. , [6,7]; also
+see Ref.  [8], for a recent example of converging neuropsychological
+evidence of a left prefrontal involvement in verbal Stroop).  Thus, based
+on functional neuroimaging (and neuropsychological) data, one could
+hypothesize that a leftward hemispheric asymmetry in the lateral prefrontal cortex helps to combat Stroop interference.  However, left and
+right hemispheric activations are not usually compared through direct
+statistical tests.  Moreover, a diﬀerent scenario seems to emerge with
+structural neuroimaging evidence.  In a recent voxel-based morphometry study, it was found that regional grey matter volume in the
+anterior cingulate cortex, cerebellum and, importantly, right ventrolateral prefrontal cortex was negatively related to the amount of verbal
+Stroop interference [9].  Thus, if structural MRI data are taken into
+consideration, one could posit diverging expectations regarding which
+direction of frontal asymmetry supports better Stroop performance. 
+Another region that may be involved in verbal Stroop performance
+⁎ Corresponding author at: Department of Neuroscience, University of Padova, Via Giustiniani, 5, 35128 Padova, Italy. 
+E-mail address: antonino. vallesi@unipd. it (A.  Vallesi). 
+1 These authors contributed equally to this work. 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 024
+Received 23 May 2017; Received in revised form 13 July 2017; Accepted 14 August 2017
+Available online 20 August 2017
+0166-4328/ 
+A.  Vallesi Name
+Behavioural Brain Research 335 (2017) 167–173
+is the so-called Visual Word Form Area (VWFA), a word-sensitive region
+located in the left inferior posterior temporal cortex [10,11].  Evidence
+from functional magnetic resonance imaging (fMRI) studies shows that
+activity in the VWFA and Broca's area is modulated by Stroop interference (e. g. , [12]).  Another fMRI study also found diﬀerential activity
+in a region proximal to the VWFA in the incongruent vs.  congruent
+contrast for a verbal Stroop version but not for a spatial one [13]. 
+Collectively, these works corroborate the hypothesis that the VWFA
+integrates feed-forward visual processing with top-down inﬂuences
+from more anterior areas controlling phonological and semantic processing during written word recognition [14].  The fact that this region
+is speciﬁcally involved in the Stroop eﬀect in some studies [12,13],
+however, suggests that it could also be more speciﬁcally involved in
+cognitive conﬂict resolution, at least for verbal material.  According to a
+recent magnetoencephalography study [15], the VWFA is recruited not
+only early on for lower-level word processing [16], but also at later
+stages for gating lexico-semantic processing (see also Refs.  [17–19]),
+arguably the stage where interference occurs in word-color Stroop incongruency. 
+The present study aimed to understand whether grey matter structural characteristics in healthy young participants could explain individual diﬀerences in Stroop performance in regions previously found
+to be functionally involved in Stroop interference, including the left
+lateral prefrontal cortex (e. g. , Broca’s area) and the VWFA.  This goal
+was achieved by assessing complementary surface-based measures of
+grey matter structure, in particular, cortical thickness and surface area. 
+Since relationships between cortical structure and function are still
+unclear (e. g. , [20]) and in order to minimize the risk of diluting subtle
+regional diﬀerences, we opted for a whole-brain approach instead of
+selectively analyzing a priori deﬁned brain regions.  Moreover, given the
+strong left lateralization obtained in fMRI studies of verbal Stroop tasks,
+we particularly focused on (left vs.  right) brain asymmetries as a possible ﬁne-grained way to explain inter-individual diﬀerences (cf. , [21])
+in the performance on this cognitive control task. 
+To our knowledge, there is only one recent study [22] that investigated the relationship between structural brain asymmetries and
+performance on a Stroop task.  By using voxel-based morphometry, it
+was found that a leftward asymmetry in the thalamus was associated
+with better performance on a paper-and-pencil version of the Stroop
+test, at least in male participants.  However, that study examined a
+heterogeneous sample of older adults (mean age: 65. 2 ± 8. 0 years). 
+Thus, its results cannot be easily generalized to a healthier and younger
+population. 
+We additionally employed a spatial version of the Stroop paradigm
+(e. g. , [23]) as a “control” task.  The spatial Stroop task could however be
+interesting in and of itself.  On the one hand, an association between left
+lateralization and the spatial Stroop eﬀect may be predicted as a beneﬁcial role of leftward intrinsic functional lateralization in the middle
+frontal gyrus, assessed with resting state electroencephalography
+(EEG), has been shown for both the verbal and spatial Stroop eﬀects
+[24].  On the other hand, one could envisage mirrored patterns for the
+verbal and spatial tasks based on recent neuropsychological literature
+showing that the lateralization of prefrontal regions critical for the
+performance of conﬂict tasks is domain-dependent [25].  Speciﬁcally, an
+increased verbal Stroop eﬀect resulted after left ventro-lateral prefrontal lesions, while the performance on a spatial conﬂict task (i. e. , the
+ﬂanker task) was impaired following right ventro-lateral prefrontal lesions (also see Ref.  [6], for recent meta-analytic evidence). 
+<Middle> Materials and methods. 
+2. 1.  Participants
+A total of 111 university students voluntarily took part in the exage = 22. 4 years,
+periment
+SD = 1. 4 years, range: 19–26 years).  Right-handedness was used as an
+32 males; meanfemales,
+inclusion criterion.  This was conﬁrmed for all participants with the
+Edinburgh Handedness Inventory (Ref.  [27]; mean score = 85. 9,
+SD = 15. 3, range: 30–100).  Further, all participants had normal or
+corrected-to-normal visual acuity and reported having normal color
+vision and no history of any neurological or psychiatric disease.  Participants were compensated for their time and gave written informed
+consent prior to participation.  This study was approved by the Bioethical Committee of the Azienda Ospedaliera of Padova, Italy, and the
+ethical committee of the Scuola Internazionale Superiore di Studi
+Avanzati (SISSA) in Trieste, Italy. 
+2. 2.  Behavioral tasks and procedures
+Participants were tested individually on two computerized versions
+of the Stroop task, as well as additional tasks not reported here.  The two
+Stroop tasks were presented in a counterbalanced order across participants. 
+2. 3.  Verbal Stroop
+Stimuli consisted of four Italian color words (BLU-blue, ROSSO-red,
+VERDE-green, GIALLO-yellow) presented individually in one of four
+colors (blue, red, green, yellow).  Participants were asked to ignore the
+word and identify the ink color through a button press as quickly and
+accurately as possible.  Participants used their index and middle ﬁngers
+of both hands to provide the responses; the exact color-to-ﬁnger mappings were counterbalanced across the participants (mapping 1: left
+middle-blue,
+left index-red, right index-green, right middle-yellow;
+mapping 2: left middle-yellow, left index-green, right index-red, right
+middle-blue).  Each stimulus was categorized as congruent (e. g. , BLU
+presented in blue) or incongruent (e. g. , BLU in red). 
+The task consisted of two blocks of 64 trials each with a short break
+between the blocks.  Congruent and incongruent trials were randomly
+and equally distributed.  To minimize both positive and negative
+priming confounds, only complete alternation sequences were employed, meaning that neither the color nor the word presented on trial n
+were used in either way (color or word) on trial n + 1 (see Ref.  [26], for
+details).  Trials consisted of stimulus presentation in the center of the
+screen for 500 ms, a 2000 ms blank response screen, and an additional
+blank screen beyond the response time limit, which was jittered randomly and continuously between 250 and 700 ms.  Prior to the experimental blocks, participants completed a training block to ensure
+that they understood the task.  This training block was composed of 16
+items representing all possible word-color combinations.  Items were
+presented on screen until a response was given.  Feedback about accuracy and speed followed the response and lasted on screen for 1200 ms,
+followed by a 500 ms inter-trial interval.  Participants moved on to the
+experimental blocks after performing at least 10 correct trials out of 16
+(one participant repeated the training block twice to reach this criterion). 
+2. 4.  Spatial Stroop
+This paradigm was similar to that used in previous studies [23]. 
+Stimuli consisted of arrows pointing to the upper-left, upper-right,
+lower-left, and lower-right corners presented in one of the four quadrants of the screen.  Participants were asked to ignore the position and
+indicate the direction of the arrow through a spatially compatible key
+press (R, O, V, M) as quickly and accurately as possible by using the
+index and middle ﬁngers of both hands.  As in the verbal Stroop task,
+stimuli were categorized as congruent (e. g. , upper-right pointing arrow
+in the upper-right quadrant) or incongruent (e. g. , upper-right pointing
+arrow in the lower-right quadrant).  The details of the task and training
+procedures were identical to the ones used in the verbal Stroop task. 
+Three participants repeated the training block twice, and another participant repeated it three times to reach the criterion to begin theA.  Vallesi Name
+experimental trials (i. e. , 10/16 correct trials). 
+2. 5.  Behavioral data analyses
+Analyses were conducted to verify the presence of a Stroop eﬀect,
+that is, worse performance on incongruent than congruent trials, in the
+accuracy and response time (RT) data.  For the accuracy data, Wilcoxon
+signed-ranked tests were used to compare the trial types, with the ﬁrst
+item of each block excluded.  For the RT data, the ﬁrst item of each
+block, error trials and trials following an error, to avoid confounds of
+post-error slowing (e. g. , [28]), were excluded.  Additionally, for each
+participant, trials with an RT more than 3 standard deviations (SD)
+from their individual mean were excluded.  Paired samples t-tests were
+used to compare performance on congruent and incongruent trials. 
+2. 6.  Neuroimaging procedures
+Participants completed a neuroimaging session that included the
+acquisition of T1-weighted images, as well as other sequences, which
+are not considered here. 
+2. 7.  MRI acquisition
+Images were acquired for 54 participants on a 3-T Philips Achieva
+whole-body scanner at the Santa Maria della Misericordia Hospital in
+Udine, Italy.  T1-weighted images were acquired using an 8-channel
+head coil and a 3D ultrafast gradient echo sequence (TR = 8. 2050 ms,
+TE = 3. 78 ms, ﬂip angle = 8°, ﬁeld of view = 240 mm, acquisition
+matrix = 240 × 240, voxel size = 1 mm3, 190 axial slices).  Images for
+the remaining 57 participants were acquired using a 3-T Philips Ingenia
+whole-body scanner with a 32-channel head-coil at the Neuroradiology
+Unit, University-Hospital of Padova, Italy.  The scanning parameters for
+21 participants of this Padova group were as follow: TR = 8. 1194 ms,
+TE = 3. 71 ms, ﬂip angle = 8°, ﬁeld of view = 220 mm, acquisition
+matrix = 220 × 220, voxel size = 0. 49 × 0. 49 × 1 mm, 180 sagittal
+they were:
+slices; while
+TR = 8. 1194 ms,view = 240 mm,
+size = 1 mm3, 180 sagittal slices. remaining 36 participants
+TE = 3. 71 ms,
+angle = 8°,
+acquisition matrix = 240 × 220,ﬂipvoxel
+2. 8.  MRI data analysis
+We used both cortical thickness and surface area as two complementary measures of grey matter microstructure, since they are
+genetically and phenotypically independent [29,30], with the surface
+area showing more inter-subject variability [30].  Cortical surface area
+depends on the number of columns, whereas cortical thickness is inﬂuenced by the number and size of cells within a column, by their
+packing density, as well as by the number and myelination level of
+connections [31,32].  It therefore follows that cortical thickness and
+surface areas should be considered separately, since they are independent neuroanatomical features. 
+In our study, surface area and cortical thickness estimations as well
+as statistical analysis were carried out using the FreeSurfer software
+suite version 5. 3. 0 (Massachusetts General Hospital, Harvard Medical
+School; http://surfer. nmr. mgh. harvard. edu) [33]. 
+Image processing
+was performed according to the standard pipeline described in previous
+publications [34–36].  Brieﬂy, images were registered with an aﬃne
+transformation to the MNI305 atlas and resampled to 1 mm isotropic
+voxels, corrected for the bias ﬁeld and stripped of the skull.  During this
+step, a tessellated ellipsoidal template was deformed into the shape of
+the inner surface of the skull taking into account a priori knowledge
+about the smoothness of this surface.  The deformed template was then
+used to remove all voxels outside the inner surface of the skull from the
+MRI volume.  Based on voxel intensity and neighbor constraints, images
+were segmented into subcortical white matter and deep gray matterBehavioural Brain Research 335 (2017) 167–173
+structures.  Two cutting planes were used to separate the hemispheres
+and remove subcortical structures.  This was followed by white matter
+surface tessellation and automated topology correction.  The tessellated
+white matter surface was used as the starting point during the surface
+deformation step, which employed the intensity gradients to optimally
+place the gray/white interface and pial surface at the location where
+the greatest shift in intensity deﬁned the transition between tissue
+classes. 
+Cortical thickness was quantiﬁed at each vertex of the cortex as the
+shortest distance between the white and pial surface, whereas the area
+of a vertex on the tessellated pial surface was deﬁned as the average
+area of the triangles of which the vertex was a member.  Following
+Greve Name [37], individual right and left hemisphere surface maps
+were registered to a symmetric template (fsaverage_sym) by the FreeSurfer spherical registration algorithm.  We then smoothed the maps on
+the surface using a Gaussian kernel with a full-width at half-maximum
+of 15 mm. 

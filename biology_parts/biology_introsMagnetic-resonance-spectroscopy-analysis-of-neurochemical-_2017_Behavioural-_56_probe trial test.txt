@@ -1,0 +1,75 @@
+
+Alzheimer’s disease (AD) is an age-related progressive neurodegenerative disorder accompanied by cognitive decline [1].  The World
+Alzheimer Report 2015 estimates that over 46 million people live with
+dementia worldwide and the cost of dementia is $818 billion [2]. 
+Furthermore, the prevalence of AD increases with ageing and doubles
+every ﬁve years after the age of 65, which will cause great economic
+and social burdens [2,3]. 
+Magnetic resonance imaging (MRI),
+including structural MRI,
+functional MRI and proton magnetic resonance spectroscopy (1H-MRS),
+is becoming more useful in the understanding of the pathogenesis and
+diagnosis of AD [4–12].  Brain morphological abnormalities, such as
+hippocampus, entorhinal cortex, and amygdala have been gradually
+uncovered with the development of structural MRI in the study of AD
+patients [4,8,9].  Animal structural MRI also shows striatum and entorhinal cortex atrophy in AD models, including the TASTPM and APP/
+PS2/Tau mouse [13].  In addition, 1H MRS studies have suggested that
+neurochemical alterations, such as those associated with glutamate
+(Glu) and N-acetylaspartate (NAA) in the hippocampus or cingulate,
+contribute to cognitive decline in AD patients [14–16].  In animal
+models of AD, neurochemical alterations were measured similarly with
+that of AD patients [17–19].  Glu is a primary excitatory neurotransmitter that is thought to represent the number of survival neurons
+[20].  NAA is a speciﬁc kind of amino acids that mainly exists in the
+neurons and axon [21].  As a neuronal marker, the concentration of
+Abbreviations: AD, Alzheimer’s disease; ANTs, Advanced Normalization Tools; CHESS, chemical shift-water suppression; Cr, creatine; CSF, cerebrospinal ﬂuid; FOV, ﬁled of view; Glu,
+glutamate; GM, grey matter; 1H-MRS, proton magnetic resonance spectroscopy; MRI, magnetic resonance imaging; NAA, N-acetylaspartate; mIn, myo-inositol; PRESS, point-resolved
+spectroscopy; QUEST, quantum estimation; ppm, parts per million; RARE, rapid acquisition with relaxation enhancement; ROI, region of interest; SPM8, Statistical Parametric Mapping8;
+TE, echo time; TR, repetition time; VBM, voxel-based morphometry; WM, white matter
+⁎ Corresponding authors. 
+⁎⁎ Corresponding author at: College of Physical Science and Technology, Zhengzhou University, Zhengzhou 450001, China. 
+E-mail addresses: zhaosj@zzu. edu. cn (S.  Zhao), shanbc@ihep. ac. cn (B.  Shan), cld@fjtcm. edu. cn (L.  Chen). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 005
+Received 27 December 2016; Received in revised form 26 July 2017; Accepted 5 August 2017
+Available online 08 August 2017
+0166-4328/ 
+S.  Liang Name
+Behavioural Brain Research 335 (2017) 26–31
+NAA can be sensitive to neuron density.  myo-inositol (mIn) is one of the
+most abundant metabolites visible on 1H MRS in the brain and can act
+as a biomarker of glial activation[22].  A number of studies suggest that
+neurochemical alterations are associated with cognitive decline in AD
+[18,21,23–25]. 
+However, few studies have contemporarily focused on the roles of
+structural MRI changes and neurochemical alterations in cognitive decline associated with AD.  Therefore, the current study aimed to measure the learning and memory ability and regional volumes in APP/PS1
+transgenic mice.  Furthermore, some atrophic regions were selected as
+region of interest (ROI) to explore neurochemical metabolism using 1H
+MRS in order to further understand cognitive decline in AD. 
+<Middle> Materials and methods. 
+2. 1.  Animals
+Twelve-month-old APP/PS1 transgenic mice and age-matched littermate wild-type (C57Bl/6J) control mice were used for the water
+maze, MRI and 1H MRS analyses, with 2 diﬀerent groups per test (n = 7
+mice/group, weights 25–35 g).  APP/PS1 mice express a chimeric
+mouse/human amyloid precursor protein (Mo/HuAPP695swe) and a
+mutanthuman presenilin 1 (PS1-dE9), which are associated with earlyonset AD [26]. 
+All animals were kept in standard size mouse cages (29*18*13 cm,
+up to 5 per same sex group) at 20–26 °C on a daily 12-h light-dark cycle
+with ad libitum access to food and water.  All experiments were performed strictly in accordance with the International Ethical Guidelines
+and National Institutes of Health Guide for the Care and Use of
+Laboratory Animals and were approved by the Ethics Committee of
+Fujian University of TCM, P. R.  China (protocol #FUTCM-2014012).  All
+eﬀorts were made to minimize animal suﬀering. 
+2. 2.  Morris water maze test
+Cognitive function was tested using a water maze apparatus
+(Chinese Academy of Sciences, Beijing, China), which was a stainless
+steel circular tank with a diameter of 120 cm and a height of 50 cm.  The
+tank was ﬁlled with water (21–23 °C) to a depth of 40 cm and divided
+into four equal quadrants.  A platform (diameter, 6 cm) was placed in
+the third quadrant and submerged 1 cm below the surface of the water. 
+For the place navigation trials, mice were trained for ﬁve days.  Each
+trial was started by placing the mice in one of the four quadrants.  Mice
+were allowed to swim for a period of 90 s to ﬁnd the hidden platform.  If
+a mouse did not ﬁnd the platform within 90 s, it was removed from the
+water and placed on the platform for 15 s by a researcher.  On the sixth
+day, the probe trial test was performed to assess memory consolidation
+and the platform was removed.  Each mouse was allowed to swim freely
+for 90 s. 

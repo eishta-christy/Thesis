@@ -1,0 +1,347 @@
+
+1. Introduction
+
+Visibility of stimulus components may be enhanced or diminished
+by the presence of adjacent stimulus elements. Such eﬀects are evident
+with high-contrast lateral masks [1], metacontrast with zero stimulus
+onset asynchrony [2], and crowding of peripheral targets [3]. Con-
+textual eﬀects on perceptual capacities may reﬂect neural interactions
+among representations of targets and lateral masks.
+At a neural level, response properties of cortical neurons are
+modulated by the context in which stimuli are placed [4–6]. In primates
+and cats, systematic relationships exist among the orientation pre-
+ference of neurons. Such connections may contribute to a system of
+enhancement and inhibition of signals based upon contextual eﬀects
+from other cortical sites [7,8]. In rodents, the distribution of orientation
+preference is not systematic [9,10], nor do lateral projections display
+the periodic patches found in primates and cats [11]. These distinctions
+in cortical organization suggest that lateral interactions among stimulus
+elements may operate diﬀerently in rats than in primates and cats.
+
+At a perceptual level, the ability of rats to discriminate the presence
+or absence of targets declined when target onset was accompanied by
+ﬂankers [12]. In addition, misses as well as false alarms increased when
+ﬂankers were collinear to targets, compared to ﬂankers that deviated
+from collinearity. Such eﬀects on detecting suprathreshold stimuli were
+observed across a range of contrasts of both targets and ﬂankers [13].
+
+For humans, contrast thresholds are elevated in the presence of
+collinear, co-axial Gabor patches positioned near test stimuli (within 2
+cycles), whereas thresholds decrease with adjacent elements positions
+within a farther zone (approximately 3–10 cycles) [14]. Flanker eﬀects
+appear to be restricted to near foveal viewing [15,16] to which atten-
+tion is directed [17,16], and are not observed at suprathreshold levels
+[15]. Flanker eﬀects may reﬂect a system for contour integration
+mediated by short- and long-range interactions within neural popula-
+tions [18].
+The functional signiﬁcance of connection patterns in local cortical
+circuits may be distinguished across species [19]. In order to explore
+lateral masking on detection thresholds in rats, responses to target onset
+were measured across luminance contrast for targets presented alone,
+or in the presence of masks.
+
+<Middle> Methods.
+2.1. Subjects.
+Ten Long-Evans hooded rats served as subjects, each randomly as-
+signed to one or more stimulus conditions. Animals were deprived of
+water for 22 h before each session, and allowed water ad lib for one
+hour following sessions. Sessions occurred ﬁve days each week, and
+animals were allowed water ad lib on the remaining two days. This
+study was conducted in accordance with the National Institutes of
+Health Guide for the Care and Use of Laboratory Animals, and approved
+by the Institutional Animal Care and Use Committee of Brooklyn
+College.
+
+2.2. Apparatus
+
+Behavioral measurements were made in a customized operant
+conditioning chamber (Fig. 1A). The front panel of the chamber sup-
+ported a metal funnel that extended 3 cm outside of the chamber. An-
+imals had access to the funnel through a 5 cm diameter hole, centered
+2.5 cm from the chamber ﬂoor. Placement of the rat's head completely
+within the funnel disrupted an infrared (IR) light beam connecting an
+emitter/detector pair mounted at the tip of the funnel. Rats viewed the
+stimulus through holes in the funnel positioned over each eye. Viewing
+stimuli from the head-ﬁtted funnel allowed control over viewing posi-
+tion across trials.
+
+Rats had access to an enclosed drinking well positioned next to the
+funnel. A measured amount of water was delivered to the drinking well
+by means of a solenoid driven valve. Circuitry for the IR pair and so-
+lenoid were interfaced via solid-state relay switches to a computer.
+Stimulus generation, data collection, and trial events were controlled in
+real-time by customized computer software [20].
+
+2.3. Stimulus presentation
+
+In an otherwise darkened room, stimuli were presented on a com-
+puter monitor (Trinitron CPD 4401) controlled by a graphics adaptor
+(NVidia GeForce FX5200) set to 1280 × 1024 pixel resolution. Rats
+viewed stimuli at a distance of 24 cm and elevated by 10°, centered
+within the binocular region of the visual ﬁeld. Stimuli consisted of
+Gabor patches on a gray background (22.3 cd/m2). Luminance levels
+were linearized across a range of 2.9–42.2 cd/m2.
+
+2.4. General procedure
+
+Using a free-operant procedure, rats initiated trials by placing their
+head into a central funnel. Following a delay, generated randomly
+
+between 500 and 2000 ms, a Gabor patch appeared on the monitor.
+Rats were trained to remain stationary until stimulus onset, to which
+they responded by withdrawing their head from the funnel (Fig. 1B).
+Following training, data collection occurred on approximately every
+other session. In order to maintain consistence performance, a session
+of maintenance training occurred on alternate days.
+
+2.5. Training procedure
+
+Following initial magazine training, rats were trained to nose-poke
+the central funnel. The next phase of training required rats to remain
+stationary in the funnel for increasing lengths of time, culminating with
+a 500 ms hold period. A high-contrast Gabor patch was presented on
+the monitor at the end of the required hold period. For the next phase of
+training, stimulus onset varied randomly between 500–750 ms, and rats
+were required to withdraw their head from the funnel within 750 ms of
+stimulus onset. Across training sessions, stimulus onset times progres-
+sively increased to 500–2000 ms, and reaction time to stimulus onset
+was progressively restricted to 50–400 ms. Progressive increase to sti-
+mulus onset range, and progressive decrease in reaction time window,
+was contingent upon rats' performance, requiring 90% correct across a
+single session.
+
+For data collection sessions, reward was delivered on each trail,
+regardless of reaction time. In order to maintain conditioning, each
+session of data collection was followed by a training session.
+
+2.6. Reaction time cluster index
+
+Reaction time was recorded from stimulus onset to head with-
+drawal. Frequency distributions of reaction times, time-locked to sti-
+mulus onset, were displayed as histograms. High-contrast stimuli pro-
+duced reaction time distributions that clustered about a mean of 237 ms
+(S.D. 104 ms). Given the unpredictable onset time of stimuli, the clus-
+tering pattern of reaction time distributions veriﬁed behavioral control
+by the stimulus.
+
+Quantiﬁcation of reaction time clustering was based upon the in-
+cidence of responses that occurred above that found on no-stimulus
+trials. Speciﬁcally, the distribution of response frequency (histogram
+bin height) across reaction time was ﬁrst determined for no-stimulus
+trials (Fig. 2A). The upper boundary of the nominal distribution was set
+to 2 S.D. above the distribution mean. Reaction time distributions were
+then measured for each stimulus condition (Fig. 2B). For each contrast
+level, the sum of response frequencies above the nominal boundary
+served as the response index.
+
+2.7. Psychophysical measurements
+
+Detection thresholds were determined with the psychophysical
+Method of Constant Stimuli. For each condition, reaction time dis-
+tributions were compiled for each of six contrasts, as well as a no-sti-
+mulus condition, presented in random order across trials. No-stimulus
+trials were therefore randomly interleaved among the stimulus-present
+trials. For each contrast level, reaction time distributions were based
+upon approximately 150 trials, collected across multiple sessions. For
+no-stimulus trials, reaction times were calculated from a randomized
+presentation time (between 500–2000 ms from trial initiation), thereby
+corresponding to conditions for the stimulus-present trials.
+
+Examples of reaction time frequency distributions across contrast
+are depicted in Fig. 3. For high-contrast stimuli, response frequency
+above the nominal boundary was approximately 25%, and progres-
+sively declined with reduced contrast. Response indices, plotted across
+contrast, are described well by a sigmoidal function. Threshold con-
+trast, extrapolated from the sigmoidal function, was set to a response
+index of 2.5%. This value corresponds to the initial elevation in the
+
+psychometric function.
+
+2.8. Stimulus conditions
+
+Contrast thresholds were measured for targets alone, or in the
+presence of masks that varied in orientation and lateral separation.
+
+2.8.1. Contrast sensitivity
+
+Contrast sensitivity was determined for 0.21 cpd, which corresponds
+to near peak sensitivity for Long-Evans rats [21,23], and 0.40 cpd,
+which corresponds to approximately the midpoint of the high-fre-
+quency limb of the CSF. The 0.21 cpd patch subtended a visual angle of
+14.0°, in which approximately 2.5 cycles were visible. The 0.40 cpd
+patch was presented at two sizes, 14.0° and 5.9°, in which approxi-
+mately 5.5 and 2.5 cycles were visible, respectively.
+
+2.8.2. Lateral mask
+
+For the lateral mask condition, masks, set to a Michelson contrast of
+0.53, were positioned above and below test stimuli. In all cases, lateral
+masks matched test stimuli spatial frequency and size. For the 0.21 cpd
+condition, lateral masks were positioned 2.8 cycles from test stimuli
+centers. For the 0.40 cpd condition, lateral masks were positioned 5.7
+(for patch size 14.0°) and 2.8 cycles (for patch size 5.9°) from test sti-
+muli.
+Lateral masks existed before rats placed their head into the funnel,
+and remained visible throughout the trial. Rats thereby responded to
+the onset of test stimuli, without additional cues introduced by mask
+onset.
+2.8.3. Lateral mask orientation
+
+To investigate eﬀects of relative orientation, performance was
+compared between lateral masks that were collinear or orthogonal to
+test stimuli. Orientation eﬀects were examined for 0.21 and 0.40 cpd,
+with a patch size of 14.0°.
+
+2.8.4. Lateral mask separation.
+To investigate eﬀects of lateral mask separation, performance was
+compared across lateral masks positioned 2.8, 4.8, and 6.8 cycles from
+test-stimulus centers. Separation eﬀects were examined for the 0.21
+cpd, 5.9° size condition. In all cases, lateral masks were collinear to test
+stimuli.
+3. Results.
+For high-contrast stimuli, response indices reached approximately
+25%, although some rats did not reach this level even with the max-
+imum contrast. In order to equate variation in behavioral patterns
+across rats, response indices were normalized to 25%.
+
+For each condition, response indices as a function of contrast were
+determined separately for each rat. Best-ﬁt sigmoidal functions were
+then determined for each rat, from which 2.5% thresholds were ex-
+trapolated. Statistical analyses were then applied to response thresh-
+olds.
+3.1. Contrast sensitivity.
+Mean response indices are depicted for each condition (Fig. 4). A
+sigmoidal function ﬁt to response indices is also shown in order to
+demonstrate the response pattern. Mean contrast threshold at 0.21 cpd
+was 7% (Michelson), and contrast thresholds at 0.40 cpd were 13% and
+18% for the large and small targets, respectively. For large targets,
+contrast thresholds diﬀered signiﬁcantly between 0.21 and 0.40 cpd
+(Mann–Whitney U = 0, p < 0.05). Contrast thresholds for the two
+target sizes at 0.40 cpd also diﬀered signiﬁcantly (U = 0, p < 0.05).
+Examining performance across contrast, responses at 0.21 and 0.40 cpd
+diﬀered signiﬁcantly (p < 0.05). A trend existed across intermediate
+contrasts for the size factor at 0.40 cpd, although diﬀerences reached
+signiﬁcance only for 22% contrast.
+3.2. Lateral mask eﬀects
+Mean response indices across contrast, with best-ﬁt functions, are
+displayed in Fig. 5. Performance with masks was reduced compared to
+targets alone for intermediate levels of contrast. Speciﬁcally, for the
+0.21 cpd condition, performance with masks diﬀered signiﬁcantly from
+target alone for contrasts between 16–28% (U = 1.5 at each contrast;
+p < 0.05). For 0.40, 14.0° condition, masks vs. target alone conditions
+diﬀered signiﬁcantly for contrasts between 16–36% (across contrasts U
+ranged from 1.00 to 2.5; p < 0.05). For the 0.40 cpd, 5.9° condition,
+masks and target alone conditions diﬀered signiﬁcantly for contrasts
+between 16–22% (U ranged from 1.00 to 2.00; p < 0.05).
+Comparing contrast sensitivity, lateral masks reduced sensitivity for
+each of the stimulus conditions (Fig. 6). Sensitivity with masks was
+signiﬁcantly lower than with target alone for the 0.21 cpd (U = 4.00;
+p < 0.05), 0.40 cpd, 14.0° (U = 5.50; p < 0.05), and 0.40 cpd, 5.9°
+(U = 5.50; p < 0.05) conditions.
+3.3. Orientation eﬀects.
+Performance was similar for collinear and orthogonal masks for
+both the 0.21 (Fig. 7B) and 0.40 cpd conditions (Fig. 7D). Comparing
+performance at each level of contrast, collinear and orthogonal mask
+conditions did not differ significantly for either the 0.21 or 0.44 cpd
+conditions (Mann-Whitney, p > 0.05).
+3.4. Separation eﬀects
+
+Performance was similar for mask separations of 5.2, 8.4, and 11.8
+cpd (Fig. 7F). Comparing results at each level of contrast, performance
+did not diﬀer signiﬁcantly across levels of mask separation (Kruskal-
+Wallis, p > 0.05).
+
+<Conclusion> Discussion.
+These results demonstrate a masking eﬀect in rats on contrast sen-
+sitivity by stimuli positioned at adjacent, non-overlapping positions. In
+this regard, lateral interactions of stimulus components are apparent at
+a perceptual level. As with suprathreshold stimuli [12,13], contrast
+thresholds in rats are elevated in the presence of lateral masking.
+Contrast sensitivities reported here for target alone are similar to
+previous studies, although sensitivity measurements reported here are
+greater than those from previous reports [21–23]. Diﬀerences may re-
+ﬂect distinctions in stimulus parameters, including wave pattern, target
+size, and mean luminance, as well as psychophysical techniques. In
+addition, head position was regulated in the current study in order to
+preclude introducing additional visual cues. Free moving rats may introduce
+visual cues produced by lateral head movements that reduce
+the ability to specify parameters such as luminance or spatial frequency
+[24]. Similarly, specifying stimulus metrics, including luminance and
+spatial frequency, requires regulation of stimulus position relative to
+the corneal surface [25–27].
+Nevertheless, limitations in psychophysical measures in rats may
+obscure perceptual effects, such that sensitivity differences across
+masking conditions may be less than measurement resolution. In addition,
+because flanker effects on contrast thresholds are restricted to
+regions near the fovea [15,16], eye position, which is not controlled in
+rat measurements, may affect sensitivity. This issue may be further
+complicated by retinal characteristics of rats, in which area centralis
+and farther eccentric regions encode stimuli at a lower sampling density
+than occurs with primate foveal fixation [28,29].
+Performance did not differ significantly between relative orientation
+or among levels of separation. These results differ from those of Meier
+et al. [12], where flanker orientation affected target detection. Whereas
+some aspects of stimulus presentation were similar to those used here,
+significant procedural differences may account for differences in results.
+Procedures employed by Meier et al. allowed measures of response
+choice across levels of stimulus configurations. Rats made a twoalternative
+forced-choice response indicating “yes” or “no” to the presence
+of the target. Increased missed targets and increased false alarm
+rates occurred when targets and flankers were collinear, compared to
+misalignment conditions. In contrast, target detection measured here
+was based upon the reaction time distribution relative to the onset of
+the target. Across trials, flankers were either not presented, or had been
+visible before trials were initiated. Procedural differences between the
+studies may affect response factors, including perceptual decision. Although
+procedures used here allow high sensitivity to target detection,
+they may not allow sufficient measurement resolution to distinguish
+performance across differences in relative orientation of targets and
+flankers.
+4.1. Mechanisms of integration
+
+Diﬀerences in perceptual capacities across species may be asso-
+ciated with neural circuitry in early visual areas. In primates and cats,
+V1 topography displays a systematic pattern of orientation preference
+[30–32]. In addition, relative neural responses are enhanced by stimuli
+in adjacent areas that match a cell's orientation preference, and sup-
+pressed by stimuli
+that deviate from the preferred orientation
+[4,33–35].
+
+In rats, a proportion of cells in primary visual cortex are selective for
+orientation [36–38,9]. Horizontal neural connections, found mainly in
+layers 2/3 and 5, project laterally within the same layer [39–41] as well
+as crossing layers [42]. Horizontal connections in rats extend laterally
+to 2 mm [40,41], linking neurons with overlapping receptive ﬁelds
+[39]. However, rodents display a heterogeneity of orientation pre-
+ference in early cortical areas [9,10]. The absence of orientation eﬀects
+reported here may reﬂect the locally disordered topography of or-
+ientation preference. As such, characteristics of local cortical connec-
+tions in rats may be reﬂected at a perceptual level.
+Integration of stimulus elements in rats may be less associated with
+intrinsic lateral connections in early cortical areas, and more with long-
+range interactions, such as convergence across visual areas. Cortical
+mediation of pattern perception in rats is associated with both striate
+and lateral prestriate cortex [43–45]. Cortical areas in rats receive
+retinal input from two pathways, one passing from dorsal lateral gen-
+iculate nucleus to striate cortex, the other passing from superior colli-
+culus to lateral posterior nucleus of the thalamus, and on to medial and
+lateral prestriate cortex and higher cortical areas [24,46,47]. The al-
+ternate pathway includes connections that bypass primary cortex,
+providing input to high-order areas not dependent on subordinate
+processing in striate cortex.
+Higher levels of processing that contain larger receptive ﬁelds per-
+form more global analyses of stimuli, and are therefore well suited for
+integrating forms. Rats are capable of object recognition with trans-
+formation of stimulus characteristics, such as size, rotation, or position
+[48,49]. Systematic analysis of stimulus components indicates that re-
+cognition in rats is based upon integrating a pattern of object features,
+as opposed to a speciﬁc low-level stimulus characteristic [25]. In rats,
+lesions to areas 35 and 36, which show functional similarities to pri-
+mate inferotemporal cortex [50], disrupt discrimination involving the
+conjunctions of features, suggesting that these regions contain conﬁg-
+ural representations of stimuli [51]. Pattern regularities among sti-
+mulus elements may thereby be processed at later stages, in which
+global relationships among stimulus components are encoded.
+
+Acknowledgement

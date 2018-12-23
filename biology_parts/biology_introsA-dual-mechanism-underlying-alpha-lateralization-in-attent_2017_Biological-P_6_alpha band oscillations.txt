@@ -1,0 +1,26 @@
+
+The visual system has limited processing capacity, so simultaneous
+stimuli present in the visual ﬁeld mutually suppress their evoked activity in the visual cortex.  Competition between stimuli can be resolved
+by top-down mechanisms, such as selective attention, or by bottom-up
+stimulus-driven mechanisms, such as saliency.  Selective attention to the
+behavioral relevant stimuli is considered a top-down process, in which
+high-level processing areas in the prefrontal and posterior parietal
+cortices, exert a biasing signal towards the visual regions processing the
+relevant items (Miller & D’Esposito, 2005).  As a consequence, sensory
+regions show increased activity for the relevant vs the irrelevant items
+(Armstrong, Fitzgerald, & Moore, 2006; Buﬀalo, Fries, Landman,
+Liang, & Desimone, 2010), making stimulus processing more accurate
+(Richter, Thompson, Bosman, & Fries, 2017).  Neural synchrony seems
+to be a key mechanism to enhance neural representation of the attended
+sensory input.  Several models postulate that gamma and alpha band
+oscillations play a pivotal role in top-down processes such as selective
+attention, with antagonist roles (Fries, Reynolds, Rorie, & Desimone,2008;
+Oostenveld, & Desimone,Womelsdorf,
+inhibition of
+Jensen & Mazaheri, 2010; Klimesch Name, 2007; Womelsdorf, Fries,
+Mitra, & Desimone, 2006).  Whereas gamma synchronization represents
+a high excitability state of the underlying neural population (Fries Name,
+2001), and is thus associated with processing of information; alpha
+synchronization represents a state of low excitability and has been associated with the functional
+task-irrelevant regions
+(Jensen & Mazaheri, 2010). 

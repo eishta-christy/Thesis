@@ -1,0 +1,60 @@
+
+The trade-off between risk and return is a fundamental issue in asset
+pricing theory, which has been given much attention by researchers,
+market investors and analysts.  In general, investors require a larger
+expected return from a security that is riskier.  However, after decades
+of controversy, no consensus exists among researchers on the relation
+between risk and return across time.  Recently, the volatility implied
+from options prices is commonly considered as the best volatility
+forecast and risk measure (Mencia and Sentana, 2013).  Thus, interest
+in the relations between return and implied volatility has increased to
+provide new evidence to this debate. 
+During the 2008 global ﬁnancial crisis, a new implied volatility index
+(OVX) in the crude oil market was launched by the Chicago Board
+Options Exchange (CBOE).  the index can measure the market's
+expectation of the 30-day volatility of crude oil prices by applying
+the well-known CBOE Volatility Index methodology to options on
+the United States Oil Fund (Liu Name, 2013).  This index is the ﬁrst
+commodity-based implied volatility index.  research on its relations
+with oil price returns will help investors further improve their trading
+decisions and will contribute, as well, to the development of energy
+ﬁnance, which is what the current study hopes to achieve. 
+Previous empirical literature has been focused on the relations
+between returns and historical volatility in ﬁnancial markets (Leὁn
+Name, 2007.  Wu and Lee, 2015.  Chang, 2016), while there is few research
+in energy market.  Recently, return–implied volatility relationship has
+been received extensive attention in traditional ﬁnancial markets, in
+which the stock market implied volatility index (VIX) is widely investigated (Sarwar, 2012.  Basher and Sadorsky, 2016).  Although much
+research has been done, no consistent conclusion on positive relations
+(Fleming Name, 1995.  Giot, 2005.  Guo and Whitelaw, 2006) or negative
+relations (Dash and Moran, 2005.  Tanha and Dempsey, 2015) has been
+achieved.  Furthermore, the conclusion in the stock market cannot be
+simply applied to OVX because of the more complicated structure of
+crude oil options (Ji and Fan, 2016). 
+Research on OVX in the crude oil market has been a research hotspot
+in the ﬁeld of energy ﬁnance.  Existing research has focused on three
+aspects.  Firstly, the predictive ability of the implied volatility index in
+the oil market is investigated (Szakmary Name, 2003.  Agnolucci, 2009. 
+Lux Name, 2016).  Secondly, the spillover effect of the implied volatility
+indexes between oil and ﬁnancial markets is explored (Liu Name, 2013. 
+Maghyereh Name, 2016.  Bouri Name, 2017).  Thirdly, the interdependence
+between oil price returns and the implied volatility index is investigated. 
+Only three studies have attempted to answer this problem.  Aboura and
+Chevallier (2013) applied the OLS regression model and found that the
+inverse leverage effect is the dominant effect that drove the WTI crude
+oil prices from 2007 to 2011.  Agbeyegbe (2015) used OLS regression to
+ﬁnd regular feedback and leverage effects between oil price returns
+and OVX changes, as well as employed the quantile regression copula
+method to ﬁnd a negative relationship between contemporaneous OVX
+and oil returns.  Ji and Fan (2016) utilised the time-varying parameter
+GARCH model and regression analysis to verify the role of OVX as a
+gauge of investor fear instead of risk preference. 
+The aforementioned studies mainly focus on a linear relationship,
+but little information on non-linear dependence and the risk spillovers
+between OVX and oil price returns is provided.  Although the quantile
+regression copula method was used by Agbeyegbe (2015), only a static
+relationship was explored.  The non-linear time-varying dependence
+between OVX and oil price return is therefore investigated further
+from the perspective of risk spillover to extend the current literature. 
+This non-linear dependence can help investors predict well the market
+risk and improve their portfolio strategy and hedging effectiveness. 

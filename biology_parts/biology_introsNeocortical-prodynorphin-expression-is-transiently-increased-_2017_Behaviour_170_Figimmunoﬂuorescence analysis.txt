@@ -1,0 +1,195 @@
+
+Opioid peptides have a long history of involvement in pain, reward,
+and learning and memory.  Previous reports from our laboratory and
+others have demonstrated that the general opioid antagonist naloxone,
+impairs learning of many associative tasks such as delay conditioning,
+operant lever-pressing behavior, fear conditioning, and trace eyeblink
+conditioning [1–5].  In exploring the role for speciﬁc opioid receptors in
+learning and memory, our laboratory has shown that antagonizing the
+kappa-opioid receptor (KOR) impairs acquisition for the associative
+paradigm whisker-trace eyeblink (WTEB) conditioning [6]. 
+In WTEB conditioning a neutral conditioned stimulus (CS; Whisker
+stimulation) is paired following a stimulus free trace interval with a
+salient unconditioned stimulus that elicits an eye-blink (US; Eye shock). 
+This paradigm has been shown to be dependent on, and induce plasticity in primary somatosensory cortex (S1), a likely site for memory
+storage [7–10].  Our subsequent studies exploring the role of KOR with
+learning have demonstrated that either systemic or direct S1 KOR inhibition impairs WTEB acquisition [6].  Consistent with our ﬁndings,
+many studies have shown that KOR modulation can alter learning on
+various tasks such as inhibitory avoidance, spontaneous alternation,
+water-maze, radial-arm-maze, and conditioned place aversion [11–15]. 
+These studies have strongly suggested that KOR plays a prominent role
+in mediating various types of learning. 
+KOR’s endogenous ligand and the most likely molecular trigger for
+these eﬀects on learning is dynorphin.  Dynorphin is synthesized from
+the precursor peptide prodynorphin (PD), which is synthesized in vesicles from the precursor preprodynorphin (PPD) [16].  Similar to KOR,
+Dynorphin and its upstream precursors have been implicated in various
+forms of learning.  For instance, PD knockout mice exhibit enhanced
+levels of freezing in a contextual fear conditioning task [17].  Likewise,
+dynorphin knockout mice display reduced age-related deﬁcits in water
+⁎ Corresponding author at: Beckman Institute, 405 N.  Mathews Ave, Urbana, IL 61801, USA. 
+E-mail addresses: RyanLoh2@illinois. edu (R.  Loh), Smcolli2@illinois. edu (S.  Collins), Rgalvez@illinois. edu (R.  Galvez). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 015
+Received 14 June 2017; Received in revised form 31 July 2017; Accepted 5 August 2017
+Available online 09 August 2017
+0166-4328/ 
+R.  Loh Name
+Behavioural Brain Research 335 (2017) 145–150
+maze learning [18], while dynorphin injected directly into the hippocampus impairs water maze performance [19].  Although the speciﬁc
+role of dynorphin and its precursors in learning appears to vary depending upon the tasks, these studies collectively suggest that they play
+a prominent role in the acquisition and consolidation of learning tasks. 
+Upon exploring the speciﬁc cell type expressing these peptides, it
+has been demonstrated that the dynorphin precursor ligand PPD is
+primarily found in Somatostatin-containing GABAergic interneurons
+(SOM) within S1 [20].  These ﬁndings suggest that SOM interneurons
+are a likely upstream cell of KOR activation in S1 with WTEB.  SOMs are
+a major subclass of interneurons in the central nervous system that
+serve a variety of roles in various species.  SOM cells represent a signiﬁcant proportion of all inhibitory interneurons in the neocortex [21]. 
+Additionally, this population of cells is localized in areas important for
+learning and memory, such as the neocortex and hippocampus [22],
+two brain regions critically involved in WTEB acquisition [8,23,24].  In
+S1, tonically-active SOM cells serve to inhibit neuronal activity, as
+optogenetic silencing SOM cells causes an increase in ﬁring of pyramidal cells in the area.  SOM cells in S1 also receive input from vasoactive intestinal peptide (VIP)-containing inhibitory interneurons. 
+Interestingly, during active whisking, VIP-containing cells cause a decrease in SOM activity [25].  This process does not seem to require active whisking by the animal as passive whisking will also instigate the
+same mechanism via thalamic relays [26]. 
+Similar to that observed with KOR modulation, studies have
+strongly suggested a role for SOM cells in learning.  Silencing SOM cells
+in the hippocampus impairs acquisition of contextual-based fear
+learning [27].  SOM cells are also disinhibited by VIP-containing inhibitory neurons during auditory discrimination [28].  This VIP disinhibition is similar to what is seen in S1 during active [25], or passive
+whisking [26].  Additionally, SOM cells have been demonstrated to increase in density within somatosensory cortex in a whisker associative
+paradigm [29].  These studies suggest that neocortical SOM cells regulate learning processes.  Furthermore, these studies along with those
+mentioned above collectively suggest that neocortical SOM cells are
+regulating learning through KOR modulation.  However, the speciﬁc
+role for neocortical SOM regulation of KOR activity with associative
+learning has never been explored.  To explore this molecular pathway
+and its potential role with associative learning, the current study set out
+to characterize the expression proﬁle of PD (Dynorphin’s precursor) in
+S1 SOM interneurons during and immediately following WTEB acquisition. 
+<Middle> Methods. 
+2. 1.  Animals
+Three to six month old male C57BL/6 mice were bred in-house and
+housed in same litter groups until surgery.  After surgery they were
+transferred to individual housing in standard (12” × 12” × 12”) laboratory cages.  All mice were kept on a 12-h light-dark schedule (lights
+on at 0700) in a temperature controlled room (∼21° C) and provided ad
+libitum access to food and water.  All procedures performed were reviewed and approved by the University of Illinois Animal Care and Use
+Committee. 
+2. 2.  Surgery
+Surgeries were performed as previously described [30].  Mice were
+placed under ketamine (1 mg/kg i. p. ) and xylazine (6 mg/kg i. p. ) anesthesia.  Once anesthetized, a headgear consisting of a plastic strip
+connector with two Teﬂon-coated stainless steel wires and one uncoated ground wire were secured to the skull via dental cement.  Teﬂoncoated wires from the headgear were fed under the skin to the periorbital region of the eye, stripped to provide contact, and fastened to
+the skin.  A ground wire was tightly secured to a screw in the skull.  All
+mice were given a minimum of seven days to recover from surgery
+before onset of training. 
+2. 3.  Behavioral training
+Mice were placed into standard laboratory cages diﬀerent from their
+home-cage in a sound- and light-attenuated chamber.  All WTEB
+training took place between 0900 and 1400.  The headgear described in
+the surgery section was connected to a tether that was connected to a
+computer running a custom LabView program.  The program delivered
+both whisker and shock stimuli as well as monitored eyelid closure via a
+camera attached to the tether.  Whisker stimulation was delivered via
+activation of a piezo-electric strip (Piezo Systems, Cambridge, MA) attached to a comb that was situated directly in front of the whisker pad. 
+This allowed for precise control in stimuli presentation, timing and
+delivery.  For a complete description see Ref.  [30].  One day prior to
+training, mice were habituated to the tether and chamber for 10 min. 
+On training days, mice were conditioned as previously described [30]. 
+A presentation of the CS (250 ms whisker stimulation) was paired with
+a US (100 ms periorbital shock, 0. 1–0. 5 mA square wave shock, 60 Hz,
+0. 5 ms pulses).  The US shock intensity was tailored to each mouse to
+generate a detectable eye-blink response with minimal voltage.  The CS
+and US were separated by a 250 ms stimulus-free trace interval (Fig.  1). 
+Mice were presented with the CS-US pairings 30 times per session (day)
+with an intertrial interval of 15–25 s (mean of 20 s).  To monitor eyelid
+closure a camera on the tether provided a live video feed of the eye that
+was converted to a binary image in LabView in real time.  Upon closure
+of the eyelid, the size of the visible eye decreased indicating a blink
+(Fig.  1).  A conditioned response (CR) was deﬁned as a 4-standard deviation change in size of the eye binary image from baseline, occurring
+after CS onset and within 20 ms prior to US onset (Fig.  1).  Baseline was
+deﬁned as the average size of the eye binary Image 60 ms prior to CS
+onset for each trial.  These settings are consistent with that used in other
+laboratories conducting eyeblink analyses [31–33].  Mice received one
+training session per day and were identiﬁed based on which stage in
+acquiring the association they achieved.  The stages were operationally
+deﬁned as exhibiting three CRs out of ﬁve consecutive trials for the
+acquisition group [ACQ; behaviorally deﬁned as C1 (one day before
+behavioral criterion was achieved)], four CRs out of ﬁve consecutive
+trials for the criterion group [CRIT; behaviorally deﬁned as C (the day
+behavioral criterion was achieved)], and for the overtrained (OT) group
+as exhibiting four CRs out of ﬁve consecutive trials for two consecutive
+days [behaviorally deﬁned as C + 1 (one day after reaching behavioral
+criterion)].  Previous studies from our laboratory have demonstrated
+these behavioral points to be consistent with acquisition of the trace
+Fig.  1.  Schematic of Whisker-Trace Eyeblink (WTEB) paradigm.  In WTEB a conditioned
+stimulus (CS; whisker stimulation), is paired with an unconditioned stimulus (US; periorbital shock) separated by a stimulus free interval (Trace).  Upper line shows square wave
+computer delivered stimuli.  Bottom line shows relative visible eye size in arbitrary units
+(A. U. ).  A downward deﬂection of the line represents a decrease in the size of the visible
+eye due to closure of the eyelid, i. e.  a blink.  Note, the blink (closing of the eye) during the
+pre-US interval illustrating a conditioned response (CR). R.  Loh Name
+Behavioural Brain Research 335 (2017) 145–150
+Fig.  2.  Behavioral graphs representing the percent conditioned responses (%CR) across training days (C2 = 2 days before criterion, C1 = 1 day before criterion, C = day of criterion,
+C + 1 = 1 day after criterion).  All trace groups performed signiﬁcantly better than respective pseudo groups.  All trace groups signiﬁcantly acquired the association over time, with
+increasing %CR with successive days and pseudo groups not exhibiting signiﬁcant diﬀerences across training days. 
+association [5,6,34].  Pseudo-trained mice were provided 30 unpaired
+presentations of the CS and US per day and yoked to an individual
+trained mouse to control for stimulation induced plasticity unrelated to
+learning.  A cage control group (CC) was also used to establish diﬀerences due to surgical procedures.  Upon achieving the behavioral criteria established for their group, mice were allowed to complete the
+training session and then sacriﬁced after one hour. 
+2. 4.  Immunoﬂuorescence
+For examining learning-induced changes in PD and SOM expression,
+7 groups were utilized (CC, Pseudo-ACQ, Pseudo-CRIT, Pseudo-OT,
+ACQ, CRIT, and OT).  One hour after reaching their group speciﬁc behavioral criteria, mice were transcardially perfused with 0. 1 M PBS and
+4% paraformaldehyde.  The brains were then collected and placed into
+4% paraformaldehyde overnight at 4 °C and transferred to 30% sucrose
+in 0. 1 M PBS until sectioning.  Brains were then coronally sectioned at
+30 μm and stored in cryoprotectant (30% sucrose and 30% ethylene
+glycol in 0. 1 M PBS). 
+Proteins were visualized in the brain sections using a standard immunoﬂuorescence protocol.  Three sections per mouse were taken
+spanning S1.  Previous work from our lab has found three sections per
+mouse to be suﬃcient for ﬁnding signiﬁcant changes in WTEB induced
+protein expression [35].  Additionally, three sections per mouse allowed
+for establishing an average per mouse and conﬁrm minimal variance
+within subjects.  Free ﬂoating sections were washed in PBS, placed in
+PBS+ (3% Normal goat serum and 0. 5% Triton-x in PBS) for 30 min at
+room temperature and then incubated for 2 days at 4 °C in a primary
+antibody cocktail containing (anti-prodynorphin 1:250, made in rabbit,
+and anti-somatostatin 1:50 made in guinea pig, AbCam, Cambridge,
+MA).  The sections were then washed in PBS+ and incubated for 2 h in a
+secondary antibody cocktail (Goat-Anti-Rabbit AlexaFluor 488 1:100,
+Goat-Anti-Guinea Pig AlexaFluor 633 1:100; Fisher Scientiﬁc) at room
+temperature.  The sections were then placed into a DAPI solution
+(300 nM; Fisher Scientiﬁc) at room temperature for 5 min before being
+dipped in PBS followed by ddH20 and mounted on slides with Prolong
+Diamond mounting medium (Fisher Scientiﬁc). 
+2. 5.  Imaging
+Slides were imaged using LSM700 (Zeiss Confocal, 40× magniﬁcation) at the University of Illinois Institute for Genomic Biology.  S1
+was localized within each section using the DAPI cellular stain and atlas
+images [36].  Once identiﬁed the brain sections were excited with lasers
+corresponding to the excitation frequency of DAPI and the secondary
+antibodies (405 nm, 488 nm, 639 nm), using a consistent image slice
+thickness of 0. 9 μm to minimize detection of false positive co-expression.  Three images (160 um × 160 um) were taken per section [medial
+region (approximately layer 4), dorsal to the medial region (approximately layer 2), and ventral to the medial region (approximately layer
+6)].  Acquired images were then analyzed for co-expression with ImageJ
+software.  Brieﬂy, staining for each channel (DAPI, PD, & SOM) was
+localized with the ImageJ ‘ﬁnd maxima’ function.  Once acquired expression quantiﬁcation and co-expression were then visually determined by observers blind to the treatment groups per image.  Note,
+due to the method used these ﬁndings represent changes in cell density
+or percentage of cells per unit area. 
+2. 6.  Statistics
+A one-way analysis of variance (ANOVA) was used to analyze coexpression proﬁles between groups.  In addition, a two-way ANOVA
+with repeated measures and degrees of freedom adjusted via KenwardRogers was used to analyze behavioral performance across successive
+days with Bonferroni correction for multiple comparisons. 
+3.  Results
+3. 1.  Behavioral
+Mice trained on WTEB conditioning were found to have a signiﬁcant
+overall eﬀect of group (Trace or Pseudo; ACQ, CRIT, OT) [F (5, 42. 7)
+= 22. 59, p < 0. 0001], criterion day (C2, C1, C, C + 1) [F (3, 70. 4)
+= 23. 38, p < 0. 0001], and a group by criterion day interaction [F (9,
+63. 6) = 8. 33, p < 0. 0001].  Post-hoc analyses to determine individual
+diﬀerences demonstrated a signiﬁcant eﬀect between trace and their
+yoked pseudo groups at ACQ, CRIT and OT behavioral time points. 
+These ﬁndings demonstrate that unlike the pseudo group, the trace
+groups exhibited a sequential increase in acquisition for the trace association (Fig.  2). 
+3. 2.  Somatostatin
+For the immunoﬂuorescence analysis, there were no statistical
+within subject diﬀerences across the three image sections; thus, for
+subsequent analyses the three images were averaged to obtain a single
+section average.  The section averages were then averaged to obtain an
+animal mean. 

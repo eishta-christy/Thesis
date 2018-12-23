@@ -1,0 +1,97 @@
+
+THC and other components in marijuana are among the most
+commonly used illicit drugs in the world.  A recent report [1] indicates
+over 181 million users world-wide, while an estimated 13. 1 million
+people exhibit cannabis dependence globally [2].  Marijuana usage is
+increasing in many countries, [3] and chronic use appears to be a risk
+factor for several mental illnesses including psychosis [4] and depression [5].  Moreover, chronic use is also linked to reduced performance
+on decision-making tasks [6,7].  It is therefore important to better understand how THC aﬀects the neural processes involved in cognition
+and decision-making.  Previous studies have indicated deﬁcits in executive function, verbal and visual memory, and visuoperception following chronic cannabis use in humans [8].  Rodent models have likewise shown impairments in working memory [9,10] and spatial
+memory [11] following acute THC administration.  Furthermore, acute
+THC causes impairments in reversal learning in macaques [12], as well
+as reversal learning and intradimensional set shifting impairments in
+rats [13,14].  These ﬁndings have led to the proposal that THC impairs
+cognitive ﬂexibility.  This is a nebulous term; for the purpose of this
+paper we deﬁne cognitive ﬂexibility as the ability to change response
+strategies when it is advantageous to do so.  Cognitive ﬂexibility is inﬂuenced by distinct neural processes that may compete or cooperate to
+modulate behaviour [15].  For example, animals can learn to select
+options based on action value estimates acrued over many trials (reinforcement learning), or could instead use heuristics to guide choice
+[16].  Animals may also rely on innate strategies such as the propensity
+to switch choices after reward omission, a widespread phenomenon
+termed lose-shift responding [17–20].  These and other systems can be
+used to derive choice, and can all manifest as cognitive ﬂexibility. 
+A common methodological feature in reversal learning and set
+shifting paradigms is a sudden and unexpected change in reward contingencies, which is used to assess how animals adapt choice strategy. 
+Both lose-shift and reinforcement learning strategies are likely engaged
+in these paradigms.  A physiological mechanism thought to be important
+for such reinforcement-driven response adaptations is the reward prediction error (RPE) signaling properties of midbrain dopamine neurons
+[21–23].  These neurons brieﬂy increase ﬁring rate following unexpectedly good reinforcements (rewards), signaling a positive RPE. 
+Conversely, these neurons decrease ﬁring following unexpectedly poor
+⁎ Corresponding author at: University of Lethbridge, Department of Neuroscience, Canadian Centre for Behavioural Neuroscience, Polaris Brain Dynamics Research Group, 4401
+University Drive West, Lethbridge, AB, Canada. 
+E-mail address: aaron. gruber@uleth. ca (A. J.  Gruber). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 009
+Received 12 May 2017; Received in revised form 28 July 2017; Accepted 5 August 2017
+Available online 12 August 2017
+0166-4328/ 
+S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+reinforcements such as reward omission, signaling a negative RPE.  This
+RPE signal is suﬃcient to solve a variety of diﬃcult tasks [24].  Drugs or
+diseases that aﬀect dopamine transmission are therefore expected to
+impair this prediction error, and thereby impair reinforcement learning,
+which has been demonstrated in many species and tasks [25–28]. 
+Similar to other drugs of abuse, THC increases the ﬁring rates of
+midbrain dopamine neurons [29] and increases dopamine release in
+downstream targets such as the ventral striatum [30].  THC acts as an
+agonist at the Cannabinoid Receptor 1 (CB1), which is Gi coupled and
+acts as an inhibitory presynaptic regulator of neurotransmitter release
+[31].  CB1 is located on inhibitory aﬀerents to dopamine neurons [32]. 
+It is therefore likely that CB1 agonism reduces inhibitory input to dopamine neurons.  We expect that this will suppress the pause in dopamine neuron ﬁring following reward omission and thereby attenuate
+the negative RPE.  This should attenuate processes driven by reward
+omission, such as lose-shift responding and reinforcement learning from
+worse-than-expected reinforcements.  We have previously shown that
+lose-shift is attenuated by acute administration of amphetamine, which
+increases striatal dopamine among other eﬀects [26].  We expected that
+THC would have a similar attenuating eﬀect on lose-shift due to reduction of negative RPE.  Furthermore, we expect that THC would impair reinforcement learning from reward omission for the same reason. 
+Learning from positive reinforcements, however, should remain intactTo test this hypothesis, we systemically injected rats with THC and
+analyzed speciﬁc features of reinforcement-driven response adaptation
+in two reward-based decision-making tasks.  The ﬁrst was a binary
+choice task that rewards random choice; rats nonetheless employ a winstay/lose-shift strategy [33].  The second was an uncued reversal task
+that can be solved using reinforcement learning.  These tasks allow us to
+diﬀerentiate between the potential eﬀects of drug on lose-shift responding that occurs on a trial-by-trial basis, and on the multi-trial
+learning required to track reversals of asymmetric reward probabilities. 
+We found that systemic THC administration attenuated lose-shift responding on both tasks.  However, the drug did not impair the ability to
+ﬂexibly reverse choice preference in response to uncued reversals of
+reward probability.  These results suggest that THC causes an apparent
+reduction in cognitive ﬂexibility by impairing trial-by-trial loss sensitivity while sparing slower multi-trial learning from wins.  This dissociation is supported by recent computational analyses of rodent and
+human choices in decision-making tasks, which have demonstrated that
+hybrid models with rapid and gradual components more accurately
+capture the choices of humans and rodents than do models with a
+unitary timeframe [34–37]. 
+<Middle> Methods. 
+2. 1.  Animals
+Subjects were 21 adult (90 days old) female Long-Evans rats (bred
+in-house) weighing 200–250 g.  Animals were pair-housed in a climatecontrolled vivarium under a 12:12 h light:dark cycle (lights on 7:30
+a. m. ).  Animals had restricted access to water (one hour) on behavioural
+testing days, but otherwise had ad libitum access to food and water.  All
+procedures were approved by the University of Lethbridge Animal
+Welfare Committee (AWC) in accordance with the guidelines of the
+Canadian Council on Animal Care.  Our utilization of female rats ﬁlls
+knowledge gaps and is encouraged by the AWC. 
+2. 2.  Behaviour apparatus
+Behavioural testing was performed in aluminum operant conditioning chambers (see Fig.  1) as described previously [33,36].  Brieﬂy,
+rats were placed in the operant conditioning chamber for 45 min sessions.  Trials were self-paced, and initiated by the rat performing a nosepoke into the central port.  Following 150 ms of nose-poke entry, a toneFig.  1.  Schematic diagram of the operant conditioning chamber used for behavioural(6 kHz) was presented to indicate that the animal could then locomote
+to one of the two adjacent sucrose delivery feeders.  If the correct feeder
+was chosen, a reward (60 μL of 10% sucrose solution) was delivered.  If
+the incorrect feeder was chosen, no sucrose was delivered, the houselight illuminated, and the two panel lights extinguished.  The state of the
+lights then reverted (house-light turned oﬀ; panel light turned on).  This
+change in lighting served to indicate that reward was not forthcoming,
+and was of suﬃciently short duration such that it terminated by the
+time the rats returned to the central poke port; there was therefore no
+‘time-out’ associated with reward omission.  Once a feeder was chosen,
+or if no feeder was chosen in the 15 s following a nose-poke, the trial
+ended and the rat had to return to the central port to initiate a new trial. 
+2. 3.  Experiment 1: acute eﬀects of THC on the Competitive Choice TaskThe behaviour of animals in the ﬁrst cohort (n = 10) was shaped
+during the ﬁrst two training sessions.  All trials were rewarded and no
+barriers were present in the ﬁrst training session to facilitate task acquisition. 

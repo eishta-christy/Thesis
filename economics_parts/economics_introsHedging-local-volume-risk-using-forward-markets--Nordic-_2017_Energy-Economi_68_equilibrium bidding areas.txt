@@ -1,0 +1,110 @@
+
+The Nordic electricity market was liberalized in the late 90’s to
+increase competition and create incentive to invest in new generation capacity and modernize existing production.  At the same time,
+the liberalization reduced the barriers on import and export between
+countries, allowing for more eﬃcient use of many power production
+technologies. 
+Currently, the Nordic market covers the countries in the Nordic
+and Baltic regions, i. e.  Denmark, Norway, Sweden, Finland, Estonia,
+Latvia and Lithuania. 
+It is divided into 17 bidding areas with individual area prices based on local supply and demand.  Furthermore, an overall market price for electricity, referred to as the system
+price, is determined for contractual purposes.  This price is based
+on aggregated supply and demand and disregards transmission constraints between bidding areas.  In contrast, the bidding areas are
+established to avoid congestion in the system.  The area price and the
+local load are, therefore, highly correlated.  It is important to account
+for this market design in the derivation of hedging strategies. 
+In this paper we study the hedging problem of a Nordic
+distribution company that has agreed to deliver electricity to customers at a ﬁxed price.  The company has to buy electricity in the
+spot market, but knows neither the future electricity demand of the
+customers nor the future market price of electricity.  As trades in the
+spot market are settled at the area price, the distributor is thereby
+exposed to both volume risk and area price risk.  To mitigate risk,
+the company can lock in part of its proﬁt by buying ﬁnancial contracts on electricity, in advance and at a ﬁxed price.  In the Nordic
+electricity market, however, ﬁnancial contracts are settled against
+the system price and not the area price.  With signiﬁcant differences
+between the system price and the area price, especially for periods with high load, this introduces considerable basis risk.  Basis risk
+may be managed using forward contracts on the price difference. 
+Nevertheless, only monthly contracts are available.  As a result, the
+distribution company cannot completely eliminate risk from ﬁxed
+price agreements.  In spite of this, in 2010 more than 50% of contracts
+for electricity were based on ﬁxed price agreements in the Nordic
+market and in EU 60% of contracts were ﬁxed price agreements. 1 This
+paper contributes to the literature by developing a joint model for
+the area price, the system price and the load, accounting for both
+cross-correlations and auto-correlations, and by suggesting strategies for hedging in the presence of local volume risk.  In addition to
+using base load and peak load contracts for hedging, we study the
+impact of including contracts for difference.  Furthermore, since the
+proﬁt distribution is asymmetrical, we complement the traditional
+variance-based approach by using a one-sided measure of risk in the
+hedging problem.  We benchmark against the strategy that ignores
+correlation and hedges at the expected load, as is common practice
+in the industry. 
+The importance of accounting for correlation between electricity
+price and load has already been demonstrated in the existing literature.  As an example, Bessembinder and Lemmon (2002) develop
+an equilibrium-based market model and ﬁnd that correlation has a
+substantial impact on the optimal hedging strategies in a forward
+market.  Closer to our work is Oum Name (2006), who consider a
+load serving entity and study the inﬂuence of correlation on the
+residual risk following optimal hedging.  The authors derive analytical solutions to the hedging problem for speciﬁc utility functions
+and approximate these solutions by call options to compensate for
+the lack of contracts to hedge volume risk.  Their results likewise
+show that correlation has a signiﬁcant impact on the payoff structure as well as on the hedging strategy.  Whereas these references
+use a single-period setting, we include multiple periods and thereby
+capture the basis risk that arises as contracts cover an entire month. 
+This makes our hedging strategies applicable to the Nordic Market. 
+An example of using a more advanced electricity price model
+for hedging is provided by Coulon Name (2013), who develop a
+three-factor model with load-based regime switching to model the
+electricity market of Texas.  The authors study variations of daily
+payoffs, using spark spreads or call options and considering a single day and one-dimensional hedging.  The inclusion of load-based
+regime switching makes calibration and estimation much more diﬃcult on longer time horizons, and, therefore, is not considered in this
+paper.  For further electricity price modeling, Erlwein Name (2010)
+and Weron Name (2004) develop advanced reduced-form models that
+involve jumps and regime switching and present algorithms to calibrate their models to price data.  In addition to such single-factor
+models, multi-factor models with jumps and regime switching have
+also been used by Deng (1999) and Schwartz and Smith (2000),
+capturing both short-term and long-term dynamics of electricity
+prices.  Moreover, their approach is extended in Burger Name (2004)
+to include a demand component in the pricing of derivatives.  For a
+thorough review of electricity price models, see also Carmona and
+Coulon (2014), covering both structural and reduced-form models. 
+In contrast to these references, our price model is speciﬁcally tailored to the Nordic market by including both load, area and system
+prices, whereas the modeling of each component is restricted to a
+single factor and does not involve jumps.  The inclusion of area and
+system prices makes it possible to use contracts for difference when
+hedging.  To the best of our knowledge, the literature has not previously addressed hedging strategies to manage differences between
+the area and system prices in the Nordic market. 
+The paper is organized as follows.  The spot and forward markets are described in Section 2.  This includes the dynamics of the
+system price, the area price and the load as well as the ﬁnancial contracts used to manage the uncertainty of payoffs.  Section 3 covers the
+various sources of risk faced by a company trading in the spot and
+forward markets and offering ﬁxed price agreements, whereas we
+formally introduce the accompanying hedging problem in Section 4. 
+Section 5. 1 analyzes the load and price data, deﬁnes seasonal components and describes calibration and Section 5. 2 develops the joint
+model for the system price, the area price and the load.  When calibrated to data from 2012 and applied to data from 2013 and 2014, we
+analyze the corresponding hedging strategies in Section 6.  We study
+the effect of using another risk measure, the impact of including the
+contracts for difference and the implications of improved forecast of
+average prices.  Finally, in Section 7, we summarize our ﬁndings and
+discuss future work. 
+2.  The trading of electricity. 
+In this section we describe the market dynamics of the Nordic
+electricity market and the ﬁnancial instruments that will be used for
+hedging.  We focus on the Nordic spot market, Nord Pool Spot, and the
+corresponding forward market at Nasdaq Commodities. 
+2. 1.  Area price and system price. 
+In the Nordic and Baltic region, the system price provides an overall market price for electricity and is determined by an equilibrium
+that disregards the grid.  In contrast, the area prices should ensure
+that electricity is produced in the least expensive way, aiming at a
+market equilibrium that accounts for transmission.  In the absence
+of transmission congestion, all area prices coincide with the system
+price.  In its presence, area prices are determined on the basis of
+the system price by adjusting for transmission.  By raising the area
+price, local supply will increase and local demand will decrease.  Similarly, by reducing the area price, local supply will decrease whereas
+local demand will increase.  Thus, by raising the area price in bidding areas that would ideally be importing beyond their transmission
+limits, import is reduced.  Likewise, by reducing the area price in
+bidding areas that would be exporting beyond their transmission
+limits, export is reduced.  Thus, in equilibrium, bidding areas with low
+marginal cost will be exporting at full transmission capacity and bidding areas with high marginal cost will be importing at full capacity,
+and so, electricity is produced at minimal costs. 
+The load on the grid varies signiﬁcantly throughout the day,
+which produces variations in both area price and system price. 

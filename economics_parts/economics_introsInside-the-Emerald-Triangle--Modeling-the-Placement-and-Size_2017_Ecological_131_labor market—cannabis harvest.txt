@@ -1,0 +1,178 @@
+
+Land-use conversions from forested and natural lands to agricultural
+landscapes are a leading cause of biodiversity decline worldwide
+(Gibson Name, 2011.  Laurance Name, 2014).  Agricultural conversions
+also release large amounts of carbon and contribute signiﬁcantly to climate change (Mendelsohn and Dinar, 2009).  Economic models of agricultural land-use change have proved helpful in understanding the
+ecological consequences of land conversion across multiple scales and
+for many commodities (Lubowski Name, 2008).  These models can also
+be used to predict the environmental impact of changes in agricultural
+policy or prices (Lawler Name, 2014.  Polasky Name, 2008). 
+Cannabis represents an emerging agricultural crop of economic and
+ecological signiﬁcance (Carah Name, 2015.  Decorte Name, 2011).  Cannabis is now legal, either as a medicine or for recreational use, in over
+half the United States and the federal government has signaled potential
+shifts in its classiﬁcation of cannabis as well (National Conference of
+State Legislatures, 2016).  The market for legal cannabis is already estimated to reach $22. 8 billion nationwide by 2020, approximately double
+the value of wheat production (Arcview Market Research, 2014).  The
+growth of this industry may lead to clearing of new land for agriculture
+or the intensiﬁcation of already established sites. 
+While many facets of cannabis production are not well documented,
+there is ample evidence that cannabis production can have negative
+ecological impacts (Carah Name, 2015).  For instance, illegal cannabis cultivation sites have been linked to rodenticide poisoning throughout
+Northern California (Gabriel Name, 2012.  Thompson Name, 2014), and
+to dewatering of streams due to irrigation practices (Bauer Name,
+2015).  Many grows are located in areas of potential ecological impact,
+such as on steep slopes, far from developed road networks, and near
+habitat for threatened and endangered ﬁsh species (Butsic and
+Brenner, 2016). 
+Given its high economic value and potential impact on the environment, surprisingly little is known about the most basic spatial dimensions of this emerging agricultural activity.  Even less is known about
+how cannabis farmers choose the location and size of their operations. 
+Unlike most agricultural crops in the United States, which are mapped
+and recorded by various government departments, the presence of cannabis agriculture has gone widely undocumented, with the exception of
+police reports during the era of strong prohibition.  Recent advances in
+the availability of high resolution satellite imagery have made it possible
+to map cannabis farms at some times of the year across fairly broad spatial scales (Bauer Name, 2015).  One recent study (Butsic and Brenner,
+2016) produced baseline data that could be used to model land-use
+decisions on cultivation location and size.  With these insights,
+policymakers, planners, and others charged with governing this emerging land-use activity might better prepare to mitigate anticipated environmental impacts. 
+We use a dataset consisting of 1341 documented cannabis cultivation sites on private land in Humboldt County, California to
+model the spatial location and production decisions of cannabis
+farmers.  We evaluate the impact of biophysical variables (slope, distance from ocean, distance to water, vegetation cover, and aspect),
+network variables (number of plants on nearby parcels), local regulations (zoning), and historical variables (whether or not a timber
+harvest has taken place in the last 15 years) on producer decisions. 
+In addition, we test to see if the impact of these variables differs for
+alternative production methods (outdoor cultivation vs.  greenhouse
+cultivation). 
+<Middle> Methods. 
+2. 1.  Study Area. 
+Our study area consists of 54 randomly selected watersheds in Humboldt County, CA which are representative of the county as a whole
+(Butsic and Brenner, 2016).  Humboldt County is located in northern
+California (Fig.  1) along the Paciﬁc coast and is considered the leading
+cannabis producing county in the United States, if the not world.  The
+county is a mix of coniferous and hardwood forest with pockets of
+open rangeland.  The study area is home to numerous threatened and
+endangered species, including.  Chinook and Coho salmon, steelhead
+trout, and the northern spotted owl (California Department of Fish
+and Wildlife, 2015). 
+Due to the steep terrain and poor soils, agriculture is limited to a
+relatively small area of the county.  Livestock, dairy, and nursery
+production are the largest agricultural sectors ($76, $61, $41
+million dollars in sales in 2014) and make up over 95% of all
+agricultural production by value.  Timber production contributes
+another $72 million in direct sales (Humboldt County, 2015).  In
+comparison, the wholesale value of cannabis production is likely
+over $300 million, although no ofﬁcial ﬁgures exist (Butsic and
+Brenner, 2016). 
+2. 2.  Cannabis Production in Humboldt County. 
+Cannabis can be legally cultivated in California for medicinal purposes, although the federal government still considers cannabis an illegal Schedule I drug (McGreevy, 2015).  Medical producers (recreational
+marijuana will not be legal in California until 2018) must be documented care givers and can supply their crop either to individuals who have
+physician approval to use cannabis or to dispensaries, which can sell
+cannabis to patients.  During the time period of our study, there was virtually no chain of custody in the cannabis industry, and the supply chain
+from growers to consumers was undocumented.  Under the Obama administration, federal law enforcement agencies did not strongly enforce
+federal cannabis laws nationally, although there is precedent for federal
+actions on dispensaries and growers (Zilversimt, 2016).  Federal law typically enforces a 5-year prison sentence for cultivation sites larger than
+99 plants, hence anecdotal evidence suggests that many farmers stay
+under that number in case of federal intervention (California Normal,
+2016).  Currently there is no organized program in California to track
+cannabis cultivation siting, production, or sales, even in the legal market.  New laws passed in 2015 aim to establish such a system by 2018
+(McGreevy, 2015).  The details of such laws are still under formation in
+California, with the California Department of Food and Agriculture
+(CDFA) releasing their ﬁrst proposed regulations on medical cannabis
+cultivation on April 28, 2017.  From a land use perspective individual
+counties will be able to create land use ordinances that limit production
+beyond state standards. 
+There is little documentation of actual practices of cannabis production in the scientiﬁc literature (Carah Name, 2015).  The lack of research
+stems in part from federal restrictions on interacting with cannabis,
+which have prevented researchers from observing and studying production systems (Sides, 2015).  Nevertheless, researchers have anecdotally observed several tendencies of cannabis production that are
+relevant to our modeling exercise.  First, production takes place both
+outdoors and in greenhouses.  Outdoor production is reliant on natural
+sunlight and plants are typically grown in groups or individually in
+raised beds.  Greenhouse production allows for light to be diminished
+with shades or enhanced with artiﬁcial light.  The manipulation of light
+allows growers to precisely control ﬂowering, which gives greater control over production in terms of both the schedule and the amount
+produced. 
+Cannabis requires water throughout its growing season, which takes
+place during Humboldt County's dry season and can last up to
+150 days. 2 Given Humboldt County's dry summers and falls, irrigation
+of cannabis plants is needed on a nearly daily basis, with some estimates
+suggesting up to 22 l per day per plant (Humboldt Growers Association,
+2010).  Although not documented, it is likely that cannabis produced in
+greenhouse settings may need less irrigation. 
+Finally, for most agricultural crops, soil quality is a driver of crop
+choice.  In Humboldt County, poor-quality agricultural soil covers
+nearly 90% of the county.  Therefore, many growers import soil for
+both outdoor and greenhouse grows.  While there is no documentation of how much soil is imported, various local businesses exist to
+supply soil in large quantities (e. g.  www. humboldtnutrients. com,
+www. royalgoldcoco. com). 
+2. 3.  Data. 
+We use a number of spatial datasets to parametrize our model. 
+The main cannabis dataset is a reduced version of the dataset used
+in Butsic and Brenner (2016).  The dataset used in this study includes
+only cultivation sites in Humboldt County to control for any policy or
+enforcement differences across county boundaries.  Our dataset documents cannabis cultivation sites on 1341 parcels (out of 14,462 parcels larger than one acre), with the majority of cultivation sites
+recorded in 2012 and the remainder in 2013.  Of these 1341 parcels,
+726 have greenhouse operations, 478 have outdoor grow operations,
+and 137 have both.  The average production of each parcel is 180
+plants, while the parcel with the most cannabis plants has 2794
+plants (Table 1). 
+We joined the cannabis dataset with several other spatial datasets. 
+Parcel boundaries and zoning designations were provided by Humboldt
+County.  We used the CalVeg (http. //www. fs. fed. us/r5/rsl/projects/
+mapping/accuracy. shtml) vegetation layer to quantify the percent of
+each parcel in different vegetation types.  The percent of each parcel
+with over 30% slope was estimated using a digital elevation model
+(DEM) provided by Humboldt County. 
+A number of variables which describe the spatial location of a
+parcel were created.  For each parcel we calculated the distance to
+the Paciﬁc Ocean and the meters north.  Humboldt County receives
+dense fog near the Paciﬁc Ocean, so growers might hypothetically
+locate farther from the ocean to obtain more sunlight.  Also provided
+by Humboldt County was a map of maintained roads.  We used
+the dataset to calculate the distance from a parcel edge to a developed road.  We calculated the distance of each parcel to the
+nearest water source, based on data provided by the California
+Department of Fish and Wildlife (https. //www. wildlife. ca. gov/
+Data/GIS/Clearinghouse).  For each parcel we also calculated the
+number of plants within 100 m and 500 m of its boundary in
+order to identify parcels that were located in clusters of cultivationFinally, we were interested in the historical land use of each parcel,
+especially whether or not a parcel had been logged in the last
+15 years.  A common narrative is that areas where timber was produced
+in the past are often converted into cannabis cultivation sites.  In California, Timber Harvest Plans (THP) are required for the harvest of merchantable timber on private lands.  Landowners, either individuals or
+ﬁrms, apply for plan approval and once approval is granted, timber harvest can commence.  Once timber is cut, it is usually replanted.  However,
+it may be the case that some landowners are not replanting but
+converting to cannabis.  This may be economically efﬁcient as the land
+cleared by timber harvest may be less expensive to convert to cannabis
+since trees are already removed from this area.  We used the Timber
+Harvest Plan database provided by the State of California to document
+for each parcel the percent of land that was permitted to be harvested
+since 1997 (Table 2). 
+2. 4.  Intuition Behind Spatial Location and Size of Cultivation Sites. 
+Our goal was to estimate what factors inﬂuenced two decisions on
+the part of cannabis growers.  First we wanted to know where cannabis
+cultivation sites were most likely to be located.  Typical economic
+models of land use focus on the expected net returns to different
+crops to model the decision of where cropland will expand.  Much of
+the intuition from these models may hold true in our case as well.  We
+expect that parcels with better growing conditions – more sunlight,
+less slope, nearer to sources of irrigation – would produce higher
+returns, and thus we would expect these to be more likely to support
+cannabis production. 
+Cannabis differs from other crops in important ways, particularly the
+ambiguous nature of its legal status.  production is licit and socially accepted, but federally illegal (Short Gianotti Name, 2017).  Therefore, we
+anticipate that producers likely cultivate in areas where the risk of law
+enforcement activities is relatively low.  In years past, when strict enforcement was in place, legal considerations incentivized growers to locate far from developed properties on lands that would be hard for law
+enforcement personnel to visit (Corva, 2014).  Thus, we hypothesized
+cultivation sites to be in remote locations, even though these sites
+may actually be less suitable physically for growing cannabis. 
+While the illegality of cannabis provides incentives for remoteness
+in the location of cultivation sites, several factors could give rise to spatial clustering.  One such factor is information ﬂows.  A distinction between cannabis production and other agricultural commodities is the
+lack of formal training and educational resources available to cultivators.  Cannabis producers cannot avail themselves of university courses
+or cooperative extension services.  Therefore, producers have traditionally been left to develop their own techniques and networks to disseminate information.  For this reason, we expected that strong returns from
+network effects would give rise to spatial patterns of cannabis production, where clustered growers could share knowledge and technologies
+with each other. 
+Further, the clandestine nature of cannabis marketing could promote the formation of geographically clustered distribution networks. 
+While standard models of agricultural marketing emphasize transportation costs, high search costs stemming from the illegality of the industry
+likely induce signiﬁcant frictions in the matching of cannabis producers
+and distributors.  As a result, spatial clustering of growers may be of ﬁrstorder importance in the development of efﬁcient post-harvest cannabis
+markets.  Similar search frictions might also arise in the labor
+market—cannabis harvest is labor intensive, often requiring large numbers of ‘trimmers’—which also might provide incentives for spatial
+clustering. 3 We therefore model the extent to which nearby cultivation
+predicts the likelihood and extent of cannabis production. 

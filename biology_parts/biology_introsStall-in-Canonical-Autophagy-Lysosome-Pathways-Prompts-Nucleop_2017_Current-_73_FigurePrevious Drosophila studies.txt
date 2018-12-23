@@ -1,0 +1,146 @@
+Stall in Canonical Autophagy-Lysosome Pathways
+Prompts Nucleophagy-Based Nuclear Breakdown in
+NeurodegenerationHighlights
+d Progressive stall in canonical autophagy in disease-speciﬁc
+areas in DRPLA
+d Chronic autophagy block activates alternative degradation
+pathways in vivo
+d Nucleophagy-associated LaminB1 accumulates in the
+cytoplasm and is then excretedOlga Baron, Adel Boudi,
+Catarina Dias, . . . , Roland A.  Fleck,
+Gillian P.  Bates, Manolis Fanto
+Correspondence
+manolis. fanto@kcl. ac. uk
+In Brief
+Golgi-mediated degradation and
+excretion of LaminB1 promote cell
+atrophy and death.  Baron Name
+demonstrate that a block in canonical
+autophagy signaling leads to activation of
+alternative clearance routes.  Golgimediated degradation and excretion of
+nuclear LaminB1 ﬁnally result in terminal
+nuclear breakdown, cell atrophy, andBaron Name, 2017, Current Biology 27, 3626–3642
+December 4, 2017 ª 2017 The Authors.  Published by Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 054
+Current BiologyStall in Canonical Autophagy-Lysosome Pathways
+Prompts Nucleophagy-Based Nuclear Breakdown
+in Neurodegeneration
+Olga Baron,1 Adel Boudi,1 Catarina Dias,1 Michael Schilling,1 Anna No¨ lle,2,3 Gema Vizcay-Barrena,4 Ivan Rattray,5
+Heinz Jungbluth,1,6,7 Wiep Scheper,2,3 Roland A.  Fleck,4 Gillian P.  Bates,5,8 and Manolis Fanto1,9,*
+1Department of Basic and Clinical Neuroscience, King’s College London, 125 Coldharbour Lane, SE5 9NU London, UK
+2Department of Clinical Genetics and Alzheimer Center, VU University Medical Center, Amsterdam, the Netherlands
+3Department of Functional Genome Analysis, VU University, Amsterdam, the Netherlands
+4Centre for Ultrastructural Imaging, King’s College London, SE1 1UL London, UK
+5Department Medical and Molecular Genetics, School of Basic and Biomedical Sciences, King’s College London, SE1 9RT London, UK
+6Department of Paediatric Neurology, Neuromuscular Service, Evelina’s Children Hospital, Guy’s & St.  Thomas’ Hospital NHS Foundation
+Trust, London, UK
+7Randall Division for Cell and Molecular Biophysics, Muscle Signaling Section, King’s College London, London, UK
+8Sobell Department of Motor Neuroscience, UCL Institute of Neurology, WC1N 3BG London, UK
+9Lead Contact
+*Correspondence: manolis. fanto@kcl. ac. uk
+https://doi. org/10. 1016/j. cub. 2017. 10. 054in a mouse model
+The terminal stages of neuronal degeneration
+and death in neurodegenerative diseases remain
+elusive.  Autophagy is an essential catabolic process frequently failing in neurodegeneration.  Selective autophagy routes have recently emerged,
+including nucleophagy, deﬁned as degradation of
+nuclear components by autophagy.  Here, we
+show that,
+for the polyglutamine disease dentatorubral-pallidoluysian atrophy
+(DRPLA), progressive acquirement of an ataxic
+phenotype is linked to severe cerebellar cellular pathology, characterized by nuclear degeneration
+through nucleophagy-based LaminB1 degradation
+and excretion.  We ﬁnd that canonical autophagy
+is stalled in DRPLA mice and in human ﬁbroblasts
+from patients of DRPLA.  This is evidenced by
+accumulation of p62 and downregulation of LC3I/II conversion as well as reduced Tfeb expression. 
+Chronic autophagy blockage in several conditions,
+including DRPLA and Vici syndrome, an early-onset
+autolysosomal pathology, leads to the activation of
+alternative clearance pathways including Golgi
+membrane-associated
+nucleophagy-based
+LaminB1 degradation and excretion.  The combination of these alternative pathways and canonical
+autophagy blockade, results in dramatic nuclear
+pathology with disruption of the nuclear organization, bringing about
+terminal cell atrophy and
+degeneration.  Thus, our ﬁndings identify a novel
+progressive mechanism for the terminal phases of
+neuronal cell degeneration and death in human
+neurodegenerative diseases and provide a link beand
+tween autophagy block, activation of alternative
+pathways for degradation, and excretion of cellular
+components. 
+INTRODUCTION
+Nuclear homeostasis has recently been the focus of attention in
+aggregation-prone neurodegenerative disorders.  In particular,
+defects in nucleo-cytoplasmic transport and deregulation of nuclear matrix have been identiﬁed as potential pathomechanisms
+in several conditions [1–4].  Mutation in genes encoding nuclear
+lamina constituents have been associated with degradation of
+nuclear components by autophagy [5], in a process further
+deﬁned as nucleophagy. 
+Autophagy affects onset and progression of several human
+reﬂecting its key role as a
+neurodegenerative diseases,
+regulator of neuronal proteostasis and organelle quality control [6].  Bulk or selected cargos are recruited by autophagy
+receptors, like p62, to forming double-membrane vesicles,
+the autophagosomes, marked by the lipid-conjugated form
+of LC3, LC3-II.  Mature autophagosomes fuse with lysosomes
+to form autolysosomes where the cargo is digested by lysosomal enzymes and basic molecules are recycled back to
+the cytoplasm [7].  Nucleophagy, a selective autophagy mechanism, has been linked to LaminB1 degradation through
+direct interaction with LC3 as a mechanism of protection
+from oncogenesis and of
+toward cellular
+senescence [8].  However, the importance of nucleophagy
+and its relationship with neuronal degeneration has not
+been established. 
+reinforcement
+Polyglutamine (polyQ) diseases are neurological conditions due to an expanded CAG repeat resulting in polyQ
+stretches in the encoded protein.  This family of disorders
+includes Huntington’s disease, dentatorubral-pallidoluysian
+atrophy (DRPLA), and several spinocerebellar ataxias.  DRPLA
+is caused by the expansion of a CAG stretch in the
+3626 Current Biology 27, 3626–3642, December 4, 2017 ª 2017 The Authors.  Published by Elsevier Ltd. 
+This is an open access article under the CC BY license (http://creativecommons. org/licenses/by/4. 0/). 
+Current Biology 27, 3626–3642, December 4, 2017 3627
+(legend on next page)
+ATROPHIN-1 (ATN1) gene [9].  Patients display ataxic and
+choreoathetoid symptoms as well as myoclonus, generalized
+epilepsy, and dementia with extensive cellular degeneration
+found in the basal ganglia (e. g. , the globus pallidus, GP), brainstem (e. g. , the red nucleus, RN), and cerebellum (primarily in
+the dentate nucleus, DN) [10]. 
+recapitulating important aspects of
+Several DRPLA mouse models have been previously generated, all
+the disease
+[11–13].  We have predicted dysfunctional autophagy from
+previous Drosophila studies on DRPLA [14, 15].  Here, we
+show that progressive development of an ataxic phenotype
+in DRPLA mice is linked to severe cellular pathology in
+relevant neuroanatomical regions.  We reveal that neurodegeneration is associated with a stall in canonical autophagy
+and the activation of alternative pathways of Golgi-dependent
+and nucleophagy-based degradation and excretion of
+LaminB1,
+leading to disruption of nuclear integrity and to
+cell atrophy. 
+<Middle> RESULTS. 
+Progression of Motor Behavior Defects in DRPLA Mice
+The behavioral phenotypes of ATN1-FL-26Q-84 (ATN1-FL-26Q)
+and ATN1-FL-65Q-105 (ATN1-FL-65Q) mouse lines were evaluated in greater detail than previously reported.  Compared to
+both wild-type (WT) mice and the ATN1-FL-26Q-84 (ATN1-FL26Q) line, the ATN1-FL-65Q-105 (ATN1-FL-65Q) line showed
+clear decline in the rotarod (Figures S1A and S1B) and grip
+strength tests (Figures 1A–1D).  This was also reﬂected in the
+earlier onset of jerky movements, tremors, hind limb clasping,
+seizures, and a stronger progressive lack of weight gain (Figures
+S1C and S1D; Movie S1). 
+Furthermore, the ATN1-FL-26Q and ATN1-FL-65Q lines
+seemed to be hyperactive compared to WT.  ATN1-FL-26Q
+mice showed increased explorative behavior (Figure S1E;
+Movie S2), while the ATN1-FL-65Q mice appeared rather
+aggressive and anxious, as reﬂected in increased thigmotaxis (Figure 1E) [16].  The ATN1-FL-26Q line also showed a
+signiﬁcant increase in general activity as compared to WT
+mice (Figures 1F and S1F).  ATN1-FL-65Q, but not ATN1FL-26Q, displayed a severely altered, distinctively ataxic
+gait (Figure 1G). 
+Stall in Autophagy in DRPLA
+Previous Drosophila studies indicated a blockage of autophagic
+clearance in DRPLA [14]. 
+Lipofuscin accumulates during aging and also in lysosomal
+storage disorders with dysfunctional autophagy [17]. 

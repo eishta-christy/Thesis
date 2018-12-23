@@ -1,0 +1,2502 @@
+J. Child Lang.  (), –. © Cambridge University Press 
+doi:./SX
+
+Children perceive speech onsets by ear and eye*
+
+SUSAN JERGER
+
+School of Behavioral and Brain Sciences, GR·, University of Texas at
+
+Dallas, and Callier Center for Communication Disorders, Richardson, Texas
+
+MARKUS F. DAMIAN
+
+School of Experimental Psychology, University of Bristol
+
+NANCY TYE-MURRAY
+
+Department of Otolaryngology–Head and Neck Surgery, Washington
+
+University School of Medicine
+
+A N D
+
+HERVÉ ABDI
+
+School of Behavioral and Brain Sciences, GR·, University of Texas at Dallas
+
+(Received  April  – Revised  September  – Accepted  November  –
+
+First published online  January )
+
+A B S T R A C T
+
+Adults use vision to perceive low-ﬁdelity speech; yet how children
+acquire this ability is not well understood. The literature indicates that
+
+[*] This research was supported by the National Institute on Deafness and Other
+Communication Disorders, grant DC-. Dr Abdi would like to acknowledge the
+support of an EURIAS fellowship at the Paris Institute for Advanced Studies (France),
+with the support of the European Union’s th Framework Program for research, and
+funding from the French state managed by the Agence Nationale de la Recherche
+(program: Investissements d’avenir, ANR--LABX-- Labex RFIEA+). Sincere
+appreciation to (i) speech science colleagues for their guidance and advice to adopt a
+perceptual criterion for editing the non-intact stimuli and (ii) Dr Peter Assmann for
+generously giving of his time, talents, and software to prepare Figure . We thank Dr
+Brent Spehar for recording the audiovisual stimuli. We thank the children and parents
+who participated and the research staﬀ who assisted, namely Aisha Aguilera, Carissa
+Dees, Nina Dinh, Nadia Dunkerton, Alycia Elkins, Brittany Hernandez, Cassandra
+Karl, Demi Krieger, Michelle McNeal, Jeﬀrey Okonye, Rachel Parra, and Kimberly
+Periman of UT-Dallas (data collection, analysis, presentation), and Derek Hammons
+and Scott Hawkins of UT-Dallas and Brent Spehar of Washington University School
+of Medicine (computer programming). Address for correspondence: Susan Jerger,
+School of Behavioral and Brain Sciences, GR·, University of Texas at Dallas, 
+W. Campbell Rd, Richardson, TX . tel: --; e-mail: sjerger@utdallas.edu
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+children show reduced sensitivity to visual speech from kindergarten to
+adolescence. We hypothesized that this pattern reﬂects the eﬀects of
+complex tasks and a growth period with harder-to-utilize cognitive
+resources, not lack of sensitivity. We investigated sensitivity to visual
+speech in children via the phonological priming produced by low-
+ﬁdelity (non-intact onset) auditory speech presented audiovisually (see
+dynamic face articulate consonant/rhyme b/ag; hear non-intact onset/
+rhyme: –b/ag) vs. auditorily (see still face; hear exactly same auditory
+input). Audiovisual speech produced greater priming from four to
+fourteen years, indicating that visual speech ﬁlled in the non-intact
+auditory onsets. The inﬂuence of visual speech depended uniquely on
+phonology and speechreading. Children – like adults – perceive speech
+onsets multimodally. Findings are critical
+for incorporating visual
+speech into developmental theories of speech perception.
+
+I N T R O D U C T I O N
+In everyday conversations adults perceive speech by ear and eye, yet the
+development of this critical audiovisual property of speech perception is still
+not well understood. In fact, the extant child research reveals that – compared
+to adults – children exhibit reduced sensitivity to the articulatory gestures of
+talkers (i.e. visual speech). The McGurk task (McGurk & MacDonald, )
+well illustrates this maturational diﬀerence in sensitivity to visual speech. In
+this task, individuals are presented with audiovisual stimuli with conﬂicting
+auditory and visual onsets (e.g. hear /ba/ and see /ga/). Whereas adults
+typically perceive a blend of the auditory and visual inputs (e.g. /da/ or /ða/)
+and rarely report perceiving the auditory /ba/, children, by contrast, report
+perceiving the /ba/ (auditory capture) % to % of the time (McGurk &
+MacDonald, ). Because visual speech plays a role in learning the
+phonological structure of spoken language (e.g. Locke, ; Mills, ), it
+is critical to understand how children utilize visual speech cues.
+
+The inﬂuence of visual speech on children’s audiovisual speech perception
+clearly increases with age, but the precise timecourse for achieving adultlike
+beneﬁt from visual speech remains unclear. Numerous studies report that (i)
+children from roughly ﬁve through eleven years of age beneﬁt less than adults
+from visual speech whereas (ii) adolescents (preteens–teenagers) show an
+adultlike visual speech advantage (e.g. Desjardins, Rogers & Werker, ;
+Dodd, ; Erdener & Burnham, ;
+Jerger, Damian, Spence,
+Tye-Murray & Abdi, ; McGurk & MacDonald, ; Ross, Molholm,
+Blanco, Gomez-Ramirez, Saint-Amour & Foxe, ; Tremblay, Champoux,
+Voss, Bacon, Lepore & Theoret, ; Wightman, Kistler & Brungart, ).
+Developmental
+improvements in sensitivity to visual speech have been
+attributed to changes in (i) the perceptual weights given to visual speech
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+(Green, ),
+(ii) articulatory proﬁciency and/or speechreading skills
+(e.g. Desjardins et al., ; Erdener & Burnham, ), and (iii) linguistic
+skills and language-speciﬁc tuning (Erdener & Burnham, ; Sekiyama &
+Burnham, ). Notable complications to this story are suggested, however,
+by several studies reporting signiﬁcant sensitivity to visual speech in three- to
+ﬁve-year-olds (Holt, Kirk & Hay-McCutcheon, ; Lalonde & Holt, ),
+six- to seven-year-olds (Fort, Spinelli, Savariaux & Kandel, ), and
+eight-year-olds (Sekiyama & Burnham, , ). Some of these studies
+stressed that performance in young children can be inﬂuenced by visual
+speech when the children are tested with developmentally appropriate
+measures and task demands. This viewpoint encourages us to consider the
+possible bases underlying children’s developmental insensitivity to visual
+speech. Toward this end, Jerger et al. () adopted a dynamic systems
+theoretical viewpoint (Smith & Thelen, ).
+
+Dynamic systems theory
+Dynamic systems theory proposes two relevant points for understanding the
+inﬂuence of visual speech in children: (i) multiple interactive factors form the
+basis of developmental change, and (ii) children’s early skills are ‘softly
+assembled’ systems that reorganize into more mature, stable forms in response
+to environmental and internal forces (Smith & Thelen, ). Evoked potential
+studies support such a developmental reorganization and restructuring of the
+phonological system (Bonte & Blomert, ). During these developmental
+transitions, processing systems are less robust and children cannot easily use
+their cognitive resources; thus performance is less stable and more aﬀected by
+methodological approaches and task demands (Evans, ). From this
+perspective, children’s reduced sensitivity to visual speech may be incidental to
+developmental transformations, their processing by-products, and experimental
+contexts. Clearly, previous research has shown a greater inﬂuence of visual
+speech on children’s performance when task demands were modiﬁed to be more
+child-appropriate (Desjardins et al., ; Lalonde & Holt, ). Further,
+sensitivity to visual speech has been shown to vary in the same children as a
+function of stimulus/task demands (Jerger, Damian, Tye-Murray & Abdi, ).
+We propose that some experimental variables that might have contributed to
+children’s reduced sensitivity to visual speech are the use of (i) complex tasks/
+audiovisual stimuli (e.g. targets embedded in noise or competing speech;
+McGurk stimuli with conﬂicting auditory and visual onsets) – because they
+make listening more challenging or less natural and familiar – and (ii)
+high-ﬁdelity auditory speech – because it makes visual speech less relevant.
+The purpose of the present research was to evaluate whether sensitivity to
+visual speech in children might be increased by the use of stimuli with (i)
+congruent onsets that invoke more prototypical and representative audiovisual
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+speech processes, and (ii) non-intact auditory onsets that increase the need for
+visual speech without involving noise. Below we brieﬂy introduce our new
+stimuli and discuss the current task and its possible beneﬁts for studying the
+inﬂuence of visual speech on performance by children.
+
+Stimuli for the New Visual Speech Fill-In Eﬀect
+The new stimuli are words and nonwords with an intact consonant/rhyme in
+the visual track coupled to a non-intact onset/rhyme in the auditory track
+(our methodological criterion excised about  ms for words and  ms for
+nonwords; see ‘Method’). Stimuli are presented in audiovisual vs. auditory
+modes. Example stimuli for the word bag are: (i) audiovisual: intact visual
+(b/ag) coupled to non-intact auditory (–b/ag) and (ii) auditory: static face
+coupled to the same non-intact auditory (–b/ag). Our idea was to insert
+visual speech into the ‘nothingness’ created by the excised auditory onset
+to study the possibility of a Visual Speech Fill-In Eﬀect (Jerger et al.,
+), which occurs when performance for the SAME auditory stimulus
+DIFFERS depending upon the presence/absence of visual speech. Responses
+illustrating a Visual Speech Fill-In Eﬀect for a repetition task (Jerger
+et al., ) are perceiving /bag/ in the audiovisual mode but /ag/ in the
+auditory mode. Below we overview our new approach – the multimodal
+picture–word task with low-ﬁdelity speech (non-intact auditory onsets).
+
+Multimodal picture–word task
+In the widely used picture word interference task (Schriefers, Meyer & Levelt,
+), participants name pictures while attempting to ignore nominally
+irrelevant speech distractors. Previous research (e.g. Jerger, Martin &
+Damian, ; Jerger et al., ) has established that congruent onsets,
+such as [picture]–[distractor] pairs of [bug]–[bus], speed up picture naming
+times relative to neutral (or baseline) vowel onsets, such as [bug]–[onion]. A
+congruent onset is thought to prime picture naming because it creates
+crosstalk between the phonological representations that support speech
+production and perception (Levelt, Schriefers, Vorberg, Meyer, Pechmann
+& Havinga, ). Congruent distractors are assumed to spread activation
+from input to output phonological representations, a process fostering faster
+selection of
+speech segments during naming (Roelofs, ). Our
+‘multimodal’ version of this task (Jerger et al., ) administers audiovisual
+stimuli (Quicktime movie ﬁles). The to-be-named pictures appear on the
+T-shirt of a talker whose face moves (audiovisual speech utterance) or stays
+artiﬁcially still (auditory speech utterance coupled with still video). Hence,
+the speech distractors are presented audiovisually or auditorily only, a
+manipulation that enables us to study the inﬂuence of visual speech on
+phonological priming.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+In a previous study with the multimodal picture–word task and high ﬁdelity
+distractors (Jerger et al., ), we observed a U-shaped developmental function
+with a signiﬁcant inﬂuence of visual speech on phonological priming in
+four-year-olds and twelve-year-olds, but not
+in ﬁve- to nine-year-olds.
+Consistent with our dynamic systems theoretical viewpoint (Smith & Thelen,
+), we proposed that phonological knowledge was reorganizing – particularly
+from ﬁve to nine years – into a more elaborated, systematized, and robust
+resource for supporting a wider range of activities, such as reading. The
+phonological knowledge supporting visual speech processing was not as readily
+accessed and/or retrieved during this pronounced period of restructuring for the
+reasons elaborated above (see also Jerger et al., ). As noted above, our
+current research attempts to moderate these possible internal/external inﬂuences
+by using congruent audiovisual stimuli with non-intact auditory onsets. Our
+focus on speech onsets may be key because – relative to the other parts of an
+utterance – onsets are easier to speechread, more reliable with less articulatory
+variability, and more stressed (Gow, Melvold & Manuel, ). In two studies,
+we addressed research questions about the relation between phonological
+priming in the auditory vs. audiovisual modes as a function of the characteristics
+of the stimuli (Analysis ) and the children’s ages and verbal abilities (Analysis ).
+
+ANALYSIS : STIMULUS CHARACTERISTICS
+
+The general aim of this analysis was to assess the inﬂuence of visual speech
+on phonological priming by high- vs.
+low-ﬁdelity auditory speech in
+children from four to fourteen years. Whereas the auditory ﬁdelity was
+manipulated from high to low (intact vs. non-intact onsets), the visual
+ﬁdelity always remained high (intact). Primary research questions were
+whether – in all age groups – (i) the presence of visual speech would ﬁll in
+the non-intact auditory onsets and prime picture naming more eﬀectively
+than auditory speech alone and (ii) phonological priming would display a
+greater inﬂuence of visual speech for non-intact than intact auditory
+onsets. Finally, a secondary research question concerned LEXICAL STATUS,
+namely whether phonological priming in all age groups would display a
+greater inﬂuence of visual speech for nonwords than words (e.g. baz vs.
+bag). Some important qualities that may inﬂuence the eﬀects of visual
+speech are:
+INTEGRAL PROCESSING OF
+SPEECH CUES, and (iii) LOW-FIDELITY AUDITORY SPEECH.
+
+(i) CONGRUENT DIMENSIONS,
+
+(ii)
+
+S T I M U L U S C H A R A C T E R I S T I C S A N D P R E D I C T I O N S
+Congruent dimensions
+Evidence suggests that audiovisual utterances with congruent rather than
+conﬂicting McGurk-like dimensions produce diﬀerent perceptual experiences.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+For example, Vatakis and Spence () manipulated the temporal onsets of
+congruent vs. conﬂicting auditory and visual inputs and found that listeners
+were signiﬁcantly less sensitive to temporal diﬀerences when onsets were
+congruent. Brain activation patterns also diﬀer for congruent vs. conﬂicting
+audiovisual speech, with supra-additivity (greater than the sum of unimodal
+inputs) for the former but sub-additivity for the latter (Calvert, Campbell &
+Brammer, ). Congruent dimensions also possess lawful relatedness that
+produces strong cues that the auditory and visual inputs originated from the
+same speaker and should be integrated (Stevenson, Wallace & Altieri, ).
+Thus, in terms of a multisensory perceptual experience, congruent onsets oﬀer
+some advantages compared to conﬂicting onsets. The data below also clearly
+indicate that the speech cues of consonant–vowel stimuli are processed integrally.
+
+Integrality of speech cues
+To study the integrality of speech cues, the Garner task () requires
+participants to (i) attend selectively to a target cue such as a consonant
+(e.g. /b/ vs. /g/) and (ii) try to ignore a non-target cue such as a vowel that
+is held constant (/ba/ vs. /ga/) or varies irrelevantly (/ba/, /bi/ vs. /ga/, /gi/).
+Results have shown that irrelevant variation in the vowels interferes with
+classifying the consonants and vice versa (e.g. Tomiak, Mullennix &
+Sawusch, ). Green and Kuhl
+this tight
+coupling between auditory speech cues extends to audiovisual speech cues.
+All these results indicate that listeners cannot ignore one speech cue and
+selectively attend to another. Instead, listeners perceive the cues integrally.
+Results on the Garner task imply that our auditory and visual speech
+onsets should be processed integrally.
+
+() established that
+
+Low-ﬁdelity (non-Intact) auditory speech
+The literature shows a shift in the relative weights of the auditory and visual
+modes as the quality of the inputs shifts. To illustrate: when listening to
+McGurk stimuli with degraded auditory speech, children with normal
+hearing respond more on the basis of the intact visual
+input (Huyse,
+Berthommier & Leybaert, ). When the visual input is also degraded,
+however, the children respond more on the basis of the degraded auditory
+input. Children with normal hearing or mild–moderate hearing loss and
+good auditory word recognition – when listening to conﬂicting inputs such
+as auditory /meat/ coupled with visual /street/ – respond on the basis of
+the auditory input (Seewald, Ross, Giolas & Yonovitz, ). In contrast,
+children with more severe hearing loss – and more degraded perception of
+auditory input – respond more on the basis of the visual input. Finally,
+when Japanese individuals listen to high-ﬁdelity auditory input, they do
+not show a McGurk eﬀect; but when they listen to degraded auditory
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+input, they do show the eﬀect (Sekiyama & Burnham, ; Sekiyama &
+Tohkura, ). These results indicate that the relative weighting of
+auditory and visual speech is modulated by the relative quality of each
+input. Recent neuroscience studies also support this diﬀerential weighting,
+as they reveal that the functional connectivity between the auditory and
+visual cortices and the superior
+(STS, an area of
+integration) changes with input ﬁdelity, with increased
+audiovisual
+connectivity between the STS and the
+sensory cortex with the
+higher-ﬁdelity input (Nath & Beauchamp, ).
+
+temporal
+
+sulcus
+
+In short, our auditory and visual speech cues are congruent and should be
+processed in an integral manner. The auditory and visual speech inputs
+should be weighed diﬀerentially depending on the quality of the auditory
+input. Thus we predict that (i) visual speech will ﬁll in the non-intact
+auditory onsets and prime picture naming more eﬀectively than auditory
+speech alone, and (ii) children will be more sensitive to visual speech for
+non-intact than intact auditory input. In addition to our primary research
+questions, a secondary research question evaluated whether lexical status
+aﬀects children’s sensitivity to visual speech.
+
+L E X I C A L S T A T U S A N D P R E D I C T I O N S
+The literature contrasting the McGurk eﬀect for words vs. nonwords
+indicates that the McGurk eﬀect occurs for both types of stimuli. Within
+this evidence, some results have revealed that lexical status impacts the
+McGurk eﬀect. For example, visual speech inﬂuences listeners more often
+when (i) stimuli are words rather than nonwords (Barutchu, Crewther,
+Kiely, Murphy & Crewther, ) or (ii) the visual input forms a word
+and the auditory input forms a nonword (Brancazio, ). By contrast,
+however, other results have shown a strong McGurk eﬀect for both
+nonwords and words, with performance not appearing to be inﬂuenced by
+meaningfulness (Sams, Manninen, Surakka, Helin & Katto, ). With
+regard to studies assessing the McGurk eﬀect with only word stimuli in
+isolation, one study (Dekle, Fowler & Funnell, ) observed a strong
+McGurk eﬀect whereas the other study (Easton & Basala, ) reported
+no visual inﬂuence on performance. In short, these studies do not provide
+consistent results or predictions
+
+In contrast to the mixed results summarized above, the hierarchical model
+of
+speech segmentation (Mattys, White & Melhorn, ) provides
+unambiguous predictions for words vs. nonwords. The model proposes that
+listeners assign the greatest weight to lexical–semantic content when listening
+to words. If the lexical–semantic content is compromised, however, listeners
+assign the greatest weight to phonetic–phonological content. If both the
+lexical–semantic and phonetic–phonological
+compromised,
+
+content
+
+are
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+listeners assign the greatest weight to acoustic–temporal content. It is also
+assumed that monosyllabic words such as our stimuli (bag) may activate their
+lexical representations without requiring phonological decomposition whereas
+nonwords (baz) require phonological decomposition (Mattys, ).
+
+If these ideas generalize to our task, word stimuli should be heavily
+weighted in terms of lexical–semantic content but nonword stimuli should
+be heavily weighted in terms of phonetic–phonological content for both
+the audiovisual and auditory modes. We predict that children’s sensitivity
+to visual speech will vary depending on the relative weighting and
+decomposition of the phonetic–phonological content. To the extent that a
+greater weight on phonetics–phonology increases children’s awareness of
+the phonetic–phonological content and visual speech phonetic cues, we
+predict that children will show a signiﬁcantly greater inﬂuence of visual
+speech relative to auditory speech for nonwords than for words. In
+agreement with Campbell (), we view visual speech as an extra
+phonetic resource that adds another type of phonetic feature.
+
+Although we critically evaluate the inﬂuence of child factors in Analysis ,
+we plot results as a function of age in Analysis . To brieﬂy address age, the
+literature reviewed above predicts that – although beneﬁt from visual speech
+improves with age – children relative to adults show signiﬁcantly reduced
+beneﬁt up to the adolescent years. We have argued above, however, that
+performance for our non-intact stimuli will reveal MORE sensitivity to
+visual speech. We thus predict that phonological priming eﬀects will show
+inﬂuences of visual speech from four to fourteen years.
+
+M E T H O D
+Participants
+Participants were  native English-speaking children ranging in age from
+; to ; (% boys). The racial distribution was % White, % Asian,
+% Black, and % Multiracial, with % reporting Hispanic ethnicity.
+Participants had normal (age-based when appropriate) hearing sensitivity,
+visual acuity (including corrected to normal), auditory word recognition
+(Ross & Lerman, ), articulatory proﬁciency (Goldman & Fristoe,
+), and visual perception (Beery & Beery, ). Participants were
+divided into four age groups
+( to  children each) based on
+chronological age (four- to ﬁve-year-olds: M = ;, SD = ·; six- to
+seven-year-olds: M = ;, SD = ·; eight- to ten-year-olds: M = ;,
+to fourteen-year-olds: M = ;, SD = ·).
+SD = ·; and eleven-
+These groups will be referred to as ﬁve-year-olds,
+seven-year-olds,
+nine-year-olds, and twelve-year-olds. Details for the groups are presented
+in Analysis . Participants accurately pronounced the onsets of
+the
+pictures’ names; the oﬀsets were also accurately pronounced except for
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+three ﬁve-year-olds (who substituted /θ/ for /s/ in gas and geese or omitted /t/
+in ghost). Two ﬁve-year-olds had to be taught the names of some pictures
+(geese, beads, and/or gun). To ensure that the experimental results were
+reﬂecting performance for words vs. nonwords, participants’ knowledge of
+the word distractors was tested by parental report and a picture-pointing
+task. Thirty-one children had to be taught the meaning of a distractor; the
+mean number of unknown distractors averaged · in the ﬁve-year-olds,
+· in the seven-year-olds, and · in the nine- to twelve-year-olds.
+Mean naming times for the taught vs. previously known words did not
+diﬀer; no trials were eliminated.
+
+Materials and instrumentation: picture–word task
+
+for
+
+segment
+
+[bug]–[bus/buv]
+
+Pictures and distractors. The entire set of materials consisted of experimental
+items ( pictures and  distractors) and ﬁller items ( pictures and 
+distractors). The experimental pictures and phonologically related distractors
+were words/nonwords beginning with the consonants /b/ or /g/ coupled with
+the vowels /i/, /æ/, /ʌ/, or /o/. The baseline distractors were words/nonwords
+beginning with the vowels /i/, /æ/, /ʌ/, or /o/. Illustrative items for the picture
+[bug] are [picture]–[word/nonword] pairs of
+the
+phonologically related condition and [bug]–[onion/onyit] for the baseline
+condition (see ‘Appendix A’ for items, available at http://dx.doi.org/./
+SX). The word and nonword distractors were constructed
+to have as comparable phonotactic probabilities as possible. In brief, the
+positional
+frequencies for the words vs. nonwords averaged
+respectively · vs. · (adult values) and · vs. · (child values);
+the biphone frequencies averaged · vs. · (adult values) and · vs.
+· (child values) (Storkel & Hoover, ; Vitevitch & Luce, ; see
+Jerger et al., , for details). The ﬁller items were pictures and word/
+nonword distractors NOT beginning with /b/ or /g/. Illustrative ﬁller items are
+the [picture]–[word/nonword] pairs of [dog]–[cheese/cheeg], [shirt]–[pickle/
+pimmel], and [cookies]–[horse/hork]. To emphasize the distinctiveness
+between the words and nonwords, if a ﬁller item (e.g. [dog]–[cheese]) was
+used for the words, its counterpart (e.g. [dog]–[cheeg]) was not used for the
+nonwords and vice versa. This strategy yielded  diﬀerent picture–distractor
+ﬁller items each for the words and the nonwords.
+
+Stimulus preparation. The distractors were recorded at the Audiovisual
+Recording Lab, Washington University School of Medicine. The talker was
+an eleven-year-old boy actor with clearly intelligible speech. His full facial
+image and upper chest were recorded. He started and ended each utterance
+with a neutral face / closed mouth. The color video signal was digitized at 
+frames/s with -bit resolution at a  ×  pixel size. The auditory signal
+was digitized at  kHz sampling rate with -bit amplitude resolution. The
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+Fig. . Display of the intact vs. non-intact auditory waveforms for the word bag.
+
+Editing the auditory onsets. We edited the auditory track of
+
+utterances were adjusted to equivalent A-weighted root mean square sound
+levels. The video track was routed to a high-resolution monitor, and the
+auditory track was routed through a speech audiometer to a loudspeaker.
+The intensity level of
+the distractors was approximately  dB SPL.
+The to-be-named colored pictures were scanned into a computer as -bit
+PICT ﬁles and edited to achieve objects of a similar size on a white background.
+the
+phonologically related distracters by locating the /b/ or /g/ onsets visually
+and auditorily with Adobe Premiere Pro and Soundbooth (Adobe Systems
+Inc., San Jose, CA) and loudspeakers. We applied a perceptual criterion to
+operationally deﬁne a non-intact onset. We excised the waveform in  ms
+steps from the identiﬁed auditory onset (ﬁrst deviations from baseline) to
+the point in the later waveform for which at least four of ﬁve trained
+listeners heard the vowel as the onset (auditory mode). This process
+removed the excised portion of the acoustic signal and left the alignment
+between the auditory and visual tracks as originally produced by the
+speaker. Splice points were always at zero axis crossings. Using our
+perceptual criterion, we excised on average  ms (/b/) and  ms (/g/) from
+the word onsets and  ms (/b/) and  ms (/g/) from the nonword onsets.
+Figure  displays the intact vs. non-intact waveforms for the word bag.
+
+We next formed audiovisual (dynamic face) and auditory (static face)
+modes of presentation for the stimuli. In our experimental design, the
+auditory mode controls for the inﬂuence on performance of any remaining
+coarticulatory cues in the input. More speciﬁcally, we compare results for
+the non-intact
+in the auditory vs. audiovisual modes. Any
+
+stimuli
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+coarticulatory cues in the auditory input are held constant in the two modes.
+Thus any inﬂuence on picture naming due to articulatory cues should be
+controlled, and this should allow us to evaluate whether the addition of
+visual speech inﬂuences performance.
+
+Audiovisual and auditory modes. Stimuli were Quicktime movie ﬁles. For
+the audiovisual mode, the children saw (i)  ms (experimental trials) or
+ or , ms (ﬁller-item trials) of the talker’s still face and upper chest,
+followed by (ii) an audiovisual utterance of one distractor and the
+presentation of one picture on the talker’s T-shirt ﬁve frames before the
+auditory onset of the utterance (auditory distractor lags picture), followed by
+(iii)  ms of still face and picture. For the auditory mode, the child heard
+the same event but the video track was edited to contain only the talker’s
+still face. The onset of the picture occurred in the same frame for the intact
+and non-intact distracters. The relationship between the onsets of the
+picture and the distractor, termed stimulus onset asynchrony (SOA), must
+also be considered for the picture–word task.
+
+SOA. Phonologically related distracters typically produce a maximal eﬀect
+on naming when the onset of the auditory distractor lags the onset of the
+picture with a SOA of about  ms (Damian & Martin, ; Schriefers
+et al., ). Our SOA was ﬁve frames or about  ms (frame size of 
+ms) as used previously (Jerger et al., ). Because the picture remained
+in the same frame for the intact and non-intact stimuli, however, the
+auditory non-intact onset altered the target SOA of  ms and the natural
+temporal synchrony between the visual and auditory speech onsets. Below
+we consider these issues.
+
+With regard to altering the SOA, the child literature does not provide
+evidence about whether the slight temporal shift in the SOA produced by
+the non-intact onset aﬀects picture naming results. Our experimental
+design, however, should provide data that can control for this issue. To do
+so, we will compare results for the non-intact stimuli in the auditory vs.
+audiovisual modes. The shift in the auditory onset is held constant in the
+two modes; thus any inﬂuence on picture naming due to the shift in the
+auditory onset should be controlled. This should allow us to evaluate
+whether the addition of visual speech inﬂuences performance.
+
+With regard to altering the temporal synchrony between modes, visual speech
+normally leads auditory speech (Bell-Berti & Harris, ), but the degree to
+which visual speech leads varies appreciably (ten Oever, Sack, Wheat, Bien &
+van Atteveldt, ). Thus listeners are accustomed to natural variability in
+this asynchrony. Adults synthesize visual and auditory speech into a single
+multisensory event – without any detection of the asynchrony or any eﬀect on
+intelligibility – when the visual speech leads the auditory speech by as much
+as  ms (Grant, van Wassenhove & Poeppel, ). Detecting asynchrony
+between audiovisual speech inputs (simultaneity judgments) is similar in
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+adults and ten- to eleven-year-olds when visual speech leads (Hillock, Powers &
+Wallace, ). This evidence suggests that the alternation in the SOA produced
+by the non-intact onsets will not aﬀect the children’s assimilation of an
+audiovisual distractor into a single multisensory event. Below we summarize
+our ﬁnal set of materials.
+
+Final set of items. We administered two presentations of each experimental
+item (i.e. baseline, intact, and non-intact distractors) in the audiovisual and
+auditory modes. The items were randomly intermixed with the ﬁller items
+in each mode and formed into four lists (which were presented forward or
+backward for eight variations). Each list contained  experimental (%)
+and  ﬁller-item (%) trials. The items comprising a list varied randomly
+under the constraints that (i) no onset could repeat, (ii) the intact and
+non-intact pairs (e.g. bag and /–b/ag) could not occur without at least two
+intervening items, (iii) a non-intact onset must be followed by an intact
+onset, (iv) the mode must alternate after three repetitions, and (v) all types
+of onsets (vowel, intact /b/ and /g/, non-intact /b/ and /g/, and not /b/ or /g/)
+must be dispersed uniformly throughout the lists. The presentation of items
+was counterbalanced so that % of items occurred ﬁrst in the auditory
+mode and % occurred ﬁrst in the audiovisual mode. The number of
+intervening items between the intact vs. non-intact pairs (and vice versa)
+averaged ten items.
+
+Naming responses. Participants named pictures by speaking into a
+stand. The
+unidirectional microphone mounted on an adjustable
+the
+utterances were digitally recorded. To quantify naming times,
+computer triggered a counter/timer (resolution less than one ms) at the
+initiation of a movie ﬁle. The timer was stopped by the onset of the
+participant’s vocal response into the microphone, which was fed through a
+stereo mixing
+a
+voice-operated relay (VOR). A pulse from the VOR stopped the timing
+board via a data module board. If necessary, the participant’s speaking
+level, the position of the microphone or child, and/or the setting on the 
+dB step attenuator were adjusted to ensure that
+the VOR triggered
+reliably. The counter timer values were corrected for the amount of silence
+in each movie ﬁle before the onset of the picture.
+
+and  dB step attenuator
+
+to
+
+console
+
+ampliﬁer
+
+Procedure
+The children completed the multimodal picture–word task along with other
+procedures in three sessions, scheduled approximately ten days apart. The
+order of presentation of
+the word vs. nonword conditions was
+counterbalanced across participants in each age group. Results were
+collapsed across the counterbalancing conditions. In the ﬁrst session, the
+children completed three of the word (or nonword) lists; in the second
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+session, the children completed the fourth word (or nonword) list and the
+ﬁrst nonword (or word)
+the children
+completed the remaining three nonword (or word) lists. Individual lists
+were administered in separated listening conditions. A variable number of
+practice trials preceded the presentation of each list.
+
+list; and in the third session,
+
+At the start of the ﬁrst session, a tester showed each picture on a ” x ”
+card and asked the participant to name the picture; the tester taught the
+target names of any pictures named incorrectly. Next the tester ﬂashed
+some picture cards quickly and modeled speeded naming. The child
+copied the tester. Speeded naming practice trials went back and forth
+between tester and child until the child was naming the pictures ﬂuently.
+Mini-practice trials started each of the other sessions.
+
+For formal testing, a tester sat at a computer workstation and initiated each
+trial by pressing a touch pad (out of child’s sight). The children, with a
+co-tester alongside, sat at a distance of  cm directly in front of an
+adjustable height table containing the computer monitor and loudspeaker.
+Trials that the co-tester judged ﬂawed (e.g. child squirmed out of position,
+child triggered microphone with non-speech) were deleted online and
+re-administered after intervening items. The children were told they would
+see and hear a boy whose mouth would sometimes be moving and
+sometimes not. For the words, participants were told that they might hear
+words or nonwords; for the nonwords, participants were told that they
+would always hear nonwords. We emphasized that the talking was not
+important. Participants were told to focus only on (i) watching for a picture
+that would pop up on the boy’s T-shirt and (ii) naming it as quickly and as
+accurately as possible. The participant’s view of the picture subtended a
+visual angle of ·° vertically and ·° horizontally; the view of the
+talker’s face subtended a visual angle of ·° vertically (eyebrow – chin) and
+·° horizontally (eye level). Finally, participants also completed an
+explicit repetition task (always presented after the completion of the picture–
+word task) to assess the perception of the distractor onsets.
+
+R E S U L T S
+Preliminary analyses
+‘Appendix B’ (available at http://dx.doi.org/./SX)
+details (i) the accuracy of perceiving the onsets and (ii) the quality of the
+picture–word data (e.g. number of missing trials). In addition to these results,
+we analyzed the picture–word data preliminarily to determine whether results
+could be collapsed across the diﬀerent distractor onsets (/b/ vs. /g/). Appendix
+C (available at http://dx.doi.org/./SX) details these
+results. Brieﬂy, separate factorial mixed-design analyses of variance were
+performed for the baseline and phonologically related distractors. Findings
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+Fig. . Average picture naming times for the age groups in the presence of the vowel-onset
+baseline distractors presented in the auditory (Aud) or audiovisual (AV) modes for the
+words (left) and nonwords (right). Error bars are standard errors of the mean. Each age
+group represents a range of chronological ages (see text).
+
+indicated that the diﬀerent onsets inﬂuenced results for the phonologically
+related distractors but not for the baseline distractors. Speciﬁcally, overall
+picture naming speed was facilitated slightly more for the /b/ than /g/ onset
+(– vs. – ms). The eﬀect of
+the onsets was also slightly more
+pronounced for the audiovisual than auditory mode ( vs.  ms).
+
+the diﬀerences
+
+Despite these statistically signiﬁcant outcomes,
+
+in
+performance due to onset were small and did not interact with lexical status
+(words vs. nonwords) or ﬁdelity (intact vs. non-intact). Thus, we developed
+a dual-pronged approach. For the primary analyses below, naming times
+were collapsed across the onsets to make the principal story clearer. For one
+key analysis with the collapsed onsets, however (determining whether/how
+visual speech inﬂuenced performance by assessing the diﬀerence between
+each pair of audiovisual–auditory naming times), the analysis was repeated
+separately for the individual /b/ and /g/ onsets. This analysis provides strong
+evidence for readers interested in whether/how the speechreadability of the
+onsets inﬂuenced phonological priming (e.g. the bilabial /b/ is easier to
+speechread than the velar /g/; Tye-Murray, ).
+
+Baseline picture–word naming times
+Figure  shows average picture naming times for the age groups in the presence
+of the vowel-onset baseline distractors presented in the auditory or audiovisual
+modes for the words (left) and nonwords (right). Results were analyzed with a
+factorial mixed-design analysis of variance with one between-participants
+factor (four age groups) and two within-participant factors (lexical status
+[words vs. nonwords] and mode [auditory vs. audiovisual]). Results indicated
+that picture naming times decreased signiﬁcantly as age increased (F(,) =
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+Fig. . Adjusted naming times in the age groups for the words and nonwords (lexical status:
+top vs. bottom panels) with intact and non-intact onsets (high vs. low ﬁdelity: left vs. right
+panels) presented in the auditory (Aud) and audiovisual (AV) modes. The zero of the
+ordinate represents naming times for the baseline distractors (Fig. ). Error bars are standard
+errors of the mean. Each age group represents a range of chronological ages (see text).
+
+·, MSE = ·, p < ·, partial η = ·). No other signiﬁcant eﬀect
+was observed. Picture naming times declined from about  ms in the
+ﬁve-year-olds to  ms in the twelve-year-olds for both words and
+nonwords in both modes. This ﬁnding agrees previous ﬁndings (e.g. Brooks
+& MacWhinney, ; Jerger et al., ).
+
+Phonologically related picture–word naming times
+We quantiﬁed the priming produced by the phonologically related
+distractors on picture naming with adjusted naming times, derived by
+subtracting each participant’s baseline naming times from his or her
+phonologically related naming times as in previous studies (e.g. Jerger
+et al., ). Figure  depicts the adjusted naming times in the age groups
+for words and nonwords (top vs. bottom panels) in the auditory and
+audiovisual modes. Performance is
+shown for both the intact and
+non-intact stimuli (left vs. right panels).
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+TA B L E . Summary of statistical results
+A. Untransformed data: the dependent variable is adjusted naming times
+(naming time for phonologically related distractors minus naming time for
+baseline distractors).
+
+Factors
+
+Mean square
+error
+
+F value
+
+p value
+
+partial η
+
+Age Group
+Lexical Status
+Fidelity
+Mode
+Age Group × Fidelity
+Mode × Fidelity
+Mode × Lexical Status
+Lexical Status × Fidelity
+Age Group × Lexical Status
+Age Group × Mode
+Mode × Fidelity × Lexical Status
+Age Group × Lexical Status × Fidelity
+Age Group × Mode × Lexical Status
+Age Group × Mode × Fidelity
+Age Group × Mode × Lexical Status × Fidelity
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+< ·
+< ·
+< ·
+< ·
+< ·
+< ·
+·
+ns
+ns
+ns
+·
+ns
+ns
+ns
+ns
+
+.
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+factor
+
+(four
+
+age groups)
+
+Results were analyzed with a factorial mixed-design analysis of variance
+and three
+with one between-participants
+within-participant factors (lexical status [words vs. nonwords], ﬁdelity
+[intact vs. non-intact], and mode [auditory vs. audiovisual]). Table A
+summarizes the results (signiﬁcant results are bolded). All four main
+factors signiﬁcantly inﬂuenced how the phonologically related distractors
+primed OVERALL picture naming times, with an eﬀect of (i) AGE GROUP,
+showing greater priming in the younger
+children
+[ﬁve-year-olds: – ms; seven-year-olds: – ms; nine-year-olds and
+twelve-year-olds: – ms], (ii) LEXICAL STATUS, showing greater priming
+from the nonword than the word distractors [respectively – ms vs.
+– ms], (iii) FIDELITY, showing greater priming from the intact than the
+non-intact distractors [respectively – ms vs. – ms], and (iv) MODE,
+showing greater priming from the audiovisual than the auditory distractors
+[respectively – ms vs. – ms]. The signiﬁcantly greater priming for
+the
+this pattern
+highlights a signiﬁcant inﬂuence of visual speech on performance.
+
+is particularly relevant because
+
+audiovisual mode
+
+than the older
+
+A few interactions were also signiﬁcant, but only one involved age group,
+namely an AGE GROUP X FIDELITY interaction (see Table A). As shown in
+Figure  and noted above, the intact (high-ﬁdelity) distractors primed
+OVERALL picture naming more eﬀectively than the non-intact (low-ﬁdelity)
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+B. Proportion transformed data: the dependent variable is proportion derived
+
+by dividing adjusted naming time by baseline naming time.
+
+Factors
+
+Age Group
+Lexical Status
+Fidelity
+Mode
+Age Group × Fidelity
+Mode × Fidelity
+Mode × Lexical Status
+Lexical Status × Fidelity
+Age Group × Lexical Status
+Age Group × Mode
+Mode × Fidelity × Lexical Status
+Age Group × Lexical Status × Fidelity
+Age Group × Mode × Lexical Status
+Age Group × Mode × Fidelity
+Age Group × Mode × Lexical Status × Fidelity
+
+Mean square
+
+error
+
+F value
+
+p value
+
+partial η
+
+·
+·
+·
+·
+·
+·
+·
+·
+
+·
+·
+·
+·
+·
+·
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+< ·
+< ·
+< ·
+< ·
+< ·
+< ·
+·
+·
+ns
+ns
+·
+ns
+ns
+ns
+ns
+
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+·
+
+NOTE: ns = p > ·. Results of
+a mixed-design analysis of variance with one
+between-participants factor (Four Age Groups) and three within-participants factors
+(Lexical Status: word vs. nonword; Fidelity:
+intact vs. non-intact; Mode: auditory vs.
+audiovisual). The degrees of freedom are , for all factors except those involving Age
+Group wherein the degrees of freedom are ,.
+
+distractors (compare right vs. left panels collapsed across mode and lexical
+status). This interaction arose because the relative eﬀectiveness of the
+intact vs. non-intact distractors diﬀered more in the ﬁve-year-olds (–
+ms) than in the older groups (seven-year-olds: – ms; nine-year-olds: –
+ms; twelve-year-olds: – ms). The other signiﬁcant interactions (two-way
+and three-way) shown in Table A involved mode. To clarify these
+interactions – and determine whether visual speech signiﬁcantly inﬂuenced
+performance – we quantiﬁed the diﬀerence between each pair (audiovisual–
+auditory) of adjusted naming times. For the sake of simplicity, we labeled
+all of
+(high-ﬁdelity) and
+non-intact (low-ﬁdelity) stimuli, a VISUAL SPEECH EFFECT (VSPE) for
+these analyses. We should emphasize, however,
+this VSPE is
+reﬂecting an actual ﬁlling in of some missing auditory cues for non-intact
+speech and, by contrast, an augmenting of auditory cues for intact speech.
+The diﬀerence scores are plotted in Figure  and represent the diﬀerence
+between the lines in Figure . The error bars show the % conﬁdence
+intervals for the diﬀerence scores. Note that the conﬁdence intervals do
+not provide
+and non-intact
+
+the diﬀerence scores,
+
+for both the intact
+
+intact
+
+that
+
+relevant
+
+information about
+
+the
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+Fig. . Visual Speech Eﬀect (VSPE; deﬁned by the mean diﬀerence between audiovisual–
+auditory [AV–Aud] adjusted naming times) for the intact and non-intact onsets (high vs.
+low ﬁdelity) of the words and nonwords (lexical status: left vs. right) in the age groups.
+The VSPE is reﬂecting an actual ﬁlling in of some missing auditory cues for non-intact
+speech and, by contrast, an augmenting of auditory cues for intact speech. Error bars show
+% conﬁdence intervals. ALL datapoints showed signiﬁcantly greater priming for the AV
+than Aud mode excepting one: nonwords intact, ﬁve-year-olds. Each age group represents a
+range of chronological ages (see text). ns = not signiﬁcant.
+
+conditions because only diﬀerence scores are interpretable for factors that are
+not independent.
+
+The higher order (MODE X FIDELITY X LEXICAL STATUS) interaction
+occurred because the VSPE for the non-intact onsets (Figure  collapsed
+across age groups) was greater for the nonwords than the words (i.e.
+respectively  ms vs.  ms; left vs. right panels) whereas the VSPE for
+the intact onsets did not diﬀer for the nonwords vs words (i.e. respectively
+ ms vs.  ms). Although this higher-order interaction may limit the
+the lower-order interactions, we should nonetheless
+interpretation of
+acknowledge the interactions between mode vs. ﬁdelity and vs.
+lexical
+status. The MODE X FIDELITY interaction occurred because results showed a
+greater VSPE for the non-intact than intact onsets (respectively – ms vs.
+– ms; Figure  collapsed across age groups and lexical status). The MODE
+X LEXICAL STATUS interaction emerged because results showed a larger
+VSPE for nonwords than words (respectively – ms vs. – ms; Figure 
+collapsed across age groups and ﬁdelity).
+
+visual
+
+speech signiﬁcantly
+
+With regard to whether
+
+inﬂuenced
+performance, the conﬁdence intervals (Figure ) address whether a given
+group showed a signiﬁcant VSPE (i.e. did each result diﬀer signiﬁcantly
+from zero?). If the % conﬁdence interval, or the range of plausible
+diﬀerence scores, does not contain zero, then the results are signiﬁcant.
+The conﬁdence intervals revealed a signiﬁcant VSPE for all the non-intact
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+TA B L E . Conﬁdence intervals (%) for the adjusted naming times in Figure .
+
+Mode
+Age groups
+Auditory
+
+
+
+
+
+
+Audiovisual
+
+
+
+
+
+
+Auditory
+
+
+
+
+
+
+Audiovisual
+
+
+
+
+
+
+High ﬁdelity (intact)
+
+Low ﬁdelity (non-intact)
+
+Words
+
+−, –
+–, –
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+
+Nonwords
+
+−, –
+–, –
+−, +
+−, –
+−, –
+−, –
+−, –
+−, –
+
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+−, –
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+ns
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+*
+*
+*
+*
+
+NOTE: * = signiﬁcant priming; ns = no priming; each age group represents a range of
+chronological ages (see text).
+
+and intact onsets
+ﬁve-year-olds.
+
+excepting one, namely intact nonwords
+
+in the
+
+Finally, conﬁdence intervals for the results in Figure  are also of interest
+in terms of whether the phonologically related distractors signiﬁcantly
+primed naming in each group. Our speciﬁc question was whether each
+adjusted naming time (diﬀerence score between phonologically related
+naming time and baseline naming time) in each group for each mode
+diﬀered signiﬁcantly from zero. Table  shows the % conﬁdence
+intervals. Results indicated signiﬁcant priming – the conﬁdence interval
+did not contain zero – for all datapoints in Figure  excepting one; namely
+non-intact words, auditory mode in the nine-year-olds. Although values
+outside of % conﬁdence intervals are relatively implausible, the lower
+results – non-intact nonwords,
+limits neared zero for
+auditory mode in the nine-year-olds and twelve-year-olds – a pattern
+suggesting that we should have a lesser degree of conﬁdence in the
+repeatability of these two outcomes.
+
+two signiﬁcant
+
+With regard to the above eﬀects of age, a complication is that the
+an unequivocal
+
+in the baseline naming times muddle
+
+diﬀerences
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+interpretation of the results. In other words, the greater priming eﬀects in
+the ﬁve-year-olds (Figure ) could be a result of age or of these children’s
+slower baseline naming times. A straightforward approach to controlling
+the baseline diﬀerences (see Damian & Dumay, )
+is to develop
+priming proportions. Thus we divided each participant’s adjusted naming
+times by her or his corresponding baseline naming times (i.e. [mean time
+in the phonologically related condition minus mean time in the baseline
+condition] divided by [mean time in the baseline condition]). A factorial
+mixed-design analysis of variance on these transformed data, with the
+same between- and within-participant factors, yielded the same pattern of
+results as above (see Table B). We continued to observe the signiﬁcant
+eﬀect of (i) AGE GROUP, showing greater priming in the younger than older
+children [ﬁve-year-olds: –·; seven-year-olds: –·; nine-year-olds
+and twelve-year-olds: –·], and the one age group interaction, AGE
+GROUP X FIDELITY, which was elaborated above.
+
+With regard to the interactions that the VSPE clariﬁed in Figure , the
+transformed data also continued to reveal the signiﬁcant higher-order
+interaction (MODE X FIDELITY X LEXICAL STATUS) and the two lower-order
+interactions (MODE X FIDELITY and MODE X LEXICAL STATUS). A third
+lower-order
+also achieved
+signiﬁcance (p = ·). This interaction occurred because the diﬀerence
+between priming for the intact vs. non-intact stimuli was slightly greater for
+nonwords than words, with diﬀerence scores respectively of · and ·
+for
+the
+untransformed data).
+
+interaction (LEXICAL STATUS X FIDELITY)
+
+the proportion transformed data
+
+(and  vs.  ms
+
+for
+
+Finally, it is of interest to ask whether there was a complete or partial
+Visual Speech Fill-In Eﬀect. The previous MODE X FIDELITY interaction
+indicates that phonological priming by the intact vs. non-intact distractors
+diﬀered more for the auditory (– ms vs. – ms) than audiovisual
+(– ms vs. – ms) mode (see Figure ). Clearly this interaction reﬂects
+a robust Visual Speech Fill-In Eﬀect or, as indicated previously, a greater
+VSPE for the non-intact than intact onsets. However, the current question
+is whether the Visual Speech Fill-In Eﬀect was complete or partial (in
+other words, were the non-intact audiovisual distractors as phonologically
+eﬀective as their intact counterparts).
+
+To evaluate whether phonological priming diﬀered for the non-intact vs.
+intact audiovisual distractors, we carried out orthogonal contrasts (Abdi &
+Williams, ) on the mean audiovisual adjusted naming times collapsed
+across the words and nonwords. We found signiﬁcantly greater priming
+from the intact than non-intact audiovisual distractors in all age groups:
+(ﬁve-year-olds, Fcontrast (,) = ·, MSE = ·, p < ·, partial
+η = ·; seven-year-olds, Fcontrast (,) = ·, MSE = ·, p = ·,
+partial η = ·; nine-year-olds, Fcontrast
+(,) = ·, MSE = ·,
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+Fig. . Visual Speech Eﬀect (VSPE; deﬁned by the mean diﬀerence between audiovisual–
+auditory [AV–Aud] adjusted naming times) for the /b/ and /g/ onsets of the intact and
+non-intact inputs (high vs. low ﬁdelity) in the age groups (results are collapsed across
+words and nonwords). The VSPE is reﬂecting an actual ﬁlling in of some missing auditory
+cues for non-intact speech and, by contrast, an augmenting of auditory cues for intact
+speech. Error bars show % conﬁdence intervals. ALL datapoints showed signiﬁcantly
+greater priming for the AV than Aud mode excepting one: /g/ onset, intact, ﬁve-year-olds.
+Each age group represents a range of chronological ages (see text). ns = not signiﬁcant.
+
+p = ·, partial η = ·; twelve-year-olds, Fcontrast (,) = ·, MSE =
+·, p = ·, partial η = ·). Thus even though the Visual Speech
+Fill-In Eﬀect was robustly eﬀective, the non-intact audiovisual distractors
+were not as phonologically compelling as their intact counterparts.
+
+VSPE for the individual /b/ and /g/ onsets. To probe the inﬂuence of visual
+speech as a function of the speechreadability of the onsets, we analyzed the
+VSPE scores – without collapsing across
+the onsets – with a factorial
+mixed-design analysis of variance with one between-participants factor (four
+age groups) and three within-participant factors (lexical status [words vs.
+nonwords], ﬁdelity [intact vs. non-intact], and onset [b vs. g]). There was
+no signiﬁcant eﬀect of lexical status nor were there any interactions between
+lexical status and ﬁdelity or onset; thus to graph the results, the VSPE for
+the onsets was collapsed across words and nonwords. Figure  portrays the
+collapsed VSPE for the /b/ and /g/ onsets in the high- (intact) and low-
+(non-intact) ﬁdelity conditions in the age groups, along with the %
+conﬁdence intervals.
+
+The statistical analysis revealed only one signiﬁcant result involving onset:
+a greater VSPE for the /b/ than the /g/ onset (respectively – ms vs. – ms
+when collapsed across ﬁdelity) (F (,) = ·, MSE = ·, p < ·,
+partial η = ·). The % conﬁdence intervals shown in Figure  indicated
+a signiﬁcant VSPE – the conﬁdence interval did not contain zero – for all
+datapoints excepting one; namely the intact stimuli with a /g/ onset in the
+ﬁve-year-olds.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+In short, Analysis  indicates that phonological priming OVERALL was
+signiﬁcantly greater for the audiovisual than auditory mode. Visual speech
+produced signiﬁcantly greater phonological priming in children from four
+to fourteen years, with all age groups showing a signiﬁcant eﬀect of visual
+speech for most conditions. The inﬂuence of visual speech was slightly
+greater for the /b/ than the /g/ onsets, but phonological priming did not
+show the pronounced diﬀerences that characterize identifying phonemes
+on direct measures of speechreading (see also Jordan & Bevan, ).
+Next, we investigated the eﬀect of child factors on performance as a
+function of the mode and stimulus ﬁdelity.
+
+ANALYSIS 
+
+To identify the child factors underpinning the VSPE, we analyzed results for
+the intact vs. non-intact words and nonwords as a function of the children’s
+ages and verbal abilities. Our goal was to determine which of the child
+factors – among age, vocabulary, phonological awareness, and speechreading
+(visual only speech recognition) – uniquely contributed to performance. We
+deﬁned ‘uniquely’ statistically as the independent contribution of each
+variable after controlling for the other variables (Abdi, Edelman, Valentin &
+Dowling, ). Use of this regression analytic approach, which yields part
+(aka, semi-partial) correlations,
+for identifying the critical
+individual factors underpinning speech perception by children.
+
+is essential
+
+and output phonological
+
+We investigated two basic research questions: Is the VSPE supported by
+the same unique child factors for (i) intact vs. non-intact stimuli and (ii)
+words vs. nonwords? There is little to no evidence to assist in predicting
+these results. However, we can predict the eﬀects of child factors from
+models of the picture–word task. As noted in the ‘Introduction’, the
+model of Levelt et al. () based on auditory distractors proposes that
+the phonologically related distractor (e.g. [picture]–[distractor] pair of
+[bug]–[bus]) primes picture naming by creating crosstalk between the
+input
+speech
+perception and production. The congruent distractor activates input
+phonological representations whose activation spreads to activate the
+corresponding output phonological representations, and this crosstalk
+speeds selection of the output speech segments for naming (Roelofs, ).
+These models – to the extent they generalize – predict that the quality of
+children’s phonological
+inﬂuence
+performance on our task. Again, we view visual speech as an extra
+phonetic resource as proposed by Campbell (). Finally, based on the
+hierarchical model of speech segmentation (Mattys et al., ), we
+previously proposed that children’s sensitivity to visual speech will vary
+depending on their weighting of the phonetic–phonological content. If this
+
+representations or knowledge will
+
+representations
+
+supporting
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+is so, the children’s phonological knowledge may be uniquely important to
+the VSPE, particularly for nonwords. In short, the ﬁndings below should
+provide fundamental new knowledge about the contribution of age-related
+improvements vs. the absolute excellence of selected verbal skills to speech
+perception by children.
+
+M E T H O D S
+Participants
+Participants were the four groups of Analysis .
+
+Materials and procedure
+Receptive vocabulary was estimated with the Peabody Picture Vocabulary
+Test (Fourth Edition; Dunn & Dunn, ), measuring children’s ability
+to identify a picture illustrating a spoken word’s meaning. Phonological
+awareness was estimated with three subtests of the Pre-Reading Inventory
+of Phonological Awareness (Dodd, Crosbie, McIntosh, Teitzel & Ozanne,
+), measuring children’s ability to isolate onset phonemes, recognize
+alliterative onset phonemes, and segment the phonemes within a word.
+the Children’s Audio-Visual
+Speechreading was
+Enhancement Test (Tye-Murray & Geers, ), measuring children’s
+ability to repeat words presented in the visual (and auditory) modes.
+Results for the auditory mode were not reported because all age groups
+performed at ceiling. Results for the visual mode were scored by words
+and by word onsets with visemes (visually indistinguishable phonemes)
+counted as correct. The latter results were used to quantify speechreading
+for the regression analyses.
+
+estimated with
+
+R E S U L T S
+Descriptive statistics for child factors
+Table  summarizes the average ages along with selected verbal skills in the
+groups. Vocabulary knowledge in the groups averaged about  standard
+score, a result indicating that these children had higher than average verbal
+skills. Although high verbal performance is, in general, typical of children
+in research studies,
+the
+the results to children with more ‘average’ verbal
+generalizability of
+abilities. Phonological awareness averaged % correct in the youngest
+group and about % correct in the other groups; performance ranged
+from the ceiling in all groups to a ﬂoor of about % in the ﬁve-year-olds,
+and % in the
+% in the
+twelve-year-olds. Speechreading ranged, on average,
+from % to %
+
+could potentially aﬀect
+
+such performance
+
+seven-year-olds
+
+and nine-year-olds,
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+TA B L E . Averages ages and vocabulary, phonology, and speechreading in the
+
+J E R G E R E T A L.
+
+four age groups (N = )
+
+Age groups (yrs)
+
+Measures
+
+Age (years; months)
+Receptive vocabulary
+(standard score)
+Phonological awareness
+(% correct)
+Speechreading (percent
+correct) scored by words
+scored by word onsets*
+
+
+
+N = 
+
+
+
+N = 
+
+
+
+N = 
+
+
+
+N = 
+
+; (·)
+· (·)
+
+; (·)
+· (·)
+
+; (·)
+· (·)
+
+; (·)
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+· (·)
+
+NOTE: standard deviations are in parentheses; * onsets were scored with visemes counted as
+correct (e.g. pat for bat). Each age group represents a range of chronological ages (see text).
+
+across groups when scored by words and % to % when scored by word
+onsets.
+
+Association between VSPE and child factors
+The goal of this project was explanatory – thus we focused on understanding
+which of the child factors, if any, contributed signiﬁcantly to the VSPE when
+the eﬀects of the other factors were controlled. To assess the relative
+importance of each factor in determining the VSPE, we conducted four
+regression analyses ((i) words–intact, (ii) words–non-intact, (iii) nonwords–
+intact, and (iv) nonwords–non-intact) to obtain the part (aka semi-partial)
+correlation coeﬃcients and partial F statistics (Abdi et al., ). The
+dependent variable was always the VSPE, and the independent variables
+were always the standardized scores for age, vocabulary, phonological
+awareness, and speechreading. Table  summarizes these regression
+results, along with the slope coeﬃcients, for the intact vs. non-intact
+conditions (left vs. right panels) of the words vs. nonwords (top vs.
+bottom panels).
+
+Results for the part correlations reﬂected one overall pattern for the intact
+stimuli and the non-intact words: the VSPE was uniquely inﬂuenced by the
+children’s phonological skills. In contrast to this pattern of results, the VSPE
+for the low-ﬁdelity (non-intact) nonwords was uniquely inﬂuenced only by
+
+ The intercorrelations among this set of predictor variables were as follows: (i) age vs.
+vocabulary (·), phonological awareness (·), and visual speechreading (·); (ii)
+vocabulary vs. phonological awareness (·) and visual speechreading (–·); and (iii)
+phonological awareness vs .visual speechreading (·).
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+ 
+
+C
+a
+m
+b
+r
+i
+d
+g
+e
+C
+o
+r
+e
+ 
+t
+e
+r
+m
+s
+ 
+o
+f
+ 
+u
+s
+e
+
+,
+ 
+
+a
+v
+a
+
+i
+l
+
+l
+
+ 
+
+a
+b
+e
+a
+t
+ 
+h
+t
+t
+p
+s
+:
+/
+/
+
+.
+
+w
+w
+w
+.
+c
+a
+m
+b
+r
+i
+d
+g
+e
+o
+r
+g
+/
+c
+o
+r
+e
+/
+t
+e
+r
+m
+s
+.
+ 
+
+h
+t
+t
+p
+s
+:
+/
+/
+d
+o
+
+i
+.
+
+.
+
+o
+r
+g
+/
+1
+0
+1
+0
+1
+7
+/
+S
+0
+3
+0
+5
+0
+0
+0
+9
+1
+5
+0
+0
+0
+7
+7
+X
+
+l
+
+D
+o
+w
+n
+o
+a
+d
+e
+d
+ 
+f
+r
+o
+m
+h
+t
+t
+p
+s
+:
+/
+/
+
+ 
+
+w
+w
+w
+.
+c
+a
+m
+b
+r
+i
+d
+g
+e
+o
+r
+g
+/
+c
+o
+r
+e
+
+.
+
+.
+ 
+
+U
+n
+i
+v
+e
+r
+s
+i
+t
+a
+e
+t
+s
+b
+b
+
+i
+
+l
+i
+
+ 
+
+o
+t
+h
+e
+k
+K
+a
+i
+s
+e
+r
+s
+l
+a
+u
+t
+e
+r
+n
+
+,
+ 
+
+ 
+
+ 
+
+o
+n
+2
+2
+D
+e
+c
+ 
+2
+0
+1
+8
+a
+t
+ 
+1
+4
+2
+6
+3
+0
+
+:
+
+:
+
+ 
+
+j
+
+,
+ 
+s
+u
+b
+e
+c
+t
+ 
+t
+o
+ 
+t
+h
+e
+
+TA B L E . Summary of statistical results for relation between VSPE and individual child factors
+
+High ﬁdelity (intact)
+
+Low ﬁdelity (non-intact)
+
+Variables
+
+
+
+
+
+Age
+Vocabulary
+Phonology
+Speechreading
+
+Age
+Vocabulary
+Phonology
+Speechreading
+
+Slope
+
+·
+−·
+·
+−·
+
+·
+−·
+−·
+−·
+
+Part
+
+r
+
+·
+·
+·*
+·
+
+·
+·
+·*
+·
+
+Partial
+
+F
+·
+·
+·
+·
+
+·
+·
+·
+·
+
+Words
+
+Slope
+
+p
+ns
+ns
+·
+ns
+
+ns
+ns
+·
+ns
+
+Nonwords
+
+·
+−·
+·
+−·
+−·
+−·
+−·
+·
+
+Part
+
+r
+
+·
+·
+·*
+·
+
+·
+·
+·
+·*
+
+Partial
+
+F
+·
+·
+·
+·
+
+·
+·
+·
+·
+
+p
+ns
+ns
+·
+ns
+
+ns
+ns
+ns
+·
+
+NOTES: ns = not signiﬁcant (p > ·). The part correlation coeﬃcients and the partial F statistics evaluate the variation in VSPE uniquely
+accounted for (after removing the inﬂuence of the other variables) by age, vocabulary, phonology, or speechreading of onsets. The slope
+coeﬃcients quantify the slope of the relationship between the VSPE and each individual child factor when all of the other child factors are
+held constant. The multiple correlation coeﬃcients for all of the variables considered simultaneously were as follows: words: · (intact) and
+· (non-intact); nonwords: · (intact) and · (non-intact). dfs = , for partial F and , for Multiple R.
+
+V
+I
+S
+U
+A
+L
+
+S
+P
+E
+E
+C
+H
+
+A
+N
+D
+
+C
+H
+I
+L
+D
+R
+E
+N
+
+J E R G E R E T A L.
+
+speechreading skills. In short, these results indicate that the VSPE is
+underpinned by phonological skills unless the input is an unfamiliar
+low-ﬁdelity stimulus without a lexical representation,
+in which case
+speechreading skills become uniquely contributory.
+
+D I S C U S S I O N
+This research assessed the inﬂuence of visual speech on phonological
+priming by high- vs. low-ﬁdelity auditory speech in children between four
+and fourteen years. The low-ﬁdelity stimuli were words and nonwords
+with a visual consonant + rhyme coupled to an auditory non-intact onset +
+rhyme. Our research paradigm presented the stimuli in the auditory and
+audiovisual modes to determine whether (i) the presence of visual speech
+would ﬁll in the non-intact auditory onsets and prime picture naming
+more eﬀectively than auditory speech alone and (ii) phonological priming
+would display a greater inﬂuence of visual speech for non-intact than
+intact auditory onsets. The results showed a signiﬁcant VSPE not only for
+the non-intact, but also for the intact, onsets – a pattern indicating that
+visual speech not only ﬁlled in the non-intact auditory cues but also
+supplemented the intact auditory cues. We observed a consistently
+signiﬁcant inﬂuence of visual speech on phonological priming for children
+of all ages between four to fourteen years for most conditions. The
+signiﬁcant boost by visual speech was substantial, particularly for the
+non-intact stimuli: about  ms (intact) and  ms (non-intact).
+
+Results assessing lexical status indicated that the nonwords reﬂected
+signiﬁcantly greater priming OVERALL than the words (respectively – ms
+vs. – ms). However, the lexical status of stimuli interacted with the
+mode and ﬁdelity. Results showed that the VSPE for non-intact onsets
+was signiﬁcantly greater for nonwords than words (respectively  ms vs.
+ ms), whereas the VSPE for intact onsets did not diﬀer signiﬁcantly for
+the nonwords vs. words (respectively  ms vs.  ms; Figure  collapsed
+across age groups). A greater VSPE for the non-intact nonwords than
+words is consistent with our predictions. When auditory speech has low
+ﬁdelity, visual speech assumes a relatively greater weight and thus aﬀects
+performance more. When this relatively greater weighting of visual speech
+the phonetic–
+is coupled with the relatively greater weighting of
+phonological content for nonwords, a signiﬁcantly greater inﬂuence of
+visual speech is observed for nonwords than words.
+
+With regard to the higher-order interaction – the VSPE diﬀered for
+non-intact, but not for intact, words vs. nonwords – we should note that
+our set of onsets was constrained (word or nonword stimuli consisting of
+/b/ and /g/ onsets along with ﬁller and baseline items). Thus, it is possible
+that all of
+the INTACT word/nonword onsets in this limited set had
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+suﬃcient sensory input for correct perception, and this would yield no
+diﬀerence in performance for the intact words vs. nonwords.
+
+task
+
+clearly
+
+indicate
+
+on the Garner
+
+Results for the multiple comparisons – in all age groups – indicated
+signiﬁcantly greater priming for the audiovisual than the auditory mode
+not only for all non-intact but also for all
+intact conditions excepting
+intact nonwords in the ﬁve-year-olds. A worthy question is: Why did
+these results – in contrast to the literature – show a signiﬁcant VSPE for
+intact stimuli
+in all age groups? One possibility is that the variability
+introduced by intermixing the ﬁdelity (intact vs. non-intact) and mode
+(audiovisual vs. auditory) of the stimuli may have increased children’s
+awareness of the sensory qualities of the input – thus making visual speech
+more potent. Results
+that
+participants – when they classify consonants – ﬁnd it harder to ignore
+irrelevant inputs that vary (/ba/, /bi/ vs. /ga/, /gi/) vs. those that are
+constant (/ba/ vs. /ga/). This pattern suggests that the children may have
+found it harder to ignore speech distractors that varied in both ﬁdelity and
+mode. Results on the Garner task would appear to generalize to our task
+because individuals process speech automatically (even when instructed to
+attend to picture naming) and implicitly encode and integrally process all
+speech cues, not just the target cues. To illustrate, three- to ﬁve-year-olds
+on a talker recognition task identify cartoon characters from their vocal
+signatures (e.g. pitch, speaking rate, dialect) at well above chance levels,
+indicating that these non-target speech cues were incidentally learned
+(Spence, Rollins & Jerger, ). With regard to age, Jerger and
+colleagues () have assessed performance on the Garner task with other
+types of speech cues and observed integral processing at all ages between
+three and seventy-nine years. Thus, we propose that the variability in both
+stimulus ﬁdelity and mode may have made visual speech more eﬀective at
+inﬂuencing performance. This reasoning is consistent with the proposals
+of dynamic systems theory (see ‘Introduction’; Smith & Thelen, ).
+
+Another relevant question concerned whether the non-intact audiovisual
+distractors were as phonologically eﬀective as their intact counterparts
+(in other words, was the Visual Speech Fill-In Eﬀect complete or partial?).
+Results in all age groups indicated that the intact audiovisual distractors
+produced greater phonological priming than their non-intact counterparts.
+Thus, even though the Visual Speech Fill-In Eﬀect
+for non-intact
+distractors was impressively robust, the non-intact audiovisual distractors
+were not as phonologically potent as their intact counterparts. This
+outcome agrees with previous results indicating that the visually inﬂuenced
+percept of the McGurk eﬀect is not equivalent to the percept produced by
+a comparable audiovisual syllable (Rosenblum & Saldana, ).
+
+Finally, results assessing the child factors underpinning performance
+indicated that the VSPE was uniquely inﬂuenced by phonological skills for
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+the intact words and nonwords and the non-intact words. In contrast to this
+uniﬁed pattern of results, the VSPE for non-intact nonwords was uniquely
+inﬂuenced by speechreading skills. We can speculate that the inﬂuence of
+visual speech is more data-driven – i.e., more dependent on speechreading
+the ‘data’ – when the input is unfamiliar non-intact nonwords, and more
+knowledge-driven – i.e., more dependent on phonological skills – when the
+input is intact words/nonwords or familiar non-intact words with stored
+lexical phonological patterns. Clearly the factors associated with the
+inﬂuence of visual speech on performance are multi-faceted.
+
+In conclusion, the new Visual Speech Fill-In Eﬀect extends the range of
+measures for assessing beneﬁt from visual speech by children. Results on
+the new measure document that children from four to fourteen years
+beneﬁt from visual speech during multimodal speech perception. These
+ﬁndings emphasize that children – like adults – experience a speaker’s
+multimodal utterance. Such information seems critical for incorporating
+visual speech into our developmental theories of speech perception.
+
+SUPPLEMENTARY MATERIALS
+
+For supplementary material for this paper, please visit http://dx.doi.org/.
+/SX.
+
+R E F E R E N C E S
+
+Abdi, H., Edelman, B., Valentin, D. & Dowling, W. (). Experimental design and analysis
+
+for psychology. New York: Oxford University Press.
+
+Abdi, H. & Williams, L. (). Contrast analysis. In N. Salkind (ed.), Encyclopedia of
+
+research design, –. Thousand Oaks, CA: Sage.
+
+Barutchu, A., Crewther, S., Kiely, P., Murphy, M. & Crewther, D. (). When /b/ill with /g/
+ill becomes /d/ill: evidence for a lexical eﬀect in audiovisual speech perception. European
+Journal of Cognitive Psychology , –.
+
+Beery, K. & Beery, N. (). The Beery-Buktenica Developmental Test of Visual-Motor
+Integration with Supplemental Developmental Tests of Visual Perception and Motor
+Coordination, th ed. Minneapolis: NCS Pearson, Inc.
+
+Bell-Berti, F. & Harris, K. (). A temporal model of speech production. Phonetica , –.
+Bonte, M. & Blomert, L. (). Developmental changes in ERP correlates of spoken word
+a phonological priming study. Clinical
+
+recognition during early school years:
+Neurophysiology , –.
+Brancazio, L. (). Lexical
+
+Experimental Psychology: Human Perception and Performance , –.
+
+Brooks, P. & MacWhinney, B. (). Phonological priming in children’s picture naming.
+
+inﬂuences in audiovisual speech perception. Journal of
+
+Journal of Child Language , –.
+
+Calvert, G., Campbell, R. & Brammer, M. (). Evidence from functional magnetic
+resonance imaging of crossmodal binding in the human heteromodal cortex. Current
+Biology , –.
+
+Campbell, R. (). Tracing lip movements: making speech visible. Visible Language , –.
+Damian, M. & Dumay, N. (). Time pressure and phonological advance planning in
+
+spoken production. Journal of Memory and Language , –.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+Damian, M. & Martin, R. (). Semantic and phonological codes interact in single word
+production. Journal of Experimental Psychology: Learning, Memory, and Cognition ,
+–.
+
+Dekle, D., Fowler, C. & Funnell, M. (). Audiovisual integration in perception of real
+
+words. Perception & Psychophysics , –.
+
+Desjardins, R., Rogers, J. & Werker, J. (). An exploration of why preschoolers perform
+diﬀerently than do adults in audiovisual speech perception tasks. Journal of Experimental
+Child Psychology , –.
+
+Dodd, B. (). The role of vision in the perception of speech. Perception , –.
+Dodd, B., Crosbie, S., McIntosh, B., Teitzel, T. & Ozanne, A. (). Pre-Reading Inventory
+
+of Phonological Awareness. San Antonio, TX: Psychological Corporation.
+
+Dunn, L. & Dunn, D. (). The Peabody Picture Vocabulary Test-IV, th ed. Minneapolis,
+
+Easton, R. & Basala, M. (). Perceptual dominance during lipreading. Perception &
+
+MN: NCS Pearson.
+
+Psychophysics , –.
+
+Erdener, D. & Burnham, D. (). The relationship between auditory-visual speech
+perception and language-speciﬁc speech perception at the onset of reading instruction in
+English-speaking children. Journal of Experimental Child Psychology , –.
+
+Evans, J. (). Variability in comprehension strategy use in children with SLI: a dynamical
+systems account. International Journal of Language and Communication Disorders , –.
+Fort, M., Spinelli, E., Savariaux, C. & Kandel, S. (). Audiovisual vowel monitoring and
+the word superiority eﬀect in children. International Journal of Behavioral Development ,
+–.
+
+Garner, W. (). The processing of information and structure. Potomax, MD: Erlbaum.
+Goldman, R. & Fristoe, M. (). Goldman Fristoe  Test of Articulation. Circle Pines, MN:
+
+American Guidance Service.
+
+Gow, D., Melvold, J. & Manuel, S. (). How word onsets drive lexical access and
+segmentation: evidence from acoustics, phonology, and processing. Spoken Language
+ICSLP Proceedings of the th International Conference , –.
+
+Grant, K., van Wassenhove, V. & Poeppel, D. (). Detection of auditory (cross-spectral)
+
+and auditory-visual (cross-modal) synchrony. Speech Communication , –.
+
+Green, K. (). The use of auditory and visual information during phonetic processing:
+implications for theories of speech perception. In R. Campbell, B. Dodd & D. Burnham
+(eds), Hearing by eye II: advances in the psychology of speechreading and auditory-visual
+speech, –. Hove: Taylor & Francis.
+
+Green, K. & Kuhl, P. (). The role of visual information in the processing of place and
+
+manner features in speech perception. Perception & Psychophysics , –.
+
+Hillock, A. R., Powers, A. R. & Wallace, M. T. (). Binding of sights and sounds:
+
+age-related changes in multisensory temporal processing. Neuropsychologia , –.
+
+Holt, R. F., Kirk, K. I. & Hay-McCutcheon, M. (). Assessing multimodal spoken
+word-in-sentence recognition in children with normal hearing and children with cochlear
+implants. Journal of Speech, Language, and Hearing Research , –.
+
+Huyse, A., Berthommier, F. & Leybaert, J. (). Degradation of labial information modiﬁes
+audiovisual speech perception in cochlear-implanted children. Ear and Hearing , –.
+Jerger, S., Damian, M. F., Spence, M. J., Tye-Murray, N. & Abdi, H. (). Developmental
+shifts in children’s sensitivity to visual speech: a new multimodal picture-word task. Journal
+of Experimental Child Psychology (), –.
+
+Jerger, S., Damian, M. F., Tye-Murray, N. & Abdi, H. (). Children use visual speech to
+compensate for non-intact auditory speech. Journal of Experimental Child Psychology ,
+–.
+
+Jerger, S., Martin, R. & Damian, M. F. (). Semantic and phonological inﬂuences on
+
+picture naming by children and teenagers. Journal of Memory and Language , –.
+
+Jerger, S., Pirozzolo, F., Jerger, J., Elizondo, R., Desai, S., Wright, E. & Reynosa, R. ().
+Developmental trends in the interaction between auditory and linguistic processing.
+Perception & Psychophysics , –.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+J E R G E R E T A L.
+
+Jordan, T. & Bevan, K. (). Seeing and hearing rotated faces:
+
+inﬂuences of facial
+orientation on visual and audiovisual speech recognition. Journal of Experimental
+Psychology: Human Perception and Performance , –.
+
+Lalonde, K. & Holt, R. (). Preschoolers beneﬁt from visually salient speech cues. Journal
+
+of Speech, Language, and Hearing Research , –.
+
+Levelt, W., Schriefers, H., Vorberg, D., Meyer, A., Pechmann, T. & Havinga, J. (). The
+time course of lexical access in speech production: a study of picture naming. Psychological
+Review , –.
+
+Locke, J. (). The child’s path to spoken language. Cambridge, MA: Harvard University
+
+Press.
+
+Mattys, S. (). Speech perception. In D. Reisberg (ed.), The Oxford handbook of cognitive
+
+psychology, –. Oxford: Oxford University Press.
+
+Mattys, S. L., White, L. & Melhorn, J. F.
+
+(). Integration of multiple speech
+segmentation cues: a hierarchical framework. Journal of Experimental Psychology-General
+, –.
+
+McGurk, H. & McDonald, M. (). Hearing lips and seeing voices. Nature , –.
+Mills, A. (). The development of phonology in the blind child. In B. Dodd &
+R. Campbell (eds), Hearing by eye: the psychology of lipreading, –. London: Erlbaum.
+Nath, A. & Beauchamp, M. (). Dynamic changes in superior temporal sulcus connectivity
+
+during perception of noisy audiovisual speech. Journal of Neuroscience , –.
+
+Roelofs, A. (). The WEAVER model of word-form encoding in speech production.
+
+Cognition , –.
+
+Rosenblum, L. & Saldana, H. (). Discrimination tests of visually inﬂuenced syllables.
+
+Perception & Psychophysics , –.
+
+Ross, L., Molholm, S., Blanco, D., Gomez-Ramirez, M., Saint-Amour, D. & Foxe, J. ().
+The development of multisensory speech perception continues into the late childhood
+years. European Journal of Neuroscience , –.
+
+Ross, M. & Lerman, J. (). Word Intelligibility by Picture Identiﬁcation. Pittsburgh:
+
+Stanwix House, Inc.
+
+Sams, M., Manninen, P., Surakka, V., Helin, P. & Katto, R. (). McGurk eﬀect in
+Finnish syllables, isolated words, and words in sentences: eﬀects of word meaning and
+sentence context. Speech Communication , –.
+
+Schriefers, H., Meyer, A. & Levelt, W. (). Exploring the time course of lexical access in
+language production: picture-word interference studies. Journal of Memory and Language
+, –.
+
+Seewald, R. C., Ross, M., Giolas, T. G. & Yonovitz, A. (). Primary modality for speech
+perception in children with normal and impaired hearing. Journal of Speech and Hearing
+Research , –.
+
+Sekiyama, K. & Burnham, D. (). Issues in the development of auditory-visual speech
+
+perception: adults, infants, and children. Interspeech-, –.
+
+Sekiyama, K. & Burnham, D. (). Impact of language on development of auditory-visual
+
+speech perception. Developmental Science , –.
+
+Sekiyama, K. & Tohkura, Y. (). McGurk eﬀect in non-English listeners: few visual
+eﬀects for Japanese subjects hearing Japanese syllables of high auditory intelligibility.
+Journal of the Acoustical Society of America , –.
+
+Smith, L. & Thelen, E. (). Development as a dynamic system. Trends in Cognitive
+
+Sciences , –.
+
+Spence, M., Rollins, P. & Jerger, S. (). Children’s recognition of cartoon voices. Journal
+
+of Speech, Language, and Hearing Research , –.
+
+Stevenson, R. A., Wallace, M. T. & Altieri, N. (). The interaction between stimulus
+factors and cognitive factors during multisensory integration of audiovisual speech.
+Frontiers in Psychology , . doi: ./fpsyg...
+
+Storkel, H. & Hoover, J. (). An on-line calculator to compute phonotactic probability and
+neighborhood density based on child corpora of spoken American English. Behavior
+Research Methods (), –.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+V I S U A L S P E E C H A N D C H I L D R E N
+
+ten Oever, S., Sack, A. T., Wheat, K. L., Bien, N. & van Atteveldt, N. (). Audio-visual
+onset diﬀerences are used to determine syllable identity for ambiguous audio-visual
+stimulus pairs. Frontiers in Psychology : . doi: ./fpsyg...
+
+Tomiak, G., Mullennix, J. & Sawusch, J. (). Integral processing of phonemes: evidence
+for a phonetic mode of perception. Journal of the Acoustical Society of America , –.
+Tremblay, C., Champoux, R., Voss, P., Bacon, B., Lepore, F. & Theoret, H. (). Speech
+and non-speech audio-visual illusions: a developmental study. PLoS One (), e.
+doi:./journal.pone..
+
+Tye-Murray, N. (). Foundations of aural rehabilitation: children, adults, and their family
+
+members, th ed. Boston: Cengage Learning.
+
+Tye-Murray, N. & Geers, A. (). Children’s Audio-Visual Enhancement Test. St Louis,
+
+MO: Central Institute for the Deaf.
+
+Vatakis, A. & Spence, C. (). Crossmodal binding: evaluating the ‘unity assumption’ using
+
+audiovisual speech stimuli. Perception & Psychophysics (), –.
+
+Vitevitch, M. & Luce, P. (). A web-based interface to calculate phonotactic probability
+for words and nonwords in English. Behavior Research Methods, Instruments &
+Computers , –.
+
+Wightman, F., Kistler, D. & Brungart, D. (). Informational masking of speech in
+children: auditory-visual integration. Journal of the Acoustical Society of America ,
+–.
+
+
+
+Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:30, subject to the
+Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S030500091500077X
+
+

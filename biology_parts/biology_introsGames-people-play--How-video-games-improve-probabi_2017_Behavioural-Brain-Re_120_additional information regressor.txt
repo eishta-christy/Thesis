@@ -1,0 +1,166 @@
+
+Probabilistic categorization learning requires a coordinated interaction between declarative and non-declarative memory.  Over the past
+20 years, evidence has accumulated that probabilistic learning involves
+distinct anatomically and functionally segregated memory systems [1]. 
+It has been discussed whether these systems interact in a competitive
+[2,3] or cooperative manner [4].  Brain regions which are involved in
+cognitive control, performance integration and reward learning [5–9]
+represent additional factors aﬀecting the probabilistic categorization
+learning process.  With respect to memory, the interplay of the medial
+temporal lobe [MTL] and the basal ganglia is in the focus of research
+[2].  Declarative memory involves the hippocampus which supports the
+acquisition of ﬂexible knowledge in contrast to more rigid striatumdependent memory systems [10,11]. 
+The weather prediction task (WPT) is a well-known probabilistic
+learning task [5–7,2].  In this task, participants are asked to classify one
+to three (out of four) diﬀerent cue cards into one of two weather categories (rain or sun) based on feedback they receive for their actions. 
+The WPT is a well-established probabilistic categorization learning task
+that demonstrates the diﬀerential contributions of declarative (mediated by the hippocampus) and nondeclarative (mediated by the basal
+ganglia) memory processes [12].  Patients with basal ganglia disorders
+show reduced performances in the WPT, especially in the early probabilistic learning phase [5].  However, amnesic patients with damage to
+the hippocampus perform comparably to controls in the early phases of
+learning, presumably because the declarative memory system interferes
+with the nondeclarative regularities detected by the nondeclarative
+memory system [6]. 
+Additionally, further studies focused on the contribution of declarative knowledge to WPT performance [8,13,9,14].  Schwabe and
+Wolf [9], for instance, demonstrated a positive correlation between
+WPT task performance and hippocampal activation.  It seems that the
+hippocampus-based learning and the hippocampal activity play an
+important role in the categorization learning process and support the
+learning performance in a probabilistic learning task. 
+The hippocampal activity as well as the hippocampal based memory
+processing and hippocampal based behavior can be in turn modiﬁed by
+⁎ Corresponding author. 
+E-mail address: Sabrina. Schenk@rub. de (S.  Schenk). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 027
+Received 3 March 2017; Received in revised form 30 May 2017; Accepted 17 August 2017
+Available online 24 August 2017
+0166-4328/ 
+S.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+Fig.  1.  Modiﬁed version of the weather prediction task. 
+the environmental enrichment [15–17].  This eﬀect might be mediated
+by enhanced visual exploration of enriched environments, which in
+turn promotes hippocampal neuroplasticity and hippocampus-dependent learning and declarative memory.  Based on these ﬁndings a
+modiﬁcation of the environmental enrichment or a visual exploration
+training should enhance hippocampal-based learning and behavior as
+well as the related hippocampal activity.  Since the hippocampus responds to both the real and the virtual environment in a comparable
+way [18,19], it should be possible to use video games as an eﬀective
+training method to enhance hippocampal-based learning and behavior
+as well as the related hippocampal activity. 
+In previous research, playing video games has already been linked
+to improved attention resources, visual imagery, problem solving, visual processing, response speed [20–22] and cognitive ﬂexibility [23]. 
+Moreover and in accordance with the positive eﬀect of the environmental enrichment, Clemenson and Stark [17] demonstrated that video
+games provide a strong environmental enrichment, which leads to enhanced memory performance on a task that is thought to tax hippocampal processing.  All these cognitive functions, which can be improved by video games, are important factors within the probabilistic
+categorization learning process. 
+Using the WPT, the current study investigated the eﬀects of video
+game playing on the performance in a probabilistic categorization task,
+the related usage of learning and memory processes as well as other
+cognitive functions and its neural correlates, which represents a widely
+unexplored area in gaming research up to now.  We used a modiﬁed
+version of the WPT (see [9]) that include an equal condition (50/50%
+probabilities) as well as more certain (probabilities in the 80/20%
+range) and less certain conditions (probabilities in the 70/30% and 60/
+40% range).  In contrast to the uncertain conditions, which should address the nondeclarative learning and activate the implicit memory
+system (mediated by the basal ganglia), the certain condition should be
+related to a more pronounced usage of declarative knowledge and
+should additionally activate the explicit memory system (mediated by
+the MTL, especially the hippocampus). 
+Based on previous ﬁndings, we expected that video gamers show
+better categorization performances due to a more pronounced usage of
+declarative knowledge, hippocampus-dependent learning and memory
+processes.  More speciﬁcally, we aimed to investigate to which degree
+probabilistic categorization learning is positively mediated by the assumed enhanced hippocampus-depending learning of video gamers that
+is due to the strong environmental enrichment of video games.  To
+measure these eﬀects of video game playing the categorization performance in the WPT, the brain activity and the explicit knowledge of
+the task and their relation to each other were assessed. 
+<Middle> Materials and methods. 
+2. 1.  Participants
+The current study included ﬁfteen healthy right-handed video gamers (13 male and 4 female; mean age: 24. 6 years; SD: 3. 0 years) and
+ﬁfteen healthy right-handed non-gamers (13 male and 4 female; mean
+age: 27. 5 years; SD: 4. 1 years).  The subjects were recruited through
+advertisements at the Ruhr University and in local newspapers.  The
+group membership was deﬁned on the basis of a screening questionnaire.  Video gamers were characterized by playing more than 15 h
+of video games like “starcraft” or other action-based videogames per
+week.  Non-gamers, with low or without any video game experience,
+were deﬁned by playing less than 4 h per week. 
+All participants had normal or corrected to normal vision and no
+current or past mental illnesses.  The study was performed in accordance
+with ethical standards laid down in the declaration of Helsinki and
+written informed consent was obtained from all subjects.  The investigation was approved by the local Ethics Committee ofPsychological Faculty of the Ruhr University Bochum, Germany. 
+2. 2.  Stimuli and task
+Subjects were scanned while performing a modiﬁed version of the
+WPT ([5,6,2]; see Fig.  1).  The experiment was performed using Presentation® software (Neurobehavioral Systems, Inc. , Albany, CA, USA)
+and MRI-suitable LCD video goggles (Resonance Technology Company,
+Inc. , Northridge, CA, USA) with a resolution of 800 × 600 pixels, registering the responses with an MRI-suitable keypad. 
+Before the WPT started, participants were instructed that on each
+trial one to three (out of four) diﬀerent cue cards will appear and that
+they should learn to predict the weather based on the presented cards. 
+Participants classiﬁed card stimulus sets as predictions of the weather
+(sun/rain) and got feedback (positive/negative) accordingly to their
+choice.  Each card pattern was associated with ﬁxed probabilities for
+more/less probable weather outcomes (probabilities of 50/50%; 60/
+40%; 70/30%; 80/20%).  The diﬀerent card combinations and positions
+were randomly presented and associated with the two possible weather
+outcomes.  The experiment consisted of two sessions of 100 trials each,
+resulting in 200 trials over the course of the experiment (see [9]).  After
+completion of the WPT, the participants answered a self-designed postexperimental questionnaire to assess cue usage and declarative
+knowledge about the WPT.  The questionnaire was completed outside
+the scanner and contained 14 items that assessed explicit task knowledge about the WPT.  For example, participants were asked which card
+or card combinations were most strongly associated with the two
+weather possibilities.  For 12 items, one point was given for each correct
+answer.  For the remaining two items that contained two sub-questions
+up to two points were given.  The score reached in the post-experimentalS.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+Fig.  2.  Choices of the more probable weather outcomes (in %) over all
+conditions and separated for each condition.  One asterisk representing a
+signiﬁcance threshold of p ≤ . 05, two asterisks representing p ≤ . 01,
+three asterisks representing p ≤ . 005 and four asterisks representing
+p ≤ . 001.  Error bars represent the standard error of the mean [SE]. 
+questionnaire was used as a measure of declarative knowledge.  Subjects
+could reach up to 16 points in the explicit knowledge questionnaire. 
+2. 3.  Image acquisition
+The experiment was performed using a Philips 3T Achieva MRI
+scanner with a 32 channel SENSE head coil.  In order to create a mean
+structural image and to overlay activations, a T1 weighted structural
+image was acquired for each participant at the beginning of the experimental
+size = 1 × 1 × 1 mm,
+TE = 3. 8 ms, ﬂip angle = 8°).  T2* weighted EPIs were acquired in an
+ascending sequence of 32 slices (voxel size = 1. 79 × 1. 79 × 3 mm,
+TR = 2000 ms, TE = 30 ms).  The ﬁrst ﬁve dummy images obtained at
+the beginning of each scanning session were discarded to allow for MRI
+signal stabilization. voxelslices,
+2. 4.  Data analyses
+All data analyses described below included the covariate “gender”
+in order to take into account of possible gender eﬀects. 
+For the analysis of the behavioral data, Greenhouse Geisser and
+Bonferroni corrected repeated measures ANCOVAs with the covariate
+“gender” and the factors “group” (video gamers vs.  non-gamers) and
+“condition” (probabilities of 60/40%; 70/30%; 80/20%) were applied
+for the percentage of the more probable weather outcomes within and
+between groups.  Additionally, two-tailed t-tests were used to resolve
+signiﬁcant interactions.  Furthermore, separate ANCOVAs with the
+covariate “gender” and the factor “condition” (probabilities of 60/40%;
+70/30%; 80/20%) were calculated for both groups.  Two-tailed t-tests
+were applied to resolve signiﬁcant interactions.  An independent samples t-test was conducted for a group comparison regarding the declarative knowledge about the WPT, as represented by the total score
+reached in the post-experimental questionnaire. 
+The functional and structural images were preprocessed using the
+latest release of SPM 8 (http://www. ﬁl. ion. ucl. ac. uk/spm/software/
+spm8).  Preprocessing included slice time correction to the middle slice
+of each volume, realignment and unwarping as well as co-registration
+of the T1-weighted image to the mean T2*-weighted image.  Structural
+images were segmented into gray matter, white matter, and cerebrospinal ﬂuid.  The gray matter images were normalized to a standard
+anatomical
+template image (Montreal Neurologic Institute, MNI). 
+Normalized gray matter images were used for normalization of the
+structural and functional images.  Finally, data were spatially smoothed
+using an isotropic 8 mm Gaussian kernel (full-width-half-maximum,FWHM). 
+The preprocessed data were submitted into a ﬁrst level analysis
+where the blood oxygenation level dependent signal (BOLD) was
+modeled with the canonical hemodynamic response function (HRF).  A
+high-pass ﬁlter at 128 s was used to remove low frequency drifts.  Nine
+regressors were deﬁned on the ﬁrst level: choices of the more and less
+probable outcomes for the four card set probability conditions (probabilities of 50/50%; 60/40%; 70/30%; 80/20%), a ﬁxation regressor as
+baseline, and one additional information regressor to increase the
+amount of explained variance.  The additional information regressor
+included blank slices and feedback.  Choices of the more probable outcome of the 60/40% and 80/20% conditions were contrasted against
+the ﬁxation regressor. 

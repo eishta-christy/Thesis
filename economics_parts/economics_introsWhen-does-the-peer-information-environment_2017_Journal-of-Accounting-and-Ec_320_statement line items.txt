@@ -1,0 +1,319 @@
+ 
+This paper examines whether and when the information environment of peer ﬁrms in 
+an industry affects the cost of capital for other ﬁrms in the industry.  We predict and ﬁnd 
+that the peer information environment is negatively associated with a ﬁrm’s cost of capital 
+when there is less publicly available ﬁrm-speciﬁc information and this negative association 
+shrinks as the amount of ﬁrm-speciﬁc information increases.  This paper provides evidence 
+that information about peer-ﬁrms has externalities on the cost of capital for related ﬁrms 
+and that these externalities are time-varying.  
+We examine whether the information environment of peer ﬁrms (henceforth, peer information) affects the cost of capital 
+for related ﬁrms in an industry and whether the importance of this effect depends on the amount of information available 
+directly from the related ﬁrm (henceforth, ﬁrm information).  Speciﬁcally, we hypothesize that peer information has a larger 
+economic effect on a ﬁrm’s cost of capital when ﬁrm information is scarce, and that these externalities reduce when the 
+amount of ﬁrm information increases and substitutes for peer information.  Recent research ﬁnds evidence that a ﬁrm’s
+disclosure has important economic consequences for its peers.  For example, a ﬁrm’s disclosure inﬂuences peer ﬁrms’ (i) 
+stock prices, (ii) stock liquidity, and (iii) investment decisions (e. g. , Foster, 1981.  Bushee and Leuz, 2005.  Badertscher Name, 
+2013 ).  We extend this literature by examining temporal changes in the importance of peer effects from when ﬁrms are 
+newly public with limited ﬁrm information to when ﬁrms have a longer history of public disclosure and relatively more 
+ﬁrm information.  
+Our hypothesis is based on the idea that ﬁrms in an industry are affected by similar economic forces (e. g. , common 
+demand/supply shocks).  Thus, peer disclosures have spillover effects that reduce information asymmetry between managers 
+and investors, as well as among investors, for all ﬁrms operating in that industry.  Such reductions in information asymmetry 
+can reduce ﬁnancing costs (in both debt and equity markets), as illustrated in corporate ﬁnance models with adverse selection ( Leland and Pyle, 1977.  Myers and Majluf, 1984.  Rock, 1986 ) and in asset pricing models with imperfect competition 
+( Lambert Name, 2012 ).  
+To the extent peer information affects information asymmetry and ﬁnancing costs, we predict that such externalities vary 
+over time as a function of the amount of ﬁrm information available to investors.  Our intuition is similar to that presented in 
+other streams of literature.  For example, models in the executive compensation literature (e. g. , Banker and Datar, 1989 ) show 
+that the weights placed on different performance evaluation signals are proportional to relative “signal-to-noise” ratios.  In 
+our setting, we expect investors to put less weight on peer information (the “noisy” signal) as more information becomes 
+2 Nevertheless, ex ante there are several reasons why ﬁrm discloavailable from the disclosing ﬁrm (the “precise” signal).  
+sures might not substitute for peer information.  For example, ﬁrm disclosures are often affected by managerial incentives to 
+manipulate them, which can make them noisy and potentially less reliable than peer information.  or peer disclosures could 
+complement (rather than substitute for) ﬁrm disclosures by providing richer context to interpret ﬁrm disclosures ( Section 2 
+expands on these arguments).  
+We test our hypothesis using private ﬁrms that raise public capital (debt or equity) for the ﬁrst time.  A principal beneﬁt 
+of our setting is that private ﬁrms are not subject to SEC reporting requirements until they raise public capital.  as a result, 
+there is (i) little publicly available ﬁrm information prior to the capital issuance and (ii) a large increase in the amount of 
+publicly available ﬁrm information in the years immediately following the capital issuance.  Thus, this setting is especially 
+powerful for studying the substitution between peer information and ﬁrm information as the amount of ﬁrm information 
+rapidly increases while the amount of peer information stays relatively constant.  In addition, the relative lack of ﬁrm information in the initial year of capital issuance makes it more likely that peer information has a ﬁrst-order effect on the cost 
+of capital.  
+Drawing from the theoretical models of disclosure externalities (e. g. , Dye, 1990.  Admati and Pﬂeiderer, 20 0 0 ), we construct our measure of peer information to capture.  (i) the relevance of peer ﬁrms’ disclosures to non-disclosing ﬁrms and 
+(ii) the aggregate amount of information available about peer ﬁrms.  We proxy for the relevance of peer information within 
+an industry using the degree of earnings synchronicity in the industry.  Our intuition is that ﬁrms in industries with greater 
+earnings synchronicity are more likely to be economically linked and therefore information about one ﬁrm’s future prospects 
+is more likely to convey information about peer ﬁrms’ prospects.  We proxy for the aggregate amount of industry information 
+available about peer ﬁrms using two proxies.  Our ﬁrst proxy is the percentage of public ﬁrms (relative to the total number 
+of ﬁrms, public plus private) operating in the industry ( Badertscher Name, 2013 ).  Since publicly owned ﬁrms disclose both 
+mandatory and voluntary information to the public and are analyzed by information intermediaries, there is an extensive 
+amount of public information about these ﬁrms that is not available for private ﬁrms.  Therefore, the composition of public 
+and private ﬁrms in an industry affects the information environment in that industry.  Our second proxy for aggregate industry information is the analyst coverage for ﬁrms in the industry (measured as the average number of forecasts per ﬁrm).  
+Prior research ﬁnds that analysts not only supply information about ﬁrm prospects but also demand a greater quantity and 
+quality of information from the ﬁrms they cover (see Beyer Name, 2010 for a review of the literature), thereby improving the 
+industry information environment.  
+We initially focus on the public debt issuances of private ﬁrms because proxies for the cost of debt (such as bond yield 
+spreads) are relatively less subject to measurement error concerns than proxies for the cost of equity capital, which are 
+notoriously noisy ( Elton, 1999.  Easton and Monahan, 2005 ).  We ﬁnd that peer information is negatively associated with
+bond yield spreads (henceforth, “bond yields” for expositional ease) at the time of issuance, but this association gradually 
+declines over time.  Speciﬁcally, a one standard deviation increase in our proxy for peer information lowers bond yields by 
+17% in the ﬁrst year of issuance.  The effect declines to 3% in the third year after the bond issuance.  Similarly, when we 
+break down our data into quarterly, rather than annual, observations, we observe a gradual decline in the relation between 
+peer information and bond yields over the 12 quarters following the bond issuance.  These results are consistent with our 
+prediction that peer information lowers the cost of capital for other ﬁrms in the industry when ﬁrm information is scarce 
+and this effect declines as ﬁrm information increases.  
+Next, we conduct two cross-sectional tests to further validate our inference that peer information and ﬁrm information 
+serve as substitutes.  Speciﬁcally, we examine whether the effect of peer information on bond yields is smaller for ﬁrms with 
+richer initial ﬁrm-speciﬁc information environments.  We proxy for the amount of ﬁrm information using (i) the level of 
+disaggregation in ﬁrms’ ﬁnancial statements immediately before the bond issuance ( Chen Name, 2015 ), and (ii) bond trading 
+volume in the ﬁrst quarter of its issuance, which proxies for the amount of private information aggregated into prices via 
+the trading process (e. g. , Grossman and Stiglitz, 1980.  Kyle, 1985 ).  Consistent with our prediction that peer information 
+serves as a substitute for ﬁrm information, we ﬁnd that the effect of peer information on bond yields is smaller when ﬁrms 
+have richer ﬁrm-speciﬁc information environments.  
+There are two primary concerns with our analyses thus far.  First, our proxy for peer information, which is constructed at 
+the industry-year level and is fairly constant over time, could be picking up industry characteristics (besides peer information) that affect the cost of capital.  Second, our analyses focus on endogenous capital raising events and thus our inferences 
+could be confounded by a correlation between our proxy for peer information and ﬁrms’ capital raising incentives.  We 
+conduct three tests in the bond setting to mitigate these concerns.  The common theme of these tests is that we focus on 
+settings in which ﬁrm information is rich and, as a result, peer information is predicted to be less important.  Showing that 
+peer information matters less in certain settings mitigates the concern that our proxy for peer information is associated 
+with bond yields due to an omitted correlated variable or a mechanical effect.  
+First, we compare the effect of peer information on bond yields for our sample of private ﬁrms to that observed for 
+a matched sample of public ﬁrms that issue bonds in the same industry-year, thereby holding peer information constant.  
+Since public ﬁrms have richer information environments due to SEC disclosure requirements, voluntary disclosures, and 
+information intermediary coverage, the importance of peer information for public ﬁrms is likely to be lower than that for 
+observably similar private ﬁrms.  Consistent with this prediction, we ﬁnd that peer information has an insigniﬁcant effect on 
+the yields of bonds issued by public ﬁrms.  
+Second, we focus on a subsample of private ﬁrms that simultaneously issue both public bonds and bank loans.  Unlike 
+bond markets, bank ﬁnancing is characterized by relationships between lenders and borrowers, where lenders have significant access to (hard and soft) non-public information about the borrowing ﬁrm (e. g. , Diamond, 1984.  Boot, 20 0 0 ).  As a 
+result, peer information is likely less relevant to pricing private debt than to public debt.  This is precisely what we ﬁnd.  
+peer information is not related to the cost of private debt but is related to the cost of public debt, holding the borrower and 
+year constant.  
+Third, we exploit an institutional feature of our sample which consists of bonds issued under Rule 144A.  Bonds issued 
+under Rule 144A are initially marketed to institutional investors as private placements and are only subsequently registered 
+with the SEC.  As a result, ﬁrms issuing bonds under Rule 144A are not required to comply with SEC disclosure requirements 
+until they register the bond with the SEC.  If the temporal change in the relation between peer information and bond yields 
+is due to changes in the amount of ﬁrm information available to investors (as we predict), we should not observe a decay 
+in the relation between peer information and bond yields between the time of the bond’s issuance and its SEC registration.  
+Rather, the decay in this relation should occur only after the bond is registered with the SEC.  Consistent with this prediction, 
+we ﬁnd that the effect of peer information on bond yields begins to fade only following SEC registration.  
+We next turn to the equity market tests.  We ﬁrst examine a sample of private ﬁrms that issue public equity for the ﬁrst 
+time.  Similar to the bond setting, initial public offering (IPO) ﬁrms are also subject to SEC disclosure requirements only after 
+their equity issuance and, as a result, experience a substantial increase in ﬁrm information post-IPO.  We document three 
+results that parallel the ﬁndings above.  First, we ﬁnd that peer information is negatively associated with bid-ask spreads 
+(our proxy for the adverse selection component of the cost of capital) in the ﬁrst year of a ﬁrm’s IPO, but that this relation 
+monotonically decreases over time in the three years subsequent to the IPO.  Second, the effect of peer information on bidask spreads in the ﬁrst year of a ﬁrm’s IPO is smaller in the cross-section of IPOs with richer initial ﬁrm-speciﬁc information 
+environments.  Third, analogous to our test comparing private ﬁrms issuing bonds to public ﬁrms issuing bonds, we predict 
+and ﬁnd that peer information affects the bid-ask spreads of IPO ﬁrms (and that this effect decays over time), but there is 
+no such effect for a matched sample of seasoned equity offering (SEO) ﬁrms.  
+To further alleviate endogeneity concerns, we test whether the effect of peer information on bid-ask spreads increases as 
+ﬁrm information decreases during pre-SEO quiet periods.  The Securities Act of 1933 restricted ﬁrms from disclosing information prior to their equity offering, which is popularly known as “gun-jumping” regulation.  
+Consistent with this regulation affecting disclosure behavior, prior research ﬁnds that ﬁrms reduce their voluntary disclosure activity before SEOs (i. e. , during the SEO quiet period) and bid-ask spreads increase during this period ( Shroff Name, 2013 ).  We predict and ﬁnd that 
+the increase in bid-ask spreads during SEO quiet periods documented in prior research is signiﬁcantly smaller for ﬁrms 
+with richer peer information environments.  Importantly, the effect of peer information on bid-ask spreads during the quiet 
+period disappears after the SEC relaxed quiet period disclosure restrictions with the Securities Offering Reform in 2005.  
+This paper contributes to the literature on the externalities or peer effects of disclosure.  Early evidence documents the 
+presence of intra-industry information transfers (i. e. , instances where one ﬁrm’s disclosures affect the stock prices of other, 
+related ﬁrms).  For example, prior studies document information transfers arising from news contained in earnings announcements ( Foster, 1981 ), management forecasts ( Baginski, 1987.  Han Name, 1989 ), and transfers between buyers and suppliers 
+in the same supply chain ( Olsen and Dietrich, 1985.  Pandit Name, 2011 ).  More recent studies tackle the question of whether 
+disclosures generate positive or negative externalities related to ﬁnancing and investment decisions (see e. g. , Gleason Name, 
+2008.  Durnev and Mangen, 2009.  Badertscher Name, 2013.  Chen Name, 2013.  Shroff Name, 2014 ).  Our paper builds on prior 
+research by focusing on a speciﬁc idea that has been overlooked by past studies.  Speciﬁcally, we hypothesize and show 
+that the importance of externalities from peer-ﬁrm disclosures varies over time and is a function of the relative amounts 
+of ﬁrm-speciﬁc vs.  peer information available to investors.  This focus on dynamic effects is in contrast to prior research, 
+which assumes that the economic importance of externalities is constant over time.  Our evidence informs the debate on the 
+merits of ﬁnancial reporting regulation because the presence of externalities is one of the primary rationales for disclosure 
+regulation ( Leuz and Wysocki, 2016.  Minnis and Shroff, 2017 ).  
+Our paper is also related to recent research examining the substitutive nature of ﬁrm- and peer-disclosures.  For example, 
+Baginski and Hinson (2016) document that the cessation of quarterly management forecasts by a ﬁrm is associated with a 
+subsequent inception of quarterly management forecasts by peer ﬁrms, suggesting that ﬁrm- and peer-earnings forecasts are 
+substitutes.  Similarly, Arif and De George (2017) ﬁnd that European ﬁrms that report on a semi-annual basis have greater 
+information transfers from their U. S.  peers during (European ﬁrms’) non-reporting quarters than during their reporting quarters, which is also evidence consistent with a substitutive relation between ﬁrm- and peer-disclosure.  
+Finally, our paper is related to a nascent stream of literature examining how the market learns about an agent’s ability by observing the agent’s behavior over time (see e. g. , Pan Name, 2015.  Hermalin and Weisbach, 2017 ).  For example, 
+Pan Name (2015) show that when a new CEO takes oﬃce, uncertainty about the quality of the new leadership is high, and 
+thus news about the ﬁrm contains information about the CEO’s unknown ability (in addition to cash ﬂows news), magnifying stock return volatility.  Over time, as the CEO’s ability and ﬁt within the company becomes better known to investors, the 
+market’s update from a particular signal of her quality becomes smaller, leading volatility to decline.  In our setting, a greater 
+reliance on ﬁrm information in place of peer information over time is consistent with the idea that investors/markets learn 
+about the disclosure practices of a ﬁrm by observing a longer time-series of the ﬁrm’s disclosure following its ﬁrst capital 
+raising event (see also Lang, 1991 ).  While our goal in this paper is not to test whether investor learning is the sole (or 
+even primary) driver of the documented evidence, our ﬁndings are consistent with such a learning hypothesis and we hope 
+future research can provide further evidence speciﬁc to the learning hypothesis.  
+2.  Hypothesis development.  
+Our hypothesis is predicated on three arguments.  (i) adverse selection concerns inﬂuence ﬁnancing costs, (ii) peer information reduces adverse selection costs, and (iii) ﬁrm information is more informative than peer information with respect 
+to valuing a company.  We discuss each of these arguments in more detail below to motivate our hypothesis but note that 
+insofar as any of them are untrue, we might not ﬁnd evidence supporting our hypothesis.  
+The idea that adverse selection affects ﬁnancing costs is well founded in the corporate ﬁnance literature.  In the context of IPOs, Beatty and Ritter (1986) and Rock (1986) show that information asymmetry among investors creates uncertainty that is priced in equilibrium and increases ﬁnancing costs.  In a similar vein, Myers and Majluf (1984) show that 
+adverse selection affects ﬁnancing costs in secondary offerings as well as in debt offerings.  Subsequent work shows that 
+information asymmetry can also raise the cost of capital in an “asset pricing” model with multiple securities.  For example, 
+Lambert Name (2012) show that in imperfectly competitive settings, information asymmetry between investors creates adverse selection costs, which increase expected returns.  These theoretical arguments are supported by numerous empirical 
+papers (see Beyer Name (2010) and Dechow Name (2010) for reviews of the literature).  
+The second argument underlying our hypothesis is that peer information reduces the adverse selection costs of related 
+ﬁrms.  The idea is that, to the extent that ﬁrms in an industry are affected by similar economic forces, greater disclosure 
+by peer ﬁrms can have spillover effects for all ﬁrms operating in that industry.  For example, Dye (1990) and Admati and 
+Pﬂeiderer (20 0 0) develop analytical models that show positive externalities in the form of liquidity spillovers in capital 
+markets.  Speciﬁcally, they show that if ﬁrm values and cash ﬂows are correlated, the disclosures of one ﬁrm are useful to 
+6 Overall, prior analytical studies 
+investors in valuing other ﬁrms and increase investors’ demand for shares in other ﬁrms.  
+provide evidence that peer information helps reduce information asymmetry in other ﬁrms, suggesting that it can have 
+positive capital market effects.  
+The  ﬁnal  argument  underlying  our  hypothesis  is  that  the  relative  importance  of  peer  information  is  a  function  of 
+the  amount  of  ﬁrm  information  available  to  help  reduce  adverse  selection  costs.   In  the  context  of  ﬁrm  information, 
+Lang (1991) shows that as investors observe a longer time-series of earnings (i. e. , “more ﬁrm information” in the parlance 
+of our paper), uncertainty about future earnings is reduced and investors respond more strongly to ﬁrm information.  To 
+the extent that ﬁrm information and peer information are substitutes, we expect the importance of peer information to decrease as the amount of ﬁrm information increases.  This argument is similar in spirit to the relative signal-to-noise ratio of 
+the performance measures established in the compensation literature ( Banker and Datar, 1989 ).  Speciﬁcally, we argue that 
+with respect to assessing a ﬁrm’s future prospects, disclosures directly provided by a ﬁrm have a higher signal-to-noise ratio 
+than does peer information and, as a result, investors would rely less on peer information as the amount of ﬁrm information 
+increases.  
+Our hypothesis, motivated by the discussion above, is as follows.  
+H.  Peer information is negatively associated with the cost of capital when ﬁrm information is scarce and this negative 
+association weakens as the amount of ﬁrm information increases.  
+Notwithstanding the above discussion, whether peer information affects the cost of capital of related ﬁrms and whether 
+this association decays as the amount of ﬁrm information increases is ultimately an empirical question.  First, a large literature ﬁnds that ﬁrm disclosures can be affected by managerial incentives to increase stock prices and their compensation (see 
+Dechow Name (2010) for a review of the literature).  Thus, even in the presence of a rich ﬁrm-speciﬁc disclosure environment, 
+peer information could help reduce adverse selection costs since they are unlikely to be affected by the managerial incentives of related ﬁrms in the industry.  Second, while we assume that ﬁrm information and peer information are substitutes, 
+it is also conceivable that they are complements and help reinforce each other.  As mosaic theory describes, many individual 
+information items that might not be particularly relevant individually can, when joined together, be especially valuable to 
+analysis.  Speciﬁcally, Pozen (2005, p.  639) states that “the signiﬁcance of one item of information may frequently depend 
+upon knowledge of many other items of information. ” Likewise, peer information can provide additional context for evaluating ﬁrm information, which can make these two sources of information complements rather than substitutes.  The use 
+of benchmarking in investment valuation exercises is an example consistent with the idea that ﬁrm and peer information 
+might be complements.  
+<Middle> Research setting, sample selection and research design. 
+3. 1.  Research setting. 
+We test our prediction in two settings where ﬁrms raise public capital for the ﬁrst time.  The primary beneﬁt of examining ﬁrst-time capital issuers is that private ﬁrms are not required to publicly disclose any information (in the U. S. ).  As a  
+result, little is known about the operations and performance of private ﬁrms before they raise public capital.  However, once
+a private ﬁrm decides to raise public capital (debt or equity), it is required to comply with the SEC’s mandatory disclosure 
+requirements, such as 10-K, 10-Q and 8-K ﬁlings, which contain enormous amounts of information about ﬁrms and their 
+operating environments.  In addition, public capital is typically traded on secondary markets and the trading process transmits private information acquired by traders for their own speculative trading into market prices ( Grossman and Stiglitz, 
+1980.  Glosten and Milgrom, 1985.  Kyle, 1985 ).  The idea that market prices are a useful source of information goes back to 
+Hayek (1945) , who suggests that stock prices aggregate diverse pieces of information from different traders that might even 
+be informative to managers (e. g. , see Zuo (2016) for empirical evidence in the context of management forecasts).  Thus, the 
+amount of publicly available ﬁrm-speciﬁc information about a private ﬁrm signiﬁcantly increases following its public capital 
+issuance, thereby serving as a powerful setting for testing the changing role of peer information in mitigating information 
+asymmetry and adverse selection costs.  
+We ﬁrst examine the public debt issuances of private ﬁrms before they begin complying with the SEC’s ongoing disclosure requirements.  Compared to the cost of capital measures available for equities, the debt market setting allows us to employ a relatively clean and observable measure of the cost of capital.  bond yield spreads.  Easton and Monahan (2005) evaluate a number of proxies for the cost of equity capital and conclude that most available proxies are unreliable and typically 
+do not have a positive association with realized returns, even after controlling for the bias and noise in returns.  Nevertheless, one potential drawback of the debt setting is that there are relatively few instances of private ﬁrms raising public debt.  
+Thus, we also examine ﬁrms raising equity capital for the ﬁrst time via initial public offerings (IPOs).  IPOs occur far more 
+frequently compared to public debt issuances by private ﬁrms, thereby allowing for greater generalizability of our inferences.  
+Fig.  1 provides a graphical representation of our research setting.  We expect peer information to be relatively constant 
+around public capital issuances but the amount of ﬁrm information to signiﬁcantly increase in the years following a ﬁrm’s 
+ﬁrst public debt/equity offering (see Panel A).  Our prediction (depicted in Panel B of the ﬁgure) is that the effect of peer information on the cost of capital (the “Peer Effect”) is stronger when ﬁrm information is scarce and gradually declines as the 
+amount of ﬁrm information increases.  Our research setting then exploits cross-sectional variation in peer information across 
+industries, as well as cross-sectional and time-series variation in ﬁrm information to isolate these effects.  Appendixes A and 
+B provide evidence supporting our premise that peer information is fairly stable over time and ﬁrm information increases 
+following ﬁrms’ ﬁrst capital raising events ( Sections 3. 4 and 3. 5 discuss the evidence in the appendixes).  
+Fig.  1 provides a graphical representation of our research setting.  We expect peer information to be relatively constant around public capital issuances but the amount of firm information to significantly increase in the years following a firm’s first public debt/equity offering (see Panel A).  Our prediction (depicted in Panel B of the figure) is that the effect of peer in- formation on the cost of capital (the “Peer Effect”) is stronger when firm information is scarce and gradually declines as the amount of firm information increases.  Our research setting then exploits cross-sectional variation in peer information across industries, as well as cross-sectional and time-series variation in firm information to isolate these effects.  Appendixes A and B provide evidence supporting our premise that peer information is fairly stable over time and firm information increases following firms’ first capital raising events ( Sections 3. 4 and 3. 5 discuss the evidence in the appendixes). 
+3. 2.  Sample selection. 
+Our bond sample consists of private ﬁrms that issue public debt between 1995 and 2012.  We begin our sample selection 
+in 1995 because the process we use to identify private ﬁrms that have public bonds requires data from EDGAR.  we end our 
+sample in 2012 because our tests of changes in externalities over time uses three years of market data post-bond issuance 
+and 2012 is the latest year with three years of subsequent market data.  Following the procedure in Katz (2009) , we construct 
+a sample of 517 private ﬁrms that issued 1044 public bonds between 1995 and 2012 ( Table 1 provides a detailed outline 
+of the sample selection procedure).  Requiring observations to have non-missing data for the variables used in our analyses 
+further reduces our sample to 316 private ﬁrms that issue 578 public bonds.  
+We obtain daily bond yields from the Bloomberg terminal.  Requiring Bloomberg data leaves us with a sample of 165 
+private ﬁrms and 278 bonds with traded yield data.  Since our primary interest is in ﬁrms raising capital for the ﬁrst time 
+(when ﬁrm information is scarce), we retain only those bonds issued within the ﬁrst ﬁling period of the ﬁrm.  That is, we 
+retain the bonds issued by a ﬁrm before its ﬁrst annual ﬁling with the SEC.  This further reduces the sample to 165 private 
+ﬁrms and 209 bonds.  Finally, our tests of the temporal changes in the association between peer information and bond 
+yields require three consecutive years of traded bond yields following the bond issuance.  This requirement reduces our 
+ﬁnal sample to 210 bond-year observations and 70 traded bonds.  By restricting our sample to bonds with three consecutive 
+years of yield data, we ensure that changes in the sample composition over time and survivorship biases do not affect our 
+inferences.  Table 1 , Panel A outlines our sample selection procedure in detail and Table 2 shows the distribution of bonds 
+by year and by industry.  
+Table 1 , Panel B explains the sample selection for our tests using IPOs.  We collect a sample of IPOs from 1995 to 2009 
+from the Thomson Financial Securities Data Corporation (SDC) new issues database and follow Loughran and Ritter’s (2004) 
+sample selection criteria.  Our IPO sample ends in 2009 because we use the relative effective spread using TAQ data, and we 
+could obtain this measure only through 2012.  Since we require three years of spread data following the IPO, we end our 
+IPO sample in 2009.  For our SEO sample selection (for the quiet period analyses), we follow Shroff Name (2013) and focus 
+on the three year periods centered on the 2005 Securities Offering Reform (see Table 1 , Panel C).  
+We estimate regressions of the following form to test our prediction,
+where i, t , and ind index ﬁrms, years, and industries, respectively.  
+are year and (1-digit NAICS) industry ﬁxed 
+effects.  The subscript k equals zero, one or two and represents the number of years since the capital raising event.  We proxy 
+for the Cost of Capital using Bond Yield or Bid-Ask Spread.  Bond Yield is the excess of a bond’s yield-to-maturity over that of a 
+matched Treasury bond with similar remaining time-to-maturity and coupon rate ( Bharath Name, 2008.  Mansi Name, 2011 ).  
+We use the average traded yield in year ‘ t ’ to compute Bond Yield t .  Bid-Ask Spread is the relative effective bid-ask spread.  
+Peer Info is our proxy for peer information and X is a vector of control variables based on prior research (e. g. , Bharath Name 
+(2008), Guedhami and Pittman (2008) in the bond setting and Daske Name (2013) in the equity setting).  These variables 
+are described in detail in the Variable Appendix.  Year 1 ( Year 2, Year 3 ) is an indicator variable that equals one for the 
+11 Note that these indicator variables are unique to the bond/equity 
+ﬁrst (second, third) year following the capital issuance.  
+security issued and thus are not subsumed by year ﬁxed effects.  The intuition for including them in our regressions is to 
+capture systematic changes in bond yields/bid-ask spreads in the years following the capital issuance (e. g. , to capture any 
+market timing effects).  The main effect of Year 3 cannot be included in the model because it is perfectly collinear with Year 
+1 and Year 2 .  Standard errors are clustered at the year and 3-digit NAICS industry levels.  Continuous variables are winsorized 
+at the 2. 5% and 97. 5% levels.  
+Eq.  (1 ) is used to test the change in the effect of peer information on the cost of capital over time.  The variables of 
+× Year 3 .  We predict that the coeﬃcient for Peer 
+× Year 1 will be negative, implying that an increase in Peer Info is associated with a decrease in the cost of capital in 
+× Year 1 will be smaller (i. e. , more negative) than that 
+× Year 3 , implying that the relation between Peer Info and 
+interest in Eq.  (1 ) are Peer Info the ﬁrst year of capital issuance, and that the coeﬃcient for Peer Info 
+for Peer Info 
+the cost of capital decays over time.  
+× Year 2 , which will be smaller than that for Peer Info 
+× Year 2 , and Peer Info 
+× Year 1, Peer Info 
+3. 4.  Peer information. 
+Drawing from the theoretical models on disclosure externalities (e. g. , Dye, 1990.  Admati and Pﬂeiderer, 20 0 0 ), we construct our measure of peer information to capture.  (i) the relevance of peer ﬁrms’ disclosures to non-disclosing ﬁrms, and 
+(ii) the amount of information disclosed by peer ﬁrms in aggregate as well as the amount of peer information produced by 
+information intermediaries.  Speciﬁcally, we measure peer information ( Peer Info ) by taking the average values of (i) the 
+earnings synchronicity in an industry ( Earnings Sync ) (ii) the percentage of public ﬁrms operating in the industry ( %Public ) 
+and (iii) the average analyst coverage for ﬁrms in the industry ( #Analysts ).  
+We measure Earnings Sync as the average adjusted R-squared obtained from estimating time-series regressions of a ﬁrm’s 
+quarterly earnings on the aggregate quarterly earnings in its NAICS 3-digit industry.  We use sixteen quarters of earnings 
+data to estimate these regressions (the Variable Appendix provides a detailed description of the computation of this proxy).  
+This proxy is based on the premise that a ﬁrm’s earnings will be more synchronous with the earnings of other ﬁrms in 
+the industry when they are affected by similar economic forces.  Since a ﬁrm’s earnings is not only affected by economic 
+events idiosyncratic to a ﬁrm but also by industry- and market-wide economic events, greater earnings synchronicity in an 
+industry indicates a greater inﬂuence of industry-/market-wide factors in determining a ﬁrm’s earnings.  Thus we use the 
+average earnings synchronicity in an industry to capture the strength of the economic ties among ﬁrms operating in the 
+industry and the relevance of peer disclosures to non-disclosing ﬁrms.  
+We measure %Public following Badertscher Name (2013) .  We obtain data on the total number of ﬁrms within each 3digit NAICS industry from the Census Bureau, and proxy for the number of public ﬁrms in each industry using Compustat.  
+Thus, our deﬁnition of private ﬁrms is any ﬁrm that is not subject to SEC disclosure requirements, which we proxy for 
+using ﬁrms not on Compustat.  %Public is the number of public ﬁrms scaled by the total number of ﬁrms within an industry.  
+The  intuition  for  this  measure  is  that  the  composition  of  private  and  public  ﬁrms  in  an  industry  affects  the  industry’s 
+information environment because public ﬁrms are subject to numerous mandatory disclosure requirements (and also have 
+voluntary disclosure incentives) but private ﬁrms are not subject to such disclosure requirements (and do not share the 
+same disclosure incentives).  As a result, industries composed of a greater percentage of public ﬁrms have a richer and more 
+transparent information environment than industries composed of a smaller percentage of public ﬁrms.  
+We measure #Analysts as the average number of analyst forecasts for each public ﬁrm-year in an NAICS 3-digit industry 
+in a year.  We focus on analyst forecasts (rather than a count of the number of analysts) to ensure that our analyst coverage 
+proxy picks up only analysts that are “active” in their coverage of ﬁrms.  Firms without coverage in I/B/E/S are assumed 
+to have no analyst coverage ( Badertscher Name, 2013.  Shroff Name, 2014 ).  Financial analysts serve a monitoring role where 
+they demand disclosures from ﬁrms as well as an information role where they process and disseminate ﬁrm disclosures 
+(see Beyer Name 2010 for a literature review).  Prior research ﬁnds that analyst coverage is associated with better earnings 
+and disclosure quality ( Lang and Lundholm, 1996.  Lang Name, 2004 ), lower uncertainty ( Zhang, 2006 ), greater industry-wide 
+information transfer ( Piotroski and Roulstone, 2004 ) and lower information asymmetry ( Kelly and Ljungqvist, 2012 ).  Prior 
+research also ﬁnds that equity analysts help inform debt market participants and that equity analyst coverage affects the cost 
+of debt.  For example, Cheng and Subramanyam (2008) ﬁnd that analyst coverage is positively associated with ﬁrms’ credit 
+ratings and Mansi Name (2011) ﬁnd that analyst earnings forecast characteristics affect ﬁrms’ bond yields.  Thus, greater 
+analyst coverage of ﬁrms in an industry is likely to translate into a richer information environment for all ﬁrms in that 
+industry.  
+We convert all three variables, Earnings Sync, %Public , and #Analysts into quintile ranks (re-scaled to range from zero 
+to one) by year.  We then average the quintile ranks of Earnings Sync, %Public , and #Analysts to construct our proxy for 
+14 Appendix A provides descriptive information about Peer Info and its individual components.  
+peer information ( Peer Info ).  
+Panel A provides average values by 2-digit NAICS industries and Panel B tabulates pair-wise correlations.  Panel C shows 
+−1 to year t and well as the ﬁrst order autocorrelation.  Consistent with our 
+the transition matrix for Peer Info from year t 
+depiction of the research setting in Fig.  1 , we ﬁnd that Peer Info is fairly stable over time with a ﬁrst-order autocorrelation 
+coeﬃcient of 0. 88.  The transition matrix shows, for example, that 75% (0%) of the industries in the ﬁrst quintile of Peer Info 
+−1 to year t .  Finally, Panel D provides the descriptions of 
+remain in (move to) the ﬁrst (ﬁfth) quintile of Peer Info from year t 
+industries with the highest and lowest values of Peer Info and its components.  Industries such as metal manufacturing and 
+air transportation have richer peer information environments.  Examples of ﬁrms in such industries are.  Alcoa Inc. , American 
+Airlines, and Delta.  Industries such as repair and maintenance and social assistance have low levels of peer information.  
+Examples of ﬁrms in these industries are.  Monro Muﬄer Brake Inc.  and Bright Horizons Family Solutions.  
+3. 5.  Firm information. 
+We test our prediction using a sample of ﬁrms that raise public capital, assuming that the amount of ﬁrm information 
+increases over time from a ﬁrm’s ﬁrst year of capital issuance to the subsequent years.  To validate this assumption, we 
+examine whether there is an increase in the number of SEC ﬁlings, the size of 10-K ﬁlings, and the level of disaggregation 
+of accounting data in ﬁrms’ ﬁnancial statements following ﬁrms’ capital issuances.  Fig.  A in Appendix B plots the number of 
+SEC ﬁlings of companies in the year before and the two years after their initial bond issuances and IPOs.  Both ﬁgures show 
+a steady increase in the amount of ﬁrm information over time following ﬁrms’ capital raising events.  Fig.  B breaks down 
+the trend in the number of SEC ﬁlings by category.  The ﬁgure shows that the number of 10-Ks and 10-Qs are stable over 
+time (as expected) and the number of 8-Ks and Forms 3/4 increase over time.  Fig.  C shows that there is a sharp increase 
+in the 10-K ﬁle sizes following ﬁrms’ bond and equity issuances, which we interpret as ﬁrms providing more information.  
+Fig.  D plots the level of disaggregation in ﬁrms’ income statements and balance sheets ( Chen Name, 2015 ) around the time of 
+public capital issuances, which we refer to as Firm Info .  Again, the ﬁgure shows a steady increase in the number of ﬁnancial 
+statement line items disclosed following both initial bond issuances and IPOs.  Finally, Fig. 

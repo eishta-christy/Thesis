@@ -1,0 +1,103 @@
+Local Signals in Mouse Horizontal Cell DendritesHighlights
+d Light-evoked Ca2+ signals in horizontal cell dendrites reﬂect
+opsin gradient
+d Chromatic preferences in neighboring dendritic tips vary
+markedly
+d Mouse horizontal cells process cone photoreceptor inputd Local horizontal cell feedback shapes the temporal
+properties of cone outputCamille A.  Chapot, Christian Behrens,
+Luke E.  Rogerson, . . . , Philipp Berens,
+Thomas Euler, Timm Schubert
+Correspondence
+thomas. euler@cin. uni-tuebingen. detimm. schubert@cin. uni-tuebingen. deIn Brief
+Chapot Name show that local light
+responses in mouse horizontal cell
+dendrites inherit properties, including
+chromatic preference, from the
+presynaptic cone photoreceptor,
+suggesting that their dendrites can
+provide private feedback to cones, for
+instance, to shape the temporal ﬁltering
+properties of the cone synapse. 
+Chapot Name, 2017, Current Biology 27, 3603–3615
+December 4, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 050
+Current BiologyLocal Signals in Mouse Horizontal Cell Dendrites
+Camille A.  Chapot,1,2,3 Christian Behrens,1,2,3,4 Luke E.  Rogerson,1,2,3,4 Tom Baden,1,5 Sinziana Pop,1,2,3
+Philipp Berens,1,2,4 Thomas Euler,1,2,4,* and Timm Schubert1,2,6,*
+1Institute for Ophthalmic Research, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+2Center for Integrative Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+3Graduate Training Centre of Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+4Bernstein Center for Computational Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+5School of Life Sciences, University of Sussex, Brighton BN1 9RH, UK
+6Lead Contact
+*Correspondence: thomas. euler@cin. uni-tuebingen. de (T. E. ), timm. schubert@cin. uni-tuebingen. de (T. S. )
+https://doi. org/10. 1016/j. cub. 2017. 10. 050The mouse retina contains a single type of horizontal
+cell, a GABAergic interneuron that samples from all
+cone photoreceptors within reach and modulates
+their glutamatergic output via parallel
+feedback
+mechanisms.  Because horizontal cells form an electrically coupled network, they have been implicated
+in global signal processing, such as large-scale
+contrast enhancement.  Recently, it has been proposed that horizontal cells can also act locally at the
+level of individual cone photoreceptors.  To test this
+possibility physiologically, we used two-photon microscopy to record light stimulus-evoked Ca2+ signals
+in cone axon terminals and horizontal cell dendrites as
+well as glutamate release in the outer plexiform layer. 
+By selectively stimulating the two mouse cone opsins
+with green and UV light, we assessed whether signals
+from individual cones remain isolated within horizontal cell dendritic tips or whether they spread across
+the dendritic arbor.  Consistent with the mouse’s opsin
+expression gradient, we found that the Ca2+ signals
+recorded from dendrites of dorsal horizontal cells
+were dominated by M-opsin and those of ventral
+horizontal cells by S-opsin activation.  The signals
+measured in neighboring horizontal cell dendritic
+tips varied markedly in their chromatic preference,
+arguing against global processing.  Rather, our experimental data and results from biophysically realistic
+modeling support the idea that horizontal cells can
+process cone input locally, extending the classical
+view of horizontal cell function.  Pharmacologically
+removing horizontal cells from the circuitry reduced
+the sensitivity of the cone signal to low frequencies,
+suggesting that local horizontal cell feedback shapes
+the temporal properties of cone output. 
+INTRODUCTION
+Most neurons in the brain have elaborate dendritic arbors
+capable of more than simply integrating synaptic input.  Studies
+of neurons from different brain regions, such as cerebellar Purkinje cells [1], cortical pyramidal cells [2], hippocampal neurons
+[3], and retinal amacrine cells [4, 5], have demonstrated that dendrites can be functionally highly compartmentalized.  Often,
+multiple dendritic units can both process synaptic input and
+generate synaptic output independently and at a local scale
+(reviewed in [6]).  The cellular mechanisms supporting dendritic
+processing include anatomical specializations, differential distribution of active channels, and the local restriction of intracellular
+signaling (reviewed in [6]).  Moreover, computational work suggests that dendrites can even switch between local and global
+signal processing [7].  Such functional compartmentalization of
+dendritic arbors greatly increases the computational power of
+single neurons and, therefore, that of the brain. 
+In the retina, dendritic processing has been mainly studied in
+ganglion cells [8, 9] and amacrine cells [4], where dendritic subunits vary dramatically in size and function.  For example, starburst amacrine cell dendritic arbors are divided in sections that
+individually compute direction of visual motion [10, 11], while individual dendritic varicosities of A17 amacrine cells provide local
+reciprocal feedback to individual rod bipolar cell terminals under
+low-light conditions [4].  However, the outer retina also contains a
+candidate for dendritic processing, the horizontal cell (HC).  This
+is a GABAergic interneuron that provides reciprocal feedback
+to photoreceptors and shapes their transmitter release [12–14]. 
+The dendrites of HCs contact cone photoreceptors (cones),
+whereas their axon terminal system contacts rod photoreceptors
+(rods) [15]. 
+Traditionally, HCs have been implicated in global processing,
+such as contrast enhancement and the generation of antagonistic center-surround receptive ﬁelds (reviewed in [16]).  This is
+consistent with the fact that HCs form a gap junction-coupled
+network [17], which allows averaging signals across many
+cones.  However, recent studies suggest that HCs support also
+a local mode of operation and that HC feedback can act at the
+level of a single synaptic contact between an HC dendritic tip
+and a cone ([14, 18]; for discussion see [19]) (Figures 1A and 1B). 
+Here, we test this idea by recording light stimulus-evoked signals at the HC-cone synapse in a slice preparation of the mouse
+retina using two-photon Ca2+ [20, 21] and glutamate imaging
+[22].  We exploited the particular retinal distribution of mouse
+cone types to discriminate between global and local processing:
+Mice express two types of cone opsins, a short (S, UV) and a
+medium (M, green) wavelength-sensitive opsin.  So-called true
+S-cones [23] exclusively express S-opsin and are homogenously
+Current Biology 27, 3603–3615, December 4, 2017 ª 2017 Elsevier Ltd. 

@@ -1,0 +1,101 @@
+
+Stock market anomalies reﬂect inefﬁciencies in the way information
+is disseminated in the market place and reﬂected in asset prices via
+investors' trades.  Anomalies also provide the basis for active investment
+strategies that aim to generate abnormal proﬁts.  One of the widely
+examined anomalies that has been shown to persist in stock markets
+is the momentum anomaly which relates to the relationship between
+a stock's historical and subsequent performance (e. g.  Asness, 1994. 
+Carhart, 1997.  Moskowitz and Grinblatt, 1999.  Jegadeesh and Titman,
+1993, 2001).  An important implication of this anomaly is an investment
+strategy called momentum investing that is based on buying past
+winner stocks and selling past loser stocks.  Thus, apart from being a
+matter of concern from an academic perspective, the presence of this
+anomaly has signiﬁcant investment implications as well. 
+In another popular strand of the literature, numerous studies have
+explored the effect of oil market dynamics on stock return and volatility. 
+Oil can affect stock market dynamics via a number of different channels. 
+At the ﬁrm level, oil price can affect costs and growth expectations,
+which then affect stock values.  At the consumer level, oil price can affect
+consumer spending via its effect on their disposable income, thus affect
+the demand for the products that drive ﬁrm-level revenues and growth
+rates.  These arguments have in fact been supported in many studies that
+show a signiﬁcant oil effect on stock returns and volatility. 1 None
+of these studies, however, have explored whether oil price dynamics
+also contribute to stock market anomalies that reﬂect informational
+inefﬁciencies. 
+From a behavioral perspective, one can argue that oil price ﬂuctuations can affect investor sentiment, which may be particularly signiﬁcant in high oil-sensitive economies.  Such an effect on investor
+sentiment, in turn, may contribute to mispricing in the stock market
+in the form of stock market anomalies.  In fact, in a recent study, Ding
+Name (2017) show that oil price ﬂuctuations signiﬁcantly affect investor
+sentiment in the Chinese stock market without relating their ﬁndings to
+stock market anomalies.  Therefore, the main contribution of this study
+is to provide a novel perspective to the oil-stock market nexus by examining the predictive ability of oil price dynamics over a well-studied and
+yet unresolved stock market anomaly, i. e.  the momentum anomaly, that
+has been shown to persist in ﬁnancial markets (e. g.  Avramov and
+Chordia, 2006.  Liu and Zhang, 2008.  Liu Name, 2011.  Wang and Xu,
+2015).  Clearly, this is not only a concern from a market efﬁciency point
+of view, but can also present considerable abnormal proﬁt opportunities
+for active managers. 
+For our empirical study, we focus on China, the second largest oil
+importer globally (after the U. S. ) with an economy that is heavily reliant
+on oil imports to sustain its economic growth projections. 2 In addition
+to China's signiﬁcant role in the world energy markets as a major
+consumer, several features of the Chinese stock market provide fertile
+ground to study the oil-stock market nexus from a market anomaly perspective.  First, the literature offers robust evidence of an oil price effect
+on ﬁnancial markets in China (e. g.  Cong Name, 2008.  Nguyen and Bhatti,
+2012.  Wen Name, 2012.  Zhu Name, 2016.  Broadstock Name, 2016, among
+others).  Second, Demirer Name (2015b) recently show that the momentum anomaly is present in this emerging stock market and document a
+signiﬁcant herding effect on the short-run performance of momentum
+strategies.  Finally, recent evidence by Ding Name (2017) show that international crude oil price ﬂuctuations signiﬁcantly Granger cause Chinese
+stock market investor sentiment such that a 1% ﬂuctuation in the price
+of crude oil leads to a 3. 94% negative effect on stock market sentiment. 
+Therefore, given the evidence in the literature, the Chinese stock market
+offers an interesting setup to examine whether oil market dynamics
+contribute to the momentum anomaly and allows us to extend the literature in a novel direction. 
+Our ﬁndings show that oil return volatility has robust predictive
+power over industry momentum payoffs in the Chinese stock market. 
+The predictive power of oil volatility over momentum is irrespective
+of whether the market is in a positive or negative state and is robust
+even after controlling for stock market volatility as well as key macroeconomic variables including the short-term rate, default spread and
+term spread.  In fact, our robustness checks suggest that oil return volatility absorbs the predictive ability of stock market volatility, implying
+that uncertainty surrounding oil price movements contributes to this
+anomaly more so than the stock market's own volatility does. 
+Examining possible asymmetries in predictability patterns, we ﬁnd
+that predictability comes primarily from winner industries.  Consistent
+with the recent ﬁndings by Ding Name (2017), we argue that oil price
+ﬂuctuations contribute to time varying investor sentiment, while this
+effect is channeled on stock prices via investors' over-purchase of high
+quality stocks in winner industries, thus creating overpricing in those
+industries, which in turn predicts negative returns in the subsequent
+periods.  Whatever the underlying investor rationale might be, our analysis shows that the predictive power of oil on subsequent momentum
+payoffs can in fact be used within an active investment strategy.  We
+show that an oil-based momentum strategy wherein the investor conditions the trade on the state of oil volatility in month (t) yields signiﬁcant
+returns in the following month (t + 1), which amounts to a spread of
+2. 107% per month over the conventional momentum strategy.  Overall,
+our ﬁndings suggest that the predictive power of oil volatility is not
+only a statistical result with implications on the informational efﬁciency
+of the Chinese stock market, but also bears quite signiﬁcant investment
+implications within an actively managed portfolio strategy. 
+An outline of the remainder of the paper is as follows.  Section 2
+provides a brief review of the literature on the effect of oil price on
+stock market dynamics in China.  Section 3 explains the data and
+methodology.  Section 4 presents the empirical results and Section 5
+concludes the paper. 
+2.  The literature on oil and the Chinese stock market. 
+As a top player in the world's energy market, China has attracted a
+fair amount of interest in the academia with numerous studies examining the oil-stock market nexus in this giant emerging economy.  In one of
+the earlier studies, Cong Name (2008) employ a multivariate VAR model
+2 BP Statistical Review of World Energy (June 2016). 
+and show that oil price shocks only affect the manufacturing index
+and some oil companies, while the oil price shocks possess stronger
+explanatory power over interest rates.  Focusing on economic growth
+measures, Du Name (2010) document a positive correlation between
+oil prices and China's GDP, while Tang Name (2010) show that oil price
+increases have a negative effect on investment and output with positive
+effects on inﬂation and interest rates.  However, this ﬁnding is later
+questioned by Kim Name (2017) who show that the response of Chinese
+interest rates to oil price shocks is not only time-varying, but also shows
+different signs over different sub-periods.  Supporting the earlier ﬁndings, Zhang (2011) and Ou Name (2012) show that positive oil price
+shocks lead to negative effects on real output, industrial production
+and stock prices. 

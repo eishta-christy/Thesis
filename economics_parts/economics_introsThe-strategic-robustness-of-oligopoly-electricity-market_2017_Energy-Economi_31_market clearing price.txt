@@ -1,0 +1,86 @@
+
+Most liberalized electricity markets suffer from market power,
+with high concentration indices, and are frequently subject to market investigations (see for example DG COMP, 2007).  Academics and
+consultants alike struggle to model the exercise of this market power
+and the implications of possible reforms, such as increasing interconnection (Newbery Name, 2004), moving to nodal pricing (Joskow
+and Tirole, 2000), market coupling (Newbery Name, 2016), breaking
+up larger companies such as EdF in France (INSEAD, 2004), introducing capacity auctions (Entriken and Wan, 2003; Genoese Name, 2012;
+Hach Name, 2015; Hu and Hobbs, 2008) or by increasing the volumes
+of renewables (Liski and Vehviläinen, 2015; Newbery, 2016).  The
+main problem facing those wishing quantiﬁed results rather than
+illustrative examples lies in the considerable diﬃculty of modeling
+strategic behaviour in markets with various capacity and transmission constraints, in which the participants interact daily on auction
+markets under conditions of great transparency. 
+Electricity is possibly the best example of the textbook example
+of a perfectly homogenous product that would seem to favour
+intense price competition, but, as observed above, liberalized electricity markets are characterized by oligopoly and deviations from
+competitive behaviour.  Moreover, generators have very complete
+information about their own and rivals’ short-run cost functions,
+which are determined by known technologies and observable fuel
+prices.  Cournot models may be suitable for modeling potential
+market power and prices for speciﬁc levels of demand (Moselle
+Name, 2006) but electricity demand varies substantially hourly, daily
+and seasonally.  In practice, and more extensively now that the
+EU has almost completed market coupling at the day-ahead stage,
+generating companies offer their supply as a function of offer prices
+(often a step function, see Newbery Name, 2013) into EUPHEMIA,2 the
+auction platform that determines day-ahead prices for the whole of
+the market-coupled EU.  The natural way of modeling the outcomes
+of that auction are to look for Supply Function Equilibria, but these
+are notoriously hard to solve or even simulate (Day Name, 2002). 
+Nevertheless, the central idea of a supply function is helpful, in
+that it requires agents to form a view of the supplies offered by
+other generators, which, when subtracted from total demand, gives
+a perceived residual demand.  Each agent can then choose an optimal
+supply response.  If all agents have well-deﬁned supply behaviour
+it is in principle possible to ﬁnd a Nash equilibrium in which each
+oligopolist maximizes its proﬁts given the behaviour of other market participants.  The agents may choose to offer ﬁxed quantities –
+Cournot behaviour – or may choose to mark-up their offers on their
+variable costs, and the relevant demand facing those with market
+power may have competitive supplies subtracted from total demand. 
+The central point of this paper is that while the residual demand
+facing an agent depends on the choices of other agents, the
+assumption that the market will settle at the Nash equilibrium of
+these speciﬁc choices needs to be tested for robustness.  The equilibrium will not be robust if it is proﬁtable for an agent, knowing the
+strategies of all other players, to choose a different strategy. 
+This paper tests the robustness of various popular modeling
+approaches for an electricity market with a small number of players. 
+We study two particular forms of mark-up pricing: ﬁxed and proportional, where in the former, ﬁrms set a ﬁxed mark-up on their
+marginal cost schedule and in the latter, ﬁrms choose a proportional
+mark-up.  We analyze these two mark-up pricing models because
+most studies (some of which are reviewed below) ﬁnd that where
+electricity markets are concentrated, generators are selling at prices
+above the competitive short-run marginal cost.  They have the attraction that the choice of a single parameter (the mark-up) considerably
+simpliﬁes the modeling problem (Weidlich and Veit, 2008).  More
+important, they are consistent with the forms of offers that are
+allowed in most power exchanges and by EUPHEMIA.  We compare
+the results with the standard Nash-Cournot model in which agents
+just choose the quantity to supply to the market.  In auction markets like power pools and EUPHEMIA this would require producers
+to offer a ﬁxed amount at some minimum price (e. g.  variable cost)
+and then receive the price set by the interaction of total supply andWe note that for the case of linear marginal costs and linear
+demand, the supply function equilibrium is a proportional mark-up
+model (Klemperer and Meyer, 1986), but we are interested in a wider
+set of cost and demand functions.  One of the main conclusions of this
+paper is that the proportional mark-up model would seem to have
+wider appeal in modeling market power than just in the linear case,
+and in that sense it forms a useful simpliﬁcation of complex supply
+function models that lends itself to modeling market power. 
+We examine the robustness of both forms of mark-up pricing
+and ask whether these models are robust against more sophisticated
+(Stackelberg) strategies.  If so, they pass the ﬁrst test of plausibility, but if not, then modelers need to be aware of their fragility and
+consider alternatives, which we discuss.  Throughout we assume a
+market structure similar to electricity pools (e. g.  Green and Newbery,
+1992) or the EUPHEMIA European platform, which is a last-price
+auction in which offers from generators and bids from suppliers are
+submitted and the market clearing price is determined (subject to
+various constraints, such as transmission capacities).  We assume that
+the daily interaction on the auction market or power exchange, combined with cost transparency, makes it plausible that agents know
+or learn the supply behaviour of their rivals.  They are also assumed
+to know how the market clearing price is set, bearing in mind that
+different plants have different costs (different eﬃciencies, different
+fuels) and demand varies hourly, by day of the week, and seasonally. 
+We show that the two mark-up strategies considered are more
+competitive than Nash-Cournot behaviour, with the Nash choice of
+the optimal proportional mark-up on marginal costs yielding lower
+prices and proﬁts than the Cournot oligopoly but higher prices
+and proﬁts than the optimum ﬁxed mark-up on marginal costs. 

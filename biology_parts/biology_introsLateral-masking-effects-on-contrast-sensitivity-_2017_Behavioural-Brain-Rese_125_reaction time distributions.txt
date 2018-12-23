@@ -1,0 +1,123 @@
+
+Visibility of stimulus components may be enhanced or diminished
+by the presence of adjacent stimulus elements.  Such eﬀects are evident
+with high-contrast lateral masks [1], metacontrast with zero stimulus
+onset asynchrony [2], and crowding of peripheral targets [3].  Contextual eﬀects on perceptual capacities may reﬂect neural interactions
+among representations of targets and lateral masks. 
+At a neural
+level, response properties of cortical neurons are
+modulated by the context in which stimuli are placed [4–6].  In primates
+and cats, systematic relationships exist among the orientation preference of neurons.  Such connections may contribute to a system of
+enhancement and inhibition of signals based upon contextual eﬀects
+from other cortical sites [7,8].  In rodents, the distribution of orientation
+preference is not systematic [9,10], nor do lateral projections display
+the periodic patches found in primates and cats [11].  These distinctions
+in cortical organization suggest that lateral interactions among stimulus
+elements may operate diﬀerently in rats than in primates and cats. 
+At a perceptual level, the ability of rats to discriminate the presence
+or absence of targets declined when target onset was accompanied by
+ﬂankers [12].  In addition, misses as well as false alarms increased when
+ﬂankers were collinear to targets, compared to ﬂankers that deviated
+from collinearity.  Such eﬀects on detecting suprathreshold stimuli were
+observed across a range of contrasts of both targets and ﬂankers [13]. 
+For humans, contrast thresholds are elevated in the presence of
+collinear, co-axial Gabor patches positioned near test stimuli (within 2
+cycles), whereas thresholds decrease with adjacent elements positions
+within a farther zone (approximately 3–10 cycles) [14].  Flanker eﬀects
+appear to be restricted to near foveal viewing [15,16] to which attention is directed [17,16], and are not observed at suprathreshold levels
+[15].  Flanker eﬀects may reﬂect a system for contour integration
+mediated by short- and long-range interactions within neural populations [18]. 
+The functional signiﬁcance of connection patterns in local cortical
+circuits may be distinguished across species [19].  In order to explore
+lateral masking on detection thresholds in rats, responses to target onset
+were measured across luminance contrast for targets presented alone,
+or in the presence of masks. 
+<Middle> Methods. 
+2. 1.  Subjects
+Ten Long-Evans hooded rats served as subjects, each randomly assigned to one or more stimulus conditions.  Animals were deprived of
+water for 22 h before each session, and allowed water ad lib for one
+hour following sessions.  Sessions occurred ﬁve days each week, and
+animals were allowed water ad lib on the remaining two days.  This
+⁎ Corresponding author at: Psychology Department, Brooklyn College CUNY, 2900 Bedford Avenue, Brooklyn, NY, United States. 
+E-mail address: dkurylo@brooklyn. cuny. edu (D. D.  Kurylo). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 07. 046
+Received 2 April 2017; Received in revised form 11 July 2017; Accepted 29 July 2017
+Available online 05 August 2017
+0166-4328/ 
+D. D.  Kurylo Name
+Behavioural Brain Research 335 (2017) 1–7
+Fig.  1.  A.  Top view displaying geometry of test chamber.  Test stimuli (Gabor patches) appeared on the monitor, subtending a visual angle of either 5. 9° or 14. 0°.  B.  Trial events and
+reaction time measurements.  Dotted lines represent variable ranges of events.  Test stimulus onset relative to initial nose-poke occurred with a randomly chosen latency, ranging from 500
+to 2000 ms. 
+study was conducted in accordance with the National Institutes of
+Health Guide for the Care and Use of Laboratory Animals, and approved
+by the Institutional Animal Care and Use Committee of Brooklyn
+College. 
+2. 2.  Apparatus
+Behavioral measurements were made in a customized operant
+conditioning chamber (Fig.  1A).  The front panel of the chamber supported a metal funnel that extended 3 cm outside of the chamber.  Animals had access to the funnel through a 5 cm diameter hole, centered
+2. 5 cm from the chamber ﬂoor.  Placement of the rat's head completely
+within the funnel disrupted an infrared (IR) light beam connecting an
+emitter/detector pair mounted at the tip of the funnel.  Rats viewed the
+stimulus through holes in the funnel positioned over each eye.  Viewing
+stimuli from the head-ﬁtted funnel allowed control over viewing position across trials. 
+Rats had access to an enclosed drinking well positioned next to the
+funnel.  A measured amount of water was delivered to the drinking well
+by means of a solenoid driven valve.  Circuitry for the IR pair and solenoid were interfaced via solid-state relay switches to a computer. 
+Stimulus generation, data collection, and trial events were controlled in
+real-time by customized computer software [20]. 
+2. 3.  Stimulus presentation
+In an otherwise darkened room, stimuli were presented on a computer monitor (Trinitron CPD 4401) controlled by a graphics adaptor
+(NVidia GeForce FX5200) set to 1280 × 1024 pixel resolution.  Rats
+viewed stimuli at a distance of 24 cm and elevated by 10°, centered
+within the binocular region of the visual ﬁeld.  Stimuli consisted of
+Gabor patches on a gray background (22. 3 cd/m2).  Luminance levels
+were linearized across a range of 2. 9–42. 2 cd/m2. 
+2. 4.  General procedure
+Using a free-operant procedure, rats initiated trials by placing their
+head into a central funnel.  Following a delay, generated randomly
+between 500 and 2000 ms, a Gabor patch appeared on the monitor. 
+Rats were trained to remain stationary until stimulus onset, to which
+they responded by withdrawing their head from the funnel (Fig.  1B). 
+Following training, data collection occurred on approximately every
+other session.  In order to maintain consistence performance, a session
+of maintenance training occurred on alternate days. 
+2. 5.  Training procedure
+Following initial magazine training, rats were trained to nose-poke
+the central funnel.  The next phase of training required rats to remain
+stationary in the funnel for increasing lengths of time, culminating with
+a 500 ms hold period.  A high-contrast Gabor patch was presented on
+the monitor at the end of the required hold period.  For the next phase of
+training, stimulus onset varied randomly between 500–750 ms, and rats
+were required to withdraw their head from the funnel within 750 ms of
+stimulus onset.  Across training sessions, stimulus onset times progressively increased to 500–2000 ms, and reaction time to stimulus onset
+was progressively restricted to 50–400 ms.  Progressive increase to stimulus onset range, and progressive decrease in reaction time window,
+was contingent upon rats' performance, requiring 90% correct across a
+single session. 
+For data collection sessions, reward was delivered on each trail,
+regardless of reaction time.  In order to maintain conditioning, each
+session of data collection was followed by a training session. 
+2. 6.  Reaction time cluster index
+Reaction time was recorded from stimulus onset to head withdrawal.  Frequency distributions of reaction times, time-locked to stimulus onset, were displayed as histograms.  High-contrast stimuli produced reaction time distributions that clustered about a mean of 237 ms
+(S. D.  104 ms).  Given the unpredictable onset time of stimuli, the clustering pattern of reaction time distributions veriﬁed behavioral control
+by the stimulus. 
+Quantiﬁcation of reaction time clustering was based upon the incidence of responses that occurred above that found on no-stimulus
+trials.  Speciﬁcally, the distribution of response frequency (histogramD. D.  Kurylo Name
+Behavioural Brain Research 335 (2017) 1–7
+Fig.  2.  Reaction Time Cluster Index.  A.  Reaction time frequency distribution was ﬁrst compiled for trials with no stimuli.  The upper boundary of the no-stimulus (nominal) distribution
+was set to 2 S. D.  above the mean.  B.  For each contrast level, response frequencies above the nominal boundary served as the cluster index. 
+bin height) across reaction time was ﬁrst determined for no-stimulus
+trials (Fig.  2A).  The upper boundary of the nominal distribution was set
+to 2 S. D.  above the distribution mean.  Reaction time distributions were
+then measured for each stimulus condition (Fig.  2B).  For each contrast
+level, the sum of response frequencies above the nominal boundary
+served as the response index. 
+2. 7.  Psychophysical measurements
+Detection thresholds were determined with the psychophysical
+Method of Constant Stimuli.  For each condition, reaction time distributions were compiled for each of six contrasts, as well as a no-stimulus condition, presented in random order across trials.  No-stimulus
+trials were therefore randomly interleaved among the stimulus-present
+trials.  For each contrast level, reaction time distributions were based
+upon approximately 150 trials, collected across multiple sessions.  For
+no-stimulus trials, reaction times were calculated from a randomized
+presentation time (between 500–2000 ms from trial initiation), thereby
+corresponding to conditions for the stimulus-present trials. 

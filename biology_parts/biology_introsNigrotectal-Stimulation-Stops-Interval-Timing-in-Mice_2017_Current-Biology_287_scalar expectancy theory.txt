@@ -1,0 +1,448 @@
+Article
+Nigrotectal Stimulation Stops Interval Timing in Mice
+Highlights
+d Novel head-ﬁxed timing task allows rapid acquisition of
+timing behavior
+d Single-trial analysis reveals stepping dynamics and strong
+motivational modulation
+d Nigrotectal pathway activation delays timing of future
+behaviorKoji Toda, Nicholas A.  Lusk,
+Glenn D. R.  Watson, . . . , Haofang E.  Li,
+Warren H.  Meck, Henry H.  Yin
+Correspondence
+kt131@duke. edu (K. T. ),
+hy43@duke. edu (H. H. Y. )
+In Brief
+Toda Name design a novel paradigm to
+study interval timing in mice.  Using
+optogenetic manipulations, the authors
+show that activation of the nigrotectal
+pathway not only suppresses ongoing
+behavior but also delays timing of future
+behavior.  These results suggest that
+disrupting basal ganglia output can stop
+central networks underlying timing. 
+Toda Name, 2017, Current Biology 27, 3763–3770
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 003
+Current BiologyNigrotectal Stimulation
+Stops Interval Timing in Mice
+Koji Toda,1,2,3,5,* Nicholas A.  Lusk,1,5 Glenn D. R.  Watson,1 Namsoo Kim,1 Dongye Lu,4 Haofang E.  Li,1 Warren H.  Meck,1
+and Henry H.  Yin1,4,6,*
+1Department of Psychology and Neuroscience, Duke University, Durham, NC 27708, USA
+2Human Informatics Research Institute, National Institute of Advanced Industrial Science and Technology (AIST), Umezono 1-1-1, Tsukuba,
+Ibaraki 305-8568, Japan
+3Japan Society for the Promotion of Science, Kojimachi 5-3-1, Chiyoda-ku, Tokyo 102-0083, Japan
+4Department of Neurobiology, Duke University School of Medicine, Durham, NC 27708, USA
+5These authors contributed equally
+6Lead Contact
+*Correspondence: kt131@duke. edu (K. T. ), hy43@duke. edu (H. H. Y. )
+https://doi. org/10. 1016/j. cub. 2017. 11. 003Considerable evidence implicates the basal ganglia
+in interval timing, yet the underlying mechanisms
+remain poorly understood.  Using a novel behavioral
+task, we demonstrate that head-ﬁxed mice can be
+trained to show the key features of timing behavior
+within a few sessions.  Single-trial analysis of licking
+behavior reveals stepping dynamics with variable
+onset times, which is responsible for the canonical
+Gaussian distribution of timing behavior.  Moreover,
+the duration of licking bouts decreased as mice
+became sated, showing a strong motivational
+modulation of licking bout initiation and termination. 
+Using optogenetics, we examined the role of the
+basal ganglia output in interval timing.  We stimulated a pathway important for licking behavior, the
+GABAergic output projections from the substantia
+nigra pars reticulata to the deep layers of the superior
+colliculus.  We found that stimulation of this pathway
+not only cancelled licking but also delayed the initiation of anticipatory licking for the next interval in a
+frequency-dependent manner.  By combining quantitative behavioral analysis with optogenetics in the
+head-ﬁxed setup, we established a new approach
+for studying the neural basis of interval timing. 
+INTRODUCTION
+Time perception is unique because there are no dedicated sensory organs or receptors for time.  The brain appears to create the
+subjective sense of time by integrating a variety of sensory inputs
+and internal states [1].  Many studies have implicated corticobasal ganglia networks in interval timing in the seconds to minutes range [2–5].  However, it remains unclear how basal ganglia
+output contributes to timing behavior. 
+Traditional studies examining interval timing have two major
+limitations.  First, the behavioral methods are time consuming
+and yield results that are difﬁcult to interpret.  For example,
+operant procedures using lever pressing as the behavioral
+readout are commonly used across many species [6]. 
+Training typically takes months and produces complex stereotyped behaviors between lever presses.  Second, techniques
+commonly used in animal timing studies, like lesion, electrical stimulation, and pharmacological manipulations, cannot
+precisely manipulate speciﬁc neuronal populations and neuroimaging timing studies in humans rely on correlational
+analyses of brain activity and behavioral data [4, 7].  To overcome these limitations, we designed a novel task for studying
+interval timing in head-ﬁxed mice during optogenetic manipulation of deﬁned neuronal populations.  Using a ﬁxed time
+schedule of reinforcement, we trained mice to exhibit accurate timing behavior within a few hours.  Mice rapidly showed
+licking behavior that peaks at the expected time of reward
+delivery in accordance with previous studies using lever
+presses as a behavioral measure [8, 9].  Licking on this task
+can be precisely quantiﬁed and shows the hallmarks of interval timing. 
+Licking is also a behavioral measure with well-characterized
+neural circuits [10–12].  Previous work demonstrates the importance of a cortico-basal ganglia circuit, including the ventrolateral striatum and lateral substantia nigra pars reticulata (SNr) in
+orofacial behavior [10, 13].  In particular, a subset of GABAergic
+projections from the SNr to the deep layers of the superior
+colliculus (SC)
+is critical for the initiation and termination of
+self-paced licking behavior [10, 14].  The basal ganglia output
+regulates SC neurons in regulating licking bouts.  The SC output,
+in turn, regulates central pattern generators in the brainstem to
+generate orofacial and other movements [15, 16]. 
+Optogenetic stimulation of
+the nigrotectal pathway can
+directly terminate licking behavior by uniformly increasing
+inhibition of tectal projection neurons, thus disrupting descending motor commands [10].  By stimulating channelrhodopsin
+(ChR2)-expressing GABAergic projection neurons in the SNr,
+we could uniformly increase SNr output and interfere with the
+normal pattern of nigrotectal signaling, which is time locked to
+the licking bout [17].  Using this procedure combined with quantitative behavioral analysis, we examined the contribution of the
+basal ganglia output to interval timing behavior in mice. 
+Current Biology 27, 3763–3770, December 18, 2017 ª 2017 Elsevier Ltd.  3763
+In agreement with previous work in freely moving mice [10],
+voluntary licking behavior was highly stereotyped, consisting of
+bouts of rhythmic protrusion and retractions of the tongue at a
+relatively ﬁxed rate (6–10 Hz) for both anticipatory and consummatory licking [17].  After training, all mice showed anticipatory
+licking prior to each reward delivery (Figure 1C, left), starting
+4–6 s before the reward and peaking at roughly the expected
+time of reward delivery.  Consummatory licking stopped 2–4 s
+after the reward delivery.  As the mouse became sated during
+the session, anticipatory licking gradually decreased and
+consummatory licking decreased more abruptly (Figure S1).  After training, all mice showed anticipatory licking prior to each
+reward delivery (Figure 1C, left), starting 4–6 s before the reward
+and peaking at roughly the expected time of reward delivery. 
+Peak Probe Trials
+After 5–10 days of training on the ﬁxed-time task, peak probe
+trials were introduced (Figure 1B, right).  During these trials,
+reward delivery was omitted, followed by an extended period
+of no reward delivery.  Probe trials lasted for 30–40 s and were
+randomly inserted with 20% probability.  Mice readily learned
+this peak procedure with maximal response rates occurring
+around 10 s (i. e. , the expected reward time) within a few days
+(Figure 1C, right). 
+A hallmark of interval timing is the spread in timing of behavior
+scales linearly with the temporal duration being timed.  This ‘‘scalar property’’ is analogous to the Weber-Fechner law in psychophysics [1].  To test whether mice also exhibit the scalar property
+using our novel behavioral paradigm, three mice were trained on
+the peak procedure with two additional intervals: 7. 5 and 15 s
+(Figure 2A).  All mice tested were highly accurate in timing these
+intervals (Figure 2B; 7. 5-s condition: 8. 09 ± 0. 10 s; 10-s condition: 10. 33 ± 0. 14 s; 15-s condition: 15. 26 ± 0. 19 s; n = 13 for
+each condition; 3–5 sessions for each duration for three mice). 
+Performance on these three durations was normalized by the
+peak response time and maximum lick rate and then superimposed across all three intervals (Figure 2C).  The resulting data
+clearly demonstrate the scalar property (Figure 2D; 7. 5-s condition: 0. 55 ± 0. 04; 10-s condition: 0. 56 ± 0. 03; 15-s condition:
+0. 59 ± 0. 02; n = 13 for each condition; 3–5 sessions for each
+duration for 3 subjects).  This result establishes that the headﬁxed peak procedure is a powerful method that not only expedites training but also produces results with the essential
+features of interval timing behavior. 
+Stepping Dynamics and Motivational Modulation of
+Licking Behavior
+To reveal ‘‘single-trial’’ dynamics of the licking behavior [17, 19],
+we analyzed behavioral data during each interval using statistical
+methods previously used for ﬁtting latent dynamical spike-train
+models [19].  Our analysis revealed that behavior during the
+ﬁxed-time-schedule task is well described by a ‘‘stepping’’
+model for both the start and end of the licking bout (Figures 3A
+and 3B).  In other words, the licking behavior displays stepping
+dynamics with variable step onset and offset times.  In accordance with traditional lever-pressing data from rodents, the canonical Gaussian distribution found on peak trials, a key feature
+of interval timing behavior, is a product of averaging many trials. 
+This conclusion is in agreement with a recent study that found
+Figure 1.  Experimental Setup and Behavioral Tasks
+(A) Head-ﬁxed setup.  Mice were placed on a raised platform and secured in
+place by head bars attached to chronic implants.  A blunt-tipped needle is
+placed within licking distance, allowing for administration of a 10% sucrose
+reward using a solenoid under the control of an Arduino and MATLAB
+Psychtoolbox. 
+(B) Schematic diagram of the behavioral tasks.  In the ﬁxed-time-schedule task
+(left), a drop of water was delivered every 10 s throughout the session.  Once
+mice demonstrated anticipatory licking, they were transitioned to a peak
+procedure (right), where 20% of rewards were omitted on probe trials in order
+to estimate their internal representation of expected time of reward delivery. 
+(C) Examples of behavioral data.  Individual trial (top) and cumulative Peristimulus time histogram (PSTH) (bottom) of licking behavior during rewarded
+(left) and peak (right) trials. 
+See also Figure S1. 
+<Middle> RESULTS. 
+Behavioral Performance
+Mice were trained on a 10-s ﬁxed-time-schedule task (Figures
+1A and 1B, left).  Head-ﬁxed mice voluntarily licked a blunt-tipped drinking needle placed in front of their mouth that delivered
+a 10% sucrose solution every 10 s.  A solenoid connected to an
+Arduino slaved to a custom-written MATLAB Psychtoolbox
+scripts controlled sucrose delivery.  No external conditioned
+stimulus was presented.  Individual
+licking contacts between
+mice and the drinking needle were recorded with a contact
+lickometer [18]. 
+3764 Current Biology 27, 3763–3770, December 18, 2017
+Figure 2.  Demonstration of Scalar Property
+(A) PSTHs for 7. 5-, 10-, and 15-s ﬁxed-time-schedule tasks (n = 3–5 sessions for each condition for three mice).  Vertical dashed lines represent the expected
+reward time. 
+(B) Accuracy of timing behavior across durations determined by average peak time for individual sessions (n = 13 sessions for each condition). 
+(C) Overlay of the behavior from the three ﬁxed-interval durations normalized by max lick rate (y axis) and time of peak lick rate (x axis), demonstrating superimposition (n = 3–5 sessions for each condition for three mice). 
+(D) Relative precision of timing behavior as indicated by Weber fraction (n = 13 sessions for each condition).  n. s. , not signiﬁcant (n = 13 sessions; p value > 0. 05,
+one-way ANOVA). 
+similar stepping dynamics in the lever-pressing behavior of
+rats [20]. 
+Our single-trial analysis also made it possible to analyze how
+changes in internal states during a single session affect timing
+behavior [21].  Early in the session, when water-deprived mice
+were highly motivated, licking started earlier and ended later
+with higher rates (Figure 3C).  As mice became sated, anticipatory licking and bout duration gradually decreased, but the
+center of the bout, which reﬂects the expected timing of the
+reward delivery, did not change signiﬁcantly.  Bout duration
+was strongly modulated by motivational state (n = 10 mice;
+p < 0. 05, unpaired t test), but the peak of the licking response
+was not (Figure 3D; n = 10 mice; p > 0. 05, unpaired t test). 
+Thus, motivational state has a strong impact on the variance
+of timing behavior.  Traditionally, data from the entire session
+are used to analyze the peak and variance.  Because the
+observed variance can be partly attributed to motivational modulation, traditional methods systematically underestimate the
+precision of timing behavior. 
+Effect of Nigrotectal GABAergic Pathway Stimulation onWe previously showed that optogenetic stimulation of the SNrSC GABAergic pathway disrupts self-paced licking behavior by
+uniformly increasing inhibition of deep/intermediate-layer tectal
+neurons and interfering with motor commands from SNr neurons
+[10].  To examine the function of the SNr-SC GABAergic pathway
+in timing, we expressed Cre-dependent ChR2 bilaterally with
+AAV5-EF1a-DIO-hChR2(H134R)-eYFP in the lateral SNr of
+Vgat-IRES-Cre mice (Vgat::ChR2 SNr-SC; n = 6) and targeted
+the axon terminals in the lateral SC with optic ﬁbers (Figures
+4A–4C and S2). 
+We used 3 different stimulation protocols to compare the effects of stimulation at different times during the interval: (1) 2 s
+to 1 s before reward delivery; (2) 1 s before reward delivery;
+and (3) 1 s after the reward delivery.  We also varied the stimulation frequency in each condition: 10, 25, 50, and 100 Hz.  Stimulation of nigrotectal projections signiﬁcantly reduced the number
+of licks for the duration of the stimulation in a frequency-dependent manner (Figure 4D; n = 6 mice; p < 0. 05, one-way ANOVA
+with post hoc Tukey test).  In agreement with previous work
+[10], this result shows that the nigrotectal pathway is important
+for both anticipatory and consummatory licking. 
+We conducted slice experiments to conﬁrm that photo-stimulation of SNr neurons can evoke spiking in a frequency-dependent manner.  Using the same stimulation frequencies and pulse
+width, we showed that SNr neurons were able to follow the pulse
+train at high frequencies (Figures 5A and 5B; n = 4 mice).  Spike
+ﬁdelity was nearly perfect up to 50 Hz.  At 100 Hz, although
+more spiking was produced than at 50 Hz, the spiking could
+not follow the stimulation pulse train perfectly, showing a ceiling
+effect.  In our experiments, perfect spike ﬁdelity is not necessary
+so long as there is a frequency-dependent effect of stimulation. 
+In fact, the evoked ﬁring rate at different stimulation frequencies
+Current Biology 27, 3763–3770, December 18, 2017 3765
+Figure 3.  Licking Behavior in Peak Trials
+(A) Lick rate from single session aligned to time of previous reward (left; n = 36 trials) or start time of peak trial licking (right; n = 36 trials). 
+(B) Same analysis as in (A) except related to the end of licking on peak trials (left, n = 36 trials; right, n = 36 trials). 
+(C) Demonstration of motivation effect during a single session.  Licking raster (top) is plotted with start (beige squares) and end (orange squares) times of peak
+licking activity calculated using single-trial analysis (see STAR Methods). 
+(D) Comparison of within-session licking behavior between the ﬁrst (ﬁrst) and last (last) quartiles.  Both individual data (light blue; n = 10 mice) and group averages
+(blue) are shown.  *p value < 0. 05; n. s. , not signiﬁcant (n = 10; paired t test, p value > 0. 05). 
+from our slice experiments could explain the behavioral data
+from Figure 4 very well.  Using the evoked spiking from the slice
+experiments as estimates of in vivo activation of the nigrotectal
+pathway, we examined the relationship between spiking and
+suppression of licking.  Estimated SNr spiking, based on results
+from slice experiments, could account for most variance in the
+suppression of licking behavior (Figure 5C; r2 > 0. 90, p < 0. 001
+in each).  Thus, higher nigrotectal output results in stronger suppression of licking. 
+To test whether nonspeciﬁc effects of laser stimulation or
+infection contributed to the reduced licking rate duringstimulation in Vgat::ChR2SNr-SC mice, we injected Vgat-IRESCre mice (n = 5) with an AAV-Flex-eYFP control vector (Vgat::
+eYFPSNr-SC).  Under the same experimental conditions, laser
+stimulation in the absence of ChR2 had no effect on licking
+behavior (Figure S3; n = 6 mice; p > 0. 05, one-way ANOVA). 
+Interestingly, photo-stimulation of nigrotectal GABAergic projections at 100 Hz not only transiently suppressed licking but also
+altered the timing ofVgat::ChR2 SNr-SC mice (Figure 6A).  Based on the ﬁtting of the
+stepping model by the single-trial analysis, we could deﬁne the
+start and end of the licking bout on each peak probe trial. 
+the response on the nextPhoto-stimulation 1 s after the reward signiﬁcantly delayed the
+licking bout on the next trial (Figure 6B; n = 5; p < 0. 05, unpaired
+t test).  Photo-stimulation 1 s before the reward signiﬁcantly delayed the center of the bout (peak) and start of the bout (Figure 6C; n = 5; p < 0. 05, unpaired t test).  Yet stimulation at an
+earlier point (2 s to 1 s) before the reward delivery resulted in
+an earlier peak (Figure 6D; n = 5; p < 0. 05, unpaired t test; Figure S4).  Furthermore, when the stimulation frequency was lowered to 50 Hz 1 s after the reward condition, signiﬁcant delays
+in consummatory licking were still evident in three of the four
+mice, whereas shifts on subsequent peak trials were only found
+in a single mouse (p < 0. 05, unpaired t test; data not shown). 
+Taken together, these results strongly suggest that the resetting/pausing effect on peak trials is not due to delays in the termination of consummatory licking.  Cancelation of the current
+licking bout is relatively independent of the delay in the next
+bout of licking. 
+Photo-stimulation 1 s after the reward is thus most effective at
+delaying consumption licking (Figures 6 and S3; n = 5; p > 0. 05,
+unpaired t test).  There was no correlation between the end
+time of the consumption licking and start/end of the licking
+bout in both stimulation or no stimulation conditions (Figure S5;
+3766 Current Biology 27, 3763–3770, December 18, 2017
+Figure 4.  Optogenetic Stimulation of SNr-SC Pathway Cancels Licking Behavior
+(A) Schematic of surgical and optogenetic procedures. 
+(B) Diagram of licking-related circuitry: dorsolateral striatum (DLS); substantia nigra pars reticulata (SNr); superior colliculus (SC); and central pattern generators(C) Image of axons within the SC expressing ChR2 after injections of AAV5-EF1a-DIO-hChR2(H134R)-eYFP into the SNr. 
+(D) Schematic of stimulation conditions relative to presentation of reward (top).  Examples (left) and summary (right) of optogenetic stimulation effects on
+anticipatory and consummatory licking behavior with Vgat::ChR2SNr-SC mice showing frequency-dependent modulation of licking behavior by optogenetic
+stimulation.  *p value < 0. 05 (n = 6 mice; one-way ANOVA, post hoc Tukey test). 
+See also Figures S2 and S3A. 
+r2 < 0. 10, p > 0. 05).  These results indicate that the nigrotectal
+GABAergic projection is also critical
+timing behavior. 
+Under the same experimental condition, photo-stimulation in
+the absence of ChR2 expression in control animals (5 Vgat::
+eYFPSNr-SC mice) had no effect on peak test performance (Figure 6; n = 5; p > 0. 05, unpaired t test). 
+<Conclusion> DISCUSSION. 
+We designed a novel behavioral task for studying interval timing
+in mice.  Compared with the traditional freely moving operant
+approach, this procedure has three major advantages: (1) by
+eliminating complex behavioral sequences observed in freely
+moving animals, the behavioral measure was simpliﬁed, allowing
+focus on central timing mechanisms with a clearly deﬁned and
+quantiﬁable behavioral readout; (2) behavioral training, which
+only takes a few days, is more efﬁcient than traditional operant
+procedures, which require months of training for the standard
+peak procedure; and (3) mice display all the hallmarks of interval
+timing, such as the scalar property.  Taking advantage of the
+above features, we used optogenetics to interrogate the role of
+a deﬁned neural pathway in timing. 
+Using quantitative modeling of single-trial behavior, we show
+that licking behavior can be described by a stepping model
+[19].  The apparent Gaussian distribution of
+the behavioral
+timing function from peak trials is a result of averaging data
+from many trials with variable step onset and offset times
+[20].  The start and stop times on peak trials are of particular interest because they reﬂect the animal’s moment-to-moment
+estimate of when the reward will arrive on each trial.  All animals
+tested showed a ‘‘peak’’ around the timing of the target duration (Figures 2A and 2B).  The variance is also proportional to
+the time interval (Figures 2C and 2D).  This scalar property, a
+hallmark of interval timing, is thought to be analogous to the
+Weber-Fechner law, which has been characterized for other
+sensory modalities [4]. 
+Traditional timing studies often rely on the ‘‘peak response,’’
+which is a result of averaging behavior from many trials.  The
+gradual ramping pattern of the anticipatory behavior could be
+an artifact of averaging [20], creating a misleading picture of
+the underlying mechanisms [22].  Our single-trial analysis produces a more accurate depiction of timing behavior.  We show
+that licking behavior during each interval can be described by
+a ‘‘stepping’’ model, with abrupt onsets and offsets.  As shown
+Current Biology 27, 3763–3770, December 18, 2017 3767
+Figure 5.  Photo-Stimulation Reliably Generates Spiking in SNr Neurons
+(A) Whole-cell current clamp experiments in brain
+slices show that SNr projection neurons can follow
+pulse trains in a frequency-dependent manner. 
+Representative traces at frequencies of 10 Hz,
+25 Hz, 50 Hz, and 100 Hz are shown. 
+(B) Summary of evoked spiking to photo-stimulation.  Neurons demonstrated increased spiking as
+stimulation frequency increased with each increment in stimulation frequency, inducing a signiﬁcantly greater number of spikes (n = 6; p < 0. 05,
+one-way ANOVA, post hoc Tukey test) and near
+perfect ﬁdelity up to 50 Hz. 
+(C) The evoked ﬁring rate can be used to estimate
+the in vivo SNr output.  A linear regression analysis
+shows that the estimated SNr output can account
+for most of the variance in licking behavior from
+Figure 4 (r2 > 0. 90; p < 0. 05 in each). 
+output from the SNr [10].  Both SNr and
+SC show single-unit activity time locked
+to licking, but their outputs are out of
+phase because the projection is inhibitory.  The descending signal
+from the
+SNr appears to be a high-level action
+command that coordinates voluntary
+licking behavior. 
+by recent work, event-aligned analysis of averaged data can
+lead to inaccurate interpretation of underlying neural mechanisms [19].  Our ﬁnding suggests a stepping dynamic is more
+likely to capture the neural activity that generates timing
+behavior in accordance with previous in vivo electrophysiological results [10]. 
+Our single-trial analysis also demonstrates signiﬁcant motivational modulation of timing behavior (Figure 3).  Early in the
+session, when the mouse is highly motivated, the lick bouts
+start earlier and end later and the average licking rate is higher. 
+Anticipatory licking is gradually reduced during the session,
+though consummatory licking bouts remain consistent (Figures
+3C and S1).  The motivational state of the animal primarily modulates the spread of the licking bout (i. e. , lick bout duration is
+determined by how thirsty the animal
+is).  In previous work,
+data from the entire session are averaged without regard for
+the motivational state.  Consequently, previous work has not
+considered the portion of behavioral variability that can be
+attributed to motivational states,
+thus underestimating the
+precision of interval timing in animals.  The Weber fraction, a
+common measure of timing precision, is much lower when
+the animal is sated (Figure 3D).  Given strong motivational modulation of timing behavior and on basal ganglia output [21, 23],
+future studies of timing must take into account internal motivational states. 
+We used cell-type-speciﬁc optogenetic manipulation to
+study the role of a basal ganglia output pathway that is known
+to be critical for licking behavior [10].  Activation of the nigrotectal GABAergic pathway stopped both anticipatory and
+consummatory licking behavior.  Previous work showed that
+such pausing is due to disruption of the patterned neural
+3768 Current Biology 27, 3763–3770, December 18, 2017
+To test the contribution of this pathway to interval timing, we
+selectively stimulated the axon terminals of SNr GABAergic projections neurons in the intermediate/deep layers of the SC.  In
+agreement with previous work [7], we showed that both anticipatory and consummatory licking can be precisely and selectively
+terminated by photo-stimulation.  More importantly, we found
+that photo-stimulation of the nigrotectal pathway not only interrupts ongoing licking but also delays timing of the next licking
+bout on peak trials.  Yet stimulation did not affect licking bout
+duration (Figure 6).  Therefore, canceling a discrete basal ganglia
+output may also pause or reset the oscillatory cycle for precise
+timing of future actions that occur up to 10 s later. 
+One alternative explanation of our result is that animals can
+use the end of consummatory licking as a cue to time the
+next reward delivery.  According to this account, any interruption of consummatory licking can delay the start of the next
+bout accordingly.  The available evidence, however, does not
+support this interpretation.  First, single-trial analysis demonstrates that the end of the consummatory licking does not predict the start of the next bout of licking (Figure S5C).  Second,
+delays in the termination of consummatory licking and shifts
+in peak trial activity are differentially modulated by stimulation
+frequency, with termination of consummatory licking being
+more sensitive.  It is also clear from Figure 6A that delays in
+the termination of consummatory licking are not necessary for
+peak shifts.  A potential explanation is that divergent pathways
+are responsible for timing and motor command signals.  SNr
+efferents have collateral branches to the thalamus and SC
+[24, 25].  Consequently, updates may be sent to cortical regions
+through SNr-thalamus collaterals.  This would explain the resilience of timing behavior during lower frequency stimulation. 
+Figure 6.  SNr-SC Stimulation Stops Timing
+of Licking Behavior in Vgat::ChR2SNr-SC Mice
+(A) Example of the resetting effect by photo-stimulation (100 Hz) of
+the SNr-SC GABAergic
+pathway during 1 s after the reward delivery. 
+(B) Effect of photo-stimulation during 1 s after the
+reward delivery on start time, end time, bout
+length, and peak time.  Photo-stimulation signiﬁcantly delayed start time, end time, and peak, but
+not bout length. 
+(C) Effect of photo-stimulation during 1 s before
+the reward delivery on start time, end time, bout
+length, and peak time.  Photo-stimulation signiﬁcantly delayed start time and peak, but not end
+time and bout length. 
+(D) Effect of photo-stimulation during 2 s to 1 s
+prior to the reward delivery on start time, end time,
+bout length, and peak time.  Photo-stimulation
+signiﬁcantly advanced end and peak time, but not
+start time and bout length.  *p value < 0. 05 (n = 5;
+unpaired t test); n. s, not signiﬁcant (n = 5 mice,
+unpaired t test). 
+See also Figures S3B and S4–S6. 
+licking (Figure 3).  Finally, the phase of
+the oscillation is adjusted by the reward
+feedback as well as descending motor
+commands to initiate licking [2]. 
+In conclusion, we introduced a novel
+behavioral task for the rapid acquisition
+of interval timing behavior using licking
+as a behavioral
+readout.  Quantitative
+analysis of single-trial behavior demonstrated clear motivational modulation of
+timing behavior.  Using optogenetic stimulation of the nigrotectal pathway, we
+could selectively delay the timing of the
+next bout of licking, suggesting that basal ganglia output may
+play a role not only in initiating actions but also in adjusting central timing mechanisms. 
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d CONTACT FOR REAGENT AND RESOURCE SHARING
+B Experimental Model and Subject Details
+d METHOD DETAILS
+B Viral Constructs
+B Surgery
+B Fixed-time schedule task
+B Peak probe trials
+B Optogenetic stimulation
+B Whole-cell patch clamp recordings in brain slices
+B Histology
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+B Single-trial analysis
+B Scalar Timing Analysis
+Current Biology 27, 3763–3770, December 18, 2017 3769
+Thus, it is possible that the nigrotectal pathway not only generates high-level motor commands for licking but also efference
+copies to higher levels that adjust the oscillatory cycle based
+on a variety of feedback signals.  When such signals are interrupted by cancelling licking behavior, it is possible to pause
+the timing mechanism.  Future studies using cell-type-speciﬁc
+manipulation of the upstream circuits will be needed to test
+this hypothesis. 
+According to the scalar expectancy theory of timing, pulses
+from a pacemaker are accumulated and compared to a reference memory, and the ratio between the currentreading’’ and remembered time is used to generate behavior
+[1].  The present results suggest that this timing mechanismfully dissociable from high-level motor commands
+[26–28]. 

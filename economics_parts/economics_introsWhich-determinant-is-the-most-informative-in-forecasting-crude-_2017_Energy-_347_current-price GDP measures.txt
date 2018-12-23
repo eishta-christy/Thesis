@@ -1,0 +1,335 @@
+
+Explaining the main determinants and improving the forecast accuracy of crude oil market volatility are crucial to market investors and
+government decision makers.  However, forecasting oil volatility is an
+intractable task, as the crude oil market is quite complex and has various
+uncertain determinants, such as global oil supply and demand, OPEC
+spare capacity levels, ﬁnancial crises, and national elections.  Some studies have claimed that oil price change relies heavily on oil demand and
+supply, especially global demand (i. e. , Dées Name, 2007.  Kilian, 2009.  Mu
+and Ye, 2011).  However, other studies have argued that a speculative
+component plays a key role (Zhang, 2013.  Hamilton and Wu, 2014. 
+Kilian and Murphy, 2014.  Juvenal and Petrella, 2015.  Gogolin and
+Kearney, 2016). 
+Liu Name (2016) disentangle the contributions of oil demand, supply,
+and speculation in real oil prices, whereas Yin and Zhou (2016) identify
+the role of speculation and economic fundamentals in driving oil price
+volatility.  However, as in the seminal work of Baker Name (2013) on
+measuring economic policy uncertainty (EPU), it is worth mentioning
+that many studies have examined the effect of EPU on the stock market
+and have considered EPU indices in forecasting stock market returns
+(Pastor and Veronesi, 2012.  Antonakakis Name, 2013.  Kang and Ratti,
+2013.  Tsai, 2017).  The literature about EPU's impact on the oil market
+is growing in recent years (e. g. , Aloui Name, 2016.  Balcilar Name, 2016. 
+Yin, 2016).  For example, Aloui Name (2016) hold that the movements
+in uncertainty index can identify the supply-side, aggregate-demand,
+and oil-speciﬁc demand shocks, that directly drive the oil price.  Thus,
+an increase (decrease) in the uncertainty index probably negatively
+(positively) affects the economy, which in turn reduces (increases)
+the demand and supply of crude oil and then cause oil price volatility. 
+Balcilar Name (2016) also emphasize that EPU can drive the oil price ﬂuctuations.  We conjecture that a high EPU can cause serious divergence in
+the expectations of oil consumers, producers, and speculators simultaneously and thus affect the demand, supply, or speculation stock for
+crude oil.  Therefore, EPU may comprehensively involves various information such as oil shocks, ﬁnancial crisis, and political events that greatly impact the oil market and cause oil price volatility.  However, it is not
+clear whether EPU is the most informative factor in forecasting oil volatility, and which determinant is the most powerful remains to be
+addressed. 
+This study is speciﬁcally related to the literature on the determinants
+of oil market return or volatility (e. g. , Dées Name, 2007.  Kilian, 2009.  Mu
+and Ye, 2011.  Conrad Name, 2014.  Hamilton and Wu, 2014.  Kilian and
+Murphy, 2014.  Gogolin and Kearney, 2016) and the predictability of
+EPU indices in asset return or volatility (e. g. , Pastor and Veronesi,
+2012.  Antonakakis Name, 2013.  Kang and Ratti, 2013.  Tsai, 2017).  We
+address two questions.  First, is EPU helpful for forecasting crude oil
+market volatility.  Second, which determinant is most informative and
+helpful in forecasting spot oil volatility—oil demand, supply, speculation, or the novel EPU index.  To answer these questions, we consider
+two newly released global EPU (GEPU) indices and six countryspeciﬁc EPU indices from major oil consumers and producers worldwide.  This allows us to investigate whether these new indices help in
+forecasting oil volatility and to compare their predictabilities with
+those of traditional determinants. 
+Regarding the models for forecasting asset volatility, GARCH
+and its extensions have been popularly used in empirical analyses
+(e. g. , Bollerslev, 1987.  Glosten Name, 1993.  Cheong, 2009. 
+Mohammadi and Su, 2010.  Nomikos and Andriosopoulos, 2012. 
+Charles and Darné, 2014.  Eﬁmova and Serletis, 2014).  However, most
+of these models are strictly limited to imputing data at the same frequency.  Ghysels Name (2004) introduce mixed data sampling (MIDAS)
+regression models, which successfully address the data frequency problem.  To overcome the defect of GARCH-class models, Engle Name (2013)
+incorporate the MIDAS technique with the GARCH model, forming the
+GARCH-MIDAS model, which allows macroeconomic determinants to
+be incorporated at different sampling frequencies.  Conrad Name (2014)
+use the GARCH-MIDAS model to investigate the oil volatility with respect to the stance of the U. S.  macroeconomy but they focus on insample evidence.  Combination methods have also been argued to
+achieve stable forecast ability (Stock and Watson, 2004).  They can be
+categorized as constant combined models and time-varying combination methods.  Speciﬁcally, Raftery Name (2012) develop the dynamic
+model averaging (DMA) technique, which Liu Name (2017) successfully
+apply as a time-varying combination method to forecast volatilities of
+the West Texas Intermediate (WTI) oil futures, accounting for both parameter and model uncertainty.  We construct 11 individual GARCHMIDAS models and three DMA model combinations with various
+determinants. 
+Although both Conrad Name (2014) and our study involve the determinants of oil price volatility.  However, our innovation is quite different
+from theirs in several ways.  First, based on the controversy in crude oil
+market, we aim to address the question which determinant is most informative and helpful in forecasting spot oil volatility, i. e. , oil demand,
+supply, speculation, or the novel EPU indices.  Whereas, the main contribution of Conrad Name (2014) provide the ﬁrst evidence on the link between U. S.  economic activity and the daily oil-stock correlation.  They
+examine whether the long-term oil and stock market volatility, as well
+as oil-stock correlation respond to the same macroeconomic information, especially, the oil-stock correlation.  Second, due to the different
+aims, Conrad Name (2014) consider the determinants that contain information on current and future U. S.  economic activity.  Unlike those determinants, we are the ﬁrst to integrate both the global economic policy
+uncertainty (GEPU) indices and several national economic policy uncertainty (EPU) indices with traditional determinants, such as global oil demand, supply, and speculation.  Third, unlike Conrad Name (2014), this
+study mainly concerns the models' out-of-sample performance. 
+We make two contributions.  First, we are the ﬁrst to consider various
+EPU indices, especially the GEPU indices and the country-speciﬁc EPU
+indices from major oil consumers and exporters, and the traditional determinants in forecasting crude oil market volatility.  Aloui Name (2016)
+suggest that EPU indices can identify three types of shock on oil prices
+(i. e. , supply-side, aggregate, and oil-speciﬁc demand).  Furthermore,
+we argue that EPU not only inﬂuences oil demand-supply fundamentals, but also changes market participants' sentiments, giving rise to
+speculation activities, and thus may contain more information and
+achieve better oil volatility forecasting accuracy than commonly used
+determinants.  Our empirical study provides an overview of the EPU indices and traditional determinants in forecasting oil volatility. 
+Second, we model daily oil volatility using a GARCH-MIDAS model
+with different monthly determinants.  To provide the time-varying effects of the determinants, we also apply DMA combination methods,
+allowing both a set of determinants and their coefﬁcients to change
+over time.  Furthermore, the models' forecasting performance is evaluated using the robust advanced model conﬁdence set (MCS) test (Hansen
+Name, 2011). 
+We use monthly global oil demand, supply record, and speculation
+data and two GEPU indices and six country-speciﬁc EPU indices to
+model and forecast the daily volatility of WTI crude oil spot prices.  The
+main empirical results indicate that EPU indices contain more useful information than oil demand-supply fundamentals or speculation indices
+in determining the daily volatility of crude oil prices.  In particular, the
+GEPU index and the U. S. ’s EPU index produce more accurate volatility
+forecasts of WTI oil prices than other determinants.  Finally, no evidence
+is found that DMA combination methods are superior to individualThe rest of this paper is structured as follows.  Section 2 presents a
+brief literature review, which serves as a foundation for analyzing the
+determinants of oil volatility.  Section 3 describes the GARCH-MIDAS
+model and the DMA combination approach.  Section 4 discusses the
+data.  Section 5 presents the empirical results.  Section 6 concludes the2.  Literature review. 
+In this section, we revisit the literature on the subject.  Numerous
+studies have examined the determinants of oil price or returns.  The predominant explanation for oil price change is that oil price relies on oil
+demand and supply (Kilian, 2009.  Mu and Ye, 2011).  For example,
+Kilian (2009) distinguishes oil demand and supply shocks in oil price
+changes and claims that increases in oil price are mainly driven by demand.  Moreover, with the ﬁnancialization of crude oil, many papers
+have recognized the role of speculation and have examined its effect
+on oil prices (Kilian and Murphy, 2014.  Juvenal and Petrella, 2015. 
+Gogolin and Kearney, 2016).  Liu Name (2016) disentangle the oil demand, supply, and speculation of real oil prices.  Their results show
+that oil demand from the U. S.  and China plays a key role in oil price
+changes after 2000, whereas speculation contributes much less to oil
+price ﬂuctuations. 
+In particular, since Baker Name (2013) constructed the EPU index to
+measure EPU, many empirical studies have highlighted the importance
+of EPU indices in forecasting asset return and volatility (Pastor and
+Veronesi, 2012.  Antonakakis Name, 2013, 2014.  Kang and Ratti, 2013. 
+Balcilar Name, 2016.  Tsai, 2017).  There are growing literature on EPU's
+impact on the oil market, Antonakakis Name (2014) examine the relationship between EPU and oil prices and claim that EPU indices affect
+oil prices.  Bekiros Name (2015) claim that EPU matters in predicting oil
+price changes.  Recently, Aloui Name (2016) investigate the effect of uncertainty on crude oil returns.  Their results show that higher EPU indices
+signiﬁcantly increase crude oil returns only during certain periods.  Yin
+(2016) also illustrates the importance of policy uncertainty for both
+oil spot and futures returns.  Speciﬁcally, Aloui Name (2016) provide an
+accurate picture of the conditional dependence between oil and uncertainty.  They claim that increased uncertainty leads to increased oil
+prices, as oil suppliers can stock up due to a precautionary motive. 
+Thus, oil price ﬂuctuations can reﬂect either demand or supply shocks. 
+In addition, Balcilar Name (2016) emphasize the role of EPU as a driver
+of oil price ﬂuctuations.  These ﬁndings illustrate that EPU indices can
+be good determinants in forecasting the oil volatility. 
+GEPU indices are constructed and released monthly.  The GEPU index
+is a GDP-weighted average of national EPU indices, accounting for two
+thirds of the global GDP.  Currently, there are two versions of the GEPU
+index—that with nominal GDP weights and that with purchasing
+power parity (PPP) adjusted GDP weights.  Few studies have applied
+the newly released GEPU index.  Speciﬁcally, oil is the main energy
+source of the modern world, and oil price uncertainty is crucial for all
+countries.  Furthermore, oil price ﬂuctuations are affected by the EPUs
+of many countries, especially the countries of main oil consumers and
+producers.  In this regard, the GEPU index is supposed to be a good determinant of oil price volatility. 
+EPU indices reﬂect not only demand-supply fundamentals and economic activity, but also investors' sentiments.  Thus, EPU indices, especially the GEPU index, are supposed to be synthetic determinants of
+oil price uncertainty.  Colombo (2013) ﬁnds that the EPU of the U. S. 
+drives the EPUs of major European countries, Canada, and China, implying that a shock to the U. S.  EPU affects worldwide uncertainty.  Thus, the
+U. S.  EPU may have a greater effect on the global oil market.  We include
+two global indices and six national EPU indices from major oil exporters
+and consumers worldwide.  This allows us to examine whether these
+new indices help forecast oil volatility and to compare the predictabilities of these determinants. 
+There are various theoretical approaches to modeling and forecasting oil market volatility.  Of the models based on low-frequency data,
+the majority of empirical investigations of oil volatility that use daily
+or monthly data have used GARCH-class models (Cheong, 2009. 
+Mohammadi and Su, 2010.  Nomikos and Andriosopoulos, 2012. 
+Charles and Darné, 2014.  Eﬁmova and Serletis, 2014).  Although
+GARCH-class models and their extensions are widely used, most are
+limited to data at the same frequency.  Interestingly, Ghysels Name
+(2004) introduce MIDAS regression models.  MIDAS regression successfully addresses the problem of the explained and explanatory variables
+being sampled at different frequencies, such as daily, weekly, and
+monthly.  Ghysels Name (2006) construct MIDAS-AR and consider various MIDAS regressions to predict equity volatility.  In the MIDAS framework, Ghysels Name (2007) propose some extensions, such as nonlinear
+MIDAS and multi-variable MIDAS.  Engle Name (2013) construct the
+GARCH-MIDAS model by incorporating MIDAS with the commonly
+used GARCH model.  The GARCH-MIDAS model has several advantages. 
+For instance, it distinguishes long- and short-term volatility.  It also differentiates low-frequency volatility and macro fundamentals as longterm volatility, and provides a ﬂexible methodology.  Thus, it has been
+applied in many recent forecasting practices (e. g. , Engle Name, 2013. 
+Asgharian Name, 2013.  Conrad Name, 2014).  For example, Engle Name
+(2013) use the GARCH-MIDAS model to measure the contribution of
+macroeconomic variables to forecasting stock market volatility. 
+Asgharian Name (2013) apply the GARCH-MIDAS model to examine
+whether macroeconomic variables can help forecast stock return variance.  These empirical studies support that the GARCH-MIDAS model
+signiﬁcantly improves forecasting accuracy and outperforms the traditional GARCH model.  Especially, using the GARCH-MIDAS framework,
+Conrad Name (2014) analyze whether the long-term oil volatility is related to the U. S.  macroeconomy determinants such as industrial production (IP), national activity index (NAI), and so on.  In light of this, we
+consider different monthly determinants and incorporate them into
+GARCH-MIDAS to model and forecast daily spot oil volatility. 
+Although many individual models, such as GARCH and GARCHMIDAS, have been applied in the economics and ﬁnance ﬁelds, Stock
+and Watson (2004) point out that the predictabilities of individual
+models are very unstable and change over time.  Hence, some studies
+have discussed how to combine a set of forecasts to produce superior
+composite forecasts (Liu and Maheu, 2008.  Santos and Ziegelmann,In particular, Raftery Name (2010) propose the DMA method, which
+allows the model to vary with variables over time.  The important feature
+of the DMA method is that it allows for both time-varying coefﬁcients
+and a large state space model (i. e. , the set of oil volatility determinants
+can change over time).  Consequently, DMA has been widely used in
+forecasting in recent years (e. g. , Koop and Korobilis, 2012.  Naser,
+2016.  Wang Name, 2016).  Liu Name (2017) apply the DMA method as a
+time-varying combination method.  The DMA method dynamically combines the generated models by using two forgetting factors to estimate
+both model parameters and model switching probabilities (i. e. , DMA
+successfully avoids arbitrary choices made by model users).  However,
+there is no consensus on whether combination methods are superior
+to individual models due to the large estimation errors in the DMA
+method.  Therefore, we include three DMA model combinations and
+compare them to 11 individual GARCH-MIDAS models. 
+To compare the models' performance, various loss functions are
+used.  However, the loss functions cannot indicate which models are signiﬁcantly better than others.  Hansen (2005) solves this problem by proposing a superior predictive ability test.  Hansen Name (2011) propose a
+more robust test known as the MCS test.  The MCS test does not need to
+specify an obvious benchmark, which is very useful in applications and
+thus is popularly used to compare forecasting models. 
+Nevertheless, the research has not yet considered EPU indices in
+forecasting oil price volatility, especially the newly constructed GEPU
+indices.  No study has investigated the effects of oil demand-supply fundamentals or speculation with global and national EPU indices.  Moreover, few studies have analyzed which determinants are the main
+causes of oil volatility.  We ﬁll these gaps by using both individual
+GARCH-MIDAS models and the time-varying DMA combination method
+under the evaluation framework of the MCS test. 
+<Middle> Empirical methodology. 
+3. 1.  GARCH-MIDAS model. 
+To investigate the contribution of different monthly determinants
+(i. e. , oil demand, supply, speculation, and EPU) on daily oil price volatility, we use a new GARCH-class model introduced by Engle and Rangel
+(2008) and Engle Name (2013).  The GARCH-MIDAS model is based on
+the MIDAS regression proposed by Ghysels Name (2006).  The main advantage of the GARCH-MIDAS model is that it allows for the incorporation of macroeconomic fundamentals at lower frequencies to forecast
+daily asset volatility.  We illustrate the GARCH-MIDAS model as follows. 
+Suppose that an unexpected return is expressed as follows,
+where ri, t is the log return of WTI oil price on day i in month t and
+Ei−1,t(ri,t) is the conditional mean of oil returns given the information
+set Φi−1,t up to day i-1.  Following Sadorsky (2006) and Narayan and
+Narayan (2007), we set Ei−1,t(ri,t)=μ, as a daily oil return has a very
+small mean and its dynamics are dominated by variance.  The conditional
+variance of the daily oil return is divided into two components.  a shortterm component deﬁned as gi,t and a long-term component deﬁned as
+τt.  The short-term volatility component, gi,t, is assumed to be a simple
+GARCH (1,1) process deﬁned as follows. 
+The long-term component, τt, is expressed as follows,
+where m is an intercept and θ is the slope of the weighted effects of
+lagged low-frequency fundamentals Vt on the long-term volatility of
+the oil return.  Furthermore, Vt is the growth rates of EPUs, oil demand,
+supply, and speculation, which can take negative values.  Thus, as
+Engle Name (2013) note, Eq.  (4) is usually presented in logarithmic form,
+where the optimal lag orders of K can be decided by the minimum
+Bayesian information criterion (BIC).  As suggested by Ghysels Name
+(2006) and Engle Name (2013), the weighting scheme usually adopted in
+Eq.  (4) is described by one- or two-parameter Beta polynomials. 
+3. 2.  Forecasting combination.  dynamic model averaging approach. 
+Studies have shown that constant coefﬁcient models have some
+problems.  For example, the predictors' effects on the predicted variables
+change over time (Ghysels Name, 2013.  Drachal, 2016.  Naser, 2016). 
+Hence, a speciﬁc model with a ﬁxed set of predictors may not consistently perform well (Stock and Watson, 2004).  To overcome this drawback,
+time-varying parameter (TVP) models, which allow the
+parameters of explanatory variables to change over time, have emerged. 
+In particular, Raftery Name (2010) propose the DMA approach, which allows both sets of predictors and their coefﬁcients to change over time. 
+Consequently, the DMA approach has been popularly applied in macroeconomic forecasting due to its ﬂexibility (e. g. , Koop and Korobilis,
+2011, 2012.  Naser, 2016.  Wang Name, 2016). 
+Following Primiceri (2005) and Koop Name (2009), the ordinary TVP
+model can be described as follows,
+where yt is the dependent variable, xt-1 is a 1 × m vector of predictors, βt
+is an m × 1 vector of coefﬁcients, and the innovation items are distributed as εt~i.  i.  d.  N(0,Vt) and ηt~i.  i.  d.  N(0,Wt).  This model can be estimated using the Kalman ﬁlter method. 
+In the models deﬁned by Eqs.  (8) and (9), it is assumed that the predictors in xt-1 are ﬁxed throughout the sample period, which may lead to
+over-parameterization problems and lower forecast accuracy.  Nevertheless, DMA is superior to the TVP model, as it allows both sets of predictors (forecasting models in a combination method) and their
+coefﬁcients to change over time.  The DMA approach can be illustrated
+as follow, where xt−1
+and εt~i.  i.  d.  N(0,Vt
+(k)).  If there are m predictors
+in xt−1′, the total number of possible combinations of these predictors
+is K = 2m.  Then, DMA can dynamically incorporate the uncertainty factors from the K models, 
+where the probability of Model K is π(t| t − 1, k)= Pr(Lt =k| Yt −1).  The
+equation Lt = K indicates that Model K is selected at time t and that
+Yt−1={y1,…,yt−1}.  DMA obtains its forecast by taking the average of
+all the K models in terms of their historical forecasting performance, denoted by π(t|t−1,k). 
+However, the DMA approach has a computational burden.  Without
+loss of forecast accuracy, Raftery Name (2010) simplify the DMA estimation using the Kalman ﬁlter method.  The initial assumptions are that
+is independent and identically distributed, and that βt−1
+ can be 
+determined separately only if Lt−1=k.  In this set of assumptions, λ is
+recommended as a forgetting factor, which plays an important role in
+the calculation of βt−1
+(k) , where observations j periods in the past gain
+λj weight from the starting period.  λ can also be used to simplify the covariance matrix of βt−1
+(k) .  This process is expressed as follows. 
+denotes the covariance matrix of βt−1
+where Σt∣t−1
+timation is then calculated using the following updating equations. 
+Another forgetting factor, α, is used in Eq.  (12).  If we use a transition
+matrix of probability, we should consider K=2m model combinations
+with m predictors at each point.  Once m exceeds 5, it is impracticable
+to operate the Markov switching in the K × K matrix.  Thus, using forgetting factor α can greatly reduce the calculation time and error.  Based on
+the forgetting factor, probability in the forecasting model is determined
+as follows. 
+The updating equation is deﬁned as follows,
+where fℓ(yt| Yt − 1) denotes the predictive density of Model ℓ. 
+Eqs.  (13)–(18) consist of all of the steps of the Kalman ﬁlter prediction
+and the updating process. 
+We apply the DMA approach as a time-varying combination method.  Instead of directly imputing the determinants in xt−1′, we use the
+forecasts from individual models as predictors.  Thus, the DMA approach
+can dynamically combine the models and be applied as a time-varying
+combination method. 
+3. 3.  Model evaluation.  model conﬁdence set test. 
+To evaluate the performance of the GARCH-MIDAS models with different sets of low-frequency determinants, we use two popular loss
+functions and the MCS test as our evaluation criteria.  These loss functions are the mean squared forecast error (MSFE) and the mean absolute forecast error (MAFE), which are deﬁned as follows,
+where yt is the true daily oil volatility represented by the squared daily
+returns on day t, whereas ^yt is the set of forecasts obtained from different models and M is the number of forecasts. 
+As the loss functions cannot distinguish whether the loss differences
+of these models are statistically signiﬁcant, we use an advanced test.  the
+MCS test of Hansen Name (2011).  The MCS test has several advantages
+over conventional tests (e. g. , Diebold and Mariano, 1995.  West, 1996. 
+White, 2000.  Hansen and Lunde, 2005).  For example, it does not have
+to specify a benchmark model, which is very useful in applications. 
+Moreover, it allows for the possibility of more than one “best” model. 
+The MCS test process is as follows.  Consider a set, M0, which contains
+a ﬁnite number of models, indexed by m = 1, …, m0.  These objects are
+evaluated over the sample t = 1, …, n in terms of loss function i.  We denote the loss associated with model u in period t as Lu,t.  The relative performance variables are deﬁned as duv,t ≡ Lu,t – Lv,t for all u, v∈M0.  The set
+of superior models is then deﬁned as follows,
+where E(di,uv,t) is the mathematical expectation of duv,t under the specific loss function i, such as MSFE or MAFE.  The MCS test is conducted
+through a sequence of signiﬁcance tests in which the models that
+prove to be signiﬁcantly inferior to other elements of M0 are eliminated. 
+The null hypotheses that are being tested take the following form. 
+The MCS procedure is based on an equivalence test, δM, and an elimination rule, eM.  The equivalence test, δM, is used to test hypothesis H0 for
+any M ⊂ M0 and the elimination rule, eM, identiﬁes the model of M that is
+to be removed from M on the condition that H0 is rejected.  After repeatingthese two tests, we obtain set ^M
+1−α, which consists of the set of “surviving” models.  The larger the p-value of the MCS test, the higher the forecast
+accuracy of the corresponding model.  Speciﬁcally, the signiﬁcance level α
+is usually set to be no more than 0. 25 (e. g. , Wei Name, 2010.  Hansen Name,
+2011.  Tian and Hamori (2015).  Wang Name, 2016.  Liu Name, 2017.  Pu
+Name, 2016).  However, the main purpose of this paper is to determine
+the most informative factor(s) controlling the long-term volatility of
+crude oil price instead of judging all the signiﬁcant inﬂuential factors. 
+Hence we set a higher signiﬁcance level α of 0. 5 in the empirical examination of this paper to guarantee that the “surviving” models are extraordinarily well performed. 
+In addition, Hansen Name (2011) suggest using the range statistic
+(TR) and the semi-quadratic statistic (TSQ) for model evaluation.  These
+statistics are deﬁned as follows,
+where di. uv ¼ 1
+t¼1 di. uv. t.  If the p-values of TR and TSQ are larger than
+0. 1, we conclude that the null hypothesis (Eq.  (22)) cannot be rejected. 
+The asymptotic distributions of the statistics TR and TSQ are nonstandard, as they depend on nuisance parameters (under both the null
+and alternative conditions).  However, these conditions pose no obstacle, as the distributions of these statistics are easily estimated using
+bootstrap methods that implicitly solve the nuisance parameter problem.  In addition to TR and TSQ, we use four more statistics (i. e. , Tmax, TQ,
+TF and TD) to reach more robust conclusions (Hansen Name, 2011). 
+4.  Data. 
+The data sample used in this study includes two parts.  one is the
+daily WTI crude oil spot prices and the other is the monthly macrolevel determinants of oil price volatility.  The monthly dataset consists
+of the global oil demand index, the oil supply record, the oil speculation
+index, two GEPU indices, and six country-speciﬁc EPU indices. 
+The global oil demand index is a measure of real global economic activity, constructed from the dry cargo shipping rate index developed by
+Kilian and Park (2009).  This real activity index is a business cycle index
+and a stationary construct that is designed to capture shifts in the global
+use of industrial commodities.  The global oil supply record is represented
+by global crude oil production, which is available in the Monthly Energy
+Review of the Energy Information Administration (EIA).  Following the
+methods of Hamilton (2009) and Kilian and Murphy (2014), we use the
+ratio of OECD petroleum stocks over U. S.  petroleum stocks recorded by
+the EIA to represent oil speculation. 
+The two GEPU indices are GDP-weighted averages of national EPU
+indices for 18 countries.  Australia, Brazil, Canada, Chile, China, France,
+Germany, India, Ireland, Italy, Japan, Russia, South Korea, Spain,
+Sweden, the U. K. , and the U. S.  There are two versions of the GEPU indices.  one is based on current-price GDP measures (denoted as
+EPU_global_GDP) and the other is based on PPP-adjusted GDP (denoted
+as EPU_global_PPP). 1 The six country-speciﬁc EPU indices are collected
+from three major oil-demand countries (i. 

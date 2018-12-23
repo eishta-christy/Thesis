@@ -1,0 +1,837 @@
+
+1. Introduction
+
+Attention-deﬁcit/hyperactivity disorder (AD/HD) is a common
+neurodevelopmental disorder with a worldwide prevalence around
+5.3% (Polanczyk, de Lima, Horta, Biederman, & Rohde, 2007). The
+electroencephalogram (EEG), as a non-invasive tool to measure brain
+electrical activity, has been used frequently in research to objectively
+reﬂect the abnormalities of AD/HD (Barry, Clarke, & Johnstone, 2003).
+Past studies have reported that patients with AD/HD showed increased
+slow-wave activity and reduced fast-wave activity compared to healthy
+controls, which results in a higher slow/fast wave ratio − commonly
+measured as an elevated theta/beta ratio (TBR) (Barry & Clarke, 2009).
+An early meta-analysis demonstrated a large eﬀect size for the AD/HD-
+control group diﬀerence on TBR (Snyder & Hall, 2006). In 2013, the
+U.S. Food and Drug Administration (2013) approved the use of TBR to
+assist in the identiﬁcation and diagnosis of AD/HD.
+
+However, the diagnostic value of TBR in AD/HD is controversial as
+recent studies have failed to replicate the group diﬀerence reported in
+earlier studies (Arns, Conners, & Kraemer, 2013; Loo et al., 2013;
+Ogrim, Kropotov, & Hestad, 2012; Zhang et al., in press). Instead, re-
+searchers are proposing the use of TBR in AD/HD for a prognostic
+purpose (Arns et al., 2013; Lenartowicz & Loo, 2014; Zhang et al., in
+press). The prognostic proposition focusses on using EEG to predict
+individual diﬀerences in AD/HD rather than identifying the char-
+acteristics of AD/HD. From this perspective, while TBR does not re-
+liably diﬀerentiate the patients from healthy controls, patients with
+elevated TBR show features diﬀering from those without elevated TBR.
+The argument is supported by the heterogeneous nature of TBR in AD/
+HD − about 35% of patients are estimated to have elevated TBR
+(Clarke et al., 2011). In addition, the prognostic value is also supported
+by EEG-based medication studies in which patients with higher TBR
+responded better to stimulant treatment (Arns, 2012; Clarke, Barry,
+McCarthy, & Selikowitz, 2002).
+
+One obstacle to using TBR for its prognostic value is to understand
+its behavioral meaning. The aberrant EEG activity in AD/HD was at-
+tributed to an arousal disorder in a prevailing EEG model of AD/HD, the
+hypo-arousal model (Satterﬁeld & Cantwell, 1974; Mann et al., 1992).
+In this model, the higher TBR in AD/HD was thought to reﬂect lower
+arousal compared to healthy controls. However, the assumption was
+not supported in a study that did not ﬁnd the relationship between TBR
+and arousal in children with AD/HD (Barry, Clarke, Johnstone,
+McCarthy, & Selikowitz, 2009). Instead, it was suggested that TBR in
+AD/HD may provide information about cognitive processing (Barry
+et al., 2009). However, it is uncertain which speciﬁc tasks/processes are
+related to TBR. In subsequent studies, it was reported that inattentive
+symptoms correlated with fronto-central TBR in children with AD/HD
+(Loo et al., 2013; Zhang et al., in press). Patients with higher TBR
+showed more severe inattentive issues (Loo et al., 2013; Zhang et al., in
+press). These results suggest that TBR may be a marker of attentional
+processing, which is consistent with studies of TBR in the normal po-
+pulation (Angelidis, van der Does, Schakel, & Putman, 2016; Putman,
+van Peer, Maimari, & van der Werﬀ, 2010; Putman, Verkuil, Arias-
+Garcia, Pantazi, & van Schie 2014).
+
+In the normal population, Putman et al. (2010) explored the re-
+lationship between frontal TBR and inhibitory functions. Inhibition was
+conceptualized at an attentional level (attention control, also known as
+interference control) and at a response level (response inhibition). The
+study revealed negative correlations between TBR and inhibition at two
+levels, relationships that were further replicated in subsequent studies
+(e.g. Putman et al., 2014; Angelidis et al., 2016). In these studies, the
+participants with higher TBR performed worse on inhibitions involving
+attentional and response control. As a result, TBR was considered a
+biomarker for inhibition (Angelidis et al., 2016; Putman et al., 2014).
+These results suggest that children with AD/HD who have elevated
+frontal TBR may be in risk of inhibitory deﬁcits both at attentional and
+at response level. Following this explanation, the correlation between
+TBR and the inattention found in AD/HD research (Loo et al., 2013;
+Zhang et al., in press) may essentially reﬂect a weakness of attentional/
+interference and response control. However, these assumptions have
+not been empirically addressed.
+
+Therefore, the current study aimed to explore whether elevated TBR
+is related to deﬁcient inhibition in children with AD/HD. As inhibition
+is a broad concept (Nigg, 2000; Diamond, 2013), three types of in-
+hibition found to be deﬁcient in AD/HD were examined; interference
+control (IC), response inhibition (RI), and daily inhibition (DI). The ﬁrst
+two terms are similar to those used in Putman et al. (2010). IC is a
+higher-order function of attention and plays an important role in top-
+down regulation, allowing individuals to preferentially process relevant
+stimuli and ignore irrelevant stimuli (Petersen and Posner, 2012). In
+comparison to healthy controls, patients with AD/HD show poor per-
+formance in IC tasks (Mullane, Corkum, Klein, & McLaughlin, 2009)
+and diﬀer from controls on electrophysiological measures taken during
+task performance (Johnstone, Barry, Markovska, Dimoska, & Clarke,
+2009; Johnstone, Barry, & Clarke 2013). In the laboratory, IC is fre-
+quently measured via a Flanker task.
+
+RI refers to the ability to stop an inappropriate prepotent or ongoing
+movement (Aron, Robbins, & Poldrack, 2004). A substantial proportion
+of the AD/HD population show deﬁcits in RI (Willcutt, Doyle, Nigg,
+Faraone, & Pennington, 2005), and concurrent abnormal neural activity
+has been shown in electrophysiological (Dimoska,Johnstone,
+Barry, & Clarke, 2003; Johnstone et al., 2013) and neuroimaging stu-
+dies (Aron & Poldrack, 2005). The Stop-signal task is frequently used to
+measure RI.
+DI also measures the ability to control/stop inappropriate behaviors
+but the measurement is based on performance in daily life (Gioia,
+Isquith, Guy, & Kenworthy, 2000). While RI is usually measured by
+experimental computerized tasks, performance indices may only reﬂect
+pure inhibitory processes without the involvement of emotion and
+motivation, which is dissimilar to daily behaviors (Barkley & Fischer,
+2011; Barkley, 2013). Thus, the outcomes may lack ecological validity
+(Barkley, 2013). Here, DI is introduced to measure inhibition in a social
+context, and measurement is typically via observation/questionnaires.
+Past studies have reported that, compared to controls, children with
+AD/HD show poor inhibitory control as measured by DI
+(Barkley & Fischer, 2011; McAuley, Chen, Goos, Schachar, & Crosbie,
+2010).
+
+As variables such as TBR are quantitative in nature, proportion/
+median-based split is widely used to dichotomize continuous variables
+into categorical variables (DeCoster, Iselin, & Gallucci, 2009;
+MacCallum, Zhang, Preacher, & Rucker, 2002); for example see Barry
+et al. (2009). The transformation allows researchers to better examine
+experimental hypotheses (Decoster et al., 2009; Iacobucci, Posavac,
+Kardes, Schneider, & Popovich, 2015). However, a common concern is
+that the dichotomization may bias the results, and certain justiﬁcations
+should be given when using the method (Decoster et al., 2009; Iacbucci
+et al., 2015; MacCallum et al., 2002). One consideration is whether
+there is a theoretical justiﬁcation for the cut point (Decoster et al.,
+2009). In an AD/HD population, not all patients show elevated TBR
+(Arns et al., 2013); 35% of the patients are estimated to have elevated
+TBR compared to healthy controls (Clarke et al., 2011). Therefore 35%
+will be the cut point to categorize an elevated TBR group or a control
+group here.
+
+The current study will explore whether AD/HD patients with or
+without high frontal TBR are diﬀerentiated on three inhibitory mea-
+sures − IC, RI, and DI. We predict that patients with elevated TBR will
+perform worse on these inhibitory assessments.
+
+<Middle> Methods.
+2.1. Participants.
+The participants were recruited at child psychiatric clinics of Peking
+University Sixth Hospital. Clinical Diagnostic Interview Scale (CDIS), a
+structured clinical interview based on the DSM-IV, was conducted by
+psychiatrists with the participants and their parents. Diagnosis was
+made by a senior psychiatrist based on clinical observation and the
+results of the CDIS. The mandarin version of CDIS was used and it
+shows good sensitivity and speciﬁcity (Yang, Wang, Qian,
+Biederman, & Faraone, 2004). Fifty-eight children (49 males, age range
+8–13 years, M = 10.2, SD = 1.5 years) participated in this study.
+Thirty four children were diagnosed with the predominantly inattentive
+type (ADHD-I) and 1 of these was comorbid with Oppositional Deﬁant
+Disorder (ODD). Twenty four children were diagnosed with the com-
+bined type (ADHD-C); four of them were comorbid with ODD and 1 was
+comorbid with Tic disorder. All participants had: 1) screening by the
+Clinical Diagnostic Interviewing Scales (Barkley, 1998); 2) no history of
+head trauma with loss of consciousness; 3) no history of other severe
+disease; 4) no history of pharmacological treatment; and 5) an IQ
+higher than 80 on the Wechsler Intelligence Scale III for children.
+
+2.2. Procedure
+
+Ethics approval was obtained from the University of Wollongong
+Human Research Ethics Committee (HE 15/085). Informed consent was
+obtained from the parent or guardian of each participant prior to ac-
+cessing any records or testing.
+Participants were required to complete the testing protocol in one
+day. In the morning, participants were in a patient room accompanied
+by a psychiatrist. They completed psychometric assessments and the
+Cambridge Neuropsychological Test Automated Battery (CANTAB) over
+about 2 h. In the afternoon, resting EEG was recorded in a room which
+was free from distraction, with participants seated on a comfortable
+chair with dimmed lighting. After EEG recording, participants were
+required to complete a Flanker task. The afternoon tasks lasted about
+55 min.
+2.3. Inhibitory measures
+
+IC was measured by the Flanker task (Eriksen & Eriksen, 1974)
+programmed using E-prime (Psychological Software Tools, Pittsburgh,
+PA). The task stimuli and parameters followed Johnstone et al. (2009).
+There were three trial types: congruent, incongruent , and
+neutral; with 40 presentations of
+each trial type. Each trial began with a 500 ms central ﬁxation cross
+(+) immediately followed by a stimulus which remained on-screen
+until a response was made or for 1500 ms if no response was made. A
+blank followed, of random duration between 250 and 750 ms. Children
+were instructed to focus on the ﬁxation, ignore the ﬂanking stimuli
+surrounding the central arrow, and respond with a left or right button
+press according to the direction of the central arrow. Only the ﬁrst
+response was recorded. Correct reaction time on incongruent stimuli
+(RTincongruent) minus correct reaction time on neutral stimuli (RTneutral)
+was calculated to measure the interference response cost (IRC).
+
+RI was measured by the Stop-signal task embedded in CANTAB.
+CANTAB is a commercial computerized battery consisting of a range of
+neuropsychological tasks (Chamberlain et al., 2011). Only the results of
+the Stop-signal task are reported in this study. In this task, children
+were instructed to respond as quickly as possible to bidirectional ar-
+rows. The task consisted of 320 trials with a 1000 ms inter-trial interval.
+In a minority of trials (25%) when an arrow was followed by an audi-
+tory signal, they were instructed to withhold their response. The Stop-
+signal task used a staircase design with the stop-signal delay (SSD)
+varied with a 50 ms step based on task performance, typically resulted
+in a 50% success on stop-signal trials. The outcome was stop-signal
+reaction time (SSRT), an estimate of the time taken to inhibit the re-
+sponse. SSRT was calculated by subtracting the SSD50% (at which the
+participant has 50% success in stopping) from the median RT of correct
+Go trials (Go RT).
+
+DI was measured by the Behavior Rating Inventory of Executive
+Function (BRIEF). The BRIEF is an 86-item questionnaire for assessing
+executive functions by observing daily behaviors, consisting of non-
+overlapping clinical subscales (Gioia et al., 2000). The BRIEF-Parent
+edition was used, and only the score of the inhibitory subscale is re-
+ported, given the stated research purpose.
+
+2.4. EEG recording and pre-processing
+
+Five minutes of EEG were recorded in an eyes-closed resting con-
+dition, followed by 5-min of recording with eyes open. The eyes-closed
+data were used in this study. The recording was paused if children
+showed signs of fatigue or restlessness. The EEG was acquired via a 128-
+channel system (HydroCel Geodesic Sensor Net, Electrical Geodesics,
+Inc., Eugene, OR). The impedance of all electrodes was less than 50 kΩ.
+All electrodes were physically referenced to Cz (ﬁxed by the EGI
+system). The EEG was ampliﬁed with a band pass of 0.01–200 Hz,
+which was digitized on-line at a sampling rate of 1000 Hz. The EGI data
+were converted to allow analysis using EEGLAB and Neuroscan soft-
+ware version 4.3.
+
+The EEG pre-processing followed previous studies in AD/HD (Barry
+et al., 2009; Clarke et al., 2011). Nineteen channels were selected based
+on the international 10–20 system. All channels were oﬄine re-refer-
+enced to linked ears, and re-sampled at 256 Hz, ﬁltered by a band-pass
+ﬁlter from 1 Hz to 70 Hz and a 50 Hz notch ﬁlter. Visual inspection was
+used to identify and exclude sections of EEG trace containing gross
+artefacts. The Independent Component Analysis function in EEGLAB
+(Delorme & Makeig, 2004) was applied on the 19 channels to identify
+and exclude components related to eye and muscle movements; this is a
+semi-automatic process aided by a tool box in EEGLAB, ADJUST
+(Mognon, Jovicich, Bruzzone, & Buiatti, 2011). Then, a 3-min period
+was extracted from the artefact-free EEG data, and was segmented into
+4 s epochs. These epochs were Fourier transformed using a Hamming
+window. Then EEG band power was obtained for two frequency bands:
+theta (3.5-7.5 Hz) and beta (12.5–25 Hz). TBR was subsequently cal-
+culated.
+
+2.5. Statistical analysis
+
+Frontal TBR was calculated by averaging the TBR values of frontal
+electrodes (Fp1, Fp2, F3, F4, F7, F8, Fz). Then, participants were di-
+vided into an elevated TBR group (ET, the value of TBR ranked top
+35%) and a control TBR group (CT).
+
+A common feature of the patients who have elevated TBR is the
+globally increased ratio (Clarke et al., 2011). To examine whether the
+ET group had this feature, a topographic analysis was conducted. The
+electrodes were divided into nine regions: left frontal (Fp1, F3, F7),
+midline frontal (Fz), right frontal (Fp2, F4, F8), left central (T3, C3),
+midline central (Cz), right central (T4, C4), left posterior (T5, P3, O1),
+midline posterior (Pz) and right posterior (T6, P4, O2). The EEG data
+for each region were calculated by averaging the electrodes in the re-
+gion. Then, an ANOVA with between-subjects factors of Group (ET, CT)
+and within-subjects topographic factors of Lateral (left, midline, right)
+and Sagittal (frontal, central, posterior) was conducted for the theta/
+beta ratio. Planned contrasts were examined within the Sagittal and
+Lateral factors. Within the Sagittal factor, planned contrasts compared
+the frontal (F) and posterior regions (P), and the central region (C) with
+the mean of the frontal and posterior regions (F/P). Within the Lateral
+factor, the contrasts compared the left hemisphere (L) with the right
+(R), and the midline region (M) with the mean of the hemispheres (L/
+R). The contrasts were planned, and there were no more of them than
+the degrees of freedom for the eﬀect, so no Bonferroni-type adjustment
+to α was required (Tabachnick & Fidell, 2007).
+
+ANOVA was separately used to examine the primary measures de-
+rived from the Stop-signal task and the Flanker task between groups. To
+examine the eﬀect of Group on inhibitory measures, a MANOVA was
+conducted. Pillai’s Trace tests were conducted. The behavioral data
+were inspected before entering the analysis. For RT-based measures,
+data were considered an outlier if it exceeded ± 2.5 standard deviations
+from the mean. One case was screened out in the Flanker task. For DL, 3
+cases were screened out as the scores exceed the criterion of the
+questionnaire. As these values were missing at random, an ex-
+pectation–maximization method was used to estimate the missing va-
+lues.
+
+3. Results
+3.1. Demographic and diagnostic information
+
+Demographic and diagnostic information were compared between
+groups (See Table 1). No signiﬁcant diﬀerences were found between the
+ET group and the CT group for age, IQ, and scores on the AD/HD Rating
+Scales.
+
+3.2. TBR topographic analysis
+
+The topographic maps for TBR for each Group are displayed in
+Fig. 1. TBR was larger in the midline (11.9) than the mean of the left/
+right hemispheres (8.6)
+(M > L/R: F(1,56) = 49.58, p < 0.001,
+2 = 0.470), larger in the frontal (10.3) than posterior (8.2) region
+ηp
+(F > P: F(1,56) = 43.03, p < 0.001,
+), and larger in the
+central (10.5) than frontal/posterior (9.3) region (C > F/P: F(1,56)
+2 = 0.104), and thus showed a midline fronto-
+= 6.52, p = 0.013, ηp
+central distribution.
+
+2
+=η
+p
+
+0.434
+
+interaction (ET > CT × M > L/R: F(1,56)
+A Group × Lateral
+2 = 0.156) indicated that the midline enhance-
+= 10.34, p = 0.002, ηp
+ment was larger in the ET (4.9) than CT (1.8) group. A Group × Sagittal
+2 = 0.068)
+interaction (ET > CT × F > P: F(1,56) = 4.07, p = 0.049, ηp
+indicated that the frontal enhancement was larger in the ET (2.7) than
+CT (1.4) group. Also, a main eﬀect of Group (ET > CT: F(1,56)
+2 = 0.407) indicated that the ET (12.9) had a
+= 38.49, p < 0.001, ηp
+globally elevated TBR compared to the CT (6.4).
+
+4.1. Task performance
+
+For the stop-signal task, the mean proportion of successful stop trials
+was 48.7% across participants, indicating the varied method in SST was
+valid. Separate ANOVAs examined Go RT and mean SSD50% between
+the groups (Table 2). There were no signiﬁcant diﬀerences.
+
+For the Flanker task, RTincongruent was greater than RTneutral (F
+2 0.762), indicating that the ﬂanker
+(1,57) = 182.59, p < 0.001, =ηp
+setting was valid. Separate ANOVAs examined the mean RTs on neutral
+and incongruent trials between the groups (Table 2). The ET group
+showed a larger RTincongruent compared with the CT group (F(1,56)
+= 5.31, p = 0.025, ηp
+
+2 = 0.087).
+
+4.2. Inhibitory functions
+
+The results of inhibitory tasks are displayed in Table 2. There was a
+signiﬁcant eﬀect of Group on IRC, SSRT, and DI in Pillai’s Trace (F
+2 0.192). Separate univariate ANOVAs
+=ηp
+(3,54) = 4.29, p = 0.009,
+were then conducted on each measure. IRC was larger in the ET than CT
+2 = 0.088). By contrast,
+group (ET > CT: F(1,56) = 5.42, p = 0.024, ηp
+DI was smaller in the ET than CT group (EC < CT: F(1,56) = 5.69,
+2 = 0.092). There was no signiﬁcant diﬀerence on SSRT (F
+p = 0.020, ηp
+(1,56) = 0.29, p = 0.590, ηp
+
+2 = 0.005).
+
+As the ET group showed larger IRC and smaller DI, one-way Pearson
+correlations were conducted to examine if the relationships between
+TBR and each of these types of inhibition were continuous. The corre-
+lations with TBR were signiﬁcant (IRC: r = 0.219, N = 58, p = 0.049;
+DI: r = −0.227, N = 58, p = 0.043).
+
+In summary, the results revealed that compared to the CT group, the
+ET group was more inﬂuenced by the interference but had less in-
+hibitory issues in a social context. Also, the relationships between TBR
+and the inhibition types were continuous.
+
+4.3. Relationships among inhibitory functions in each group
+
+As diﬀerences between groups were evident for inhibitory functions,
+relationships between the inhibitory tasks were further explored in the
+ET and CT groups separately. No signiﬁcant correlations were found
+between the DI and other inhibitory functions in the ET (DI with IRC,
+r = 0.130, N = 20, p = 0.655; DI with SSRT, r = −0.291, N = 20,
+p = 0.213) and CT group (DI with IRC, r = 0.286, N = 38, p = 0.082;
+DI with SSRT, r = 0.170, N = 38, p = 0.307). However, diﬀerent re-
+lationships between IRC and SSRT were found between groups. IRC was
+signiﬁcantly correlated to SSRT (r = 0.322, N = 38, p = 0.048) in the
+CT group, whereas this correlation was not signiﬁcant in the ET group
+(r = 0.135, N = 20, p = 0.570). By using a Fisher transformation, the
+correlations between SSRT and IRC were compared between the ET
+(r = 0.135, N = 20) and the CT group (r = 0.322, N = 38). The dif-
+ference was not signiﬁcant (p = 0.503).
+
+<Conclusion> Discussion.
+
+TBR is increasingly important as a prognostic biomarker in AD/HD
+research (Arns et al., 2013), although the behavioral meaning of TBR is
+currently uncertain. It has been suggested that TBR is related to
+cognitive processes rather than hypo-arousal in the AD/HD population
+(Barry et al., 2009). In addition, recent studies in healthy populations
+show that TBR is negatively correlated with inhibitory functions
+(Angelidis et al., 2016; Putman et al., 2010; 2014). Hence, the current
+study classiﬁed an elevated TBR group, based on the proportion of the
+population estimated to include this feature, as indicated by cluster
+analysis (Clarke et al., 2011), and explored whether the patients with
+elevated TBR displayed weakness in three types of inhibitory tasks.
+
+Across the groups TBR had a fronto-central distribution, which is
+consistent with previous studies (Barry & Clarke, 2009; Clarke, Barry,
+McCarthy, & Selikowitz, 2001). Compared to the CT group, the ET
+group showed a globally increased TBR. The result is in line with a
+feature in children with AD/HD who have excessive TBR (Clarke et al.,
+2011).
+
+With regard to the inhibitory functions, the current study found that
+participants in the ET group were more inﬂuenced by interference
+compared to the CT group; the ET group took longer to make an ac-
+curate response when interference stimuli were present. This result
+supports the hypothesis and is consistent with ﬁndings in the normal
+population. Using a self-report scale to measure IC, Putman et al.
+(2010) reported that the value of TBR is negatively correlated with
+performance. This ﬁnding was also repeated in subsequent studies and
+has shown good test-retest reliability (Angelidis et al., 2016; Putman
+et al., 2014).
+
+The ﬁndings of the relationships on RI and DI are in contrast to the
+hypotheses. In the Putman et al. (2010) study, TBR was also negatively
+correlated to RI; however, there was a non-signiﬁcant diﬀerence of RI
+between groups in this study. The diﬀering results may be due to dif-
+ferences in the stimuli and task paradigms. In their study, emotional
+stimuli were selected to investigate the relationship between TBR and
+emotional processing encouraged by previous ﬁndings (Knyazev,
+2007). Thus, the outcome reﬂects an interaction between emotional
+processing and RI. Here, without engaging emotional processes, the
+outcomes reﬂect more pure RI processing. Furthermore, with diﬀerent
+paradigms adopted, diﬀerent aspects of RI were involved. A Go/Nogo
+task was used in their study while a Stop-signal task was used here.
+Although both tasks measure RI, the Go/Nogo task emphasizes the
+ability to inhibit a response tendency whereas the Stop-signal task
+emphasizes the ability to inhibit an ongoing response (Aron, 2011;
+Verbruggen & Logan, 2008). The two paradigms are thought to elicit
+diﬀerent types of response inhibition (Verbruggen & Logan, 2008) and
+diﬀerent brain regions are involved in the tasks (Aron, 2011). Hence,
+the non-signiﬁcant result here indicates that there is no diﬀerence in
+inhibiting an ongoing response between groups.
+
+Also, the direction of the diﬀerence between groups on DI − pa-
+tients with elevated TBR had better performance on an inhibitory score
+measured by BRIEF − is contradictory to expectations. The contra-
+diction is relevant to a debate on the relationship between executive
+functions (EF) outcomes, including inhibition, measured by computer
+tasks, and the outcomes measured by reports based on daily perfor-
+mance (Barkley, 2013). Although EFs are operationally deﬁned in si-
+milar ways in these two approaches, low or no correlations have been
+reported between the outcomes from EF tasks and those from EF
+questionnaires in both normal (McAuley et al., 2010) and AD/HD po-
+pulations
+Bucciarelli,
+Jain, & Tannock, 2009). Two reasons may account for the disassocia-
+tion. First, the outcome measured by computerized tasks reﬂects the
+pure EF without a motivational or emotional inﬂuence; so-called “cold
+EF” (Barkley, 2013; Diamond, 2013). On the other hand, EF ques-
+tionnaires measure day-to-day activities in which motivational and/or
+emotional factors play an important role; so-called “hot EF” (Barkley,
+2013; Diamond, 2013). Thus, the diﬀerence may result from the in-
+volvement of motivational and/or emotional factors.
+The second explanation for the dissociation between task-based and
+questionnaire measures of EF, and the one that seems more plausible
+for the data reported here, is that the questionnaire-based approach
+may actually measure abilities other than EFs (McAuley et al., 2010).
+Fast and slow brain rhythms are resourced from diﬀerent brain systems
+and play cooperative roles in regulating behavior (for a historical re-
+view, see Knyazev, 2007). In detail, the fast wave/slow wave ratio such
+as TBR is suggested to reﬂect emotional and (or) motivational proces-
+sing. For example, the TBR is related to more motivational imbalances
+and punishment-driven behaviors (Schutter & Van Honk, 2005). Also,
+healthy individuals with higher TBR show weakness in inhibiting a
+response under the eﬀect of emotion (Putman et al., 2010). In this way,
+patients with higher TBR should have performed worse on BRIEF in this
+study. Moreover, scores on BRIEF are widely related to math perfor-
+mance, reading proﬁciency, and other behaviors but not related to
+classic EF tasks including inhibitory tasks in children (McAuley et al.,
+2010), which suggests BRIEF may actually measure other abilities.
+Hence, the comparison of the inhibitory subscale between groups may
+in fact tap abilities other than inhibition. Our results suggest that
+children with AD/HD who do not show elevated TBR may have atypical
+functions in other domains rather than inhibition.
+Furthermore, diﬀerent relationships between IC and RI were found
+between groups − IC was correlated with RI in the CT but not ET
+group. The diﬀerence may reﬂect the smaller group size of the ET
+group, as the comparison of the correlations was not signiﬁcant.
+Otherwise, this may indicate that IC and RI are separate functions in the
+ET group. In the normal population, behavioral studies ﬁnd that IC and
+RI share some variance (Friedman & Miyake, 2004; Huizinga,
+Dolan, & van der Molen, 2006), and imaging studies reveal some pre-
+frontal areas that play an important role in both inhibitory functions
+(Bunge, Dudukovic, Thomason, Vaidya, & Gabrieli, 2002; Nee,
+Wager, & Jonides, 2007; Wager et al., 2005). Moreover, compared to
+adults, children tend to show less activation of these common areas
+(Bunge et al., 2002). Together, the disassociation may indicate that
+children in the ET group may have the immature pre-frontal regions
+which are common neural underpinnings for inhibitory functions.
+The current results have implications for the use of TBR as a prog-
+nostic biomarker in children with AD/HD. Elevated TBR was thought of
+as a reliable marker for classifying AD/HD from healthy controls
+(Snyder & Hall, 2006). However, recent evidence shows that the dif-
+ference between the groups is reducing (Arns et al., 2013) and not all
+children with AD/HD can be characterized by increased TBR (Clarke
+et al., 2011). In this case, the prognostic value of TBR was proposed in
+AD/HD (Arns et al., 2013; Lenartowicz & Loo, 2014). A hot topic related
+to the TBR research is its behavioral meaning (Barry et al., 2009). An
+inference from current limited studies is that TBR in AD/HD may be
+indicative of issues in attentional processing (Loo et al., 2013; Zhang
+et al., in press) without further specifying which exact types of atten-
+tional functions are involved. Our results extend the ﬁndings to in-
+hibition at the attentional level − IC, and children with elevated TBR
+were more inﬂuenced by task irrelevant stimuli. In other words, the
+elevated TBR could be a marker of a weakness in IC in AD/HD. For
+patients without the elevated ratio, on the other hand, a weakness was
+demonstrated on DI. Given past research on BRIEF, however, it may be
+that other abilities rather than inhibition itself may be compromised in
+AD/HD children without the elevated TBR.
+
+Future studies may explore the mechanism underlying the re-
+lationship between TBR and each type of inhibition. One possible ex-
+planation comes from recent ﬁndings in cognitive neuroscience.
+Imaging studies report that brain resting networks interact with task-
+related networks and impact on behavioral output
+(Northoﬀ,
+Duncan, & Hayes, 2010; Raichle, 2009). As EEG can detect the activity
+of the resting networks (Raichle, 2009), TBR may be an electro-
+physiological manifestation of speciﬁc resting networks, which in turn
+implies the inhibitory abilities. Alternatively, the relationship may be
+the consequence of TBR-related problems. Arns et al. (2013) proposed
+that TBR may be associated with sleep duration, which can aﬀect the
+neuropsychological functions (e.g. Fernandez-Mendoza et al., 2010).
+Thus, the relationship between TBR and inhibition may in fact result
+from individual diﬀerences in sleep duration.
+One issue related to this study is the methodology to obtain TBR.
+Recently, obtaining TBR through individual frequency band rather than
+the ﬁxed bands is suggested as EEG frequency bands may vary due to
+the eﬀects of age (Saad, Kohn, Clarke, Lagopoulos, & Hermens, 2015).
+Here, the ﬁxed band method was adopted to follow previous studies
+(Barry & Clarke, 2009). Further studies may extend the ﬁndings based
+on the individual frequency band method.
+
+6. Conclusions
+
+The purpose of the current study was to explore whether elevated
+TBR indicated an inhibitory problem in children with AD/HD in light of
+relevant ﬁndings in the healthy population. The results indicated a
+functional disassociation − children with AD/HD who have elevated
+TBR perform worse on interference control but perform better on day-
+to-day inhibition, compared to children with AD/HD who do not have
+elevated TBR. This suggests that TBR may be a biomarker for inhibitory
+functions, which further supports the prognostic value of resting EEG
+measures in AD/HD. Future studies might further explore the beha-
+vioral implications of the disassociation indicated by TBR in children
+with AD/HD.
+
+Acknowledgements
+
+Funding: This work was funded by the National Basic Research
+Program of China (2014CB846104), the National Key Technology R & D
+Program (2015BAI13B01),
+Science
+Foundation of China (81371496). The Chinese Scholarship Council
+provided a scholarship for D-W Zhang.
+
+and the National Natural
+
+References
+
+Angelidis, A., van der Does, W., Schakel, L., & Putman, P. (2016). Frontal EEG theta/beta
+ratio as an electrophysiological marker for attentional control and its test-retest re-
+liability. Biological Psychology, 121(Pt A), 49–52.
+
+Arns, M., Conners, C. K., & Kraemer, H. C. (2013). A decade of EEG Theta/Beta ratio
+research in ADHD: A meta-analysis. Journal of Attention Disorders, 17(5), 374–383.
+Arns, M. (2012). EEG-based personalized medicine in ADHD: Individual alpha peak fre-
+quency as an endophenotype associated with nonresponse. Journal of Neurotherapy,
+16(2), 123–141.
+
+Aron, A. R., & Poldrack, R. A. (2005). The cognitive neuroscience of response inhibition:
+Relevance for genetic research in attention-deﬁcit/hyperactivity disorder. Biological
+Psychiatry, 57(11), 1285–1292.
+
+Aron, A. R., Robbins, T. W., & Poldrack, R. A. (2004). Inhibition and the right inferior
+
+frontal cortex. Trends in Cognitive Sciences, 8(4), 170–177.
+
+Aron, A. R. (2011). From reactive to proactive and selective control: Developing a richer
+
+model for stopping inappropriate responses. Biological Psychiatry, 69(12), e55–68.
+Barkley, R. A., & Fischer, M. (2011). Predicting impairment in major life activities and
+occupational functioning in hyperactive children as adults: Self-reported executive
+function (EF) deﬁcits versus EF tests. Developmental Neuropsychology, 36(2), 137–161.
+Barkley, R. A. (1998). Attention-deﬁcit hyperactivity disorder: A handbook for diagnosis and
+
+treatment (2nd ed.). New York: Guilford Press.
+
+Barkley, R. A. (2013). Executive functions: What they are, how they work, and why they
+
+evolved (1st ed.). The Guilford Press.
+
+Barry, R. J., & Clarke, A. R. (2009). Spontaneous EEG oscillations in children, adolescents,
+
+and adults. Journal of Psychophysiology, 23(4), 157–173.
+
+Barry, R. J., Clarke, A. R., & Johnstone, S. J. (2003). A review of electrophysiology in
+
+attention-deﬁcit/hyperactivity disorder: I. Qualitative and quantitative electro-
+encephalography. Clinical Neurophysiology, 114(2), 171–183.
+
+Barry, R. J., Clarke, A. R., Johnstone, S. J., McCarthy, R., & Selikowitz, M. (2009).
+
+Electroencephalogram theta/beta ratio and arousal in attention-deﬁcit/hyperactivity
+disorder: Evidence of independent processes. Biological Psychiatry, 66(4), 398–401.
+Bunge, S. A., Dudukovic, N. M., Thomason, M. E., Vaidya, C. J., & Gabrieli, J. D. (2002).
+Immature frontal lobe contributions to cognitive control in children: Evidence from
+fMRI. Neuron, 33(2), 301–311.
+
+Chamberlain, S. R., Robbins, T. W., Winder-Rhodes, S., Muller, U., Sahakian, B. J.,
+
+Blackwell, A. D., et al. (2011). Translational approaches to frontostriatal dysfunction
+in attention-deﬁcit/hyperactivity disorder using a computerized neuropsychological
+battery. Biological Psychiatry, 69(12), 1192–1203.
+
+Clarke, A. R., Barry, R. J., McCarthy, R., & Selikowitz, M. (2001). Age and sex eﬀects in
+
+the EEG: Diﬀerences in two subtypes of attention-deﬁcit/hyperactivity disorder.
+Clinical Neurophysiology, 112(5), 815–826.
+
+Clarke, A. R., Barry, R. J., McCarthy, R., & Selikowitz, M. (2002). EEG diﬀerences be-
+
+tween good and poor responders to methylphenidate and dexamphetamine in
+
+children with attention-deﬁcit/hyperactivity disorder. Clinical Neurophysiology,
+113(2), 194–205.
+
+Clarke, A. R., Barry, R. J., Dupuy, F. E., Heckel, L. D., McCarthy, R., Selikowitz, M., et al.
+
+(2011). Behavioural diﬀerences between EEG-deﬁned subgroups of children with
+Attention-Deﬁcit/Hyperactivity Disorder. Clinical Neurophysiology, 122(7),
+1333–1341.
+
+DeCoster, J., Iselin, A. M., & Gallucci, M. (2009). A conceptual and empirical examination
+
+of justiﬁcations for dichotomization. Psychological Methods, 14(4), 349–366.
+
+Delorme, A., & Makeig, S. (2004). EEGLAB: An open source toolbox for analysis of single-
+
+trial EEG dynamics including independent component analysis. Journal of
+Neuroscience Methods, 134(1), 9–21.
+
+Diamond, A. (2013). Executive functions. Annual Review of Psychology, 64(64), 135–168.
+Dimoska, A., Johnstone, S. J., Barry, R. J., & Clarke, A. R. (2003). Inhibitory motor
+
+control in children with attention-deﬁcit/hyperactivity disorder: Event-related po-
+tentials in the stop-signal paradigm. Biological Psychiatry, 54(12), 1345–1354.
+
+Eriksen, B. A., & Eriksen, C. W. (1974). Eﬀects of noise letters upon the identiﬁcation of a
+
+target letter in a nonsearch task. Percept Psychophy, 16, 143–149.
+
+Fernandez-Mendoza, J., Calhoun, S., Bixler, E. O., Pejovic, S., Karataraki, M., Liao, D.,
+
+et al. (2010). Insomnia with objective short sleep duration is associated with deﬁcits
+in neuropsychological performance: A general population study. Sleep, 33(4),
+459–465.
+
+Food and Drug Administration (2013). De novo classiﬁcation request for neuropsychiatric
+
+EEG-Based assessment aid for ADHD (NEBA) system. Retrieved from http://www.
+accessdata.fda.gov/cdrh_docs/reviews/K112711.pdf.
+
+Friedman, N. P., & Miyake, A. (2004). The relations among inhibition and interference
+
+control functions: A latent-variable analysis. Journal of Experimental Psychology:
+General, 133(1), 101–135.
+
+Gioia, G. A., Isquith, P. K., Guy, S. C., & Kenworthy, L. (2000). Behavior rating inventory
+
+of executive function. Child Neuropsychology, 6(3), 235–238.
+
+Huizinga, M., Dolan, C. V., & van der Molen, M. W. (2006). Age-related change in ex-
+
+ecutive function: developmental trends and a latent variable analysis.
+Neuropsychologia, 44(11), 2017–2036. http://dx.doi.org/10.1016/j.
+neuropsychologia.2006.01.010.
+
+Iacobucci, D., Posavac, S. S., Kardes, F. R., Schneider, M. J., & Popovich, D. L. (2015).
+
+Toward a more nuanced understanding of the statistical properties of a median split.
+Journal of Consumer Psychology, 25(4), 652–665.
+
+Johnstone, S. J., Barry, R. J., Markovska, V., Dimoska, A., & Clarke, A. R. (2009).
+
+Response inhibition and interference control in children with AD/HD: A visual ERP
+investigation. International Journal of Psychophysiology, 72(2), 145–153.
+
+Johnstone, S. J., Barry, R. J., & Clarke, A. R. (2013). Ten years on: A follow-up review of
+
+ERP research in attention-deﬁcit/hyperactivity disorder. Clinical Neurophysiology,
+124(4), 644–657.
+
+Knyazev, G. G. (2007). Motivation, emotion, and their inhibitory control mirrored in
+
+brain oscillations. Neuroscience and Biobehavioral Reviews, 31(3), 377–395.
+
+Lenartowicz, A., & Loo, S. K. (2014). Use of EEG to diagnose ADHD. Current Psychiatry
+
+Reports, 16(11), 498.
+
+Loo, S. K., Cho, A., Hale, T. S., McGough, J., McCracken, J., & Smalley, S. L. (2013).
+
+Characterization of the theta to beta ratio in ADHD: Identifying potential sources of
+heterogeneity. Journal of Attention Disorders, 17(5), 384–392.
+
+MacCallum, R. C., Zhang, S., Preacher, K. J., & Rucker, D. D. (2002). On the practice of
+
+dichotomization of quantitative variables. Psychological Methods, 7(1), 19–40.
+
+Mann, C. A., Lubar, J. F., Zimmerman, A. W., Miller, C. A., & Muenchen, R. A. (1992).
+Quantitative analysis of EEG in boys with attention-deﬁcit-hyperactivity disorder:
+Controlled study with clinical implications. Pediatric Neurology, 8(1), 30–36.
+
+McAuley, T., Chen, S., Goos, L., Schachar, R., & Crosbie, J. (2010). Is the behavior rating
+inventory of executive function more strongly associated with measures of impair-
+ment or executive function? Journal of the International Neuropsychological Society,
+16(3), 495–505.
+
+Mognon, A., Jovicich, J., Bruzzone, L., & Buiatti, M. (2011). ADJUST: An automatic EEG
+
+artifact detector based on the joint use of spatial and temporal features.
+Psychophysiology, 48(2), 229–240.
+
+Mullane, J. C., Corkum, P. V., Klein, R. M., & McLaughlin, E. (2009). Interference control
+in children with and without ADHD: A systematic review of Flanker and Simon task
+performance. Child Neuropsychology, 15(4), 321–342.
+
+Nee, D. E., Wager, T. D., & Jonides, J. (2007). Interference resolution: Insights from a
+
+meta-analysis of neuroimaging tasks. Cognitive, Aﬀective and Behavioral Neuroscience,
+7(1), 1–17.
+
+Nigg, J. T. (2000). On inhibition/disinhibition in developmental psychopathology: Views
+
+from cognitive and personality psychology and a working inhibition taxonomy.
+Psychological Bulletin, 126(2), 220–246.
+
+Northoﬀ, G., Duncan, N. W., & Hayes, D. J. (2010). The brain and its resting state activity-
+
+experimental and methodological implications. Progress in Neurobiology, 92(4),
+593–600.
+
+Ogrim, G., Kropotov, J., & Hestad, K. (2012). The quantitative EEG theta/beta ratio in
+attention deﬁcit/hyperactivity disorder and normal controls: Sensitivity, speciﬁcity,
+and behavioral correlates. Psychiatry Research, 198(3), 482–488.
+
+Petersen, S. E., & Posner, M. I. (2012). The attention system of the human brain: 20 years
+
+after. Annual Review of Neuroscience, 35, 73–89.
+
+Polanczyk, G., de Lima, M. S., Horta, B. L., Biederman, J., & Rohde, L. A. (2007). The
+worldwide prevalence of ADHD: A systematic review and metaregression analysis.
+American Journal of Psychiatry, 164(6), 942–948.
+
+Putman, P., van Peer, J., Maimari, I., & van der Werﬀ, S. (2010). EEG theta/beta ratio in
+
+relation to fear-modulated response-inhibition, attentional control, and aﬀective
+traits. Biological Psychology, 83(2), 73–78.
+
+Putman, P., Verkuil, B., Arias-Garcia, E., Pantazi, I., & van Schie, C. (2014). EEG theta/
+
+beta ratio as a potential biomarker for attentional control and resilience against
+
+87
+
+D.-W. Zhang et al.
+
+Biological Psychology 128 (2017) 82–88
+
+deleterious eﬀects of stress on attention. Cognitive, Aﬀective and Behavioral
+Neuroscience, 14(2), 782–791.
+
+Raichle, M. E. (2009). A paradigm shift in functional brain imaging. Journal of
+
+Neuroscience, 29(41), 12729–12734.
+
+Saad, J. F., Kohn, M. R., Clarke, S., Lagopoulos, J., & Hermens, D. F. (2015). Is the theta/
+
+beta EEG marker for ADHD inherently ﬂawed? Journal of Attention Disorders.
+
+Satterﬁeld, J. H., & Cantwell, D. P. (1974). Proceedings: CNS function and response to
+methylphenidate in hyperactive children. Psychopharmacology Bulletin, 10(4), 36–37.
+Schutter, D. J., & Van Honk, J. (2005). Electrophysiological ratio markers for the balance
+
+between reward and punishment. Brain Research. Cognitive Brain Research, 24(3),
+685–690.
+
+Snyder, S. M., & Hall, J. R. (2006). A meta-analysis of quantitative EEG power associated
+
+with attention-deﬁcit hyperactivity disorder. Journal of Clinical Neurophysiology,
+23(5), 440–455.
+
+Tabachnick, B. G., & Fidell, L. S. (2007). Using multivariate statistics (5th ed.). Boston:
+
+Pearson/Allyn & Bacon.
+
+Toplak, M. E., Bucciarelli, S. M., Jain, U., & Tannock, R. (2009). Executive functions:
+
+Performance-based measures and the behavior rating inventory of executive function
+
+(BRIEF) in adolescents with attention deﬁcit/hyperactivity disorder (ADHD). Child
+Neuropsychology, 15(1), 53–72.
+
+Verbruggen, F., & Logan, G. D. (2008). Automatic and controlled response inhibition:
+
+Associative learning in the go/no-go and stop-signal paradigms. Journal of
+Experimental Psychology: General, 137(4), 649–672.
+
+Wager, T. D., Sylvester, C. Y., Lacey, S. C., Nee, D. E., Franklin, M., & Jonides, J. (2005).
+
+Common and unique components of response inhibition revealed by fMRI.
+Neuroimage, 27(2), 323–340.
+
+Willcutt, E. G., Doyle, A. E., Nigg, J. T., Faraone, S. V., & Pennington, B. F. (2005).
+
+Validity of the executive function theory of attention-deﬁcit/hyperactivity disorder:
+A meta-analytic review. Biological Psychiatry, 57(11), 1336–1346.
+
+Yang, L., Wang, Y. F., Qian, Q. J., Biederman, J., & Faraone, S. V. (2004). DSM-IV sub-
+types of ADHD in a Chinese outpatient sample. Journal of the American Academy of
+Child and Adolescent Psychiatry, 43(3), 248–250.
+
+Zhang, D. W., Li, H., Wu, Z., Zhao, Q., Song, Y., Liu, L., et al. (2017). EEG theta/beta ratio
+and spectral power correlates of executive functions in children and adolescents with
+AD/HD. Journal of Attention Disorders.
+
+88
+
+

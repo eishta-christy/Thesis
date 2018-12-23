@@ -1,0 +1,83 @@
+
+Prior research examines and ﬁnds that ﬁnancial statement audits help reduce the cost of debt capital for small, private
+ﬁrms (e. g. , Blackwell Name, 1998; Minnis, 2011).  The premise underlying this relation is that an audit helps increase the
+quality and reliability of ﬁnancial statement disclosures, which reduces information asymmetry and thus the cost of capital. 
+We argue that, in addition to the value provided by the audit with respect to the quality of the ﬁnancial disclosures, the
+choice to obtain an audit itself can provide incremental information to creditors, which can reduce ﬁnancing frictions.  In
+particular, we argue that the observable choice to get an audit can convey information about the ﬁrm's future prospects
+because audits are costly in terms of audit fees paid as well as management time and effort spent preparing for, and
+engaging in, the audit.  Thus, ﬁrms will voluntarily subject themselves to an audit to obtain ﬁnancing if they foresee
+themselves generating sufﬁcient future proﬁts from their investment opportunities to recover the cost of the audit.  In this
+paper, we examine whether the choice to obtain an audit eases ﬁnancing frictions by conveying information about ﬁrms'
+future prospects that is independent of the information generated from the audit itself. 
+Understanding whether the decision to voluntarily get an audit contains information that reduces ﬁnancing frictions is
+important from a regulatory point of view because audits are mandated for private ﬁrms in many countries and the vast
+majority of public ﬁrms across the world.  If the choice to obtain an audit does indeed contain information that relaxes
+ﬁnancing frictions, such information would be hidden by the audit mandate.  Thus it is important to know the economic
+signiﬁcance (if any) of information revealed from observing the audit choice. 
+Broadly, the intuition for our research question follows from two distinct (but related) theories.  First, the audit choice can
+be thought of as a costly signal initiated by low risk ﬁrms that allows them to separate themselves from high risk ﬁrms (e. g. ,
+Spence, 1973; Jensen and Meckling, 1976; Melumad and Thoman, 1990).  For example, Jensen and Meckling (1976) discuss
+that ﬁrms can incur “bonding costs,” such as an audit, to create a separating equilibrium where high quality ﬁrms commit to
+getting an audit that is too costly for low quality ﬁrms to mimic.  Here the ability to incur the audit cost informs ﬁnanciers
+that the ﬁrm is likely to generate sufﬁcient future proﬁts to recoup the audit related costs.  Second, the audit choice can be
+characterized as a screening mechanism used by external ﬁnanciers to separate the good credit risk ﬁrms from the bad
+credit risk ﬁrms (Guasch and Weiss, 1981).  The idea is that ﬁrms that are willing to incur the cost of an audit to obtain
+external ﬁnancing are likely to have more proﬁtable investment opportunities, and thus lower credit risk, than those
+unwilling to pay for an audit.  The above theories differ in terms of why the audit choice conveys information and who
+initiates the audit, but they both suggest that the choice to incur the cost of an audit conveys information about the ﬁrm's
+future prospects because ﬁrms with better prospects are more willing to incur this cost ex ante, as they are more likely to
+recoup this cost in the future. 
+Empirically testing whether the audit choice conveys any information that relaxes ﬁnancing frictions is challenging
+because the economic effects of the audit choice is confounded by the economic effects of the audited ﬁnancial information. 
+In other words, since ﬁrms that choose to obtain an audit will have better quality and more credible ﬁnancial statements
+than ﬁrms that do not receive audits, it is difﬁcult to empirically separate the economic effects of the audit choice from that
+of the audited reports.  Further, the choice to get an audit is likely to be confounded by changes in growth opportunities
+because ﬁrms are more likely to get voluntarily audits when they require external funds to ﬁnance those opportunities. 
+We overcome these challenges by using a natural experiment involving U. K.  private ﬁrms.  External audits were mandatory for U. K.  private ﬁrms with sales above d1 million or assets above d1. 4 million until 2004, but ﬁrms below these size
+thresholds were exempt from the audit requirement.  In 2004, this audit exemption was extended to private ﬁrms with sales
+(assets) in between d1 and 5. 6 million (d1. 4–2. 8 million), i. e. , audits became voluntary for additional ﬁrms within the
+prescribed size threshold.  Using this audit regime shift as an exogenous shock to the observability of the audit choice, we
+examine the change in the investment and ﬁnancing behavior of ﬁrms that mandatorily receive audits before 2004, but
+voluntarily receive audits post-2004 (henceforth referred to as treatment ﬁrms).  That is, our treatment ﬁrms are ﬁrms that
+have always received an audit, but their audit choice is observed by external investors only after 2004 when they qualify for
+an audit exemption but choose to continue receiving audits.  Consequently, the economic effects of supplying audited reports
+to investors, such as those documented by Minnis (2011), remain unchanged pre- and post-2004.  This enables us to
+empirically isolate the economic effects of the audit choice from those of the audited reports. 
+To mitigate the concern that the treatment ﬁrms' investment/ﬁnancing behavior changes as a result of changes in their
+growth opportunities (or other confounding changes) rather than a relaxation in their ﬁnancing frictions (via the audit
+regulation), we construct two samples of benchmark ﬁrms and use a difference-in-differences estimator.  Our ﬁrst control
+sample consists of ﬁrms that were exempt from the audit requirement even before 2004, but choose to voluntarily receive
+audits despite the exemption.  Similar to the treatment ﬁrms, these control ﬁrms also choose to voluntarily get audits, but
+their audit choice is observable both before and after 2004.  Our second control sample consists of ﬁrms that are subject to
+the audit mandate both before and after 2004. 1 That is, we construct three samples of ﬁrms whose audit choice is
+(i) observable pre- and post-2004, (ii) unobservable pre-2004, but observable post-2004, and (iii) unobservable pre- and
+post-2004.  Sample (ii) serves as our treatment ﬁrm sample, and samples (i) and (iii) serve as our control samples (see Fig.  1
+for a diagrammatic representation of our design).  To ensure that the treatment and control ﬁrms have similar investment
+and ﬁnancing opportunities, we match these ﬁrms on the determinants of investment and ﬁnancing documented in prior
+research (i. e. , debt, growth, performance, and liquidity).  Importantly, all ﬁrm-years in our data (treatment and control)
+receive audits and only the observability of the audit choice varies over time for our treatment ﬁrms.  We also require all ﬁrms
+in our sample to have at least one observation in the pre- and post-treatment period to mitigate the concern that changes in
+sample composition affect our results.  In sum, our research design parses out economic effects of the information in the
+audit choice from all the other effects of the audit because (i) our entire sample of treatment and control ﬁrms obtain audits
+over the entire sample period, thereby holding the economic effects of the audits constant, and (ii) the regulatory change
+allows us to use the ﬁrm as its own control and thus the reasons why the ﬁrm chose to obtain an audit will not affect our
+results unless the ﬁrm changed at the same time as the audit regulation. 
+We ﬁnd that the treatment ﬁrms signiﬁcantly increase their total debt and investment following the regulation as
+compared to both sets of control ﬁrms.  Our coefﬁcients indicate that treatment ﬁrms increase debt by approximately 4–7%,
+and investment by approximately 7–12% following the regulation, depending on the control sample used.  We also ﬁnd that
+our treatment ﬁrms observe a 4–9% reduction in the cost of debt after the regulation.  This evidence is consistent with the
+audit choice conveying important information to capital providers (independent to that conveyed by audit itself) and thus
+relaxing ﬁnancing constraints. 
+We then examine whether the treatment ﬁrms improve their investment efﬁciency and operating performance following
+the audit regime shift, as the information in the audit choice reduces ﬁnancing constraints.  Consistent with our expectation,
+we ﬁnd that the treatment ﬁrms become signiﬁcantly more responsiveness to their investment opportunities and observe a
+6–12% increase in their operating income after the regulation relative to that of the control ﬁrms.  These results provide
+additional evidence that the choice to obtain an audit contains information that relaxes ﬁnancing frictions, leading to more
+efﬁcient investment and better ﬁrm performance. 
+We conduct numerous additional tests to further validate our inferences and mitigate endogeneity concerns.  For
+example, we empirically show that the parallel trends assumption, which is the central assumption of our difference-indifferences estimator, is satisﬁed in the pre-treatment years spanning 2001–2003, and take a number of measures to ensure
+this assumption holds post-treatment as well (which we discuss in detail in Section 5. 2).  We conduct cross-sectional tests
+using on variation in the treatment ﬁrms' ﬁnancing constraints and access to ﬁnance to help reinforce our main inference. 
+We use dynamic regression models to show that the economic effects we document are absent the year before the regulatory change and take effect only in the years following the regulation.  We show that neither audit quality nor earnings
+quality change around the regulation. 

@@ -1,0 +1,310 @@
+
+Information asymmetry between "sophisticated" and "unsophisticated" investors (hereafter referred to simply as
+"information asymmetry") is a pervasive friction in capital markets (e. g.  Amihud and Mendelson, 1986; Easley and O'hara,
+2004; Kim and Verrecchia, 1994; Leuz and Verrecchia, 2000). 1 In this study, we revisit a fundamental question in
+information economics, which has implications for both accounting and ﬁnance—what effect does the public release of ﬁrmspeciﬁc information into the market environment (hereafter referred to as a “information release”) have on information
+asymmetry in a short window around the announcement event. 
+Whereas public information releases of all types generally decrease information asymmetry in the post-announcement
+period relative to the pre-announcement period, disclosure literature theorizes that the net effect of a given information
+release on information asymmetry at announcement depends on the relative strengths of two countervailing forces that
+exist simultaneously in any given information release (e. g. , Kim and Verrecchia, 1994).  First, an information release provides
+some information that is new to both sophisticated and unsophisticated investors, which will increase information asymmetry at announcement, ceteris paribus (hereafter referred to as the "asymmetry-increasing force").  This immediate
+increase occurs because of the superior processing abilities possessed by sophisticated investors relative to unsophisticated
+investors, which allows sophisticated investors to impound the information contained in the announcement more quickly
+than unsophisticated investors.  Second, at the same time, an information release reveals to unsophisticated investors some
+information that is new to them but which was already known (privately) by sophisticated investors, which will decrease
+information asymmetry at announcement by reducing the information gap between the two types of investors, ceteris
+paribus (hereafter referred to as the "asymmetry-decreasing force").  Hence, in theory, the announcement effect of a public
+information release on information asymmetry depends on which type of information dominates in that particular release. 
+Relying on these theoretical arguments as motivation, prior literature ﬁnds that earnings announcements and management forecasts increase information asymmetry at announcement (e. g. , Coller and Yohn, 1997; Lee Name, 1993).  These
+ﬁndings are consistent with our intuition that, as ﬁrm-supplied information releases, earnings announcements and management forecasts are likely to contain more information that is new to all external market participants (relative to
+information that is new only to unsophisticated investors), resulting in dominance of the asymmetry-increasing force. 
+Extant empirical literature has to our knowledge provided no evidence of an information release that decreases information
+asymmetry at announcement.  Thus, there is no empirical evidence that the asymmetry-decreasing force plays a signiﬁcant
+role in announcement-period information dynamics. 
+In this study, we utilize the setting of analyst forecasts to re-examine these dynamics.  Compared to earnings
+announcements and management forecasts, extant literature suggests that analyst forecasts contain a relatively high
+concentration of information that is new only to unsophisticated investors (i. e, already known by sophisticated investors)
+versus information that is new to all (e. g. , Irvine Name, 2007; Kadan Name, 2016).  Conceptually, an analyst forecast is an
+information release by a sophisticated information intermediary who collects public and private information and analyzes
+it, which parallels the activities of sophisticated investors.  Indeed, ﬁnancial analysts are often thought of as a proxy for
+sophisticated investors in capital markets.  As an example, one may think about a sophisticated investor as an institution
+(e. g. , hedge fund) that employs buy-side analysts.  The hedge fund's buy-side analysts have similar skill sets and industry
+connections, and perform similar analysis, information collection and research as do sell-side analysts, and at certain times
+collect information directly from sell-side analysts. 2 Therefore, it is likely that the information set possessed by sophisticated
+investors will have relatively high overlap with the information contained in analyst forecasts.  Based on this logic, we
+predict and document that analyst earnings forecasts decrease information asymmetry at announcement. 
+Of course, analyst forecasts may indeed contain some information that is new to both sophisticated and unsophisticated
+investors, which would produce the asymmetry-increasing force.  However, our study is based on an argument of relativity. 
+That is, whereas the asymmetry-increasing force is dominant in earnings announcements and management forecasts, we
+expect the asymmetry-decreasing force to be stronger in analyst forecasts, relatively speaking.  This logic is further supported by extant evidence that suggests that the information set of analysts overlaps with the information set of sophisticated investors, and by evidence of investor trading patterns around analyst forecast announcements. 
+Although analysts produce several types of information releases (e. g. , earnings forecasts, stock recommendations, target
+prices), we focus our attention on analyst earnings forecasts, as these releases are the most frequent type of output, and are
+more directly comparable with earnings announcements and management earnings forecasts.  The three types of events are
+comparable in that they are frequently recurring releases of information events that are well-studied (i. e. , we understand
+most of their properties), where the type of information is similar in nature (i. e. , corporate earnings/performance). 
+Nevertheless, we acknowledge that there are characteristic differences between analyst forecasts and both earnings
+announcements and management forecasts, apart from the theoretical difference that we rely on to generate our prediction
+(i. e. , that analyst forecasts contain a higher relative concentration of information that is new only to unsophisticated
+investors).  For example, analyst forecasts may less likely be anticipated events, relative to earnings announcements and
+management forecasts.  As another example, extant literature suggests that analyst forecasts may contain differential biases,
+relative to earnings announcements and management forecasts (e. g. , McNichols and O’Brien, 1997).  In our empirical tests,
+we address these factors to increase the conﬁdence that our directionally opposite results across information release types
+are driven by the differential information dynamics that we theorize. 
+We follow prior literature and focus on equity market bid-ask spread as a measure of information asymmetry, while
+controlling for its non-information-asymmetry-related components.  We document that, on average, bid-ask spread
+decreases by approximately one-and-a-half percent during an analyst forecast announcement period relative to the period
+immediately preceding the forecast.  Because there are, on average, between two and three analyst forecasts per ﬁrmquarter, the overall quarterly magnitude of the real economic effect of analyst forecasts on a given ﬁrm's bid-ask spread
+during the announcement period is therefore approximately four percent.  We ﬁnd consistent results using quoted depth
+and price impact as alternative measures of information asymmetry. 
+Although our paper focuses on announcement-period effects, we further document that all three types of information
+releases (i. e. , analyst forecasts, management forecasts and earnings announcements) decrease information asymmetry over
+the ten days subsequent to the announcement.  Accordingly, consistent with our expectations, the directionally opposite
+information asymmetry effects across analyst forecasts and the other two information releases are temporary, and exist only
+during the short-window announcement period. 
+We conduct several additional analyses to provide comfort that our ﬁndings are not attributable to alternative explanations.  First, we provide evidence that our results hold in a subset of forecasts that are isolated in time relative to other
+analyst forecasts, which suggests that our ﬁndings are not attributable to the alternative explanation that analysts simply
+issue their forecasts in the wake of other signiﬁcant information events while information asymmetry is already decreasing. 
+Second, we show that the magnitude of the information asymmetry decrease is a function of forecast information content,
+which is difﬁcult to reconcile with alternative explanations.  Third, we document that our results hold for both “anticipated”
+and “unanticipated” analyst forecasts, which suggests that announcement anticipation is not the driver of our ﬁndings. 
+Finally, our results hold for both good news and bad news forecasts.  This mitigates the concern that our results may be
+attributable to analysts’ incentives to disclose good news, or to a mechanical relation between the nature of news and bidask spread. 
+Our evidence contributes to the literature by documenting that different types of information releases lead to predictably
+opposite effects on information asymmetry at announcement.  Speciﬁcally, our evidence that analyst forecasts cause
+reductions in announcement-period information asymmetry in equity markets complements the evidence provided in
+Coller and Yohn (1997) and Lee Name (1993) which show that earnings announcements and management forecasts increase
+announcement-period information asymmetry.  Although these directionally opposite effects are temporary, the understanding of how information is incorporated into prices and short-term trading frictions is central to our understanding of
+capital markets phenomena, and requires the study of short-window capital market dynamics (e. g. , So and Wang, 2014). 
+Relatedly, these results also provide the ﬁrst empirical validation (of which we are aware) of the discussion in Kim and
+Verrecchia (1994) that an information release can indeed decrease information asymmetry at announcement. 
+In addition, our study speaks to the contribution of analysts to a ﬁrm's information environment.  Speciﬁcally, our results
+suggest that on average, analyst forecasts lead to an immediate narrowing of the information gap between sophisticated and
+unsophisticated investors.  Further, our short-window announcement-period event study design reduces concerns relating to
+reverse causality that have plagued prior literature (e. g. , Healy Name, 1999; Lang and Lundholm, 1996), and therefore contributes to the recent debate about the causal effects of sell-side equity research (Kelly and Ljungqvist, 2012; Li and You, 2015). 
+2.  Motivation and predictions. 
+Extant literature characterizes information asymmetry between sophisticated and unsophisticated investors (e. g. ,
+Glosten and Milgrom, 1985; Kalay, 2015).  Typically, such information asymmetry is thought to come from two potential
+sources.  First, sophisticated investors have access to (or the ability to develop) private information about the ﬁrm that is not
+available to unsophisticated investors.  Second, sophisticated investors have superior processing abilities with respect to new
+information when it is released to all market participants, which allows sophisticated investors to gain a temporary
+information advantage with respect to new public information. 
+Consistent with these dual sources of information asymmetry, Kim and Verrecchia (1994) observe that the
+announcement-period effect of a public information release on information asymmetry can be characterized by two
+simultaneous forces that have directionally opposite empirical implications. 3 First, an information release that provides new
+information to both sophisticated and unsophisticated investors increases information asymmetry at announcement,
+because sophisticated investors can process and incorporate information more quickly than unsophisticated investors. 
+Second, at the same time, an information release decreases information asymmetry at announcement if it reveals to
+unsophisticated investors information that they did not previously possess but which the sophisticated investors previously
+held privately.  The net directional effect on announcement-period information asymmetry therefore depends on how the
+information contained in the release relates to the information previously held by sophisticated investors. 
+Extant literature provides evidence consistent with dominance of the asymmetry-increasing force.  Lee Name (1993) ﬁnd
+that bid-ask spreads increase at the time of earnings announcements.  Similarly, Krinsky and Lee (1996) provide evidence
+that the adverse selection component of the bid-ask spread increases signiﬁcantly around earnings announcements, supporting the notion that earnings announcements indeed increase announcement-period information asymmetry.  Similar to
+the evidence from earnings announcements, Coller and Yohn (1997) ﬁnd that bid-ask spread increases in the short window
+around the issuance of a management forecast.  Following the theory in Kim and Verrecchia (1994), these results suggest
+that, consistent with our intuition, earnings announcements and management forecasts contain a relatively high proportion
+of information that is new to both sophisticated and unsophisticated investors (although, of course, we expect that they also
+contain some information that is already known to sophisticated investors but new to unsophisticated investors).  These
+ﬁndings are further consistent with the notion that order ﬂow immediately after earnings announcements and management
+forecasts is likely to come from sophisticated investors because of their superior ability to process new information. 
+Intuitively, extant studies also ﬁnd that this announcement-period increase in information asymmetry is temporary, in that
+bid-ask spreads one week after the management forecast announcement are smaller than spreads one week prior to the
+announcement. 
+Analyst forecasts have distinguishing characteristics that may make the asymmetry-decreasing force more pronounced,
+relative to earnings announcements and management forecasts.  Speciﬁcally, an analyst forecast is an information release by
+a sophisticated information intermediary who collects public and private information and analyzes it, which parallels the
+activities of sophisticated investors.  Indeed, ﬁnancial analysts are often considered to be a proxy for sophisticated investors
+in capital markets (e. g. , Allee Name, 2007; Ramnath Name, 2008).  It is likely, then, that compared to earnings announcements
+and management forecasts, a relatively large proportion of the information contained in an analyst forecast is new only to
+unsophisticated investors, thus decreasing information asymmetry with sophisticated investors.  This intuition yields our
+prediction that, whereas both earnings announcements and management forecasts increase information asymmetry at
+announcement, analyst forecasts decrease information asymmetry at announcement.  Intuitively, when a specialist observes
+order ﬂow immediately after an analyst forecast, she is less concerned than she was immediately before the analyst forecast
+release that the order ﬂow is coming from a sophisticated investor holding an information advantage, and bid-ask spread
+should decrease accordingly. 
+Prior research supports this assertion that analyst forecasts have a high degree of overlap with information held by
+sophisticated investors.  For example, extant evidence suggests that sophisticated investors place relatively little value on the
+earnings forecasting role of analysts.  Brown Name (2015) survey buy-side analysts, and document that only 11% view analyst
+forecasts as useful.  Groysberg Name (2015) ﬁnd that broker votes for analysts, which determine their compensation, have
+very little relation to analyst forecast activity, and very strong relation with analysts’ white papers (comprehensive research
+reports).  Moreover, the literature on analyst tipping suggests that analysts directly reveal their information to sophisticated
+investors prior to public release (e. g. , Irvine Name, 2007; Juergens and Lindsey, 2009; Markov Name, 2011), consistent with
+literature which shows that sophisticated investors can predict the content of analyst information releases prior to public
+announcement (e. g. , Christophe Name, 2010; Klein Name, 2014).  Further, a recent paper by Kadan Name (2016) shows that
+institutions trade before analysts' information releases, while individuals trade mainly during and after the information
+releases.  Consistent with our arguments above, these trading dynamics around analyst information releases are opposite to
+those documented in Lee (1992) for earnings announcements. 
+We also note that, whereas prior literature examines how the presence of information intermediaries affects the increase
+in information asymmetry surrounding earnings announcements, there is no prior evidence on the direct effect of analyst
+forecast releases on information asymmetry.  Although Yohn (1998) ﬁnds evidence that general information asymmetry is
+lower for ﬁrms with greater analyst following during the period leading up to and including earnings announcements, she
+ﬁnds no evidence that the presence of analysts mitigates the earnings announcement increase in information asymmetry. 
+Bushee Name (2010) provide evidence that greater press coverage is associated with a lower abnormal bid-ask spread around
+earnings announcements.  Whereas these studies examine interactive effects between the presence of information intermediaries and the effect of earnings announcements on information asymmetry, our study differs in that we examine the
+direct effect of information releases by analysts on information asymmetry, where by design we eliminate associated
+earnings announcement effects. 
+<Middle> Research design and sample selection. 
+3. 1.  General empirical setup. 
+To test our predictions concerning the effect of an information release on announcement-period information asymmetry,
+we directly measure how the information asymmetry component of bid-ask spread changes across several days spanning the
+announcement date. 4 One way to conceptualize this design choice is that as a specialist observes order ﬂow, she increases bidask spread to protect herself when it is more likely that order ﬂow is coming from sophisticated investors that have superior
+processing abilities. 5 However, it is well established that observed bid-ask spreads reﬂect not only information asymmetry, but
+also specialists' order processing costs and inventory carrying costs.  To control for these other components of bid-ask spread,
+we estimate a model based upon ﬁnance theory (e. g. , Glosten and Milgrom, 1985; Stoll, 1978), variations of which have been
+empirically implemented in extant literature (e. g. , Amiram Name, 2011; Coller and Yohn, 1997).  Speciﬁcally, we estimate the
+following model, which uses daily bid-ask spread as the dependent variable and several independent variables to absorb its
+non-information asymmetry components, where we use four daily observations spanning each announcement date (i. e. , the
+two days before the announcement date, the announcement date itself, and one day after the announcement), where variable subscripts i, d, t, and r reference ﬁrm, day, quarter, and a particular information release, respectively.  BASpread
+is bid-ask spread percentage on trading day d, measured from TAQ. 6 Our primary variable of interest is Info0IR, which is an
+indicator variable that equals one if day d is the announcement day for an information release concerning ﬁrm i, and equals
+zero otherwise.  We also include Info1IR, an indicator variable that equals one if day d is the trading day immediately after the
+announcement day, as announcement-period effects may extend into a second day.  PreInfo1IR is an indicator variable that
+equals one if day d is the trading day immediately prior to the announcement day.  In this empirical design, bid-ask spread two
+days prior to the announcement day is reﬂected in the intercept (implicitly PreInfo2IR), thus the included indicator variables
+PreInfo1IR, Info0IR, and Info1IR capture the change in bid-ask spread on those days relative to two days prior to the information
+release.  The information release can be one of three types: an analyst forecast (IR¼AF), earnings announcement (IR¼EA), or
+management forecast (IR¼MF).  If analyst forecasts indeed decrease announcement-window information asymmetry as we
+predict, we expect β2o0 and β3o0 (where IR¼AF). 
+We include daily stock price (Price) to control for market makers' processing costs (Stoll, 1978), prior-quarter (t 1)
+average daily turnover (Turnover) to control for liquidity of the ﬁrm's shares which affects inventory holding costs (Demsetz,
+1968), and prior-quarter average return volatility (Volatility) and ﬁrm size (LnSize) to control for inventory risk. 7 We include
+daily quoted depth (Depth) to control for the market maker's potential adjustment to depth as an alternative protection
+mechanism against inventory risk or information asymmetry.  Further, we include daily trading volume (Volume) and the
+absolute value of the announcement window abnormal return (AbsCAR) to further control for inventory risk and differential
+news content.  We also consider speciﬁcations that use quoted depth (Depth) and price impact of trades (PriceImpact) as
+alternative dependent variables, as prior literature nominates these constructs as alternative measures of information
+asymmetry.  We deﬁne all variables further in the Appendix A. 
+Because the two ﬁrm-days immediately prior to the announcement day serve as a baseline for measuring
+announcement-window effects, endogeneity concerns that plague prior studies which examine the relation between
+analysts and a ﬁrm's information environment are mitigated. 8 We introduce several modiﬁcations to this basic
+empirical structure in subsequent analyses.  We discuss these modiﬁcations along with the associated results
+in Section 4. 
+3. 2.  Sample selection and data
+We obtain analyst forecast data from the I/B/E/S detail EPS US ﬁle, and restrict our sample to one-quarter-ahead forecasts
+(i. e. , fpi¼6) between the years 1993 and 2012, inclusive.  We require observations to have non-missing data for the forecast
+announcement date (anndats), forecast value (value), actual quarterly earnings (actual), earnings announcement dates
+(anndats_act) company identiﬁer (ticker), forecast period ending date (fpedats) and the forecasting analyst (analys). 9 This
+yields a sample of 2,274,742 observations.  Our analyses require stock price data from CRSP and quotes data from TAQ. 
+Accordingly, we delete any observation for which we cannot obtain both a CRSP permno and TAQ symbol.  This reduces the
+sample size to 2,195,458 observations.  Further, we delete observations where the forecast date occurs after the earnings
+announcement date, as these represent data errors.  Next, we remove analyst forecasts that are within plus or minus two
+days of an earnings announcement or management forecast by the forecasted ﬁrm in order to decrease any potential
+confounding effects, where we obtain earnings announcement and management forecast data from Compustat and First
+Call, respectively. 10 As a consequence, the sample size decreases further to 1,250,911 observations. 
+Next, we delete analyst ﬁrm-forecast-day observations if there is another analyst forecast for the same ﬁrm in the
+subsequent or preceding two days to prevent overlapping observations that may confound our measurement of the
+announcement window.  This reduces the sample to 646,929 observations.  Then, from CRSP we obtain prior-quarter return
+volatility and prior-quarter average turnover, as well as the absolute value of cumulative abnormal returns during the twoday announcement period.  We next append daily TAQ bid-ask spreads and quoted depth, and daily CRSP stock prices and
+trading volume for the four-day window around each forecast announcement day (i. e. , beginning two days prior to the
+forecast).  In addition, we winsorize all continuous variables at the 1% and 99% levels, and only retain observations that have
+non-missing data for the complete four-day window.  This results in a sample of 2,410,720 daily observations, which are by
+construction based on 602,680 distinct ﬁrm-forecast-day observations.  Note that each observation is a unique combination
+of ﬁrm, ﬁscal period end, forecasting analyst, forecast date, and trading day relative to the forecast. 
+Our unit of study is a day on which a forecast is issued for a given ﬁrm.  Accordingly, we only desire one observation for a
+ﬁrm-forecast day, regardless how many different individual analysts issue a forecast on that day.  Therefore, we retain only
+one observation for each day on which a forecast was issued for a given ﬁrm-quarter.  Consequently, our ﬁnal sample
+contains 2,158,116 daily observations, which relate to 539,529 analyst forecasts (i. e. , the difference between 2,410,720 and
+2,158,116 reﬂects the fact that more than one analyst may issue a forecast for the same ﬁrm on the same day).  Hereafter, we
+refer to this as our “full sample”. 
+Panel A of Table 1 presents descriptive statistics for our full sample.  Unconditional bid-ask spread is 86. 83 basis points, on
+average.  The average bid-ask spread is lower than the bid-ask spreads in Lee at al.  (1993) and Coller and Yohn (1997) due to
+the inclusion of more recent years in our sample period, which are characterized by improved market liquidity and lower
+bid-ask spreads relative to earlier sample years.  Our sample ﬁrms are relatively large, with mean market value of equity of
+$1. 4 billion.  Panel B of Table 1 presents a correlation matrix, with Pearson (Spearman) correlations reported above (below)
+the diagonal.  Consistent with extant literature and models of bid-ask spread determinants, there are signiﬁcant correlations
+between bid-ask spread and all of our control variables. 
+4.  Empirical results. 
+In this section, we present and discuss our empirical inferences.  In our initial analyses, we report regression statistics
+based on several alternative conﬁgurations of ﬁxed effects and clustered standard error structures, to demonstrate that our
+inferences are not sensitive to these choices.  These conﬁgurations include (1) year ﬁxed effects, with standard errors
+clustered by ﬁrm, which is a method recommended by Petersen (2009) to address both time-series and cross-sectional error
+correlations when the number of sample years is insufﬁcient for clustering; (2) ﬁrm ﬁxed effects, with standard errors
+clustered by both ﬁrm and year-quarter (e. g. , 2007 Q1), which is a restrictive speciﬁcation that tests whether our inferences
+hold within ﬁrm; and (3) Fama–Macbeth estimation with no ﬁxed effects, where we estimate our empirical models by year
+and compute standard errors based on the standard deviation of annual coefﬁcient estimates. 
+4. 1.  Primary analysis. 
+Table 2 reports the results from the estimation of Eq.  (1) where the information release considered is an analyst forecast. 
+In our full sample, average bid-ask spread two days prior to an analyst forecast announcement is 87. 8 basis points (when
+Price, LnSize, Volatility, Turnover, Depth, Volume and AbsCAR are at their mean values).  Focusing on column (3) for discussion,
+the Info0AF coefﬁcient of  0. 842 (t-statistic  5. 96) therefore indicates an approximate 1% reduction in bid-ask spread on
+the day of an analyst forecast announcement relative to two days prior to the announcement (i. e. ,  0. 842/87. 8).  Consistent
+with our expectation that the announcement-period effects extend into the day after the recorded announcement date, the
+Info1AF coefﬁcient of  1. 296 (t-statistic  7. 75) indicates that bid-ask spread decreases further by  0. 454 (i. e. , from  0. 842
+to  1. 296) on the day after the forecast announcement to a total reduction (relative to two days prior to announcement) of
+approximately 1. 5%.  These ﬁndings are consistent with our prediction that analyst forecasts, on average, immediately
+decrease information asymmetry at announcement.  We note that inferences are consistent across all alternative ﬁxed effect
+and standard error structures considered, as reported in columns (1), (2), and (4). 11 We also note that the insigniﬁcant
+coefﬁcient on PreInfo1AF suggests that on average there is no pre-announcement leakage of the content of analyst forecasts. 
+4. 2.  Earnings announcements and management forecasts. 
+As previously discussed, extant literature documents an announcement-period increase in information asymmetry for
+earnings announcements and management earnings forecasts.  In this section, we reproduce these prior inferences using our
+sample and methodology.  This analysis makes explicit the differences between the information asymmetry effects of information releases that have a relatively high concentration of information that is new to all market participants (i. e. , earnings
+announcements and management forecasts), and those effects of information releases that have a relatively high concentration
+of information that is new only to unsophisticated investors (i. e. , analyst forecasts).  Speciﬁcally, we analyze a subsample of ﬁrmquarters that contain all three information release types.  Although this materially reduces our sample size (primarily because of
+the management forecast requirement), this empirical strategy effectively allows us to use a ﬁrm as its own unit of comparison. 
+Table 3 reports results from estimating Eq.  (1) using this subsample, where Columns (1), (2), and (3) analyze analyst forecasts,
+earnings announcements, and management forecasts, respectively.  Column (1) again documents that analyst forecasts decrease
+announcement-period information asymmetry (Info0AF coefﬁcient  0. 858; t-statistic  6. 65).  Similar to our results using the full
+sample, an analyst forecast decreases bid-ask spread on the day of the announcement by approximately 1% relative to two days
+prior to the announcement.  Because there are between two and three analyst forecasts in each quarter, the overall quarterly
+economic effect of analyst forecasts on a given ﬁrm's bid-ask spread is an approximate 2. 5% decrease, on average. 
+In contrast, column (2) documents that earnings announcements increase announcement-period information asymmetry.  The Info0EA coefﬁcient of 4. 482 (t-statistic 9. 35) indicates an approximate 5% increase in bid-ask spread on the day of
+an earnings announcement relative to two days prior to the announcement (i. e. , 4. 482/87. 8).  Column (3) similarly documents that management forecasts increase announcement-period information asymmetry (Info0MF coefﬁcient 4. 398; tstatistic 12. 67), with an economic magnitude similar to earnings announcements.  Taken together, these results suggest the
+magnitude of the decrease in information asymmetry on the day of an analyst forecast announcement is about one-half the
+magnitude of the information asymmetry increase on the announcement day of earnings announcements and management
+forecasts. 12 These results are consistent with prior literature (e. g. , Coller and Yohn, 1997), and with our prediction above that
+earnings announcements and management forecasts increase information asymmetry at announcement, in contrast to the
+directionally opposite effect of analyst forecasts. 13 Also, we note that the positive and signiﬁcant coefﬁcient estimates on
+PreInfo1IR suggest that for earnings announcements and management forecasts, there is some pre-announcement leakage or
+anticipation of their information content. 
+One potential concern with the above analysis is that, because BASpread mechanically decreases as stock price increases,
+our results may be driven by price increases during the forecast announcement period if analyst forecasts exhibit positive
+bias, on average.  A second related concern is that several prior studies (e. g. , McNichols and O’Brien, 1997) show that analysts
+prefer to deliver good news and may censor negative opinions.  Further, this censoring may not occur in the case of earnings
+announcements and management forecasts.  To address these concerns, we re-estimate Eq.  (1) separately for sample partitions based on whether the forecast is good or bad news relative to the outstanding mean consensus forecast.  As reported
+in columns (4) and (5) of Table 3, our inferences hold in both good news and bad news forecast sample partitions. 14 The fact
+that our results obtain regardless whether analysts report good or bad news forecasts makes it unlikely that our ﬁndings are
+driven by either forecast bias or censoring related to the nature of the news. 
+4. 3.  Longer-window information asymmetry effects. 
+Our primary interest in this study is the effect of information releases on short-window announcement-period information asymmetry.  However, in this section we analyze the effects of information releases on information asymmetry in a
+longer window around the announcement date by estimating the following modiﬁcation to Eq.  (1).  
+PostInfoNIR (PreInfoNIR) is an indicator variable that equals one if day d is trading day N after (before) the announcement
+day (Info0IR) and equals zero otherwise, where again in this speciﬁcation the trading day two days prior to the
+announcement day (PreInfo2) is the excluded day captured by the intercept, and all other PostInfoNIR and PreInfoNIR coefﬁcients are estimated incremental to that day.  All other variables are as previously deﬁned. 
+Table 4 presents the results from estimating Eq.  (2) using the subsample of ﬁrm-quarters which contain all three
+information release types, where columns (1), (2), and (3) report results for analyst forecasts, earnings announcements, and
+management forecasts, respectively.  Focusing on column (1), the signiﬁcantly negative coefﬁcient estimates for the
+PostInfoNAF variables provide evidence that after an analyst forecast announcement, information asymmetry remains lower
+than observed prior to the announcement, consistent with our expectation.  The generally insigniﬁcant coefﬁcients on the
+PreInfoN variables reveal that information asymmetry is relatively stationary in the nine days leading up to the release of an
+analyst forecast.  This evidence that there is not a noteworthy spike in information asymmetry in advance of analyst forecast
+announcements helps alleviate concern that analyst forecasts are simply piggybacking on recent news events. 
+Focusing on earnings announcements and management forecasts in columns (2) and (3), respectively, the signiﬁcantly
+negative coefﬁcient estimates for the PostInfoN variables provide evidence that, as with analyst forecasts, after the initial
+announcement-period increase in information asymmetry there is a decrease in information asymmetry relative to the preannouncement levels, consistent with prior literature (e. g. , Coller and Yohn, 1997; Lee Name, 1993). 
+Fig.  1, which depicts these regression results graphically, clearly reveals the directionally opposite announcementwindow information asymmetry effects of analyst forecasts relative to both management forecasts and earnings
+announcements.  Again, whereas all three information releases decrease information asymmetry in the post-announcement
+window, analyst forecasts are distinct in that the decrease in information asymmetry begins at announcement. 
+4. 4.  Alternative measures of information asymmetry
+Extant literature often uses quoted depth and price impact of trades as alternative measures of information asymmetry. 
+Speciﬁcally, an increase (decrease) in quoted depth reﬂects a decrease (increase) in information asymmetry, and an increase
+(decrease) in price impact reﬂects an increase (decrease) in information asymmetry.  In this section, we repeat the above
+analysis with these alternative measures as our dependent variable. 
+In columns (4)–(6) of Table 4, we report results from a modiﬁcation of Eq.  (2) where we use Depth as the dependent
+variable (as deﬁned previously), where in this speciﬁcation we use BASpread as a control variable.  As reported, our inferences are unchanged relative to columns (1)–(3).  Speciﬁcally, at announcement, Depth increases for analyst forecasts and
+decreases for both earnings announcements and management forecasts.  Fig.  2 depicts these results graphically. 
+In columns (7)–(9) of Table 4, we report results from a modiﬁcation of Eq.  (2) where we use PriceImpact as the dependent
+variable (as deﬁned in the Appendix A). 15 As reported, our inferences are unchanged relative to columns (1)–(3).  Speciﬁcally,
+at announcement, PriceImpact decreases for analyst forecasts and increases for both earnings announcements and management forecasts.  Fig.  3 depicts these results graphically. 
+Despite the fact that our inferences are consistent when using either quoted depth or price impact, prior literature
+suggests that bid-ask spread is a superior measure of information asymmetry, as the alternatives are much more likely to
+contain signiﬁcant measurement error (e. g. , Amihud, 2002; Bacidore Name, 2002; Heﬂin Name, 2005).  Therefore, in subsequent analyses, for brevity we focus our attention to the use of BASpread as our dependent variable, with Depth included
+as a control.  Moreover, for our remaining analyses we return to our full analyst forecast sample, with no additional comparisons made to earnings announcements or management forecasts. 
+4. 5.  Anticipation of information releases
+One concern about the previous comparative analysis is that, relative to earnings announcements and management
+forecasts, analyst forecasts are more likely to be unanticipated, and this difference may contribute to our ﬁndings.  Indeed,
+prior literature ﬁnds evidence of predictable behavior by market makers around anticipated events, such as earnings
+announcements (e. g. , So and Wang, 2014).  Intuitively, to address this concern we would like to show that information
+asymmetry also decreases at announcement of analyst forecasts that are anticipated.  Extant literature documents that it is
+commonplace for analysts to issue forecasts in the week after an earnings announcement (e. g. 

@@ -1,0 +1,49 @@
+
+The important role of oil in the world economy has motivated the
+research on the economic and ﬁnancial consequences caused by oil
+price changes.  In his seminal study on oil price changes and the
+macroeconomy, Hamilton (1983) ﬁnds that an oil price shock is a
+contributing factor to US recession.  Since then, scholars have performed
+much research on this issue (Jones Name, 2004.  Hamilton, 2008.  Herrera
+Name, 2011.  Filis and Chatziantoniou, 2014.  Salisu Name, 2017, among
+others).  Stock markets act as the barometer for anticipating economic
+changes in economic activity (Fama, 1990).  Oil price is also likely to
+play an important role in predicting stock prices by at least two channels
+as follows.  On the one hand, since oil is an important input in the
+production of many goods, oil price changes may affect future cash
+ﬂows of enterprises.  As a result, higher oil prices may increase the
+production cost of enterprises, dampening corporate proﬁts and thus
+further depressing stock prices (Sadorsky, 1999.  Apergis and Miller,
+2009).  On the other hand, oil price changes may impact the discount
+rate.  Rising oil prices are often seen as indicative of inﬂationary
+pressures.  Central banks typically address it by raising the interest rate
+(Huang Name, 1996.  Miller and Ratti, 2009).  Since the link between
+oil price changes and stock markets has important implications for
+portfolio management strategies, this issue has attracted considerable
+attention in recent studies (e. g. , Park and Ratti, 2008.  Naifar, 2016. 
+Kayalar Name, 2017). 
+Despite the increased interest in the oil-stock relationships, there are
+relatively few papers that investigate the time-varying relationships
+between them (e. g. , Chang Name, 2013.  Broadstock and Filis, 2014.  Joo
+and Park, 2017).  This series of study reﬂects the importance of allowing
+the relationships to be variable.  However, they do not systematically
+isolate bearish and bullish markets.  Quantile regression is able to
+describe the entire conditional distribution of the dependent variable
+and can solve this problem effectively.  Applying this approach, Lee
+and Zeng (2011) argue that the impacts of oil price shocks on real
+stock returns vary with the stock performances (e. g. , bearish and bullish
+markets).  Sim and Zhou (2015) also indicate that oil shocks affect US
+stock returns depending on market circumstances by using the
+quantile-on-quantile approach.  Moreover, the majority of the existing
+studies investigate the oil-stock relationships in a linear framework. 
+However, Mork (1989) and Mork Name (1994) conclude that oil price
+increases have a negative effect on GDP, whereas oil price decreases
+have not been found to have a positive impact on output or an impact
+of the same degree.  Some related works explore the non-linear effects of
+oil price changes on stock returns (Cong Name, 2008.  Park and Ratti,
+2008.  Ramos and Veiga, 2013.  Tsai, 2015.  Reboredo and Ugolini, 2016). 
+In a recent study, Kang and Ratti (2013) argue that the relationships
+of oil-stock are not formed in isolation from economic policy uncertainty. 
+This is because oil price shocks and economic policy uncertainty are
+interrelated and jointly inﬂuence stock returns.  Relatively little attention, however, has been paid to the relationships between economic
+policy uncertainty and the stock market. 

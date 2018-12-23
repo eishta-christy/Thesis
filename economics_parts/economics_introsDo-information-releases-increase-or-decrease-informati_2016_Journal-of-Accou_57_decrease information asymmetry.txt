@@ -1,0 +1,64 @@
+
+Information asymmetry between "sophisticated" and "unsophisticated" investors (hereafter referred to simply as
+"information asymmetry") is a pervasive friction in capital markets (e. g.  Amihud and Mendelson, 1986; Easley and O'hara,
+2004; Kim and Verrecchia, 1994; Leuz and Verrecchia, 2000). 1 In this study, we revisit a fundamental question in
+information economics, which has implications for both accounting and ﬁnance—what effect does the public release of ﬁrmspeciﬁc information into the market environment (hereafter referred to as a “information release”) have on information
+asymmetry in a short window around the announcement event. 
+Whereas public information releases of all types generally decrease information asymmetry in the post-announcement
+period relative to the pre-announcement period, disclosure literature theorizes that the net effect of a given information
+release on information asymmetry at announcement depends on the relative strengths of two countervailing forces that
+exist simultaneously in any given information release (e. g. , Kim and Verrecchia, 1994).  First, an information release provides
+some information that is new to both sophisticated and unsophisticated investors, which will increase information asymmetry at announcement, ceteris paribus (hereafter referred to as the "asymmetry-increasing force").  This immediate
+increase occurs because of the superior processing abilities possessed by sophisticated investors relative to unsophisticated
+investors, which allows sophisticated investors to impound the information contained in the announcement more quickly
+than unsophisticated investors.  Second, at the same time, an information release reveals to unsophisticated investors some
+information that is new to them but which was already known (privately) by sophisticated investors, which will decrease
+information asymmetry at announcement by reducing the information gap between the two types of investors, ceteris
+paribus (hereafter referred to as the "asymmetry-decreasing force").  Hence, in theory, the announcement effect of a public
+information release on information asymmetry depends on which type of information dominates in that particular release. 
+Relying on these theoretical arguments as motivation, prior literature ﬁnds that earnings announcements and management forecasts increase information asymmetry at announcement (e. g. , Coller and Yohn, 1997; Lee Name, 1993).  These
+ﬁndings are consistent with our intuition that, as ﬁrm-supplied information releases, earnings announcements and management forecasts are likely to contain more information that is new to all external market participants (relative to
+information that is new only to unsophisticated investors), resulting in dominance of the asymmetry-increasing force. 
+Extant empirical literature has to our knowledge provided no evidence of an information release that decreases information
+asymmetry at announcement.  Thus, there is no empirical evidence that the asymmetry-decreasing force plays a signiﬁcant
+role in announcement-period information dynamics. 
+In this study, we utilize the setting of analyst forecasts to re-examine these dynamics.  Compared to earnings
+announcements and management forecasts, extant literature suggests that analyst forecasts contain a relatively high
+concentration of information that is new only to unsophisticated investors (i. e, already known by sophisticated investors)
+versus information that is new to all (e. g. , Irvine Name, 2007; Kadan Name, 2016).  Conceptually, an analyst forecast is an
+information release by a sophisticated information intermediary who collects public and private information and analyzes
+it, which parallels the activities of sophisticated investors.  Indeed, ﬁnancial analysts are often thought of as a proxy for
+sophisticated investors in capital markets.  As an example, one may think about a sophisticated investor as an institution
+(e. g. , hedge fund) that employs buy-side analysts.  The hedge fund's buy-side analysts have similar skill sets and industry
+connections, and perform similar analysis, information collection and research as do sell-side analysts, and at certain times
+collect information directly from sell-side analysts. 2 Therefore, it is likely that the information set possessed by sophisticated
+investors will have relatively high overlap with the information contained in analyst forecasts.  Based on this logic, we
+predict and document that analyst earnings forecasts decrease information asymmetry at announcement. 
+Of course, analyst forecasts may indeed contain some information that is new to both sophisticated and unsophisticated
+investors, which would produce the asymmetry-increasing force.  However, our study is based on an argument of relativity. 
+That is, whereas the asymmetry-increasing force is dominant in earnings announcements and management forecasts, we
+expect the asymmetry-decreasing force to be stronger in analyst forecasts, relatively speaking.  This logic is further supported by extant evidence that suggests that the information set of analysts overlaps with the information set of sophisticated investors, and by evidence of investor trading patterns around analyst forecast announcements. 
+Although analysts produce several types of information releases (e. g. , earnings forecasts, stock recommendations, target
+prices), we focus our attention on analyst earnings forecasts, as these releases are the most frequent type of output, and are
+more directly comparable with earnings announcements and management earnings forecasts.  The three types of events are
+comparable in that they are frequently recurring releases of information events that are well-studied (i. e. , we understand
+most of their properties), where the type of information is similar in nature (i. e. , corporate earnings/performance). 
+Nevertheless, we acknowledge that there are characteristic differences between analyst forecasts and both earnings
+announcements and management forecasts, apart from the theoretical difference that we rely on to generate our prediction
+(i. e. , that analyst forecasts contain a higher relative concentration of information that is new only to unsophisticated
+investors).  For example, analyst forecasts may less likely be anticipated events, relative to earnings announcements and
+management forecasts.  As another example, extant literature suggests that analyst forecasts may contain differential biases,
+relative to earnings announcements and management forecasts (e. g. , McNichols and O’Brien, 1997).  In our empirical tests,
+we address these factors to increase the conﬁdence that our directionally opposite results across information release types
+are driven by the differential information dynamics that we theorize. 
+We follow prior literature and focus on equity market bid-ask spread as a measure of information asymmetry, while
+controlling for its non-information-asymmetry-related components.  We document that, on average, bid-ask spread
+decreases by approximately one-and-a-half percent during an analyst forecast announcement period relative to the period
+immediately preceding the forecast.  Because there are, on average, between two and three analyst forecasts per ﬁrmquarter, the overall quarterly magnitude of the real economic effect of analyst forecasts on a given ﬁrm's bid-ask spread
+during the announcement period is therefore approximately four percent.  We ﬁnd consistent results using quoted depth
+and price impact as alternative measures of information asymmetry. 
+Although our paper focuses on announcement-period effects, we further document that all three types of information
+releases (i. e. , analyst forecasts, management forecasts and earnings announcements) decrease information asymmetry over
+the ten days subsequent to the announcement.  Accordingly, consistent with our expectations, the directionally opposite
+information asymmetry effects across analyst forecasts and the other two information releases are temporary, and exist only
+during the short-window announcement period. 

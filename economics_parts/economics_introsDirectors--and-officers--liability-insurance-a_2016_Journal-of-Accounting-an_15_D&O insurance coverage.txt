@@ -1,0 +1,22 @@
+
+Private enforcement via shareholder litigation is important to investor protection and stock market development
+(La Porta Name, 2006).  Prior literature suggests that cross-country variation in shareholder litigation threat affects the cost of
+equity (Hail and Leuz, 2009; Khurana and Raman, 2004).  However, there is relatively scant evidence on how firm-level
+mechanisms affect the disciplining role of shareholder litigation and therefore the cost of equity.  This research question is
+important as the cost of equity is a summary measure of how investors perceive the risk and return tradeoff of investing in a
+firm (Francis Name, 2004).  In addition, the cost of equity plays a key role in corporate financing and capital budgeting
+decisions.  In this study, we examine how directors' and officers' liability insurance (D&O insurance) affects a firm’s cost ofD&O insurance is a policy purchased by a firm to cover defense cost and potential damage award when its directors and
+officers (D&Os) are sued.  By effectively shielding D&Os from bearing personal financial liabilities, D&O insurance reduces the
+disciplining effect of shareholder litigation (Baker and Griffith, 2010).  We hypothesize that D&O insurance increases a firm’s
+cost of equity via two important channels.  First, as shareholder litigation encourages managers to increase transparency
+(Ball, 2001), D&O insurance can result in poor financial reporting and disclosure quality, leading to a higher cost of equity
+(Leuz and Wysocki, 2008).  Second, as D&O insurance limits the expected legal liabilities associated with bad outcomes of
+D&O decisions, it encourages risk-taking (Baker and Griffith, 2010; Core, 1997).  To the extent that risk-taking results in a
+higher exposure to market risks, the cost of equity is higher. 
+Using a large manually collected dataset on D&O insurance from Canada, we find that D&O insurance coverage is
+positively associated with the ex ante cost of equity implied in stock prices and analyst forecasts.  This association is robust to
+firm fixed effects regression and alternative cost of equity measures.  It is also economically significant.  Based on our baseline
+model, an increase in D&O insurance coverage by one standard deviation is associated with an increase in the cost of equity
+of about 7% of the sample mean. 
+The positive association between D&O insurance and the cost of equity can be driven by endogeneity as D&O insurance
+purchase is a firm’s choice. 

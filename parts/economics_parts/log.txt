@@ -1,0 +1,11 @@
+[2018-12-14 09:23:10.929834]Processing A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt in economics_intros
+[2018-12-14 09:23:52.044498]target population sizes in sent: 16 with maxCNC: 3
+[2018-12-14 09:24:47.131687]decision analysis framework in sent: 38 with maxCNC: 3
+[2018-12-14 09:24:56.751571]population supplementation tools in sent: 42 with maxCNC: 3
+[2018-12-14 09:25:22.539245]alternative supplementation strategies in sent: 52 with maxCNC: 3
+[2018-12-14 09:25:27.800365]baseline recovery target in sent: 54 with maxCNC: 3
+[2018-12-14 09:25:30.487109]population viability analysis in sent: 55 with maxCNC: 3
+[2018-12-14 09:25:42.354915]resource management decisions in sent: 60 with maxCNC: 3
+[2018-12-14 09:26:09.968281]stepsensitivity analyses in sent: 70 with maxCNC: 3
+[2018-12-14 09:26:16.930326]Decision analysis models in sent: 73 with maxCNC: 3
+[2018-12-14 09:26:48.971111]breeding supplementation programs in sent: 86 with maxCNC: 3

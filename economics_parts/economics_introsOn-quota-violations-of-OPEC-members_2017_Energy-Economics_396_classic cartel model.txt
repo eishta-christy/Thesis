@@ -1,0 +1,467 @@
+
+OPEC has a fragile cartel structure.  It does not have a formal
+enforcement mechanism in place (except for the occasional price war)
+to incentivize its members to comply with their quota allocations
+(Alhajji and Huettner, 2000).  As a result, non-compliance to the quota
+has become a norm among OPEC members over the past decades. 
+In every single quarter from 1993 to 2005, total OPEC production
+exceeded the sum of its members’ quotas.  In this period, an OPEC
+member over-produced its quota by an average of 6. 7%.  In this paper,
+we provide a framework to explain such a persistent non-compliance
+pattern based on strategic interactions among members inside OPEC. 
+Quota violations vary signiﬁcantly among different countries.  For
+example, Saudi Arabia’s overproduction averaged around 3. 2% from
+1995 to 2007 but Qatar’s overproduction averaged around 18. 5% during the same period.  In extreme cases, some members overproduce
+their quotas by a large margin.  For example, in the second quarter of 1998, OPEC requested that Qatar cut its production to reach a
+quota of 384 thousand bpd due to falling oil prices, but Qatar kept its
+production level at 670 thousand bpd–a 75% quota non-compliance. 
+Another extreme example is Algeria who overproduced its quota by
+more than 50% in 13 out of 24 quarters between 2002 and 2006. 
+Moreover, as suggested by a large body of theoretical literature1, the
+diﬃculty of supporting collusion varies with the economic state of
+the market.  Based on these preliminary observations, we ask the following.  is non-compliance related to oil market conditions.  If so, is
+it a pro-cyclical or a counter-cyclical behavior.  How does the degree
+of non-compliance differ for smaller vs.  larger producers.  To what
+extent does OPEC rely on the quota system. 
+There are a number of prominent empirical studies on OPEC
+behavior, but the majority of them focus on whether OPEC behaves
+as a cartel or not, rather than analyzing the nature of quotas and
+violations.  To name a few, Griﬃn (1985), tests the market-sharing
+hypothesis by looking at the co-movement of each country’s production with that of the rest of OPEC.  He concludes that “OPEC is a looser
+cartel” given that market sharing considerations only partially affect
+production decisions.  Gülen (1996) uses a similar intuition to test
+for parallel movements in members’ output levels.  He ﬁnds evidence
+of coordination among members, especially during the rationing
+period, 1982–1993.  Dahl and Yücel (1991) ﬁnd no evidence in support of several hypotheses for OPEC behavior including dynamic
+optimization, target revenue, cartel, competitive, and swing producers.  Therefore, they conclude that “loose coordination or duopoly” is
+the closest description to OPEC behavior.  However, as pointed out
+by Smith (2005), there are serious concerns regarding the low power
+of the statistical tests employed in these studies and the extent to
+which they are capable of distinguishing between collusive and competitive behavior within OPEC.  He describes OPEC as “much more
+than a non-cooperative oligopoly, but less than a friction-less cartel. ”
+Instead of calling this strand of literature inconclusive, we prefer
+the conclusion that some of the studies reach—such as Geroski Name
+(1987), Almoguera Name (2011) and Kaufmann Name (2008)—that
+OPEC behavior cannot be ﬁtted into a single model, but rather it
+follows a varying-conduct model that switches between collusive
+and non-cooperative behavior over time.  We use the same notion
+in our theory model by formulating the proposed framework as a
+combination of a cooperative game and a non-cooperative behavior. 
+Although the empirical evidence for OPEC’s collusion behavior
+is mixed, the ﬁeld of industrial organization provides a sharp predictions for one of the factors affecting collusion.  the link between
+market conditions and the incentive to cheat in a cartel.  The standard
+approach in this literature is to repeat game models in which cartel members interact via their choice of production levels or prices. 
+In this approach, members choose to cooperate or cheat in each
+period by comparing the net value of cooperation vs.  that of deviation.  If they cooperate, they receive a moderate period payoff for
+cooperation with a continuation of this payoff in the future.  However, if they decide to cheat, they will enjoy a high period payoff
+but will face punishment in the future.  The prediction of this literature is that it’s harder to collude in booms because the incentive to
+cheat is higher2.  For example, Rotemberg and Saloner (1986) show
+that with an i. i. d.  demand structure collusion is harder to support in
+booms, simply because the net gains of deviation are higher.  Assuming a cyclical demand, Haltiwanger and Harrington Jr (1991) show
+that the incentive to cheat is stronger at the end of a boom when
+the demand is about to fall.  This is because with falling demand the
+value of cooperation is at its lowest.  Consistent with Rotemberg and
+Saloner (1986), Kandori (1991) and Bagwell and Staiger (1995) generalize this result for the cases of serially correlated and Markov
+demand shocks respectively.  Overall, the theory predicts a monotonic relationship between market conditions and the incentives to
+cheat.  the more favorable the market conditions, the more diﬃcult
+it is to support collusion. 3 Staiger and Wolak (1992) introduce the
+capacity-constraints features to previous models and show that large
+excess capacities can result in severe price wars. 
+We use a less complex economy to characterize the noncompliance behavior of an OPEC-like cartel.  Our model consists of
+a small and a large capacity country.  We use a simple multistage
+model where in the ﬁrst period countries choose their optimal level
+of capacity.  In the second stage the optimal aggregate production
+of the cartel and the quota level for each member are determined
+through maximizing the joint proﬁt of the cartel members.  In the
+third stage countries decide their production level and in the fourth
+stage possible deviations from the quota might be punished. 
+The model implies that OPEC members take into account the
+investment cost of building capacity with the possible beneﬁt of
+obtaining a larger quota.  We show that for the small member, the
+endogenously chosen capacity work as an implicit quota enforcement mechanism in good times and leaves very little room for
+non-compliance.  Therefore, we predict that OPEC relies on its quota
+and punishment system more in bad times than in good times. 
+We also allow the punishment reaction of the cartel’s police (Saudi
+Arabia) to vary in a range (between very weak enforcement to a
+full enforcement) to study the reaction of investment and production decisions of small members to changes in the stringency of the
+punishment mechanism.  We show that while more stringent punishment results in lower quota violations, it increases investment in
+capacity expansion. 
+The key feature of our theoretical framework is to model the
+decision making process by the cartel members inside and outside
+of OPEC.  We do this by highlighting the role of an important variable, under-emphasized in literature, as the key variable explaining
+the compliance behavior of cartel members.  More speciﬁcally, we
+emphasize the role of capacity as the fundamental heterogeneity
+among cartel members in three ways.  First, empirical and anecdotal evidence support the idea of a direct link between the production
+capacity of a country and its share of total quota.  Second, we introduce convex capacity building costs, which pin down the optimal
+maximum production capacity for each member.  We argue that the
+marginal cost of oil production is much smaller than the initial cost
+of building capacity, as pointed out by Gault Name (1999).  Therefore, some of results are driven by the capacity limits.  Third, larger
+capacity provides the option to produce in high-demand states for
+the larger member in the production game that follows the quota
+allocations. 
+Our empirical analysis supports these predictions.  Using quarterly data for the period of 1995 to 2007, during when OPEC had a
+stable structure, we build a panel data model to test the statistical
+signiﬁcance of the predictions of our theory model.  We use Instrumental Variable approach to control for potential endogeneity of
+the size measure, Capacity.  Consistent with the notion that capacity
+constraint works as an enforcement mechanism in good times, we
+ﬁnd that unlike the police that always holds spare capacity to keep
+the potential punishment credible, other OPEC members become
+more capacity constrained when oil prices are higher.  Next, consistent with OPEC relying on quota system in bad times, we ﬁnd that
+OPEC meets more frequently when oil prices are lower.  Moreover,
+consistent with a size-dependent punishment mechanism, we provide empirical evidence that shows non-compliance relative to quota
+levels is more common among the smaller countries especially in badThree things distinguish our paper from earlier studies on OPEC
+non-compliance.  First, our paper is one of the few studies that
+look into strategic interactions and cheating behavior inside OPEC,
+instead of looking at the behavior of OPEC as a whole.  Second, unlike
+the bulk of the literature on OPEC that are merely empirical (e. g. ,
+Molchanov, 2003), we provide a theoretical model that is tuned to
+resemble the OPEC decision-making process and delivers empirically
+testable predictions along with our empirical analysis.  Third, we offer
+a more universal framework that integrates the effects of general
+market conditions (e. g. , demand ﬂuctuations) and country-speciﬁc
+characteristics (e. g. , cost of capacity building) on quota violations
+into a single framework.  This is in contrast to other studies such as
+Dibooglu and AlGudhea (2007) and Kaufmann Name (2008) that look
+at cheating behavior on a country-by-country basis. 
+The rest of the paper is organized as follows.  Section 1 presents
+the theory model in two stages.  the cooperative quota-setting stage
+and the non-cooperative production game.  Section 2 describes the
+empirical design and the data.  Section 3 illustrates empirical analysis
+and estimation results, and Section 4 contains the conclusion. 
+2.  Theoretical model. 
+This section introduces a series of stylized models of OPEC members’ behavior.  The objective of the modeling exercise is to identify
+major determinants of capacity building and production decisions,
+which can potentially include a deviation from the assigned quota
+(among other factors).  The model highlights trade-offs between
+members investment and production decisions. 
+In its most complete form, our theoretical model consists of a
+four-stage game.  In the ﬁrst stage countries endogenously choose the
+optimal level of capacity investment.  In the second stage production
+quotas are allocated (taking into account the installed capacities). 
+Countries make decisions regarding the actual production (and possible deviations from quotas) in the third stage.  We do not assume
+that the third stage’s production plans fully follows the allocated
+quotas because endogenous deviations from quotas are allowed.  The
+fourth stage includes monitoring the actual performance of members
+by the large producer (aka the police) and potentially implementing
+a random punishment strategy.  In our model capacity levels, quota
+allocation, actual production, quota violations, and punishment are
+all endogenous. 
+2. 1.  Key components and assumptions of the model. 
+OPEC is a sophisticated and non-transparent organization.  A lot
+of politics is involved in OPEC. s bargaining, agreements, and decision making.  We recognize that a stylized model, such as the one
+presented in this paper, cannot fully capture all aspects of OPEC’s
+dynamics.  Moreover, given the size limitations of the current paper
+we have to make certain assumptions and take a pragmatic approach
+for building and solving the model in order to come up with empirically testable hypothesis. 
+2. 1. 1.  Focus on the key message related to the empirical section of the2. 1. 1. 1.  Objectives and functions of OPEC.  OPEC acts as a cartel maximizing the total proﬁt of its members4.  OPEC’s objective in reality
+is a mix of proﬁt-maximizing and price-stabilizing goals.  Especially
+in recent years, OPEC has tried to keep the crude oil prices around
+a reasonable bound (appx $50–$60) to reduce the incentives of the
+demand side to invest in alternative forms of energy5.  We model
+OPEC only as a proﬁt-maximizing cartel6. 
+2. 1. 1. 2.  Cartel members.  The cartel consists of a large producer (aka
+the police, who monitors other members production and their deviations from quotas) and a fringe of small producers.  We assume the
+production capacity of the police is K1 and the aggregate production
+capacity of all fringe members together is K2.  To keep the algebra
+simple we solve the game between one large producer and one
+representative small player.  Thus, we abstract from strategic interactions between small producers.  Since the interest of the paper is in
+quota violations of non-police members, we only model the endogenous capacity investment, quota allocation, and production decisions
+of the representative small producer.  The production capacity of the
+police is exogenous. 
+2. 1. 1. 3.  Cartel’s police.  In order to preserve the stability of a cartel,
+there should be some credible punishment strategies vis-a-vis noncomplying members.  We assume Saudi Arabia is the de facto police
+of the OPEC cartel.  No other member has the production or ﬁscal
+capacity to punish defying members.  We assume the police holds
+an exogenously-speciﬁed level of excess capacity beyond the levels
+of any other OPEC member to support a credible threat against
+deviations from the cartel allocations7. 
+2. 1. 1. 4.  Demand.  The demand for crude oil has a standard linear
+functional form.  P = h − cQ.  Hereh is the demand shift parameter
+and c is the ﬁxed parameter representing the sensitivity of prices to
+quantities.  We will ﬁrst solve a deterministic model and then introduce a stochastic demand.  The stochastic demand shift parameter
+includes two states which follow a discrete i. i. d distribution of hH
+(high demand) and hL (low demand), with probabilities of pH and pL,
+respectively. 
+2. 1. 1. 5.  Capacity building costs.  OPEC members face convex capacity
+building costs.  This assumption is in line with the order of extraction hypothesis in the resource economics literature (Amigues Name,
+1998).  According to the order of extraction theory, resource holders
+(OPEC members here) ﬁrst extract the most eﬃcient resource base
+and then move to ﬁelds with higher costs (less eﬃcient ﬁelds or types
+of reserves such as offshore, and deep water) if the demand is highWe assume that the marginal cost of production is zero8.  The
+major component of the total cost function is the ﬁxed cost of building capacity.  The capacity cost is modeled as a stream of annualized
+payments (i. e. , all equipment are perpetually leased).  The limiting
+case of the convex capacity cost is a hard capacity constraint, which
+is equivalent to a locally inﬁnite marginal cost (i. e.  a vertical part of
+the cost curve).  However, countries have different levels and curvatures in their cost curves.  This heterogeneity for the size and quality
+of reserves distinguishes a large producer such as Saudi Arabia from
+a small producer like Gabon or Qatar.  Fig.  1 shows a stylized view of
+this model. 
+Under an eﬃcient planner solution the country with a lower
+capacity building cost (i. e.  cost curve to the right) will optimally build
+a larger capacity and receive a higher production quota. 
+2. 1. 1. 6.  Allocation rule of OPEC.  The theoretical foundations for the
+internal allocation of aggregate production to cartel members is a
+matter of debate (see Cave and Salant, 1995).  We assume that the cartel uses a two-layer allocation rule.  In the strategic layer the allocation
+rule minimizes the cartel’s production cost (surplus maximization
+strategy) for capacity investment.  In the production layer (when
+capacities are not binding due to a low demand) the rule suggests
+an allocation proportional to existing capacities.  Anecdotal evidences
+suggest that the established capacity is a key factor in assigning initial
+quotas to OPEC members.  In the strategic version of the model we
+will discuss how a proportional allocation rule incentivizes member
+countries to build excess capacity.  Sandrea (2003) suggests that the
+following eight factors have been used in the initial stage.  reserves,
+production capacity, historical production share, domestic oil consumption,
+production costs, population, dependence on oil exports,
+and external debt.  Reynolds and Pippenger (2010) use Venezuela as
+an example and shows that in the long-run, production capacity and
+actual productions of countries Granger-cause their OPEC quotas. 
+2. 1. 1. 7.  Punishment.  In reality, constant deviations from assigned
+quotas occur for multiple reasons.  First, countries are typically not
+content with the officially assigned quota and prefer to produce
+more.  Second, it is both difficult and costly for OPEC to constantly
+punish non-complying members. 
+The problem with the standard definition of punishment in cartels
+(i. e the strategy of flooding the market with overproduction and thus
+reducing the price) is that it not only punishes the non-compliant
+member but also other “innocent” members (including the police
+itself)9. 
+This causes the punishment strategy to be ex-post sub game perfect
+but not negotiation-proof.  We are not aware of other credible
+punishment mechanisms (such as trade embargoes), which have
+been used by OPEC members.  During important historical incidents
+(e. g.  the oil price war of 1986) Saudi Arabia overproduced to punish
+the other members.  In order to have a credible punishment strategy,
+cartel members need to have enough spare capacity, able to identify
+the deviant member (Green and Porter, 1984), and not be jammed by
+demand uncertainty noises. 
+2. 1. 1. 8.  Punishment technology.  Punishment in our model is random
+and the probability of punishment (conditional on cheating) is m ∈A special case is the size-independent punishment technology,
+which will react to all positive deviations with a constant probability
+m.  The random punishment can be interpreted as a mixed strategy
+played by the police. 
+In the case of size-independent punishment, when m → 1 the
+punishment is very effective, and when m → 0 the ability or the
+incentive to punish is very weak.  When m → 0 the non-police
+members are conﬁdent that the cartel will never punish their quota
+violations. 
+The inability to accurately observe members’ actual production,
+the lack of a political will to punish the deviating member, or internal
+disagreements within the OPEC are several frictions that can result
+in a partially effective punishment technology.  We summarize all of
+these forces using the single parameter m. 
+2. 2.  Four versions of the model. 
+A step-by-step development of cartel models is presented in the
+following order. 
+1.  A planer’s11 solution for a cartel with a convex capacitybuilding costs under certainty
+2.  A planer’s solution for a cartel with a convex capacity-building
+costs under uncertainty
+3.  A cartel with quota allocation and full enforcement of quotas
+4.  A cartel with quota allocation, possibility of quota violation,
+and endogenous punishment for quota violation. 
+2. 3.  Model 1.  eﬃcient allocation under certainty. 
+The benchmark case is a two-country cartel problem with asymmetric convex capacity building cost curves c(Ki) = 1
+i , where 0i
+is the coeﬃcient of resource eﬃciency and Ki is the installed capacity. 
+For countries with a larger resource base, 0 is a smaller parameter. 
+We also assume a full enforcement of OPEC quota rules (through
+a planner).  We ﬁrst introduce this benchmark to provide the key
+intuitions from an eﬃcient allocation and then will move to a more
+realistic case with capacity limits and incentives to cheat. 
+We assume that the two countries choose the optimal production
+capacity based on an eﬃcient internal allocation mechanism.  Since
+the capacity has not been built, one can treat the annualized cost
+of capacity like marginal cost.  Members of the cartel are bound by
+their maximum capacity.  thus, even if the operational marginal cost
+is zero, they will not be able to deviate upward from the eﬃcient
+solution.  Moreover, no party has an incentive to build more capacity
+than what we recommend here because the marginal cost of building
+an additional unit of capacity exceeds the marginal beneﬁts (taking
+the behavior of the other members as given). 
+The optimal cartel solution is here where c(K1) and c(K2) are the total cost of building K1 and K2 units of capacity. 
+The cartel problem in this version of the model is the same as
+the standard multi-plant monopolist problem, which maximizes the
+joint proﬁt of all plants.  The FOCs of the cartel problem results in
+the following system of equation, in which the marginal cost of each
+member is equal to the marginal revenue of the cartel. 
+Given that the right hand sides are equal, we immediately observe
+that c(cid. 4)(K1) = c(cid. 4)(K2) ⇒ K1
+.  Since capacity is set in the model, we
+also note that 01 > 02 ⇒ K2 > K1, implying that the member with
+a less eﬃcient cost curve (represented by a higher 0) will receive a
+lower production quota. 
+Plugging in the speciﬁc functional forms for ci and P. 
+The solution to the system of equation characterizes an eﬃcient 
+internal allocation while maximizing the total proﬁt of the cartel. 
+2. 4.  Model 2.  eﬃcient allocation under uncertainty. 
+When the uncertainty is introduced, the optimization problem
+of the planner consists of two stages.  In the ﬁrst stage (before the
+resolution of uncertainty) member countries choose their optimal
+capacity levels (by considering the expected value of capacity over
+different states).  In the second stage with the ﬁxed capacity installed
+in the ﬁrst stage, countries produce according to a proﬁt-maximizing
+program. 
+The demand states are distributed according to hL, pL and hH, pH,
+where pL, pH are the probability of low and high states, respectively. 
+We denote the production at the high and low states by qH
+A key point to note is that the choice of capacity is prior to the
+resolution of uncertainty regarding the demand state.  Therefore, the
+country maximizes based on the expectation of proﬁts.  However,
+production decisions are taken after observing the realized demand
+state (i. e after the uncertainty regarding the demand is resolved. )
+Since the production in the low demand state will always be
+below the capacity, the marginal value (i. e.  shadow price) of capacity
+at this state is zero.  Therefore, the choice of capacity will be driven by
+the high state optimal production plan.  In other words, there are four
+equations for qL,1, qH,1, qL,2, qH,2, out of which two are binding (in the
+H-state) and two are always slack (in the L-state).  Therefore, Ki = qHThe optimization problem of the planner looks very similar to
+the previous case except that the marginal value of capacity is only
+relevant in the high state12. 
+Solving the system of equations using the assumed functional
+conditioned on actual capacities, OPEC decides on the aggregate supply and then allocates quotas to members.  Economic theory has
+little to say about the internal allocation in the low demand state
+when members have excess capacities (especially when the marginal
+cost of production is zero).  In practice, OPEC uses a combination of
+economic, social, and political factors to determine the quotas.  We
+assume the allocation is based on installed capacities.  The cartel ﬁrst
+ﬁnds the monopoly production quantity.  Since we assumed marginal
+cost is equal to zero the cartel just maximizes revenues14. 
+Two types of deviation can be identiﬁed.  an operational deviation
+by producing more than assigned quota (the focus of this paper) and
+an investment deviation by building too much initial capacity15.  The
+operational deviation is more frequently observed in practice.  Given
+the nature of our motivating empirical observations, our theoretical
+focus is on operational deviations.  Consequently, we only model the
+punishment mechanism for the operational deviations and abstract
+from modeling the punishments for the investment deviations. 
+2. 5.  Model 3.  strategic incentives for capacity investment. 
+We now consider the incentives of OPEC members to build excess
+capacity (ex-ante) in order to gain a larger quota in the low demand
+state.  Our assumption of the strategic effect of capacity is in line with
+the intuition offered by some recent papers (e. g.  Fagart, 2016). 
+We assume a reduced-form proportional quota allocation rule,
+which assigns quota based on the relative share of countries’ installed
+capacities.  If the theoretical share of country i is greater than its actual
+capacity, the quota will be capped at capacity. 
+Combining cartel total production and allocation rules. 
+The equations above pin down the binding capacity (and hence
+the production plans) in the H state.  Note that when pH = 1 the
+solution is the same as Model 1. 
+We also need to characterize the optimal production in the L
+state.  In state L, after observing the realized state of demand and
+Note that OPEC members’ individual capacities do not affect the
+optimal level of the cartel’s production (as long as the total capacity
+of the cartel is large enough).  Moreover, the proportional rule does
+not guarantee that members will get quotas equal to their production
+capacities.  As long as the aggregate capacity of OPEC is larger than the
+optimal cartel production, some members will receive quotas below
+their capacities16. 
+The objective function of the nested optimization problem is here
+where players choose the capacity in the ﬁrst stage by considering
+its effect both in the low and the high demand states (and taking the
+capacity strategy of others as a given. ) The new feature of this version
+of the model takes into account the strategic effect of capacity on the
+assigned quota for the low state (i. e.  bargain for a higher quota)
+Under this structure and with qH 1 = K1 , the key equation to pin
+down the endogenous choice of capacity by a small cartel member
+is this. 
+We derive the value of the expression in the second bracket in the next subsection. 
+2. 5. 1.  Marginal quota effect of capacity. 
+The proposed allocation rule allows us to derive the marginal
+“allocation value” of a unit of capacity.  Assuming that the marginal
+effect on the total capacity of cartel is negligible, the marginal
+allocation value can be deﬁned as follows. 
+Denoting the assigned quota in the low demand state by qL. 
+We see that with a larger total capacity of OPEC members, the
+quota allocation effect of additional unit of capacity for an individual
+member becomes weaker.  Note that Q
+is the total production of cartel in the low state and
+Ki is the total production in the high state. 
+Thus, closer production values in the two states results in a higher
+incentive for bargaining. 
+The marginal value of capacity in the low state then can be calculated. 
+Eq.  (13) suggests that when the total installed capacity of the
+cartel is large, the demand in the low state is weak, and the sensitivity of price to quantity is high, the incentives for building excess
+capacity (for quota bargaining purposes) would become smaller.  The
+small member of the cartel compares the marginal value of capacity with the marginal cost of building (an almost unused) unit of
+excess capacity.  If capacity costs are relatively low, the country may
+build and keep spare capacity for bargaining purposes.  however, if
+capacity investment costs are high, the country may give up building
+excess capacity. 
+The optimality condition to pin-down the equilibrium capacity
+for the representative small member is here. 
+2. 6.  Model 4.  strategic interaction
+In the ﬁnal version of the model the full quota compliance
+assumption is relaxed.  OPEC members can potentially deviate from
+the allocated quota.  however, they are subject to possible punishment by the police.  The game consists of four major stages as
+described in Fig.  2.  The small producers use backward induction and
+consider the effect of equilibrium outcomes in later stages of their
+current decisions.  The ﬁrst stages of the time-line occur only once. 
+however, the production and punishment stages are a summarized
+form a repeated game. 
+2. 6. 1.  Capacity stage. 
+As before, small producers take into account the marginal cost of
+building one additional unit of capacity versus its marginal beneﬁts. 
+The incentives to build capacity are twofold.  ﬁrst, the option value
+of producing higher in good time and second, the strategic effect of
+capacity on the allocated quota.  We assume that the ﬁrst effect is
+small and abstract from it to focus on the second effect which is the
+key focus of this paper. 
+2. 6. 2.  Actual production stage. 
+Given Ki, qi the individual small (i. e.  non-police) country i solves a
+constrained optimization problem under uncertainty.  Note that since
+the capacity has been already built and there are no operational costs
+(as we assumed before), the marginal cost of production is zero. 
+The member country considers the following two cases. 
+The ﬁrst line refers to the compliance strategy.  If the country
+complies, it earns the proﬁt associated with the assigned quota and
+the repeated game continues.  The game in this case is basically the
+repeated version of the one-shot game of compliance.  However, if the
+country violates the quota (second line), it may trigger punishment. 
+The country enjoys a higher proﬁt at the current period by accepting
+the risk of punishment, which shifts the value function to a Cournot
+value function.  The details of the Cournot value function is presented
+in the Appendix. 
+The violation branch creates two sub-scenarios ahead of the cartel
+member.  with probability (1 − m) no punishment will occur and the
+member continues with the same value function.  However, with the
+probability m the police will punish the non-compliant behavior and
+the game continues in a non-cooperative (Cournot) regime. 
+After simplifying the algebra, it turns out that the small member
+has incentive to deviate if the following condition holds this. 
+Any punishment strategy that the beneﬁt of a one-shot deviation
+is smaller than the lost value of cooperation will induce members toFrom Eq.  (16) we can see that the cartel is more stable when the
+immediate beneﬁt of deviation is smaller or when the expected cost
+of punishment is higher. 
+Proposition 2. 1.  The incentive to cheat is higher in the H-state compared to the L-state. 
+Proof.  The R. H. S of Eq.  (16) is independent of the current state (note
+that the demand follows an i. i. d regime. ).  However, the LHS is a function of the current state.  In the high-price state the marginal value
+of an additional unit of production is higher than a low-price state
+(which is the standard result of Rotemberg and Saloner, 1986). 
+Corollary 1.  Small producers face binding constraints in the high
+demand state.  Thus, the potential magnitude of deviation for a small
+producer is larger in the L state compared to the H state.  Capacity
+constraints work as an implicit enforcement mechanism. 
+In the H state, small producers typically will have a small excess
+capacity to unilaterally expand their production.  Thus, the immediate value of deviation is limited.  However, in the low demand state
+there is plenty of excess capacity to be used for quota violation. 
+Proposition 2. 2.  If the size of the strategic excess capacity is small,
+punishment is only required in the low state. 
+Proof.  Small members do not have major excess capacity in the H
+state.  Therefore, the total beneﬁt of quota violation is small.  However, they have signiﬁcant excess capacity in the L-state and the
+potential value of a one-shot deviation can be signiﬁcant20.  In summary, in the high state the capacity constraints function as the
+enforcement mechanism and in the low state quotas need to be
+enforced by the cartel. 
+Even if members have some excess capacity to deviate in the
+H state, such a deviation is not too costly for the cartel.  On contrary, a deviation during the L time can be very costly to everybody. 
+Thus, one can expect that during the low demand regime more
+quota-related activities (e. g. , quota-setting, political bargains, and
+meetings) should be observed. 
+Corollary 2.  The frequency of OPEC meetings and quota adjustments
+should be negatively associated with the level of crude oil price. 
+2. 6. 3.  Occasional punishment. 
+We make a ﬁnal assumption to create a model similar to the real
+world.  In a classic cartel model with a credible punishment strategy
+(no shock or noise) and fully rational players no quota violation or
+punishment will be observed on the equilibrium path.  Punishment
+occurs as an off-equilibrium phenomena. 

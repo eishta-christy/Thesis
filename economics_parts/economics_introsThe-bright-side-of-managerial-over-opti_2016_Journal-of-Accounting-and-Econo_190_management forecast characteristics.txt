@@ -1,0 +1,187 @@
+
+One of the best-established stylized facts in the decision-making literature is that individuals are over-optimistic about
+future outcomes (e. g. , Weinstein, 1980).  Over-optimism is related to overconﬁdence but is distinct. 1 Over-optimism creates
+an upward bias in the mean of the distribution while overconﬁdence creates an upward bias in its precision.  Importantly,
+prior analytical work also suggests the possibility that over-optimism can increase ﬁrm performance (e. g. , Hackbarth, 2008),
+but little empirical work exists on this topic.  We investigate this issue empirically. 
+We ﬁrst note that individuals are over-optimistic in general, and particularly so regarding the effect of their own actions
+(we call this phenomenon “static over-optimism”).  In addition, managers may suffer from a biased attribution of causality
+after a series of good performances that leads them to under-estimate the role of random noise and over-attribute successes
+to their own actions (we call this phenomenon “dynamic overconﬁdence”).  The combination of these two phenomena leads
+to an increase in over-optimism after a series of successes (we call this phenomenon “dynamic over-optimism”): optimistic
+managerial actions (or beliefs) receive an increasingly disproportionate weight in the overall estimation of a project's
+success.  Thus, our ﬁrst hypothesis posits that the degree of managerial over-optimism should increase after a series of
+successes.  This miscalibration in managerial prediction may encourage managers to exert greater effort, as they expect this
+effort to pay-off with a greater likelihood.  Naturally, this additional effort should have a positive effect on ﬁrm performance. 
+Hence, our second hypothesis conjectures that ﬁrm performance should increase following a series of successes, even if the
+increase remains below the level expected by an over-optimistic manager. 
+We note that our hypotheses can be motivated in an economic framework in which individuals are Bayesian.  For
+example, Van den Steen (2004) proposes a model in which a representative agent is endowed with priors.  In the most basic
+setting, a manager can choose from a menu of actions.  For each action, the manager's prior over the likelihood of success
+equals the true probability plus a (non-invertible) random error.  The manager optimally chooses the action for which her
+prior is highest, which is also the action whose probability of success the manager is most likely to over-estimate ex post. 
+This generates the static over-optimism we discuss above.  This framework also allows for a Bayesian but biased attribution
+of performance that yields a form of dynamic overconﬁdence.  Combined with static over-optimism, this phenomenon
+generates the dynamic over-optimism that is the core of our ﬁrst hypothesis.  Our second hypothesis relies on the idea that
+over-optimism can elicit higher effort from management.  As noted in Van den Steen (2004) this emerges naturally if the
+payoff is increasing in effort when the action is successful. 
+Our empirical ﬁndings are consistent with our analytical framework and support the presence of dynamic overoptimism.  First, we show that managers who experienced more frequent successes in the recent past, subsequently issue
+more optimistic forecasts.  Further analysis reveals that they also exercise stock options later (Malmendier and Tate, 2005;
+Campbell Name, 2011) and issue earnings releases with a more optimistic tone (based on textual analysis).  Importantly, these
+results hold in speciﬁcations with manager ﬁxed effects.  By showing that over-optimism has an endogenous and dynamic
+component, our results suggest that, at least to a certain extent, some managers are made (rather than just born) overoptimistic.  Second, and importantly, we show that the over-optimism we document can improve ﬁrm performance and that
+managers appear to exert greater effort to meet their own over-optimistic forecasts.  Speciﬁcally, ﬁrm accounting performance and quarterly market return increase as the degree of managerial over-optimism increases.  In contrast, measures of
+accruals or real earnings management are not affected by this over-optimism.  These results suggest that the increase in ﬁrm
+performance is genuine.  They also suggest that managers, being over-optimistic regarding the likelihood of meeting the
+expectations they set, do not feel the need to manage earnings in order to reach their forecasts.  Third, using comparative
+statics, we show that our empirical ﬁndings are consistent with our economic framework, which predicts that overoptimism increases with ﬂexibility in decision-making and with the diffusion of priors, and decreases with managerial
+experience.  Van den Steen (2004) notes these comparative statics empirically distinguish this framework from others.  Lastly,
+we perform a path analysis.  Results demonstrate a series of structural links that go from past performance to overconﬁdence, from overconﬁdence to over-optimism, from over-optimism to effort, and from effort to performance.  This chain
+of links is consistent with our overall framework. 
+We contribute to the literature in several ways.  First, we show that over-optimism can increase ﬁrm performance. 
+Although prior analytical work suggests this possibility (e. g. , Benabou and Tirole, 2002; Compte and Postlewaite, 2004; Van
+den Steen, 2004; Hackbarth, 2008; Gervais Name, 2011), little empirical work exists on this topic.  Second, we present evidence consistent with the comparative statics and ancillary predictions of the economic over-optimism framework.  Lastly,
+we empirically distinguish between overconﬁdence and over-optimism.  The importance of this distinction has been noted
+by prior literature.  For example, Moore and Healy (2008) explain (p.  503) “[t]he ﬁrst problem with overconﬁdence research
+is that the most popular research paradigm confounds overestimation and overprecision. ” There is now an established
+literature on overconﬁdence in managerial behavior (see Glaser and Weber, 2010 for a review), yet much less is known
+about over-optimism in this context. 2
+The remainder of the paper proceeds as follows.  In Section 2, we discuss our hypothesis development and our empirical
+design.  In Section 3, we present our samples and descriptive statistics.  In Section 4, we provide our main empirical results
+and additional evidence consistent with our economic framework.  In Section 5, we discuss different robustness checks. 
+Section 6 concludes. 
+2.  Hypothesis development and empirical design. 
+2. 1.  Hypothesis development. 
+As early as Savage (1954), economics has traditionally assumed that people begin the decision-making process with
+subjective beliefs over the different possible states of the world and use a Bayesian approach to update these beliefs as they
+receive additional information.  Under such a framework, some individuals hold unbiased beliefs that typically converge
+toward the true parameter as more signals are received.  However, this view has been challenged as numerous systematic
+biases have been suggested. 3 In particular, individuals have been shown to be over-optimistic and overconﬁdent.  These two
+biases are similar but distinct.  Over-optimism involves an excessive belief that future events will be positive, while overconﬁdence involves placing too much weight on the accuracy of private information and an excessive belief in one's own
+skills.  For example, Weinstein (1980) notes in his seminal study on over-optimism that people believe negative events are
+less likely to happen to them than to others whereas positive events are more likely to happen to them than to others. 
+More recently, the literature has started to integrate the notion of over-optimism in formal economic frameworks.  For
+example, Van den Steen (2004) proposes a model in which Bayesian individuals are endowed with a menu of actions that
+will lead to either a successful outcome or an unsuccessful outcome.  The manager who selects actions has a prior with
+respect to the likelihood of whether a given action will be successful.  If, for exogenous reasons, managers sometimes
+overestimate and sometimes underestimate the probability of an action's success (relative to other individuals such as
+analysts or relative to the true underlying probability) and select the action for which they estimate the highest perceived
+probability of success, then they are more likely to select actions that overstate the probability of success the most.  They will
+therefore be over-optimistic about the success of the actions they take.  This mechanism is reminiscent of the winner's curse
+(i. e. , the winner of an auction in which bidders have incomplete information is the bidder who has the most optimistic
+estimate of the auctioned item's value).  Under this framework, the random variation in priors together with systematic
+choices leads to systematic bias for a representative agent. 4 Moore and Healy (2008) provide an alternative model in which
+Bayesian individuals can rationally overestimate their chance of success for difﬁcult tasks while Benoit and Dubra (2011)
+show how a majority of Bayesian individuals rationally believe they have greater skills than the majority of the population. 
+More than static over-optimism, the subject of our interest is dynamic over-optimism.  A fairly recent empirical literature
+investigates the possibility that overconﬁdence (and managerial overconﬁdence in particular) is a dynamic phenomenon
+(e. g. , Hilary and Hsu, 2011).  Research on dynamic over-optimism is more limited although the dynamic aspect can be
+incorporated in an economic framework.  For example, Van den Steen's (2004) model leads to biased attribution of causality. 
+In particular, the manager will rationally underestimate the role of exogenous factors in the case of success and overestimate
+their role in the case of failure.  In the case of success, this biased attribution will lead the manager to gradually put more
+weight on the expected effect of her own actions (for which the prior distribution is optimistically biased) and less weight
+on the effect of random noise (for which the prior distribution is not similarly biased, at least on average).  This change in
+weights will lead the manager to experience a gradual increase in overall over-optimism even though the perceived
+probability of success for each individual action does not change over time.  Rabin and Schrag (1999) and Gervais and Odean
+(2001) provide alternative theoretical economic rationalizations for the existence of dynamic overconﬁdence.  Based on this
+discussion, our ﬁrst hypothesis is that:
+H1.  A representative individual becomes dynamically over-optimistic following a series of successes. 
+We then turn our attention to the effect of over-optimism on the ﬁrm's welfare.  Economic theory suggests that managers
+should work harder if effort complements the likelihood of success (e. g. , Van den Steen, 2004).  For example, suppose the
+strictly positive payoff is increasing in effort in the case of success and is zero in the case of failure.  Further assume that the
+cost of effort is increasing and strictly convex.  The amount of effort is increasing in the perceived probability of success: the
+greater the expected probability, the greater the effort. 
+This could be a situation in which proﬁts are increasing with the effort to produce, ﬁnance, market, or protect a product
+but disappear if the product is unsuccessful.  For example, the ﬁrm could decide to engage in litigation more or less
+aggressively to protect a technology.  The litigation effort would naturally be a function of the perceived likelihood of
+technological success but would not affect this likelihood. 5 To the extent that this effort increases ﬁrm performance, we
+expect an increase in ﬁrm performance after a series of successes, even if the increase is not sufﬁcient to reach the level
+predicted in the forecast.  Based on this discussion, our second hypothesis is that:
+H2.  The ﬁrm's performance should gradually improve as managers become more over-optimistic. 
+<Middle> Empirical design. 
+To test these predictions, we focus on managerial forecasts of ﬁrm quarterly earnings.  In doing so we obtain a measure of
+managerial expectations about future ﬁrm performance that we can benchmark against both common expectations at the
+time of issuance (proxied by analyst forecasts) and subsequent realizations. 
+We decompose the public forecast F into two components, namely, a best estimate of the realization privately observed
+by the manager and a reporting bias,
+where X is the realized earnings for ﬁrm-manager pair i in period t, F(X) is the manager's public forecast of X, E(X) is the
+manager's private expectation of X, and b is the manager's reporting bias.  Following Bamber Name (2010) and Hilary Name
+(2014), we assume that the reporting bias is constant for each ﬁrm-forecaster pair.  Empirically, the reporting bias is typically
+negative, which can be explained by the desire of the manager to meet or beat her own forecast more easily.  We further
+assume that the manager's private expectation is a combination of personal and public expectations regarding the results of
+the action, a, chosen by the manager.  The combination of the two takes the form,
+where Em(a) represents the manager's personal expectation (formed independently of the public signal), Ep(a) represents
+the public expectation, and α represents the weight that the manager places on her personal expectation.  We next assume
+that the public expectation of the action taken by the manager is well calibrated (i. e. , Ep(a) is equal to the unbiased expected
+value of a, â). 
+As discussed before, we expect the manager to be over-optimistic with respect to the effect of her actions (i. e. , the
+manager's personal expectation of a, Em(a), is greater than â).  For convenience, we also initially assume that this degree of
+static over-optimism, ψi (i. e. , Em(a)i âi), remains constant over time for a given ﬁrm-manager.  The fact that individuals are
+on average over-optimistic is consistent with the literature (e. g. , among many others, Weinstein, 1980; Graham Name, 2013). 
+For example, Graham Name (2013) ﬁnd that 80% of CEOs in their survey display a “very optimistic” personality.  Scheier and
+Carver (1985) and Scheier Name (1994), suggest that while the degree of optimistic bias may vary from one setting to the
+next, dispositional optimism is a psychological characteristic that lies at the core of an individual's outlook on life in general. 
+Puri and Robinson (2007) provide a review of the dispositional optimism literature in the context of ﬁnancial decisions. 
+The overall bias in the management forecast publicly released by the manager, Bi,t, is equal to αi,t ψiþbi.  It is thus
+impossible to estimate the average sign of the overall bias without knowing at least approximate values of the three
+parameters.  This makes cross-sectional predictions difﬁcult.  However, as previously discussed, we expect that positive
+outcomes will make the manager more overconﬁdent with respect to the effect of her actions.  In other words, α is increasing
+with past successes and the overall bias is relatively more positive after a series of successes.  This expectation yields timeseries predictions that we can test. 
+More speciﬁcally, to test our ﬁrst hypothesis that managers become dynamically over-optimistic after a series of successes, we estimate the following model,
+where Optim is a vector of over-optimism measures.  Optim_MFD measures the signed management earnings forecast
+deviation from the prevailing consensus.  We deﬁne this variable as the management forecast minus the pre-existing
+consensus analyst forecast divided by the absolute value of pre-existing consensus analyst forecast (Kothari Name, 2009).  We
+deﬁne the consensus forecast as the median analyst earnings forecast 30 days prior to the issuance of the management
+forecast.  Optim_MFP measures the signed management forecast deviation from the consensus forecast after the management forecast date.  We deﬁne this variable as the management forecast minus the consensus analyst forecast after the
+management forecast date (prior to the earnings realization) divided by the absolute value of consensus analyst forecast. 
+Optim_MFD and Optim_MFP differ in how we construct the consensus analyst forecast.  We treat Optim_MFD and Optim_MFP
+as our main over-optimism measures because in our framework managerial over-optimism is modeled relative to public
+expectations regarding future earnings.  As a robustness check, we consider two other proxies that are directly correlated
+with the degree of over-optimism.  Optim_Option is a binary variable that takes the value of one if the CEO is over-optimistic
+based on her option portfolio and zero otherwise.  We deﬁne a CEO as over-optimistic if she holds exercisable stock options
+that are more than 67% in the money (i. e. , the stock price exceeds the exercise price by more than 67%, Malmendier and Tate,
+2005).  If a CEO is classiﬁed as over-optimistic in a given year, the CEO retains this type going forward unless she exhibits the
+opposite behavior according to the measure.  That is, we allow for the possibility that an over-optimistic CEO becomes
+unbiased if her exercisable options become no more than 67% in the money at least twice in the sample period (Campbell
+Name, 2011). 7 Finally, we consider Optim_PR, a measure of over-optimism based on textual analysis of the ﬁrms’ press
+releases (the appendix details the construction of this variable). 
+MBSTR, the streak of recent successes, is our key independent variable.  It counts the number of consecutive successes
+that CEO i enjoyed in the four quarters before the current forecast was announced.  For example, if the streak of recent
+successes is 1, 0, 0, and 1 (counting backward from quarters t 1 to t 4), then MBSTR equals one.  If the streak is 1, 1, 0, and 1
+(counting backward from quarters t 1 to t 4), then MBSTR equals two. 8 Initially, we deﬁne a success as an earnings
+realization that is equal to or above the manager's expectation (i. e. , the mid-point of a range forecast or the forecast for a
+point estimate), but the sensitivity analysis reported in Section 5. 1 shows that our results are not affected when we use
+multiple alternative proxies to deﬁne success.  Our key prediction is that β1 should be positive in Model (3). 
+Xk represents a vector of k control variables suggested by prior literature.  Size is the log of market value of equity at the
+beginning of the quarter (Baginski and Hassell, 1997).  We control for growth opportunities by including Book-to-Market,
+which is the book value of equity divided by the market value of equity at the beginning of the quarter (Bamber and Cheon,
+1998).  Leverage is the ratio of book value of total liabilities to total assets at the beginning of the quarter (Fombrun and
+Shanley, 1990; Malmendier Name, 2011).  StdEarn is the standard deviation of the quarterly ratio of net income over assets
+over at least six of the preceding eight quarters (Armor and Taylor, 2002).  RetVolt is the standard deviation of the monthly
+stock return over eight quarters before the beginning of the forecasted quarter (Armor and Taylor, 2002).  Coverage is the log
+of the number of analysts covering the ﬁrm in a given quarter (Hilary and Hsu, 2011).  Inst Ownership represents the percentage of shares owned by institutional investors at the beginning of the quarter (Ajinkya Name, 2005).  Horizon is the
+forecast horizon, measured as the log of the number of days between the management forecast date and the end of the
+forecasted ﬁscal period (Johnson Name, 2001).  Loss is an indicator variable that takes a value of one if reported net income is
+negative, and zero otherwise (Hilary and Hsu, 2011).  Tenure is the number of years for which CEO i has held her position. 
+ChgGDP is the seasonally adjusted quarterly Gross Domestic Product (GDP) percentage growth from Bureau of Economic
+Analysis (BEA). 9 All continuous variables are winsorized at the 1% level.  Finally, we include CEO ﬁxed effects. 
+To test our second hypothesis that ﬁrm performance increases after a series of successes because managers become more
+optimistic, we estimate the following models. 
+ROA is deﬁned as operating income divided by total assets at the beginning of the quarter, where operating income is
+earnings excluding special or non-recurring items such as gain or loss from asset sales, asset write-downs or write-offs. 
+MBSTR, Optim, and Xk are deﬁned previously after Model (3).  Again, we include CEO ﬁxed effects.  We predict that β2 should
+be positive in both Models (4a) and (4b). 
+2. 3.  Estimation procedure. 
+We employ a panel (CEO-speciﬁc ﬁxed-effect) technique to estimate the equations.  The manager ﬁxed-effect regression
+is particularly suitable for testing our hypotheses, which focus on the short-term dynamics of managers’ forecasts, as it
+eliminates cross-sectional variation in the means of the variables while leaving the time-series dynamics of these forecasts
+intact.  This approach allows us to treat over-optimism as a time-varying variable whereas most of the prior empirical
+literature has treated over-optimism as a ﬁxed or at least slow moving characteristic.  The use of manager ﬁxed effects also
+provides a natural control for omitted variables.  For example, constant differences in managerial skill levels, prediction bias,
+or constant ﬁrm characteristics such as industry classiﬁcation are all controlled for.  Our approach provides a direct estimate
+of the change in over-optimism and reduces the need for multiple robustness checks.  In our main speciﬁcations, we employ
+CEO ﬁxed effects.  This approach implicitly assumes that CEOs play a signiﬁcant role in the issuance of forecasts and that
+forecasts are important to them, an assumption that is consistent with prior literature.  For example, Bamber Name (2010)
+report that CEOs have statistically and economically signiﬁcant ﬁxed effects on various management forecast characteristics
+(including forecast frequency, precision, news, and error).  In our study, untabulated F-tests also indicate that CEO ﬁxed
+effects are jointly signiﬁcant in our ordinary least squares speciﬁcations (the p-value is less than 0. 

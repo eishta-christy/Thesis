@@ -1,0 +1,218 @@
+
+The essence of the gasoline subsidy policy problem is its inefﬁciency. 
+The policy leads to overconsumption of gasoline since a subsidy drives
+consumers to purchase a good at a price that is cheaper than the cost
+of producing it (Harvey and Gayer, 2013).  Overconsumption also leads
+to negative externalities such as emission of local pollutants, trafﬁc
+congestions and accidents (Davis, 2014).  In the case of Indonesia, the
+problem is further aggravated by the fact that the government only
+provides a subsidy for regular gasoline, the lowest grade gasoline. 
+Malaysia and Egypt implemented a similar policy that only deregulates
+the higher grade of gasoline (Kojima, 2013).  Indonesia started off in the
+1960s with only the national oil company, Pertamina, allowed in the
+domestic gasoline market.  There was only one grade of gasoline, and it
+was subsidized in the form of underpricing as the price was signiﬁcantly
+lower than the world market price.  Gasoline was subsidized as a way to
+protect people from the effects of inﬂation (Beaton and Lonton, 2010). 
+In 2001, a new regulation was introduced by the government that
+opened up the domestic gasoline market to multinational oil companies
+but only for high-octane gasoline.  This was done to combat the 1997
+Asian ﬁnancial crisis.  Regular gasoline was left subsidized.  Such a
+scheme violates Ramsey's tax rule that taxing rival commodities should
+leave the consumer's relative choices unaltered (Ramsey, 1927).  Different tax rates on commodities and factors introduce a distortion between
+the marginal rate of substitution and the marginal rate of transformation (Stiglitz and Dasgupta, 1971).  In addition, Ito and Sallee (2014)
+found that taxation based on different characteristics of automobiles
+caused distortions in that market.  Similarly, the Indonesian subsidy
+policy distorts both the regular and premium grade gasoline market. 
+Another issue is the unequal beneﬁt of the policy (del Granado Name,
+2012).  As consumers purchase more regular gasoline, the government's
+expenditure on the subsidy increases signiﬁcantly while income
+distribution is distorted as high-income consumers that purchase a
+higher amount of regular gasoline, receive more beneﬁt (Pradiptyo
+and Sahadewo, 2012). 
+An obvious exit strategy from such undesirable outcomes is to
+eliminate the subsidy.  However, the government is reluctant to take
+this option because of its anticipated impact on consumer's welfare
+and the political repercussions.  A lot of studies have been done to
+analyze the economic impact of phasing out a gasoline subsidy in
+Indonesia.  Adam and Lestari (2008) estimated that an increase in the
+price of oil correlates negatively with households' welfare.  Clements
+Name (2007) showed that removing the subsidy increases aggregate
+price levels and reduces real output, while Dartanto (2013) found
+that there will be an increase of poverty.  Arguably, these outcomes
+might agitate the people and cause a signiﬁcant drop in the
+government's popularity.  Furthermore, a well-known economist in
+Indonesia said that removing the gasoline subsidy is against the constitution of Indonesia (Gie, 2011).  Although since late 2014 the price of
+crude oil has dropped signiﬁcantly and saved billions ofgovernment's budget without any interference to the policy, the government remains cautious and had not fully deregulates the regular
+gasoline market. 
+The fuel subsidy took about 15% of overall government expenditure
+in 2014 as shown in Fig.  1.  It amounts to about 250 trillion rupiahs or
+around 20 billion USD (1 USD = Rp 12,000).  Based on Indonesia's
+annual state budget, N80% is for gasoline, diesel and kerosene with
+gasoline being the highest portion.  The government is aware of the
+large cost of the policy but it has remained hesitant to act because of
+the risk of being overthrown by the political opposition and strong
+public resistance.  Numerous times the government had tried to cut
+the subsidy but retreated when met with public protests (Quiano,
+2012.  Cochrane, 2013).  In December 2014, the government announced
+that the gasoline subsidy will be removed from the state's budget
+starting in 2015 (Sari, 2014).  It was met with relatively manageable
+public protest because in the process, the price of regular gasoline was
+relatively unchanged.  However, the government did not fully deregulate the regular gasoline market since the price is still being set by the
+government and only Pertamina is given the license to sell. 
+Another alternative is to reduce the distortion in the regular gasoline
+market while leaving the subsidy intact.  Using Ramsey's rule, the
+government should aim to steer the consumer's choice back to a nonsubsidy pattern.  We show this can be achieved by decreasing the price
+of premium gasoline, which means that the government should also
+subsidize premium gasoline.  However, if the new subsidy on premium
+gasoline is at the same rate as the current subsidy on regular gasoline,
+the government's expenditure will increase signiﬁcantly.  Thus, the
+rate of the new subsidy has to be lower than the current subsidy but
+large enough to generate savings for the government. 
+We have not found other studies that consider the revenue or welfare effects of this somewhat counter intuitive policy.  Thus, the contribution of this paper is to analyze this unique policy with a smaller
+subsidy for premium gasoline that could potentially reduce gasoline
+subsidy expenditures without the political backlash.  Arguably, subsidy
+reform is difﬁcult to enact because of the effect on purchasing power
+of the people and the resulting political instability.  By implementing a
+different pricing policy for different grades of gasoline, the issue of
+inﬂation and political instability can be avoided.  In addition, there has
+yet to be any studies that focus on the inefﬁciency in the market for
+different grades of gasoline.  Policy makers should be aware of the
+issue of inefﬁciency resulted in the markets for substitutes.  The model
+developed in this paper can also be used in other countries that plan
+to improve either their gasoline subsidy or tax. 
+The chosen subsidy rate will depend on the elasticities of demand
+for gasoline.  We predict that the substitutability of gasolines with
+different grades is what drives the magnitude of the savings.  However, we have found no literature on the own and cross-price elasticity
+for regular and premium gasoline for Indonesia.  Nor were our attempts to obtain Indonesian data successful.  Therefore, we set up a
+simulation experiment with differential subsidies for premium
+gasoline by benchmarking to Indonesian data using the elasticities
+estimated by Akimaya (2017) for Mexico, to our knowledge the only
+existing study on the cross-price elasticity of gasoline by grade.  We
+assume that the market has a perfectly elastic supply and only
+consumer welfare is analyzed.  Various simulations using different
+values for cross-price elasticity are done to determine whether there
+are cross-price elasticities that generate savings.  Also, it has to be
+noted that the new subsidy will distort the premium gasoline market. 
+There will be a welfare effect in both the regular and premium
+gasoline market. 
+In the next section, the mathematical model to prove the existence
+of a potential reduction in gasoline subsidy expenditure is analyzed.  In
+Section 3, the data is presented followed in Section 4 by the calibration
+process of Rutherford's (2002), which uses a translog unit cost function
+to calibrate the derived demand functions.  The necessary parameters
+for calibration are then presented in Section 5.  The parameters such as
+prices and share expenditures are based on Indonesia's gasoline market,
+while the baseline elasticity values are based on the estimated results in
+Akimaya (2017).  Next, the simulations for government spending based
+on benchmark values of elasticities are discussed further in Section 6. 
+Given the high degree of uncertainty in the values of the parameters chosen, sensitivity analyses are performed with inputs from studies that include substitutes for gasoline (i. e.  diesel fuel and ethanol).  These tests
+are presented in Section 7.  Since the new subsidy policy introduces a new
+distortion in both markets, the welfare effects on consumers are analyzed
+in Section 8 and the paper is concluded in Section 9. 
+<Middle> Mathematical model. 
+In Indonesia there are several different grades of gasoline but most of
+Pertamina's gas station sell Premium (octane level of 83), Pertamax
+(octane level of 87), and Pertamax Plus (octane level of 90).  The
+subsidized gasoline is Premium, which is lowest grade of gasoline, and
+the price is set by the government.  Pertamina's competitors are Shell
+that entered the gasoline market in 2005 (Shell Indonesia, 2017) and
+Total that entered in 2009 (Kompas, 2009).  Both Shell and Total are
+only permitted to sell gasoline with an octane level that is N87.  They
+each set their own prices for these grades of gasoline.  In July 2015,
+Pertamina, exclusively started selling Pertalite (octane level of 85) that
+is unsubsidized (Duta, 2015). 
+For simplicity of the model, we categorize gasoline into two groups,
+regular gasoline that has the lowest grade of gasoline in the market (83octane) and is subsidized and premium gasoline that is unsubsidized
+(87-octane and above).  We could not get any recent consumption
+data that includes Pertalite and thus, we categorize it together with
+the unsubsidized group.  In this paper, we will use the terms “regular
+gasoline” and “83-octane” interchangeably, as well as “premium gasoline” and “87-octane”.  Since we want to leave the price of regular gasoline intact, the government is left with a subsidy on premium gasoline in
+an attempt to steer aggregate consumption behavior.  The subsidy on
+premium gasoline can be implemented in the same way as for regular
+gasoline.  If enough consumers switch away from the highly-subsidize
+83-octane, the government's expenditure on gasoline subsidies will be
+reduced.  The government then can satisfy its main goal of generating
+savings to fund other projects. 
+We know from the Slutsky equation that a change in price leads to
+an income and a substitution effect (Nicholson and Snyder, 2011).  By
+lowering the price of premium gasoline, we expect that there will be a
+change in the consumption bundle of gasoline by grade.  The substitution effect by which consumers of regular gasoline decide to purchase
+premium gasoline may be beneﬁcial to the government's objective. 
+For every unit of 83-octane being substituted with 87-octane, the government receives savings that equal the difference in the subsidy rate. 
+However, it must be noted that the newly introduced subsidy results
+in additional government expenditure because premium gasoline consumption increases.  The government has to ensure that the saving generated by the substitution effect is larger than the income effect that
+causes an additional expenditure on previously unsubsidized premium
+gasoline.  Therefore, we predict that the substitutability between the
+gasolines (i. e. , the cross-price elasticity) will play a major role in determining the existence of potential savings. 
+In our model, the objective of the government is to minimize its
+expenditure on the gasoline subsidy (G) by controlling the rate of subsidy for premium gasoline (s2).  The model is for a one-year analysis
+and to provide some degree of magnitude for potential savings by the
+government.  We assume that in the subsequent years the income of
+the people and the world market price of gasoline remain relatively
+stable and thus, the potential savings are similar.  The amount of the
+subsidy is given by total consumption of each gasoline multiplied by
+the rate of subsidy (s1 for regular and s2 for premium).  The demand
+for each gasoline depends on its own-price, the price of the other
+grade, as well as income.  We also include the price of all other goods
+(AOG) in the demand function because the income effect resulted
+from lowering the price of premium gasoline can be spent on goods
+other than gasoline.  The demand for regular gasoline is denoted by
+Q83, while for premium gasoline it is denoted by Q87.  Consequently,
+when the government is controlling the price of premium gasoline, it
+will also affect the demand for both regular and premium gasoline.  If
+the subsidy rate s2 is too small that most regular gasoline consumers
+are unaffected, gasoline subsidy expenses might increase since the
+quantity demanded for premium gasoline should increase with lower
+price.  In the case that the subsidy rate is too large that most regular gasoline consumers switch to premium gasoline, the income effect on premium gasoline will determine whether there are savings generated by
+the government.  The objective of the government is shown in Eq. 
+The ﬁrst order condition gives us. 
+We can solve for the optimal subsidy rate on premium gasoline using
+the ﬁrst order condition.  The result shows that the optimal rate depends
+on how consumption on each gasoline changes with the introduction of
+the subsidy and the initial sales of premium gasoline.  Since an increase in
+the amount of subsidy on premium gasoline equals the price change for a
+perfectly elastic supply, we know that ds2= −dP87.  The ﬁrst order
+condition becomes this. 
+Multiply the ﬁrst two expressions in the ﬁrst order condition by this. 
+We can now write the above equation in terms of cross and own price elasticities as follows. 
+Solving for the optimal subsidy on premium yields. 
+Eq.  (2) shows that the cross-price elasticity is a factor that affects the
+optimal value of the subsidy as well as the own-price elasticity of
+premium gasoline.  Since the gasolines are substitute (Ε(83,87)N0), when
+the consumption of premium gasoline is extremely low, the optimal
+subsidy rate should be positive.  In Indonesia, gasoline consumption is
+leaning heavily towards regular gasoline because of the signiﬁcantly
+cheaper price.  See Table 1.  Hence, the optimal rate of subsidy for premium gasoline should be greater than zero.  This condition is speciﬁc to
+Indonesia due to very low consumption of premium gasoline.  Notice
+that if premium gasoline consumption is large, the numerator can be
+positive and therefore the government should introduce a tax to
+minimize its gasoline subsidy expenditures. 
+However, Eq.  (2) does not provide a closed form solution for the
+optimal rate of subsidy.  The consumption of 83-octane and 87-octane
+are still in functional form.  An increase in the subsidy will lower the
+price of premium gasoline, which in turn increases the consumption
+of premium gasoline.  Therefore, without any further knowledge on
+the demand system for both regular and premium gasoline, we cannot
+use it to ﬁnd the optimal rate of subsidy.  Therefore, the next step is to
+determine the demand system for the gasolines. 
+A seminal research paper by Christensen Name (1973) gave rise to a
+ﬂexible functional form for production functions called the translog. 
+Christensen Name (1975) also developed a more complicated translog
+model for utility.  The logical choice is to use the model for utility. 
+However, under a speciﬁc set of assumptions, both approaches result
+in an identical calibrated model.  In our model, three goods will be
+included.  regular gasoline, premium gasoline and all other goods
+(AOG).  The lower price of premium gasoline after the subsidy means
+that people who have been purchasing 87-octane have extra money
+in their pocket.  The translog cost function gives us the change in
+share of each good.  It is a movement along the initial aggregate utility
+level, which is the substitution effect.  However, in reality, that extra
+money will be spent either on additional gasoline or AOG.  Therefore,
+we have to take into account the income effect experienced by the
+consumers.  Since the consumers' disposable income is ﬁxed, if the
+translog unit cost function is used based on the initial expenditures
+with the new prices, we will end up with shares of expenditure that
+have included the income effect.  With an assumption of homothetic
+preference, this approach results in an uncompensated demand
+function, which would result from the translog utility function. 

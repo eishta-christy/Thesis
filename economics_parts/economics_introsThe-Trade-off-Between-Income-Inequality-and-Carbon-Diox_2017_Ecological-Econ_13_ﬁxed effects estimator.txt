@@ -1,0 +1,22 @@
+
+Reducing global poverty and mitigating climate change are two
+major challenges facing mankind in the twenty-ﬁrst century.  Economic
+growth leads to absolute poverty reduction, particularly if it is not associated with rising income inequality (e. g.  Dollar and Kraay, 2002;
+Bourguignon, 2003).  There is a substantial literature that investigates
+the relationship between income and carbon dioxide emissions (the
+main driver behind the increase in global surface temperature).  This literature suggests that economic growth, at least up to a certain level of
+economic development, increases greenhouse gases (IPCC, 2014;
+Jakob Name, 2014).  Consequently, from the perspective of a developing
+country, economic growth may alleviate poverty, but intensify climate
+problems.  A related issue is whether there is also a tradeoff between income inequality and carbon emissions, as stated by Ravallion Name
+(2000).  As we discuss below, the theoretical and empirical literature
+generates mixed results on this question, pointing to different mechanisms and effects (for a survey see Berthe and Elie, 2015).  Much of
+this literature is, however, based on econometric methods that are biased in the presence of time-varying unobserved heterogeneity, and
+on older data on both inequality as well as emissions.  We improve
+upon the existing literature in both of these respects. 
+A particular innovation with respect to the existing literature is that
+we use a group ﬁxed effects estimator (Bonhomme and Manresa, 2015)
+as opposed to a standard ﬁxed effects estimator.  This grouped ﬁxed effects estimator takes into account that different regions of the world
+adopt clean technologies at different rates or face different structural
+challenges and dynamics.  Furthermore, the estimator arguably deals
+better with endogeneity due to unobserved heterogeneity. 

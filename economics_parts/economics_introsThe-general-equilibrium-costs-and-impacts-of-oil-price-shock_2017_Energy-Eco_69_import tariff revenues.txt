@@ -1,0 +1,119 @@
+
+Oil consumption has risen over the last 50 years, as nations have become reliant on oil for daily activities such as home heating, industrial
+processes and transportation (IEA, 2015).  There have historically been
+few substitutes for oil, so oil prices and shocks to oil prices have had a
+major impact on global economic activity (Brown and Yucel, 2002; He
+Name, 2010).  High oil prices in the 1970s had adverse economic impacts
+in the industrialized world, and contributed to low growth, high unemployment and high inﬂation (Blanchard and Gali, 2007).  This caused oil
+importing nations to re-examine energy security, and resulted in movements towards energy efﬁciency and the development of alternative energy sources (Natural Resources Canada, 2012; Department of Energy and
+Climate Change, 2012).  On the other hand, when oil prices drop, oil producing and exporting countries face a reduction in revenue streams
+(U. S.  Energy Information Administration, 2016a, 2016b), which can
+potentially lead to economic downturns. 
+While oil prices were high for much of the early 2000s, prices declined
+sharply in the summer of 2014 to levels that were less than half of their
+2012 values (US EIA, 2016b).  The West Texas Intermediate (WTI) spot
+price for crude oil was $105 per barrel as of July 2014 and by January
+2015 it had dropped to 44 $/barrel.  Canada is a major player in the global
+market for oil and gas; proven reserves in Canada are third in the world
+after Venezuela and Saudia Arabia, while production and exports are
+ﬁfth and fourth, respectively.  Further, the oil and gas sector accounted
+for 7. 5% of Canadian GDP in 2013 (Natural Resources Canada, 2015). 
+Given this dependence on the oil and gas sector, it is clear that shocks to
+oil prices may have hard-hitting and potentially long-lasting effects on
+the national economy.  With a lower value of Canadian production and exports, Canada suffers a loss of international purchasing power (Royal Bank
+of Canada, 2014). 
+In Canada, the oil and gas sector is especially predominant within the
+provinces of Alberta, Saskatchewan, and Newfoundland and Labrador
+(NL).  In NL, the Oil Extraction and Supporting Activities sector, comprised
+primarily of the offshore oil ﬁelds Hibernia, Terra Nova, and White Rose, is
+by far the largest individual contributor to GDP, responsible for approximately 30% of provincial GDP.  Provinces such as NL, which saw great beneﬁts from the rise of oil prices prior to the shock in the 2000s, have been
+the hardest hit when prices drastically fell.  The shock to oil prices has resulted in increased unemployment, reduced production and GDP: “Production in oil and gas related industries declined by 8% between the
+fourth quarters of 2014 and second quarter of 2015, while business
+investment linked to these industries fell sharply” (Bank of Canada, 2015). 
+In NL, preliminary estimates show that there has been a 2% drop in real
+GDP since 2014, an expected decline in production by about 16% as of
+2015 and an increase in unemployment by about 0. 6% in 2015
+(Government of Newfoundland and Labrador, 2015a, 2015b).  Further,
+the oil price drop has reduced government revenue (royalties); the NL
+government receives a signiﬁcant portion of its provincial revenue
+(33%) from the various royalty regimes associated with the offshore oil
+extraction projects (Royal Bank of Canada, 2015). 
+Understanding the impact of a major change in oil prices on factors
+such as those described above can prove crucial for developing the
+optimal policy responses in reaction to shifting prices.  Our goal is to
+estimate the short run (5 year) and long run (30 year) economic costs
+and impacts to NL from a drop in oil prices in the magnitude observed
+in 2014.  To analyse this shock, we develop a dynamic Computable
+General Equilibrium (CGE) Model that has been calibrated to the NL economy.  The model tracks important economic variables like production,
+GDP, labour, investment, consumption and trade across 21 sectors up
+until the year 2040.  CGE models can capture both direct impacts to the
+oil and gas sector, as well as indirect and induced impacts in other sectors. 
+Given the impact of oil price ﬂuctuations, many studies have examined the economic impact of oil price shocks since the 1970s (Pindyck
+and Rotemberg, 1983; Kilian, 2008; Hooker, 1996; Jiménez-Rodríguez
+and Sánchez, 2005; Blanchard and Gali, 2007; Bernanke Name, 1997;
+Hamilton, 2009; Doroodian and Boyd, 2003).  As summarized in Aydin
+and Acar (2011), the general consensus is that oil price shocks will
+have an inverse relationship with economic activity, and higher prices
+will lower GDP in oil importing regions.  However, as noted above,
+lower prices may adversely impact oil exporting nations. 
+CGE models have gained momentum in the past few decades in
+analysing energy phenomenon (Beckman Name, 2011).  Researchers
+can focus on variables of interest and follow how the rest of the economy (multiple economic sectors) adjusts in response to speciﬁc shocks.  A
+popular adjustment in energy related models targets speciﬁc commodity prices.  For instance, Solaymani Name (2015) adapt the CGE model
+from Solaymani and Kari (2013) to analyse the economic and environmental consequences of energy subsidy adjustments on the Malaysian
+transport sector.  They investigate impacts from 3 scenarios: high oil
+prices, energy subsidy reforms, and a combination of both.  Their ﬁndings show that higher oil prices raise real GDP and household income,
+stimulate investment, and increase Malaysian terms of trade in the
+long run. 
+Aydin and Acar (2011) examined the general equilibrium impacts of
+a change in oil prices, focusing on GDP, the CPI, tax revenues, trade
+ﬂows, and carbon emissions in Turkey.  The model they used was called
+TurGEM-D, which is a multi-sectorial dynamic model suited for the
+Turkish economy, a small open net oil importing country.  Their oil
+price scenarios include low, reference, and high oil prices.  Their results
+show that high oil prices led to reductions in output and consumption,
+however they also found that the higher prices reduced carbon
+emissions.  Canada, a net exporter of oil, would likely gain from higher
+oil prices, as the value of production rises with prices. 
+Maisonnave Name (2012) used the GEM-E3 model to determine
+whether climate policy would lessen the impact of higher energy prices
+in the EU.  They found that a rise in oil prices would cost the EU 2. 2% of
+GDP in the absence of climate change policy, and 1. 5% in the presence
+of climate change policy. 
+In the current application, we use a multi-sector dynamic CGE model
+for the province of NL.  We examine the impact of a decrease in oil prices,
+similar to many studies in the past that examined the impact of higher
+prices.  In the current application, we model oil price reductions as a
+reduction in royalties (the land royalty payments in the oil and gas
+sector).  We follow this route since land inputs are exogenous in the
+model, and shocking royalties will allow us to capture the reduction in
+the productive capacity (and the value of production) of the oil and
+gas sector due to lower prices.  Further, since royalties are exogenous,
+we can capture growth in prices over time via growth in royalties; we
+include a variety of scenarios for price growth, allowing us to capture
+intertemporal impacts. 
+<Middle> Methods. 
+2. 1.  CGE model speciﬁcation. 
+We use a provincial, recursive dynamic CGE model for the economy
+of Newfoundland and Labrador (NL).  The model is based on neoclassical
+economic theory.  The speciﬁcation for our model follows that of
+Ochuodho and Lantz (2014) and Corbett Name (2015).  However, our
+calibration differs as we use 2009 baseline economic data for NL
+and focus on shocks to the oil and gas sector.  For more details on the
+model, including equations, refer to Ochuodho and Lantz (2014). 
+NL is assumed to be a small open economy that operates under perfect competition.  Producers are assumed to maximize proﬁts (deﬁned
+as the difference between revenue earned and the cost of factors and intermediate inputs) subject to constant returns to scale on production
+technology.  There are three primary factors of production in the
+model: labour, capital, and land in the oil and gas sector (i. e.  royalties). 
+The production function for ﬁrms is speciﬁed in a two-level nest.  At the
+top level, a composite of value-added and a composite of intermediate
+inputs are smoothly substitutable in a constant elasticity of substitution
+function (CES).  At the bottom level, the three primary factors of production are assumed to substitute smoothly through a CES composite
+value-added function under single primary factor nest (Rutherford
+and Paltsev, 2000; Winchester Name, 2006).  Intermediate inputs, on
+the other hand, are determined by ﬁxed-shares through a Leontief
+function. 
+There is a representative household who aims to maximize utility
+through consumption.  The household receives income by supplying factors of production and from import tariff revenues transferred to them
+by their domestic governments (Prasada Name, 2010).  Supplies of factors
+of production are typically assumed to be ﬁxed within a given time period. 

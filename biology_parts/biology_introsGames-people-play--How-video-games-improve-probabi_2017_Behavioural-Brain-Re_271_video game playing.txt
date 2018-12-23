@@ -1,0 +1,341 @@
+
+Probabilistic categorization learning requires a coordinated interaction between declarative and non-declarative memory.  Over the past
+20 years, evidence has accumulated that probabilistic learning involves
+distinct anatomically and functionally segregated memory systems [1]. 
+It has been discussed whether these systems interact in a competitive
+[2,3] or cooperative manner [4].  Brain regions which are involved in
+cognitive control, performance integration and reward learning [5–9]
+represent additional factors aﬀecting the probabilistic categorization
+learning process.  With respect to memory, the interplay of the medial
+temporal lobe [MTL] and the basal ganglia is in the focus of research
+[2].  Declarative memory involves the hippocampus which supports the
+acquisition of ﬂexible knowledge in contrast to more rigid striatumdependent memory systems [10,11]. 
+The weather prediction task (WPT) is a well-known probabilistic
+learning task [5–7,2].  In this task, participants are asked to classify one
+to three (out of four) diﬀerent cue cards into one of two weather categories (rain or sun) based on feedback they receive for their actions. 
+The WPT is a well-established probabilistic categorization learning task
+that demonstrates the diﬀerential contributions of declarative (mediated by the hippocampus) and nondeclarative (mediated by the basal
+ganglia) memory processes [12].  Patients with basal ganglia disorders
+show reduced performances in the WPT, especially in the early probabilistic learning phase [5].  However, amnesic patients with damage to
+the hippocampus perform comparably to controls in the early phases of
+learning, presumably because the declarative memory system interferes
+with the nondeclarative regularities detected by the nondeclarative
+memory system [6]. 
+Additionally, further studies focused on the contribution of declarative knowledge to WPT performance [8,13,9,14].  Schwabe and
+Wolf [9], for instance, demonstrated a positive correlation between
+WPT task performance and hippocampal activation.  It seems that the
+hippocampus-based learning and the hippocampal activity play an
+important role in the categorization learning process and support the
+learning performance in a probabilistic learning task. 
+The hippocampal activity as well as the hippocampal based memory
+processing and hippocampal based behavior can be in turn modiﬁed by
+⁎ Corresponding author. 
+E-mail address: Sabrina. Schenk@rub. de (S.  Schenk). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 027
+Received 3 March 2017; Received in revised form 30 May 2017; Accepted 17 August 2017
+Available online 24 August 2017
+0166-4328/ 
+S.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+Fig.  1.  Modiﬁed version of the weather prediction task. 
+the environmental enrichment [15–17].  This eﬀect might be mediated
+by enhanced visual exploration of enriched environments, which in
+turn promotes hippocampal neuroplasticity and hippocampus-dependent learning and declarative memory.  Based on these ﬁndings a
+modiﬁcation of the environmental enrichment or a visual exploration
+training should enhance hippocampal-based learning and behavior as
+well as the related hippocampal activity.  Since the hippocampus responds to both the real and the virtual environment in a comparable
+way [18,19], it should be possible to use video games as an eﬀective
+training method to enhance hippocampal-based learning and behavior
+as well as the related hippocampal activity. 
+In previous research, playing video games has already been linked
+to improved attention resources, visual imagery, problem solving, visual processing, response speed [20–22] and cognitive ﬂexibility [23]. 
+Moreover and in accordance with the positive eﬀect of the environmental enrichment, Clemenson and Stark [17] demonstrated that video
+games provide a strong environmental enrichment, which leads to enhanced memory performance on a task that is thought to tax hippocampal processing.  All these cognitive functions, which can be improved by video games, are important factors within the probabilistic
+categorization learning process. 
+Using the WPT, the current study investigated the eﬀects of video
+game playing on the performance in a probabilistic categorization task,
+the related usage of learning and memory processes as well as other
+cognitive functions and its neural correlates, which represents a widely
+unexplored area in gaming research up to now.  We used a modiﬁed
+version of the WPT (see [9]) that include an equal condition (50/50%
+probabilities) as well as more certain (probabilities in the 80/20%
+range) and less certain conditions (probabilities in the 70/30% and 60/
+40% range).  In contrast to the uncertain conditions, which should address the nondeclarative learning and activate the implicit memory
+system (mediated by the basal ganglia), the certain condition should be
+related to a more pronounced usage of declarative knowledge and
+should additionally activate the explicit memory system (mediated by
+the MTL, especially the hippocampus). 
+Based on previous ﬁndings, we expected that video gamers show
+better categorization performances due to a more pronounced usage of
+declarative knowledge, hippocampus-dependent learning and memory
+processes.  More speciﬁcally, we aimed to investigate to which degree
+probabilistic categorization learning is positively mediated by the assumed enhanced hippocampus-depending learning of video gamers that
+is due to the strong environmental enrichment of video games.  To
+measure these eﬀects of video game playing the categorization performance in the WPT, the brain activity and the explicit knowledge of
+the task and their relation to each other were assessed. 
+<Middle> Materials and methods. 
+2. 1.  Participants
+The current study included ﬁfteen healthy right-handed video gamers (13 male and 4 female; mean age: 24. 6 years; SD: 3. 0 years) and
+ﬁfteen healthy right-handed non-gamers (13 male and 4 female; mean
+age: 27. 5 years; SD: 4. 1 years).  The subjects were recruited through
+advertisements at the Ruhr University and in local newspapers.  The
+group membership was deﬁned on the basis of a screening questionnaire.  Video gamers were characterized by playing more than 15 h
+of video games like “starcraft” or other action-based videogames per
+week.  Non-gamers, with low or without any video game experience,
+were deﬁned by playing less than 4 h per week. 
+All participants had normal or corrected to normal vision and no
+current or past mental illnesses.  The study was performed in accordance
+with ethical standards laid down in the declaration of Helsinki and
+written informed consent was obtained from all subjects.  The investigation was approved by the local Ethics Committee ofPsychological Faculty of the Ruhr University Bochum, Germany. 
+2. 2.  Stimuli and task
+Subjects were scanned while performing a modiﬁed version of the
+WPT ([5,6,2]; see Fig.  1).  The experiment was performed using Presentation® software (Neurobehavioral Systems, Inc. , Albany, CA, USA)
+and MRI-suitable LCD video goggles (Resonance Technology Company,
+Inc. , Northridge, CA, USA) with a resolution of 800 × 600 pixels, registering the responses with an MRI-suitable keypad. 
+Before the WPT started, participants were instructed that on each
+trial one to three (out of four) diﬀerent cue cards will appear and that
+they should learn to predict the weather based on the presented cards. 
+Participants classiﬁed card stimulus sets as predictions of the weather
+(sun/rain) and got feedback (positive/negative) accordingly to their
+choice.  Each card pattern was associated with ﬁxed probabilities for
+more/less probable weather outcomes (probabilities of 50/50%; 60/
+40%; 70/30%; 80/20%).  The diﬀerent card combinations and positions
+were randomly presented and associated with the two possible weather
+outcomes.  The experiment consisted of two sessions of 100 trials each,
+resulting in 200 trials over the course of the experiment (see [9]).  After
+completion of the WPT, the participants answered a self-designed postexperimental questionnaire to assess cue usage and declarative
+knowledge about the WPT.  The questionnaire was completed outside
+the scanner and contained 14 items that assessed explicit task knowledge about the WPT.  For example, participants were asked which card
+or card combinations were most strongly associated with the two
+weather possibilities.  For 12 items, one point was given for each correct
+answer.  For the remaining two items that contained two sub-questions
+up to two points were given.  The score reached in the post-experimentalS.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+Fig.  2.  Choices of the more probable weather outcomes (in %) over all
+conditions and separated for each condition.  One asterisk representing a
+signiﬁcance threshold of p ≤ . 05, two asterisks representing p ≤ . 01,
+three asterisks representing p ≤ . 005 and four asterisks representing
+p ≤ . 001.  Error bars represent the standard error of the mean [SE]. 
+questionnaire was used as a measure of declarative knowledge.  Subjects
+could reach up to 16 points in the explicit knowledge questionnaire. 
+2. 3.  Image acquisition
+The experiment was performed using a Philips 3T Achieva MRI
+scanner with a 32 channel SENSE head coil.  In order to create a mean
+structural image and to overlay activations, a T1 weighted structural
+image was acquired for each participant at the beginning of the experimental
+size = 1 × 1 × 1 mm,
+TE = 3. 8 ms, ﬂip angle = 8°).  T2* weighted EPIs were acquired in an
+ascending sequence of 32 slices (voxel size = 1. 79 × 1. 79 × 3 mm,
+TR = 2000 ms, TE = 30 ms).  The ﬁrst ﬁve dummy images obtained at
+the beginning of each scanning session were discarded to allow for MRI
+signal stabilization. voxelslices,
+2. 4.  Data analyses
+All data analyses described below included the covariate “gender”
+in order to take into account of possible gender eﬀects. 
+For the analysis of the behavioral data, Greenhouse Geisser and
+Bonferroni corrected repeated measures ANCOVAs with the covariate
+“gender” and the factors “group” (video gamers vs.  non-gamers) and
+“condition” (probabilities of 60/40%; 70/30%; 80/20%) were applied
+for the percentage of the more probable weather outcomes within and
+between groups.  Additionally, two-tailed t-tests were used to resolve
+signiﬁcant interactions.  Furthermore, separate ANCOVAs with the
+covariate “gender” and the factor “condition” (probabilities of 60/40%;
+70/30%; 80/20%) were calculated for both groups.  Two-tailed t-tests
+were applied to resolve signiﬁcant interactions.  An independent samples t-test was conducted for a group comparison regarding the declarative knowledge about the WPT, as represented by the total score
+reached in the post-experimental questionnaire. 
+The functional and structural images were preprocessed using the
+latest release of SPM 8 (http://www. ﬁl. ion. ucl. ac. uk/spm/software/
+spm8).  Preprocessing included slice time correction to the middle slice
+of each volume, realignment and unwarping as well as co-registration
+of the T1-weighted image to the mean T2*-weighted image.  Structural
+images were segmented into gray matter, white matter, and cerebrospinal ﬂuid.  The gray matter images were normalized to a standard
+anatomical
+template image (Montreal Neurologic Institute, MNI). 
+Normalized gray matter images were used for normalization of the
+structural and functional images.  Finally, data were spatially smoothed
+using an isotropic 8 mm Gaussian kernel (full-width-half-maximum,FWHM). 
+The preprocessed data were submitted into a ﬁrst level analysis
+where the blood oxygenation level dependent signal (BOLD) was
+modeled with the canonical hemodynamic response function (HRF).  A
+high-pass ﬁlter at 128 s was used to remove low frequency drifts.  Nine
+regressors were deﬁned on the ﬁrst level: choices of the more and less
+probable outcomes for the four card set probability conditions (probabilities of 50/50%; 60/40%; 70/30%; 80/20%), a ﬁxation regressor as
+baseline, and one additional information regressor to increase the
+amount of explained variance.  The additional information regressor
+included blank slices and feedback.  Choices of the more probable outcome of the 60/40% and 80/20% conditions were contrasted against
+the ﬁxation regressor.  The resulting contrasts were then used in a
+second level analysis for the calculation of group diﬀerences. 
+In the group level analysis, a full factorial model with two factors
+and the covariate “gender” was applied to the data from the WPT.  The
+model included the between-subject factors “group” (video gamers vs. 
+non-gamers) and the within-subject factor “condition” (probabilities of
+60/40% vs.  80/20%). 
+The signiﬁcance threshold was set to p ≤ . 05 using a voxelwise false
+discovery rate correction (FDR); with a minimal cluster size of 23 voxels
+was applied.  Only regions were reported that reached the signiﬁcance
+level.  Additionally, percent signal change measures were computed in
+signiﬁcant
+regions using the MarsBaR toolbox (http://marsbar. 
+sourceforge. net). 
+Additionally, Pearson correlations were computed to investigate the
+relationships between the categorization performances, questionnaire
+points and brain activity.  Besides this relationships group as well as the
+gender eﬀects were further explored investigated. 
+3.  Results
+3. 1.  Behavioral data
+Behavioral data yielded evidence for a better categorization performance of video gamers, particularly under conditions characterized
+by stronger uncertainty (see Fig.  2).  More speciﬁcally, the analysis
+showed signiﬁcant main eﬀects for the factor “group” (F1,31 = 16. 18,
+p = 0. 001).  The subsequent analysis of the main eﬀect “group” revealed higher percentages of the more probable weather outcomes for
+video gamers, especially in the more uncertain 60/40% condition (60/
+40% condition:
+70/30% condition:
+t32 = −2. 52, p = 0. 017; 80/20% condition: t32 = −3. 03, p = 0. 005). 
+The separate ANCOVAs with the covariate gender and the factor
+t32 = −3. 63,
+p = 0. 001;
+S.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+Fig.  3.  Separate group analyses of the categorization performances (in
+percent), with one asterisk representing a signiﬁcance threshold of
+p ≤ . 05 and four asterisks representing p ≤ . 001.  Error bars represent the
+standard error of the mean [SE]. 
+“condition” (60/40%; 70/30%; 80/20%) yielded only for non-gamers a
+signiﬁcant main eﬀect for the factor condition (F2,28 = 4. 06, p = 0. 03;
+see Fig.  3).  The analysis of the categorization performance of video
+gamers did not show any signiﬁcant results.  The subsequent analysis of
+the categorization performance of non-gamers showed that they chose
+the more probable weather outcomes more often in the clearer 80/20%
+condition than in the 60/40% (t16 = −2. 56, p = 0. 021) and 70/30%
+condition (t16 = −3. 31, p = 0. 004; see Fig.  3). 
+the hippocampus and parahippocampal gyrus as well as in the thalamus, the precuneus, the cingulate gyrus and the insula.  Furthermore,
+the analysis yielded signiﬁcant activation clusters in frontal, temporal
+and parietal brain regions (see Table 1). 
+Apart from these group diﬀerences the analysis yielded for both
+groups activation clusters that are typically activated in the WPT,
+especially the basal ganglia. 
+3. 2.  Post-experimental questionnaire
+3. 4.  Correlation analyses
+The analysis of the post-experimental questionnaire showed that
+video gamers had more explicit knowledge acquired about the WPT. 
+Video gamers reached an average of 11. 6 (SE = 0. 9) of 16 points
+whereas non-gamers only reached 8. 9 (SE = 0. 7) of 16 points, which
+was signiﬁcantly diﬀerent from each other (t32 = −2. 40, p = 0. 022;
+see Fig.  4). 
+3. 3.  Imaging data
+The full factorial analysis yielded signiﬁcant results for the main
+eﬀect “group” (see Table 1 and Figs.  5 and 6).  The contrast video gamers > non-gamers yielded activation clusters especially located in
+The correlation analyses between the imaging data (percentage
+signal changes) and the results of the behavioral data, showed a signiﬁcant correlation between the group membership and the categorization performance (r(34) = −. 58, p = . 001), questionnaire points (r
+(34) = −. 39, p = . 022) and hippocampal activity in the uncertain 60/
+40% condition (r(34) = . 34, p = . 05).  Additionally,
+the analyses
+showed a trend between the group membership and the hippocampal
+activity over all conditions (r(34) = . 34, p = . 052) as well as the hippocampal activity in the certain 80/20% condition (r(34) = . 33,
+p = . 058). 
+The categorization performance in the 70/30% condition correlates
+signiﬁcantly with the results of
+the questionnaire (r(34) = . 58,
+p = . 001) and the hippocampal activity in the 70/30% condition (r
+Fig.  4.  Group comparison of the declarative knowledge questionnaire
+scores, with two asterisks representing p ≤ . 01.  Error bars represent the
+standard error of the mean [SE]. S.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214Imaging results.  Signiﬁcant activations for the main eﬀect group in the full factorial analysis (FDR corrected).  Each line represents one cluster, with anatomical labels from AAL. 
+Signiﬁcant activations for the contrast “Gamers > Non-Gamers”. 
+Cluster size
+T-score MNI coordinates (x, y, z)
+Anatomical structure5819656323224926859−6238−4860−12−5442−182632−17−2084121−23026181412
+left & right cuneus/right parahippocampal gyrus/left & right precuneus/left & right middle temporal gyri/right inferior
+temporal gyri/right superior and inferior parietal gyri/right middle and inferior frontal gyri
+left superior and inferior parietal gyri/left supramarginal gyrus/left middle temporal gyri
+left & right median cingulate gyri/right anterior cingulate gyrus
+right insula/right inferior frontal Cortex
+left hippocampus and parahippocampal gyrus
+left middle and inferior frontal gyri
+left insula
+right supramarginal gyrus
+right median cingulate gyrus
+left thalamus
+right precuneus
+left inferior frontal gyrus
+left anterior and median cingulate gyri
+right middle frontal gyrus
+MNI coordinates, standard coordinates by the Montreal Neurological Institute. 
+(34) = . 51, p = . 002) as well as with the hippocampal activity over all
+conditions (r(34) = . 37, p = . 033).  Furthermore, the categorization
+performance in the 80/20% condition correlates also signiﬁcantly with
+the reached questionnaire points (r(34) = . 52, p = . 002). 
+Moreover, a signiﬁcant correlation between results if the questionnaire and the hippocampal activity in the 70/30% condition could
+be found (r(34) = . 41, p = . 015) as well as a trend between the
+reached questionnaire points and the hippocampal activity in the 80/
+20% condition (r(34) = . 33, p = . 056). 
+<Conclusion> Discussion. 
+The current study investigated the eﬀects of video game playing
+experience on categorization learning using the WPT.  Results from
+previous studies yielded evidence of beneﬁcial eﬀects of video game
+experience on cognitive functions.  This enhancing eﬀect is thought to
+be mediated by visual exploration of highly enriched environments,
+which in turn promotes hippocampal activation and further enhances
+hippocampus-dependent learning and declarative memory performance
+(see [18,19,17]).  Schwabe and Wolf [9] showed a positive correlation
+of hippocampal activation and task performance during probabilistic
+categorization learning. 
+In line with ﬁndings from previous studies, current results suggest
+that video game playing enhances probabilistic categorization learning
+in the WPT.  Video gamers showed better categorization performances
+than non-gamers, especially under the high uncertain 60/40% and 70/
+30% conditions, with pronounced usage of declarative knowledge and
+pronounced involvement of the hippocampus.  Furthermore, in contrast
+to non-gamers, video gamers showed no performance diﬀerences between the three conditions within their group.  Non-gamers had more
+problems under the uncertain 60/40% and 70/30% conditions but
+showed signiﬁcantly better performances under the certain 80/20%
+condition.  It seems that the categorization performance of video gamers, in contrast to those of non-players, was not aﬀected by the uncertainties of the conditions within the WPT.  Additionally, video game
+players showed better declarative knowledge about the card combinations and related weather outcomes as shown in the post-experimental
+questionnaire.  These results suggest that video gamers have an increased ability to draw conclusions despite existing uncertainties,
+which seems to be based on their higher declarative knowledge about
+Fig.  5.  Higher activation in the left hippocampus of video gamers. S.  Schenk Name
+Behavioural Brain Research 335 (2017) 208–214
+[33,32]. 
+The signiﬁcant activation cluster in the thalamus of video gamers
+that probably projects to the pre-frontal and temporal cortex (prefrontal cortex: 0. 18 probability; temporal cortex: 0. 55; https://fsl. fmrib. 
+ox. ac. uk/connect/) suggest that video gamers use a more evaluated
+declarative learning from the beginning, which required more pronounced cognitive control, selection and consciousness attention processes [34–36]. 
+However, video gamers showed higher activations in occipital visual areas (e. g.  cuneus), areas that are related to the processing of visual
+stimuli like the inferior temporal gyrus (see [37]) and attention-based
+areas like the superior and inferior parietal lobe.  The superior parietal
+lobule receives a great deal of visual input and is involved in (covert)
+orienting of attention.  Covered orientation is reﬂected by activations in
+occipital visual areas and in regions of the superior parietal cortex [38]. 
+These signiﬁcant activation results can be traced back to the enhanced
+visual processing and attention of video gamers that have already been
+shown in previous studies (see [20–23]). 
+Apart from these group diﬀerences and in line with previous studies,
+both groups showed activations in brain areas that are related to attention and executive functions as well as in the basal ganglia and in
+memory-associated regions of the medial temporal lobe [13,39]. 
+The results of the correlation analyses including the signiﬁcant results of the collected measurements ﬁt well within the overall theoretical framework of this study.  The results underline the group eﬀect of
+the behavioral and und imaging data as well as the sum of questionnaire points, as a measure to collect the explicit knowledge about
+the categorization task.  Moreover, the signiﬁcant positive correlations
+between the categorization performance and the reached questionnaire
+points (explicit task knowledge) as well as the hippocampal activity
+show that a high categorization performance is related to a higher
+hippocampal activity and accompanied with more pronounced explicit
+task knowledge.  The signiﬁcant correlation between the reached
+questionnaire points and the hippocampal activity support this assumption.  The post-experimental questionnaire showed an improved
+explicit memory performance of video gamers.  This is an indication of a
+higher hippocampal processing (see [17]).  However, this assumed increased hippocampal processing of video gamers is conﬁrmed by the
+higher hippocampal activity and is related to an increased categorization performance. 
+A critical limitation of the current study might be the small sample
+size.  Further studies should recruit larger samples of video gamers to
+support the results regarding to the positive eﬀects of video game
+playing on the categorization learning performance.  Additionally, further training studies are necessary to ensure that the beneﬁts of video
+gamers in probabilistic categorization learning are based on their video
+game consumption and are not caused by other factors.  Moreover, future studies should model the use of cognitive learning strategies within
+and between the groups.  A suitable assessment to model the learning
+strategies would strengthen the results, especially in regard to the more
+pronounced usage of a declarative learning by video gamers (e. g.  [9]). 
+5.  Conclusion
+The results of the current study are in line with the idea that video
+game playing is associated with many cognitive beneﬁts in the realm of
+visual imagery, problem solving, and visual processing [22,23,17].  All
+these cognitive functions, which can be improved by video games, are
+important factors within (categorization) learning processes. 

@@ -1,0 +1,55 @@
+
+Visibility of stimulus components may be enhanced or diminished
+by the presence of adjacent stimulus elements.  Such eﬀects are evident
+with high-contrast lateral masks [1], metacontrast with zero stimulus
+onset asynchrony [2], and crowding of peripheral targets [3].  Contextual eﬀects on perceptual capacities may reﬂect neural interactions
+among representations of targets and lateral masks. 
+At a neural
+level, response properties of cortical neurons are
+modulated by the context in which stimuli are placed [4–6].  In primates
+and cats, systematic relationships exist among the orientation preference of neurons.  Such connections may contribute to a system of
+enhancement and inhibition of signals based upon contextual eﬀects
+from other cortical sites [7,8].  In rodents, the distribution of orientation
+preference is not systematic [9,10], nor do lateral projections display
+the periodic patches found in primates and cats [11].  These distinctions
+in cortical organization suggest that lateral interactions among stimulus
+elements may operate diﬀerently in rats than in primates and cats. 
+At a perceptual level, the ability of rats to discriminate the presence
+or absence of targets declined when target onset was accompanied by
+ﬂankers [12].  In addition, misses as well as false alarms increased when
+ﬂankers were collinear to targets, compared to ﬂankers that deviated
+from collinearity.  Such eﬀects on detecting suprathreshold stimuli were
+observed across a range of contrasts of both targets and ﬂankers [13]. 
+For humans, contrast thresholds are elevated in the presence of
+collinear, co-axial Gabor patches positioned near test stimuli (within 2
+cycles), whereas thresholds decrease with adjacent elements positions
+within a farther zone (approximately 3–10 cycles) [14].  Flanker eﬀects
+appear to be restricted to near foveal viewing [15,16] to which attention is directed [17,16], and are not observed at suprathreshold levels
+[15].  Flanker eﬀects may reﬂect a system for contour integration
+mediated by short- and long-range interactions within neural populations [18]. 
+The functional signiﬁcance of connection patterns in local cortical
+circuits may be distinguished across species [19].  In order to explore
+lateral masking on detection thresholds in rats, responses to target onset
+were measured across luminance contrast for targets presented alone,
+or in the presence of masks. 
+<Middle> Methods. 
+2. 1.  Subjects
+Ten Long-Evans hooded rats served as subjects, each randomly assigned to one or more stimulus conditions.  Animals were deprived of
+water for 22 h before each session, and allowed water ad lib for one
+hour following sessions.  Sessions occurred ﬁve days each week, and
+animals were allowed water ad lib on the remaining two days.  This
+⁎ Corresponding author at: Psychology Department, Brooklyn College CUNY, 2900 Bedford Avenue, Brooklyn, NY, United States. 
+E-mail address: dkurylo@brooklyn. cuny. edu (D. D.  Kurylo). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 07. 046
+Received 2 April 2017; Received in revised form 11 July 2017; Accepted 29 July 2017
+Available online 05 August 2017
+0166-4328/ 
+D. D.  Kurylo Name
+Behavioural Brain Research 335 (2017) 1–7
+Fig.  1.  A.  Top view displaying geometry of test chamber.  Test stimuli (Gabor patches) appeared on the monitor, subtending a visual angle of either 5. 9° or 14. 0°.  B.  Trial events and
+reaction time measurements.  Dotted lines represent variable ranges of events.  Test stimulus onset relative to initial nose-poke occurred with a randomly chosen latency, ranging from 500
+to 2000 ms. 
+study was conducted in accordance with the National Institutes of
+Health Guide for the Care and Use of Laboratory Animals, and approved
+by the Institutional Animal Care and Use Committee of Brooklyn
+College. 

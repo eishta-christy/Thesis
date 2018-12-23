@@ -1,0 +1,262 @@
+
+Several studies suggest that inhibition diﬃculties among people with ASD might be related to atypical cardiac
+vagal control.  We examined how low versus high baseline heart rate variability (HRV) inﬂuences prepotent
+response inhibition in 31 males with autism spectrum disorder (ASD; mean age: 32. 2; mean IQ: 107. 8) compared
+to 39 typically developing (TD) males (mean age: 30. 5; mean IQ: 102. 0) by administering a stop signal task. 
+Moreover, we examined whether adding an aﬀective manipulation would alter ﬁndings and whether this manipulation aﬀected HRV.  Findings indicated that baseline HRV inﬂuenced inhibition in ASD males.  Speciﬁcally,
+an ASD subgroup with low baseline HRV performed signiﬁcantly worse compared to an ASD subgroup with high
+baseline HRV.  No inﬂuence of baseline HRV was found in TD males.  The aﬀective manipulation did negatively
+inﬂuence performance and also altered HRV.  Although replication is required, these ﬁrst ﬁndings indicate that
+baseline cardiac vagal control seems to aﬀect inhibitory control in males with ASD. resistanceresponse
+inhibition
+Autism spectrum disorders (ASD) are neurodevelopmental disorders, characterized by social interaction and communication diﬃculties as well as repetitive behaviors (APA, 2013).  Both repetitive
+behaviors and social interaction diﬃculties have been theorized to be
+related to inhibitory control deﬁciencies (e. g. , Bachevalier & Loveland,
+2006; Hill, 2004; Mosconi Name, 2009; Russel, 1997).  Three types of
+inhibitory control can be identiﬁed, namely interference control, prepotent
+interference
+(Friedman & Miyake, 2004).  Prepotent response inhibition and interference control are the two most studied types of inhibition in the ASD
+population.  Prepotent response inhibition is the ability to suppress or
+withhold a (motor) response.  Interference control is the ability to ignore
+irrelevant stimuli.  Although recent meta-analyses conﬁrm that people
+with ASD have more prepotent response inhibition (Cohen’s d = 0. 55;
+Hedges’g = 0. 51) and interference control (Cohen’s d = 0. 31) diﬃculties than typically developing (TD) individuals, both meta-analyses
+also found a large amount of heterogeneity (Geurts, van den
+Bergh & Ruzzano, 2014; Kuiper, Verhoeven & Geurts, 2016).  This means
+that the ﬁndings across studies were inconsistent. 
+This large amount of heterogeneity between inhibitory control
+study ﬁndings in people with ASD suggests that there are other factors
+that inﬂuence these ﬁndings.  In the two aforementioned meta-analyses,
+we examined several possible factors, namely the possible inﬂuence of
+age, intelligence (IQ), interstimulus interval (ISI) and ‘stimulus type’
+(Geurts Name, 2014; Kuiper Name, 2016).  In the ﬁrst meta-analysis, age
+explained 25% of the heterogeneity between the studies on prepotent
+response inhibition, but a signiﬁcant amount of heterogeneity still remained.  Age was not a relevant moderator for interference control.  IQ
+showed the opposite pattern as it had no eﬀect on prepotent response
+inhibition, but did explain 62% of the heterogeneity between the interference control studies (Geurts Name, 2014).  In the second metaanalysis, which solely focused on prepotent response inhibition, the
+possible inﬂuence of variations in ISI and ‘stimulus type’ as well as the
+factors age and IQ were examined (Kuiper Name, 2016).  Age, IQ and ISI
+did not signiﬁcantly reduce the heterogeneity between the studies.  The
+inﬂuence of ‘stimulus type’ was systematically reviewed and showed
+mixed results.  It seemed to depend on the type of stimulus whether or
+not it inﬂuenced inhibition.  We hypothesized that perhaps the stimulus
+types have diﬀerent physiological eﬀects and that more studies were
+needed that include two diﬀerent sets of stimuli as well as physiological
+measures to be able to directly measure the (physiological) inﬂuence of
+a stimulus type on inhibitory control in people with ASD.  The reason
+behind why there was a non-signiﬁcant eﬀect of age found in the
+second meta-analysis (Kuiper Name, 2016) compared to the signiﬁcant
+⁎ Corresponding author at: Dr.  Leo Kannerhuis, Houtsniplaan 1, 6865 XZ Doorwerth, The Netherlands. 
+E-mail addresses: kuiper. marieke@gmail. com, m. kuiper@leokannerhuis. nl (M. W. M.  Kuiper). 
+http://dx. doi. org/10. 1016/j. biopsycho. 2017. 07. 006
+Received 14 November 2016; Received in revised form 10 July 2017; Accepted 11 July 2017
+Available online 15 July 2017
+0301-0511/ 
+M. W. M.  Kuiper Name
+Biological Psychology 128 (2017) 141–152
+eﬀect in the ﬁrst meta-analysis (Geurts Name, 2014), was suggested to
+be related to the smaller percentage of studies focusing on adults with
+ASD, as this was 18. 9% and 26. 1% respectively.  Taken together, this
+shows that there are other factors than age, IQ, and ISI that inﬂuence
+inhibition in people with ASD.  Several authors have hypothesized that
+cardiac vagal control might be one of these factors (e. g. , Geurts,
+Begeer, & Stockmann,Kindt, & Forstmann, 2011; Raymaekers, van der Meere, & Roeyers,
+2004; Raymaekers, van der Meere, & Roeyers, 2006; Raymaekers,
+Antrop, van der Meere, Wiersema, & Roeyers, 2007). 
+Krypotos,Jahfari,Cardiac vagal control refers to the degree of tonic vagal inﬂuences
+on the heart.  The beat-to-beat heart rate (HR) of humans varies considerably (e. g. , Billman, 2011; Stein, Bosner, Kleiger, & Conger, 1994). 
+This variation in time between heart beats is mostly caused by brain
+stem projections
+to the heart via the vagus nerve (Berntson,
+Cacioppo, & Quigley, 1993).  Vagus nerve activity is also related to the
+respiratory cycle (e. g. , Berntson Name, 1997).  During inhalation, HR
+accelerates and vagal activity is decreased, and during exhalation HR
+slows down and vagal activity is restored.  Cardiac vagal control is indexed by respiratory sinus arrhythmia (RSA) or high frequency HRV,
+which both refer to HRV during spontaneous breathing (e. g. , Berntson
+Name, 1997).  There are several theoretical models that argue the importance of cardiac vagal control in relation to (social) behavior.  Two
+commonly reported models are the Neurovisceral Integration Model
+(e. g. , Thayer & Lane, 2000; Thayer & Friedman, 2002; Friedman, 2007)
+and the Polyvagal Theory (e. g. , Porges, 2001, 2007; Porges Name,The Neurovisceral Integration Model states that a core set of neural
+structures (emphasizing the role of the amygdala and the medial prefrontal cortex) integrates signals from inside and outside the body to
+assess whether the physiological state of the body, cognition, perception and action match the environmental demands (e. g. , Thayer & Lane,
+2000; Thayer, Ahs, Fredrikson, Sollers 3rd, & Wager, 2012).  These
+neural structures are suggested to form a system that continuously assesses whether the environment is safe or unsafe, which is needed to
+prepare the body for the appropriate response.  The model describes a
+central autonomic network (CAN) that has bidirectional pathways to
+the sinoatrial node of the heart.  Through the CAN, the brain would
+control responses on a visceromotor, neuroendocrine and behavioral
+level that are crucial
+for adaptability and goal-directed behavior
+(Benarroch, 1993).  Both sympathetic and parasympathetic preganglionic neurons would mediate the primary output of the CAN at the
+sinoatrial node of the heart via the vagus nerve.  The output of the CAN
+would produce HRV (Thayer & Lane, 2000).  In their paper, Thayer and
+Lane (2000) argue that HRV is not only related to physiological ﬂexibility and attentional regulation but also to aﬀective information
+processing.  People with low HRV would be less able to detect and experience safety (even when it is present) and would also have diﬃculty
+with aﬀective information processing.  Taken together, in this model,
+HRV is seen as an index for health and adaptability. 
+Besides this model, the Polyvagal Theory (Porges, 2001) explains
+the relationship between cardiac vagal control and social behavior from
+an evolutionary and hierarchical perspective.  Brieﬂy, in this theory, the
+nervous system regulates both bodily and behavioral states (Porges,
+2001).  This is partially realized by the function of the myelinated vagus
+nerve as a vagal “brake” (Porges, 2001, 2007).  The “brake” would aﬀect
+the sympathetic inﬂuences on the heart by either inhibiting vagal tone
+(supporting mobilization) or disinhibiting vagal tone (promoting calm
+and social behavior).  Speciﬁc brain areas, such as the temporal cortex,
+would determine whether the surroundings require physiological states
+that either encourage social behavior or ﬁght-ﬂight behavior (Porges,
+2007).  Individual diﬀerences in this process are suggested to mediate
+emotion regulation and expression.  The theory argues that the impact
+of the myelinated vagus nerve on the heart can be measured with the
+quantiﬁcation of RSA.  Porges (2001, 2007) argues that lower RSA
+mobilizes ﬁght-ﬂight behaviors, while higher RSA supports socialengaging behaviors and emotional regulation. 
+Besides these two theoretical models, ﬁndings from several studies
+seem to conﬁrm the hypothesis that variations in HRV are related to
+diﬀerences in behavior (e. g. , Appelhans & Luecken, 2006; Katahira,
+Fujimura, Matsuda, Okanoya, & Okada, 2014) as well as to several
+psychiatric disorders (e. g. , Thayer & Lane, 2000).  For instance, reductions in HRV are shown to be related to depression (Thayer & Lane,
+2000), generalized anxiety disorder, and behavioral
+inﬂexibility
+(Friedman & Thayer, 1998a, 1998b).  Taken together, higher HRV seems
+to be associated with health, emotion regulation and better adjustment
+to environmental demands, while lower HRV would be associated with
+disease, ﬁght-ﬂight behaviors and social diﬃculties (Thayer & Lane,
+2000; Friedman 2007; Thayer Name, 2012; Porges, 2001; Porges Name,Recent studies suggest there might be a subgroup within the ASD
+population that is characterized by low HRV.  In a review on cardiac
+autonomic regulation in ASD, Klusek, Roberts, and Losh (2015) reported several studies that showed that children with ASD had signiﬁcantly decreased HRV compared to TD individuals during cognitive
+tasks.  Interestingly, it was discovered that these children with ASD also
+had decreased HRV at baseline.  Moreover, studies that found no differences between the ASD and TD group in HRV during a cognitive task,
+did not ﬁnd diﬀerences in HRV at baseline either (Klusek Name, 2015). 
+The authors concluded that a subgroup of the ASD population has
+chronically lowered HRV (Klusek Name, 2015).  Therefore, the level of
+baseline HRV might be of greater importance than thought until now. 
+Especially, since in the general population the inﬂuence of baseline
+HRV on cognitive performance has been shown as well.  Krypotos Name
+(2011) used a median split on baseline HRV to create a low and high
+baseline subgroup.  These subgroups then performed an emotional
+prepotent response inhibition task.  The results showed that,
+independent of subgroup, negative valence highly arousing pictures lead
+to more inhibitory control diﬃculties.  This is in line with previous
+studies (e. g. , Verbruggen & De Houwer, 2007), which showed that
+being confronted with highly arousing emotional pictures will lead to
+slower stopping-responses (i. e. , more diﬃculty inhibiting a response). 
+Moreover, the subgroup with low baseline HRV performed signiﬁcantly
+worse on the task compared to the high baseline HRV subgroup when
+confronted with these negative valence highly arousing pictures
+(Krypotos Name, 2011).  This suggests that if one’s baseline HRV is low,
+being confronted with negative emotions will lead to more prepotent
+response inhibition diﬃculties.  Perhaps the inconsistencies in ﬁndings
+between studies on prepotent response inhibition in the ASD population
+(Geurts Name, 2014; Kuiper Name, 2016) can be explained by the existence of diﬀerent subgroups that are characterized by diﬀerent baseline HRV levels.  Speciﬁcally, it is plausible that there is a subgroup
+within the ASD population that is characterized by low baseline HRV. 
+Negative valence highly arousing stimuli would lead to even more inhibitory control diﬃculties in this subgroup. 
+The aim of the present study was threefold.  First, we aimed to examine whether low versus high baseline HRV inﬂuenced prepotent
+response inhibition in adults with ASD.  Second, we aimed to examine
+whether this possible inﬂuence of low versus high baseline HRV might
+be diﬀerent for adults with ASD compared to TD adults.  Third, we
+aimed to examine whether adding negative valence highly arousing
+stimuli would aﬀect inhibitory control diﬀerently for people with and
+without ASD as well as for subgroups with diﬀerent baseline HRV levels.  In line with previous relevant studies (e. g. , Krypotos Name 2011),
+we were divided the ASD and TD group into subgroups based on
+baseline HRV using a median split.  The inhibition task consisted of two
+conditions: a neutral condition and a condition with a negative aﬀective
+manipulation.  In addition to Krypotos Name (2011), we examined both
+subjectively and physiologically whether the negative aﬀective manipulation was eﬀective as well as whether the physiological response
+to the two conditions diﬀered between the subgroups.  Regarding inhibitory control diﬃculties, we hypothesized that people with ASD with
+M. W. M.  Kuiper Name
+low baseline HRV levels would have signiﬁcantly more inhibitory
+control diﬃculties compared to people with ASD with high baseline
+HRV levels and compared to TD people with low and high baseline
+HRV.  Additionally, we hypothesized that people with ASD with high
+baseline HRV levels would perform similarly to TD people with low
+baseline HRV levels.  Regarding the aﬀective manipulation, we hypothesized that the negative aﬀective manipulation would cause more
+inhibitory control diﬃculties compared to the neutral condition for
+people with ASD (both with low and high baseline HRV levels) as well
+as for TD people with low baseline HRV levels. 
+<Middle> Methods. 
+2. 1.  Participants
+Initially, 41 male adults with and 40 male adults without ASD with
+an age range of 18–45 years old were included in this study.  The participants with ASD were recruited at Dutch mental health care centers,
+specialized in ASD, and by means of advertisements on several websites
+of Dutch autism societies.  The TD adults were recruited via the personal
+network of the researchers and students involved in this project as well
+as via advertisements, social media and the local community.  All participants were Dutch citizens and 77 participants were of Caucasian
+descent.  We focused solely on males as some studies showed that
+women react physiologically stronger to adverse International Aﬀective
+Pictures System (IAPS; Lang, Bradley, & Cuthbert, 2005) pictures compared to men (e. g. , Bradley, Codispoti, Cuthbert, & Lang, 2001;
+Gard & Kring, 2007).  Moreover, ASD is thought to be more common in
+men than in woman (estimated ratio is 4:1; Fombonne, 2003, 2009).  In
+order to enhance feasibility, only males were included in this study. Dutch
+version: Hoekstra,
+All ASD adults had a clinical ASD diagnosis according to the criteria
+of the Diagnostic Statistical Manual of Mental Disorders IV (DSM-IV;
+American Psychiatric Association, 2000) prior to inclusion.  All were
+diagnosed by clinicians specialized in ASD.  This clinical diagnosis was
+veriﬁed using the Social Responsiveness Scale-AdultsConstantino & Gruber, 2005; Dutch version: De la Marche Name, 2009)
+and the Autism Quotient (AQ; Baron-Cohen, Wheelwright, Skinner,
+Martin, & Clubley,
+Bartels,
+Cath & Boomsma, 2008).  Adults with ASD were included in the study if
+they scored above the cut-oﬀ of 54 on the SRS-A or above 26 on the AQ. 
+The autism diagnostic observation schedule (ADOS) 2, module 4 (Lord
+Name, 2012), was administered to be able to give a more detailed description of ASD characteristics of the included ASD participants (see
+Table 1).  The new algorithm, by Hus and Lord (2014), was used.  In this
+algorithm a total score ≥ 8 classiﬁes as ASD and a total score ≥ 10
+classiﬁes as autism.  TD adults were included if the following criteria
+were met: 1) a score below the cut-oﬀ of 54 on the SRS-A and below the
+cut-oﬀ of 26 on the AQ; 2) no developmental disorders or any other
+psychiatric disorder; and 3) not having any immediate family with ASD. 
+All participants needed to be free of any form of heart disease, lung
+disease or beta-blocker medication and were asked not to drink any
+coﬀee on the day of the test-session, as these variables could all inﬂuence the physiological data.  Almost half of the ASD participants
+(n = 19) had, either in the past or currently, one or more of the following psychiatric diagnoses: AD(H)D (n = 3), Anxiety disorder
+(n = 4), Bipolar Disorder (n = 1), Depression (n = 8), Eating Disorder
+(n = 1), Gilles de la Tourette (n = 1), Obsessive Compulsive Disorder
+(n = 3), Personality Disorder (NOS) (n = 5) and Post Traumatic Stress
+Syndrome (n = 3).  Half of the ASD participants (n = 20) used one orthe following psychotropic medications: antidepressants
+(n = 13), antipsychotics (n = 8), benzodiazepines (n = 1),(n = 1), narcoleptic medication (n = 1), anti-epileptic medication
+(n = 2) and sleep medication (n = 2).  None of the TD group participants used psychotropic medication.  One participant with ASD had a
+physical condition called “hemiparesis” and another participant with
+ASD had epilepsy.  One TD participant had a physical condition called
+Biological Psychology 128 (2017) 141–152
+“hemophilia”.  These participants did not diﬀer in their mean response
+times on the experimental task when compared to the other participants.  Nor were these participants outliers on the physiological measures.  All participants needed to have an estimated total intelligence
+quotient (TIQ) above 70 on the Wechsler Adult Intelligence Scale – IV
+(WAIS-IV; Wechsler, 2012).  We estimated the overall TIQ by using two
+subtests, Vocabulary and Matrix Reasoning, of the WAIS-IV (Uterwijk,
+2000).  Two participants (one ASD; one TD) had an estimated TIQ of 69
+(range 65–75).  However, given their education levels (community
+college and higher education), we did not exclude their data from the
+analyses.  One participant with ASD, who had an estimated TIQ of 66,
+was excluded as this was in line with the reported low educationalTo be included in the analyses, participants needed to inhibit between 40% and 60% (a. k. a.  P(inhibit) = 0. 4–0. 6) of the stop-trials to be
+able to calculate a reliable stop signal reaction time (SSRT) (van den
+Wildenberg, van Boxtel, & van der Molen, 2003).  The SSRT is the inhibitory control outcome measure (for more information on the task or
+SSRT, see below).  Nine participants with a P(inhibit) below or above
+0. 4–0. 6 were matched with a participant from the other group with a
+similar P(inhibit).  Only when this matching was impossible, was the
+participant excluded from further analyses.  This resulted in excluding 9
+ASD participants.  Next, outliers in the baseline HRV data were determined.  Outliers were deﬁned as data points more than three times
+the interquartile range above or below the ﬁrst quartile.  This resulted in
+the exclusion of one TD participant based on baseline RSA (> 3 SD). 
+Then, subgroups were created, following Krypotos Name (2011), by
+means of a median split.  This was done separately for both HRV measures (RMSSD; RSA), which resulted in the following groups: low ASD;
+high ASD; low TD and high TD ASD.  For descriptive information on
+these subgroups see Table 1. 
+Taken together, 31 ASD and 39 TD participants were included in the
+analyses.  The baseline RMSSD median split resulted in a low (n = 16)
+and high (n = 15) RMSSD subgroup in the ASD group (median: 24. 5;
+SD: 16. 9) and a low (n = 20) and high (n = 19) RMSSD subgroup in
+the TD group (median: 31. 7; SD: 17. 5).  The baseline RSA median split
+resulted in a low (n = 15) and high (n = 16) RSA subgroup in the ASD
+group (median: 5. 9; SD: 1. 1) and a low (n = 20) and high (n = 19)
+subgroup in the TD group (median: 6. 2; SD: 0. 81). 
+Written informed consent was given by all participants.  This study
+the University of
+was approved by the Ethics Review Board of
+Amsterdam (2014-BC-3773). 
+2. 2.  Experimental task
+Prepotent response inhibition was measured with an emotional stop
+signal task (Krypotos Name, 2011; Logan, 1994; Verbruggen & De
+Houwer, 2007).  In addition to Krypotos Name (2011), who solely
+measured HRV during baseline, we also examined HRV during the stop
+signal task. 

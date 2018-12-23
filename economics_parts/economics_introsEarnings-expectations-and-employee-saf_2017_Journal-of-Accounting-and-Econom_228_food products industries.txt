@@ -1,0 +1,226 @@
+
+Accounting research has long shown that managers face pressure to meet earnings benchmarks and that they react to
+this pressure by manipulating accruals and real activities when their firm is at risk of missing benchmarks (e. g. , Dechow
+Name 2010, §5. 5).  Survey evidence suggests that, in order to meet benchmarks, managers prefer taking real actions over
+manipulating accruals (Graham Name, 2005).  Empirical studies provide strong evidence for real activities management (e. g. 
+Roychowdhury, 2006; Cohen Name, 2008).  Importantly, real activities management is difficult for investors to detect in the
+short run (Kothari Name, 2016) but potentially has negative consequences for firms’ long-run performance (e. g. , Bhojraj Name,
+2009; Cohen and Zarowin, 2010).  In this study, we provide evidence of a previously undocumented consequence of real
+activities management to meet earnings benchmarks – compromises in workplace safety.  In particular, we show that
+benchmark beating is associated with higher workplace injuries and that the strength of this association varies with employee workloads and discretionary expenses that include safety-related expenditures. 
+Earnings benchmarks can relate to workplace safety in at least two ways.  First, if managers believe that the firm may
+miss expectations under the ordinary course of business, they may increase employees’ workloads or pressure them to work
+faster.  In response, employees can compromise safety by overexerting themselves or by circumventing safety procedures
+that slow the flow of work.  Second, managers may cut explicit and implicit safety costs, such as the costs of maintaining
+equipment and training employees, in their attempts to report higher earnings.  Along these lines, Graham Name (2005)
+report that some CFOs admit to cutting maintenance spending in order to meet earnings benchmarks.  To the extent
+managers take such actions, workplace safety will deteriorate when firms struggle to meet expectations. 
+We examine whether firms suspected of managing earnings to meet expectations exhibit higher workplace injury rates
+than other firms.  We follow prior research on earnings management and define firms that meet or just beat expectations as
+suspect firms (e. g. , Burgstahler and Dichev, 1997; Degeorge Name, 1999).  Using establishment-level (e. g. , store or factory)
+injury data from the Occupational Safety and Health Administration (OSHA) for the 2002–2011 period, we find that about
+one in every 24 employees is injured in firms that meet or just beat analyst earnings forecasts, compared to about one in 27
+in firms that miss or comfortably beat forecasts.  In multivariate analyses, where we control for a variety of establishmentand firm-level characteristics as well as establishment (or firm) and year fixed effects to account for unobservable factors,
+we find that the association between benchmark beating and injury rates remains statistically and economically significant. 
+For example, controlling for other factors, injury rates are five to fifteen percent higher in periods where a firm meets or just
+beats analyst forecasts than in other periods. 
+We provide evidence that the relation between benchmark beating and workplace safety likely stems from two types of
+real actions that managers take: high workloads and cuts to safety-related expenditures.  We utilize production per employee and revenue per employee as measures of employee workloads, and abnormal discretionary expenses per employee
+to gauge cuts to safety-related expenditures.  We find that injury rates are more strongly associated with production per
+employee in firms that meet or just beat forecasts.  We also find evidence that injury rates are higher when firms that meet
+or just beat forecasts have abnormally low per-employee discretionary expenditures. 1 Taken together, the evidence suggests
+that both pressure to increase worker productivity and cuts to safety-related expenditures contribute to the relation between benchmark beating and workplace safety. 
+We use three settings to examine cross-sectional variation in the relation between benchmark beating and workplace safety. 
+First, we find that the relation is weaker in industries with high union membership.  This is consistent with unions’ aim to ensure
+reasonable workloads, work speed, and safety (Kaufman, 2005).  It is also consistent with the findings in the literature that,
+compared to non-union workers, union workers are less likely to perceive that taking risks is a part of their job (Gillen Name, 2002),
+and unionization leads to fewer workplace injuries (Morantz, 2013).  Consistent with unions’ goal of workplace safety, our evidence
+suggests that unions mitigate the extent to which pressure to meet earnings expectations translates into reduced safety. 
+Second, we find a weaker relation between benchmark beating and workplace safety when workers’ compensation insurance
+premiums are more sensitive to injury claims.  Workers’ compensation insurance is a state-mandated program and its premiums
+are primarily determined by state requirements.  Insurance premiums depend, in part, on a multiplier based on the employer's
+workplace safety record.  A given change in the multiplier thus has a greater dollar impact on premiums when the baseline
+insurance premium is higher.  We test and find that the association between benchmark beating and workplace safety is weaker in
+establishments that are located in states where each additional injury has a higher impact on workers’ compensation premium. 
+Third, we utilize government contracting as an incentive for keeping safer work environments.  Government contracts
+typically include terms that prohibit bids from firms deemed to have unsafe work environments.  Consistent with the
+government contractors’ heightened focus on safety, we find that the relation between benchmark beating and workplace
+safety is weaker for firms that do more business with the government. 
+In our main analyses, we focus on analyst forecasts as our measure of earnings expectations since prior research indicates
+that meeting analyst forecasts is a more important benchmark than meeting prior year's earnings or avoiding losses (Dechow Name, 2003), and that the market perceives missing analyst forecasts as a more negative signal than a decrease in yearover-year earnings (Brown and Caylor, 2005).  In additional tests, we replicate our primary analyses for the zero-earnings
+and zero-earnings-change benchmarks.  We find higher injury rates in suspect firm-years identified by zero-earningschanges, but not for zero-earnings.  This may be because after the passage of Sarbanes-Oxley Act (SOX) in 2002, the zeroearnings discontinuity, and to a lesser extent discontinuity around prior year's earnings, have dissipated whereas the discontinuity around analyst forecasts remain (Gilliam Name, 2015). 
+Our study is related to the literature studying the forms and consequences of earnings management via real activities.  Extant
+research finds that managers cut research and development (e. g. , Baber Name, 1991), advertising (e. g. , Cohen Name, 2010), selling,
+administrative and general expenditures, and engage in over-production (e. g. , Roychowdhury, 2006) in order to meet earnings
+benchmarks, and that such activities potentially negatively affect a firm's long-run operating performance (e. g. , Bhojraj Name, 2009;
+Cohen and Zarowin, 2010).  Our study adds to this literature by documenting a novel and potentially opaque consequence of
+managing earnings via real activities – compromises in workplace safety.  Our findings highlight that costs of real activities
+management can accrue not only in monetary terms but also in terms of employee health.  The effects we document may represent the “tip of the iceberg” in terms of the overall employee health since OSHA collects data on only relatively serious and
+physical injuries/illnesses such as those that require hospitalization, days away from work, or job transfers.  Additionally, in the
+light of recent findings that investors face greater difficulty in detecting earnings management via real activities (Kothari Name,
+2016), our results suggest that timely disclosures about workplace safety can serve as signals to investors of certain forms of real
+activities management.  While some firms are considering providing such disclosures (e. g. , Silverman, 2016), these disclosures are
+typically not available to investors on a timely basis and in a systematic manner. 
+We also contribute to the literature on workplace safety and firms’ financial condition.  Cohn and Wardlaw (2016) predict
+and find that workplace injury rates are associated with high leverage and with negative cash flow shocks.  In a study of the
+operational performance of restaurant chains in Florida, Bernstein, and Sheen (2016) find that restaurants become safer and
+cleaner following private equity buyouts.  We focus on managerial attention to earnings targets and find that it diminishes
+managers’ focus on workplace safety.  Also related to our study, Rose (1990) finds a link between the safety of airline customers and the overall financial health of airlines, and Matsa (2011) finds that in the supermarket industry, competition
+increases service quality.  Unlike Rose (1990) and Matsa (2011), we focus on employee safety rather than service/product
+quality, and earnings benchmarks rather than the overall financial health of the firm.  Prior studies also find that accidents
+and absences are associated with high capacity and labor utilization (See survey by Pouliakas and Theodossiou (2013)).  The
+stronger association we document between production per employee and injury rates in suspect firm-years relative to nonsuspect firm-years is consistent with an association between workplace safety and high labor utilization. 
+Our findings do not speak to the magnitude of net welfare effects of compromises in workplace safety on firms or
+employees.  The socially optimal injury rate likely exceeds zero, and such compromises could overall be desirable if the
+benefits exceed the costs.  Nevertheless, the negative impact of such compromises on employee health represents a cost for
+the firms to the extent that it results in higher wage demands, fines, litigation, increased insurance premiums, and negative
+publicity, and a cost to employees in the form of pain, lost wages, and, in extreme cases, death. 
+2.  Background. 
+2. 1.  Safety regulation and incentives for workplace safety. 
+The Occupational Safety and Health Administration (OSHA) regulates workplace safety for most private sector employers
+in the United States.  Exceptions include employers subject to safety regulation from other federal agencies, such as the Mine
+Safety and Health Administration and the Federal Aviation Administration.  OSHA promulgates standards including equipment safety, communication of hazards, and training programs. 2 It also regulates compliance by investigating worksites and
+employee complaints (Kniesner and Leeth, 2014). 
+From a regulatory perspective, OSHA faces a risk reduction mandate rather than a cost-versus-benefit mandate (Viscusi
+1996a, 1996b).  In 2010, companies spent between $52 and $66 billion complying with OSHA regulations (Kniesner and
+Leeth, 2014), which amounts to between four and five percent of the $1351 billion domestic corporate profits in 2010 per the
+U. S.  Bureau of Economic Analysis.  This excludes indirect costs, such as the impact of safety measures on the speed of
+workflow.  Estimates of costs of OSHA regulations per life saved range from $100,000 for respiratory protection, to $78 billion
+for the regulation of formaldehyde (Viscusi, 2007, Table 2, in 2002 dollars). 3
+Company incentives for safety stem from the costs of regulatory noncompliance, such as litigation, workers’ compensation
+premiums, and wage demands, and from the impact of safety on future revenues, investor/public perceptions, and the ability to
+attract and retain skilled employees.  OSHA enforces safety regulations by making regular inspections and investigating worker
+complaints.  Penalties for noncompliance range from citations and fines, which tend to be small, to jail time and court-ordered
+shutdown for extreme violations (Kniesner and Leeth, 2014).  Injury/illness frequency and severity is also used as a key input in the
+calculation of workers’ compensation insurance premiums.  According to the Liberty Mutual Workplace Safety Index, businesses’
+total direct workers’ compensation costs– insurance, claims, and claims processing – for the top ten injury types amounted to
+$59. 58 billion in 2014.  Additionally, companies can face wage differentials to compensate employees for injury and illness risk
+(Wei, 2007; Viscusi, 2010), and injuries can impede firms’ ability to win contracts that explicitly specify a minimum acceptable
+safety record as a prequalification condition. 4 For example, the U. S.  Army evaluates bidders’ safety practices in the pre-award
+phase and can disqualify bidders due to poor workplace safety (e. g. , U. S.  Army, 2012, §4). 
+Workplace safety can also influence a firm's market value through its effect on public and investor perceptions.  The
+frequency of injuries/illnesses is informative about operational risks and the likelihood of major accidents, but is not disclosed in a timely manner. ,5,6 Anecdotal evidence also suggests that investors request additional timely disclosures about
+workplace safety following major accidents that draw media attention (e. g.  Tait 2010; Coetzee and Van Staden, 2011). 7
+Relatedly, in two separate field studies, Longsteeth and Rosenbloom (1973) and Spicer (1978) find that institutional investors
+and bankers consider social responsibility disclosures in investment decisions.  In a more recent empirical work, Albuquerque Name (2015) show that firms with better corporate social responsibility ratings, which incorporates employee safety
+and rights, experience higher valuations.  Consistent with an impact of employee safety on firm valuation, some firms (e. g. ,
+American Electric Power) use employee safety as an input in the calculation of executive compensation. 
+Workplace safety also affects employers via its impacts on employers’ ability to attract skilled workers and on employees’
+demands for compensation.  Employees with high risk tolerance and low skills self-select into inherently riskier occupations
+(Hwang Name, 1992; DeLeire and Levy, 2004; Orrenius and Zavodny, 2009).  While employees demand higher pay for riskier
+occupations (Thaler and Rosen, 1976; Viscusi, 1978), risk-tolerant employees demand relatively low incremental pay as
+compensation for risk (Viscusi and Hersch 2001).  The latter result is intuitive because, conditional on having to pay a wage
+premium for workplace hazards, employers will find the premium less costly for risk-tolerant employees. 
+While employees can potentially pass some of the anticipated costs to employers via demands for higher wages, and pass
+ex post costs to employers via litigation or insurance, prior research provides evidence that employees and their families still
+bear significant costs of injuries.  In addition to deaths or permanent severe disabilities, which perhaps no compensation can
+cover, studies find that workers who had temporary injuries experience significant earnings losses in the years following
+injuries (Boden and Galizzi, 1999; Boden, 2005) and are more likely to be contacted by collection agencies (Keogh Name,
+2000).  Galizzi and Zagorsky (2009) track 9186 employees from 1985 to 2000 and find that employees who spent time away
+from work due to workplace injuries have dramatically lower wealth and consumption.  Higher injury rates are also associated with lower job satisfaction and higher turnover intent (e. g.  Danna and Griffin, 1999; McCaughey Name, 2013). 
+2. 2.  The OSHA Data Initiative (ODI). 
+Under the OSHA Data Initiative Program (ODI), which was active from 1996 through 2011, OSHA surveyed private-sector
+establishments to obtain data on reportable work-related injuries and acute illnesses attributable to work-related activities
+that occurred during the prior year. 8 An establishment corresponds to a distinct physical location, such as an individual
+factory or store. 9 In addition to injury and illness data, the survey contains a unique identifier for each establishment and
+information about the establishment's name, location, number of employees, number of hours worked, and variables indicating unusual events, such as shutdowns, strikes, and natural disasters. 
+Each year OSHA surveys approximately 80,000 private-sector establishments.  All establishments under OSHA jurisdiction with 11 or more employees are required to keep records of injuries and illnesses unless OSHA exempts the industry due
+to a past history of low accident rates.  The survey covers primarily larger establishments (typically 40 or more employees)
+from industries that OSHA classifies as high-hazard, which we list in Appendix B.  Appendix B also lists the industries that
+OSHA deems low-hazard and exempt from ODI.  The sample selection is designed to ensure that each establishment in the
+potential data collection universe is surveyed at least once during a three-year cycle.  OSHA uses random sampling method
+to choose establishments, but establishments that had high injury rates or failed to respond in the prior year are more likely
+to be surveyed again.  ODI data become publicly available about two years after the year for which safety data are recorded. 
+OSHA does not give advance notice to establishments that must submit data for the survey, and all covered establishments must have the data ready for the event that they are included in the survey population.  OSHA enforces accurate data
+collection via audits and fines for detected failure to comply with recordkeeping requirements (See, for example, OSHA
+Directive 00–1 (CPL2)).  Nevertheless, there could be some degree of underreporting of incidents.  A summary of the 1996 to
+1998 audits indicate that about 20% of establishments had recordkeeping errors, to which OSHA responded in 2001 with
+revised guidelines and practices to improve the recordkeeping (Federal Register number 66:5916-6135). 
+<Middle> Research design. 
+We conduct our analysis using establishment-level data from the ODI survey.  Our dependent variable is the count of
+injuries, and we accordingly use a count model to estimate the relation between employee safety and the pressure to meet
+earnings benchmarks.  Based on Burgstahler and Dichev (1997)’s findings on earnings management, we measure periods of
+pressure to meet benchmarks (Suspect) as firm-years that meet or just beat their earnings benchmarks.  Prior literature
+provides evidence consistent with investors viewing analyst forecasts as a more important benchmark than prior years’
+earnings and zero earnings (e. g. , Dechow Name, 2003; Brown and Caylor, 2005; Gilliam Name, 2015).  Accordingly, we focus on
+analyst forecasts as the primary earnings benchmark, and Suspect equals one if an earnings surprise is between zero and two
+cents, and zero otherwise.  In Section 7 we also report results from additional tests that use prior year's earnings, and zeroearnings as earnings benchmarks. 
+In our main analyses, we estimate the following model for establishment i in year t,
+where for a Poisson model, which permits establishment-level fixed effects but also imposes the assumption that the injury rates’
+for a negative binomial model, which does not permit establishment-level fixed effects, and
+variance equals its mean (Cameron and Trivedi, 2015). 10 Establishment-level fixed effects, which subsume higher order (e. g. ,
+firm or industry) fixed effects, allow us to control for unobservable factors affecting the rate of injuries/illnesses in a given
+establishment, and allow us to interpret the coefficient on Suspect as the injury rates relative to the establishments’ typical
+injury rates.  Establishment-level
+fixed effects have the drawback of requiring at least two observations for each
+establishment. 
+To control for various firm characteristics that may affect workplace safety, the regressions include the natural logarithm
+of beginning total assets (Ln(Assets)), the beginning-of-year ratio of total short- and long-term debt to total assets (Leverage),
+the beginning-of-year ratio of net property, plant and equipment to total assets (PPE/Assets), current period sales divided by
+beginning total assets (Turnover), current period capital expenditures divided by beginning total assets (CapEx/Assets), and
+the beginning-of-year ratio of market value of assets to book value of assets (M/B).  We measure market value of assets as the
+sum of market value of equity, book value of total liabilities, and liquidation value of preferred stock minus deferred tax
+liabilities.  Appendix C provides detailed variable definitions. 
+We also include several establishment-level variables available from the OSHA dataset to control for establishmentspecific factors that may affect the number of cases.  We include the number of annual hours worked by an average employee in the establishment (HoursPerEmployee) because work hours can be associated with injury rates. 11 In addition,
+Suspect firms could attempt to keep costs down by extracting more work per employee, which necessitates controlling for
+the average effect of hours per employee in our models.  We include an indicator variable for whether the establishment has
+seasonal work (Seasonal) as a control for the higher rates of injury among temporary workers (Quinlan Name, 2001).  The
+hours worked and seasonal indicator also serve as controls for employees’ overall experience level.  We also include the
+following variables as controls: the average number of employees working in the establishment during the year (EstablishmentSize), and indicator variables for whether there was any strike/lockout (Strike), shutdown/layoffs (Shutdown), or a
+natural disaster/adverse weather conditions affecting the establishment (NaturalDisaster).  We include these indicator
+variables in order to control for the impact of unusual factors. 
+4.  Data and summary statistics. 
+4. 1.  Data. 
+Our sample is comprised of establishments from the ODI that can be linked to firms in Compustat annual file for the
+2002–2011 period.  We begin our sample period in 2002 because OSHA simplified and changed its recording criteria for
+injuries and illnesses and the coverage of industries that year, and values for prior years are not comparable.  OSHA discontinued the ODI in 2011 due to funding cuts.  We manually match establishments from the ODI to firms in Compustat
+based on names.  In particular, for each establishment name listed in ODI, we first search for a matching Compustat name.  If
+the search does not produce any matches, we conduct additional searches through Hoovers, company/establishment
+websites, and other online resources to identify whether the establishment matches with a subsidiary of a Compustat firm. 
+Each firm in Compustat may have multiple establishments. 
+We require observations in our sample to have valid values for the variables used in the main analyses reported in
+Table 3.  We exclude financial firms and firms in regulated industries (SIC codes 6000–6999 and 4900–4999). 12 To align
+financial data with the data on injuries and illnesses, which are measured over calendar years, we limit the sample to firms
+that have December fiscal year ends.  We also require availability of analyst forecast data from I/B/E/S.  Based on these criteria,
+our initial sample contains 42,327 establishment-years. 
+From the initial sample, we eliminate 254 observations that list zero employees or do not include the number of employees.  A small number of observations exhibit extremely low or high hours worked per employee or extremely high
+injury/illness rates, which are likely data errors.  For example, the highest and lowest number of hours worked per employee
+are 2 million and 0, respectively.  Accordingly, we eliminate 613 observations for which hours worked per employee is at the
+top or bottom half-percentile or the number of injury/illness cases at the top half-percentile.  Finally, we require that number
+of employees in the sample establishments of a given firm represents at least five percent of the total number of employees
+of that firm, as reported in Compustat.  This requirement further eliminates 6,110 observations.  Our conclusions are not
+sensitive to the five percent cut-off, and remain similar if we use three percent or ten percent as the cut-off value. 13
+The final sample includes 35,350 establishment-year observations from 868 unique firms that operate in industries
+covered by the ODI and are represented in Compustat and I/B/E/S.  Untabulated analysis shows that the median establishment has two observations in our sample, with a maximum of ten for establishments that OSHA surveys each year and a
+minimum of one for establishments that did not remain operational sufficiently long to be included in more than one of the
+three-year survey cycles. 
+4. 2.  Descriptive statistics
+Table 1, Panel A provides summary statistics for establishment-level variables.  The average establishment in our sample
+has 335 employees, and employees work an average of close to 2,000 hours per year.  Following OSHA's definition, we
+calculate the number of illness/injury cases as the sum of injuries or illnesses that result in days away from work or in
+transfers and other recordable cases.  The median number of cases per establishment is 7 and the average is 22.  Also based
+on OSHA's definition, we calculate the total case rate (TCR) as the annualized number of cases per 100 employees. 14 The
+median case rate implies that in an average establishment-year, an employee has 5. 7% probability of sustaining work-related
+illnesses/injuries. 
+Table 1, Panel B provides summary statistics for firm-level variables.  We winsorize all financial variables at the top and
+bottom percentile.  The median firm has Ln(Assets) of about 8. 9, which indicates that the median firm is fairly large and has
+total assets of about $7. 3 billion.  Leverage averages about 29 percent.  On average, property, plant and equipment (PP&E)
+represents 35 percent of our sample firms’ assets.  Turnover averages $1. 25 of sales per dollar of beginning assets, and capital
+expenditures average 5% of beginning assets.  The median firm in our sample has an asset market-to-book ratio of 1. 38 which
+compares to 1. 31 in Cohn and Wardlaw (2016). 
+Table 1, Panel C provides the Pearson (below diagonal) and Spearman (above diagonal) correlations between TCR and
+accounting variables.  The correlations indicate that the case rates are higher in suspect firm-years, in capital-intensive firms
+with more PP&E and higher capital expenditures, and in firms with high turnover.  Firm size, leverage, and market-to-book
+ratios are also all positively associated with the case rate, although correlations are weaker for these variables.  As we explain
+in Section 6. 1, we use industry union membership data from the Union Membership and Coverage Database as a proxy for
+employees’ ability to protect their rights. 15 Industries with high unionization exhibit higher case rates, consistent with a
+higher value of joining a union in more hazardous industries. 
+Table 1, Panel D provides the distribution of observations by year.  Panel D shows that 2011 is underrepresented in our
+sample.  This is because ODI was discontinued in 2011 and not all of the data for 2011 was available at the time we received
+the data files from OSHA's Office of Statistical Analysis in late 2014.  Our findings are not sensitive to exclusion of 2011 from
+our sample. 
+We provide average establishment-level case rates by the parent firm's Fama-French industry classifications in Table 2,
+along with the industry-level unionization rate.  We do not report case rates for the financial and regulated industries
+because we exclude them from the sample.  The transportation and food products industries have the highest total case
+rates, with over 11 percent of employees having an injury or illness in a given year.  The coal and tobacco products industries
+have the lowest case rates. 

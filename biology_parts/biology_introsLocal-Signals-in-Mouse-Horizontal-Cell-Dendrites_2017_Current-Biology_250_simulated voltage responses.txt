@@ -1,0 +1,369 @@
+Local Signals in Mouse Horizontal Cell DendritesHighlights
+d Light-evoked Ca2+ signals in horizontal cell dendrites reﬂect
+opsin gradient
+d Chromatic preferences in neighboring dendritic tips vary
+markedly
+d Mouse horizontal cells process cone photoreceptor inputd Local horizontal cell feedback shapes the temporal
+properties of cone outputCamille A.  Chapot, Christian Behrens,
+Luke E.  Rogerson, . . . , Philipp Berens,
+Thomas Euler, Timm Schubert
+Correspondence
+thomas. euler@cin. uni-tuebingen. detimm. schubert@cin. uni-tuebingen. deIn Brief
+Chapot Name show that local light
+responses in mouse horizontal cell
+dendrites inherit properties, including
+chromatic preference, from the
+presynaptic cone photoreceptor,
+suggesting that their dendrites can
+provide private feedback to cones, for
+instance, to shape the temporal ﬁltering
+properties of the cone synapse. 
+Chapot Name, 2017, Current Biology 27, 3603–3615
+December 4, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 10. 050
+Current BiologyLocal Signals in Mouse Horizontal Cell Dendrites
+Camille A.  Chapot,1,2,3 Christian Behrens,1,2,3,4 Luke E.  Rogerson,1,2,3,4 Tom Baden,1,5 Sinziana Pop,1,2,3
+Philipp Berens,1,2,4 Thomas Euler,1,2,4,* and Timm Schubert1,2,6,*
+1Institute for Ophthalmic Research, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+2Center for Integrative Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+3Graduate Training Centre of Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+4Bernstein Center for Computational Neuroscience, University of Tu¨ bingen, 72076 Tu¨ bingen, Germany
+5School of Life Sciences, University of Sussex, Brighton BN1 9RH, UK
+6Lead Contact
+*Correspondence: thomas. euler@cin. uni-tuebingen. de (T. E. ), timm. schubert@cin. uni-tuebingen. de (T. S. )
+https://doi. org/10. 1016/j. cub. 2017. 10. 050The mouse retina contains a single type of horizontal
+cell, a GABAergic interneuron that samples from all
+cone photoreceptors within reach and modulates
+their glutamatergic output via parallel
+feedback
+mechanisms.  Because horizontal cells form an electrically coupled network, they have been implicated
+in global signal processing, such as large-scale
+contrast enhancement.  Recently, it has been proposed that horizontal cells can also act locally at the
+level of individual cone photoreceptors.  To test this
+possibility physiologically, we used two-photon microscopy to record light stimulus-evoked Ca2+ signals
+in cone axon terminals and horizontal cell dendrites as
+well as glutamate release in the outer plexiform layer. 
+By selectively stimulating the two mouse cone opsins
+with green and UV light, we assessed whether signals
+from individual cones remain isolated within horizontal cell dendritic tips or whether they spread across
+the dendritic arbor.  Consistent with the mouse’s opsin
+expression gradient, we found that the Ca2+ signals
+recorded from dendrites of dorsal horizontal cells
+were dominated by M-opsin and those of ventral
+horizontal cells by S-opsin activation.  The signals
+measured in neighboring horizontal cell dendritic
+tips varied markedly in their chromatic preference,
+arguing against global processing.  Rather, our experimental data and results from biophysically realistic
+modeling support the idea that horizontal cells can
+process cone input locally, extending the classical
+view of horizontal cell function.  Pharmacologically
+removing horizontal cells from the circuitry reduced
+the sensitivity of the cone signal to low frequencies,
+suggesting that local horizontal cell feedback shapes
+the temporal properties of cone output. 
+INTRODUCTION
+Most neurons in the brain have elaborate dendritic arbors
+capable of more than simply integrating synaptic input.  Studies
+of neurons from different brain regions, such as cerebellar Purkinje cells [1], cortical pyramidal cells [2], hippocampal neurons
+[3], and retinal amacrine cells [4, 5], have demonstrated that dendrites can be functionally highly compartmentalized.  Often,
+multiple dendritic units can both process synaptic input and
+generate synaptic output independently and at a local scale
+(reviewed in [6]).  The cellular mechanisms supporting dendritic
+processing include anatomical specializations, differential distribution of active channels, and the local restriction of intracellular
+signaling (reviewed in [6]).  Moreover, computational work suggests that dendrites can even switch between local and global
+signal processing [7].  Such functional compartmentalization of
+dendritic arbors greatly increases the computational power of
+single neurons and, therefore, that of the brain. 
+In the retina, dendritic processing has been mainly studied in
+ganglion cells [8, 9] and amacrine cells [4], where dendritic subunits vary dramatically in size and function.  For example, starburst amacrine cell dendritic arbors are divided in sections that
+individually compute direction of visual motion [10, 11], while individual dendritic varicosities of A17 amacrine cells provide local
+reciprocal feedback to individual rod bipolar cell terminals under
+low-light conditions [4].  However, the outer retina also contains a
+candidate for dendritic processing, the horizontal cell (HC).  This
+is a GABAergic interneuron that provides reciprocal feedback
+to photoreceptors and shapes their transmitter release [12–14]. 
+The dendrites of HCs contact cone photoreceptors (cones),
+whereas their axon terminal system contacts rod photoreceptors
+(rods) [15]. 
+Traditionally, HCs have been implicated in global processing,
+such as contrast enhancement and the generation of antagonistic center-surround receptive ﬁelds (reviewed in [16]).  This is
+consistent with the fact that HCs form a gap junction-coupled
+network [17], which allows averaging signals across many
+cones.  However, recent studies suggest that HCs support also
+a local mode of operation and that HC feedback can act at the
+level of a single synaptic contact between an HC dendritic tip
+and a cone ([14, 18]; for discussion see [19]) (Figures 1A and 1B). 
+Here, we test this idea by recording light stimulus-evoked signals at the HC-cone synapse in a slice preparation of the mouse
+retina using two-photon Ca2+ [20, 21] and glutamate imaging
+[22].  We exploited the particular retinal distribution of mouse
+cone types to discriminate between global and local processing:
+Mice express two types of cone opsins, a short (S, UV) and a
+medium (M, green) wavelength-sensitive opsin.  So-called true
+S-cones [23] exclusively express S-opsin and are homogenously
+Current Biology 27, 3603–3615, December 4, 2017 ª 2017 Elsevier Ltd.  3603
+Figure 1.  Identiﬁcation of Cone Axon Terminals and HC Processes in Mouse Retinal Slices
+(A) Schematic representation of the connectivity between S- (blue) or M-cones (green) and a horizontal cell (HC, orange).  The box corresponds to the enlarged
+schemata shown in (B).  The black line indicates the cone axon terminal base. 
+(B) Neighboring S- and M-cones with postsynaptic HC dendrites.  Bipolar cell dendrites are shown in white.  The arrows indicate the hypothesized spread of
+signals in HC dendrites.  Left: global (lateral) signal spread along HC dendrites.  Right: local signal processing in HC dendritic tips. 
+(C and D) Bath application of sulforhodamine 101 (SR101) (top images in C and D) to identify cone axon terminals in retinal slices of the Cx57+/cre 3 Ai38 (C) and
+HR2. 1:TN-XL (D) mouse lines.  Outlines of cone axon terminals were manually drawn for illustration purposes; solid lines indicate cone axon terminal base, and
+dotted lines indicate outer plexiform layer (OPL) borders.  Upper right diagram depicts imaged synaptic compartment and the biosensor used (red). 
+(E) Left: SR101 ﬂuorescence with line marking the cone axon terminal base (analogous to A, C, and D).  Right: GCaMP3-labeled HC processes are superimposed
+by regions of interest (ROIs; gray, exemplary ROI marked red) automatically determined (STAR Methods). 
+(F) Ca2+ responses to green, UV, and white (GUW) 1 s light ﬂashes of exemplary ROI (in E).  The continuous Ca2+ trace (left) and average of n = 10 trials for each
+stimulus condition (right) are shown (Ca2+ signals de-trended by high-pass ﬁltering at 0. 1 Hz and z-normalized; STAR Methods).  Scale bars, 5 mm. 
+See also Figure S1. 
+distributed across the retina, while M-cones co-express both
+opsins at a ratio that changes from M- to S-opsin dominant along
+the dorsoventral axis [24].  Thus, recording at different retinal
+locations with different-wavelength stimuli makes it possible to
+test if signals of neighboring cones mix in the postsynaptic HC
+dendritic process.  We found that cone signals indeed remain
+local in the contacting HC dendritic tips, suggesting that HCs
+support a local mode of operation. 
+3604 Current Biology 27, 3603–3615, December 4, 2017. 
+<Middle> RESULTS. 
+Identiﬁcation of Cone Axon Terminals and HC Processes
+in the Mouse Retinal Slice
+We recorded Ca2+ signals in retinal slices prepared from transgenic mice (Cx57+/cre 3 Ai38; see the STAR Methods).  HC
+processes could be identiﬁed in retinal slices by their GCaMP3
+expression (Figure 1C).  To identify cone axon terminals, we
+bath-applied SR101 [25], which is taken up from the extracellular
+solution by the terminals of synaptically very active cells, such as
+photoreceptors, during vesicle endocytosis [26].  We conﬁrmed
+that the (larger) SR101-labeled structures in the outer plexiform
+layer (OPL) were cone axon terminals with slices prepared
+from HR2. 1:TN-XL mice [21], in which exclusively cones expressed TN-XL (Figure 1D). 
+Light-Evoked Ca2+ Signals in HC Processes
+To record light-evoked Ca2+ signals in HC dendritic segments,
+we imaged ﬁelds in the OPL while presenting green, UV, or
+white light ﬂashes (GUW protocol, STAR Methods) (Figures 1E
+and 1F).  The resulting GCaMP3 ﬂuorescence image series was
+averaged to anatomically deﬁned regions of interest (ROIs)
+(STAR Methods).  We only considered ROIs that responded to
+white ﬂashes and fulﬁlled two strict quality criteria, a quality index
+(Qi) and a consistency index (Ci) (Figure S1; STAR Methods),
+yielding 423 ROIs (4. 3% from a total of 9,912 ROIs) with reliable
+light-evoked Ca2+ signals for further analysis (Figures S1B–S1D). 
+Because the structural layout of the cone synapse is highly
+stereotypical [27], we assumed that ROIs located close to the
+cone axon terminal base are likely to be HC dendritic tips, since
+this is where they make invaginating contacts with the cones
+(reviewed in [19]).  ROIs well above the cone base are expected
+to belong mostly to HC axon terminal tips (contacting rods),
+whereas ROIs below the cone base should be located on HC primary dendrites [27].  To get an estimate of each ROI’s identity, we
+manually determined the base of the cone terminals as a
+landmark (solid lines in Figures 1A and 1C–1E) in each imaged
+ﬁeld based on SR101 labeling.  We used the sharp transition
+between the brightly stained cone axon terminals and the dimmer SR101 labeling below, which likely represented HC dendrites [26].  We estimated the distance (dbase) to the cone axon
+terminal base for each ROI.  Responsive ROIs were most
+frequent just above the cone axon terminal base (61. 5% ROIs
+within 0 < dbase < 5 mm), within the OPL band occupied by
+cone terminals.  Here, ROIs had the highest Qi values (Figure S1E)
+and the largest light-evoked Ca2+ signals (Figure S1F), suggesting that we could indeed measure responses from HC dendritic
+processes in or very close to the cone synapse. 
+Mechanisms Underlying Light-Evoked Ca2+ ResponsesTo conﬁrm that the Ca2+ responses were mediated by glutamate
+release from photoreceptors, we puff-applied the AMPA/KAtype glutamate receptor antagonist 6,7-dinitroquinoxaline-2,3dione (NBQX; 200 mM) while presenting white ﬂashes (Figures
+2A and 2B).  NBQX signiﬁcantly decreased the Ca2+ baseline
+level (F0) in HC processes, and it virtually abolished light-evoked
+Ca2+ signals, as indicated by a signiﬁcant reduction in response
+amplitude (DF) and area under the curve (FArea) (Figures 2C–2E;
+for statistics, see Table 1). 
+Earlier experiments on isolated mouse HCs had shown that
+intracellular Ca2+ is modulated by inﬂux through Ca2+-permeable
+AMPA/KA receptors, L-type voltage-gated Ca2+ channels
+(VGCCs), and by release from internal Ca2+ stores [28].  To test
+how these pathways contributed to the Ca2+ signals in HC
+dendrites, we puff-applied a mixture of AMPA (50 mM) and KA
+(25 mM) before and in the presence of blockers (Figure S2).  The
+response amplitudes to AMPA/KA puffs alone decreased during
+the experiment (Figures S2A and S2C), possibly caused by
+downregulation of VGCCs and/or Ca2+ stores due to the strong
+pharmacological stimulus.  We estimated this run-down from two
+consecutive puffs by calculating the ratio of the response amplitudes (DF2/DF1).  When applying the L-type VGCC blocker verapamil (100 mM) 5 min before the second AMPA/KA puff, DF2/DF1
+was signiﬁcantly reduced compared to control (Figures S2A,
+S2B, and S2E; for statistics, see Table 1), conﬁrming that VGCCs
+contributed to the signals. 
+In separate experiments, we tested if
+intracellular Ca2+
+stores could be involved in amplifying Ca2+ signals in HC
+processes.  We bath-applied the sarco-endoplasmic reticulum
+inhibitor thapsigargin (5 mM), which
+Ca2+ ATPase (SERCA)
+blocks Ca2+ store reﬁll and leads to the depletion of Ca2+
+stores [28], 20 min before the second AMPA/KA puff.  Thapsigargin decreased DF2/DF1 signiﬁcantly (Figures S2C, S2D, and S2F;
+Table 1), suggesting that release from stores contributes to Ca2+
+signals in HC dendrites. 
+In summary, the observed light-evoked Ca2+ signals in HC
+processes result from a combination of Ca2+ sources, in agreement with earlier ﬁndings [13, 28–31].  Moreover, they are modulated by GABA auto-reception (see Figure S3 and Table S1). 
+Light-Evoked Ca2+ Signals in HCs Reﬂect the DorsalVentral Opsin Expression Gradient
+Next, we recorded HC light-evoked Ca2+ responses at different
+locations along the dorsoventral axis of the retina, using the
+mouse opsin expression gradient as a tool to speciﬁcally activate
+different combinations of S- and M-cones.  While the mouse
+retina contains only 5% true S-cones [23], ontogenetic
+M-cones in the ventral retina co-express large amounts of
+S-opsin and, thus, are functional S-cones [24, 32].  Therefore, if
+the spectral preference of the HC Ca2+ signals reﬂects this
+gradient, this indicates that cones (and not rods) dominantly
+drive these signals and that we are recording from HC dendrites. 
+We determined the spectral contrast (SC; STAR Methods) of
+each ROI as a function of its location along the dorsoventral
+axis (Figure 3).  Consistent with the reported opsin gradient
+[32], we found that dorsal HC responses were dominated by
+M- and ventral HC responses by S-opsin activation (Figures 3A
+and 3B).  ROIs located close to the cone axon terminal base
+ 5, Wilcoxon rank-sum test)
+( 4 % dbase % 4 mm) had signiﬁcantly higher absolute SC
+values (jSC-4. +4j = 0. 717 ± 0. 022; mean ± SEM; n = 342) than
+ROIs below (dbase <  4 mm, jSC < 4j = 0. 417 ± 0. 045; n = 28;
+p = 1. 611$10
+(Figure 3C).  This
+suggests that the HC distal tips reﬂect the contacted cone’s
+chromatic preference and, thus, local signals.  More proximal
+dendrites, on the other hand, average across cones, and, thus,
+they show spatial integration, in agreement with the funnel shape
+of the dbase versus SC plot (Figures 3A and 3B).  In the transitional
+zone between dorsal and ventral retina halves, both a UV- and a
+green-dominated ROI population co-exist (Figure 3D).  Opsin
+immunostaining of slices from this zone conﬁrmed that the distribution of UV and green ROIs reﬂects cone opsin expression
+(Figure 3E).  ROIs in the nasal part of the slice were UV sensitive,
+and those in the temporal part were green sensitive, consistent
+with the transitional zone running at a shallow angle relative to
+the naso-temporal axis (Figure 3E, right scheme) [32].  Together,
+Current Biology 27, 3603–3615, December 4, 2017 3605
+Figure 2.  Light-Evoked Ca2+ Responses in HC Processes Are Mediated by the Activation of AMPA/Kainate-type Glutamate Receptors
+(A) Exemplary Ca2+ responses of HC processes to white ﬂashes before (control), after a NBQX puff, and during wash-out. 
+(B) Averaged responses for control (green), NBQX (orange), and wash-out (blue) (trials in gray) for the traces shown in (A). 
+(C–E) Quantiﬁcation of NBQX effects on response baseline (F0, C), amplitude (DF, D), and area under the curve (FArea, E) (average of n = 23 ROIs from 4 slices, 2
+animals).  Error bars indicate SEM; +p % 0. 025, ++p % 0. 005, and +++p % 0. 0005, Bonferroni-corrected signiﬁcance threshold). 
+See also Figures S2 and S3 and Table S1. 
+our data indicate that the activity recorded in ROIs close to the
+cone axon terminal base is mostly cone driven and likely reﬂects
+activity in HC dendritic tips. 
+Local Light-Evoked Ca2+ Signals in HC Dendritic Tips
+Next, we assessed if signals from individual cones remain isolated within HC distal dendrites or if they spread across the cells’
+dendritic arbors (or the electrically coupled HC network) (Figure 1B).  We looked for recording ﬁelds where neighboring
+ROIs had different SC preferences (i. e. , contained ROIs with
+SC > 0 and ROIs with SC < 0).  Indeed, this was the case for 15
+of a total of 125 recording ﬁelds in both dorsal (5 ﬁelds; Figure 3F)
+and ventral retina (10 ﬁelds; Figure 3G). 
+To quantify this ﬁnding, we focused on purely UV and green
+ROIs (jSCj > 0. 3; 7 ﬁelds, 22 ROIs), and we analyzed the distribution of the lateral distance between each UV ROI and its neighbors (Figure 3H).  We found that UV ROIs clustered in close
+proximity (<10 mm) of each UV ROI, suggesting that they are
+driven by the same cone, while the majority of green ROIs
+3606 Current Biology 27, 3603–3615, December 4, 2017
+clustered at larger distances (>10 mm).  The distribution of green
+ROIs appeared to be periodic with the average distance approximating that between cone axon terminals (8 mm, cf.  Figures 1C
+and 1D), indicating that these (green) ROIs were likely driven by
+other cones. 
+HC Dendritic Processes Inherit Properties of the
+Presynaptic Cone
+If HC dendritic tips reﬂect the local cone output, the measured
+signals are expected to share properties with the cone signals
+(see also Figure S4).  To test this, we presented a colored noise
+stimulus (see the STAR Methods), and we measured correlations
+between neighboring cone axon terminals and between neighboring HC dendritic tips in the dorsal retina (Figure 4).  If HCs
+integrated signals globally, e. g. , by averaging across an HC’s
+dendritic arbor or by electrical HC coupling, we would expect a
+higher correlation between HC dendritic tips for the two stimulus
+classes, due to the lateral signal spread, than for cone axon terminals.  The cone recordings were performed in HR2. 1:TN-XL
+Table 1.  Pharmacology for AMPA/KA-type Glutamate Receptors, Voltage-Gated Ca2+ Channels, and Ca2+ Release from Stores
+Pharmacology for AMPA/KA-type Glutamate ReceptorsDF (SD)
+Number of Mice/
+Slices/ROIsControl1. 235 ± 0. 163
+FArea (a. u. )
+Pharmacology for Voltage-Gated Ca2+ Channels and Ca2+ Release from Stores
+1. 024 ± 0. 167
+Number of Mice/
+Slices/ROIs
+Control (5’)
+Verapamil (5’)
+Control (20’)2/3/18AMPA/KA Puff 1
+DF1 [SD]
+3. 106 ± 0. 286
+2. 011 ± 0. 177
+2. 842 ± 0. 209 1. 470 ± 0. 069 (p = 2. 384$10
+0. 156 ± 0. 029 (p = 2. 384$10
+ 0. 012 ± 0. 044 (p = 4. 768$10
+AMPA/KA Puff 2 DF2 [SD]
+(DF2 versus DF1)
+1. 648 ± 0. 198 (p = 1. 025$10
+0. 426 ± 0. 130 (p = 7. 629$10
+2. 293 ± 0. 167 (p = 0. 014)
+0. 814 ± 0. 256 (p = 3. 662$10 7) 7) 6) 1. 348 ± 0. 046 (p = 0. 033)
+0. 362 ± 0. 064 (p = 0. 007)
+0. 257 ± 0. 071 (p = 0. 003)
+DF2/DF1 Median [MAD]
+(versus Control)
+0. 439 ± 0. 137
+0. 127 ± 145 (p = 9. 088$100. 855 ± 0. 284
+0. 499 ± 0. 140 (p = 9. 163$102/4/14
+Thapsigargin (20’)
+NBQX, AMPA/KA-type glutamate receptor antagonist; Ca2+ baseline (F0), amplitude (DF), and area under the curve (FArea) of light-evoked Ca2+
+responses; verapamil, L-type VGCC blocker; thapsigargin, inhibitor of sarco-endoplasmic reticulum Ca2+-ATPases; amplitude puff 1 (DF1), amplitude
+puff 2 (DF2), ratio puff 2/puff 1 (DF2/DF1); MAD, median absolute deviation; SD, standard deviation.  Wilcoxon signed-rank test and Wilcoxon rank-sum
+test (DF2/DF1). 
+2. 297 ± 0. 387
+mice [21] in which cones expressed the Ca2+ biosensor TN-XL
+(cf.  Figure 1D). 
+We calculated the linear correlation coefﬁcient (r) between Ca2+
+traces from cone ROIs (Figures 4A–4C) in the same recording
+ﬁeld, in response to colored noise and to the GUW stimulus. 
+Because the noise is a weaker stimulus compared to the GUW
+ﬂashes, the correlation between cone terminal responses signiﬁcantly decreased for the noise (Table S2), both when only considering negative transients (Figure 4G) and when comparing whole
+traces (Figure 4H).  We repeated this experiment on HCs in
+Cx57+/cre 3 Ai38 mice (Figures 4D–4F), and, indeed, like for the
+cones, the correlation between HC responses decreased for
+colored noise compared to GUW stimulation (Table S2), for negative transients (Figure 4G) and whole traces (Figure 4H). 
+A direct comparison between the two sets of experiments is
+complicated by several factors that inﬂuence the estimation of
+response correlation, including different scan rates for GUW
+versus noise stimuli, different biosensors in cones versus HCs,
+and different ROI sizes.  Nevertheless, our ﬁnding that noise
+stimulation results in a similar (relative) decrease in correlation
+for both the pre- (cone) and the postsynaptic (HC) signal
+(see Dmedian in Table S2) argues in favor of relatively independent signals and possibly local processing in HC distal dendrites. 
+This is further supported by the ﬁnding that nearby HC dendrites
+possibly receiving input from the same cone show a higher degree of correlation (correlation between negative events versus
+distance for noise: Spearman R =  0. 271, p = 2. 28$10Spearman rank correlation test; n = 1,125; Figure S5). 
+We also used the Ca2+ responses to the noise stimulus to estimate the temporal receptive ﬁeld (time kernels, STAR Methods;
+[33]).  In cone axon terminals (Figure 4I) and HC dendritic tips
+(Figure 4J), the time kernels computed using negative Ca2+ transients (cf.  Figures 4C and 4F) displayed robust positive deﬂections.  Grouping cone ROIs by their spectral preference
+(derived from their time kernels; STAR Methods) into green,
+UV, and mixed revealed a fraction of 4% UV ROIs (Figure 4I),
+closely matching the fraction of S-cones in the dorsal mouse
+retina [23].  The averaged time kernels of the different groups
+looked similar for cones and HCs (Figures 4I and 4J); cone kernels appeared to be slightly faster, likely due to differences in
+biosensor properties (TN-XL: tdecay = 0. 2 s, KD in vitro =
+2. 2 mM, from [34]; GCaMP3: tdecay = 0. 23 s, KD in vitro =
+0. 66 mM, from [20, 35]).  HC kernels were noisier than those of
+cones.  This may be related to differences in ROI area (cones:
+9. 6 ± 0. 2 mm2, n = 457 ROIs; HCs: 1. 9 ± 0. 1 mm2, n = 344
+ROIs) and, thus, different spatial averaging.  The fact that we
+observed UV-selective kernels in HC dendritic tips just as in
+cones adds further evidence to the notion that HC dendritic
+tips show highly local Ca2+ signals (cf.  Figure 3). 
+HC Morphology Supports Electrical Isolation of Distal
+HC Dendrites
+To test if the HC morphology supports electrically isolating at its
+dendritic tips, we built a simple, biophysically realistic model of
+a dendritic branch, including synapses with cones based on a
+volume reconstruction from electron microscopy (EM) data (Figure 5; see the STAR Methods for details).  First, we stimulated a
+single HC dendritic tip by injecting a current at the position of
+its synaptic cone contact such that
+the tip depolarized
+to  25 mV.  We measured the resulting voltage and Ca2+ levels
+in all other cone-contacting tips, and we found the membrane
+voltage dropping rapidly with distance from the stimulated tip
+(Figure 5B).  Only in directly neighboring tips (%15 mm distance),
+the depolarization was sufﬁcient to activate VGCCs; however,
+even then the resulting Ca2+ increase was two orders of magnitude smaller compared to the stimulated tip (Figure 5C).  We also
+traced the voltage change from a stimulated tip to the soma (Figures 5D and 5E), showing that the tips were well isolated from the
+rest of the HC’s dendritic arbor.  Finally, we tested if our model
+could reproduce the light-evoked Ca2+ signals: We connected
+a representative mixture of S- and M-cones to the HC, and we
+presented full-ﬁeld light ﬂashes (Figure 5F).  The simulated
+voltage responses resembled the Ca2+ signals we observed in
+distal HC dendrites in terms of time course and spectral preference diversity (e. g. 

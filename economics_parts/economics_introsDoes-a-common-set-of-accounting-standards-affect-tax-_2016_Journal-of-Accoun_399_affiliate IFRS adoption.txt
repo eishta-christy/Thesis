@@ -1,0 +1,461 @@
+
+Multinational entities (MNEs) face tax incentives to shift taxable income from high-tax jurisdictions to low-tax
+jurisdictions by strategically valuing intercompany transactions.  To mitigate tax-motivated transfer prices for goods,
+services, intellectual property, and debt, tax authorities require that transfer prices be “arm’s length,” or comparable to
+prices charged between independent enterprises (Organisation for Economic Cooperation and Development (OECD), 2010a). 
+Because arm’s length contractual prices are generally unobservable, MNEs often benchmark transfer prices by identifying a
+set of observable, economically comparable, and independent companies that use similar accounting standards to compare
+profit margins (PWC, 2006).  Specifically, taxpayers calculate the observable range of book profit rates reported by
+comparable firms and demonstrate that affiliate taxable profits are within this benchmark range (McKinley and Owsley,
+2013).  Adoption across jurisdictions of a common set of accounting standards, such as International Financial Reporting
+Standards (IFRS), expands the set of potential benchmark firms and could allow MNEs more flexibility to support taxadvantaged transfer prices.  However, tax authorities could use a larger set of benchmarks to enforce tighter comparability
+standards, resulting in narrower profit ranges. 
+In this paper, I examine tax-motivated income shifting across jurisdictions following affiliate adoption of a common set of
+accounting standards for unconsolidated financial reporting.  Unconsolidated financial reporting provides separate entity
+accounts for each affiliate of a MNE group.  In contrast to the 2005 mandated use of IFRS for consolidated financial reporting
+in the European Union (EU), countries varied in mandating or permitting IFRS for unconsolidated financial reporting.  As of
+2014, 14 of the 27 EU member states require IFRS for unconsolidated financial reporting for certain types of firms, nine
+countries allow IFRS for certain firms, and four countries do not allow IFRS.  This significant variation in unconsolidated IFRS
+reporting rules by country, year and entity type across the EU makes the EU a powerful setting to address whether unifying
+GAAP at the affiliate level increases MNE flexibility when selecting comparable companies to use in benchmarking transfer
+prices.  My study contributes to the literature by exploiting institutional details of intercompany transfer pricing to
+investigate a tax consequence of countries permitting or requiring IFRS for unconsolidated financial reporting.  I consider
+how an accounting change interacts with tax incentives to affect managerial behavior, thereby addressing an important new
+intersection between financial accounting and tax planning. 
+All EU member countries follow guidance published by the OECD for substantiating intercompany transfer prices. 1 These
+Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations state that,
+for the purposes of
+benchmarking intercompany prices, an “important aspect of comparability is accounting consistency” (OECD, 2010a, p. 
+72).  Thus, holding economic comparability of potential benchmark firms constant, only those firms using similar accounting
+standards best meet the OECD definition of comparability for justifying arm’s length transfer prices (OECD, 2006). 2 Per
+private discussions with global transfer pricing professionals, tax authorities in the EU historically rejected potential
+benchmark firms that use different accounting standards (i. e. , foreign firms using local GAAP).  However, in the years
+following EU countries permitting or requiring IFRS for unconsolidated financial reporting, professionals observe that MNEs
+increasingly rely on multinational (e. g. , pan-European) sets of benchmark firms to justify intercompany prices (Gonnet Name,Permitted or mandated use of a common set of accounting standards in the EU expands the set of benchmark firms
+available to MNEs for substantiating transfer prices, potentially allowing MNEs to choose more favorable benchmarks that
+support a tax-advantaged transfer price.  For example, MNEs with an affiliate in a high-tax jurisdiction could “cherry-pick”
+among potential benchmark firms and select less profitable firms to substantiate low taxable profits for their high-tax
+affiliate.  MNE tax-motivated income shifting could therefore increase following affiliate adoption of IFRS due to increased
+opportunity to garner tax benefits. 
+However, tax-motivated income shifting may remain unchanged or even decrease following affiliate IFRS adoption due to
+limitations to expected benefits and/or increased costs.  First, tax authorities can also use a larger opportunity set of
+benchmark firms to challenge taxpayer-favored transfer prices upon audit, cherry-picking benchmarks that increase taxable
+income in their jurisdiction or enforcing stricter comparability criteria to reduce transfer pricing flexibility. 3 Second,
+increased financial statement transparency upon IFRS adoption could limit tax-motivated income shifting.  Finally, the
+significant costs associated with updating transfer pricing strategies and compliance reports could deter taxpayers from
+taking action.  Whether the equilibrium level of tax-motivated income shifting increases following affiliate adoption of IFRS
+is an empirical question hinging on the cost-benefit tradeoffs of MNEs and taxing authorities. 
+An EU Directive requires that MNE affiliates disclose unconsolidated, separate entity financial statements. 4 Between 2003
+and 2007, many European MNE affiliates changed accounting methods as several EU member states first permitted or
+required IFRS for unconsolidated financial reports.  I use Bureau van Dijk’s Amadeus database, containing European
+unconsolidated financial and ownership information.  This unique database provides unconsolidated financial information
+required to estimate affiliate-level tax incentives and their effect on estimated affiliate-level taxable profits, neither of which
+can be measured using consolidated financial statements or reported segment information. 5 Amadeus also reports which
+financial reporting standards each affiliate uses and affiliate ownership linkages.  Thus, I can identify the effect of a common
+set of accounting standards on tax-motivated income shifting among affiliated firms within the same controlled group. 
+Using a sample of 57,252 profitable affiliate-year observations over the period 2003 to 2012, I test my hypothesis in two
+steps.  First, I document that IFRS adopters experience a substantial increase in the number of potential benchmark firms and
+the range of possible benchmark book profit margins.  Second, I estimate the effects of tax incentives and affiliate IFRS
+adoption on reported affiliate pre-tax profits.  Following Hines and Rice (1994), I estimate affiliate reported book pre-tax
+income as a function of statutory tax rates, affiliate tangible fixed assets, affiliate compensation expense, and per capita GDP. 
+Results suggest that affiliates engage in more tax-motivated income shifting following adoption of IFRS for unconsolidated
+reporting.  Focusing on mandatory adopters because they experienced an exogenous shock to their set of benchmark firms, I
+find that the average mandatory IFRS adopter affiliate shifts 11. 5 percent more income relative to pre-adoption and nonadopter affiliate-years.  I caveat that these results are based on a sample limited to profitable affiliates, affiliates in the EU
+(group affiliates in other locations are not considered), and the relatively homogenous tax rates of Europe.  Further, although
+I conduct tests that separate the effect of changes to the potential benchmark set from accounting changes due to IFRS
+adoption, I am unable to rule out that findings are partially attributable to the accounting standards themselves.  I discuss
+these caveats in more detail below. 
+My study makes several contributions to the literature.  First, this study begins to fill a gap in the literature by providing a
+deeper view of transfer pricing institutional detail. 6 I expose a previously unexplored income shifting mechanism by
+examining the role that independent benchmark firms play in justifying arm’s length prices for intercompany transactions,
+as well as the link between an affiliate’s taxable income and the observable book income of similar, independent firms.  This
+study provides a nuanced understanding of transfer pricing rules and practices used by MNEs to shift income and accrue tax
+benefits.  I use these institutional details to examine an important spillover effect of financial reporting changes on tax
+planning.  To this end, this study answers the call by Shackelford and Shevlin (2001) to move beyond documenting income
+shifting to better explaining, understanding, and predicting income shifting.  Future studies can use this more detailed view
+of transfer pricing institutional features to continue deepening our understanding of the mechanisms through which MNEs
+shift income. 
+Second, although much of the research evaluating the economic consequences of IFRS focuses on the intended benefits
+for consolidated financial reporting, I evaluate the consequences of IFRS for unconsolidated financial reporting. 7 By
+examining the impact of IFRS on the pricing of MNE transactions designed to garner tax benefits, I shed light on a real effect
+of accounting choices made by both jurisdictional standards setters and MNE managers, positing that accounting methods,
+tax incentives, and managerial incentives interact to affect MNE income shifting behavior.  My study is a contribution to the
+literature in that it investigates a previously unexplored effect of countries permitting or requiring IFRS for unconsolidated
+affiliate reporting.  This study demonstrates the potential risks of tax and financial accounting policy makers ignoring the
+interplay between financial accounting and tax. 
+2.  Background
+2. 1.  Tax-motivated income shifting
+Firms shift taxable income in response to tax incentives via the strategic valuation of intercompany sales of goods,
+services, debt and intangibles. 8 To constrain tax-motivated income shifting by MNEs, many countries adopt formal rules to
+regulate intercompany pricing.  Although the European Commission (EC) has the authority to enforce tax policies on EU
+member states, to date the EC has allowed member states to choose their own tax policies (such as tax rates and transfer
+pricing rules) to the extent these policies do not conflict with other EU law. 9 All EU member countries follow the OECD
+Guidelines on transfer pricing. 10
+The OECD Guidelines define the “arm’s length principle” as the basis for substantiating appropriate transfer prices.  The
+arm’s length principle specifies that intercompany prices should be comparable to prices charged by unrelated firms (i. e. ,
+firms held at “arm’s length”) for substantially similar transactions entered into under similar terms and economic
+conditions.  The OECD Guidelines provide a hierarchy of methods to determine intercompany transfer prices to comply
+with this principle.  Under the most preferred methods, taxpayers ideally obtain information on specific contractual terms
+for comparable transactions entered into with or by unrelated enterprises.  However, such information is often unavailable
+for two reasons.  First, private contractual terms between unrelated parties generally are not required to be disclosed. 
+Second, often there is simply no market for the type of transactions entered into by related parties.  For example, parent
+companies typically provide management services to their subsidiaries, including high-level decisions about corporate
+policy and strategy.  However, the parent company rarely provides such services for unrelated companies, and thus there is
+no “arm’s length” price with an unrelated party to be observed. 
+As a result of limited data availability, MNEs frequently use transfer pricing methods further down the hierarchy of OECD
+methods that compare the rate of taxable profit earned on an intercompany transaction to observable book profits earned
+by comparable independent enterprises (PWC, 2006).  For example, the use of external benchmarks to apply the gross profit
+method, the cost plus method, and the transactional net margin method described in the OECD Guidelines follow this
+approach. 11 Profit metrics include markup on total cost, gross margin, operating margin, and net profit (OECD, 2010b).  In the
+case of management services, for example, a firm would typically compare the markup on the cost of management services
+incurred by the parent against the markup on cost achieved by independent management consulting firms operating in
+similar economic conditions. 
+The OECD Guidelines list functions, risks, assets, and economic conditions as primary determinants of comparability, and
+consequently taxing authorities prioritize economic comparability when reviewing a firm’s transfer pricing.  However, the
+OECD Guidelines also note that an “important aspect of comparability is accounting consistency” (OECD, 2010a, p.  73), and
+that “the key is to compare like with like and follow the same accounting principles for the taxpayer and for the
+comparables” (OECD, 2010a, p.  87).  Although the OECD Guidelines indicate that adjustments can be made for dissimilarities
+in accounting rules (or economic comparability), the OECD stated in draft Issues Notes in February 2006 that “in many cases,
+it is almost impossible for a taxpayer to identify all differences in accounting standards and accordingly adjust third party
+accounts on the basis of publicly available information” (OECD, 2006, p.  51).  Because of this difficulty in adjusting for
+differences in reporting, Ernst & Young transfer pricing professionals conveyed that many tax authorities have challenged
+the use of foreign benchmark firms that followed different accounting standards. 12 Although some heterogeneity across
+countries remains, the trend has been for European tax authorities to increasingly accept the use of foreign benchmark firms
+coinciding with increased adoption of IFRS, although some economic adjustments may still be required to account for
+geographic differences. 
+Typically, potential benchmark firms must have publicly available financial information reported using the same financial
+reporting standards as those of the taxpayer.  Because tax returns are generally unobservable, book (financial accounting)
+profits (not tax profits) of comparable companies are used by the taxpayer to compare to their own taxable profits. 13
+Frequently, multiple independent companies comprise a benchmark range of profitability; taxpayers can target any point
+within the benchmark range and be compliant with the arm’s length standard (OECD, 2010a).  The most tax-advantaged
+points in the range are often the endpoints.  For example, if the foreign affiliate is located in a relatively high-tax jurisdiction,
+the lowest profit supported by the arm’s length range minimizes taxes. 14 Taxpayers may make tax-only adjustments to
+transfer prices after closing the financial books but prior to filing the tax return.  Unconsolidated financial statement
+information does not reflect tax-only adjustments; however these topside adjustments are “uncommon… unless something
+material occurs after the end of the year that would require such an adjustment” (Mahalingham, 2013, p.  3).  Depending on
+the company, managerial compensation may be based on a separate managerial set of books. 
+Numerous studies document a negative relation between tax rates and transfer prices or reported profits in broad crosssections of firms, and that the magnitude of tax-motivated income shifting is economically significant.  Focusing on
+investments, Grubert and Mutti (2000) estimate that nearly 19 percent of investments are redistributed based on tax
+incentives. 15 Huizinga and Laeven (2008) estimate that a one percentage point increase in the top statutory tax rate is on
+average associated with a 1. 3 percent decrease in pre-tax book profits for European affiliates of European MNEs, resulting in
+the erosion of up to 13. 6 percent of the tax base in Germany. 
+Similar to my study, several studies address differences in multinational income shifting across firms.  Desai Name (2006)
+examine cross-sectional determinants of the use of tax havens to shift income.  Markle (forthcoming) finds that firms shift
+more income under territorial tax systems than worldwide tax systems.  Swenson (2001) and Blouin Name (2013) study the
+effect of conflicting customs duty and income tax incentives on MNE income shifting behavior. 16 My study most closely
+relates to Klassen and Laplante (2012b), who also examine the interaction of financial reporting standards and transfer
+pricing behavior.  While they focus on the income shifting incentives provided by a financial reporting election that varies in
+usage across firms, my study adds to this literature by focusing on the role that converging accounting standards plays in
+allowing firms to set tax-advantaged intercompany transfer prices. International financial reporting standards
+The development of a common set of international reporting standards has long been the goal of the International
+Accounting Standards Board (IASB) and its predecessor, the International Accounting Standards Committee (IASC), to
+enhance financial statement comparability across jurisdictions (IASB, 2008).  In the absence of a global standard, each
+country sets local generally accepted accounting principles (local GAAP).  Because these standards differ by country, it is
+difficult to compare companies reporting in different jurisdictions. 
+A primary goal and anticipated outcome of IFRS is increased comparability of financial information reported by
+companies in different jurisdictions. 17 However, the IASB (2008) also acknowledges that IFRS will not necessarily result in
+increased comparability due to the principles-based nature of the standards and cross-sectional and timing differences in
+implementation.  For example, Table 1 provides unconsolidated IFRS reporting rules by EU country.  Although the EU
+mandated IFRS for consolidated financial reporting in 2005, the EU designated authority to the member countries to require,
+permit or prohibit IFRS for unconsolidated reporting.  As of 2014, 14 of the 27 EU member states require IFRS for
+unconsolidated financial reporting of certain firms, nine countries allow IFRS for certain firms, and four countries do not
+allow IFRS. 18 Countries also varied in their timing of requiring or allowing IFRS for unconsolidated financial reporting. 
+Several studies document actual increases in financial statement comparability resulting from IFRS.  DeFond Name (2011)
+develop measures of the extent to which uniform accounting standards are adopted and credibly implemented across
+countries, finding that mutual funds are more likely to invest in foreign companies after mandatory IFRS adoption (high
+uniformity), and that high uniformity interacts with credible implementation at the country-level to encourage investment. 
+Daske Name (2008) find that market liquidity, costs of capital, and firm value generally increase upon mandatory IFRS
+adoption.  Several papers examine analyst forecast errors and dispersion (e. g. , Byard Name, 2011; Horton Name, 2012; Tan Name, 2011), finding evidence of increased comparability for IFRS adopters.  Other papers measuring financial statement
+comparability as the relative ability of financial statement information to predict economic outcomes such as stock price,
+returns, and cash flows generally find greater comparability for mandatory IFRS adopters and high enforcement countries (e. 
+g. , Barth Name, 2012; Liao Name, 2012; Yip and Young, 2012). 19 Alternatively, some papers find evidence that IFRS does not
+increase financial statement comparability (Lang Name, 2010) or that results are more consistent with increases in financial
+reporting quality (e. g. , Beneish Name, 2014; Christensen Name, 2013) or self-selection (e. g. , Christensen Name, 2015).  For
+purposes of my study, regardless of the actual impact of IFRS on economic comparability, tax authorities allowing the use of
+IFRS profits to benchmark transfer prices provides the opportunity for MNEs to use a broader range of profits to establish
+transfer prices for tax purposes, thereby enabling more income shifting. 
+Although IFRS and financial statement comparability are the subject of many studies, research examining the link
+between IFRS and tax planning is limited.  Chan Name (2010) investigate the impact of IFRS on tax adjustments in China. 
+Because historical Chinese reporting standards did not differentiate between book and tax accounting, convergence to IFRS
+in China results in decreased book-tax conformity, which this study ties to more overall tax noncompliance.  My study builds
+on this work by investigating whether affiliate adoption of IFRS in the EU affects the ability of MNEs to engage in a specific
+type of tax planning: tax-motivated income shifting. 
+<Middle> Hypothesis development. 
+As a result of IFRS, the equilibrium level of MNE income shifting could increase due to increased transfer pricing
+flexibility.  Increased affiliate adoption of IFRS throughout Europe for unconsolidated financial reporting, culminating in
+mandatory adoption by some EU countries after 2005, expands the opportunity set of benchmark firms available for
+inclusion in arm’s length ranges of profitability.  Because any point in the arm’s length range complies with the arm’s length
+principle, a wider range provides more flexibility to MNEs with multiple affiliates engaged in similar functions but facing
+differing tax incentives.  Thus, tax-motivated income shifting by MNEs may increase following affiliate adoption of IFRS due
+to increased expected tax benefits. 
+Alternatively, the equilibrium level of tax-motivated income shifting may not increase – and may even decrease –
+following affiliate adoption of IFRS because the expected tax benefits may be mitigated or outweighed by expected costs. 
+Affiliate adoption of IFRS also provides tax authorities with a larger opportunity set of benchmarks.  Several practitioner
+publications document an increase in transfer pricing audit rates and adjustments (e. g. , Ernst & Young, 2004, 2005, 2006a,
+2006b, 2008, 2011, 2012, 2013).  In addition, one of the expectations of IFRS is increased financial reporting transparency. 
+Increased transparency resulting from IFRS could hinder the ability of MNEs to shift profits by reducing their ability to hide
+transactions that lack “business purpose,” such as tax-motivated income shifting. 
+Further, the expected tax benefits of income shifting following affiliate adoption of IFRS may be outweighed by
+significant costs associated with changing the transfer pricing.  Huizinga and Laeven (2008) estimate that the costs of income
+shifting are approximately 0. 6 percent of the tax base.  These costs include substantial compliance in the form of studies
+documenting the methods and benchmarks used to determine the range of prices, which are often required by jurisdictions. 
+For some firms, the costs of revamping their transfer pricing strategies and compliance studies to use a new set of
+benchmark firms may outweigh expected tax benefits and therefore mitigate the incentive to change income shifting
+behavior. 
+Due to these competing arguments, I make no directional prediction for tax-motivated income shifting activity following
+affiliate adoption of IFRS for unconsolidated financial reporting and state my hypothesis in the null form below. 
+H10: Tax-motivated income shifting behavior does not change following affiliate adoption of IFRS for unconsolidated
+financial reporting. 
+If IFRS adoption at the affiliate level affects income shifting, then the level of income shifting following affiliate adoption
+of IFRS will be different from the level of income shifting prior to affiliate adoption of IFRS and different from changes in
+income shifting behavior exhibited by non-adopters. 
+4.  Research design. 
+4. 1.  Income shifting model. 
+I adapt the model developed by Hines and Rice (1994) and expanded by Huizinga and Laeven (2008) to estimate the
+effect of affiliate adoption of IFRS on tax-motivated income shifting.  This model is a transformation of the Cobb-Douglas
+production function, an economic model of production as a function of productive assets: capital assets, labor, and
+productivity. 20 Eq.  (1) provides this model. 
+The dependent variable LogPTIi,t is the natural logarithm of book profits before taxes (Amadeus variable PLBT) for affiliate
+i in year t.  Consistent with other income shifting studies (e. g. , Claessens and Laeven, 2004; Collins Name, 1998; De Simone Name, 2015; Dharmapala and Riedel, 2013; Hines and Rice, 1994; Huizinga and Laeven, 2008; Klassen Name, 1993; Klassen and
+Laplante, 2012a, 2012b; Markle, forthcoming), I use book income as a proxy for taxable income.  Separate unconsolidated
+financial accounts are generally considered to have higher book-tax conformity than consolidated accounts, especially in
+some larger EU countries like Germany (Hanlon and Heitzman, 2010). 21
+Ci,t is the tax incentive variable derived by Huizinga and Laeven (2008), defined as follows,
+where τi,t is the statutory tax rate of affiliate i in year t and Bk,t is total revenues (OPRE) for affiliate k in year t.  By taking into
+account the revenue-weighted statutory differential tax rate of all affiliates, this measure captures whether a firm has both
+the incentive and opportunity to shift income into or out of a particular affiliate.  The appendix provides example
+calculations of Ci,t.  Because revenues may be distorted as a result of income shifting, making Ci,t endogenous, in robustness
+tests I substitute RankSTRi,t as the tax incentive variable.  RankSTRi,t is the rank of the affiliate’s statutory tax rate relative to all
+other affiliates in the controlled group in the same year.  This robustness check also mitigates the implicit assumption in the
+Huizinga and Laeven (2008) model that the cost of shifting income into a jurisdiction is the same as the cost of shifting out. 
+Positive values of Ci,t represent a firm’s incentive to shift income out of the affiliate because a positive Ci,t suggests that
+the affiliate faces a high tax rate relative to other affiliates in the controlled group in the same year.  Therefore, prior income
+shifting models predict and find a negative coefficient on Ci,t (Huizinga and Laeven, 2008; Huizinga Name, 2008; Markle,
+forthcoming), reflecting lower pre-tax profits for high-tax affiliates and vice versa. 
+LogAssetsi,t and LogCompi,t are the natural logarithms of affiliate fixed tangible assets (TFAS) and affiliate compensation
+expense (STAF). 22 These variables serve as proxies for capital assets and labor.  LogGDPt,c is the natural logarithm of the
+affiliate country’s per capita GDP as reported by the EC and is a proxy for productivity.  In untabulated tests, I estimate this
+baseline model and find results consistent with prior studies with respect to both economic magnitude and statistical
+significance (Huizinga and Laeven, 2008; Huizinga Name, 2008; Markle, forthcoming).  It is worth noting that the use of
+statutory tax rates is preferable given potential endogeneity introduced by effective tax rates (Grubert and Mutti, 1991). 
+Due to limited reporting of intangible assets and R&D at the affiliate level, I use a model that relies on tangible assets to
+detect tax-motivated income shifting.  The presence of affiliates in the sample with valuable intangible property, or engaged
+in activities not conducive to estimating production using tangible assets, labor and productivity, could add noise to my
+analysis. 23
+4. 2.  Sample selection
+Bureau van Dijk’s Amadeus database provides unconsolidated financial statement and ownership information for
+European companies from 2003 to 2012.  Due to data constraints, I limit the sample to EU-domiciled parents and their
+majority-owned affiliates. 24 I further restrict the sample to controlled group-years with at least one non-domestic EU
+affiliated firm because these controlled groups have the opportunity to shift income within the EU.  These search criteria
+yield 120,908 affiliate-year observations.  I use these affiliate-year observations to calculate the tax incentive variable Ci,t. 
+Table 2 details corporate statutory tax rates used to calculate Ci,t.  Panel A provides rates by EU country and year while Panel
+B details rates by non-EU country. 
+Next, I limit the sample to affiliate-year observations within the 27 EU countries and exclude observations missing
+information necessary to calculate all variables used in estimation.  A dependent variable that is the natural logarithm of pretax book profits (LogPTIi,t) requires excluding affiliate-year observations with zero or negative pre-tax book income,
+consistent with other income shifting studies. 25 The resulting sample is 57,252 profitable affiliate-year observations from
+2,159 unique controlled groups, consisting of 11,891 unique affiliates and representing 24 of the 27 EU member states.  To
+provide a sense of the coverage of this sample, the aggregate assets of sample firms range 121–138 percent of the aggregate
+assets of Euronext 100 companies in the same year over the sample period, and 54–63 percent of the aggregate assets of
+companies listed on the FTSE 100, CAC 40 and DAX 30 exchanges combined.  Table 3, Panel A details sample selection
+criteria. 
+Panel B of Table 3 provides the number of observations by year, country, and IFRS adoption.  Sample affiliate-year
+observations are relatively balanced across years.  France has the most observations at 9,548, whereas there are no
+observations for Cyprus, Greece or Lithuania.  The average number of affiliate-year observations by country is 2,120.  IFRS
+adopters represent a total of 8,831 affiliate-year observations, 5,782 of which are years in which the adopters provide
+unconsolidated financial statements based on IFRS.  This relatively low rate of IFRS adoption for unconsolidated financial
+reporting is consistent with other studies (Jermakowicz and GornikTomaszewski, 2006; Shroff Name, 2014; Watrin Name,
+2014). 26 2005 is the first year of voluntary or mandatory IFRS adoption.  In that year, 5 affiliates voluntarily adopted IFRS in
+Germany, Italy, and Poland.  Also in 2005, 109 affiliates adopted IFRS by mandate in Bulgaria, Malta, Portugal, and Slovakia. 
+The largest increase in IFRS adoption occurs in 2007, when Spain permitted voluntary adoption of IFRS for unconsolidated
+financial reporting.  Spanish affiliates represent a majority of all sample IFRS observations.  For this reason, I confirm that
+inferences are robust to excluding Spanish observations from the sample.  However, future work could examine the Spanish
+setting in more detail, exploring why so many Spanish firms voluntarily adopted IFRS prior to any mandate. 
+4. 3.  Univariate tests of the effect of IFRS on the potential benchmark set and range
+Univariate tests provide evidence of the impact of affiliate IFRS adoption on the size and range of book profits earned by
+the potential benchmark set.  Because potential benchmark firms must be independent firms, I construct the set of potential
+benchmark firms using out-of-sample firms available in Amadeus that are not majority owned and have no single
+shareholder with more than 25 percent direct ownership (i. e. , an Amadeus independence indicator of “A” or greater). 
+Because firms reporting excessive operating margins or owning significant intangible assets would not be reliable
+benchmark firms for the transfer pricing methods described in this study, I eliminate independent firms reporting
+operating margins greater than 50 percent to mitigate the effect of outliers.  I also use the most common IRS screen to
+eliminate independent firms reporting significant research and development (R&D) expense as a percent of sales (IRS,
+2009), relying on anecdotal practitioner guidance of a three percent threshold. 27 I match these independent firms to sample
+affiliates based on two-digit NACE industry classifications, revenues within 25 percent of affiliate revenues, and accounting
+standards used.  Results are robust to alternatively matching on three- or four-digit NACE industry classifications, within 10
+percent of affiliate revenues, no revenue restriction, and no operating margin or R&D restriction. 
+I next calculate the number and range of book profits earned by potential benchmark firms for each sample firm.  I
+measure these benchmark set attributes both before and after IFRS adoption, then calculate the change.  The post-IFRS
+period includes affiliate-years in which IFRS adoption is required or permitted for unconsolidated financial reporting.  For
+countries that do not allow IFRS for unconsolidated financial reporting, I consider the post-IFRS period to be 2005 and after. 
+Defining a post-IFRS period in this way allows me to compare changes in potential benchmark sets of IFRS adopters upon
+IFRS adoption to changes in potential benchmark sets of non-adopters (some of which are not permitted to adopt IFRS) over
+the same period. 
+ΔSetSizen is the number of independent firms in the nth year of the post-IFRS period using the same accounting
+standards and in the same industry as the affiliate, less the number of independent firms in the last year prior to the postIFRS period using the same accounting standards and in the same industry as the affiliate.  For example, for a non-adopter
+permitted to adopt IFRS in 2007, ΔSetSize1 is the number of local GAAP independent firms in the affiliate’s country and
+industry in 2007 less the number of local GAAP independent firms in the affiliate’s country and industry in 2006.  Thus,
+ΔSetSizen measures the absolute change in the number of potential benchmark firms available to an affiliate.  I calculate this
+measure in each of the first three years post-IFRS and compare the averages across IFRS adopters and non-adopters. 
+ΔRangen and ΔIQRangen measure changes to the full and interquartile ranges, respectively, of book pre-tax profit
+margins earned by the set of independent firms that are potential benchmarks for arm’s length transfer prices.  ΔRangen is
+the full range (maximum value less minimum value) of pre-tax profit margins (pre-tax book income scaled by sales) earned
+by the affiliate’s potential benchmark set in the nth year of the post-IFRS period less the full range of pre-tax profit margins
+earned by the affiliate’s potential benchmark set in the year prior to the post-IFRS period.  ΔIQRangen is the analogous metric
+using the interquartile range (75th percentile value less 25th percentile value). 28 A value of these measures less than zero
+indicates that the range of benchmark book profit margins shrinks in the post-IFRS period, whereas a value of these
+measures greater than zero indicates that the range of benchmark book profit margins increases.  I calculate ΔRange and
+ΔIQRange in the first, second, and third years of the post-IFRS period for both IFRS adopters and non-adopters for
+comparison purposes. 
+4. 4.  Regression tests of IFRS adoption
+To test whether tax-motivated income shifting changes following affiliate adoption of IFRS, I adapt the income shifting
+model from Huizinga and Laeven (2008) to include an indicator variable for IFRS adoption affiliate-years and estimate Eq. 
+(2) below using robust regression to mitigate the influence of outliers. 29 IFRS is equal to one for affiliate-years reporting
+unconsolidated financial statements on an IFRS basis and zero otherwise. 
+The coefficient b3 on the interaction between Ci,t and IFRSi,t is the primary variable of interest.  A significant coefficient b3
+indicates that, other things equal, IFRS adopters change their income shifting behavior after IFRS adoption, relative to preadoption years and relative to non-adopter affiliate-years.  A positive coefficient on b3 suggests IFRS adopters engage in less
+tax-motivated income shifting after IFRS adoption, whereas a negative coefficient on b3 suggests IFRS adopters increase taxmotivated income shifting in the years of or after adoption. 
+The coefficient b1 provides the estimated main effect of the revenue-weighted statutory tax incentive variable Ci,t.  I
+expect a negative coefficient on Ci,t, consistent with prior evidence of tax-motivated income shifting.  Specifically, a negative
+coefficient on Ci,t suggests lower than expected pre-tax profits reported by affiliates facing relatively high statutory tax rates
+as compared to other affiliates in the controlled group, and vice versa.  The change in accounting standards used by IFRS
+adopters could lead to mechanical and systematic changes in reported pre-tax book income.  Because I have no prediction for
+which direction IFRS adoption should change reported pre-tax book income, I make no prediction for the sign of the
+coefficient on IFRSi,t (b2).  Because the change in financial reporting standards could also lead to mechanical changes in
+Assetsi,t and Compi,t, I confirm that results are robust to including interactions between IFRSi,t and the control variables. 
+LogAssetsi,t, LogCompi,t and LogGDPt,c control for factors of production expected to predict true pre-tax income.  LogAssetsi,t
+and LogCompi,t also help control for any potential differences in size between the IFRS adopters and non-adopters.  I expect
+the coefficients on these control variables to be positive, consistent with economic theory that production increases in
+productive assets and country-year productivity. 
+To account for potential differences in accounting rules and financial reporting incentives for parents and listed affiliates,
+Eq.  (2) includes indicator control variables Parenti and Listedi in all specifications.  I make no prediction for how these
+controls affect pre-tax income.  I attempt to control for country-specific deviations from the statutory tax rate or differences
+in tax regime (e. g. , patent boxes, negotiated rates to attract investment, other business taxes) by using country fixed effects. 
+Industry fixed effects control for differences in income shifting opportunities and the impact of accounting standards on
+reported pre-tax income across industries.  Year fixed effects control for changes in macroeconomic conditions over time. 
+5.  Results. 
+5. 1.  Descriptive statistics. 
+Table 4 provides descriptive statistics.  The full sample of 57,252 profitable affiliate-years reported median (mean)
+revenues of $16. 8 million ($187 million), and pre-tax book income of $0. 88 million ($18. 8 million) over the period 2003–
+2012.  These firms also reported median (mean) tangible fixed assets of $0. 91 million ($37. 1 million) and compensation
+expense of $2. 4 million ($23. 9 million).  On average, these firms have a revenue-weighted differential tax rate Ci,t of  0. 01,
+representing a tax incentive to increase profits in the jurisdiction.  The median tax incentive variable Ci,t is zero.  Global
+ultimate owners (parents) of a MNE controlled group represent 10. 7 percent of affiliates in the sample, 37. 5 percent of
+affiliates have a parent that is listed on a stock exchange (or are the listed parent), and 2. 7 percent of affiliates are themselves
+listed on a stock exchange. 
+Table 4 also compares firm characteristics of IFRS adopters to those of non-adopters.  IFRS adopters have smaller mean
+revenues, mean and median pre-tax book income, mean assets, and mean and median compensation expense than nonadopters.  IFRS adopters are also more likely to be parents and listed affiliates than non-adopters, which is consistent with EU
+unconsolidated financial reporting rules that focus on parent and listed firms. 
+5. 2.  Univariate tests of the impact of IFRS on the potential benchmark set and range
+I first examine whether there is a differential change to the set of potential benchmark firms for IFRS adopters as
+compared to non-adopters.  Panel B of Table 4 reports these results.  ΔSetSizen is the number of independent firms in the nth
+year of the post-IFRS period using the same accounting standards and in the same industry as the affiliate, less the number
+of independent firms in the last year prior to the post-IFRS period using the same accounting standards and in the same
+industry as the affiliate.  The data show that ΔSetSize is significantly greater for IFRS adopters than non-adopters, both at the
+mean and median level.  For example, in the initial year of the post-IFRS period, IFRS adopters experience a mean increase in
+the number of potential benchmark firms of 25, compared to a mean increase of 0. 43 for non-adopters. 
+IFRS adopters also experience a significant increase in the full and interquartile ranges of pre-tax book profit margins
+(pre-tax book profit scaled by revenues) of independent firms operating in the same two-digit NACE industry classification. 
+ΔRangen (ΔIQRangen) is the maximum value less minimum value (75th percentile value less 25th percentile value) of pretax book profit margins earned by the affiliate’s potential benchmark set in the nth year of the post-IFRS period less the full
+(interquartile) range of pre-tax book profit margins earned by the affiliate’s potential benchmark set in the year prior to the
+post-IFRS period.  The data in Table 4 show that in the first year of affiliate IFRS adoption, the mean change in the full
+(interquartile) range of book profit margins of potential benchmark firms for IFRS adopters is an increase of 16. 8 (2. 17)
+percent.  This is significantly different than the mean change in the full (interquartile) range of book pre-tax profits
+experienced by non-adopters of 0. 24 (0. 22) percent.  Together, these univariate results document that IFRS adopters
+experience a substantial increase in the number of potential benchmark firms and the range of possible benchmark profits
+upon IFRS adoption. 
+5. 3.  Regression tests of IFRS adoption. 
+Table 5 reports results of multivariate regressions that test the effect of affiliate adoption of IFRS on income shifting.  I
+estimate Eq.  (2) using robust regression to mitigate the effect of outliers.  The columns of Table 5 vary by sample
+composition.  Column (a) presents results on the full sample of 57,252 EU affiliate observations.  To mitigate the concern that
+firms voluntarily adopt IFRS because a common set of accounting standards increases flexibility in setting intercompany
+transfer prices, Column (b) excludes voluntary adopters from the sample.  Column (c) excludes Spanish observations because
+IFRS observations are heavily weighted towards Spanish affiliates in the sample.  Column (d) only includes the most recent
+three sample years, following Shroff Name (2014), to address the concern noted by Markle and Shackelford (2014) and Shroff
+Name (2014) that affiliate ownership data in the Amadeus database is only based on the most recent year in the sample. 
+Column (e) limits the sample to MNE groups for which all affiliates are observable in the Amadeus database. 
+All specifications include industry, country, and year fixed effects, and control for whether the affiliate is a parent and
+listed.  Results are robust to controlling for fixed effects at the country, industry, year, and MNE group level; to controlling for
+group, industry, and parent-affiliate country-pair fixed effects following Shroff Name (2014); and to only controlling for group
+and year fixed effects. 30 Results are also robust to including interactions between IFRSi,t and the control variables.  The
+coefficient on the primary variable of interest, the interaction between Ci,t and IFRSi,t, is negative and significant across all
+columns.  These results support that IFRS adopters increase tax-motivated income shifting behavior following adoption,
+relative to pre-adoption years and to non-adopter affiliates. 
+The coefficient on the main effect of tax incentives on the log of pre-tax income is negative and significant across most
+columns, representing a negative association between pre-tax income and affiliate differential statutory tax rates.  This result
+is consistent with prior work and suggests that all affiliates on average respond to income tax incentives when reporting
+profits.  The estimated coefficient on the main effect of IFRS is positive and statistically significant in most columns,
+suggesting that estimating taxable profits generally increase for IFRS adopters.  The coefficients on LogAssetsi,t, LogCompi,t,
+and LogGDPt,c are generally positive and significant, consistent with prior income shifting studies.  The coefficients on Parenti
+and Listedi are also positive and significant across all columns. 
+Results from the full sample in Column (a) suggest that for non-IFRS observations, an interquartile change in Ci,t (0. 03) is
+associated with a 1. 1 percent tax-motivated change in reported book pre-tax income (0. 3504  0. 03), or $221,388 using the
+mean reported book pre-tax income of $20. 5 million for non-IFRS adopters.  For an IFRS observation, an interquartile change
+in Ci,t is associated with a 12. 4 percent tax-motivated change in reported pre-tax book income ((0. 3504þ3. 6855)  0. 03), or
+$1. 1 million using the mean reported pre-tax book income of $9. 25 million for IFRS adopters.  The incremental tax-motivated
+change in reported book pre-tax income associated with IFRS adoption is 11. 3 percent or $1. 0 million. 
+Focusing on mandatory adopters because they experienced an exogenous shock to their set of potential benchmark firms,
+results in Column (b) suggest that the average mandatory IFRS adopter affiliate shifts 11. 5 percent more income relative to
+pre-adoption and non-adopter affiliate-years.  Results across all columns estimate that the incremental tax-motivated
+change in reported book pre-tax income associated with IFRS adoption ranges from 10. 8 percent to 12. 5 percent.  Median
+regression suggests that the incremental tax-motivated change in median book pre-tax income associated with IFRS
+adoption is 11. 0 percent or $94. 5 thousand.  These economic magnitudes are comparable to other recent income shifting
+studies.  Markle (forthcoming) estimates that the average affiliate of an MNE headquartered in a country with a territorial tax
+system reduces its reported pre-tax income by 11. 1 percent in response to an increase in the tax incentive variable of 0. 1; the
+average affiliate of an MNE headquartered in a country with a worldwide tax system reduces its pre-tax income by 6. 3
+percent in response to the same tax incentive change.  Klassen and Laplante (2012b) estimate that US multinationals exhibit
+differential foreign returns on sales (a measure of income shifting) of up to 5. 3 percent in response to reinvestment and
+financial reporting incentives, however comparing this economic magnitude to mine is difficult given the different income
+shifting measures used (changes in foreign return on sales versus changes in pre-tax income). 
+6.  Additional analyses and robustness tests. 
+6. 1.  Cross-sectional differences in changes to the potential benchmark set. 
+I examine cross-sectional differences in changes to the set of potential benchmark firms upon affiliate IFRS adoption. 
+Changes to the set of potential benchmark firms likely vary between mandatory and voluntary adopters.  Voluntary adopters
+may experience a decrease in the number of potential benchmark firms using IFRS across the EU (and therefore decreased
+transfer pricing flexibility) if early adoption rates are low.  However, income shifting benefits could provide an incentive for
+affiliates to voluntarily adopt IFRS in countries where permitted, and voluntary adopters may as a result experience the
+largest changes to the potential benchmark set.  I therefore examine whether the effect of affiliate IFRS adoption on income
+shifting is different between voluntary and mandatory adopters by estimating Eq.  (3) below using robust regression to
+mitigate the influence of outliers. 
+Following Daske Name (2008), Earlyi,t is an indicator variable equal to 1 for IFRS adoption affiliate-years if the affiliate is
+located in a country with mandated IFRS but the affiliate first adopted IFRS voluntarily prior to the effective date of the
+mandate.  FirstTimeMandatoryi,t is an indicator variable equal to 1 for IFRS adoption affiliate-years if the affiliate first adopted
+IFRS upon the effective date of the mandate.  Voluntaryi,t is an indicator variable equal to 1 for IFRS affiliate-years of voluntary
+adopters located in countries without a mandate.  As before, I include Parenti and Listedi as control variables, as well as
+country, industry, and year fixed effects.  Results are robust to additionally including MNE group fixed effects. 
+Columns (a) and (c) of Table 6 compare tax-motivated income shifting across four subsamples: IFRS affiliate-years of
+affiliates that originally voluntarily adopted IFRS prior to a mandate, IFRS affiliate-years of affiliates that first adopted IFRS
+upon mandate, IFRS affiliate-years of affiliates that voluntarily adopted IFRS in countries without a mandate, and non-IFRS
+affiliate-years.  In Columns (b) and (d), I group all voluntary adoption affiliate-years (early mandatory and non-mandatory)
+together.  Columns (a) and (b) present results for the full sample and Columns (c) and (d) limit the sample to the three most
+recent sample years. 
+The interaction between Ci,t and FirstTimeMandatoryi,t is negative and statistically significant across all columns.  The
+interaction between Ci,t and Voluntaryi,t is negative and significant in Columns (a) and (b), however an F test suggests no
+difference in the effect of IFRS adoption on tax-motivated income shifting between mandatory and voluntary adopters in
+any column.  The interaction between Ci,t and Earlyi,t, in Column (c) is positive and significant, suggesting that affiliates that
+first adopted IFRS voluntarily prior to a mandate actually experience reduced transfer pricing flexibility upon IFRS adoption. 
+In untabulated tests, I also isolate the effect of an expansion to the potential benchmark set separate from the affiliate’s
+change in accounting due to IFRS adoption.  Using IFRS adopters that voluntarily adopted prior to a mandate as the treatment
+group, I test the change in tax-motivated income shifting when mandatory adopters switched to IFRS.  For voluntary
+adopters, the IFRS mandate represents an exogenous increase in the size and range of profits reported by potential
+benchmark firms.  However, since the treatment firms in this test already adopted IFRS prior to the mandate, their
+accounting does not change at the time of the shock.  Consistent with predictions, I find a negative and significant coefficient
+on the interaction between the tax incentive variable and the mandatory IFRS adoption period.  This result suggests that
+voluntary adopters increase tax-motivated income shifting following changes to the potential benchmark set upon
+mandatory adoption of IFRS. 
+Finally, I examine whether IFRS adoption has the largest effect on those firms that experience the largest changes to the
+benchmark set.  I use IFRS adoption as an instrumental variable and employ a two-stage least squares model on the
+subsample of mandatory adopters to isolate the portion of the change to the benchmark set that is exogenous to the firm. 
+The first stage regression identifies exogenous changes in the range of pre-tax profit margins reported by the set of potential
+benchmark firms due to IFRS adoption.  The second stage uses the predicted value of ΔRange1 or ΔIQRange1 and their
+respective interaction with the tax incentive variable to explain pre-tax book income.  First-stage results suggest that the
+effects of IFRS adoption on ΔRange1 and ΔIQRange1 are positive and statistically significant.  In the second-stage regression, I
+estimate negative and significant coefficients on the interactions between the predicted values of these variables and the tax
+incentive variable Ci,t, consistent with affiliates with larger changes to the benchmark range of profits engaging in more taxmotivated income shifting following IFRS adoption. 31
+6. 2.  Timing of effect
+Two untabulated tests assess how quickly the effect of IFRS adoption on income shifting takes place.  First, instead of
+comparing all IFRS adoption years to all pre-adoption and non-adopter years, I compare each year of IFRS adoption to all
+pre-adoption and non-adopter years.  The economic magnitude of the coefficient on the interaction between Ci,t and IFRSi,t is
+generally lower in the first three years of affiliate IFRS adoption (ranging from  1. 9784 to  2. 5951) as compared to the
+range in all later years ( 3. 1306 to  4. 7560), however economic significance declines as time since adoption passes. 
+Second, I create an indicator variable for each year of affiliate IFRS adoption and include both the main effect of these
+indicators and their interactions with Ci,t in Eq.  (2). 

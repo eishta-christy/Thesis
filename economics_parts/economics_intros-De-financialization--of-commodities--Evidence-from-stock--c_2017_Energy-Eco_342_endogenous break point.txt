@@ -1,0 +1,530 @@
+
+After the equity market collapsed in 2000, many institutions considered commodities a new asset class after the widely publicized
+discovery of a negative correlation between commodity returns
+and stock returns by Gorton and Rouwenhorst (2006) and Erb and
+Harvey (2006).  As a result, billions of investment dollars ﬂowed
+into commodity markets from ﬁnancial institutions, insurance
+companies, pension funds, foundations, hedge funds, and wealthy
+individuals (Wang Name, 2015.  Mi Name, 2017).  A sharp increase in
+the popularity of commodity investing in the past decade has triggered
+an unprecedented inﬂow of institutional funds into commodity futures
+markets, referred to as the ﬁnancialization of commodities (Basak and
+Pavlova, 2016).  In recent years, many experts have noticed the
+inﬂuence of ﬁnancialization on commodity markets or the correlation
+between commodity markets and ﬁnancial markets. 
+As stated by Tang and Xiong (2012), the large index investment
+ﬂow precipitated a fundamental process of ﬁnancialization among commodity markets, and the vast inﬂows led to a process of integration
+of commodity futures markets with other ﬁnancial markets in which
+portfolio rebalancing of index investors can cause volatility spillovers
+from outside to commodity markets.  Speciﬁcally, they document that
+the co-movement between oil and other commodities has risen dramatically following the inﬂow of institutional investors starting fromRecently, Adams and Glück (2015) show that large inﬂows into
+commodity investments, i. e. , ﬁnancialization, has changed the behavior
+and dependence structure between commodities and the general stock
+market, and predict that the spillovers between commodities and the
+stock market to remain high in the future, given that institutional investors continue to target funds into commodities.  Basak and Pavlova
+(2016) ﬁnd that with ﬁnancialization, i. e. , in the presence of institutional investors, the prices and volatilities of all commodity futures go up,
+but more so for the index futures than for non-index ones.  Meanwhile,
+the correlations among commodity futures as well as in equitycommodity correlations also increase, with higher increase for index
+commodities. 
+Some authors focus on the ﬁnancialization related with oil markets. 
+Based on the empirical results, Juvenal and Petrella (2015) support the
+view that the recent oil price increase is mainly driven by the strength
+of global demand but that the ﬁnancialization process of commodity
+markets also plays a role.  Yin and Yang (2016) conﬁrm that the
+predictive power of technical indicators outperforms the wellknown macroeconomic variables, and their ability to predict the oil
+price stems in part from its ability to predict changes in sentiment,
+suggesting the ﬁnancialization of oil markets. 
+Besides, stronger investor interest in commodities may create
+closer integration with conventional asset markets (Babcock, 2012. 
+Silvennoinen and Thorp, 2013.  Yao Name, 2017).  as a result, the
+ﬁnancialization process also enhances the correlation between commodity markets and ﬁnancial markets.  In order to assess how commodities and ﬁnancial markets are inter-related during 1983–2013, Aboura
+and Chevallier (2015) introduce a ‘volatility surprise’ component into
+the asymmetric DCC with one exogenous variable (ADCCX) framework,
+and ﬁnd that return and volatility spillovers do exist between commodity and ﬁnancial markets and that in turn, their relative impact on each
+other is very substantial.  Silvennoinen and Thorp (2013) estimate
+sudden and gradual changes in correlation among stocks, bonds and
+commodity futures returns, and ﬁnd that most correlations begin the
+1990s near zero but closer integration emerges around the early
+2000s and reaches peaks during the recent crisis, and higher volatility
+index (VIX) also increases commodity returns correlation with equity
+returns for about half the pairs, indicating closer integration. 
+Due to the wide openness and free movement for investment funds
+in the U. S.  stock market, international crude oil and natural gas markets,
+a large number of investment funds can swarm into and out of these
+markets with limited restrictions and the dynamics of stock market
+volatility becomes a crucial impetus for crude oil and natural gas price
+ﬂuctuations and investment decisions.  Meanwhile, crude oil and natural
+gas play strategic roles in social economic development around the
+world, and the extreme volatility of crude oil and natural gas prices
+tends to signiﬁcantly affect the economic situation and stock market
+returns (Aboura and Chevallier, 2016).  As a result, there can be found
+close interaction among these markets.  in particular, the inﬂuence of
+stock market instability on crude oil and natural gas markets has
+received extensive attention from academics, practitioners and
+government (Zhang and Wei, 2011.  Mohanty Name, 2011.  Broadstock
+and Filis, 2014.  Bianconi and Yoshino, 2014). 1
+Moreover, the degree of investor risk appetite has proven to affect
+the volatility of stock market returns (Kim Name, 2014), and caused
+the ﬂuctuations of crude oil and natural gas markets.  Consequently,
+some authors ﬁnd that stock market investment risk appetite may
+have signiﬁcant inﬂuence on crude oil and natural gas markets (Sari
+Name, 2011).  The volatility index (VIX) of stock markets is often regarded
+as a proxy for risk aversion or investor sentiment (Bekaert Name, 2011. 
+Silvennoinen and Thorp, 2013).  Speciﬁcally, the higher of the VIX
+becomes, the more uneasy investors would feel about the stock
+markets.  Conversely, the lower the VIX appears, the smoother the
+changes of stock market index will be.  Among the empirical studies,
+Kurov (2010) shows that the market investors' sentiment (using VIX
+as one of the proxies) plays a signiﬁcant role in the impact of the
+monetary policies on the stock markets, and monetary policy shocks
+have strong impact on investors' sentiment in bear markets. 
+To dig further on this analysis, we study the relationship and
+correlation dynamics between crude oil, natural gas and stock market
+risk aversion or investor sentiment as captured by the VIX and
+VSTOXX indexes in this paper.  Namely, we investigate whether the
+crude oil and natural gas market volatility is inﬂuenced by the VIX in
+the stock market or whether these different variables move all together. 
+Our objective lies in answering the following research questions.  What
+are the interactions between crude oil, natural gas and stock market
+VIX.  Do some of these markets move together over time.  Whether
+the de-ﬁnancialialization in energy commodities occurs after the 2008
+global ﬁnancial crisis.  These questions are essential to understand
+whether crude oil and natural gas markets are driven only by their
+fundamentals, or whether there is also a systemic component inﬂuenced by the volatility present within the stock markets.  The empirical
+results indicate that the turbulent periods coincide with an increase
+in cross-market co-movements.  Our ﬁndings support the existence
+of contagion from stock market panic on crude oil and natural gas
+markets, and show that the ﬁnancialization of crude oil and natural
+gas markets remains after the 2008 ﬁnancial crisis, while there is no
+de-ﬁnancialization after all. 
+The rest of the paper is structured as follows.  Section 2 presents the
+relevant literature review.  Section 3 gives research methods and data
+descriptions in this paper.  Section 4 provides the empirical results and
+analyses, and Section 5 concludes. 
+2.  Relevant literature review. 
+The VIX is a volatility index quoted on the Chicago Board of Option
+exchange since 1990 and uses the call and put option of different
+maturities with the S&P 500 index as an underlying.  It is computed as
+the weighted average on the price of these options (call and put)
+and represents the annualized volatility of the last 30 days of the S&P
+500 with percentage.  The VIX has often been called the “investor fear”
+index.  In fact, it is deducted from the price of the option.  A high option
+price means a high price for uncertainty.  This is why the VIX has often
+been used as a proxy for market sentiment or as an “investor fear
+gauge” by practitioners (as mentioned by Whaley, 2000).  More
+generally, it is often used by traders and studies as an index for global
+risk perception on the ﬁnancial markets (Sari Name, 2011). 
+A growing number of studies argue that there exists obvious impact
+of stock market VIX on crude oil and natural gas markets.  For example,
+Broadstock and Filis (2014) argue that stock market return is affected by
+the VIX and there is signiﬁcant time-varying linkage between crude oil
+price and stock returns.  In particular, since the VIX implies the market
+risk perception of investors, Sari Name (2011) ﬁnd the long-run equilibrium relationship between global risk perception and world crude oil
+price, and oil price may be affected by the short-term negative impact
+of the shocks on global investors risk perception. 
+The changes of stock market VIX prove to be often inﬂuenced by the
+uncertainties of ﬁnancial and economic situation, and then exert some
+shocks on crude oil and natural gas markets.  Some literature indicates
+that the interaction between the VIX and ﬁnancial risk variables proves
+signiﬁcant (Cochran Name, 2012).  as a result, crude oil and natural gas
+prices would see signiﬁcant ﬂuctuations when ﬁnancial and economic
+environment changes (Kolodziej Name, 2014), and then crude oil and
+natural gas market prices would be impacted by the increasing degree
+of VIX due to the uncertainty in investment environment.  During the recent ﬁnancial crisis, monetary policies have been adjusted meanwhile
+the VIX has also appeared signiﬁcant changes, which is consistent
+with the contagion effect and interdependence between crude oil and
+stock markets (Wen Name, 2012).  speciﬁcally, when one market is impacted by some new information, the volatility in the other market
+would be inﬂuenced as well (Vo, 2011). 
+It should be noted that a body of studies have shed light upon
+the inﬂuence of the VIX on oil returns, but fewer have been conducted on the impact of
+the VIX on natural gas markets. 
+Panagioditis and Rutledge (2007) document over a period from
+1996 to 2003 that UK crude oil and natural gas markets (Brent
+and NBP) are strongly interrelated and cointegrated.  Due to oilformula indexation present in gas contract, to the proximity of
+oil and gas reserves and to the substitutability of these two
+markets, it is often admitted that these both markets were strongly
+interconnected.  However, they have different pricing mechanisms. 
+therefore, it is imperative to examine the impact of stock market
+VIX on natural gas markets. 
+To sum up, the stock market VIX reﬂects the complexity of investors' psychological process, and is inﬂuenced by various factors
+simultaneously.  Meanwhile, it has signiﬁcant time-varying property, which causes the spillover effect of the VIX on crude oil and
+natural gas markets to be also time-varying.  However, little literature has shed light upon the time-varying spillover effect of stock
+market VIX (or VSTOXX from the European side) on crude oil
+and natural gas markets.  Besides, unexpected events are very common in stock markets to affect investors' returns, but little literature investigates its inﬂuence and considers the threshold
+volatility spillover between stock market VIX and crude oil and
+natural gas markets.  In fact, the results based on the volatility
+spillover will be helpful to foresee crude oil and natural gas market
+ﬂuctuations, so as to effectively design investment portfolios and
+address market extreme risks. 
+<Middle> Methods and data. 
+3. 1.  Methods. 
+In order to highlight the spillover effect between stock markets VIX
+on commodities, multivariate GARCH-type models have mostly been
+used in the literature on volatility transmission as they allow for
+the joint modeling of variances and covariances between different
+variables.  Among the different speciﬁcations of multivariate GARCH
+models, (i. e. , CCC, DCC, VECH and BEKK),2 we propose to use the
+methodological framework of the Volatility-Threshold Dynamical
+Conditional Correlation (VT-DCC) put forward by Kasch and Caporin
+(2013) in this paper.  The econometric procedures unfold for six daily
+time series taken from the American and European markets.  Speciﬁcally,
+WTI crude oil, Henry Hub natural gas, and the stock market VIX composes the U. S.  markets, while Brent price, Natural Gas Balancing Point
+and the VSTOXX form the European markets.  In order to determine
+which variables behave similarly, we ﬁrst apply the Zivot and Andrews
+(2002) unit root test with endogenous break detection on the raw series. 
+This test constitutes our ﬁrst attempt to understand the interactions at
+stake among these variables, and to detect clusters.  Then, we proceed
+with a GARCH analysis to extract the conditional volatility from the
+return series.  After running a threshold search in the quantile of the
+conditional volatility series, we analyze violations with respect to
+their thresholds.  More precisely, we analyze whether each conditional
+volatility series violates its own threshold at the same date as
+another series.  Finally, we run a DCC analysis for all the pairs (n = 6,
+and [n ∗ (n − 1)] / 2 = 15 in total), and determine whether the correlation peaks occur at the same moment for different pairs.  Our objective
+is then to cluster the pairs that are the mostly correlated into blocks, and
+to run a Block-DCC type tests considering these blocks in order to check
+the robustness of these relationships, and to understand more deeply
+the correlation dynamics and volatility peaks. 
+The VT-GDCC model is the extension of the DCC model proposed
+by Engle (2002) and the Asymmetric DCC (ADCC) by Cappiello
+Name (2006).  In the VT-GDCC model, the dynamic correlation depends
+on variance values through a threshold structure.  Speciﬁcally,
+according to Kasch and Caporin (2013), we consider an n-variate
+conditional process εt with zero mean and covariance matrix Ht as
+follows. 
+εtjFt−1  U 0.  Ht
+where εt indicates either a vector of zero mean returns or the vector
+of residuals obtained from the return mean model.  Ft − 1 is the
+information set available up to time t − 1.  U(•) denotes that εt is
+identically distributed following an unspeciﬁed density.  Then the
+covariance matrix Ht is decomposed into volatility and correlation
+as Eq.  (2). 
+where hi, t is the conditional volatility of asset i at time t and obtained from the univariate GARCH model, and Rt is the dynamic conditional correlation (DCC) matrix.  Then the variance standardized
+residual series is deﬁned as Eq.  (4). 
+In the GDCC model proposed by Cappiello Name (2006), the dynamic
+conditional correlation is deﬁned as follows. 
+where Q denotes a correlation matrix of dimension n, while A and B are
+n × n parameter matrices.  According to Cappiello Name (2006), in order
+to restrict the parameter matrices to be diagonal, the individual
+elements of Qt are deﬁned as follows where αi and βi are the elements of the parameter matrices A and B,
+and i,j=1,2,…n.  Then, we model a threshold structure based on the
+volatility levels as follows where νij,t are the elements of a dummy variable matrix Vt, indicating
+the threshold violation, and V ¼ E½V t, and γi are the elements of the
+diagonal parameter matrix Γ.  The general speciﬁcation of the volatility
+threshold dummies νij, t depends on the hypothesis to be tested. 
+Consider two alternative designs of νij,t as follows where xi and xj are the volatility thresholds for assets i and j, respectively.  We suggest to deﬁne the volatility threshold as xi=Q i(δi), where δi is
+the quantile level (namely, a parameter assuming values between 0 and
+1) and Q i(δi) denotes the empirical δi quantile of the conditional
+variance process hi,t. 
+Besides, we can impose block structures on the parameter matrices
+to reduce the parameter space dimension.  For instance, we cluster the
+n variables into m b n non-overlapping groups, and the elements of Q t
+are shown as Eqs.  (10) and (11), i. e. , the Block-VT-GDCC model
+(Kasch and Caporin, 2013). 
+where i,j∈l,l=1, 2,…m, and l and k are the groups including assets i
+and/or j.  Based on the equations of the Block-VT-GDCC model, we can
+deduce the simple VT-DCC speciﬁcation as Eq. 
+3. 2.  Data description. 
+In order to examine the spillover effect of stock market volatility
+index (the VIX of CBOE for the U. S.  stock market while the VSTOXX
+for European stock market) on crude oil prices (WTI and Brent) and
+natural gas prices (Henry Hub and NBP), six time series are retrieved
+from Thomson Financial Datastream from 01/04/1999 to 01/02/2015,
+totaling 4175 daily observations.  (1)CBOEVIX is the CBOE SPX
+VOLATILITY VIX (NEW) - PRICE INDEX, (2)VSTOXX is the EURO STOXX
+50 Volatility, (3)OILBREN is the Crude Oil-Brent Cur.  Month FOB
+US$/BBL, (4)CRUDWTC is the Crude Oil WTI FOB Cushing US$/BBL,
+(5)NATGHEN is the Natural Gas, Henry Hub US$/MMBTU, and
+(6) TRGBNBD is the TR Natural Gas NBP UK 1st Fut.  Day – Settlement
+price.  As for the VSTOXX, we begin our sample on January 4, 1999,
+because this volatility index is listed only since that date.  When
+necessary, the time series have been transformed into USD using
+the bilateral exchange rate from the Fed. 
+The descriptive statistics of all-time series can be found in Table 1,
+which indicate that all of them show the typical non-normality of
+ﬁnancial time series and most of the series are positively skewed and
+display excess kurtosis. 
+Regarding the volatility series, taken in returns form, the average
+and standard deviation are really close.  The shape of the distribution
+is also similar between these two series.  There exists non-Gaussianity
+with a positive asymmetry and a relatively high kurtosis for both
+series.  This kurtosis can be seen diagnosed graphically with the
+presence of relatively frequent extreme moves.  The crude oil series
+highlight the heteroskedasticity phenomenon.  For both series, we
+notice high volatility regimes in 2002 or 2008, with subsequent low
+volatility regimes in 2013 for instance.  Their standard deviations in
+returns forms are very close.  We can also remark that these two series are very close to the Gaussian distribution (Skewness of 0 and
+Kurtosis of 3). 
+The gas series share some common characteristics, such as low volatility regimes since 2010 and the relatively high frequency of extreme
+price movements.  Through the high Kurtosis coefﬁcients (respectively
+27. 99 for the European gas and 12. 19 for the American one, in returns),
+we record spikes that can be explained by sudden events such as a
+disruption of a pipeline or a sudden increase in temperature. 
+4.  Results and analyses. 
+In this section, we resort to the VT-DCC method by Kasch and
+Caporin (2013) to capture the dynamic spillovers of stock market VIX
+and VSTOXX on crude oil and natural gas markets. 3
+4. 1.  Volatility thresholds. 
+We now turn to the estimation of the Volatility Threshold (VT) speciﬁcations for the spillovers of stock markets VIX and VSTOXX on crude
+oil and natural gas markets.  In the empirical implementation below,
+we follow the threshold calibration approach discussed in Section 3. 1,
+i. e. , the estimation of Eq.  (8) employing the VT component deﬁned in
+Eq.  (9). 
+Various computational steps are required.  First, we calculate the
+quantile sq = 0. 50 to 0. 99 of the conditional variance for each series. 
+Next, we perform a non-linear threshold grid search in the conditional
+variance of each series, as detailed by Kasch and Caporin (2013). 
+As shown in Table 2, the threshold identiﬁed by the grid search
+algorithm for the VIX is equal to 0. 0826, which corresponds to the 93%
+series speciﬁc variance quantile.  The results are broadly similar for the
+remaining time series, with thresholds detected above the 90th quantile
+of the conditional variance. 
+The last step consists in computing the threshold violations, for instance whenever the VIX historical volatility is above the 93% quantile. 
+This should enable us to understand if some variables co-move together,
+and if abnormal volatility spikes occur at the same time. 
+The historical volatilities of GARCH(1,1) models are shown in
+Fig.  1 (top panel for each sub-ﬁgure).  These plots enable us take
+into account the leptokurtic characteristic of the distribution of each
+series.  Besides, the conditional volatilities are needed as an input in
+the next step of the VT-DCC methodology, which aims at detecting
+the threshold violations.  Further GARCH(1,1) historical volatilities
+are displayed in Fig.  1 during the respective sub-periods.  We clearly
+identify the pattern of time-varying conditional volatilities during
+each sub-period. 
+4. 1. 1.  Stock markets variances. 
+We examine the conditional volatility of VIX and VSTOXX (see Fig.  1,
+bottom panels of (a1), (a2), (b1) and (b2)).  For both volatility series, the
+density of threshold violations is higher after the 2008 crisis than before. 
+That validates the argument by González-Hermosillo and Hesse (2011)
+that the VIX behavior has changed since the global crisis. 
+4. 1. 2.  Crude oil variances. 
+In the threshold violation ﬁgures (see Fig.  1, bottom panels of (c1),
+c(2), (d1) and (d2)), we can ﬁnd that Brent and WTI violate their
+thresholds in a very similar way.  Except few differences around the
+ﬁnancial crisis period, there is signiﬁcant overlap between these two
+series in terms of threshold violations.  Therefore, the historical volatilities seem to be interconnected between two crude oil markets, and to
+spread on each other. 
+4. 1. 3.  Natural gas variances. 
+For the natural gas series, the European NBP (bottom panels of (f1)
+and (f2)) seems to have similarities with the two oil series.  In fact, the
+density of threshold violations is relatively high before 2010 before
+diminishing, which is similar to both oil series.  Their volatility may answer the same common indicators.  For the U. S.  Henry Hub gas (bottom
+panels of (e1) and (e2)), the analysis is different as there exists a strong
+phase of threshold violations in 2014, which does not occur for the
+three other series (Brent, WTI, NBP).  In 2012 and 2013, none of the
+gas or oil series' conditional volatilities exceeds their threshold values
+at any time.  Hence, the volatilities of these four energy series share
+some common characteristics.  Even if the Henry Hub conditional
+volatility evolves a bit apart, energy series seem in a certain way to
+be intertwined. 
+4. 1. 4.  Co-movements. 
+What can look surprising is that the abnormal volatility of the VIX
+and VSTOXX does not co-move with the energy series.  In contrast, the
+very high density of threshold violations for the VIX after the crisis is absolutely not visible for the energy series, where the conditional volatility
+nearly never violates their threshold (except two peaks in 2010 and
+2014 for the Henry Hub gas).  After the crisis, higher than expected volatility levels for the VIX and VSTOXX move in an opposite way to the oil
+and gas series. 
+Before the crisis, the similarities are not obvious either.  For the VIX,
+we get a relatively high density of threshold violations, which seems
+in a certain way to be matched with the high density of threshold violation of the energy series, so the volatility co-movement between these
+four series may change after the crisis. 
+For the VSTOXX, however, the density of volatility spikes is not
+consistent with the volatility of oil series.  Graphically, we may have
+the impression that the volatility of the VSTOXX and the gas series
+co-move together, which would be surprising particularly between
+European volatility index and American gas index, where the volatility
+connection seems to be dubious.  When we look closer at the bottom
+panels (b) for the VSTOXX and (e)–(f) for both gas series in Fig.  1, it
+appears that the dates of the threshold violations are not overlapping
+in most cases. 
+To sum up, the co-movement of abnormal high level of volatility
+among the stock, oil and gas markets reveals several interesting ﬁndings.  First, the conditional volatilities of Brent and WTI evolve in a very
+similar way, as judged by their variance quantile threshold violations. 
+Oil markets being highly connected and integrated, these variables
+answer the same common indicator or information. 
+Second, for the gas series, the threshold violations allow us to
+identify that their conditional volatilities share globally the same
+characteristics as crude oil.  Thus, we could build a block of the four
+energy variables.  Given that their conditional volatilities behave
+similarly, it is possible to suggest that these four series co-move
+together. 
+This statement seems accurate, as energy markets are nowadays
+strongly connected to each other. 4 Consider for instance that these
+four series answer together the same events such as a major geopolitical
+event.  When a war explodes in an area of the Middle East, both oil and
+gas markets are affected.  This is a reason why their conditional volatility
+seems to co-move together.  This ﬁnding conﬁrms the previous results
+by Malik and Ewing (2009), who document signiﬁcant connections between the volatility series of oil and gas. 
+For the VIX and VSTOXX, their co-movement is less evident to
+identify.  If there are some similarities between these two series, there
+are very few between the VIX and energy series, and nearly none
+between the VSTOXX and energy series.  Further cross-market linkages
+between stock and energy markets are to be investigated in the
+correlation structures. 
+4. 2.  The DCC analysis. 
+4. 2. 1.  The DCC estimates. 
+We now proceed with the next step of the VT-DCC, as presented in
+Section 3.  Our aim is to identify similar behaviors between series in
+terms of correlation, and more precisely to understand whether for
+some pairs, the peaks of correlation occur at the same time.  To be able
+to proceed with this analysis, we run a DCC analysis on every existing
+pair, i. e. , [n ∗ (n − 1) / 2] = 15 pairs in total.  After the identiﬁcation
+of the correlation similarities between pairs, we run the block-DCCs
+with more than two series in case of strong common dynamic in the
+correlation of the series. 
+The DCC(1,1) coefﬁcients are reproduced in Table A1 of Appendix A,
+whereas the time-varying correlations are not displayed to save space,
+but can be accessed upon request to the authors.  The DCC models
+are correctly speciﬁed for every pair run (when we look at the alpha
+and beta coefﬁcient for each pair, we can remark that their sum
+never exceeds one).  Besides, the coefﬁcients are statistically signiﬁcant
+and positive. 
+Thanks to the analysis of the ﬁfteen pairs, we are able to detect
+the main trends in the correlation dynamics.  First, in the line of the
+threshold violations, the conditional correlations of the four energy
+variables are behaving globally in a similar way.  In all the energy
+pairs (BRENT/WTI, BRENT/NBP, BRENT/HH, WTI/NBP, WTI/HH and
+NBP/HH), we capture a common feature in the correlation structure. 
+Indeed, there is a clear change in the correlation dynamics after 2010,
+with a peak in correlation between 2008 and 2010, which corresponds
+respectively to the dramatic oil price swing and the progressive
+economic recovery (mainly driven by growth in emerging countries). 
+What we observe more generally in that the conditional correlation is
+turbulent before 2008, all these pairs experiencing correlation
+peaks as it is the case for the BRENT/WTI and the WTI/NBP pairs
+for example.  These correlation peaks are for some energy pairs
+(BRENT/HH, BRENT/WTI, WTI/HH) only oriented in a positive way,
+whereas the remaining pairs (BRENT/NBP, WTI/NBP, HH/NBP) are
+characterized by both negative and positive correlation peaks.  At a
+more detailed level, we realize that, when the NBP series is involved
+in a pair, the correlation may be negative or positive, experiencing
+spikes in both ways.  This singularity vanishes when NBP is not involved. 
+We may infer that, before the crisis, the European Gas reacts negatively
+to some news involving the other energy series.  Regarding the precise
+occurrence of the correlation spike, without NBP, it occurs in the
+midst of the ﬁnancial collapse (September 2008), while for the pairs
+with NBP series this correlation spike occurs later in 2010.  This means
+that the NBP may react later, or differently, to the signals or information
+affecting the three other energy series.  Perhaps the NBP series is less
+responding to the global economy, but reacts more to the news directly
+connected to its fundamentals. 
+The second observation lies in the common aspects in the correlation dynamic between the pairs involving volatility series (VIX,
+VSTOXX) and the pairs involving oil series (BRENT, WTI).  Indeed, we
+can remark that for the 6 pairs involving these variables (BRENT/VIX,
+BRENT/VSTOXX, BRENT/WTI, VIX/VSTOXX, WTI/VIX, WTI/VSTOXX),
+there are common behaviors in the correlation dynamics.  Before the crisis, there are no correlation peaks, and the level of correlation is relatively low.  In September 2008, the peak of correlation is suddenly extremely
+high for all the pairs.  In the aftermath of the crisis, the correlation regime
+appears different across pairs.  More scrutiny reveals that the correlation
+structure is highly similar among VIX/BRENT, VIX/WTI, VSTOXX/BRENT
+and VSTOXX/WTI.  In fact, a few months before September 2008, the correlation of these four pairs slowly increases, suddenly drops and then
+recovers simultaneously.  Between 2010 and 2012, and nearly at the
+same moment, the correlation peaks recorded are successively negative,
+positive and negative again.  This design of correlation structure is more
+pronounced for the pairs involving the VIX (VIX/BRENT, VIX/WTI). 
+Contrary to the threshold violation analysis, there is here ample
+evidence that the VSTOXX behaves in the same fashion as the VIX.  Since
+the global economic collapse of 2008, the correlation dynamics seems
+experiencing higher peaks than before.  In this context of turbulent economic events spreading to equity and oil markets, this is evidence of contagion.  Oil and equity markets being more and more integrated, a piece of
+news impacting one of these markets can affect the other one.  Gas however does not experience the same correlation structure, given its decoupling from oil markets in the recent years.  Gas has a regional exposure,
+it is thus more inﬂuenced by physical determinants such as the level of reserves, temperatures or congestions in the system. 
+The robustness checks of the DCC(1,1) model are conducted for the
+two sub-periods, i. e. , 1999–2008 and 2008–2015.  The detailed coefﬁcients and correlations during the two sub-periods are not displayed for
+brevity, but can be accessed upon request.  We ﬁnd that the central results
+remain unchanged compared with those for the whole sample period. 
+4. 2. 2.  The Block-DCC analysis. 
+Given the discussion above, the block composed of energy variables
+only corresponds to Tang and Xiong's (2012) deﬁnition of the
+ﬁnancialization of commodities, whereby correlations would increase
+among commodities (within the same asset class).  The block composed
+of oil and stock market volatilities variables corresponds to the second
+part of the deﬁnition, whereby correlations increase between traditional
+assets and the commodity sphere.  We investigate whether this deﬁnition
+holds before and after the ﬁnancial crisis based on the time-varying correlations computed for each block. 
+The Block-DCC estimation unfolds from Eqs.  (10) to (12) as detailed
+in Section 3. 1.  Parameter estimates are reproduced in Table 3. 
+Given the comments above, the four energy series are globally
+experiencing strong similarities in terms of correlation dynamics.  That
+is why we proceed further with the construction of a Block-DCC of
+CRUDWTC-OILBREN-NATGHEN-TRGBNBD, and analyze the correlation
+structure.  The second block that we build based on the previous
+empirical evidence is one consisting of CBOEVIX-VSTOXX-CRUDWTCOILBREN. 
+From the results of time-varying conditional correlation in
+Table 3, we can ﬁnd that, not only the correlation between oil and
+gas markets, but also that between energy and stock markets has
+risen after the 2008 ﬁnancial crisis, which corroborates the occurrence of ﬁnancialization phenomenon mentioned above.  Speciﬁcally,
+as for the ﬁrst Block, i. e. , energy market only, the average conditional
+correlation went up from 0. 2467 during 1999–2008 to 0. 8825 during
+2008–2015.  And for the second Block, we can ﬁnd that the average
+conditional correlation increased from 0. 2317 during 1999–2008 to
+0. 6400 during 2008–2015.  These results indicate that after the
+2008 ﬁnancial crisis, the ﬁnancialization has been strengthened, and
+there is no de-ﬁnancialization after all, which corroborates the results
+proposed by Adams and Glück (2015), who predict that the spillovers
+between commodity and stock markets to remain high after the ﬁnancial
+crisis.  In fact, many authors such as Zhang and Li (2016) have established
+that the oil and equity markets have similar reactions to speciﬁc shocks,
+and are more and more integrated to each other over time.  Besides, as for
+the conditional correlation during the overall sample period, we ﬁnd that
+the correlation in energy markets outweighs that between energy and
+stock markets on average. 
+As for the time-varying correlations for the two blocks which are
+displayed in Fig.  2, we can also have at least two ﬁndings.  On the one
+hand, as for the ﬁrst block, before 2008, the correlation among energy
+variables had signiﬁcant ﬂuctuations but it kept a continual increasing
+trend after 2008 and the level signiﬁcantly exceeded that before 2008
+overall.  In the second block which refers the combination of energy
+and stock markets, the results suggest that no matter before or after
+2008, the correlation of energy and stock markets was evidently characterized by time-varying feature, but the overall correlation level was
+lifted across the ﬁnancial crisis.  That is, the interactions between energy
+and stock markets became closer after the crisis, and the ﬁnancialization
+phenomena remained all the time and even got enhanced. 
+The robustness checks of parameter estimates for all series in the
+same Block are listed in Table A2 of Appendix A during the full and
+the two sub-periods.  Besides, further graphs of the time-varying
+correlations for all series are displayed in Fig.  3. 
+4. 2. 3.  The Markov-switching perspective. 
+From a general viewpoint, the volatility threshold effects may
+be integrated in the different dynamic correlation speciﬁcations
+proposed in the literature.  Therefore, the joint use of the volatility
+threshold structure and Markov switching dynamics may provide
+further richer results for stock market VIX and petroleum markets. 
+Speciﬁcally, to further ascertain the reliability of our estimates, we run
+the two-regime Markov-switching process suggested by Hamilton
+(1989), which can be described as follows, when st=1 and st=2, respectively.  In the business cycles context, state
+1 can be associated with contractions while state 2 with expansions. 
+In modeling asset prices, we may identify state 1 with bear markets
+while state 2 with bull markets.  The effect of the regime st on the variable yt is given by the conditional probability density function p(yt/st). 
+st is assumed to be a discrete-valued random variable that can only
+assume an integer value, i. e. , {1,2}.  The probability that st equals some
+particular value b depends on the past through the most recent
+value st − 1 according to the following deﬁnition where pab is equal to the probability that the process moves from
+state a at time t − 1 to state b at time t.  As for the pab to deﬁne proper
+probabilities, they should be non-negative, while it should also hold
+p11+p12=1 and p21+p22=1, which implies that p12=1 − p11 and
+p21 = 1 − p22.  The transition probability pbb can be interpreted as a
+regime persistence measure. 
+This procedure allows us to recover the dates at which the business
+cycle is considered in Expansion (EXP) or in Recession (REC).  We run
+the Block-DCC analysis separately on the two regimes in order to
+understand whether our results are dependent on the business cycle,
+or invariant.  To save space, we do not reproduce the full results of the
+MS estimates in the text, but they are available in Appendix B of the
+web version of this paper.  The main message of the paper is robust
+to the Markov-Switching dynamics during expansion or recession
+periods only. 
+<Conclusion> Conclusions and future work. 
+Financial and commodity markets are increasingly connected and
+integrated to each other in the past decades.  In this study, we aim
+at examining whether American and European oil, gas and stock
+market volatility series experience similar behaviors in their price
+movements and in their correlation dynamics.  The central research
+question consists in understanding whether the energy variables are
+affected by stock market VIX, whether there exists volatility transmission, and whether de-ﬁnacialization works out after the 2008 global
+ﬁnancial crisis. 
+For these purposes, we introduce a VT-DCC model to empirically
+examine the spillover effect of stock markets VIX on crude oil and natural gas markets during 1999–2015, and make the correlation dynamic
+dependent on variance values through a threshold structure.  The Zivot
+and Andrews (2002) test constitutes our ﬁrst attempt to understand
+how equity volatility, crude oil and natural gas series interact with
+each other.  By detecting one endogenous break point in the raw series,
+two clusters were identiﬁable.  one in 2008, and another in 2014. 

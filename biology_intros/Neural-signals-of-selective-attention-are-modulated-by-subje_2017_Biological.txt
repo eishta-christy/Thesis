@@ -1,0 +1,884 @@
+
+Introduction.
+Recent evidence has shown that brain activity measured with the
+event-related potentials (ERP) method co-varies with preferences for
+consumer goods (Junghöfer et al., 2010; Pozharliev, Verbeke, Van
+Strien, & Bagozzi, 2015; Schaefer, Buratto, Goto, & Brotherhood, 2016;
+Telpaz, Webb, & Levy, 2015). This is an important development in an
+emerging ﬁeld – consumer neuroscience – that aims to investigate
+consumer behaviour (CB) with neuroscience methods. The results from
+two of these studies (Telpaz et al., 2015; Junghofer et al., 2010) suggest
+that early brain potentials (neural signals occurring less than 300 ms
+after participants ﬁrst see the image of a consumer good) can index
+consumer preferences.
+
+These results can be interpreted from the perspective of the “moti-
+vated attention” theoretical
+framework (Lang, Bradley, & Cuthbert,
+1997; Schupp, Flaisch et al., 2006), which contends that similar early
+ERPs reﬂect automatic attentional processes towards motivationally
+relevant stimuli (Olofsson, Nordin, Sequeira, & Polich, 2008; Schupp,
+Flaisch et al., 2006; Walker et al., 2011). However, a striking aspect of
+ERP studies of CB is that they do not report consistent links between
+consumer preferences and late ERP positivities, which are often
+modulated by motivationally relevant stimuli (Olofsson et al., 2008),
+and are thought to reﬂect post-perceptive and controlled selective at-
+tention processes (Schupp, Stockburger et al., 2006). In order to in-
+vestigate this issue, the primary goal of this study was to examine the
+ERP correlates of consumer preferences with a particular focus on late
+ERP positivities. In the remainder of this section we brieﬂy review past
+work on motivated attention processes and their electrophysiological
+correlates. We then review existing ERP studies of consumer behaviour
+and provide an overview of the present study.
+<Middle> Electrophysiological correlates of motivated attention.
+Motivated attention is classically separated in two subprocesses: A
+quick, “preattentive” mechanism of attentional orientation; and a more
+overt and controlled form of attention (LeDoux, 1996;
+Vuilleumier & Huang, 2009). This theoretical approach is based on the
+notion that, from a neurobiological perspective, attention is seen as the
+enhancement of neural activity in sensory cortices
+(Vuilleumier & Huang, 2009), and that the modulation of these
+processes by aﬀective-motivational factors can occur through two dif-
+ferent routes. First a “quick” route would involve subcortical structures
+predominantly involved in the evaluation of motivational relevance
+(e.g. the amygdala; Pessoa & Adolphs, 2010; Schaefer et al., 2006).
+These structures would detect the presence of motivationally relevant
+information in the environment through sensory inputs and would
+subsequently modulate activity in sensory cortices through relatively
+direct pathways (Vuilleumier & Huang, 2009). This route is classically
+thought to be automatic (Vuilleumier, Armony, Driver, & Dolan, 2001),
+although evidence suggests that it can be modulated by top-down
+controlled processes (Pessoa, McKenna, Gutierrez, & Ungerleider, 2002;
+Pessoa, Padmala, & Morland, 2005).
+
+The second pathway of motivated attention is one in which neo-
+cortical networks (mainly frontal and parietal areas) receive inputs
+conveying emotional information, and subsequently modulate sensory
+cortices. This mechanism is thought to be linked to overt and controlled
+attentional processes (LeDoux, 1996; Vuilleumier & Huang, 2009). Be-
+yond the main theoretical distinction between a quick “preattentive”
+and a slower overt attentional response, a third process is often pro-
+posed in which attentional resources would be allocated to motiva-
+tionally-relevant stimuli in a temporally sustained manner. This third
+subtype of motivated attention would most likely involve working
+memory (WM) processes and facilitate a more elaborative processing of
+motivationally-relevant information (Schupp, Flaisch et al., 2006;
+Watts, Buratto, Brotherhood, Barnacle, & Schaefer, 2014).
+ERP researchers have identiﬁed three types of brain potentials to
+emotional pictures that map onto the three attentional subprocesses
+described above. As some of us explained in previous articles (Walker
+et al., 2011; Watts et al., 2014), ERPs to stimuli of higher motivational
+relevance (e.g. emotional stimuli, faces, aﬀective stimuli) can be di-
+vided into three subtypes. First, pre–400 ms ERPs to motivationally
+relevant stimuli are thought to reﬂect a rapid and automatic orientation
+of attention triggered by evolutionary and/or motivationally relevant
+properties of external stimuli (Mavratzakis, Herbert, & Walla, 2016;
+Olofsson et al., 2008; Schupp, Flaisch et al., 2006). Second, an ERP
+called “Late positive potential” has often been observed after 400 ms
+following the onset of a motivationally relevant stimulus. This ERP is
+characterised by a strong positivity that can be observed across the
+entire scalp with maxima in posterior scalp sites (Codispoti,
+Ferrari, & Bradley, 2007; Schupp et al., 2000). The latencies of this ef-
+fect vary across studies but they tend to be predominant between 400
+and 800 ms (Codispoti, De Cesarei, & Ferrari, 2012). The LPP is thought
+to reﬂect overt, post-perceptive attentional responses to motivationally-
+relevant stimuli that are more sustained in time and for which the in-
+volvement of controlled processes would be more important than the
+pre–400 ms eﬀects (Codispoti et al., 2007; Schupp, Flaisch et al., 2006;
+Walker et al., 2011). Third, a more sustained ERP positivity for moti-
+vationally relevant pictures has been observed after 800 ms post-sti-
+mulus onset. This eﬀect consists of a sustained waveform that can last a
+few seconds after stimulus onset (Diedrich, Naumann, Maier, & Becker,
+1997;
+2006;
+Hajcak & Olvet, 2008). The topography of this eﬀect is often widely
+distributed across the scalp over both fronto-central and centro-parietal
+sites (Foti & Hajcak, 2008; Hajcak & Olvet, 2008). These ERP eﬀects are
+commonly labeled as positive slow waves (PSW) (Schupp, Flaisch et al.,
+2006) or as “late LPP” (Leutgeb, Schäfer, & Schienle, 2009; Schienle,
+K & chel, & Leutgeb, 2011), and they are thought to reﬂect sustained
+attentional processes related to the maintenance and potential manip-
+ulation of information in working memory (Schupp, Flaisch et al.,
+2006).
+
+2. Event-related brain potential studies of consumer behaviour.
+
+The vast majority of studies investigating the ERP correlates of
+motivational relevance have used stimuli conveying an intrinsic emo-
+tional and evolutionary meaning, such as pictures of faces displaying
+emotional expressions or pictures of emotional scenes (e.g. dead bodies,
+scenes of violence and threat, etc.). It is not yet well established if these
+results can be generalized to objects that have acquired their motiva-
+tional relevance because of their economic value. We deﬁne the eco-
+nomic value of an object as the computation of subjective beneﬁts and
+costs that determines if an object will be preferred (see
+Levy & Glimcher, 2012; Montague & Berns, 2002). The choice of ac-
+quiring an object is thought to be strongly determined by its economic
+value (Padoa-Schioppa & Assad, 2006). The evaluation of the economic
+value of an object is thought to involve the assessment of the value of
+several of its attributes, and this process can vary across diﬀerent types
+of objects. However, it is believed that the human brain can represent
+this information into a “common scale” of value that allows comparing
+between diﬀerent potential choices (Levy & Glimcher, 2012).
+Importantly, it has been suggested that the economic value of objects and
+actions can be determined by a previous history of gains and losses that
+can be understood from the perspective of reinforcement learning
+models (Montague & Berns, 2002; Schaefer et al., 2016), although it is
+often suggested that a number of contextual eﬀects can also modulate
+these valuation processes (Kalwani, Yim, Rinne, & Sugita, 1990).
+Consumer goods are typical examples of objects that have acquired
+motivational relevance through their economic value, as the “desire to
+own” (Knutson, Rick, Wimmer, Prelec, & Loewenstein, 2007) a con-
+sumer good is largely determined by an evaluation of its subjective
+beneﬁts and costs (Kalwani et al., 1990; Knutson et al., 2007; Winer,
+1986). However, despite a recent surge of studies using neuroimaging
+(Karmarkar, Shiv, & Knutson, 2014; Knutson et al., 2007; Plassmann,
+O’Doherty, & Rangel,
+Tusche,
+Bode, & Haynes, 2010) and psychophysiological methods (e.g. Rasch,
+Louviere, & Teichert, 2015; Walla, Brenner, & Koller, 2011) to in-
+vestigate consumer behaviour, only a very limited number of studies
+have approached this question using the ERP method. Previous studies
+that have examined ERPs related to preferences for consumer goods
+have focused mainly on early (pre-400) ERPs. For instance, Telpaz et al.
+(2015) found a relationship between the N200 component and product
+preferences measured by a behavioural choice procedure in which
+participants needed to choose between pairs of products. Telpaz et al.
+(2015) suggested that this N200 eﬀect could reﬂect an eﬀect of the
+Feedback-Related Negativity (FRN), an ERP component that overlaps
+with the N200, and which has been linked to the evaluation of pre-
+diction errors in decision-making tasks
+(Mushtaq, Wilkie, Mon-
+Williams, & Schaefer, 2016), and more recently, to positive surprise and
+buying preferences in a virtual shopping task (Schaefer et al., 2016).
+Furthermore, a study using magnetoencephalography (MEG) found that
+early brain potentials (between 110 and 230 ms post-stimulus onset)
+reﬂecting motivated attention were related to gender-speciﬁc pre-
+ferences for consumer goods (Junghöfer et al., 2010).
+Although these studies provide evidence in favour of the notion of
+the involvement of early attentional responses in consumer preferences,
+evidence regarding later eﬀects is scant and contradictory. Pozharliev
+et al.’s (2015) study reported a relationship between the LPP and pre-
+ferences for luxury goods only when participants were in a social
+context, and Bosshard et al. (2016), although not using pictures of
+consumer goods, found a relationship between the LPP and the extent
+to which brand names were liked. In contrast to these studies, the work
+by Telpaz et al. (2015) described above did not ﬁnd eﬀects in the LPP or
+in any later time window. In addition, to our knowledge no study has
+reported testing the relationship between the PSW and preferences for
+consumer goods in a shopping context. Furthermore, the apparent
+contradiction between Telpaz et al. (2015) and Pozharliev et al. (2015)
+regarding late positivities is diﬃcult to resolve as they used markedly
+diﬀerent methods: First, Telpaz et al. (2015) repeated the presentation
+of every individual stimulus 50 times whereas Pozharliev et al. (2015)
+used single presentations for each item, which may have caused dif-
+ferences between these studies regarding potential habituation eﬀects
+of late positivities (Ravden & Polich, 1998); Second, Telpaz et al. (2015)
+used procedures in which participants could purchase the viewed pro-
+ducts, whereas Pozharliev et al. (2015) did not, which may have caused
+diﬀerences regarding the motivational value of perceiving consumer
+goods; Third, Telpaz et al. (2015) used a variety of consumer goods,
+whereas Pozharliev focused on luxury vs. non-luxury items.
+3. Overview
+
+Therefore, the primary goal of this study was to examine and
+characterize the electrophysiological responses to consumer goods that
+are preferred compared to less preferred goods using a wide diversity of
+non-repeated consumer goods and a procedure that maximized moti-
+vational engagement. In order to ﬁll an important gap in the literature,
+we focused on the positive slow waves (PSW) and the LPP, but we also
+tested the eﬀects of consumer preference on the amplitude of the N200
+brain potentials in order to provide a comparison with previous re-
+search. In order to attain this goal, we asked participants to take part in
+a modiﬁed version of a shopping task used in previous studies (Knutson
+et al., 2007; Plassmann et al., 2007; Schaefer et al., 2016). In this task,
+participants were shown pictures of familiar consumer goods, which
+they could later purchase, and were asked to rate their level of pre-
+ference towards each item while their scalp EEG was recorded.
+
+A secondary goal of this study was to verify if the same ERPs that
+are modulated by preference ratings can also vary according to sub-
+sequent “purchasing” decisions, and whether any potential relationship
+between ERPs and subsequent decisions can be accounted for by an
+eﬀect of preference. Therefore, we also categorized ERPs time-locked to
+the viewing of consumer goods relative to whether participants decided
+to buy them or not. Finally, we tested if this Buy/No-Buy (BNB) eﬀect
+on ERPs was still present when only products from a homogenous level
+of subjective preference were considered, which would attenuate any
+eﬀect of subjective preference. If any potential eﬀect of BNB were still
+observed in such circumstances, this could tentatively indicate that the
+eﬀect of BNB decisions on ERPs can be dissociated from eﬀects of
+subjective preferences.
+
+4. Methods
+
+4.1. Participants
+
+Forty-ﬁve right-handed adults (24 females; mean age = 21.64,
+SD = 2.77) with no history of neurological or psychiatric disorders
+participated in this experiment. From this initial sample, seven parti-
+cipants were excluded because they did not have at least 16 artifact-free
+trials in one of the three main conditions (“Low”, “Middle”, or “High”
+preference: LP, MP, HP). This criterion was used to make sure that all
+ERP waveforms had an acceptable signal to noise ratio (Luck, 2005).
+The ﬁnal sample had 38 participants (22 females, mean age = 21.49,
+SD = 2.76). Participants were recruited from the student population of
+a foreign campus of an Australian University (Monash University) lo-
+cated in the greater Kuala Lumpur metropolitan area in Malaysia. They
+were ﬂuent in English and had all lived in Malaysia for more than a
+year. The Ethics committee of Monash University approved the study
+and all participants signed an informed consent before taking part in
+the experiment.
+4.2. Stimuli
+
+We used colour digital pictures of 180 products selected from local
+shops and online retailers which were familiar to our participants. The
+average familiarity score reported by this study’s participants for the
+products was 6.51, SD = 1.13, out of a scale ranging from 1 to 9. It
+should be noted that this score was signiﬁcantly higher than the mid-
+point of the scale (5), t = 8.25, p < 0.001 (two-tailed). We also ver-
+iﬁed that the means of the familiarity ratings were higher than 5 se-
+parately for the three main conditions of the experiment: LP (M = 5.77,
+SD = 1.72, t = 2.75, p = 0.009), MP (M = 6.61, SD = 1.02, t = 9.77,
+p < 0.001), and HP (M = 7.75, SD = 0.68, t = 25.03, p < 0.001).
+These results indicate that the products used in this study were overall
+familiar to our participants. The products included a large variety of
+items, such as electronics, food, drinks, sports equipment, and others.
+We provide examples of our digital pictures in the supplementary sec-
+tion (Supplementary Fig. 1). The mean prices of the products, calcu-
+lated as the mean of the prices of each product in two diﬀerent retailers,
+ranged from 2.35 to 66 Malaysian Ringgits
+(RM, M = 24.59,
+SD = 17.59) (based on the conversion rate at the time of data collec-
+tion, in US dollars, this ranged from 0.56 to 15.84 USD).
+
+4.3. Behavioural paradigm
+
+Participants sat in a comfortable chair at approximately 80 cm from
+a 22” monitor on which the stimuli were displayed. E-Prime 2.0
+(Psychology Software Tools, Pittsburgh, PA) was used to display the
+stimuli on the screen. We recorded participants’ scalp EEG while they
+performed a virtual shopping task during which each participant was
+shown a sequence of 180 products on the screen. For each product, the
+trial sequence included nine stages (depicted in Fig. 1): First, partici-
+pants saw a ﬁxation (black cross on white screen) displayed for a
+random duration (800–1700 ms). Second, the image of a product was
+shown on the computer screen for 3 s. In the third, fourth, and ﬁfth
+stages, pleasantness, wanting and familiarity were measured using self-
+report items adapted from Schaefer et al. (2016). The items were “How
+pleasant is the product to you? (1 = Very unpleasant, 9 = Extremely
+pleasant)”, “How much do you want the product? (1 = I don’t want this
+item at all, 9 = I really want this item)”, and “How familiar are you
+with the product? (1 = Not familiar at all, 9 = Extremely familiar)”. In
+the sixth stage, a ﬁxation was again displayed for a random duration
+(800–1700 ms). In the seventh stage, the image of the product was
+shown again with a price superimposed on it. In the eighth stage,
+participants saw a ﬁxation again for 1 s. Finally (ninth stage), the price
+superimposed on the image was shown again, and participants were
+prompted to decide whether or not to buy the product at the oﬀered
+price from a virtual allocation of RM100 (24 USD), which was reset for
+every product (see Fig. 1). At the end of the experiment, a computer
+program randomly selected one of the products that were “bought” by
+the participant. This chosen product and “cash savings”, (the RM100
+allocation minus the oﬀered price for the product) were given to par-
+ticipants later. This approach was used to increase the motivational
+engagement of the participants, and to maximize the likelihood that a
+“true” economic value would be attributed to the goods (see Knutson
+et al., 2007; Schaefer et al., 2016).
+In order to encourage participants to purchase products during the
+experiment, oﬀered prices were discounted from the means of the
+prices by 25%. Thus, prices shown to participants ranged between
+RM1.76 (0.42 USD) and RM49.5 (11.88 USD)
+(M = 18.44,
+SD = 13.19). Furthermore, we sought to minimize possible biases that
+could be caused by strategies based on buying a minimal amount of
+products. To achieve this goal, and following previous research
+(Schaefer et al., 2016), participants lost money on their ﬁnal cash
+savings if they did not buy a minimum number of products, according
+to a schedule previously explained to them. If the number of bought
+products were less than or equal to 18, RM30 (7.2 USD) would be de-
+ducted from the savings. If this number was between 19 and 24, RM15
+(3.6 USD) would be lost. If the number was between 25 and 30, par-
+ticipants would lose RM3 (0.72 USD) from their savings. If participants
+bought more than 30 products, they would not lose any money at the
+end. All of the aspects of the behavioural paradigm were explained to
+participants before the experiment, and their understanding was con-
+ﬁrmed by a small quiz. The experiment lasted approximately 2 h.
+
+4.4. Electrophysiological data recording and pre-processing
+
+Each participant’s scalp EEG was recorded using 32 Ag/AgCl elec-
+trodes embedded in “Waveguard” purpose-made caps following the
+standard 10–20 system of electrode locations and an “ASALAB” am-
+pliﬁer (both manufactured by ANT Neuro, Enschede, Netherlands) at a
+sampling rate of 512 Hz (DC–138 Hz bandwidth). Impedance was kept
+below 10 kΩ, and a common average reference was used during re-
+cording. EEG preprocessing followed a standard procedure used in our
+previous work (e.g., Mushtaq et al., 2016; Schaefer, Pottage, & Rickart,
+2011; Watts et al., 2014), using the ERP module of BESA (Version 6.0,
+BESA GmbH, Gräfelﬁng, Germany). Data were converted oﬀ-line to an
+average mastoids reference, ﬁltered (0.01–40 Hz), segmented into
+epochs between 200 ms before and 3000 ms after the onset of the
+product images on the screen (second stage of the procedure described
+above) and baseline corrected. Eye movements were corrected using a
+multiple source analysis method (Berg & Scherg, Ille,
+Berg, & Scherg, 2002) as implemented in BESA (“Surrogate method”).
+In addition, for each channel, epochs with a diﬀerence between the
+maximum and minimum voltage amplitude > 120 μV and a maximum
+diﬀerence between two adjacent voltage points > 75 μV were rejected
+(after eye movement artifact correction).
+Three ERP waveforms were created based on each individual par-
+ticipant’s ratings on the “wanting” scale. For each participant, products
+rated as 1, 2, or 3 on the wanting scale were categorized as Low
+Preference (LP), those rated as 4, 5, or 6 as Middle Preference (MP), and
+those rated as 7, 8, 9 as High Preference (HP). All 38 participants had
+equal to or more than 16 artifact-free trials in all these three conditions
+and thus were included for the analyses. The mean numbers of artifact-
+free trials for LP, MP, and HP were 63, 52.68, and 38.87, respectively.
+In order to examine whether ERP waveforms can be diﬀerentiated by
+participants’ subsequent decisions to buy or not to buy the products, we
+also created ERP waveforms time-locked to the viewing of the products
+(second stage) and separated according to whether they were followed
+by a “buy” or “no-buy” decision. In addition, we also examined if this
+Buy vs. No-Buy (BNB) eﬀect could be observed when levels of sub-
+jective preference were kept homogenous. To achieve this aim, we
+performed subsample analysis on a group of participants who had en-
+ough artifact-free trials to test the BNB eﬀect when only MP trials were
+considered (N = 26). The same eﬀect could not be reliably tested for LP
+or HP because in these conditions, the numbers of “Buy” or “No-Buy”
+responses (respectively) were too low, given that participants tended to
+buy preferred items and decline to buy items with low levels of pre-
+ference, as expected. To maximize the subsample group size, we used a
+liberal criterion of a minimum of 12 artifact-free trials for each speciﬁc
+condition, in accordance with previous literature investigating late
+positive ERP activities (Kim, Vallesi, Picton, & Tulving, 2009; Otten,
+Quayle,
+Koenig,
+Brandeis, & Perrig, 2011; Watts et al., 2014; Yick, Buratto, & Schaefer,
+2015).
+4.5. ERP quantiﬁcation
+
+Our analysis of ERP data had two primary goals. First, we wanted to
+test if previous results about the relationship between the N200 com-
+ponent and consumer preferences could be replicated. Second, we
+wanted to examine if sustained post-400 positivities (LPP and PSW)
+were also related to subjective preferences and choice.
+
+4.5.1. Replication attempt of N200 results
+
+Stoet,
+
+2013;
+
+Bland, & Schaefer,
+
+The N200 was quantiﬁed using peak to peak scores, as this is often a
+recommended method to quantify overlapping components such as the
+P200/N200 complex (Hajcak, Moser, Holroyd, & Simons, 2006; Luck,
+2005; Mushtaq,
+Osinsky,
+Mussel, & Hewig, 2012). Given that the P200 is often linked to the N200
+in the same complex, we also analyzed the P200 with peak to peak
+scores. On the basis of a visual inspection of our waveforms and pre-
+vious literature (e.g., Telpaz et al., 2015; Walker et al., 2011), we ex-
+tracted peak amplitudes of each participant from three time windows:
+70–150 ms (N100), 130–250 ms (P200), and 200–400 ms (N200).
+Then, we subtracted N100 from P200 absolute peak amplitudes in order
+to quantify a peak to peak P200 amplitude. Similarly, we subtracted
+P200 from N200 absolute peak amplitudes in order to quantify peak to
+peak N200 amplitudes. In order to perform statistical analyses, we ex-
+tracted these peak to peak scores from a sample of nine electrodes al-
+lowing coverage of Frontal, Central and Parietal sites, in left, midline
+and right hemispheres: F3, Fz, F4, C3, Cz, C4, P3, Pz, and P4. For both
+P200 and N200 we then conducted a 3 (Item Category: LP vs. MP vs.
+HP) x 3 (Anterior-Posterior [AP]: Frontal vs. Central vs. Parietal) x 3
+(Laterality [LAT]: Left, Midline vs. Right) repeated-measure analysis of
+variance (ANOVA). Furthermore, we also conducted a 2 (Buy vs. No-
+Buy [BNB]) x 3 (AP) x 3 (LAT) repeated-measure ANOVA with the main
+sample in order to examine the eﬀects of subsequent buying decisions
+on our ERP waveforms. Next, we performed a 2 (MP/Buy vs. MP/No-
+Buy) x 3 (AP) x 3 (LAT) ANOVA with a subsample, as explained in the
+“Electrophysiological data recording and pre-processing” section.
+Greenhouse-Geisser corrections were applied when necessary, and re-
+sults were considered signiﬁcant at p < 0.05. Analyses of the P200
+data did not reveal any signiﬁcant eﬀects and therefore we do not re-
+port these further.
+
+4.5.2. Late positivities
+
+The LPP is usually quantiﬁed between 400 and 800 ms, whereas the
+PSW is usually observed after 800 ms, and can extend to 3 s or beyond
+(Diedrich et al., 1997; Foti & Hajcak, 2008; Hajcak & Olvet, 2008).
+Therefore, we separated the late positive ERPs into 4 consecutive 400-
+ms windows: 400–800, 800–1200, 1200–1600, 1600–2000, and in ac-
+cordance with previous research (Foti & Hajcak, 2008; Hajcak & Olvet,
+2008), we also quantiﬁed a longer time window from 2000 ms to
+3000 ms. For each time window, we extracted mean amplitudes that
+were used in subsequent data analyses and we conducted ANOVAs
+identical to the ones employed for the N200 data, using the same array
+of electrodes. These ANOVAs were conducted separately by each time
+window, and Greenhouse-Geisser corrections were applied when ne-
+cessary. Given that testing each eﬀect repeatedly across ﬁve diﬀerent
+time windows could inﬂate the false positive rate, we corrected the p-
+value of each eﬀect with the Bonferroni method.
+
+5. Results
+
+5.1. Behavioural data
+
+5.1.1. Manipulation checks
+
+We ﬁrst analyzed how items in LP, MP, and HP categories were
+perceived by the main sample (n = 38) on the scales of wanting,
+pleasantness, and familiarity with repeated-measure ANOVAs. Since
+these categories were derived from the wanting scores, not surprisingly,
+we found that HP items were wanted more (M = 7.71, SD = 0.32) than
+MP items (M = 4.98, SD = 0.21, p < 0.001) and LP items (M = 2.07,
+SD = 0.47, p < 0.001). MP items were also wanted more than LP
+items (p < 0.001), and these comparisons were accompanied by a very
+signiﬁcant main eﬀect of item category on wanting scores, F(1.41,
+2 =0.98. As expected, HP items were
+52.07) = 2035.59, p < 0.001, ηp
+also perceived to be more pleasant (M = 7.59, SD = 0.67) than MP
+(M = 6.11, SD = 0.85,
+(M = 4.70,
+SD = 1.22, p < 0.001), and MP items were perceived to be more
+pleasant than LP (p < 0.001), and these comparisons were supported
+by a main eﬀect of category on pleasantness scores, F(1.28, 47.38)
+2 =0.82. We also found that HP items were
+= 168.96, p < 0.001, ηp
+perceived to be more familiar (M = 7.75, SD = 0.68)
+than MP
+(M = 6.61, SD = 1.02,
+(M = 5.77,
+SD = 1.72, p < 0.001), and MP items were more familiar than LP
+items (p < 0.001), and these contrasts were obtained alongside a sig-
+niﬁcant main eﬀect of category on familiarity scores, F(1.24, 46.00)
+= 58.19, p < 0.001, ηp
+
+and LP items
+
+and LP items
+
+p < 0.001)
+
+p < 0.001)
+
+2 =0.61.
+
+Next, we wanted to verify if the three categories of subjective pre-
+ference could truly be accounted by diﬀerences in “Wanting” rather
+than pleasantness, familiarity, or oﬀered price. To address this question,
+we adopted a multilevel approach to our data. In this analysis, a cate-
+gorical variable reﬂecting the 3 preference categories (“Item Category”:
+LP, MP and HP) was the dependent variable, and scores of wanting,
+familiarity, pleasantness, and oﬀered prices were the predictors. We
+hypothesized that if the relationship between wanting scores and item
+categories disappeared or was signiﬁcantly reduced after the inclusion
+of the other predictors, then this result could suggest that the item
+categories were accounted for by variables other than “wanting”. Using
+a multilevel approach enabled us to examine these eﬀects at the level of
+individual trials while taking into account potential between-subjects
+variability.
+
+Speciﬁcally, we used the “linear mixed models” option of SPSS to
+analyze trial-speciﬁc data, while taking into account diﬀerences be-
+tween participants. We included item category (LP = 1, MP = 2,
+HP = 3) as a dependent variable and ﬁrst tested the eﬀects of wanting
+scores on this variable, using an unstructured covariance type. Not
+surprisingly, the results indicated that wanting scores signiﬁcantly
+predicted the preference category (b = 0.313, p < 0.001). Next, we
+added pleasantness, familiarity scores and oﬀered price to the model.
+The eﬀect of wanting score slightly increased (b = 0.320, p < 0.001),
+and it turned out that pleasantness also predicted item category, al-
+though the eﬀect size was much smaller (b = −0.010, p = 0.018) than
+the eﬀect of wanting. Familiarity (b = −0.003, p = 0.100) and oﬀered
+price (b = −0.000, p = 0.827) did not predict preference category.
+Consistent with our expectations, these results suggest very strongly
+that item categories of LP, MP and HP are mainly determined by the
+“wanting” scores, and that they cannot be fully accounted by plea-
+santness, familiarity, or oﬀered price. Pleasantness seems to have a
+
+statistically signiﬁcant eﬀect on item category, although with a much
+smaller eﬀect size than wanting.
+
+Finally, we examined whether there were any thematic biases in the
+categorization of products into HP, MP and LP. For instance, if elec-
+tronic products were more frequently categorized into HP than house-
+hold items (whereas the same imbalance would not be observed in LP
+and MP), then any comparisons between HP and MP or LP could be
+compromised by a confound between preference and perceptual dif-
+ferences between groups of products (e.g. electronics products vs. other
+types of products). The 180 products used in our study can be cate-
+gorized into 9 product categories: drink, electronic goods, food, health
+care, home goods, housekeeping goods, kitchen appliance, sports
+equipment, and stationary. Chi-square tests revealed that none of these
+product categories were over- or underrepresented in LP (X2 (8)
+= 7.70, p = 0.46), MP (X2 (8) = 1.49, p = 0.99), or HP (X2 (8)
+= 4.93, p = 0.76). These analyses indicate that thematic contents of
+product images were equally distributed within each of the preference
+categories (HP, MP, LP).
+
+5.1.2. Buying rate
+
+Next, we examined whether participants’ decisions to buy products
+diﬀered across the item categories. For this analysis, the main depen-
+dent variable was a ratio between the number of “Buy” decisions in an
+item category divided by the total number of items in that particular
+category. As expected, a repeated-measure ANOVA revealed that par-
+ticipants made buy decisions more often for HP items (M = 0.76,
+SD = 0.16) than for MP items (M = 0.32, SD = 0.18, p < 0.001) and
+LP items (M = 0.05, SD = 0.06, p < 0.001). The MP-LP contrast was
+also signiﬁcant (p < 0.001), and these contrasts were supported by a
+signiﬁcant main
+p < 0.001,
+2 =0.90. As expected, this result conﬁrms that highly preferred items
+ηp
+were more likely to be bought during the shopping task.
+
+73.07) = 346.25,
+
+F(1.98,
+
+eﬀect
+
+5.2. Brain potentials
+
+Fig. 2 shows a very clear diﬀerentiation between highly preferred
+items compared to less preferred items. Waveforms related to HP items
+yielded a stronger positivity than both MP and LP starting at approxi-
+mately 350 ms and this eﬀect appears to be sustained until the end of
+the epoch. However, the diﬀerence between HP and MP seems to
+progressively diminish after 1200 ms, whereas the HP-LP diﬀerence
+remains robust across most of the epoch. Scalp maps in Fig. 2 also show
+that, at least for the HP-LP contrasts, the topography of the eﬀects
+encompasses both fronto-central and centro-parietal sites. Fig. 3 also
+shows that the BNB eﬀects are very similar to the eﬀects of subjective
+preference. In addition, Fig. 4 shows a clear eﬀect of subjective pre-
+ference on the N200 component, indicating that more preferred items
+are associated to more positive amplitudes than items with lower levels
+of preference. Statistical analyses described below generally support
+these observations.
+
+5.3. Subjective preferences
+
+5.3.1. N200
+
+Analyses on N200 peak to peak scores successfully replicated pre-
+vious associations between this component and preferences for con-
+sumer goods. Speciﬁcally, we found a signiﬁcant main eﬀect of Item
+2 =0.09. Contrasts
+Category, F(1.93, 71.53) = 3.62, p = 0.033, ηp
+showed that LP (M = −6.64, SE = 0.48) amplitudes were more ne-
+gative than HP (M = −5.98, SE = 0.46, p = 0.028); and that MP
+(M = −6.77, SE = 0.50) also elicited a larger negativity than HP,
+p = 0.025. The diﬀerence between LP and MP was not signiﬁcant,
+p = 0.678.
+signiﬁcant,
+Fs < 1.68, ps > 0.16.
+
+Interactions with AP or LAT were not
+
+
+5.3.2. Late positivities
+
+For all the time windows, a main eﬀect of Item Category was found
+2 > 0.20). No in-
+(all ps < 0.005, Bonferroni-corrected, Fs > 9.6, ηp
+teractions with A-P or LAT were observed, conﬁrming the F-C-P dis-
+tributed topography depicted in Fig. 2. This type of widely distributed
+topography is similar to previous reports of slow waves relative to
+motivationally-relevant stimuli (Foti & Hajcak, 2008; Hajcak & Olvet,
+2008). We therefore proceeded to break down these main eﬀects in
+three planned comparisons: HP-LP, HP-MP and MP-LP for every time
+window. Given that this approach resulted in 15 pairwise comparisons
+in late positivities, we used Bonferroni corrections to minimize false
+positives. We found that all the HP-LP contrasts were signiﬁcant at
+p < 0.05 (Bonferroni-corrected), whereas the HP-MP contrasts were
+signiﬁcant for 400–800 and 800–1200. The 2000–3000 time window
+also yielded a statistically signiﬁcant HP-MP comparison, although its
+eﬀect size was much smaller than the corresponding HP-LP comparison
+(p = 0.049 vs. p = 0.00024, respectively, Bonferroni-corrected). MP-
+LP did not reach corrected signiﬁcance thresholds.
+
+5.4. Eﬀects of subsequent buying decisions
+
+5.4.1. P200/N200
+
+Analyses on peak-to-peak scores of P200 and N200 amplitudes did
+
+not reveal signiﬁcant eﬀects involving the Buy vs. No-Buy variables.
+
+5.4.2. Late positivities
+
+Statistical analyses on the main sample of this study (N = 38) re-
+vealed a signiﬁcant eﬀect of BNB on all time windows (all ps = < 0.01,
+2 < 0.49).
+Bonferroni-corrected, 10.8 < Fs < 33.98; ηp
+No interactions with AP or LAT were observed. Planned subsample
+analyses revealed that eﬀects involving BNB were never signiﬁcant if
+only MP items were considered (all ps > 0.06, uncorrected) (See
+
+2 > 0.22, ηp
+
+Supplementary Fig. 2). Note that the subsample used for the analyses of
+MP items (n = 26) revealed signiﬁcant main eﬀects of BNB for all the
+time windows when all item categories (i.e., LP, MP and HP) were in-
+cluded
+Fs > 8.85,
+Fs < 24.23; ηp
+
+Bonferroni-corrected.
+
+<Conclusion> Discussion.
+The main goal of this study was to examine if ERPs of motivated
+attention, the N200, the LPP and PSW, were modulated by subjective
+preferences and buying choices in a virtual shopping task. This study is
+to our knowledge the ﬁrst to demonstrate that positive slow waves
+(PSW) extending up to three seconds after the onset of pictures of
+consumer goods could diﬀerentiate between preferred and non-pre-
+ferred goods. In addition to this ﬁnding, we also obtained results con-
+sistent with previous research: We found that the N200 was modulated
+by levels of preference, in accordance with a previous study (Telpaz
+et al., 2015); and consistent with Pozharliev et al. (2015), we also found
+that LPP amplitudes were modulated by item preference. Furthermore,
+we also found that both LPP and PSW amplitudes could diﬀerentiate
+between products that were subsequently “bought” or not by partici-
+pants. However, subsample analyses revealed that this eﬀect was not
+signiﬁcant when only goods with homogenous levels of preferences
+were considered.
+
+Our results are the ﬁrst to show that a large and easily detected ERP
+positivity starting around 300 ms post-stimulus onset and lasting up to
+3000 ms co-varies with preferences for consumer goods, expressed in
+both self-reports and observable choice behaviour. This result could
+have important implications in the ﬁeld of consumer neuroscience (or
+the ﬁeld of “neuromarketing”) as it indicates that a well-known ERP
+phenomenon can also be a reliable correlate of consumer preferences,
+and thus become a useful tool for consumer behaviour (CB) researchers.
+In addition, the fact that both early and late ERPs were modulated by
+preferences also indicates that ERPs can provide a variety of indices of
+consumer preference. However, if ERPs are to become useful indices of
+CB, it is necessary to understand the functional meaning of speciﬁc
+ERPs associated to consumer preferences. Therefore, to provide a better
+understanding of the nature of our eﬀects, we discuss below in more
+detail the potential functional meaning of our ﬁndings.
+
+6.1. Motivational relevance and ERP correlates of consumer preferences
+
+First, the PSW observed after 800 ms in the current study had a
+larger amplitude for highly preferred items up until 3 s post-stimulus
+onset. The topography of this eﬀect was distributed over fronto-central
+and centro-parietal sites. These temporal and topographical properties
+are similar to slow wave eﬀects observed in studies using emotional
+scenes or evolutionary-relevant stimuli (Foti & Hajcak, 2008; Hajcak
+et al., 2006; Hajcak & Olvet, 2008), Post-800 slow waves time-locked to
+motivationally relevant stimuli are usually interpreted as the manifes-
+tation of brain activity related to WM processes (Schupp, Flaisch et al.,
+2006; Watts et al., 2014). This notion implies that motivationally-re-
+levant information is preferentially processed in WM in order to facil-
+itate its elaboration. Further evidence comes from the wider literature
+on ERPs linked to WM processes, in which it has often been demon-
+strated that variations in the cognitive load of WM tasks modulate late
+slow waves (Garcı́a-Larrea & Cézanne-Bert, 1998; McEvoy,
+Smith, & Gevins, 1998; Rämä et al., 2000; Ruchkin, Johnson,
+Mahaﬀey, & Sutton, 1988; Schupp, Flaisch et al., 2006; Watts et al.,
+2014). From this previous body of research, we speculate that our PSW
+results reﬂect processes of active maintenance and elaboration of in-
+formation in WM required to facilitate the evaluation of consumer
+goods and the subsequent decision on whether to buy them or not.
+Future research will be needed to examine whether this eﬀect varies
+according to diﬀerences in decisional consequences of perceiving the
+goods (e.g. with or without a shopping context), and diﬀerences in WM
+load.
+
+The eﬀects of preference on the N200 replicated Telpaz et al.
+(2015), and seem to conﬁrm a growing trend indicating that ERPs oc-
+curring in the N200 vicinity reﬂect processes linked to consumer be-
+haviour (Schaefer et al., 2016; Telpaz et al., 2015). N200 eﬀects are also
+commonly observed in research using emotional scenes or evolu-
+tionary-related stimuli (Olofsson et al., 2008; Walker et al., 2011). It is
+commonly thought that such eﬀects reﬂect an early stimulus-driven
+attentional response (Olofsson et al., 2008; Walker et al., 2011). Telpaz
+et al. (2015) has suggested that the N200 related to consumer goods
+could reﬂect a FRN, a brain potential obtained when participants pro-
+cess decision outcomes that deviate from their expectation (Mushtaq
+et al., 2016; Schaefer et al., 2016). However, in this experiment, the
+N200 is not time-locked to the outcome of a decision, and predictions
+are not explicitly elicited before the onset of the stimuli. These are ty-
+pical conditions under which the FRN is commonly observed (Hajcak
+et al., 2006), and thus their absence does not support the hypothesis
+that the N200 that we observed is an FRN. Alternatively, it is not ex-
+cluded that an attention-related N200 overlaps with the FRN (Holroyd,
+Pakzad-Vaezi, & Krigolson, 2008). Future research will be needed to
+disentangle these two explanations.
+
+We also observed an eﬀect of preference on a positivity in the
+400–800 time window corresponding to the latencies of the LPP, with a
+topographical distribution that includes centro-parietal and fronto-
+central sites, which might reﬂect the multimodal nature of the task that
+probably includes both perceptual and semantic processing (These
+studies provide similar examples of LPPs with a fronto-central topo-
+graphy: Cunningham, Espinet, DeYoung, & Zelazo, 2005; Gable and
+Harmon-Jones, 2010). This result is consistent with Pozharliev et al.
+(2015) although we found this eﬀect when participants were alone in
+the room, whereas Pozharliev et al. reported an LPP associated to
+luxury vs. non-luxury items only when participants were in a social
+context. The procedures used in the two studies are too diﬀerent to
+draw deﬁnitive conclusions about this potential contradiction, but it
+could be speculated that the possibility of buying products in the cur-
+rent study may have enhanced the motivational engagement towards
+preferred products, which could potentially explain this diﬀerence. This
+result is also consistent with a study that found a greater LPP for written
+words referring to brand names that were liked (Bosshard et al., 2016)
+and a study that found a greater positivity between the 400–1000 la-
+tencies while participants were shown cheap vs. expensive prices
+during a virtual shopping task (Schaefer et al., 2016). Overall, these
+results indicate that late ERP positivities may index neural processes
+related to consumer behaviours.
+
+Overall, these results tentatively suggest the existence of a multi
+stage process of evaluating motivationally-relevant consumer goods
+that share several similarities with processes of motivated attention
+usually associated to classical emotional stimuli: First, early attentional
+processes would allow a very quick orientation of attentional resources
+on preferred goods. This process is likely to rely on the detection of
+stimulus properties that have acquired motivational relevance through
+prior learning. Next, a more overt attentional response would facilitate
+the conscious identiﬁcation of the stimulus, through processes that
+probably rely on the integration of multiple sources of information
+including perceptual and semantic information. Finally, processing re-
+sources are selectively allocated to the stimulus in a temporally ex-
+tended manner in order to facilitate a more elaborative form of pro-
+cessing which is likely to be linked to the evaluative and decisional
+constraints of viewing consumer goods. This tentative framework has
+very strong overlaps with sequential models of motivated attention in
+the context of emotion research (Schupp, Flaisch et al., 2006). Although
+early and late ERPs of motivated attention are widely considered as
+serving distinct functions, it would be inaccurate to consider them as a
+fully independent. In most cases these diﬀerent processing stages are
+likely to be part of an overarching single process (Schupp, Flaisch et al.,
+2006; Watts et al., 2014). Speciﬁcally, an automatic orientation to-
+wards motivationally relevant stimuli, and its subsequent overt iden-
+tiﬁcation can be reasonably seen as causal antecedents of their main-
+tenance in WM for further processing and elaboration (Watts et al.,
+2014). However, an important caveat to our interpretation is that it
+relies in part on the similarity of the morphology of our ERP data with
+results obtained in other studies using intrinsically emotional stimuli.
+Even though an important body of research on the neural correlates of
+motivated attention strongly supports our explanation, further ERP
+experiments will be needed in which diﬀerent stages of processing of
+consumer goods are systematically manipulated (e.g. WM load, deci-
+sional demands, etc.) to consolidate this knowledge.
+
+6.2. Potential limitations
+
+First, the construct of consumer preference used in our study is
+constrained by our operationalization of preferences in terms of
+“wanting” self-reports and buying choices. Wanting self-reports have
+been used previously to operationalize preference in consumer neu-
+roscience studies (Knutson et al., 2007; Schaefer et al., 2016) and were
+chosen because of their conceptual overlap with our deﬁnition of eco-
+nomic value, that is, the potential beneﬁts brought by obtaining an
+object. Second, observable buying choice is an objective measure of
+preference, but also the end goal of most instances of consumer beha-
+viour, and as such it has often been used to investigate neural correlates
+of consumer preference (e.g., Knutson et al., 2007; Plassmann et al.,
+2007; Schaefer et al., 2016). However, we do acknowledge that other
+methods to estimate preference exist (willingness to pay, choice mod-
+eling, etc.), and future research will be needed to explore relationships
+between ERPs and these other methods.
+
+Second, it could be argued that our approach of providing a sche-
+dule of incentives to buy products creates a somewhat unrealistic en-
+vironment. As explained in the methods section, this feature of our
+procedure was introduced to prevent strategies based on “buying” a
+single product or only a restricted set of products. We acknowledge that
+this feature creates a situation where there is no absolute freedom of
+choice, but rather a relative freedom of buying choice in which a buyer
+receives incentives to buy a certain amount of products from a set list.
+However, many real-life shopping situations conform to a relative
+freedom situation, as often shoppers’ behaviours are driven by the need
+to purchase a set number of products amongst an available choice (e.g.
+going to the closest supermarket to buy a set list of many household
+items because they are running out).
+
+Third, it could be argued that the fact that participants can truly
+purchase only one randomly picked product creates an unrealistic si-
+tuation. This procedure has been previously used in other simulated
+shopping tasks (Knutson et al., 2007; Plassmann et al., 2007; Schaefer
+et al., 2016) to increase the motivational value of the stimuli compared
+to tasks in which purchasing is completely ﬁctitious. This approach is
+particularly useful in neuroimaging experiments in which multiple
+trials (often hundreds) are needed to improve the signal to noise ratio
+(SNR) of brain activity data, as providing funding to the purchase of
+hundreds of products in a psychological experiment would be un-
+realistic in most cases. Future developments in this ﬁeld of research
+could potentially address this issue, such as EEG measurements during
+real shopping environments with portable EEG systems, although this
+approach poses additional challenges, such as how to address move-
+ment artifacts, accurate synchronization between EEG recordings and
+the onset of visual stimulation, etc.
+Fourth, it could be argued that the ERP eﬀects observed in our study
+could reﬂect emotional feelings towards products, rather than processes
+of motivated attention. This would be a reasonable interpretation, as it
+is well understood that preferred products can elicit positive aﬀect (e.g.,
+Walla et al., 2011). However, there are two problems with this ex-
+planation. First, previous research on ERP late positivities does not
+plead in favour of this alternative account. Although late ERP positiv-
+ities can easily diﬀerentiate between emotional and non-emotional
+stimuli, they are typically unable to reliably diﬀerentiate between ne-
+gative and positive pictorial stimuli (e.g. Schupp et al., 2000). Instead,
+much evidence seems to indicate that ERP positivities similar to those
+observed in the current study (N200, LPP and PSW) are best understood
+as neural correlates of selective attention towards motivationally re-
+levant
+Junghöfer, Bradley,
+Elbert, & Lang, 2001; Schupp, Flaisch et al., 2006; Schupp, Stockburger
+et al., 2006; Schupp et al., 2004). Second, “emotion” and motivated
+attention cannot be easily dissociated. An attentional response towards
+motivationally relevant stimuli is widely seen as an inherent component
+of
+1986;
+Öhman & Mineka, 2001; Scherer, Schorr, & Johnstone, 2001), and many
+(if not most) psychophysiological measures of emotional responses are,
+in one way or another, reﬂecting “motivated attention” processes
+(Bradley & Lang, 2000).
+
+(Bradley & Lang,
+
+(Codispoti
+
+reactions
+
+et
+
+al.,
+
+2007;
+
+stimuli
+
+aﬀective
+
+2000;
+
+Frijda,
+
+In summary, this study is the ﬁrst to show that the perception of
+preferred consumer goods in a virtual shopping task is linked to late
+positive slow waves extending up to three seconds following stimulus
+onset. In addition, we replicated previous results that had shown that
+preference for consumer goods modulated early ERP components (e.g.
+N200, Telpaz et al., 2015) and the LPP (Pozharliev et al., 2015). Fur-
+thermore, the overall pattern of the results seems to conﬁrm that ERPs
+to consumer goods are very similar to well-known ERPs of motivated
+attention usually observed with intrinsically emotional stimuli. Based
+on previous research on the ERP correlates of selective attention, we
+tentatively suggest that early ERPs (e.g. the N200) to consumer goods
+could be indicative of preferences driven by unconditional and auto-
+matic processes, whereas later ERPs such as the LPP and the PSW could
+reﬂect preferences built upon more elaborative and conscious cognitive
+processes.
+
+Acknowledgements

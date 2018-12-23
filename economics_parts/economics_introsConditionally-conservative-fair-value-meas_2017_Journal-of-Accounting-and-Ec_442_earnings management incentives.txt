@@ -1,0 +1,486 @@
+
+We investigate whether firms' recurring measurements of the fair values of recognized financial instruments (hereafter
+“fair value measurements”) exhibit conditional conservatism when the instruments do not trade in liquid markets, thereby
+enabling them to exercise discretion over the measurements. 1 Absent such discretion, fair value measurements should be
+unbiased, i. e. , symmetrically incorporate unrealized gains and unrealized losses.  Policymakers and academics often make
+statements or research design choices that suggest fair value measurements generally are unbiased, ignoring biases introduced by discretion.  For example, SEC (2008) states that the “objective of SFAS No.  157 and of existing fair value standards
+is to provide transparent unbiased information about fair value. ” Shaffer (2011) describes fair value measurement as “an
+anchor for”…“an asset/liability approach… [in which] valuations must be objective and neutral.  This requirement overrides
+the constraint of conservatism, which historically assumed a downward bias for asset valuations. ” (Emphasis added in both
+quotes. ) Empirical research examining fair value measurements' predictive power and their value-, returns-, and risk-relevance often sums fair values or fair value gains and losses, which is appropriate only if the summed items are measured
+comparably (e. g. , are unbiased or have the same proportional bias). 2
+Ostensibly in contrast to the view that fair values are unbiased, some influential observers claim that fair value measurements for instruments that do not trade in liquid markets represent optimistic or noisy “mark-to-myth” (Buffett, 2003)
+or “mark-to-make-believe” (Weil, 2007) valuations that are discounted by investors.  Empirical research provides evidence
+supporting these claims (Kolev, 2009; Song Name, 2010; Goh Name, 2009).  To mitigate such discounting, we expect firms to
+take steps to increase the perceived reliability of these measurements.  The step we examine is suggested by the extensive
+literature that documents the contracting and other benefits of conditional conservatism (e. g. , Basu, 1997; Watts, 2003). 
+Roychowdhury (2010) emphasizes the critical role of explicit and implicit governance mechanisms, which increase the
+strength and persistence of firms' incentives to report conditionally conservatively, to obtain these benefits.  Although firms
+make reporting decisions each period, when these incentives are sufficiently strong and persistent, they effectively constitute a “credible commitment” to conditional conservatism (e. g. , Zhang, 2008). 
+We identify the extent of firms' discretion over fair value measurements using disclosures provided under Statement of
+Financial Accounting Standards (SFAS) 157, Fair Value Measurements (FASB, 2006).  This standard requires firms to disclose,
+for each major category of asset and liability, the fair value measurement amounts that are based on active market prices for
+the items being measured (Level 1 inputs), other observable information (Level 2 inputs), or unobservable information
+(Level 3 inputs). 3 These three input levels differ in their observability and individual completeness as measures of fair value,
+and thus in the extent of discipline they provide over firms' fair value measurements.  Level 1 inputs are both observable and
+individually complete measures of fair value, and thus provide a very high level of discipline over fair value measurements. 
+Level 2 inputs are observable but individually incomplete measures of fair value, requiring either adjustments to observed
+market prices for the illiquidity or dissimilarity of the items being fair valued or model-based calculations involving other
+inputs to determine fair values.  Level 3 inputs are both unobservable and individually incomplete measures of fair value.  We
+refer to Level 2 or 3 inputs or fair value measurements based on these inputs as “lower-level”. 
+We predict that firms mitigate investors' discounting of lower-level fair value measurements by reporting the measurements conditionally conservatively, i. e. , by recognizing unrealized losses in a timelier fashion than unrealized gains.  We
+further predict that firms report more conditionally conservative fair value measurements when the measurements are
+evaluated by more knowledgeable investors, verified by more independent third parties, and disclosed more fully in financial reports, governance mechanisms that increase the strength and persistence of firms' incentives to report conditionally conservatively.  Lastly, we predict that firms that narrowly meet or beat earnings targets, an earnings management
+incentive that typically conflicts with conditional conservatism, report less conditionally conservative fair value measurements. 
+To test these predictions, we measure conditional conservatism using two expanded versions of Basu's (1997) approach. 4
+The dependent variables in these expanded models are the portions of comprehensive income (CI) attributable to fair value
+measurements of financial instruments (FVCI) and the remainder of CI (CI–FVCI).  We interact the proportions of fair value
+measurements at the various levels with the explanatory variables in recent implementations of Basu's (1997) approach. 
+Consistent with the discussion above, we expect firms with higher proportions of Level 2 and 3 fair value measurements,
+but not those with higher proportions of Level 1 measurements, to exhibit more conditionally conservative FVCI. 
+In contrast, we do not expect any association between the fair value measurement level proportions and the conditional
+conservatism of CI–FVCI.  Although CI–FVCI includes any conditionally conservative fair-value-based impairment writedowns of tangible and intangible assets (Ramanna and Watts, 2012; Roychowdhury and Martin, 2013), there is no apparent
+reason why the frequency or size of these non-recurring write-downs should vary with the proportions of recognized financial instruments measured at the various fair value levels on a recurring basis.  In this regard, the analysis of CI–FVCI
+constitutes a placebo test. 
+To test our predictions about variation in incentives to report conditional conservative Level 2 and 3 fair value measurements across firms and time, we compare the conditional conservatism of FVCI across four partitions of the full sample. 
+First, to capture the ability of firms' investors to evaluate lower-level fair value measurements, we partition based on the
+proportion of the firm's equity that is owned by non-transient institutional investors.  Second, to capture the verification of
+firms’ lower-level fair value measurements by independent third parties, we partition based on an indicator for audit
+quality.  Third, to capture firms' earnings management incentives that conflict with reporting conditionally conservative
+lower-level fair value measurements, we partition based on an indicator for the firm narrowly meeting or beating earnings
+targets versus clearly missing these targets.  Fourth, to capture investors' improved ability to evaluate firms' Level 2 and
+3 measurements under SFAS 157's expanded disclosure requirements, we examine the sample in the first year before the
+required adoption of SFAS 157, 2007, versus the first year after that adoption, 2008. 5 In addition, we expect SFAS 157's
+expanded disclosures to strengthen the effects of the three firm-level partitioning variables.  To capture these interactive
+effects, we compare the conditional conservatism of FVCI for the sets of subsamples formed based on each of these proxies
+in 2007 versus 2008. 
+Our empirical findings are largely consistent with these predictions.  As expected, in the full sample we find that firms
+with higher Level 2 and 3 proportions exhibit more conditionally conservative FVCI but not CI–FVCI.  In the subsamples
+formed partitioning on a single variable, we find that these results are more pronounced for firms with higher non-transient
+institutional ownership, with higher audit quality, and that do not narrowly meet or beat earnings thresholds, as well as in
+2008.  The results are mostly but less uniformly consistent with expectations in the sets of subsamples formed partitioning
+on both a firm-level proxy and 2007 versus 2008, possibly due to the smaller sample sizes in these two-way partitions. 
+To demonstrate the generalizability of our results to balance sheet items other than financial instruments, we conduct
+similar analysis on pro forma earnings measures calculated using Canadian and U. S.  oil and gas firms' disclosed measures of
+reserves, which are akin to Level 2 or 3 fair value measurements.  We find that the conditional conservatism of these
+earnings measures increases with the inclusion of these reserve measures. 
+To the best of our knowledge, ours is the first paper to examine firms' exercise of discretion to report conditionally
+conservative recurring Level 2 and 3 fair value measurements for recognized financial instruments.  Our paper contributes to
+ongoing debates about the relative merits of unbiased versus conditionally conservative accounting measurement and,
+relatedly, of fair value versus (impaired) amortized cost measurement.  Accounting standard setters, securities regulators,
+and some investors and academics argue that expanded requirements for firms to measure financial instruments and similar items at (unbiased) fair value would increase the usefulness of financial reports (e. g. , FASB, 2011; SEC, 2008; Barth,
+2006, 2014; Barth and Taylor, 2010; Ryan, 2008).  Consistent with these arguments, the FASB recently issued Statement of
+Financial Accounting Concepts No.  8, which eliminated conservatism from the conceptual framework. 6 The Board's rationale
+is that conservative biases prevent accounting numbers from being representationally faithful, an essential qualitative
+characteristic of useful financial information.  Taking an opposing view, other investors and academics argue that eliminating
+conditional conservatism without understanding the reasons for its longstanding existence and pervasive use likely would
+generate unintended adverse economic consequences (e. g. , Watts, 2003; Nissim and Penman, 2008; Kothari Name, 2010). 
+These authors also point out that, despite the FASB's disavowal of conservatism, over its life the Board has repeatedly and
+even increasingly issued standards that require conditional conservatism (Watts, 2003).  Our findings indicate that in
+practice firms report conditionally conservative Level 2 and 3 fair value measurements, potentially mitigating concerns
+about unintended adverse consequences of fair value accounting requirements. 
+Our paper complements prior research that finds firms exercise discretion over the timing and amount of (fair-valuebased) impairment write-downs, typically for non-financial assets (Ramanna and Watts, 2012; Roychowdhury and Martin,
+2013).  The settings examined in this prior research differ from our setting in the following crucial respect.  Asset impairment
+standards require conditional conservatism (i. e. , asset write-ups are prohibited).  In contrast, the FASB's intent in SFAS 157 is
+to yield unbiased reporting, consistent with CON 8's revisions to the conceptual framework.  We provide evidence that,
+despite this intent, in practice reporting firms exercise discretion to meet the market's demand for conditionally conservative fair value measurements.  We believe this evidence is likely to generalize to other settings involving lower-level fair
+value measurements, because it is difficult to legislate against market demand. 
+Our paper exhibits three more specific but still notable differences from this prior research.  First, asset impairments are
+non-recurring, being recorded only when specified, and sometimes hard to meet, conditions are satisfied.  For example, firms
+may have to determine that assets are other-than-temporarily impaired or have less than fully recoverable amortized cost
+bases to record impairments.  This feature implies that firms' exercise of discretion over asset impairments is substantially
+about whether to record impairments in given periods.  In contrast, we examine firms' exercise of discretion over fair value
+measurements every period.  Second, impairments often involve tangible or intangible assets for which fair value measurements rarely are based on Level 1 inputs.  This feature constrains variation in the extent of firms' discretion over impairments, which is generally fairly high.  In contrast, in our setting firms' discretion varies between high for Level 2 and
+3 measurements and low for Level 1 measurements.  Third, firms record asset impairments only when news is sufficiently
+bad.  Hence, studies documenting an association between impairment and conditional conservatism using Basu's (1997)
+approach essentially show differential response to bad news captured in (fair-value-based) impairments versus good news
+captured in non-fair-value-based measurements.  In contrast, we document differential response to bad news conveyed by
+different levels of fair value measurements. 
+Lastly, our results suggest that empirical research examining fair value measurements' predictive power and their value-,
+returns-, and risk-relevance would exhibit improved model specification and statistical power by distinguishing these
+measurements based on their extent of conditional conservatism. 
+2.  SFAS 157 and related prior research
+SFAS 157, which became effective in 2008 with early adoption allowed in 2007, defines fair value and provides comprehensive guidance regarding fair value measurement.  As a central part of that guidance, the standard specifies a threelevel hierarchy of fair value measurement inputs.  Level 1 (highest-level) inputs are quoted prices in active markets for
+identical items.  SFAS 157 requires reporting firms to measure fair values using Level 1 inputs, generally unadjusted, if they
+exist.  Level 2 inputs are most other directly or indirectly observable inputs.  Level 2 inputs include quoted prices for similar
+assets in active markets or identical items in less than active markets.  Quoted priced-based Level 2 inputs generally require
+adjustment for the dissimilarity or illiquidity of the item being fair valued.  Level 2 inputs also include published interest
+rates, yield curves, volatilities, prepayment speeds, default rates, loss severities, credit ratings, et cetera.  These rawer Level
+2 inputs generally must be plugged into models to generate fair value estimates, and the accuracy of these estimates
+depends critically on the validity of the models used.  Level 3 (lowest-level) inputs are based on the reporting entity's
+internal data or are otherwise unobservable, but they should reflect the inputs that market participants would use in pricing
+the item.  Generally, these inputs must also be plugged into models.  SFAS 157 “prioritizes” Level 2 over Level 3 inputs but
+allows reporting firms to use Level 3 inputs rather than available Level 2 inputs if the former inputs reflect “the assumptions
+that market participants would use in pricing the asset or liability. ” The level of a fair value measurement is determined by
+the lowest significant input into the measurement. 
+SFAS 157 requires firms to disclose the amounts of each level of recurring recognized fair value measurements for each
+major category of asset or liability (including major types of investment securities).  The standard and its amendments
+require expanded disclosures for Level 3 (and to a lesser extent Level 2) measurements due to their greater subjectivity. 
+Two sets of prior papers examine SFAS 157-required fair value measurement-level disclosures for financial assets and
+liabilities recognized at fair value.  First, Kolev (2009), Song Name (2010), and Goh Name (2009) examine the value-relevance
+of these disclosures.  These studies provide evidence that financial instrument fair values based on higher level inputs are
+more value-relevant.  Specifically, all three studies find that Level 1 and 2 fair values are more value-relevant than Level 3 fair
+values.  Goh Name (2009) find that Level 1 fair values are more value-relevant than Level 2 fair values.  Song Name (2010) find
+that Level 3 fair values are more value-relevant for banks with better corporate governance. 
+Second, Lev and Zhou (2009) and Riedl and Serafeim (2011) examine the liquidity- and information-risk relevance of
+SFAS 157 fair value measurement-level disclosures.  These studies provide evidence that firms with more financial assets
+with fair values measured using lower-level inputs exhibit higher risk.  Specifically, Lev and Zhou (2009) argue that the three
+fair value measurement levels indicate liquidity risk.  Consistent with this argument, they find that, for events during the
+recent financial crisis that impaired market liquidity, the share price reaction is most negative for financial institutions
+holding Level 3 financial assets, followed by Level 2 assets and then by Level 1 assets.  The reverse holds for events that
+improved market liquidity.  Riedl and Serafeim (2011) argue that the three levels indicate information risk.  They provide
+evidence that firms with more Level 3 financial assets exhibit higher betas than those with Level 1 or Level 2 assets, with
+these differences being more pronounced for firms with poorer information environments.  They also show that SFAS 157
+adoption reduces differences in betas across the fair value levels for firms with richer information environments. 
+<Middle> Research design. 
+We measure conditional conservatism using expanded versions of Basu's (1997) approach.  Basu regresses a measure of
+income deflated by beginning market value of equity on share returns (hereafter “returns”), an aggregate proxy for news
+from all sources, allowing for separate slope coefficients on positive returns (good news) and negative returns (bad news). 
+This model captures the fact that conditional conservatism imposes a higher verification threshold to recognize unrealized
+gains than to recognize unrealized losses, so that income incorporates bad news faster than good news.  Consistent with this
+fact, Basu expects and finds that income is more positively associated with returns when they are negative than when they
+are positive. 
+Dietrich Name (2007), Givoly Name (2007), Patatoukas and Thomas (2011), and others criticize Basu's (1997) approach
+primarily based on its measure of news, arguing that returns are endogenous and their variance decreases with firm size. 
+Ball Name (2013a, 2013b) and others counter that these criticisms are addressable through adjustments to the model
+specification. 
+We use Basu's approach in this study for two primary, non-mutually exclusive reasons.  First, non-news-based measures
+do not capture conditional conservatism as directly as news-based measures (Ryan, 2006).  Second, the markets for debt
+instruments, the vast majority of firms’ financial instruments measured at fair value, were highly illiquid during the financial
+crisis.  In contrast, equity markets remained quite liquid during the crisis. 7 Hence, returns likely constituted the best available
+summary news measure with which external parties could verify firms' fair value measurements during this period. 
+This point highlights the fact that, in using Basu's (1997) approach, we assume that returns is a good proxy for external
+parties' information about changes in the fair values of firms' financial instruments.  An analogous assumption is made in
+prior studies using Basu's approach.  Two aspects of our results provide comfort that this assumption does not drive our
+results.  First, we find predictable differences in the conditional conservatism of Level 2 and 3 fair value measurements across
+sample partitions based on proxies for investors' ability to evaluate these measurements, the verification of these measurements by independent third parties, and firms' incentives not to report conditionally conservatively.  There is no obvious
+reason why any limitation of returns as a measure of news would vary across these partitions in this fashion.  Second, in
+Section 6 we analyze oil and gas firms' disclosures of measures of their reserves that are akin to Level 2 and 3 fair value
+measurements.  In untabulated analyses, we verify that these reserve measures exhibit conditional conservatism using a
+measure of news that is tailored to the setting: the portion of returns explained by oil and gas price index returns. 
+A now common expansion of Basu's (1997) model interacts the beginning market-to-book ratio (MTBt-1) with the two
+returns variables.  Accounting standards that govern asset impairments typically require assets to be written down when
+their fair values drop sufficiently below their book values.  MTBt-1 captures the amount of slack that firms have built up as of
+the beginning of the period to absorb bad news before impairment write-downs are required (Beaver and Ryan, 2005;
+Roychowdhury and Watts, 2007).  Relatedly, Lawrence Name (2013) view MTBt-1 as an inverse proxy for non-discretionary
+conditional conservatism.  To ensure that our fair value measurement level proportions do not capture these previously
+documented effects, we also include interactions of MTBt-1 with the returns variables in the model.  Following the recommendations of Roychowdhury and Martin (2013, pp.  142), we do not include other control variables, although our
+inferences are robust to controlling interactively for leverage and size. 
+To examine the distinct impacts of the fair value measurement levels on conditional conservatism, we expand Basu's
+(1997) model further by incorporating the fair value measurement level proportions and their interactions with the returns
+variables. 
+Appendix 1 defines all model variables.  The dependent variable, FVCIt, is the portion of comprehensive income attributable to financial instruments recognized at fair value divided by the firm's market value of equity at the beginning of the
+year.  The numerator of FVCIt contains all significant unrealized and realized gains and losses on these instruments identifiable on COMPUSTAT, including: (1) net realized gains on trading, available-for-sale (AFS), and held-to-maturity (HTM)
+investment securities, net unrealized gains on trading securities, and net hedge ineffectiveness gains that are recorded in
+net income; and (2) net unrealized gains on AFS securities, HTM securities (post-April 2009), and cash-flow-hedge derivatives that are recorded in other comprehensive income.  We include both unrealized and realized gains and losses in FVCIt
+because realized gains and losses mechanically reduce net unrealized gains and losses dollar for dollar, and we want FVCI to
+be unaffected by the likely asymmetric realization of gains and losses (due to tax minimization and other reasons).  Intuitively, FVCI equals what unrealized gains and losses would have been had the firm not realized any gains and losses
+during the period,8 which is often referred to as “total” gains and losses (e. g. , Ryan, 2007).  Rett is the firm's stock return for
+the 12 months ending three months after the fiscal year end.  Dt is an indicator variable that takes a value of 1 when Rett is
+negative and 0 otherwise. 
+Lev1t (Lev23t) is the fair value of recognized financial assets and liabilities that are measured at fair value on a recurring
+basis using Level 1 (Level 2 and 3) inputs divided by the carrying value of total assets. 9 In most analyses, we combine Level
+2 and Level 3 fair value measurements because the latter constitute a very small proportion of financial instruments recognized at fair value, although this choice does not alter our inferences.  We calculate the fair value measurement level
+proportions deflating by total assets so that these proportions reflect the percentages of firms' balance sheets that are
+measured at these levels.  In Eq.  (1), these are the most natural proportions to mediate the relation between Rett, which
+reflects all firm-level news, whether attributable to balance sheet items measured at fair value or other exposures, and FVCIt,
+which reflects only income attributable to items measured at fair value. 10,11 Henceforth, we suppress time subscripts except
+when necessary for clarity. 
+Ideally, the numerator of FVCI would include only the comprehensive income attributable to recurring fair value measurements of financial instruments.  However, due to COMPUSTAT's aggregation of the data items used to calculate FVCI, this
+variable includes one type of non-recurring fair value measurement: other-than-temporary (OTT) impairments of HTM
+securities. 12 This inclusion should not significantly affect our results for three reasons.  First, OTT impairments of HTM
+securities are infrequent and small compared to bank assets. 13 Second, the inclusion of non-recurring impairments in FVCI
+should bias against finding support for our predictions regarding the interactions of returns with Lev1 and Lev23, because
+these variables only reflect the proportions of recognized financial instruments measured at fair value on a recurring basis. 
+Third, we conduct untabulated specification analyses estimating Eq.  (1) using only unrealized gains and losses recorded in
+other comprehensive income as the dependent variable and, alternatively, on a smaller sample of bank holding companies
+(BHCs) with available regulatory Y-9C data that enables FVCI to be calculated purely in terms of recurring fair value measurements.  As discussed in Section 5. 1 below, the results of these specification analyses are consistent with the tabulated
+results. 
+Because Level 1 fair value measurements leave little room for managerial discretion, we expect β11 on D*Ret*Lev1 (referred to as the asymmetric timeliness coefficient for those measurements) to be zero.  Because Level 2 and 3 fair value
+measurements allow for discretion, we expect β15 on D*Ret*Lev23 (referred to as the asymmetric timeliness coefficient for
+those measurements) to be positive.  Whereas zero is the most appropriate null hypothesis (or benchmark) for β15, we also
+expect this coefficient to be larger than β11.  Although a less direct test of differential conditional conservatism, we also
+expect the sum of β14 on Ret*Lev23 and β15 (referred to as the total bad news timeliness coefficient for Level 2 and
+3 measurements), to be significantly larger than the sum of β10 on Ret*Lev1 and β11 (referred to as the total bad news
+timeliness coefficient for Level 1 measurements). 
+As a placebo test, we also estimate Eq.  (1) replacing FVCI as the dependent variable with the portion of comprehensive
+income not attributable to recognized fair value measurements of financial instruments divided by the firm's market value
+of equity at the beginning of the year, CI–FVCI.  Although we expect CI–FVCI to exhibit conditional conservatism, this
+conservatism should not vary with the fair value measurement level proportions. 
+All pooled regressions include firm and year fixed effects (Ball Name, 2013a, 2013b) and report standard errors calculated
+clustering observations by firm (Petersen, 2009).  Unless indicated otherwise, significance levels are calculated using twotailed tests. 
+4.  Sample selection and descriptive statistics
+We obtain accounting data, including recurring measurements of the fair values of recognized financial instruments
+using the various input levels, from COMPUSTAT, stock market data from CRSP, and analyst data from IBES.  The sample
+period covers the eight years 2007–2014.  This period begins in 2007, the year the few early adopters of SFAS 157 made the
+required disclosures of fair value measurements of financial instruments in the three levels.  Regular adopters first made
+these disclosures in 2008.  To be included in the full sample, we require observations to have non-missing values of the
+variables in Eq.  (1), which yields 27,904 firm-year observations. 14 Analyses involving partitions of the full sample may lose
+observations due to the non-availability of the partitioning variable.  To mitigate the influence of outliers while not disproportionately truncating observations in given years, we winsorize continuous variables at the 1st and 99th percentiles of
+their distributions each year.  Our inferences are unaffected by instead winsorizing at the same percentiles in the pooledTable 1 reports the number of observations and the means of the fair value measurement level proportions for each of
+the Fama-French 17 industry classifications. 15 As expected, financial firms (industry #16) have the highest proportion of
+assets that are fair valued financial instruments.  The vast majority of fair valued financial instruments are assets, with the
+ratio of fair value assets to fair value liabilities being over 7 to 1.  The mean of Level 2 financial instruments is slightly higher
+than the mean of Level 1 instruments, particularly for financial firms, and both far exceed the mean of Level 3 instruments. 
+Table 2 reports descriptive statistics for the uninteracted continuous variables in Eq.  (1), breaking out fair value measurements into all three levels separately for assets and liabilities.  These statistics are similar to those reported in other
+studies.  The distributions of fair value measurement levels are negatively skewed because non-zero observations are
+concentrated in the upper quartiles, so that the means always exceed the medians. 
+Table 3, Panel A reports the Pearson correlations of these continuous variables, for brevity not breaking out fair value
+measurements separately for assets and liabilities.  FVCI is significantly positively associated with Lev2 and Lev3 but insignificantly associated with Lev1; these differential associations likely reflect the tendency for financial instruments fair
+valued using lower-level inputs to have greater credit and liquidity risk and the fact that firms require higher expected
+returns to hold riskier items.  MTB is significantly positively associated with Lev1 and significantly negatively associated with
+Lev2 and Lev3, indicating the importance of controlling for MTB in our study. 
+Table 3, Panel B reports the Pearson correlations of the three firm-level partitioning variables: institutional ownership
+percentage, the audit quality indicator, and the indicator for narrowly meeting or beating earning targets.  The correlations
+range from low values of 0. 015 for institutional ownership and narrowly meeting or beating earnings targets and 0. 016 for
+audit quality and narrowly meeting or beating earnings targets to a moderate 0. 277 for institutional ownership and audit
+quality.  Hence, the partitioning variables appear to capture largely distinct constructs. 
+5.  Empirical results
+5. 1.  Conditionally conservative Level 2 and 3 fair value measurements
+We first test our prediction that Level 2 and 3 fair value measurements exhibit conditional conservatism by estimating
+Eq.  (1), i. e. , the expansion of Basu's (1997) model to include interactions of Ret with the fair value measurement level
+proportions Lev1 and Lev23, on the full sample.  Table 4, Panel A reports the primary estimation results.  Column (1) reports
+the estimation with FVCI as the dependent variable.  Column (2) reports the estimation with CI–FVCI as the dependent
+variable, i. e. , the placebo test.  The bottom of the panel reports the significance levels of one-tailed Wald tests of the difference of the asymmetric timeliness coefficients for Level 2 and 3 versus Level 1 fair value measurements (i. e. , β15 on
+D*Ret*Lev23 minus β11 on D*Ret*Lev1), as well as of the difference of the corresponding total bad news timeliness coefficients (i. e. , the sum of β14 on Ret*Lev23 and β15 minus the sum of β10 on Ret*Lev1 and β11). 
+We briefly discuss the coefficients on the variables other than those involving the fair value measurement level proportions, which are the focus of prior research.  The coefficient on Ret is insignificant in both the FVCI and CI–FVCI models. 17
+Hence, neither component of CI captures much contemporaneous good news.  Conditional conservatism is strongly evident
+in the large and highly significantly positive coefficient on D*Ret in the CI–FVCI model (t-stat¼7. 23).  That is, CI–FVCI is more
+sensitive to contemporaneous bad news than to contemporaneous good news, i. e. , exhibits asymmetric timeliness.  In
+contrast, this coefficient is insignificant in the FVCI model.  The coefficient on D*Ret*MTB is significantly negative in both the
+FVCI and the CI–FVCI models (t-stat¼  3. 13 and  4. 65, respectively), but it is one-eighth the absolute magnitude in the
+FVCI model than in the CI–FVCI model.  These results are consistent with the prior research discussed above which shows
+that MTB captures the amount of slack that firms have built up as of the beginning of the period to absorb bad news before
+impairment write-downs are required.  Collectively, the insignificant coefficient on D*Ret and the significant but small
+negative coefficient on D*Ret*MTB in the FVCI model suggests that fair value measurements exhibit at most a low baseline
+level of conditional conservatism that is unrelated to Lev23.  This low baseline level could be explained by FVCI including the
+few OTT impairments of HTM securities, or by Lev23 only partially capturing discretion over lower-level fair value
+measurements. 
+We turn to the asymmetric timeliness and total bad news timeliness coefficients for the fair value measurement level
+proportions.  As predicted, in the FVCI model the asymmetric timeliness coefficient for Level 1 fair value measurements, β11
+on D*Ret*Lev1, is insignificant, consistent with high market discipline forcing firms to record unbiased Level 1 fair value
+measurements.  Also as predicted, the asymmetric timeliness coefficient for Level 2 and 3 measurements, β15 on D*Ret*Lev23, is positive and significant (0. 119, t-stat¼3. 75) and significantly larger than β11 (p-valo0. 002), consistent with
+limited market discipline enabling firms to exercise discretion to record conditionally conservative lower-level fair value
+measurements.  Similarly, the total bad news timeliness coefficient for Level 2 and 3 measurements, β14 on Ret*Lev23 plus
+β15, is significantly larger than the total bad news timeliness coefficient for Level 1 measurements, β10 on Ret*Lev1 plus β11
+(p-valo0. 001).  In contrast, in the CI–FVCI model we observe insignificant asymmetric timeliness for both the fair value
+measurement level proportions. 
+Table 4, Panel B reports the estimation of expanded versions of Eq.  (1) that decompose Lev23 into Lev2 and Lev3.  This
+decomposition yields minimal changes in the coefficients on variables that do not involve Lev2 and Lev3 from the results
+reported in Panel A.  The bottom of Panel B reports the significance of one-tailed Wald tests of the differences of the
+asymmetric timeliness and total bad news timeliness coefficients for the three possible pairings of each of these coefficients
+across the three fair value measurement level proportions.  As predicted, in the FVCI model the asymmetric timeliness
+coefficients for Level 2 fair value measurements, β15 on D*Ret*Lev2, and for Level 3 measurements, β19 on D*Ret*Lev3, are
+both positive and significant (0. 098, t-stat¼3. 01 and 0. 198, t-stat¼1. 99, respectively).  Although β19 is twice as large as β15,
+consistent with the expected greater conditional conservatism in Level 3 than in Level 2 measurements, the difference of
+these coefficients is insignificant due to the relatively high standard error of β19, which likely reflects the small mean and
+variability of the Level 3 proportion.  However, β15 and β19 are both significantly larger than the insignificant asymmetric
+timeliness coefficient for Level 1 measurements, β11 on D*Ret*Lev1 (p-val¼0. 011 and p-val¼0. 025, respectively).  Similarly,
+the total bad news timeliness coefficient for Level 3 measurements, β18 on Ret*Lev3 plus β19, is considerably larger than the
+total bad news timeliness coefficient for Level 2 measurements, β14 on Ret*Lev2 plus β15, but insignificantly so, and both of
+these coefficients are significantly larger than the insignificant total bad news timeliness coefficient for Level 1 measurement, β10 on Ret*Lev1 plus β11 (p-val¼0. 001 and p-val¼0. 001, respectively).  In contrast, in the CI–FVCI model we observe
+insignificant asymmetric timeliness coefficients for all three fair value measurement level proportions. 
+We conducted three untabulated specification analyses for the models whose estimations are reported in Table 4, Panel
+A, all of which yield the same inferences as the tabulated results.  The first analysis addresses the fact that the dependent
+variable in the model in column (1) of Table 4, Panel A, FVCI, includes the sum of unrealized and realized gains and losses.  As
+discussed in Section 3, because realized gains and losses yield perfectly offsetting effects on the balance of net unrealized
+gains and losses, FVCI is unaffected by whether unrealized gains and losses are realized in a period.  Still, the question arises
+whether the findings that Level 2 and 3 fair value measurements are conditionally conservative reported in this column are
+attributable to the net unrealized gains and losses component of FVCI, the realized gains and losses component of FVCI, or
+both.  This question arises because firms' choices to realize gains and losses likely exhibit asymmetry due to tax mitigation or
+for other reasons, and so realization of gains and losses may affect the estimated conditional conservatism of the gains and
+losses that remain unrealized after such realization (i. e.  net unrealized gains and losses). 
+To address this concern, we estimated this model replacing the dependent variable FVCI with two narrower but purer
+measures of unrealized gains and losses versus realized gains and losses available on COMPUSTAT: (1) net unrealized gains
+and losses on AFS and HTM securities and cash flow hedge derivatives recorded in other comprehensive income, which
+should mostly capture unrealized gains and losses, since AFS and HTM securities are sold or OTT impaired relatively infrequently; and (2) net realized and unrealized gains and losses on the disposition of securities held for resale, which should
+mostly capture realized gains and losses due to the typically short holding period for trading securities.  We also estimated
+the model for a much smaller sample of 1,829 observations for bank holding companies (BHCs) from 2007–2013, for which
+less aggregated bank regulatory Y-9C filing data is available, replacing FVCI with narrower but purer unrealized gains and
+losses versus realized gains and losses available on those filings: (1) unrealized gains and losses on AFS securities (the
+change in data item BHCK8434) and (2) realized gains and losses on AFS securities (data item BHCK3196).  A downside of the
+Y-9C analysis is considerably lower statistical power and external validity due to the much smaller and single-industryIn all four of these estimations, the coefficient β11 on D*Ret*Lev1 is insignificantly different from zero, indicating that
+Level 1 measurements are not associated with either the conditional conservatism of unrealized gains and losses or the
+asymmetric realization of gains and losses.  In the two estimations with net realized and unrealized gains and losses on the
+disposition of securities held for resale from COMPUSTAT or realized gains and losses on AFS securities from the Y-9C filings
+as the dependent variable, the coefficient on β15 on D*Ret*Lev23 is insignificantly different from zero, indicating that Level
+2 and 3 measurements are not associated with asymmetric realization of gains and losses.  In the two estimations with net
+unrealized gains and losses on AFS and HTM securities and cash flow hedge derivatives recorded in other comprehensive
+income from COMPUSTAT or unrealized gains and losses on AFS securities from the Y-9C filings as the dependent variable,
+the coefficient on β15 on D*Ret*Lev23 is significantly positive at the 10% level or better (t-stat¼3. 28 in the COMPUSTAT
+sample and t-stat¼1. 86 in the Y-9C sample), consistent with the results for the model with FVCI as the dependent variable
+reported in the Table 4, Panel A, column (1). 
+The second specification analysis is intended to ensure that the inclusion of non-recurring OTT impairments of HTM
+securities in FVCI rather than CI-FVCI does not drive the results in the models reported in columns (1) and (2) of Table 4,
+Panel A.  In this analysis, we again use the less aggregated Y-9C filing data to calculate the following analog to FVCI that
+excludes OTT impairments of HTM securities: trading revenue (data item BHCKA220) plus net realized gains on AFS securities (BHCK3196) plus net unrealized gains on AFS securities (the change in BHCK8434) divided by beginning-of-year
+market value of equity.  We define CI-FVCI accordingly.  As in the prior test, the coefficient on β11 on D*Ret*Lev1 is insignificantly different from zero in both the FVCI and CI-FVCI models.  The coefficient on β15 on D*Ret*Lev23 is significantly
+positive in the FVCI model (t-stat¼3. 29) and insignificant in the CI-FVCI model, consistent with the results for the models
+reported in the Table 4, Panel A. 
+The third specification analysis addresses the fact that many firms do not hold appreciable financial instruments.  In this
+analysis, we restrict the sample to the 12,173 observations with strictly positive values of both Lev1 and Lev23.  Compared to
+the tabulated analysis, this analysis sacrifices external validity for internal validity.  Specifically, each observation in this
+subsample potentially exhibits both the predicted conditionally conservative Level 2 and 3 fair value measurements and the
+predicted unbiased Level 1 measurements.  We estimate both models reported in Table 4, Panel A.  As in Table 4, Panel A, we
+find that the coefficient on β11 on D*Ret*Lev1 is insignificantly different from zero in both models.  We find that the coefficient on β15 on D*Ret*Lev23 is significantly positive in the FVCI model (t-stat¼3. 32) and insignificant in the CI-FVCI model. 
+In summary, the results reported in Table 4 and of untabulated specification analyses indicate that Level 2 and 3 fair
+value measurements on average exhibit conditional conservatism, but Level 1 measurements do not.  These results are
+consistent with limited market discipline over lower-level fair value measurements providing reporting firms with the
+incentive to mitigate investors' discounting of these measurements by reporting conditionally conservative measurements. 
+In the following two subsections, we test whether these on-average effects vary across firms and time based on proxies for
+firms’ incentives to report conditionally conservative lower-level fair value measurements. 
+5. 2.  Partitioning by firm-level proxies for firms' incentives to report conditionally conservative level 2 and 3 fair value
+measurements
+We partition the full sample based on three firm-level proxies for firms' incentives to report conditionally conservative
+level 2 and 3 fair value measurements.  First, more knowledgeable and skilled (hereafter “knowledgeable”) investors should
+be better able to evaluate firms' lower-level fair value measurements and thus more likely to discount unreliable measurements.  Hence, we expect firms with more knowledgeable investor bases to have greater incentive to mitigate such
+discounting and thus to be more likely to report conditionally conservative lower-level fair value measurements.  We proxy
+for the knowledgeableness of a firm's investor base using the proportion of its equity that is owned by non-transient
+(dedicated and quasi-indexer) institutional investors, equity investors that prior research shows actively monitor firms
+(Bushee, 2001; Ramalingegowda and Yu, 2012). 18 Firms in the lowest (highest) institutional investor quintiles are classified
+as having low (high) non-transient institutional ownership (hereafter “institutional ownership”). 
+Second, verification of financial report information by more independent third parties increases firms' incentives to
+provide more reliable information, including lower-level fair value measurements.  Given the limited market discipline over
+these measurements, however, no amount of verification can render them perfectly reliable.  Accordingly, we expect independent third parties verifying firms' lower-level fair value measurements to be particularly concerned with firms understating unrealized losses or overstating unrealized gains, and thus to be more amenable to verifying measurements that
+exhibit conditional conservatism as acceptable.  Based on prior research showing that larger and longer tenured auditors
+provide higher quality audits (Basu, 1997; Basu Name, 2001; Watts, 2003; Ruddock Name, 2006; Bell Name, 2015), we proxy for
+the independence of third-party verification using an indicator variable that categorizes firms employing Big 4 auditors with
+above-median auditor tenure as high audit quality and firms employing non-Big 4 auditors with below-median auditor
+tenure as low audit quality. 
+Third, prior research provides evidence that firms that narrowly meet or beat earnings targets exhibit incentives that
+conflict with conditional conservatism (Givoly Name, 2007; Lobo Name, 2008; Park and Lee, 2014).  We characterize firms that
+narrowly meet or beat earnings targets (hereafter “narrow beaters”) as exhibiting incentives that conflict with conditional
+conservatism, and firms that clearly miss these targets (hereafter “clear missers”) as exhibiting incentives that do not
+conflict with conditional conservatism.  We define narrow beaters and clear missers using thresholds employed in prior
+research (Roychowdhury, 2006; Zang, 2012).  Narrow beaters are firm-years with either a change in basic EPS excluding
+extraordinary items between zero and two cents or actual EPS exceeding the last analyst forecast consensus before the fiscal
+year end between zero and two cents.  Clear missers are firm-years with both of these differences being more than five cents
+in absolute value. 
+Table 5, Panel A reports the results of estimating Eq.  (1) with FVCI as the dependent variable (i. e. , the model reported in
+column (1) of Table 4, Panel A) for partitions of the full sample based on each of these three proxies.  Columns (1) and (2)
+[(3) and (4)] {(5) and (6)} report the results for the high versus low institutional ownership [high versus low audit quality]
+{clear missers versus narrow beaters} subsamples, respectively.  The bottom of the panel reports the significance of onetailed Wald tests of the difference of the asymmetric timeliness coefficient for Level 2 and 3 fair value measurements, β15,
+and of the difference of the total bad news timeliness coefficient for those measurements, β14þβ15, across the two subsamples formed by each partitioning variable. 
+In addition, to provide insight into the joint effects of the partitioning variables, Table 5, Panel B reports the estimated
+coefficients of interest and the same Wald tests just described for partitions of the full sample based on the values of two
+proxies with the same expected directional effect on the conditional conservatism of firms' lower-level fair value measurements (hereafter “complementary” values of the proxies).  High ability of investors to evaluate lower-level fair value
+measurements, high third-party verification of these measurements, and low firm incentives that conflict with conditional
+conservatism are complementary values of the proxies; similarly, low investor ability, low third-party verification, and high
+firm incentives that conflict with conditional conservatism are also complementary.  Columns (1) and (2) [(3) and (4)]
+{(5) and (6)} report the results for the high institutional ownership and high audit quality subsample versus the low institutional ownership and low audit quality subsample [the high institutional ownership and clear missers subsample
+versus the low institutional ownership and narrow beaters subsample] {the high audit quality and clear missers subsample
+versus the low audit quality and narrow beaters subsample}, respectively. 
+As with the Table 4 results discussed above, for all partitions in both panels of Table 5 we find no evidence of conditional
+conservatism in Level 1 fair value measurements.  Hence, for brevity we discuss the asymmetric timeliness and total bad
+news timeliness coefficients only for Level 2 and 3 measurements. 
+We first discuss the results partitioning by one proxy at a time reported in Table 5, Panel A.  As expected, for the high
+institutional ownership subsample in Column (1) the asymmetric timeliness coefficient for Level 2 and 3 fair value measurements, β15, is positive and significant (0. 342, t-stat¼2. 55), whereas β15 is insignificant for the low institutional ownership subsample in Column (2).  The Wald test of the positive difference of β15 across the two subsamples is significant (pval¼0. 029).  The Wald test of the positive difference of the total bad news timeliness coefficient for Level 2 and 3 measurements, β14þβ15, across the subsamples is also significant (p-valo0. 001). 
+Also as expected, for the high audit quality subsample in Column (3) the asymmetric timeliness coefficient for Level
+2 and 3 fair value measurements, β15, is positive and significant (0. 147, t-stat¼2. 49), whereas for the low audit quality
+subsample in Column (2) this coefficient is insignificant.  The Wald test of the positive difference of β15 across the two
+subsamples is significant (p-val¼0. 011).  Similarly, the Wald test of the positive difference of the total bad news timeliness
+coefficient for Level 2 and 3 measurements, β14þβ15, across the subsamples is significant (p-valo0. 001). 
+Again as expected, for the clear missers subsample in Column (5) the asymmetric timeliness coefficient for Level 2 and
+3 fair value measurements, β15, is positive and significant (0. 252, t-stat¼2. 12), whereas for the narrow beaters subsample in
+Column (6) β15 is positive and of reasonable magnitude but insignificant.  The latter result may reflect an appreciable portion
+of narrow beaters not having incentives that conflict with conditional conservatism.  For this reason, the Wald test of the
+positive difference of β15 across the two subsamples is insignificant, as is the Wald test of the positive difference of the total
+bad news timeliness coefficient for Level 2 and 3 measurements, β14þβ15. 
+We turn to the results partitioning by complementary values of two proxies reported in Table 5, Panel B.  Consistent with
+the results in Table 5, Panel A, this panel reports significant positive asymmetric timeliness coefficients for Level 2 and 3 fair
+value measurements, β15, for the subsamples in columns (1), (3), and (5) for which we expect more conditionally conservative lower-level fair value measurements, and insignificant β15 in the other three columns.  For the high institutional
+ownership and high audit quality subsample versus the low institutional ownership and low audit quality subsample reported in columns (1) and (2), the Wald tests of the positive differences in β15 and in the total bad news timeliness coefficients for Level 2 and 3 measurements, β14þβ15, are significant (p-val¼0. 015 and p-valo0. 001, respectively).  The Wald
+tests for the differences of these coefficients for the other subsample pairings in the remaining columns are insignificant,
+however.  This appears to be attributable to the large positive but insignificant β15 coefficients (as in Table 5, Panel A) and
+relatively few observations (777 in column (4) and 279 in column (6)) in the subsamples involving narrow beaters. 
+In summary, aside from the insignificant Wald tests of differences in the coefficients of interest across the intersections of
+the complementary subsamples that involve narrow beaters, the results reported in Table 5 provide strong evidence that the
+conditional conservatism of Level 2 and 3 fair value measurements increases with two firm-level proxies for firms' incentives to report conditionally conservative measurements (institutional ownership and audit quality) and decreases with
+a firm-level proxy for firms' earnings management incentives that conflict with conditional conservatism (narrower beaters
+versus clear missers). 
+5. 3.  Partitioning pre- versus post-SFAS 157
+By requiring firms to disclose their fair value measurements at each level for each major category of asset and liability
+each period, SFAS 157 significantly improves the ability of investors to evaluate firms' fair value measurements.  This requirement should increase investors' discounting of measurements perceived to be unreliable.  Hence, we expect the requirement to increase firms’ incentive to report conditionally conservative measurements. 
+To test this expectation, we partition the full sample into the year before regular adopters' adoption of SFAS 157, 2007,
+versus the subsequent year, 2008.  To ensure a clean pre-SFAS 157 subsample, we drop the 38 early adopters of the standard. 
+Because SFAS 157 did not require firms to make disclosures for years prior to adoption, to conduct the 2007 analysis we
+must make some assumption about the fair value measurement level proportions in that year.  Similar to Riedl and Serafeim
+(2011), we assume firms' 2007 proportions equal their disclosed proportions for 2008. 20 While the single year 2007 constitutes a relatively small sample for the pre-SFAS 157 analysis, we do not include 2006 or prior years in the pre-SFAS 157
+sample, because we expect firms' fair value measurement level proportions to vary considerably more than usual from the
+non-crisis year 2006 to the crisis year 2007.  For comparability, we also include only the single year 2008 for the post-SFAS
+157 analysis. 
+Columns (1) and (2) of Table 6, Panel A report the estimation of Eq.  (1) with FVCI as the dependent variable for the 2007
+and 2008 subsamples, respectively.  The bottom of panel reports the significance of one-tailed Wald tests of the difference of
+the asymmetric timeliness coefficient for Level 2 and 3 fair value measurements, β15, and of the difference of the total bad
+news timeliness coefficient for those measurements, β14þβ15, across the two subsamples.  Unexpectedly, we find a small but
+significantly negative asymmetric timeliness coefficient β11 for Level 1 fair value measurements in the 2007 subsample
+( 0. 036, t-stat¼  2. 14); we have no explanation for this coefficient, although it may result from using the 2008 Level
+1 proportion to proxy for the 2007 proportion.  As expected, β15 is positive and significant for the 2008 subsample (0. 190, tstat¼2. 89).  β15 is also positive and significant for the 2007 subsample (0. 059, t-stat¼3. 08), but less than one-third its
+magnitude in the 2008 subsample.  As expected, the positive difference of this coefficient across the 2008 versus 2007
+subsamples is significant (p-val¼0. 015), as is the positive difference of β14þβ15 across these subsamples (p-valo0. 001). 
+In summary, the results reported in Table 6, Panel A provide strong support for our prediction that the conditional
+conservatism of Level 2 and 3 fair value measurements increased under SFAS 157's expanded disclosure requirements for
+these measurements. 
+5. 4.  Partitioning by the firm-level proxies and pre- versus post-SFAS 157
+We also expect SFAS 157's expanded disclosure requirements to increase the effects of the three firm-level proxies on the
+conditional conservatism of lower-level fair value measurements.  Specifically, these disclosures should: enable more
+knowledgeable investors to better evaluate firms' lower-level fair value measurements; make independent third-party
+auditors more aware of and thus concerned about firms' discretion over these measurements; and make firms' exercise of
+discretion over these measurements more apparent.  Although the last effect may reduce the number of firms that fall in the
+narrow beater subsample due to their exercise of discretion over fair value measurements, in this case it should also sharpen
+the distinction between the remaining narrow beaters and clear missers. 
+Table 6, Panels B-D report the estimated coefficients of interest in Eq.  (1) for subsamples formed by further partitioning
+the subsamples based on the three firm-level proxies into 2007 versus 2008.  The bottoms of these panels report the significance of three sets of one-tailed Wald tests of (differences in) differences of the asymmetric timeliness coefficient for
+Level 2 and 3 fair value measurements, β15, and of (differences in) differences of the total bad news timeliness coefficient for
+these measurements, β14þβ15, across (pairs of) subsamples.  The first set tests the difference of β15 and the difference of
+β14þβ15 across the two subsamples formed based on each of the firm-level proxies (e. g. , high versus low institutional
+ownership) in each of 2007 and 2008; these tests reveal whether each firm-level proxy has effects in each year.  The second
+set tests the difference of β15 and the difference of β14þβ15 for subsamples formed based on a given value of the each of
+three firm-level proxies (e. g. , high institutional ownership) across 2007 versus 2008; these tests reveal whether SFAS 157
+influences the effects of each value of each firm-level proxy.  The third set tests the difference in the difference of β15 and the
+difference in the difference of β14þβ15 across the two subsamples formed based on each firm-level proxy (e. g. , high versus
+low institutional ownership) across 2007 versus 2008; these tests reveal whether SFAS 157 influences the effects of each
+firm-level proxy.  Because the sample sizes are considerably reduced from prior analyses, the significance levels of the
+coefficients and Wald tests, particularly the demanding difference-in-difference tests, are reduced. 
+Table 6, Panel B reports the results for the high versus low institutional ownership subsamples in 2007 (columns (1) and
+(2), respectively) and 2008 (columns (3) and (4), respectively).  In 2007, the asymmetric timeliness coefficient for Level 2 and
+3 fair value measurements, β15, is insignificant for both institutional ownership subsamples, as are the Wald tests across
+these subsamples.  In contrast, in 2008 β15 is significantly positive for the high institutional ownership subsample (0. 424, tstat¼3. 37) and insignificant for the low subsample.  The Wald tests of the positive differences in β15 and in the total bad
+news coefficient for Level 2 and 3 fair value measurements, β14þβ15, across the high versus low institutional ownership
+subsamples in 2008 are both significant (p-val¼0. 031 and p-val¼0. 036, respectively), consistent with the conditional
+conservatism of lower-level fair value measurements increasing with institutional ownership in the post-SFAS 157 period. 
+The Wald tests of the positive differences in these coefficients for the high institutional ownership subsample across 2008
+versus 2007 are also both significant (p-valo0. 001 and p-valo0. 001, respectively), consistent with the effect of high institutional ownership increasing as a result of SFAS 157.  In contrast, the Wald tests of the differences in these coefficients for
+the low institutional ownership subsample across 2008 versus 2007 are both insignificant.  The Wald tests of the positive
+differences in the differences of β15 and of β14þβ15 across the high versus low institutional ownership subsamples across
+2008 versus 2007 are both significant (p-val¼0. 014 and p-val¼0. 019, respectively), consistent with the differential effect of
+high versus low institutional ownership increasing as a result of SFAS 157. 
+Table 6, Panel C reports the results for the high versus low audit quality subsamples in 2007 (columns (1) and (2),
+respectively) and 2008 (columns (3) and (4), respectively).  In 2007, the asymmetric timeliness coefficient for Level 2 and
+3 fair value measurements, β15, is significantly positive (although fairly small) for the high audit quality subsample (0. 060, tstat¼2. 12) and insignificant in the low audit quality subsample.  The Wald tests of the differences in β15 and in the total bad
+news coefficient for Level 2 and 3 fair value measurements, β14þβ15, across these subsamples are both insignificant.  In
+contrast, in 2008 β15 is significantly positive (and much larger) for the high audit quality subsample (0. 219, t-stat¼2. 66) and
+insignificant for the low subsample.  The Wald tests across these subsamples are insignificant.  The Wald tests of the positive
+differences in these coefficients for the high audit quality subsample across 2008 versus 2007 are both significant (pval¼0. 026 and p-val¼0. 007, respectively), consistent with the effect of high audit quality increasing as a result of SFAS 157. 
+In contrast, the Wald tests of the differences in these coefficients for the low audit quality subsample across 2008 versus
+2007 are insignificant.  The Wald tests of the differences in the differences these coefficients across the high versus low audit
+quality subsamples across 2008 versus 2007 are both insignificant. 
+Table 6, Panel D reports the results for the clear missers versus narrow beaters subsamples in 2007 (columns (1) and (2),
+respectively) and 2008 (columns (3) and (4), respectively).  In 2007, the asymmetric timeliness coefficient for Level 2 and
+3 fair value measurements, β15, is insignificant for both earnings management incentives subsamples, as are the Wald tests
+across these subsamples.  In contrast, in 2008 β15 is significantly positive for the clear missers subsample (1. 145, t-stat¼5. 94)
+and significantly positive (but much smaller) for the narrow beaters subsample (0. 251, t-stat¼1. 77).  The Wald tests of the
+positive differences in β15 and in the total bad news coefficient for Level 2 and 3 fair value measurements, β14þβ15, across
+these subsamples in 2008 are significant and insignificant (p-valo0. 001 and p-val¼0. 491, respectively).  The significant
+difference of β15 is consistent with the conditional conservatism of lower-level fair value measurements being higher for
+clear missers than for narrow beaters in 2008; the insignificant difference of β14þβ15 is attributable to an anomalous
+significantly negative (and large) good news response coefficient β14 for the clear missers in 2008.  The Wald tests of the
+positive differences in these coefficients for the clear missers subsample across 2008 versus 2007 are both significant (pvalo0. 001 and p-val¼0. 030, respectively), as are the tests of the positive differences in these coefficients for the narrow
+beaters subsample across these years (p-valo0. 001 and p-valo0. 001, respectively).  The Wald test of the positive difference
+in the difference of β15 across the high versus low institutional ownership subsamples across 2008 versus 2007 is significant
+(p-valo0. 001), although the test of the corresponding difference in the difference of β14þβ15 is insignificant, providing
+some evidence that the differential effect of low versus high earnings management incentives that conflict with conditional
+conservatism increased as a result of SFAS 157. 
+In summary, the results for the two-way partitions of the full sample reported in Table 6, Panels B-D provide: (1) strong
+support for our prediction that the effect of institutional ownership on the conditional conservatism of Level 2 and 3 fair
+value measurements increased as a consequence of SFAS 157; (2) weak (i. 

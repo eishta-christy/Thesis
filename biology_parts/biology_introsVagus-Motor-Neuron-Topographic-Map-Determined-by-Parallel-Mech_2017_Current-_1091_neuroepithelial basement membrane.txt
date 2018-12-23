@@ -1,0 +1,784 @@
+Article
+Vagus Motor Neuron Topographic Map Determined
+by Parallel Mechanisms of hox5 Expression and Time
+of Axon Initiation
+Highlights
+d Time of axon formation is differentially regulated independent
+of neuron birthdateGabrielle R.  Barsh, Adam J.  Isabella,
+Cecilia B.  Moens
+d hox5 genes are expressed in posterior, but not anterior,
+vagus motor neurons
+Correspondence
+cmoens@fredhutch. org
+d hox5 directs vagus topographic map formation independent
+of time of axon outgrowth
+d Time of axon outgrowth directs vagus topographic map
+formation independent of hox5
+In Brief
+The development of topographic maps
+classically relies upon spatial patterning
+mechanisms.  Barsh Name show that in
+zebraﬁsh vagus motor neurons, map
+formation is determined by a hox5dependent spatial mechanism that acts in
+parallel with a novel temporal mechanism
+dependent upon the time of axon
+outgrowth. 
+Barsh Name, 2017, Current Biology 27, 3812–3825
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 022
+Current BiologyVagus Motor Neuron Topographic Map
+Determined by Parallel Mechanisms
+of hox5 Expression and Time of Axon Initiation
+Gabrielle R.  Barsh,1,2,3 Adam J.  Isabella,1 and Cecilia B.  Moens1,2,4,*
+1Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle, WA 98109, USA
+2Molecular and Cellular Biology, University of Washington, Seattle, WA 98195, USA
+3Medical Scientist Training Program, University of Washington, Seattle, WA 98195, USA
+4Lead Contact
+*Correspondence: cmoens@fredhutch. org
+https://doi. org/10. 1016/j. cub. 2017. 11. 022Many networks throughout the nervous system are
+organized into topographic maps, where the positions
+of neuron cell bodies in the projecting ﬁeld correspond
+with the positions of their axons in the target ﬁeld.  Previous studies of topographic map development show
+evidence for spatial patterning mechanisms, in which
+molecular determinants expressed across the projecting and target ﬁelds are matched directly in a point-topoint mapping process.  Here, we describe a novel
+temporal mechanism of topographic map formation
+that depends on spatially regulated differences in the
+timing of axon outgrowth and functions in parallel
+with spatial point-to-point mapping mechanisms.  We
+focus on the vagus motor neurons, which are topographically arranged in both mammals and ﬁsh.  We
+show that cell position along the anterior-posterior
+axis of hindbrain rhombomere 8 determines expression of hox5 genes, which are expressed in posterior,
+but not anterior, vagus motor neurons.  Using live imaging and transplantation in zebraﬁsh embryos, we
+additionally reveal that axon initiation is delayed in
+posterior vagus motor neurons independent of neuron
+birth time.  We show that hox5 expression directs
+topographic mapping without affecting time of axon
+outgrowth and that time of axon outgrowth directs
+topographic mapping without affecting hox5 expression.  The vagus motor neuron topographic map is
+therefore determined by two mechanisms that act in
+parallel: a hox5-dependent spatial mechanism akin
+to classic mechanisms of topographic map formation
+and a novel axon outgrowth-dependent temporal
+mechanism in which time of axon formation is spatially
+regulated to direct axon targeting. 
+INTRODUCTION
+Topographic maps are a common organizational motif in neurobiology and are crucial for the ability of animals to accurately
+perceive and respond to their external environment.  These
+maps are characterized by an arrangement of neurons in which
+neighbor-neighbor relationships are preserved between cell
+bodies and axon targets, creating representations of the outside
+world inside the brain [1].  The best-studied topographic maps
+form through a spatial patterning process, where precise patterns of gene expression in neurons and their target areas direct
+axons to the proper location in a point-to-point matching system
+[2, 3].  For example, in the retinotopic map, gradients of EphA receptor expression in the retina and EphrinA ligand expression in
+the tectum are matched such that high and low EphA-expressing
+neurons innervate opposite regions of the tectum while neighbor
+neurons expressing similar EphA levels innervate the same
+region [4–9].  Similarly, in the spinal musculotopic map, dorsal
+and ventral limb-innervating neurons occupy spatially distinct locations and reach their respective targets due to the presence of
+repulsive ligands expressed by the inappropriate targets [10–14]. 
+Thus, spatial patterning mechanisms underlie topographic map
+development in both sensory and motor systems. 
+In addition to classic spatial patterning, previous studies have
+also proposed a temporal mechanism of topographic map
+development.  In the Drosophila photoreceptor map, sequential
+expression of a temporal identity transcription factor during neurogenesis directs targeting to different layers of the medulla [15]. 
+Additionally, in the mouse olfactory topographic map, cell position correlates with birth order and therefore with time of axonin the target region [16, 17].  However, though these
+studies demonstrate correlations between temporal patterning
+and topographic connectivity, timing-based mechanisms for
+topographic map formation have been difﬁcult to explicitly test,
+as they require live imaging and the ability to manipulate the temporal environment. 
+Here, to dissect the relative contributions of both spatial and
+temporal mechanisms of topographic map development, we
+focus on vagus motor neurons (motor neurons of cranial
+nerve X, or mX neurons) in the zebraﬁsh embryo as a model of
+topographic map development.  In all vertebrates, mX neurons
+are located in the most posterior segment of the hindbrain, rhombomere 8 (r8) [18].  In humans, mX neurons innervate pharyngealarch-derived muscles important for speech and swallowing. 
+In ﬁsh, mX neurons innervate homologous muscles to move
+the pharynx, gills, and pharyngeal
+In both ﬁsh and
+humans, the vagus also supplies preganglionic parasympathetic3812 Current Biology 27, 3812–3825, December 18, 2017 ª 2017 Elsevier Ltd. 
+(legend on next page)
+Current Biology 27, 3812–3825, December 18, 2017 3813
+innervation of visceral targets [19, 20].  Previous studies in ﬁsh
+and mammals have shown that mX neurons in the adult animal
+are arranged topographically, with anterior neurons innervating
+more anterior pharyngeal arches and posterior neurons innervating posterior pharyngeal arches and visceral[21, 22].  However, it is unclear how the vagus topographic map
+is established during development. 
+We describe two parallel and independent mechanisms for
+vagus topographic map development.  First, we show that
+hox5 genes are expressed in posterior mX neurons and direct
+mX neuron targeting toward posterior targets.  Second, we
+demonstrate that temporal regulation of axon initiation inﬂuences axon targeting.  Whereas anterior and posterior mX neurons are born at the same time, axons emerge from posterior
+mX neurons later than from anterior mX neurons and late
+axon arrival in the peripheral target area directs axons to posterior targets.  Finally, we demonstrate that these two mechanisms are independent.  This work therefore establishes a new
+temporal mechanism that acts in parallel with hox-dependent
+spatial patterning mechanisms to govern the robust development of a topographic map. 
+<Middle> RESULTS. 
+Characterization of Embryonic Vagus Motor Neuron
+Topographic Map
+Vagus (mX) neurons, detectable with isl1-driven ﬂuorescent proteins [23], are born ventrally in hindbrain r8 and migrate dorsolaterally to form the vagus motor nucleus by 36 hr post-fertilization
+(hpf) [24].  Axons emerge basally, ﬁrst exiting the hindbrain at
+27 hpf, and travel anteriorly in a single fascicle before making
+a characteristic ventral turn at the otic vesicle toward the pharyngeal arches (PAs) (Figure 1A) [25].  The axons divide peripherally
+into 5 branches, which are all present by 3 days post-fertilization
+(dpf): 4 branches innervate PA4, 5, 6, and 7 and a 5th posterior
+branch innervates visceral targets (Figure 1A) [23].  In time-lapse
+movies, the axon branches appear sequentially in anterior-toposterior order, with the PA4 branch emerging ﬁrst and the
+PA7 and visceral branches emerging last (Figure 1B; Movie S1). 
+To simultaneously visualize the appearance of mX axons
+and their PA targets, we time-lapsed embryos expressing
+Tg(isl1:eGFPCAAX) and Tg(tcf21:mCherry), which marks the
+progenitors of the PA muscles that are the targets of branchiomotor innervation [26, 27].  Tcf21:mCherry+ cells appear in an
+anterior-to-posterior sequence, with each PA emerging about
+6–8 hr before mX axon innervation (Figure 1C; Movie S2).  Thus,
+the sequential outgrowth of mX branches correlates with the
+sequential appearance of their PA targets. 
+To understand how the mX neuron topographic map is established, we ﬁrst determined whether it is detectable in the zebraﬁsh embryo.  We injected single-cell-stage embryos expressing
+Tg(isl1:mRFP) with isl1:eGFPCAAX, titrated to a low level such
+that only a single mX neuron was labeled with eGFPCAAX.  We
+divided the mX territory into 10 equal-length bins and determined
+the axon target of each single mX neuron based upon its relative
+position in the mX territory (Figures 1D–1H).  We note that single
+mX neurons only ever project into a single PA (n = 57/57).  We
+found that mX neurons in bin 1 exclusively innervated PA4 and
+PA5, whereas mX neurons in bins 4–10 exclusively innervate
+PA7 and the viscera (Figure 1I).  We conﬁrmed this single-cell
+mapping approach with photoconversion experiments using
+Tg(isl1:Kaede), photoconverting deﬁned regions of the mX territory and subsequently visualizing the photoconverted Kaede in
+the peripheral branches (anterograde labeling), and conversely
+photoconverting speciﬁc branches and subsequently visualizing
+the photoconverted Kaede in cell bodies (retrograde labeling;
+Figure S1).  Whereas we observed overlap between mX neurons
+innervating neighboring PAs, our single-neuron and photoconversion mapping approaches consistently describe a vagus
+topographic map at 3 dpf that is sufﬁciently resolved to allow
+us to investigate its developmental basis. 
+Vagus Motor Neuron Position Determines Axon Target
+We ﬁrst asked whether the position of an mX neuron in r8 determines its axon target.  To address this question, we used singleneuron transplantation to manipulate the spatial environment of
+individual postmitotic neurons [28].  At 27 hpf, when postmitotic
+mX neurons are present along the anterior-posterior axis of r8
+but before they have extended axons, we transplanted postmitotic mX neurons from a Tg(isl1:Kaede) donor to the same
+(homotopic) or different (heterotopic) position in r8 of a Tg(isl1:
+GFP) host embryo.  To ensure accurate developmental age, we
+used the precise ‘‘prim staging’’ method to stage all embryos
+at the time of transplantation [29] (see STAR Methods for details). 
+We transplanted 1–5 mX neurons (median = 2) into each host
+embryo and then assessed targeting of the donor neuron(s)
+at 3 dpf (Figure 2A).  Singly transplanted neurons only projected
+into a single PA, similar to our earlier single-cell labeling experiments (n = 8/8 embryos; e. g. , Figures 2B and 2E).  As expected,
+in control anterior / anterior homotopic transplants, donor neurons innervated primarily anterior targets (Figures 2B and 2F),
+and in control posterior / posterior homotopic transplants,
+donor neurons innervated primarily posterior targets (Figures
+2D and 2F).  In heterotopic anterior / posterior transplants,
+donor neurons innervated primarily posterior targets (Figures
+in heterotopic posterior / anterior
+2C and 2F).  Likewise,
+Figure 1.  Topographic Mapping by Vagus Motor Neurons
+(A) Lateral view of a zebraﬁsh embryo expressing Tg(isl1:Kaede) at 3 dpf.  Brackets, cranial motor nuclei; ov, otic vesicle; PA, pharyngeal arches.  Asterisk marks a
+subset of vagus sensory cells labeled by islet1. 
+(B) mX axon branches innervate PAs sequentially.  See Movie S1.  Gray arrowhead indicates the glossopharyngeal motor nerve (mIX). 
+(C) tcf21:mCherry+ PA muscle precursors (magenta) appear sequentially prior to mX axon entry.  White bracket indicates mX nucleus expressing isl1:eGFPCAAX
+(green).  See Movie S2. (D–H) mX neurons are arranged in a topographic map.  Single neuron labeled by Tg(isl1:eGFPCAAX) in magenta or black (D
+) on Tg(isl1:mRFP) background
+(green).  Dotted lines indicate the length of the mX territory.  (D) Neuron in region 1 projecting to PA4; (E) neuron in region 2 projecting to PA5; (F) neuron in region 2
+projecting to PA6; (G) neuron in region 3 projecting to PA7; (H) neuron in region 6 projecting to the visceral branch. 
+(I) Quantiﬁcation of (D)–(H).  mX territory was divided into 10 equal-length bins along the A-P axis. 
+In all ﬁgures, anterior is left and dorsal is up.  The scale bars represent 50 mm.  See also Figure S1. 0
+3814 Current Biology 27, 3812–3825, December 18, 2017
+Figure 2.  Vagus Motor Neuron Position Determines
+Axon Target
+(A) Schematic of postmitotic neuron transplantation approach. 
+mX neurons are transplanted homotopically or heterotopically
+(pictured) before axon formation, and donor axon targeting is
+assayed at 3 dpf. 
+(B–E) Examples of homotopic (B and D) and heterotopic
+(C and E) transplants.  Donor-derived neurons are marked byTg(isl1:Kaede) in magenta and black on white (B
+).  Host motor
+neurons are marked by Tg(isl1:GFP) in green.  Dotted lines indicate length of mX territory; dotted boxes indicate region shown
+in lower panels. 
+(F) Quantiﬁcation of transplant results showing number of host
+embryos with a donor axon in a given branch.  Statistical analysis
+was done with Fisher’s exact test (see STAR Methods for
+details).  Ant / ant: n = 14 host embryos; ant / post: n = 12;
+post / post: n = 7; post / ant: n = 12. –E
+Current Biology 27, 3812–3825, December 18, 2017 3815
+transplants, donor neurons innervated primarily anterior targets
+(Figures 2E and 2F).  These results show that the anterior-posterior position of an mX neuron in r8 determines its peripheralhox5 Expression Distinguishes Anterior and Posterior
+mX Neurons
+To understand how cell position determines axon target, we
+sought to identify differences between anterior and posterior
+mX neurons.  Hox genes are well-known for their role in anterior-posterior patterning of the vertebrate hindbrain, including
+motor neurons; however, a role in vagus-speciﬁc topographic
+mapping has not been described [30].  We therefore sought to
+determine whether hox4, hox5, and hox6 paralogs, which are
+known to have anterior expression limits in the posterior hindbrain and anterior spinal cord [31–34], were differentially expressed in anterior versus posterior mX neurons by RNA in situ
+hybridization at 27 hpf.  We found that hox4 genes have anterior
+limits anterior to the mX territory, and hox6 genes have anterior
+limits posterior to the mX territory (Figure S2).  However, hoxa5a,
+hoxb5a, and hoxb5b all have diffuse anterior limits of expression
+within the mX territory (Figures 3A and S2E–S2G). 
+To visualize hox5 expression and motor neurons together with
+high resolution in live embryos, we targeted GFP to the endogenous hoxb5a locus [35] (see STAR Methods for details) and
+examined expression of hoxb5aGFP at 1–3 dpf (Figures 3B–3D). 
+Consistent with RNA in situ expression data, hoxb5aGFP is
+expressed in a graded pattern, with GFP-negative cells at the
+anterior end of
+the mX territory (corresponding to regions
+1 and 2 from Figure S1), whereas 100% of cells in the posterior
+mX territory (regions 3, 4, and 5) are GFP positive (Figure 3B;
+data not shown).  The anterior limit of hoxb5aGFP expression is
+more anterior than the corresponding hoxb5a mRNA expression
+domain (compare Figure 3A to 3B).  This difference most likely
+reﬂects the different sensitivity of the detection methods, as
+well GFP perdurance: hoxb5aGFP marks every cell that ever
+expressed hoxb5a, whereas the mRNA in situ detects the
+expression domain at the moment of ﬁxation.  hoxb5aGFP is
+also expressed in PA6 and PA7 (Figure 3E).  Thus, hox5 genes
+are expressed in posterior mX neurons and their posterior PA
+targets, suggesting that hox5 expression may direct posterior
+mX axon targeting. 
+Vagus Motor Neuron Position Determines hox5
+Expression
+Our expression experiments demonstrated that mX neuron position correlates with hox5 expression.  We next asked whether mX
+neuron position determines hox5 expression by transplanting
+postmitotic mX neurons at 27 hpf from hoxb5aGFP-positive donor
+embryos into hoxb5aGFP-negative host embryos and assessing
+GFP expression in donor-derived mX neurons at 3 dpf.  Host
+embryos expressed Tg(isl1:mRFP) so that we could correlate
+hoxb5aGFP expression in the transplanted neuron(s) with their
+position in the host mX territory.  As expected, 100% of donor
+mX neurons (n = 13 neurons) maintained GFP expression in control homotopic posterior / posterior transplants (Figure 3H). 
+Also as expected, in control anterior / anterior transplants,
+only 23% of donor mX neurons (n = 22 neurons) were GFP+ (Figures 3F and 3H).  However, when anterior mX neurons were
+3816 Current Biology 27, 3812–3825, December 18, 2017
+transplanted heterotopically into posterior r8, 64% (n = 28
+neurons; p = 0. 0046 by Fisher’s exact test compared to anterior / anterior) of the donor mX neurons were GFP+ (Figures
+3G and 3H).  Due to GFP perdurance, we were not able to assess
+hoxb5a downregulation in posterior / anterior transplants. 
+These results suggest that the position of an mX neuron in r8 determines its hox5 expression.  The ability of transplanted postmitotic neurons to turn on expression of hoxb5a (Figure 3) and to
+change their axon targeting after transplantation (Figure 2) indicates that mX neuron fate remains plastic after birth. 
+hox5 Expression Drives Posterior Axon Targetingtransplant experiments demonstrated that both hox5
+expression and posterior PA targeting are induced in an anterior mX neuron that is placed in the posterior mX territory.  We
+therefore sought to test whether hox5 expression causes posterior PA targeting.  Given that there are three hox5 genes
+with overlapping expression in posterior r8 in zebraﬁsh and
+that Hox5 genes are known to act redundantly in other processes [36], we reasoned that a targeted gain-of-function
+approach would most efﬁciently allow us to test the ability of
+hox5 genes to impact mX axon targeting.  We constructed plasmids encoding UAS:hox5gene-p2a-eGFPCAAX and injected
+the DNA into single-cell stage Tg(isl1:Gal4);Tg(isl1:mRFP) embryos.  This strategy allowed us to generate embryos with membrane-GFP-labeled hox5-expressing mX neurons scattered
+sparsely throughouthox5 expression directs axons toward posterior targets, we
+predicted that hox5-expressing mX neurons would innervate
+posterior targets with a higher than expected frequency.  We
+found that, whereas hox5 expression had no effect on
+the overall distribution of mX neurons compared to control
+eGFPCAAX expression (Figure 4E), hox5-expressing neurons
+were biased toward innervating more posterior PAs compared
+to eGFPCAAX-expressing control neurons (Figures 4A–4D
+and 4F).  This was true for neurons expressing any of the three
+hox5 genes: hoxa5a, hoxb5a, or hoxb5b, though the effect of
+hoxb5b expression was less dramatic. 
+the vagus territory (Figures 4A–4E). 
+To further examine how hox5 expression instructs the formation of the mX topographic map, we focused on embryos with
+hox5-expressing neurons in the anterior-most region of the mX
+territory that normally exclusively innervates PA4 and PA5
+(bin 1 in Figure 1I).  In control experiments, 100% of embryos
+with labeled cells in bin 1 also had labeled axons in the PA4 or
+PA5 branch, consistent with the single-neuron mapping data
+(Figure 4G).  However, in embryos with hoxb5a-expressing neurons in bin 1, only 27% of the embryos had labeled axons in
+the PA4 or PA5 branch (p = 0. 0014; Figure 4G).  The effect of
+ectopic hoxa5a or hoxb5b expression in bin 1 neurons was
+less dramatic, with 88% and 81%, respectively, of embryos
+having labeled axons in the PA4 or PA5 branch (Figure 4G). 
+Together, these results strongly suggest that hox5 expression
+biases mX axon targeting to posterior targets. 
+Axon Formation and Arrival in the Periphery Are Delayed
+in Posterior mX Neurons
+The anterior-posterior sequence of PA innervation by mX neurons (Figures 1B and 1C; Movies S1 and S2) suggested that there
+may be earlier developmental differences between anterior and
+Figure 3.  hox5 Expression Distinguishes Anterior and Posterior mX Neurons
+(A) hoxb5a is expressed in the posterior mX territory.  RNA in situ hybridization of 28 hpf embryo for hoxb5a expression (purple) followed by immunostaining
+against Tg(isl1:eGFPCAAX) to label motor neurons (green) is shown.  Dotted lines in (A)–(D) indicate anterior limit of hoxb5a expression.  See also Figure S2. 
+(B–E) hoxb5aGFP is expressed in posterior mX neurons, PA6, and PA7.  hoxb5aGFP (green) and Tg(isl1:mRFP) (magenta) at 32 hpf (B), 2 dpf (C), or 3 dpf (D and E)
+are shown. 
+(F and G) Anterior mX neurons marked by lineage dye (cyan) and isl1:mRFP (magenta) transplanted homotopically (F) or heterotopically (G) are hoxb5aGFPnegative (arrow in F) or hoxb5aGFP-positive, respectively (arrow, green in G and black in G
+(H) Quantiﬁcation of (F) and (G).  Analysis was done by Fisher’s exact test.  Ant / ant: n = 22 neurons, 6 embryos; ant / post: n = 28 neurons, 9 embryos; post /
+post: n = 13 neurons, 5 embryos. 
+).  Host motor neurons express Tg(isl1:mRFP) (magenta). posterior mX neurons that impact axon targeting.  We crossed
+the Tg(isl1:Gal4) line to the variegated Tg(UAS:Kaede) line to
+mosaically label mX neurons and then photoconverted posterior
+mX neurons and time lapsed starting at 29 hpf, when mX neurons
+are present throughout r8 but axons have only just begun to
+emerge (Figure 5A; Movie S3).  Anterior mX axons exit the brain
+and turn ventrally to extend into the periphery at 29 ± 1. 9 hpf
+(95% conﬁdence interval
+[CI] = 26. 71–32. 6 hpf), consistent
+with previous literature [24].  However, posterior mX neurons,
+which were also present at the beginning of the time lapse,
+show extensive protrusive activity but remain multipolar until
+axons are ﬁnally detected at 37. 7 ± 2. 7 hpf (95% CI = 35. 9–
+39. 5 hpf), when anterior mX axons had already extended into
+the PAs (Figures 5A and 5B; Movie S3).  Posterior growth cones
+Current Biology 27, 3812–3825, December 18, 2017 3817
+controlA
+hoxa5a-overexpressionB'controlmXnshoxa5aviscPA7PA7PA6PA5PA7
+hoxb5a-overexpression
+hoxb5b-overexpressionC'D' dea twsybe ngrnvin nm dea twsybe#cabnvin nxmXnshoxb5ahoxb5bGPA6PA6PA5PA7hi orm o%1n islcdea25155
+overexpressinghoxa5aoverexpressing
+overexpressing
+hoxb5bhoxb5ans **2010overexpressing
+overexpressing
+overexpressinghoxb5bhoxb5ahoxa5ans1006020
+region 1
+region 2
+region 3
+region 4
+region 5PA5PA7axon in 
+PA4 or 5 
+no axon in 
+PA4 or 5 overexpressing
+overexpressingoverexpressing
+hoxa5ahoxb5bhoxb5aFigure 4.  hox5 Expression Directs mX Axons to Posterior Targets
+(A–D) Expression of control isl1:eGFPCAAX (A) or isl1:hox5-P2A-eGFPCAAX expression construct (B–D, magenta; A
+(green).  Dotted lines indicate length of mX territory; dotted boxes indicate region shown in bottom panels. 
+(E) Quantiﬁcation of distribution of labeled neurons after hox5 expression as in (A)–(D).  Regions are based on morphological boundaries as in Figure S1. 
+(F) Quantiﬁcation of labeled axon targeting in (A)–(D).  Analysis was done using Fisher’s exact test comparing control to each ectopic expression condition with
+respect to each axon branch.  Conditions are considered different if they differ in at least one branch.  In both (E) and (F), control n = 17 embryos, hoxa5a n = 24,
+hoxb5a n = 20, and hoxb5b n = 28. 
+(G) Analysis of axon targeting in cases where a labeled mX neuron was located within the most anterior region of the mX territory (bin 1; see Figure 1I).  Ectopic
+hoxb5a-expressing mX neurons in bin 1 avoid PA4 and PA5.  Analysis was done by Chi-square followed by Fisher’s exact test comparing each hox5 construct to
+control.  Control n = 9 embryos, hoxa5a n = 17, hoxb5a n = 11 embryos, and hoxb5b n = 16. 
+, black) in a Tg(isl1:mRFP) background0then extend quickly, following tracts of previously extended
+anterior mX axons (Movie S3).  This suggests that the delayed
+appearance of posterior mX axons is due to delayed axon initiation rather than slower extension. 0-deoxy-2
+One explanation for the observed delay in posterior mX axon
+formation could be that posterior mX neurons are born later
+than anterior ones.  To test this possibility, we birthdated mX-ﬂuoro-5-ethynyluridine (EdU). 
+neurons with (2
+We added EdU to Tg(isl1:GFP) embryos at 10, 14, 18, 22, or 28
+hpf and ﬁxed embryos at 48 hpf.  We then identiﬁed mX neurons
+by GFP expression and determined whether each neuron under 
+) or after (EdU+) the time point
+went its last division before (EdU
+at which EdU was added.  We divided the mX territory into 5equal-length regions and determined the proportion of EdU
+neurons in each region for each treatment
+time (Figures
+5C–5E).  If time of axon formation correlates with time of birth,
+3818 Current Biology 27, 3812–3825, December 18, 2017 
+to posterior.  However,
+mX neurons to appear progressively
+we would expect EdU
+this is not what we
+from anterior
+) mX neurons appear at all anteobserved: postmitotic (EdU
+rior-posterior levels of the motor nucleus between 10 and
+28 hpf, with no signiﬁcant difference in the onset of neurogenesis
+between the ﬁve regions assayed (Figure 5E; p = not signiﬁcant
+[ns] by one-way ANOVA of all regions at 14 hpf).  Surprisingly,
+therefore, the delayed axon initiation by posterior mX neurons
+does not reﬂect a later birthdate.  We conclude that timing of
+axon formation is an independently regulated event along the
+anterior-posterior axis of the mX territory. 
+Vagus Motor Neuron Position Determines Time of Axon
+Formation
+Given that cell position correlates with time of axon formation, we
+sought to test whether cell position could determine time of axon
+(legend on next page)
+Current Biology 27, 3812–3825, December 18, 2017 3819
+formation.  We therefore applied time-lapse imaging to our postmitotic mX neuron transplant approach, after mX neurons were
+transplanted homotopically or heterotopically at 27 hpf.  In control
+anterior / anterior transplants, mX neurons initiated axons
+6. 3 ± 2. 1 hr post-transplantation (hpt) (95% CI = 5. 1–7. 5 hpt; Figures 5F and 5J; Movie S4).  However, transplanting mX neurons
+heterotopically from anterior / posterior delayed time of axon
+formation, with axons appearing 8. 6 ± 2 hpt (95% CI = 7. 4–9. 8
+hpt; Figures 5G and 5J; Movie S4; p = 0. 0067 by unpaired
+t test).  Consistent with this result, in control posterior / posterior
+transplants, mX neurons initiated axons late (8. 2 ± 1. 3 hpt; 95%
+CI = 6. 9–9. 6 hpt), whereas transplanting neurons heterotopically
+from posterior / anterior hastened time of axon formation
+(6. 1 ± 0. 8 hpt; 95% CI = 5. 3–6. 9 hpt; Figures 5H–5J; Movie S5;
+p = 0. 0051 by unpaired t test).  Whereas the difference in time of
+axon formation between control and heterotopic transplants
+was smaller than that observed between endogenous anterior
+and posterior mX neurons (most likely due to the transplantation
+procedure itself), these results suggest that the position of an
+mX neuron within r8 determines its time of axon formation. 
+Time of Axon Arrival in the Periphery Determines Axon
+Targeting
+Our transplant experiments demonstrated that mX neurons positioned in anterior r8 will initiate axon formation early (Figure 5)
+and will innervate anterior axon targets (Figure 2).  Conversely,
+mX neurons positioned in posterior r8 will initiate axon formation
+late and will
+innervate posterior axon targets.  We therefore
+sought to test the hypothesis that in addition to hox5 expression,
+time of axon formation also inﬂuences mX axon targeting.  We
+simulated a delay in axon initiation by transplanting anterior
+mX neurons from a younger donor (25. 9 ± 2 hpf) to the anterior
+mX territory of an older host (31. 8 ± 2. 1 hpf) such that the extending axon of the transplanted neuron joins the fascicle with latearriving posterior mX axons (Figure 6A).  If axon targeting is
+determined by anterior-posterior position alone, then this transplanted mX neuron should innervate anterior targets.  Alternatively, if timing of axon outgrowth inﬂuences axon targeting
+independently of position, then it should innervate a posterior
+target.  We found that compared to stage-matched transplants,
+where donor-derived anterior mX neurons innervated primarily
+anterior PAs (Figures 2B, 6B, and 6D), anterior mX neurons transplanted homotopically but heterochronically into older host embryos innervated primarily posterior PAs (Figures 6C and 6D). 
+This change in axon targeting is not due to induction of ectopic
+hox5 expression, because when we did the equivalent heterochronic transplant using our hoxb5aGFP line as a donor, we did
+not see induction of GFP expression in the transplanted neurons
+(Figures 6E and 6F).  These results indicate that, surprisingly,
+delaying axon growth into the periphery is sufﬁcient to shift
+axon targeting to posterior targets. 
+hox5 Expression and Time of Axon Initiation Direct mX
+Axon Targeting Independently
+Our experiments demonstrate that the spatiotemporal environment of mX neurons inﬂuences their topographic mapping to
+the PAs.  Position along the anterior-posterior axis of r8 determines hox5 expression and time of axon formation, and both
+hox5 expression and delayed axon initiation can target axons
+to more posterior PAs.  We asked whether hox5 expression is
+responsible for delayed axon initiation, which in turn drives posterior PA targeting, or whether the two are independent.  If hox5
+expression delays axon initiation, we expected that,hox5 ectopic expression approach, hox5-expressing mX neurons in the anterior mX territory would initiate axon formation
+late, at a time appropriate for posterior mX neurons.  We therefore
+used our injection strategy to ectopically express hox5 genes
+sparsely throughout the mX territory and then imaged and quantiﬁed the time of axon formation in ectopic hox5-expressing mX
+neurons within the anterior-most quarter of the mX territory.  Control anterior mX neurons expressing isl1:eGFPCAAX formed
+axons at 29. 8 ± 1. 6 hpf (95% CI = 28. 4–31. 05 hpf), consistent
+with our earlier results (Figures 5B, 7A, and 7E; Movie S6).  Surprisingly, we observed no signiﬁcant difference in the time of
+axon initiation by anterior mX neurons expressing hoxa5a,
+hoxb5a, or hoxb5b compared to the control construct (Figures
+7B–7E; Movies S7, S8, and S9).  Thus, regardless of hox5 expression, anterior mX neurons initiate axon formation by approximately 30 hpf, an average of approximately 8 hr before posterior
+mX neurons do.  Together, these results indicate that delayed
+axon initiation guides axons to posterior targets independently
+of hox5 expression and hox5 expression guides axons to posterior targets independently of timing of axon initiation. 
+<Conclusion> DISCUSSION. 
+Topographic maps are of high interest to neurobiologists, given
+their functional importance and prevalence throughout the CNS
+[1, 37].  Here, we identify a vagus motor neuron topographic map
+in the zebraﬁsh embryo and present two mechanisms that
+function in parallel to govern its initial
+formation.  First, we
+demonstrate that hox5 gene expression in posterior mX neurons
+drives posterior axon targeting.  Second, we introduce a novel
+mechanism of topographic map development dependent upon
+; white arrow) initiate axons 8 hr after anterior mX neurons (green, green arrowhead). 
+Figure 5.  Time of Axon Formation and Arrival in the Head Periphery Is Delayed in Posterior mX Neurons Independent of Birthdate
+(A) Stills from representative time lapse (see Movie S3) of embryo expressing Tg(isl1:Gal4);Tg(UAS:Kaede).  Photoconverted posterior mX neurons (magenta,A; black, A
+(B) Quantiﬁcation of (A).  Each point represents a single embryo.  Analysis was done by unpaired t test. (C and D) Embryo expressing Tg(isl1:GFP) (green) was incubated in EdU (magenta; C
+ﬁxed at 48 hpf, and the mX territory was divided into 5 equal-length regions from anterior (1) to posterior (5). 
+(E) Quantiﬁcation of (C and D) showing percentage of postmitotic (EdU
+cells]).  Each point represents mean; error bars show SD.  n = 5 embryos for all time points except 14 hpf, where n = 4 embryos. 
+(F–I) Transplanting an anterior mX neuron heterotopically into the posterior delays axon formation (F and G) whereas transplanting a posterior mX neuron into the
+anterior hastens axon formation (H and I).  Donor neurons are marked by Tg(isl1:Kaede) in magenta and (F
+) black, and host neurons are marked by
+Tg(isl1:mRFP) in green.  See also Movies S4 and S5. 
+(J) Quantiﬁcation of (F)–(I).  Each point represents a single embryo.  Analysis was done by unpaired t test. ) mX neurons (isl1:GFP+) in each region at each time point ([no.  EdU
+, black) to label cells born after 14 hpf (C) or 28 hpf (D).  Embryos wereand DGFP+ cells]/[no.  GFP+03820 Current Biology 27, 3812–3825, December 18, 2017
+Figure 6.  Time of mX Axon Outgrowth Determines Peripheral Target Independently of hox5 Expression
+(A) mX neurons are transplanted from anterior to anterior (homotopic) from a 26 hpf donor to a 32 hpf host, and donor axon targeting is assayed at 3 dpf. 
+(B and C) Anterior mX neurons transplanted isochronically (B) innervate anterior targets whereas anterior mX neurons transplanted heterochronically (C) innervateposterior targets.  Donor neurons are marked by Tg(isl1:Kaede) (magenta; B
+, black).  Host motor neurons are marked by Tg(isl1:GFP) (green).  Dotted lines
+indicate length of mX territory.  Dotted boxes indicate region shown in bottom panels. 
+(D) Quantiﬁcation of transplant results.  Isochronic control transplants are the same data shown in Figure 2F (anterior / anterior).  Analysis was done using Fisher’s
+exact test; see STAR Methods for details.  Isochronic: n = 14 host embryos; heterochronic: n = 16. 
+(E) Change in targeting after heterochronic transplantation is not due to induction of hox5 expression.  Transgenes are as described in Figures 3F and 3G. 
+(F) Quantiﬁcation of (E).  Isochronic control transplants are the same data shown in Figure 3F.  Heterochronic: n = 19 cells, 11 embryos. 0
+delayed axon formation and outgrowth by posterior mX neurons
+(Figure 7F).  We note that the embryonic vagus map is not highly
+resolved, in that adjacent neurons can innervate different PAs. 
+It is likely that, as for other topographic maps, later competitionand/or activity-dependent mechanisms further resolve the vagus
+map [1]. 
+hox5 Expression Drives Posterior Axon Targeting
+A major ﬁnding from our work is that hox5 genes are expressed in
+posterior mX neurons and posterior PAs and direct posterior mX
+axons to posterior targets.  Hox transcription factors are known
+to play roles in specifying neuron identity and axon targeting
+[30] and to function in topographic map development in both motor and sensory systems [38–40].  Hox genes affect axon targeting through both intermediate transcription factors and direct
+regulation of cell-surface guidance and adhesion molecules
+[30].  However, hox5 target genes that direct targeting of posterior mX neurons remain unknown.  Given the expression of
+hoxb5a in both the posterior mX neurons and their target region,
+an intriguing possibility is that hox5 acts through regulation of a
+homophilic adhesion molecule.  Homophilic cadherin interactions have been shown to affect connectivity in the Drosophila
+visual system [15, 41].  In vertebrates, cadherins also affect
+axon targeting decisions in the visual system, though they are
+thought to act heterophilically [42].  An important goal of future
+experiments will be to identify genes that direct posterior mX
+axon targeting downstream of hox5. 
+Time of Axon Initiation Is Regulated Independently of
+Birth Order
+A second major ﬁnding from our work is that axon initiation is delayed in posterior mX neurons despite the fact that anterior and
+posterior mX neurons have similar birth times and that this difference in timing plays a critical role in the formation of the topographic map.  Differential timing of axon outgrowth has been
+proposed to direct axon targeting to different regions of the brain
+[43] or to different targets within a topographic map [15, 16]. 
+However, in these cases, temporal mechanisms for topographic
+map formation have been difﬁcult to test directly without the
+means of manipulating the temporal environment of projecting
+neurons.  Furthermore,
+in these examples, differences in
+neuron birthdate underlie differences in timing of axon formation
+[15, 17, 44].  Our system is the ﬁrst we are aware of where topographic mapping depends on the timing of axon outgrowth independently of neuron birthdate. 
+Our ﬁndings raise the question of how timing of axon initiation
+is controlled in mX neurons.  Axon initiation is a complex process
+that can vary between neuron types.  Some neurons inherit
+Current Biology 27, 3812–3825, December 18, 2017 3821
+3822 Current Biology 27, 3812–3825, December 18, 2017
+(legend on next page)
+polarity information from progenitor cells that determines the
+subcellular site of axon speciﬁcation [45, 46].  Others, including
+cortical neurons, adopt a multipolar morphology during migration before transitioning to a bipolar morphology, following which
+one neurite, typically the trailing process, is speciﬁed as an axon
+[47–49].  Many studies of axon initiation have elucidated intracellular signaling pathways that ultimately result in localized microtubule stabilization to specify one neurite as the future axon
+[50–57].  These cell-autonomous events can be biased by localized extracellular cues, including diffusible signaling molecules
+such as brain-derived neurotrophic factor (BDNF) and transforming growth factor beta (TGF-b), as well as contact-mediated
+cues in the neuronal microenvironment [49, 53, 58, 59]. 
+In our system, we see that both anterior and posterior mX
+neurons complete their dorsal migration and exhibit extensive
+multipolar protrusions before axon formation.  Our transplant experiments suggest that the difference in axon initiation between
+anterior and posterior mX neurons is most likely due to a localized non-cell-autonomous cue that either promotes axon initiation in anterior mX neurons, similar to BDNF and TGF-b signaling
+in mammalian hippocampal and cortical neurons [53, 58], or prevents axon initiation in posterior mX neurons, similar to the role of
+Semaphorin3A in rat cortical neurons [60].  Determining the
+nature of this cue is an important goal for future work. 
+Late Axon Arrival in the Periphery Drives Posterior Axon
+Targeting
+Posterior mX axons arrive in the periphery later than anterior mX
+axons due to the delay in axon initiation.  Our heterochronic
+transplant experiments demonstrate that late-arriving axons
+are guided to posterior targets, but how this guidance occurs
+is unclear.  Our favored hypothesis is that the PAs exhibit short,
+sequential competence windows for innervation, perhaps mediated by sequential expression of an attractive guidance cue in
+each PA during their successive anterior-posterior development
+[20].  The best candidate for a PA-derived mX guidance cue is hepatocyte growth factor (HGF), which is expressed in the PAs and
+signals as a chemoattractant through the Met receptor on cranial
+motor axons [61].  Future research will determine whether HGFMet signaling is required for PA innervation in zebraﬁsh and
+whether HGF is transiently expressed at a critical stage of PA
+development as our model predicts. 
+Temporal and Spatial Mechanisms Act in Parallel to
+Direct Topographic Map Development
+Our ﬁndings suggest that hox5 expression and delayed axon
+outgrowth function in parallel
+in a ‘‘belt-and-suspenders’’
+manner to promote the robust targeting of posterior mX axons
+to posterior PAs and the viscera, thereby generating the vagus
+topographic map.  Timing of mX axon outgrowth could direct
+initial targeting of axons to PAs that are accessible at the time
+axons reach the periphery, and a hox5-dependent mechanism
+could act to ensure that axons of posterior hox5+ mX neuronsdo not innervate anterior (hox5
+) PAs.  The work we present
+here demonstrates that two mechanisms act in parallel to
+instruct the development of the vagus topographic map, and
+future studies will elucidate whether and how the spatial hox5dependent mechanism and temporal axon outgrowth-dependent mechanism cooperate in topographic map development. 
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d CONTACT FOR REAGENT AND RESOURCE SHARING
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+B Zebraﬁsh care and maintenance
+d METHOD DETAILS
+B Generation of hoxb5aGFP
+B Plasmid construction and injection
+B Motor neuron transplants
+B Live imaging
+B RNA in situ hybridization
+B EdU labeling
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+SUPPLEMENTAL INFORMATION
+Supplemental Information includes two ﬁgures and nine movies and can be
+found with this article online at https://doi. org/10. 1016/j. cub. 2017. 11. 022. 
+AUTHOR CONTRIBUTIONS
+G. R. B.  and C. B. M.  designed and performed experiments, analyzed data, and
+wrote the manuscript.  G. R. B.  and A. J. I.  acquired and quantiﬁed data and
+generated images for publication.  All authors edited the manuscript. 
+ACKNOWLEDGMENTS
+We thank Rachel Garcia for excellent animal care and Arish Shah and Jason
+Stonick for generating constructs for hox5 gene expression and targeting.  Victoria Prince, Holger Knaut, Anita Ng, Jeremy Rabinowitz, Herwig Baier, and
+Lisa Maves generously provided transgenic lines, constructs, and reagents. 
+We thank Jeremy Rabinowitz, Adam Miller, and members of the Moens Lab
+for discussions and editing.  Funding was provided by NIH grants R01
+NS082567 to C. B. M.  and F30 NS093703 to G. R. B. 
+Received: May 15, 2017
+Revised: October 13, 2017
+Accepted: November 8, 2017
+Published: December 7, 2017
+Figure 7.  hox5 Acts Independently of Time of Axon Formation
+(A–D) hox5 expression does not delay the time of axon formation in anterior mX neurons.  Stills from representative time lapses of control (A) or ectopic hox50
+expressing (B–D) mX neurons (magenta or black in A
+) in a Tg(isl1:mRFP) background (green) are shown.  Arrows indicate the emerging axon.  See Movies S6,
+S7, S8, and S9. 
+(E) Quantiﬁcation of (A)–(D).  Each point represents a single embryo.  Analysis was done by unpaired t test. 
+(F) Model of dual mechanisms governing mX neuron topographic map development.  Anterior mX neurons arrive in the head periphery when only anterior PAs are
+available for innervation.  Delayed axon initiation in posterior mX neurons results in delayed arrival in the periphery when posterior PAs have formed.  Additionally,
+hox5 genes are expressed in posterior mX neurons and bias their axons toward posterior, hox5-expressing PAs. 0
+Current Biology 27, 3812–3825, December 18, 2017 3823
+REFERENCES
+1.  Cang, J. , and Feldheim, D. A.  (2013).  Developmental mechanisms of topographic map formation and alignment.  Annu.  Rev.  Neurosci.  36, 51–77. 
+2.  Triplett, J. W. , and Feldheim, D. A.  (2012).  Eph and ephrin signaling in the
+formation of topographic maps.  Semin.  Cell Dev.  Biol.  23, 7–15. 
+3.  Sperry, R. W.  (1963).  Chemoafﬁnity in the orderly growth of nerve ﬁber patterns and connections.  Proc.  Natl.  Acad.  Sci.  USA 50, 703–710. 
+4.  Cheng, H. J. , Nakamoto, M. , Bergemann, A. D. , and Flanagan, J. G.  (1995). 
+Complementary gradients in expression and binding of ELF-1 and Mek4 in
+development of the topographic retinotectal projection map.  Cell 82,
+371–381. 
+5.  Drescher, U. , Kremoser, C. , Handwerker, C. , Lo¨ schinger, J. , Noda, M. ,
+and Bonhoeffer, F.  (1995).  In vitro guidance of retinal ganglion cell axons
+by RAGS, a 25 kDa tectal protein related to ligands for Eph receptor tyrosine kinases.  Cell 82, 359–370. 
+6.  Nakamoto, M. , Cheng, H. J. , Friedman, G. C. , McLaughlin, T. , Hansen,
+M. J. , Yoon, C. H. , O’Leary, D. D. M. , and Flanagan, J. G. Topographically speciﬁc effects of ELF-1 on retinal axon guidance
+in vitro and retinal axon mapping in vivo.  Cell 86, 755–766. 
+7.  Frisen, J. , Yates, P. A. , McLaughlin, T. , Friedman, G. C. , O’Leary, D. D. M. ,
+and Barbacid, M.  (1998).  Ephrin-A5 (AL-1/RAGS) is essential for proper
+retinal axon guidance and topographic mapping in the mammalian visual
+system.  Neuron 20, 235–243. 
+8.  Feldheim, D. A. , Kim, Y. -I. , Bergemann, A. D. , Frisen, J. , Barbacid, M. , and
+Flanagan, J. G.  (2000).  Genetic analysis of ephrin-A2 and ephrin-A5 shows
+their requirement in multiple aspects of retinocollicular mapping.  Neuron
+25, 563–574. 
+9.  Pfeiffenberger, C. , Yamada, J. , and Feldheim, D. A.  (2006).  Ephrin-As and
+patterned retinal activity act together in the development of topographic
+maps in the primary visual system.  J.  Neurosci.  26, 12873–12884. 
+10.  Landmesser, L.  (1978).  The development of motor projection patterns in
+the chick hind limb.  J.  Physiol.  284, 391–414. 
+11.  Tsuchida, T. , Ensini, M. , Morton, S. B. , Baldassare, M. , Edlund, T. , Jessell,
+T. M. , and Pfaff, S. L.  (1994).  Topographic organization of embryonic motor
+neurons deﬁned by expression of LIM homeobox genes.  Cell 79, 957–970. 
+12.  Kania, A. , and Jessell, T. M.  (2003).  Topographic motor projections in the
+limb imposed by LIM homeodomain protein regulation of ephrin-A:EphA
+interactions.  Neuron 38, 581–596. 
+13.  Luria, V. , Krawchuk, D. , Jessell, T. M. , Laufer, E. , and Kania, A.  (2008). 
+Speciﬁcation of motor axon trajectory by ephrin-B:EphB signaling: symmetrical control of axonal patterning in the developing limb.  Neuron 60,
+1039–1053. 
+14.  Poliak, S. , Morales, D. , Croteau, L. -P. , Krawchuk, D. , Palmesino, E. ,
+Morton, S. , Cloutier, J. -F. , Charron, F. , Dalva, M. B. , Ackerman, S. L. ,
+Name (2015).  Synergistic integration of Netrin and ephrin axon guidance
+signals by spinal motor neurons.  eLife 4, e10841. 
+15.  Petrovic, M. , and Hummel, T.  (2008).  Temporal identity in axonal target
+layer recognition.  Nature 456, 800–803. 
+16.  Takeuchi, H. , Inokuchi, K. , Aoki, M. , Suto, F. , Tsuboi, A. , Matsuda, I. ,
+Suzuki, M. , Aiba, A. , Serizawa, S. , Yoshihara, Y. , Name (2010).  Sequential
+arrival and graded secretion of Sema3F by olfactory neuron axons specify
+map topography at the bulb.  Cell 141, 1056–1067. 
+17.  Eerdunfu, Ihara, N. , Ligao, B. , Ikegaya, Y. , and Takeuchi, H.  (2017). 
+Differential timing of neurogenesis underlies dorsal-ventral topographic
+projection of olfactory sensory neurons.  Neural Dev.  12, 2. 
+18.  Gilland, E. , and Baker, R.  (2005).  Evolutionary patterns of cranial nerve
+efferent nuclei in vertebrates.  Brain Behav.  Evol.  66, 234–254. 
+19.  Erman, A. B. , Kejner, A. E. , Hogikyan, N. D. , and Feldman, E. L.  (2009). 
+Disorders of cranial nerves IX and X.  Semin.  Neurol.  29, 85–92. 
+21.  Bieger, D. , and Hopkins, D. A.  (1987).  Viscerotopic representation of the
+upper alimentary tract in the medulla oblongata in the rat: the nucleus ambiguus.  J.  Comp.  Neurol.  262, 546–562. 
+22.  Morita, Y. , and Finger, T. E.  (1985).  Topographic and laminar organization
+of the vagal gustatory system in the goldﬁsh, Carassius auratus.  J.  Comp. 
+Neurol.  238, 187–201. 
+23.  Higashijima, S. , Hotta, Y. , and Okamoto, H.  (2000).  Visualization of cranial
+motor neurons in live transgenic zebraﬁsh expressing green ﬂuorescent
+protein under the control of the islet-1 promoter/enhancer.  J.  Neurosci. 
+20, 206–218. 
+24.  Ohata, S. , Kinoshita, S. , Aoki, R. , Tanaka, H. , Wada, H. , TsuruokaKinoshita, S. , Tsuboi, T. , Watabe, S. , and Okamoto, H. Neuroepithelial cells require fucosylated glycans to guide the migration
+of vagus motor neuron progenitors in the developing zebraﬁsh hindbrain. 
+Development 136, 1653–1663. 
+25.  Cox, J. A. , Lamora, A. , Johnson, S. L. , and Voigt, M. M.  (2011).  Diverse
+mechanisms for assembly of branchiomeric nerves.  Dev.  Biol.  357,
+305–317. 
+26.  Wang, J. , Cao, J. , Dickson, A. L. , and Poss, K. D.  (2015).  Epicardial regeneration is guided by cardiac outﬂow tract and Hedgehog signalling.  Nature
+522, 226–230. 
+27.  Nagelberg, D. , Wang, J. , Su, R. , Torres-Va´ zquez, J. , Targoff, K. L. , Poss,
+K. D. , and Knaut, H.  (2015).  Origin, speciﬁcation, and plasticity of the great
+vessels of the heart.  Curr.  Biol.  25, 2099–2110. 
+28.  Eisen, J. S.  (1991).  Determination of primary motoneuron identity in developing zebraﬁsh embryos.  Science 252, 569–572. 
+29.  Kimmel, C. B. , Ballard, W. W. , Kimmel, S. R. , Ullmann, B. , and Schilling, T. F. 
+(1995).  Stages of embryonic development of the zebraﬁsh.  Dev.  Dyn.  203,
+253–310. 
+30.  Philippidou, P. , and Dasen, J. S.  (2013).  Hox genes: choreographers in
+neural development, architects of circuit organization.  Neuron 80, 12–34. 
+31.  Prince, V. E. , Joly, L. , Ekker, M. , and Ho, R. K.  (1998).  Zebraﬁsh hox genes:
+genomic organization and modiﬁed colinear expression patterns in the
+trunk.  Development 125, 407–420. 
+32.  Prince, V. E. , Moens, C. B. , Kimmel, C. B. , and Ho, R. K.  (1998).  Zebraﬁsh
+hox genes: expression in the hindbrain region of wild-type and mutants
+of the segmentation gene, valentino.  Development 125, 393–406. 
+33.  Bruce, A. E. E. , Oates, A. C. , Prince, V. E. , and Ho, R. K.  (2001).  Additional
+hox clusters in the zebraﬁsh: divergent expression patterns belie equivalent activities of duplicate hoxB5 genes.  Evol.  Dev.  3, 127–144. 
+34.  Hortopan, G. A. , and Baraban, S. C.  (2011).  Aberrant expression of genes
+necessary for neuronal development and Notch signaling in an epileptic
+mind bomb zebraﬁsh.  Dev.  Dyn.  240, 1964–1976. 
+35.  Kimura, Y. , Hisano, Y. , Kawahara, A. , and Higashijima, S.  (2014).  Efﬁcient
+generation of knock-in transgenic zebraﬁsh carrying reporter/driver genes
+by CRISPR/Cas9-mediated genome engineering.  Sci.  Rep.  4, 6545. 
+36.  Hrycaj, S. M. , Dye, B. R. , Baker, N. C. , Larsen, B. M. , Burke, A. C. , Spence,
+J. R. , and Wellik, D. M.  (2015).  Hox5 genes regulate the Wnt2/2b-Bmp4signaling axis during lung development.  Cell Rep.  12, 903–912. 
+37.  Karmakar, K. , Narita, Y. , Fadok, J. , Ducret, S. , Loche, A. , Kitazawa, T. ,
+Genoud, C. , Di Meglio, T. , Thierry, R. , Bacelo, J. , Name (2017).  Hox2 genes
+are required for tonotopic map precision and sound discrimination in the
+mouse auditory brainstem.  Cell Rep.  18, 185–197. 
+38.  Dasen, J. S. , Liu, J. -P. , and Jessell, T. M.  (2003).  Motor neuron columnar
+fate imposed by sequential phases of Hox-c activity.  Nature 425, 926–933. 
+39.  Dasen, J. S. , Tice, B. C. , Brenner-Morton, S. , and Jessell, T. M.  (2005). 
+identity and
+A Hox regulatory network establishes motor neuron pool
+target-muscle connectivity.  Cell 123, 477–491. 
+40.  Oury, F. , Murakami, Y. , Renaud, J. S. , Pasqualetti, M. , Charnay, P. , Ren,
+S. Y. , and Rijli, F. M.  (2006).  Hoxa2- and rhombomere-dependent development of the mouse facial somatosensory map.  Science 313, 1408–1413. 
+20.  Schilling, T. F. , and Kimmel, C. B.  (1997).  Musculoskeletal patterning in
+the pharyngeal segments of the zebraﬁsh embryo.  Development 124,
+2945–2960. 
+41.  Nern, A. , Zhu, Y. , and Zipursky, S. L.  (2008).  Local N-cadherin interactions
+mediate distinct steps in the targeting of lamina neurons.  Neuron 58,3824 Current Biology 27, 3812–3825, December 18, 2017
+42.  Duan, X. , Krishnaswamy, A. , De la Huerta, I. , and Sanes, J. R.  (2014).  Type
+II cadherins guide assembly of a direction-selective retinal circuit.  Cell 158,
+793–807. 
+E. A. , Name (2014).  Microtubule minus-end binding protein CAMSAP2
+controls axon speciﬁcation and dendrite development.  Neuron 82,
+1058–1073. 
+43.  Osterhout, J. A. , El-Danaf, R. N. , Nguyen, P. L. , and Huberman, A. D.  (2014). 
+Birthdate and outgrowth timing predict cellular mechanisms of axon target
+matching in the developing visual pathway.  Cell Rep.  8, 1006–1017. 
+44.  Kulkarni, A. , Ertekin, D. , Lee, C. H. , and Hummel, T.  (2016).  Birth order
+dependent growth cone segregation determines synaptic layer identity
+in the Drosophila visual system.  eLife 5, e13715. 
+45.  Zolessi, F. R. , Poggi, L. , Wilkinson, C. J. , Chien, C. B. , and Harris, W. A. 
+(2006).  Polarization and orientation of retinal ganglion cells in vivo. 
+Neural Dev.  1, 2. 
+46.  Morgan, J. L. , Dhingra, A. , Vardi, N. , and Wong, R. O.  (2006).  Axons and
+dendrites originate from neuroepithelial-like processes of retinal bipolar
+cells.  Nat.  Neurosci.  9, 85–92. 
+47.  Noctor, S. C. , Martı´nez-Cerden˜ o, V. , Ivic, L. , and Kriegstein, A. R.  (2004). 
+Cortical neurons arise in symmetric and asymmetric division zones and
+migrate through speciﬁc phases.  Nat.  Neurosci.  7, 136–144. 
+48.  Hatanaka, Y. , and Yamauchi, K.  (2013).  Excitatory cortical neurons with
+multipolar shape establish neuronal polarity by forming a tangentially oriented axon in the intermediate zone.  Cereb.  Cortex 23, 105–113. 
+49.  Namba, T. , Kibe, Y. , Funahashi, Y. , Nakamuta, S. , Takano, T. , Ueno, T. ,
+Shimada, A. , Kozawa, S. , Okamoto, M. , Shimoda, Y. , et al. Pioneering axons regulate neuronal polarization in the developing cerebral
+cortex.  Neuron 81, 814–829. 
+50.  Shi, S. H. , Jan, L. Y. , and Jan, Y. N.  (2003).  Hippocampal neuronal polarity
+speciﬁed by spatially localized mPar3/mPar6 and PI 3-kinase activity. 
+Cell 112, 63–75. 
+51.  Kishi, M. , Pan, Y. A. , Crump, J. G. , and Sanes, J. R.  (2005).  Mammalian SAD
+kinases are required for neuronal polarization.  Science 307, 929–932. 
+52.  Barnes, A. P. , Lilley, B. N. , Pan, Y. A. , Plummer, L. J. , Powell, A. W. , Raines,
+A. N. , Sanes, J. R. , and Polleux, F.  (2007).  LKB1 and SAD kinases deﬁne a
+pathway required for the polarization of cortical neurons.  Cell 129,
+549–563. 
+53.  Shelly, M. , Cancedda, L. , Heilshorn, S. , Sumbre, G. , and Poo, M. M.  (2007). 
+LKB1/STRAD promotes axon initiation during neuronal polarization.  Cell
+129, 565–577. 
+54.  Chen, S. , Chen, J. , Shi, H. , Wei, M. , Castaneda-Castellanos, D. R. , Bultje,
+R. S. , Pei, X. , Kriegstein, A. R. , Zhang, M. , and Shi, S. H.  (2013).  Regulation
+of microtubule stability and organization by mammalian Par3 in specifying
+neuronal polarity.  Dev.  Cell 24, 26–40. 
+57.  van Beuningen, S. F. B. , Will, L. , Harterink, M. , Chazeau, A. , van Battum,
+E. Y. , Frias, C. P. , Franker, M. A. M. , Katrukha, E. A. , Stucchi, R. , Vocking,
+K. , Name (2015).  TRIM46 controls neuronal polarity and axon speciﬁcation
+by driving the formation of parallel microtubule arrays.  Neuron 88, 1208–58.  Yi, J. J. , Barnes, A. P. , Hand, R. , Polleux, F. , and Ehlers, M. D.  (2010).  TGFbeta signaling speciﬁes axons during brain development.  Cell 142,
+144–157. 
+59.  Randlett, O. , Poggi, L. , Zolessi, F. R. , and Harris, W. A.  (2011).  The oriented
+emergence of axons from retinal ganglion cells is directed by laminin contact in vivo.  Neuron 70, 266–280. 
+60.  Shelly, M. , Cancedda, L. , Lim, B. K. , Popescu, A. T. , Cheng, P. L. , Gao, H. ,
+and Poo, M. M.  (2011).  Semaphorin3A regulates neuronal polarization by
+suppressing axon formation and promoting dendrite growth.  Neuron 71,
+433–446. 
+61.  Caton, A. , Hacker, A. , Naeem, A. , Livet, J. , Maina, F. , Bladt, F. , Klein, R. ,
+Birchmeier, C. , and Guthrie, S.  (2000).  The branchial arches and HGF
+are growth-promoting and chemoattractant for cranial motor axons. 
+Development 127, 1751–1766. 
+62.  Davey, C. F. , Mathewson, A. W. , and Moens, C. B.  (2016).  PCP signaling
+between migrating neurons and their planar-polarized neuroepithelial
+environment controls ﬁlopodial dynamics and directional migration. 
+PLoS Genet.  12, e1005934. 
+63.  Davison, J. M. , Akitake, C. M. , Goll, M. G. , Rhee, J. M. , Gosse, N. , Baier, H. ,
+Halpern, M. E. , Leach, S. D. , and Parsons, M. J.  (2007).  Transactivation from
+Gal4-VP16 transgenic insertions for tissue-speciﬁc cell labeling and ablation in zebraﬁsh.  Dev.  Biol.  304, 811–824. 
+64.  Grant, P. K. , and Moens, C. B.  (2010).  The neuroepithelial basement membrane serves as a boundary and a substrate for neuron migration in the
+zebraﬁsh hindbrain.  Neural Dev. 

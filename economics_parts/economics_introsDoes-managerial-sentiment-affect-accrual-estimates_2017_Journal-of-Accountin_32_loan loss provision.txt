@@ -1,0 +1,39 @@
+
+A growing body of research considers the role of sentiment in financial decisions.  In common usage, the term sentiment
+refers to feelings or beliefs about a situation, state of affairs, or event.  Applied in the finance and accounting literature,
+however, the term sentiment more narrowly depicts beliefs that are unjustified based on available information (e. g. , Baker
+and Wurgler, 2007).  While evidence indicates economic data justify the majority of beliefs about the state of the economy
+(e. g. , Lemmon and Portniaguina, 2006), research shows that sentiment has meaningful effects in both asset pricing and
+corporate decision-making settings.  For example, Baker and Wurgler (2006) find sentiment is associated with return reversals in stocks that are difficult to value and arbitrage, though the effects are less evident in highly competitive and liquid
+markets where investors can arbitrage away security mispricing and discipline the potential effects of psychological biases. 
+Importantly, corporate decision making settings lack an easily accessible arbitrage mechanism to discipline biased decisions,
+increasing the likelihood that sentiment will affect individual decisions, especially in settings of high uncertainty (Bloomfield, 2010).  Consequently, behavioral forces acting on individuals have the ability to influence the behavior of institutions in
+predictable ways.  Indeed, prior research indicates that sentiment affects analysts’ estimates (Clement Name, 2011; Hribar and
+McInnis, 2012), institutional investors’ portfolio allocations (Cornell Name, 2014), and managers’ pro-forma earnings disclosures (Brown Name, 2012). 
+In this study, we investigate whether managerial sentiment – managers’ unjustified beliefs about future firm outcomes – is
+associated with errors in accrual estimates.  Accrual estimates require managerial judgment and estimation about expected
+future realizations.  The inherent uncertainty in future outcomes allows for both strategic discretion and unintentional errors in
+accrual estimates.  Consistent with the aforementioned research showing that decisions of sophisticated individuals exhibit
+sentiment in settings of uncertainty, we posit that managerial sentiment may lead to errors in accrual estimates, where
+managers’ over (under) optimism results in accrual estimates that are too low (high). 
+To study our research question, we examine bank managers’ estimates of the loan loss provision.  In the banking setting,
+managerial beliefs that are unjustifiably optimistic (pessimistic) could lead to under (over) estimation of future charge-offs
+and thus a negative association between managerial sentiment and the loan loss provision.  The loan loss provision is a
+particularly well-suited accrual for detecting the potential effect of sentiment on accrual estimates for three reasons.  First,
+the loan loss provision is the most significant and economically important accrual in the banking industry.  Second, available
+data on loan accounts allow us to observe the economic realization (i. e. , charge-offs) to which the provision relates, and thus
+to evaluate the accuracy of loan loss provision estimates.  Third, regulators require banks to file call reports, enabling us to
+collect private bank financial statement data and use a private bank sample to rule out some of the alternative explanations
+for our results that are based on capital market incentives. 
+Our primary tests use measures of managerial sentiment derived from the Duke University/CFO Magazine Business
+Outlook Survey, which surveys managers’ levels of optimism about their firms’ future prospects.  Using the aggregate survey
+data, we examine both the unadjusted quarterly measure of average managerial optimism from the survey (‘raw beliefs’),
+and the residual from a regression of the quarterly measure of average managerial optimism on an inclusive set of macroeconomic variables (which more directly captures unexplained beliefs or ‘sentiment’).  The second measure follows directly from sentiment reflecting managers’ beliefs unjustified by available information.  Regressing the raw measure of
+beliefs on macroeconomic factors allows us to separate the justified or rational component of the survey responses, from the
+unjustified or sentiment component. 
+We first examine the association between managerial sentiment and the loan loss provision.  If managerial sentiment
+affects the loan loss provision, then variation in the provision should be negatively associated with managerial sentiment,
+after controlling for other determinants of the provision.  Using quarterly data from 2002 to 2013 for publicly traded
+commercial banks, we find that both raw beliefs and the unexplained beliefs are negatively associated with loan loss
+provisions.  When measures of quarter t sentiment are higher, ceteris paribus, the loan loss provision estimated in quarter t is
+lower.  Consistent with prior research, we find that economic fundamentals are the primary driver of the loan loss provision. 

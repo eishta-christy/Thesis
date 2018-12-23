@@ -1,0 +1,101 @@
+
+Oil ranks among the most volatile non-agricultural commodities in the
+world and this volatility has increased in recent years due mainly to the
+recent global ﬁnancial crises, the surge in production of shale oil and the
+change in OPEC's policy from the quota mechanism to the market
+share maximization.  Oil prices dropped from $147/barrel in July 2008 to
+$32/barrel in March 2009 due particularly to the global ﬁnancial crisis of
+2008–2009 and then climbed to more than $100/barrel in the ﬁrst quarter
+of 2011, rising in-line with the global economic recovery.  They dropped
+again in 2015 to under $50/barrel, where they have stayed, as a result of
+Saudi Arabia's decision seeking a greater market share as well as the increases in shale oil production.  In January 2016, the U. S.  oil prices plunged
+below $27/barrel for the ﬁrst time since 2003 due to a rise in global oil
+inventories, concurrently with traders also worried that the crude supply
+glut could linger.  Therefore, the oil volatility shocks are a major source of
+instability for the world economy, and they particularly impact the future
+economic health of oil-exporting countries that depend on oil exports for
+most of their revenues.  Under these circumstances, these countries have
+had to dip into their foreign reserves and thereby have seen their credit
+ratings drop signiﬁcantly, while the premiums on their credit default
+swaps (CDS) have soared because these credit derivatives generally measure the expected credit risk, fear, default, greed and future economic performance of countries (Hammoudeh Name, 2013a, 2013b.  Hammoudeh
+and Sari, 2011). 
+A CDS contract is the most common type of credit derivatives that
+offers protection against adverse credit events.  The market price of a
+CDS (called a CDS premium or a spread) reﬂects the risk of the underlying
+credit asset.  A CDS index is a highly liquid, standardized credit security
+that trades at a very small bid-ask spread.  CDSs can thus be efﬁcient in
+processing information on evolving risks in the economies.  For a sovereign CDS, a credit event is equivalent to a debt-issuing country defaulting
+on its debt payment commitments (Broto and Pérez-Quirós, 2015).  The
+magnitude of the credit spreads gauges the degree of the default risk exposure of the country, where a widening of a CDS spread in response to
+certain oil events indicates an increase in the level of credit risk and vice
+versa.  The CDSs for the oil-exporting countries have widened differently
+in reaction to the drops in oil prices, but they are expected to narrow
+when those prices surge. 
+It is widely accepted that oil prices play a major role in determining
+economic activity in many economies, particularly those of the oil exporters.  In this sense, it has been well documented that oil price
+volatility shocks have a substantial impact on industrial activity, stock
+and credit markets performance and economic growth, even though
+the effects differ considerably across countries and industries.  For example, negative oil price shocks generally lead to an economic slowdown
+in net oil-exporting countries and have differential impacts on capital
+market participants, while the effect on economic growth tends to be
+beneﬁcial for net oil-importing countries. 
+The recent Eurozone sovereign debt crisis has renewed the debate
+on the sovereign CDS market.  The perceived risk and dramatic jumps
+in the sovereign spreads during the crisis, the recent collapse of oil
+prices since June 2014 and the ensuing elevation in economic uncertainty have motivated us to investigate the impact of oil market uncertainty
+on sovereign CDS spreads for a group of diverse oil-exporting countries. 
+The oil-exporting countries included in this study are Bahrain, Qatar,
+Saudi Arabia and United Arab Emirates (UAE), which make up most of
+the GCC bloc, as well as Brazil, Norway, Russia, Mexico, and Venezuela
+which are important oil producers and exporters.  These countries are
+selected based on data availability for their CDS spreads.  These diverse
+oil exporters are different in terms of their relative dependency on oil
+revenues, amounts of foreign reserves, sizes of foreign debt-to-GDP
+and levels of credit ratings. 
+The primary objectives of this paper are twofold.  First, to examine the
+impact of the oil market uncertainty (proxied by the CBOE Crude Oil Volatility Index known as the OVX index) on the sovereign credit spreads
+(proxied by sovereign CDS spreads) of the four GCC and other ﬁve
+major oil-exporting countries.  Second, to discern the differences in the
+responses of the sovereign CDS spreads of the different oil exporters to
+the implied oil volatility shocks since important lessons can be learned
+from those differences.  The study is conducted by a time-varying approach based on the modiﬁed bootstrap-rolling window procedure in
+order to study the directional predictability between oil uncertainty
+and sovereign credit risk for those oil-exporting countries over different
+time periods, particularly during the times when oil volatility follows rising and falling trends.  To check the robustness of our estimations, we use
+the quantile dependence measure through the cross-quantilogram approach to detect dependence across the entire range of quantiles or market conditions. 
+We examine the order of integration of the time series variables by
+using the Narayan and Popp (2010) unit root test, which accounts for
+the presence of two structural breaks that the classical Augmented
+Dickey and Fuller (1979) and the Phillips and Perron (1988) unit
+root tests cannot.  The presence of structural breaks in the data renders
+linear or full sample estimates of the implied oil volatility and the sovereign CDS spreads unreliable.  Therefore, because structural changes
+exist in the oil markets and the countries that depend on them,
+an analysis that employs the rolling window approach reﬂects more
+directional predictability between the variables than the linearUsing the daily data from January 1, 2009, to June 30, 2016, our empirical results can be summarized as follows.  (i) There is a signiﬁcant directional predictability from oil uncertainty to CDSs for Qatar, Bahrain, Saudi
+Arabia and Norway, particularly during the 2014–2015 oil price collapse
+which could be due to their governments' active ﬁscal stabilization policies.  (ii) A signiﬁcant directional predictability is also found for the foreign
+exchange reserves poor Mexico mostly during the 2014 oil collapse, and
+for the likewise Venezuela during the 2011–2013 rising volatility. 
+(iii) No directional predictability is found in the case of Brazil, probably
+muted by the country's signiﬁcant political risks. 1 The alarming results
+for the foreign reserves-poor Mexico and Venezuela may ﬂash a red ﬂag
+for the foreign reserves-rich GCC countries if such countries run out of
+their large foreign assets, which are currently depleting their reserves. 
+This study differs from, and adds to, the related literature on sovereign CDS spread dynamics in several ways.  First, it investigates the
+directional predictability from the oil market uncertainty to sovereign
+credit spreads for important oil-exporting countries across different
+rolling windows based on a time-varying framework in the presence
+of structural breaks.  This has not been researched before in the literature.  Second, it examines whether the sovereign CDS spreads of these
+oil-rich countries are more (less) exposed and in varying degrees to
+the effects of oil market uncertainty, which have been adversely impacted by recent oil price shocks.  Third, our recent sample period (January 1,
+2009, to June 30, 2016) allows us to investigate the CDS impact of the
+recent collapse of oil prices and also contains both low and high volatility
+subperiods, leading one to discern how diverse oil market uncertainty is
+transmitted to those sovereign CDS spreads.  Finally, we compare the
+results between the GCC and the other oil-exporting countries under
+different market conditions to discern whether lessons can be learned
+for the future from foreign reserves-poor oil producing countries.  The
+countries under consideration differ regarding their oil reserves, foreign
+reserves, population, labour markets, and exchange rate mechanisms
+among other ﬁnancial and economic speciﬁcations. 
+The remainder of this paper is organized as follows. 

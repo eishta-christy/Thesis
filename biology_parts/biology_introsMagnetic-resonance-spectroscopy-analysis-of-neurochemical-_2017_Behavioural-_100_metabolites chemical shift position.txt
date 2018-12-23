@@ -1,0 +1,132 @@
+
+Alzheimer’s disease (AD) is an age-related progressive neurodegenerative disorder accompanied by cognitive decline [1].  The World
+Alzheimer Report 2015 estimates that over 46 million people live with
+dementia worldwide and the cost of dementia is $818 billion [2]. 
+Furthermore, the prevalence of AD increases with ageing and doubles
+every ﬁve years after the age of 65, which will cause great economic
+and social burdens [2,3]. 
+Magnetic resonance imaging (MRI),
+including structural MRI,
+functional MRI and proton magnetic resonance spectroscopy (1H-MRS),
+is becoming more useful in the understanding of the pathogenesis and
+diagnosis of AD [4–12].  Brain morphological abnormalities, such as
+hippocampus, entorhinal cortex, and amygdala have been gradually
+uncovered with the development of structural MRI in the study of AD
+patients [4,8,9].  Animal structural MRI also shows striatum and entorhinal cortex atrophy in AD models, including the TASTPM and APP/
+PS2/Tau mouse [13].  In addition, 1H MRS studies have suggested that
+neurochemical alterations, such as those associated with glutamate
+(Glu) and N-acetylaspartate (NAA) in the hippocampus or cingulate,
+contribute to cognitive decline in AD patients [14–16].  In animal
+models of AD, neurochemical alterations were measured similarly with
+that of AD patients [17–19].  Glu is a primary excitatory neurotransmitter that is thought to represent the number of survival neurons
+[20].  NAA is a speciﬁc kind of amino acids that mainly exists in the
+neurons and axon [21].  As a neuronal marker, the concentration of
+Abbreviations: AD, Alzheimer’s disease; ANTs, Advanced Normalization Tools; CHESS, chemical shift-water suppression; Cr, creatine; CSF, cerebrospinal ﬂuid; FOV, ﬁled of view; Glu,
+glutamate; GM, grey matter; 1H-MRS, proton magnetic resonance spectroscopy; MRI, magnetic resonance imaging; NAA, N-acetylaspartate; mIn, myo-inositol; PRESS, point-resolved
+spectroscopy; QUEST, quantum estimation; ppm, parts per million; RARE, rapid acquisition with relaxation enhancement; ROI, region of interest; SPM8, Statistical Parametric Mapping8;
+TE, echo time; TR, repetition time; VBM, voxel-based morphometry; WM, white matter
+⁎ Corresponding authors. 
+⁎⁎ Corresponding author at: College of Physical Science and Technology, Zhengzhou University, Zhengzhou 450001, China. 
+E-mail addresses: zhaosj@zzu. edu. cn (S.  Zhao), shanbc@ihep. ac. cn (B.  Shan), cld@fjtcm. edu. cn (L.  Chen). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 005
+Received 27 December 2016; Received in revised form 26 July 2017; Accepted 5 August 2017
+Available online 08 August 2017
+0166-4328/ 
+S.  Liang Name
+Behavioural Brain Research 335 (2017) 26–31
+NAA can be sensitive to neuron density.  myo-inositol (mIn) is one of the
+most abundant metabolites visible on 1H MRS in the brain and can act
+as a biomarker of glial activation[22].  A number of studies suggest that
+neurochemical alterations are associated with cognitive decline in AD
+[18,21,23–25]. 
+However, few studies have contemporarily focused on the roles of
+structural MRI changes and neurochemical alterations in cognitive decline associated with AD.  Therefore, the current study aimed to measure the learning and memory ability and regional volumes in APP/PS1
+transgenic mice.  Furthermore, some atrophic regions were selected as
+region of interest (ROI) to explore neurochemical metabolism using 1H
+MRS in order to further understand cognitive decline in AD. 
+<Middle> Materials and methods. 
+2. 1.  Animals
+Twelve-month-old APP/PS1 transgenic mice and age-matched littermate wild-type (C57Bl/6J) control mice were used for the water
+maze, MRI and 1H MRS analyses, with 2 diﬀerent groups per test (n = 7
+mice/group, weights 25–35 g).  APP/PS1 mice express a chimeric
+mouse/human amyloid precursor protein (Mo/HuAPP695swe) and a
+mutanthuman presenilin 1 (PS1-dE9), which are associated with earlyonset AD [26]. 
+All animals were kept in standard size mouse cages (29*18*13 cm,
+up to 5 per same sex group) at 20–26 °C on a daily 12-h light-dark cycle
+with ad libitum access to food and water.  All experiments were performed strictly in accordance with the International Ethical Guidelines
+and National Institutes of Health Guide for the Care and Use of
+Laboratory Animals and were approved by the Ethics Committee of
+Fujian University of TCM, P. R.  China (protocol #FUTCM-2014012).  All
+eﬀorts were made to minimize animal suﬀering. 
+2. 2.  Morris water maze test
+Cognitive function was tested using a water maze apparatus
+(Chinese Academy of Sciences, Beijing, China), which was a stainless
+steel circular tank with a diameter of 120 cm and a height of 50 cm.  The
+tank was ﬁlled with water (21–23 °C) to a depth of 40 cm and divided
+into four equal quadrants.  A platform (diameter, 6 cm) was placed in
+the third quadrant and submerged 1 cm below the surface of the water. 
+For the place navigation trials, mice were trained for ﬁve days.  Each
+trial was started by placing the mice in one of the four quadrants.  Mice
+were allowed to swim for a period of 90 s to ﬁnd the hidden platform.  If
+a mouse did not ﬁnd the platform within 90 s, it was removed from the
+water and placed on the platform for 15 s by a researcher.  On the sixth
+day, the probe trial test was performed to assess memory consolidation
+and the platform was removed.  Each mouse was allowed to swim freely
+for 90 s.  The frequency of each mouse that crossed the position where
+the platform was once placed and the time spent in the target quadrant
+were recorded. 
+2. 3.  MRI scanning
+Prior to MRI scanning, mice were initially anaesthetized with 1. 5%
+isoﬂurane in a 1:4 oxygen and air mixture.  During the MRI scan, the
+animals were placed prone in a MR-compatible stereotactic holder with
+the head cinched, the teeth hooked by a tooth bar, and the nose emplaced in a nose cone to exhaust isoﬂurane in a mixture of oxygen and
+air (ratio 1:4).  The core body temperature was controlled to approximately 37 °C using a warm water circulated heating cradle, and respiration was monitored.  Imaging was performed on a 7T small animal
+MRI scanner (70/20USR Biospec, Bruker Biospin GMbls, Germany).  The
+body coil and surface coil were used as the exciting coil and receivingA 3D rapid acquisition with relaxation enhancement (RARE) T2weigheted sequence was performed to assess anatomic changes with the
+following parameters: repetition time (TR) = 16000 ms, echo time
+(TE) = 65 ms, number of averages = 16; ﬁeld of view (FOV)
+= 20*20 mm,
+thickness = 0. 2 mm and matrix = 256*256. 
+slices = 75,2. 4.  Voxel-based morphometry (VBM) analysis of MRI data
+All pre-processing was performed using Advanced Normalization
+Tools (ANTs) [27] and Statistical Parametric Mapping8 (SPM8, Wellcome Department of Clinical Neurology, London) with the SPMMouse
+plugin [28].  First,
+the images were corrected for intensity nonhomogeneity with ANTs’s N4biasFieldCorrection [29].  Then, the brain
+images were extracted from the corrected images by skull strip.  The
+extracted brain images were normalized into the standard stereotactic
+space [30] and segmented into grey matter (GM), white matter (WM)
+and cerebrospinal ﬂuid (CSF) using SPMMouse toolbox [28].  Finally,
+the resulting GM images were smoothed with a 210 μm isotropic
+Gaussian kernel using SPM8.  The two-sample t-test was performed by
+SPMMouse toolbox [28] voxel-by-voxel to determine the GM volume
+diﬀerences within the whole brain between control and APP/PS1
+transgenic mice.  P < 0. 01 and clusters > 50 voxels were considered as
+the statistically signiﬁcant threshold. 
+2. 5.  1H-MRS acquiring
+Based on the results of the above VBM analysis, APP/PS1 transgenic
+mice revealed a signiﬁcant reduction in volume of grey matter in the
+hippocampus, motor cortex, amygdaloid body, striatum, etc.  The hippocampus is the area of most concern in AD studies.  A number of studies have shown regional atrophy in the hippocampus of AD [8,9]. 
+Therefore, we selected an area in the hippocampus as the region of
+interest (ROI) for 1H-MRS measurement, where a signiﬁcant reduction
+in volume of grey matter was detected by VBM.  The ROI size was set as
+1. 5*1. 5*1. 5 mm. 
+TE = 35 ms,
+A T2-weighted image using RARE sequence was ﬁrst acquired to
+ensure the mouse head position.  The parameters were as follows:
+TR = 4200 ms,
+averages = 4,
+FOV = 20*20 mm, slice thickness = 0. 5 mm, slices = 30, and matrix = 256*256.  The selected ROI was shimmed, and the water suppression pulse was adjusted for chemical-shift-water suppression
+(CHESS) prior to the point-resolved spectroscopy (PRESS) acquisition. 
+MR spectroscopic
+TR = 2500 ms,
+TE = 16. 168 ms and scan duration = 5 min 20 s. 
+collected with
+data wereof
+2. 6.  1H-MRS spectral processing
+The spectral data were processed using the software package
+TOPSPIN (v3. 1, Bruker Biospin, Germany).  The areas under the peak
+for various metabolites, including NAA, mIn, Glu and creatine (Cr),
+were calculated automatically using a quantum estimation (QUEST)
+method with a subtraction approach for background modelling.  Using
+Cr as the criterion [18,31], NAA/Cr, Glu/Cr and mIn/Cr were statistically evaluated.  The metabolites chemical shift position in the brain,
+including NAA 2. 02 parts per million (ppm), Glu 2. 

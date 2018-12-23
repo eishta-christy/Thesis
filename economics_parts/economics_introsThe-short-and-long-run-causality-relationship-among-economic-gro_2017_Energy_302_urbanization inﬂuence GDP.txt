@@ -1,0 +1,465 @@
+
+The world has known for over a century an important economic
+development.  Industrial developments, the increase in the number of
+vehicles and domestic equipments have led to a signiﬁcant increase in
+energy demand.  Energy is an essential basis for social and economic
+development.  States must ensure adequate supply of energy for their
+citizens while ensuring the sustainability of that supply.  Energy supply
+is a permanent challenge for our societies, especially as the need for
+states continues to increase.  Overall, the SMCs are facing rapid population growth coupled with relatively low incomes, as well as an accelerated pace of urbanization, added to signiﬁcant needs of socio-economic
+development.  This is reﬂected in a growing demand for energy services
+and associated infrastructure.  Indeed, in all SMCs, energy demand is
+constantly increasing.  To meet their energy needs, the SMCs use about
+95% of fossil fuels.  If the trend observed has continued for 30 years,
+energy consumption could increase by 65% between 2000 and 2025
+and be 97% would be satisﬁed by fossil energies in 2025.  Such a scenario
+will have many consequences, such as: increased energy dependency
+and insecurity, high energy bills (importing countries), reduced export
+proﬁts (exporting countries), vulnerability of the production and
+distribution system, high local air pollution and as well as climate
+change.  In the same context, the question of ﬁnancing goes far beyond
+that of mobilizing the ﬁnancial resources of international cooperation. 
+The ﬁnancial development can provide efﬁcient ﬁnancial service for
+foreign banking markets, and improve the access of both foreign and
+domestic ﬁrms to ﬁnancial goods and services (Dasgupta Name, 2001;
+Barth Name, 2004; Lee and Chang, 2008).  According to Karanﬁl (2008)
+and (2009), the causality between economic growth and energy consumption is not justiﬁed just by a simple bivariate model.  He suggested
+adding one of the ﬁnancial variables such as domestic credit to private
+sector, stock market capitalization or liquid liabilities into the model. 
+He also argued that interest rate and exchange rate can affect the energy
+consumption through energy prices.  Furthermore, Fung (2009) study
+found that an efﬁcient ﬁnancial system creates more products, and
+the inputs for these products increase the demand for energy.  Thus,
+ﬁnancial development is a factor which should be taken into account
+in energy consumption.  (See Fig.  1. )
+Sadorsky (2011) pointed three effective channels of ﬁnancial
+development over energy consumption.  First, there is a direct effect. 
+When the ﬁnancial development improves, consumers can borrow
+easier and cheaper in order to buy durable goods which consume a lot
+of energy.  Secondly, improved ﬁnancial development helps businesses
+to access to ﬁnancial capital easily and less costly.  Additionally, stock
+market development can also affect businesses by providing them
+with additional funding source.  These ones can let businesses expand
+(business effect).  Thirdly, the wealth effect: increased stock market
+activity usually affects the conﬁdence of consumers and businesses by
+creating wealth effect.  Increased economic conﬁdence may expand
+the economy and promote energy demand.  The relationship between
+ﬁnancial development and energy consumption has been discussed in
+recent previous studies (Mielnik and Goldemberg, 2002; Sadorsky,
+2011; Islam Name, 2013; Shahbaza Name, 2016).  The econometric
+approach of empirical studies often is based on a linear dynamic panel
+model (Sadorsky, 2010; Ozturk and Al-Mulali, 2015; Shahbaz Name,
+2017), autoregressive distributed lag (ARDL) bounds (Fuinhas and
+Marques, 2012; Shahbaza Name, 2016; Bekhet Name, 2017), a
+cointegration model (Islam Name, 2013; Mahalik Name, 2017), or Granger
+causality (Dan and Lijun, 2009; Furuoka, 2015).  Energy is seen as the indispensable tool for sustainable development.  In these circumstances,
+determining the causal link between energy consumption, ﬁnancial
+development and economic growth is of particular importance to
+researchers and decision-makers.  Indeed, it allows deducing the implications of adequate energy, economic and ﬁnancial policies to achieve
+the objective of economic development.  To the best of our knowledge,
+there has never been an attempt to investigate the short and long run
+causality among economic growth, energy consumption and ﬁnancial
+development for SMCs.  There are few studies available in the existing
+literature investigating the causal relationship between economic
+growth, energy consumption and ﬁnancial development (Alam Name,
+2015; Mahalik Name, 2017; Bekhet Name, 2017).  According to the conclusion derived from these studies, the previous literature that focuses on
+the cointegration and causal relationship between growth, energy and
+ﬁnancial development is not conclusive to provide policy recommendation that can be applied across countries.  This paper therefore aims at
+fulﬁlling this gap and contributing to empirical literature.  The purpose
+of this study is to investigate the relationship between economic
+growth, energy consumption and ﬁnancial development in the 6 SMCs
+for the period 1995–2015 using multi-steps methodology: Stationary,
+Co-integration tests, autoregressive distributed lag (hereafter ARDL)
+and vector error correction model (hereafter VECM).  The ARDL bounds
+testing approach investigates short run as well as long run parameter
+instantaneously. 
+The rest of the paper proceeds as follows: Section 2 provides a literature review on ﬁnancial development, energy consumption and
+economic growth.  Section 3 describes empirical methodology for this
+study.  Section 4 reveals empirical ﬁndings and discussion.  Section 5
+concludes with a summary of the main ﬁndings and policy implications. 
+2.  Literature review. 
+In the past few years, the causal link between energy consumption
+and economic growth has gained increasing attention in the recent
+literature (Islam Name, 2013; Khan Name, 2014; Shahbaz and Lean,
+2012; Shahbaz Name, 2013a, 2013b; Omri and Kahouli, 2014a, 2014b;
+Mahalik Name, 2017; Bekhet Name, 2017).  The empirical ﬁndings of the
+existing energy literature are not unambiguous due to the use of various
+econometric approaches such as correlation analysis, simple regressions, bivariate causality, unit root tests, multivariate cointegration,
+panel cointegration, VECM, ARDL, inter alia.  However, the empirical
+studies that examine the relationship between ﬁnancial development,
+energy consumption and economic growth in a systematic manner
+still lack.  As Table 1 demonstrates, the ﬁndings of these studies are inconclusive.  These empirical studies show a range of conﬂicting results:
+vary vastly in terms of signs, magnitudes and signiﬁcance.  Some
+researchers have found a negative relationship and no causal relationship between ﬁnancial development and energy consumption (Mielnik
+and Goldemberg, 2002; Dan and Lijun, 2009; Shahbaz Name, 2013a,
+2013b), while others detected a positive and a bidirectional causality between ﬁnancial development and energy consumption (Sadorsky, 2011;
+Al-Mulali and Sab, 2012a, 2012b; Islam Name, 2013; Khan Name, 2014;
+Omri and Kahouli, 2014a, 2014b; Alam Name, 2015; Bekhet Name, 2017). 
+To be more speciﬁc, Dan and Lijun (2009) apply Granger causality to
+test the relationship between energy consumption and ﬁnancial development in China's Guangdong province.  They showed that ﬁnancial
+development failed to increase energy consumption.  Furthermore,
+Sadorsky (2010) detected a direct link between ﬁnancial development
+and energy consumption by using the dynamic panel method in 22 developing countries for the period of 1990–2006.  His ﬁndings indicated
+that there was a signiﬁcant positive relationship between ﬁnancial
+development and energy consumption.  In addition, Sadorsky (2011)
+examined the impact of ﬁnancial development on energy consumption
+in a sample of 9 Central and Eastern European frontier economies.  The
+empirical results, obtained from dynamic panel demand models, show
+a positive and statistically signiﬁcant relationship between ﬁnancial
+development and energy consumption.  In a similar way, Xu (2012)
+investigated the nexus between ﬁnancial development and energy
+consumption during the period 1999–2009 with a panel data set in 29
+provinces of China, using system-GMM.  The results indicated a positive
+as well as signiﬁcant relationship between ﬁnancial development and
+energy consumption. 
+In the same context, Shahbaz and Lean (2012) examined the relationship between ﬁnancial development and energy consumption in Tunisia
+for the period of 1971–2008.  The researchers adopted the ARDL and the
+Johansen cointegration method for their empirical analysis.  The ﬁndings
+indicated that there was a long run cointegration relationship between
+ﬁnancial development and energy consumption.  In addition, the two
+variables had a bidirectional causal relationship.  By using panel data
+method, Al-Mulali and Sab (2012a) examined the ﬁnance-energy
+nexus in 30 Sub-Saharan African countries between 1980 and 2008, reported that there was bidirectional causality between ﬁnancial development and energy consumption.  Furthermore, Al-Mulali and Sab (2012b)
+analyzed the ﬁnance-energy relationship in 19 countries for the period of
+1980–2008.  They concluded that there was no causal relationship between the variables.  Focusing on Malaysia, Islam Name (2013) investigated the effects of ﬁnancial development on energy consumption between
+1971 and 2009.  Their ﬁndings revealed mutually reinforcing bidirectional causality between the ﬁnancial development and the energy consumption.  Shahbaz Name (2013a) analyzed the ﬁnance-energy nexus in
+China for the period of 1971–2011.  The ARDL bounds testing approach
+to cointegration was applied to examine long run relationship among
+the series while stationarity properties of the variables was tested by applying structural break test.  The results indicated that there was no causal relationship between the variables.  In a similar way, Shahbaz Name
+(2013b) did not detect any causal relationship between the ﬁnancial development and the energy consumption in Indonesia over the period
+from 1975 to 2011.  In further studies, Shahbaz Name (2013a) demonstrated that ﬁnancial development resulted in increased energy consumption
+and conﬁrmed that energy use and ﬁnancial development have a positive impact on economic growth in China.  Islam Name (2013) examined
+a long run relationship among consumption of energy, ﬁnancial development and economic growth for Malaysia over the 1971–2009 periods by
+implementing the ARDL approach to cointegration; and tested the
+direction of causality using the VECM.  The results suggest that energy
+consumption is inﬂuenced by ﬁnancial development, both in the short
+and the long run. 
+In another study, Omri and Kahouli (2014a, 2014b) used the dynamic panel method to examine the ﬁnance-energy nexus in 65 countries
+for the period of 1990–2011.  The researchers detected a positive relationship between the ﬁnancial development and the energy consumption.  More recently, Komal and Abbas (2015) explored the ﬁnancegrowth-energy nexus for Pakistan over the 1972–2012 periods, by
+employing the system GMM estimation technique.  The study tried to
+capture the impact of ﬁnancial development on energy consumption
+through economic growth channel.  The study found positive and significant impact of ﬁnancial development on energy consumption through
+the economic growth channel.  Indeed, Furuoka (2015) examined the relationships between ﬁnancial development and energy consumption in
+Asia for the period of 1980–2012.  The ﬁndings of the panel cointegration
+test indicated that there was a long run equilibrium relationship
+between ﬁnance and energy consumption in the region.  Moreover, the
+heterogeneous panel causality test detected an unidirectional causality
+from energy consumption to ﬁnancial development but not vice versa. 
+These results indicate that an expansion of energy usage could be a driving force behind ﬁnancial development in Asia.  Lending support to this
+argument, Alam Name (2015) examined the relationship among energy
+consumption and different ﬁnancial development indicators in the
+panel of selected SAARC countries over a period of 1975–2011.  Panel
+cointegration test suggested that the variables were cointegrated and
+had a long-run relationship between them.  The ﬁxed effect model
+shows that there is a signiﬁcant relationship among energy consumption, economic growth and ﬁnancial development.  In another study,
+Mahalik Name (2017) investigated the relationship between ﬁnancial development and energy consumption for Saudi Arabia by using annual
+data for the period 1971–2011.  The evidence of unidirectional causality
+running from ﬁnancial development to energy demand is found.  By
+contrast, Bekhet Name (2017) examined the relationships among CO2
+emissions, ﬁnancial development, energy consumption, and economic
+growth in GCC countries.  To test the long-term relationship among the
+above variables, the study employed the ARDL bounds testing approach
+for the period of 1980–2011.  The empirical results proved the existence
+of a long-term equilibrium relationship among energy consumption and
+ﬁnancial development in all Gulf Cooperation Council (GCC) countries
+except UAE. 
+Generally, the literature review on the causality relationship
+between economic growth, energy consumption and ﬁnancial development is based on Engle and Granger (1987), Johansen (1991) and
+Johansen and Juselius (1990) cointegration techniques.  However,
+using the same methods with the same variables has no more potential
+of any original contribution, because it increases only the number of
+conﬂicting results with varying time periods and we have serious
+doubts about the economic, energy and ﬁnancial policies.  In the next
+section, we use VECM and the ARDL model to avoid this problem. 
+None of the studies, according to best of our knowledge, available for
+SMCs used the VECM and the ARDL estimators for testing the energygrowth-ﬁnancial nexus. 
+<Middle> Data and methodology. 
+3. 1.  Data. 
+The analysis covers the SMCs, which includes six countries: Algeria,
+Egypt, Israel, Lebanon, Morocco and Tunisia.  The selection of the starting
+period (1995–2015) was constrained by the availability of data.  The
+main variables of the analysis are ﬁnancial development, real GDP per
+capita and energy consumption per capita.  Data are taken from the
+World Development Indicators database (World Development Indicators (WDI, 2016)).  GDP per capita is expressed in US dollars (constant
+2010 US$) determined the economic growth, energy consumption
+(EC) is expressed in kg of oil equivalent per capita, ﬁnancial development (FD) is explained by real domestic credit to private sector as
+share of GDP.  I take the logarithm of these variables.  On the one hand,
+this transformation in logarithm facilitates the interpretation of the estimated coefﬁcients which are read as elasticities.  On the other hand it
+can control the heteroscedasticity problem.  Indeed, the logarithmic
+transformation makes it possible to solve or reduce the differences between the variables linked to the differences in their units of measure. 
+Indeed, there are several other variables that may affect this relationship.  In this study, we use some important control variables, like international trade (% of exports and imports of GDP), real per capita gross
+ﬁxed capital formation (constant 2010 US$) as a proxy of capital stock
+and urbanization (% of population).  Theoretically, capital and labor are
+used as potential inputs in the process of producing real economic output.  In turn these inputs are also helping producers of an economy to
+demand for EC and FD.  It is in the sense that the higher the capital use,
+the higher will be the economic growth, EC and FD.  This positive causal
+linkage between capital stock the three variables mainly happens due to
+the very nature of capital intensive.  Similarly, GDP, EC and FD are positively linked with evolution of urbanization in the economy.  It means
+that the greater degree of growing urban population need higher
+amounts of energy for their daily life and accelerate growth.  Likewise,
+the relationship between trade openness and economic growth is a
+long debated issue in the theoretical and empirical literature of economics (Omri and Kahouli, 2014a, 2014b; Furuoka, 2015; Kahouli and Omri,
+2017).  However, the inconclusive results imply that the results of trade
+openness may not be generalized for SMCs.  Therefore, we include it in
+our regression for quantifying its impact on the case of SMCs.  Moreover,
+with the help of above theoretical set up, we have included these variables (e. g.  trade, capital stock and urbanization) in the analysis which
+contribute to GDP, EC and FD in SMCs and therefore it is expected to
+provide meaningful insights for policy implications at the aggregate
+level highlighted in the concluding sections of this study. 
+Variables used for estimation purpose with their measurement,
+deﬁnition, source, and expected sign are mentioned in Appendix 1. 
+The summary statistics (mean value and standard deviation) and the
+correlation matrix of GDP per capita, energy consumption per capita,
+ﬁnancial development, trade openness, capital and urbanization are presented in Appendix 1.  The mean GDP per capita ranges from 2447. 738 in
+Morocco to 28,211. 79 in Israel.  As for the per capita energy consumption,
+Morocco has the lowest energy usage (445. 91), whereas Israel has the
+highest (2898. 214).  Concerning ﬁnancial development, Algeria has
+the lowest ﬁnancial development, whereas Lebanon has the highest. 
+The correlation matrix is reported to check for multicollinearity among
+variables.  By looking at the results, the major observations that should
+be highlighted are as follows: there is a signiﬁcant correlation between
+all variables at 5% level. 
+3. 2.  Methodology. 
+The study is concerned mainly with examining the short and
+long-run relationship between economic growth, EC and FD.  Following
+the work of Omri and Kahouli (2014a, 2014b), Begum Name (2015)
+and Ali Name (2017) we derived the empirical model based on the
+standard Cobb-Douglas production function having constant returns
+and the aggregate output function with time t, can be displayed as
+follows. 
+Where, Y represent GDP, EC denote energy consumption and e the
+error term.  α1,α2 and α3 are the output elasticities respectively with respect to domestic capital, labor force, and energy consumption.  In this
+paper we allow technology to be endogenously determined by ﬁnancial
+development and we integrated trade, capital and urbanization (proxy
+of labor) an augmented Cobb-Douglas production function (Omri and
+Kahouli, 2014a and b).  Financial development represents an important
+variable as correlates with the degree of capital ﬂows in ﬁnancial institutions, capital markets, and foreign direct investment (Chang, 2015). 
+Therefore,
+Where, θ is time-invariant constant.  Substituting Eq.  (2) into
+By taking log, the linearized production function can be given as
+follows. 
+Empirically, to examine the relation between economic growth,
+energy consumption and ﬁnancial development (three-way linkages),
+we specify the model following multiple equations, Eqs.  (5), (6) and (7)
+respectively. 
+Where, lnGDP is the logarithm of GDP per capita, lnEC is the logarithm of energy consumption energy per capita and lnFDis the logarithm
+of ﬁnancial development.  lnTrade lnK and lnURB are the logarithm of
+trade, capital stock and urbanization, respectively. 
+In this study, multi-steps methodology will be used to test this relationship based essentially on ARDL bounds testing approach (Pesaran
+and Shin, 1999; Pesaran Name, 2001) and VECM Granger causality approach.  The ARDL approach has numerous advantages.  First, the ARDL
+procedure can be applied whether the time series variables are I(0),
+I(1) or frictionally integrated (Pesaran Name, 2001).  Second, endogeneity
+problems can be avoided and small sample properties of ARDL approach
+are more reliable than that of Johansen and Juselius's cointegration
+methodology.  Third, the ARDL procedure captures appropriate number
+of lags in data generating process particularly in general to speciﬁc process.  Fourth, the ARDL procedure employs a single reduced form equation, while the conventional cointegration procedures estimate the
+long-run relationships within a context of system equations.  In this
+study, the ARDL model will be employed through several steps: The
+ﬁrst step of our analysis is to make sure of the stationarity of the series
+or of the order of integration of each of them.  Therefore, two unit root
+tests are implemented: Augmented-Dickey-Fuller (ADF) of Dickey and
+Fuller (1981) and Phillips-Perron (PP) of Phillips and Perron (1988). 
+ADF and PP test the null hypothesis of the presence of a unit root
+(non-stationarity) against the alternative hypothesis of absence of unit
+root (stationarity).  The results of the tests are given in Table 2 below
+for the six SMCs considered here. 
+After getting assured about the order of integration of the variables,
+we apply the ARDL bounds testing approach to investigate cointegration
+for a long-run relationship between economic growth, EC and FD for 6
+SMCs (step 2).  The ARDL model is expressed as follows. 
+In Eq.  (8), the 1st difference operator is shown by Δ; β1i,χ1i,δ1i, ε1i,ϕ1i,φ1i are error correction dynamics, a1,b1,c1,d1,e1,f1 are the optimal lag length to be used.  η11 to η16represents the long run
+relationship among the variables in the model, and ε1tare the error
+terms.  ARDL approach based on Wald F-Statistic is applied to check
+the long-run cointegration among the variables of the concern with
+the null of no co-integration as H0:ηj1=ηj2=ηj3=ηj4=ηj5=ηj6=0
+and alternative as H1:ηj1=ηj2=ηj3=ηj4=ηj5=ηj6≠0.  However, in
+this study we are only interested in studying the following hypothesis:
+H0: ηj1 =ηj2 =ηj3= 0 and alternative as H1: ηj1 =ηj2 =ηj3 ≠0.  In the
+similar way, other equations (Eqs.  (9)–(13)) can be explained. 
+Pesaran Name (2001) generated two asymptotic critical values
+i. e.  upper critical bound (UCB) and lower critical bound (LCB) they are
+used to take decisions whether cointegration exists or not between the
+series.  The lower critical bound is used to test cointegration if all the
+series are integrated at I(0) otherwise we use an upper critical bound
+(UCB).  The long-run relationship between the variables exists if our
+calculated F-statistic is greater than upper critical bound (UCB).  There
+is no cointegration between the series, if our calculated F-statistic
+does not exceed lower critical bound (LCB).  Our decision regarding
+cointegration is inconclusive if calculated F-statistic falls between LCB
+and UCB.  In such an environment, an error correction method is an
+easy and suitable way to investigate cointegration between the variables. 
+We have used critical bounds generated by Narayan (2005) to test
+cointegration rather than Pesaran Name (2001) and Turner (2006). 
+After conﬁrming the presence of cointegration between the variables,
+we apply the VECM Granger causality approach to investigate the direction of causality between them (Third step).  The VECM is a restriction of
+VAR.  It contains a cointegration term represented by an error correction
+term (ECT) and constrains the endogenous variables to converge to the
+cointegration relationships while allowing for short-term dynamic adjustments.  The ECT implies that the variations of the endogenous variables are a function of the level of imbalance in the cointegration
+relation that it recovers.  The VECM makes it possible to estimate the
+short-term relationships and to indicate the existence of long-term relationships through the signiﬁcance of the ECT.  The procedure is done in
+two steps.  The ﬁrst is to estimate the models (5) to (7) and to recover
+the residues corresponding to the deviations from the equilibrium.  The
+second step corresponds to the estimation of Eqs.  (14) to (19) which
+contain the recovered residues.  This step estimates the coefﬁcients that
+correspond to the short-term adjustments as well as to the long-term adjustment rates.  The VECM equations are modeled as follows. 
+Where, zj0,κj,λj,μ j,νj,οj,πj (j=1,…,6) are parameters to be estimated;
+ξjt(j=1,…,6)are white noise error terms; ECT is the error correction term
+derived from the corresponding long-run equilibrium relationship; the
+coefﬁcients ωj (j =1,…, 6)of the ECT represent the deviation of the
+dependent variables from the long-run equilibrium. 
+<Conclusion> Results and discussion. 
+Before estimating the relationships between variables, it is necessary
+to determine the order of integration of each variable in order to avoid
+making misleading estimates.  To do this, we apply the unit root tests to
+the logarithm of the variables used in terms of level and ﬁrst difference. 
+Typically, the results in Table 2 indicate that most of the variables used
+are integrated of I (1).  On the one hand, the ADF and PP tests, with constant and/or trend, generally, do not allow to reject the null hypothesis of
+the presence of a unit root.  The GDP per capita, ﬁnancial development,
+energy consumption per capita, trade, capital and urbanization in level
+are not stationary.  On the other hand, the null hypothesis of the presence
+of a unit root is rejected, unanimously for all series in ﬁrst difference. 
+The Bounds testing approach was employed to determine the presence of cointegration among variables.  This requires us to calculate
+the value of the F-statistics and compare it with the critical values
+(Table 3).  The optimum lag is selected relying on minimizing the Akaike
+Information Criterion (AIC) and Shwarz Criteria (SIC).  For both models,
+lag 2 is found to be the optimal lag length for our study.  Apparently, the
+bounds testing approach reveals mitigated results.  In most cases, the
+F-statistics lies above, at least, the 10% upper bound in the 4 SMCs
+conﬁrming the presence of long-run equilibrium relationships.  For
+Algeria, we ﬁnd that the null hypothesis of no cointegration are rejected
+when EC, FD, trade, capital and urbanization are the forcing variables at
+lag 2 with F-value at 10. 855 exceeding the upper bound value at 1% as
+well as when growth, energy, trade, capital and urbanization are the
+forcing variables at lag 2 with F-value at 4. 25 at 10%.  This indicates the
+presence of cointegration among the variables, which suggest a longrun relationship among the variables.  For Egypt, Since F statistic is higher
+than the upper critical values by Pesaran Name (2001) and Narayan
+(2005), it was concluded that there is a cointegration which means a
+long-run relationship among the series.  Indeed, we ﬁnd that the null hypothesis of no cointegration for Israel and Tunisia are accepted when EC
+as dependent variable, this indicates the absence of cointegration among
+the variables.  Nevertheless, the results conﬁrm the presence of
+cointegration among the variables for GDP and FD.  In the case of
+Lebanon, we ﬁnd that the null hypothesis of no cointegration are rejected
+when growth, ﬁnancial development, trade, capital and urbanization are
+the forcing variables at lag 2 with F-value at 5. 163 exceeding the upper
+bound value at 1% as well as when growth, energy, trade, capital and urbanization are the forcing variables at lag 2 with F-value at 7. 304 at 10%. 
+This indicates the presence of cointegration among the variables.  For
+Morocco, we ﬁnd that the null hypothesis of no cointegration are
+rejected when energy, ﬁnancial development, trade, capital and urbanization are the forcing variables at lag 2 with F-value at 3. 874 exceeding
+the upper bound value at 5% as well as when growth, ﬁnancial development, trade, capital and urbanization are the forcing variables at lag 2
+with F-value at 4. 12 at 10%.  This indicates the presence of cointegration
+among the variables, which suggest a long-run relationship among the
+variables. 
+In most cases, the results conﬁrm the existence of cointegration relationship.  Breusch-Godfrey serial correlation LM test was performed and
+detected no serial correlation for the residuals of this model.  The same
+as the analyses above, all the models are free from heteroscedasticity
+(ARCH test), and the error terms are normally distributed and every
+model is well speciﬁed (Table 4).  On the other hand, the stability of
+ARDL parameters is checked by using CUSUM and CUSUMQ tests. 
+These two last help in testing the gradual changes in parameters.  The
+expected value of recursive residual is zero leads to accept that null
+hypothesis of parameter constancy (Brown Name, 1975).  The plots of
+both CUSUM and CUSUMQ shown by Figs.  A. 3 and A. 4 at 5% level of
+signiﬁcance.  From these ﬁgures, statistics are between the critical
+bounds which imply the stability of the coefﬁcients. 
+Once the bounds testing approach conﬁrms the existence of
+cointegration for most models, the long-and short-run coefﬁcients
+may be estimated.  Table 5 shows the empirical results of the long-run
+estimates using the ARDL modelling.  For the ﬁrst model (GDP as dependent variable), we ﬁnd that the effect of independent variables vary
+among the SMCs.  The results for Algeria, Egypt, Israel, Morocco and
+Tunisia show that EC and FD have signiﬁcant long run impact on GDP. 
+For Algeria, the coefﬁcient of EC and FD, which are 0. 165 and 0. 196,
+implies that 1% increase in EC leads to 0. 15% and 0. 19% increase in
+GDP and FD, respectively in the long run.  The ﬁnding conﬁrms that EC
+and FD contribute to the improvements of the economic growth
+(Fuinhas and Marques, 2012; Shahbaz Name, 2017).  Furthermore, the
+results for Tunisia and Lebanon reveal that an increase in energy
+consumption by 1%, on average GDP will increase by 0. 55% and 0. 22%,
+respectively.  However, our results show that the impact of FD on GDP
+is insigniﬁcant for both countries.  The results of our study are in line
+with the recent empirical studies, for example, Kahsai Name (2012),
+Coers and Sanders (2013) which have a stance of energy led growth. 
+Concerning the control variables, the coefﬁcient of trade implies that a
+1% increase in the volume of international trade will lead to 0. 06% and
+0. 02% rise in real per capita GDP for Israel and Algeria, respectively. 
+The results of the present study are consistent with Jalil and Feridun
+(2011), Omri and Kahouli (2014a, 2014b), and Kahouli and Omri
+(2017), which have a stance that the improvement in the international
+trade will lead to higher level of output.  On the other hand, trade has no
+long run impact on GDP for the other countries.  In the case of capital
+stock, the long-run results show a positive and signiﬁcant impact of capital on GDP during the study period in Algeria, Israel and Morocco.  For
+instance, the coefﬁcient of capital implies that 1% increase in physical
+capital contributes to GDP of almost 0. 38% for Israel.  The magnitude is
+showing diminishing marginal returns to capital which is consistent
+with the neo classical school of thought (Jalil & Feridun, 2011).  For the
+other countries, our results show that the impact of capital stock on
+GDP is insigniﬁcant.  Moreover for urbanization, the results for Algeria,
+Israel and Lebanon show that urbanization has no signiﬁcant long run
+impact on per capita real GDP.  In the case of Egypt, Morocco and
+Tunisia, we ﬁnd that urbanization have a signiﬁcant positive impact
+on per capita real GDP in the long run.  An increase in urbanization by 1%
+will rise by 7. 78%. 
+For the second model (EC as dependent variable), the results indicates that GDP has a long-run positive impact on EC for Algeria, Israel,
+Morocco and Tunisia.  The ﬁnding results show that a 1% increase in
+GDP will lead to increase EC by 0. 59% over the long-run.  Our ﬁndings
+are also consistent with Costantini and Martini (2010), Kahsai Name
+(2012) and Coers and Sanders (2013) who documented that GDP has
+statistically signiﬁcant positive impact on EC.  The empirical economic
+literature provides an inconclusive debate on the long run relationship
+of FD and EC.  For example, Farhani and Solarin (2017), Khan Name
+(2014), Bekhet Name (2017) show a negative relationship between FD
+and EC.  While Sadorsky (2010), Chang (2015), Mahalik Name (2017),
+and Ahmed (2017) report positive link between them.  Our results
+favor the stance of Chang (2015), Mahalik Name (2017), Ahmed
+(2017) in the case of Israel, Morocco and Tunisia.  Speciﬁcally, we ﬁnd
+a statistically signiﬁcant negative sign with a magnitude of 0. 16 for
+Egypt.  This implies that ﬁnancial sector development can reduce energy
+consumption, and this decrease can be further augmented by providing
+funds to explore new forms of energies.  In the case of Algeria and
+Lebanon, FD is insigniﬁcant linked with EC. 
+In the same context, the results of the trade indicate a small, but
+positive, relationship with EC in the long-run in Algeria and Israel.  For
+more detail, a 1% increase in trade will increase EC by 0. 06% in Israel,
+which is signiﬁcant at the 5% level.  Trade openness leads to an increase
+of economic output and therefore an increase of EC.  Our ﬁndings are
+broadly consistent with Omri and Kahouli (2014a, 2014b), Sebri and
+Ben-Salha (2014) and Kahouli and Omri (2017).  Indeed, our results
+show that both capital stock and per capita energy consumption are insigniﬁcant for SMCs.  The results for Egypt, Israel, Morocco and Tunisia
+reveal that urbanization has a signiﬁcant positive impact on per capita
+energy consumption.  An increase in urbanization by 1%, in per capita
+EC will increase by 2. 98% in Morocco.  For the third model (FD as dependent variable), the results for Egypt reveal that GDP reduces FD, where a
+1% increase in per capita real GDP will reduce FD by 2. 04%.  The results of
+our study are not in accordance with the recent empirical studies.  For
+example, Komal and Abbas (2015), Bekhet Name (2017) who document
+that relationship between GDP and FD is positive and signiﬁcant.  In the
+case of the remains countries, GDP and FD have no long run impact.  In
+line with the ﬁndings of the existing studies, we also conﬁrm that EC
+has a signiﬁcant positive impact on FD in Algeria, Lebanon, Morocco
+and Tunisia (Furuoka, 2015; Alam Name, 2015; Mahalik Name, 2017). 
+An increase in per capita energy consumption by 1% will grow by
+0. 08% for Lebanon.  To summarize, the results for other explicative variables (trade, capital and urbanization) give mixed results.  In the case of
+Algeria, capital stock has no signiﬁcant effect on ﬁnancial development,
+but is statistically signiﬁcant at the 1% level for the other countries.  In
+the case of urbanization and trade, the long-run results show an insigniﬁcant impact of trade and urbanization on ﬁnancial development during the study period in most SMCs. 
+VECM Granger causality approach makes it possible to determine
+the meaning as well as the intensity of short-term relationships and to
+indicate the rate of long-term adjustment.  Table 6 reports the results
+of the estimates.  In the case of Algeria, the results indicate a presence
+of bidirectional causal relationship between trade and urbanization
+and four unidirectional relationships.  More precisely, there are three
+negative unidirectional relationships where urbanization and trade inﬂuence the GDP, urbanization affects the FD and positive unidirectional
+relationships between GDP and the FD.  In the case of Egypt, there is only
+one positive unidirectional relationship between EC and trade.  In Israel,
+there are eight unidirectional relationships including ﬁve negative.  EC,
+FD and capital stock inﬂuence GDP, EC affects FD and urbanization inﬂuences trade.  In the same country, two positive unidirectional relationships between trade and GDP, on the one hand, and trade and
+urbanization inﬂuence the FD on the other hand.  In Lebanon there are
+four unidirectional relations with two negative where GDP and
+urbanization inﬂuence EC and two positive between capital stock and
+EC and capital stock and urbanization.  There are seven unidirectional relationships in Morocco, two negative between EC and capital stock, trade
+and urbanization and ﬁve positive between FD and EC, GDP and FD, trade
+and capital stock, EC and FD inﬂuence urbanization.  Thus, there is a
+bidirectional causality relation between capital stock and urbanization. 
+Finally, in Tunisia, there are six unidirectional relations two of them are
+negative between trade and FD and between EC and capital stock and
+four positive ones where trade, capital stock and urbanization inﬂuence
+GDP and between GDP and FD.  Thus, there is a bidirectional relationship
+between EC and GDP. 

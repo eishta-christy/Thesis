@@ -1,0 +1,126 @@
+
+In a typical corporate report, the textual narrative represents the great majority of the disclosure— an average of 80% of
+an annual report, for instance—versus the remainder that consists of numbers and representations of quantitative data.  The
+clarity of this large component of mandatory disclosure is crucial to understanding and to interpreting the information
+contained in the report.  The U. S.  Securities and Exchange Commission (SEC) has been very forthright about the overly
+complex corporate reports.  Christopher Cox, Chairman of the SEC, suggested using direct measures of narrative clarity to
+enforce plain English communication.  SEC seems to believe that “the jargon of lawyers has taken over” and the trend
+towards hard-to-read disclosures is due to the fact that “the main purpose of the drafting exercise has shifted from informing investors to insuring the issuer and the underwriter against potential claims” (SEC, 2007).  In this paper, we examine
+whether managers use of complex disclosures goes beyond the presence of “legalese”, but also whether they use complex
+disclosure to hide information from investors. 
+The seminal work of Li (2008) explored the relationship between the readability of annual reports and financial performance.  Borrowing the Fog Index from computation linguistics, where a higher reading on the Fog Index indicates disclosures that are more difficult to understand, Li finds a negative relationship between Fog and the level of earnings.  It is
+unclear, however, whether this result is due to managers providing complex disclosures to obfuscate bad performance or
+that bad news is simply harder to be communicated (Bloomfield, 2008).  To further explore these alternative explanations,
+obfuscation or ontology, and to better understand managers’ use of complex disclosures, we look at instances in which firms
+are more likely to have managed earnings upwards to meet or beat an earnings target (Burgstahler and Dichev, 1997).  In
+these cases, although firms are releasing good news about meeting a benchmark, they have incentives to hide the tools used
+to achieve it, as suggested by Warren Buffett.  In other words, when reported performance differs from underlying fundamentals, we expect managers to try to make it harder for investors to identify such earnings management behavior and the
+underlying performance.  Our results suggest that the readability level of financial disclosures goes beyond the one derived
+from the ontological explanation of good vs.  bad news being disclosed.  Instead, we find that managers strategically use
+corporate disclosure to mislead or to influence investors’ understanding of firm's value. 
+Our study is motivated by the importance and richness of the textual component of financial disclosures.  The SEC
+highlighted the importance of textual disclosures when it issued a set of rules requiring plain English disclosures.  Christopher Cox, Chairman of the SEC, went further and suggested “just as the Black-Scholes model is commonplace when it
+comes to compliance with the stock option compensation rules, we may soon be looking to the Gunning-Fog and FleschKincaid models to judge the level of compliance with the plain English rules. ” If readability is going to be used as a measure
+of compliance, then we should understand the factors that affect how managers choose the level of readability. 
+Our analysis focuses on the readability of the management discussion and analysis (MD&A) section of the annual report—
+a section that is required by law but also a medium in which managers have discretion over how to present an explanation
+of the company's business, financial conditions, and results of operation.  As opposed to conference calls and press releases,
+the structure and content of MD&As are fixed; consequently managers are “legally obligated to touch upon”(Warren Buffett)
+subjects they likely avoid in other disclosures. 
+The earnings benchmark we use is the prior year's earnings (rather than earnings forecasts or zero earnings) because
+anecdotal evidence suggests that management's discussions in the annual report are more likely to compare and contrast
+performance in the current fiscal year with that in the prior year (or years).  Forecasted earnings, whether by sell-side
+analysts or by management, are seldom referenced in annual reports.  Zero and small positive earnings events are relatively
+infrequent, so we reserve this benchmark for supplemental analyses. 1 Moreover, small or zero earnings changes mean that
+performance this year was similar to that in the previous year so little explanation is expected by readers and provided by
+management.  This idea is the basis for our null hypothesis–firms should provide disclosures that are easy to understand
+when their performance does not change much from previous year. 
+The findings are consistent with our hypotheses.  Controlling for the relationship between Fog and the overall earnings
+level as well as other known factors, we find robust evidence that Fog is higher for firms that meet or just beat prior year's
+earnings (MBE).  We further identified firms that are more likely to have managed earnings to meet a benchmark.  We use
+model-free methods, and several accruals and real activities methods to identify firms that are more likely to have managed
+earnings.  We find that firms more likely to have managed earnings to meet the benchmark by a couple of cents provide
+more complex disclosures than firms that either miss the benchmark or were less likely to have engaged in earnings
+management to exceed the benchmark; this finding holds both when the comparison group is the broad cross-section of
+firms as well as when the comparison group is a matched group of firms with characteristics similar to the firms with
+suspected earnings management. 
+Our conclusions remain the same when we add firm fixed effects that control for firm-specific characteristics, such as the
+complexity of the firm and the industry, which may impact the complexity of the disclosure.  In another specification check,
+we include last year's complexity (lagFOG) in our analysis.  Both specifications account for the high persistence of FOG, and
+our conclusions remain the same. 
+In two further tests, we use firm-years with earnings that were misstated or required subsequent restatement as clear
+indicators of earnings management.  In these smaller samples, we find that Fog is higher for firm-years with earnings that
+were subsequently found to be misstated or had to be restated. 
+We also investigate whether the higher FOG in the suspect firms is due to more information being provided.  In line with
+Li (2008), a longer MD&A section could suggest more being explained, or more obfuscation.  We find no significant change in
+the length of the MD&A for the group of firms that are more likely to have managed earnings to meet the benchmark. 
+However, we find shorter MD&As for firms that meet the benchmark but with no earnings management.  This is consistent
+with our null hypothesis that when performance is similar to previous year and no need for obfuscation, firms provide
+simpler disclosures.  These findings are consistent with and reinforce our Fog analysis: the suspect firms do not have longer
+disclosures, but they do have more complex disclosures, so they are not communicating more information, but saying about
+the same amount in more complex ways. 
+Although MD&A are required disclosures that the SEC views as essential to investor understanding of firms’ operations
+and performance, one may also argue that these disclosures are not relevant to investors because of their lack of timeliness,
+for instance relative to conference calls.  If true, this argument also suggests that managers will care more about beating
+analysts’ expectations than the past year's earnings number.  To address this issue, we focus on firms with no analyst following because for such firms, management is unconcerned with meeting analysts’ expectations and therefore last year's
+performance is likely to be a more important target.  We find that the incremental disclosure complexity for suspect firms is
+three times larger for firms with no analyst following compared with firms that do have analyst following.  Secondly, we split
+our sample based on the date when the MD&A is made available to investors.  We group firm-years in which MD&As were
+made available in the same week as earnings were first announced.  We find that the incremental level of complexity found
+in our previous tests is three times larger when MD&As are released within seven days of the public announcement of
+earnings. 
+Our contribution to the literature is two-fold.  First, we add to our understanding of the determinants of readability.  More
+specifically, we refine the overall relationship between readability and financial performance.  While the overall pattern
+documented by Li (2008) is one where higher earnings associates with lower Fog, we provide evidence that this relationship
+is discontinuous (or at least non-monotonic) around the benchmark of the prior year's earnings, particularly for firms that
+are likely to have managed accruals.  Second, we show that earnings management, that is, using accounting discretion with
+the aim of concealing underlying performance, manifests itself as more complex disclosures.  Our evidence is consistent with
+managers strategically choosing higher reporting complexity in conjunction with earnings management in an attempt to
+conceal the latter, which is a new finding in the literature.  Overall, we add to a more complete understanding of the
+relationship between financial report readability and reported performance. 
+Aside from Li (2008), this paper is also closely related to Larcker and Zakolyukina (2012, “LZ”).  However, LZ and this
+paper differ in a number of important ways.  First, LZ's primary interest is finding linguistic predictors for financial restatements (i. e. , restatements are the dependent variable) whereas this paper's primary interest is in understanding the
+determinants of readability (i. e. , the Fog score is the dependent variable).  Second, whereas LZ examine voluntary conference
+calls, we examine MD&A disclosures that are required by law.  Third, LZ analyze verbal communication but we examine
+textual disclosures, which result in differing levels of preparation, forethought, and spontaneity.  This last difference is
+important because our hypothesis is based upon management's deliberate attempt to obscure the financial picture to hide
+earnings management, whereas LZ's hypothesized effect derives in large part from inadvertent signals conveyed (e. g. , use of
+different pronouns, hesitations, expression of anxiety).  In sum, this paper differs from LZ in research question, whether the
+disclosure is mandatory, as well as the degree of preparation possible for the different avenues of disclosure. 
+The remainder of this paper is organized as follows.  The next section describes our hypotheses.  Section 3 contains our
+analyses and Section 4 concludes. 
+2.  Hypothesis development. 
+In computational linguistics, the Gunning Fog Index, or just Fog Index, is a function of the number of words per sentence
+plus the percentage of words that are complex (i. e. , having three or more syllables).  This sum is scaled by a constant (0. 4)
+such that the Fog value approximates the number of years of formal education required to understand the text. 
+The Fog Index was first brought into the accounting literature by Li (2008), who examined how readability of annual
+reports varies with financial performance.  Li found a negative relationship between profitability and Fog (i. e. , profitable
+firms have less complex reports compared with firms with losses).  He also found that firms with more persistent positive
+earnings have lower Fog. 
+In the discussion of Li (2008), Bloomfield (2008) provides a number of potential explanations for the observed relationships between readability and financial performance.  Two are particularly salient here.  First is obfuscation—that
+managers try to hide bad news by writing text that is more difficult to decipher.  Second is ontology—that bad news is
+inherently more difficult to communicate. 
+Bloomfield provides two other potential explanations that could also be considered variations of ontology.  He suggests
+that loss firms need to provide more explanation as a result of “management by exception. ” He also suggests that the nature
+of accounting conservatism—recognizing bad news in a more timely fashion than good news—requires managers to provide
+more explanation about the future when there are losses.  In sum, the ontological explanations suggest that readability is
+inherently a function of the circumstances.  In contrast, the obfuscation explanation requires management to intervene and
+affect the disclosure, manifesting in more complex disclosures.  As will be seen below, our analyses will have bearing on
+these two explanations. 
+As suggested by Li (2012), we utilize the fraud triangle framework to further examine managerial use of complex disclosures.  The fraud triangle suggests that fraud is more likely to occur when there is “incentive or pressure” to misreport
+earnings, when there is “opportunity” to do so, and management has the “attitude or rationalization” for the fraud or
+misreporting. 
+2. 1.  Incentive or pressure to misreport. 
+There is a substantial literature documenting the frequency, motivations, and benefits that accrue to firms that are able to
+meet or beat benchmarks.  In recent decades, some two-third to three-quarters of firms will meet or beat expectations in the
+capital market (as proxied by analyst forecasts).  The rewards of doing so are higher stock returns, lower information
+asymmetry, and lower cost of capital (Bartov Name, 2002; Brown Name, 2009).  These firm-level effects translate into personal
+benefits via executive compensation directly through higher stock and option value, or indirectly through discretionary
+bonuses.  Bhojraj Name (2009) show that firms that manage earnings via accruals or real activities to meet a benchmark gain
+short-term benefits over firms that missed the benchmark and chose to not manage earnings. 
+2. 2.  Opportunity.  
+Management has the opportunity to misreport by managing accruals and real activities, as well by other means such as
+balance sheet or cash flow management.  In this study, we focus on the first two because these activities are most directly
+related to meeting earnings benchmarks.  Cohen and Zarowin (2010) and Zang (2012) show that firms use both accruals and
+real activity earnings management to achieve benchmarks, and make tradeoff between them. 
+2. 

@@ -1,0 +1,826 @@
+
+1. Introduction
+
+The importance of touch is widely documented. Pleasant touch
+forms the basis for aﬃliative behaviour and social bonding in both
+humans (Dunbar, 2010; Field, 2010; Montagu, 1971) and primates
+(Dunbar, 2004, 2010). When facing stressful circumstances, touch is a
+powerful tool to induce feelings of calmness in both adults (Coan,
+Schaefer, & Davidson, 2006; Olson & Sneed, 1995) and children
+(Harrison, Olivet, Cunningham, Bodin, & Hicks, 1996). The beneﬁcial
+eﬀects of touch are documented on multiple domains, such as stress
+response, reward sensitivity and mood as well as interoceptive aware-
+ness.
+
+Concerning the eﬀects on parameters reﬂecting the endocrine and
+autonomic stress response, tactile interactions have been observed to
+reduce salivary cortisol levels
+(Ditzen et al., 2007; Heinrichs,
+Baumgartner, Kirschbaum, & Ehlert, 2003) and heart rate in adults
+(Ditzen et al., 2007; Drescher, Gantt, & Whitehead, 1980; Drescher,
+Whitehead, Morrill-Corbin, & Cataldo, 1985),
+infants (Fairhurst, Löken, & Grossmann, 2014) and primates (Aureli, Preston, & de Waal,
+1999). Studies on massage therapy further show that long term tactile
+stimulation increases heart rate variability (Sripongngam et al., 2015).
+Touch has also been deﬁned as an evolutionary inherent reward
+(Rolls, 2005) and is hence assumed to impact on reward and mood.
+Subjective reports about touch massage in particular have described it
+as providing feelings of happiness and relaxation (Lindgren,
+Jacobsson, & Lamas, 2014). Not only touch massage, but also shorter
+social interactions between individuals have been shown to be in-
+trinsically rewarding and pleasurable, presumably because they communicate warmth and intimacy
+(Hertenstein, Keltner, App, Bulleit, & Jaskolka, 2006).
+Further, touch is reported to impact on interoceptive awareness, the
+sense of the physiological condition of the body (Tsakiris, Tajadura-
+Jimenez, & Costantini, 2011). Following 60 min of touch massage,
+participants hence reported increased self-perception and connection
+between mind and body (Lindgren et al., 2014).
+
+Tactile interactions are usually characterized by a wide range of
+movements, with diﬀerent velocities and pressures. From the above
+studies, it is unknown which particular tactile feature led to such
+beneﬁcial physiological eﬀects. A particular kind of “dynamic touch” is
+the type of movement applied for caressing and stroking (Morrison,
+Löken, & Olausson, 2010). Such slow stroking stimulation activates a
+particular class of unmyelinated, low threshold and slowly conducting
+(< 1 ms) mechanoreceptors, so called C-tactile ﬁbres (CTs). Those ﬁ-
+bres seemingly only exist on the hairy skin of the human body
+(Ackerley, Carlsson, Wester, Olausson, & Backlund Wasling, 2014;
+Liljencrantz & Olausson, 2014; Olausson et al., 2008, 2002; Olausson,
+Wessberg, Morrison, McGlone, & Vallbo, 2010), especially on the arm
+and leg (Vallbo, Olausson, & Wessberg, 1999; Vallbo, Olausson,
+Wessberg, & Norrsell, 1993; Wessberg, Olausson, Fernström, & Vallbo,
+2003). CT ﬁbres show the highest ﬁring frequency to gentle stroking
+within a velocity range of 1–10 cm/s (Löken, Wessberg, Morrison,
+McGlone, & Olausson, 2009), which is also evaluated as the most
+pleasant (Ackerley, Backlund Wasling et al., 2014; Löken et al., 2009).
+It is therefore assumed that CT aﬀerents code the hedonic dimension of
+touch, and hence play an important role in the maintenance of the
+physical and social well-being of the individual (Bjornsdotter,
+Morrison, & Olausson, 2010). Central processing of CT-optimized
+stroking stimulation includes not only the typical somatosensory re-
+gions (McGlone, Wessberg, & Olausson, 2014), but also the posterior
+insula, which is proposed to be a primary projection area for the CT
+ﬁbres (Bjornsdotter, Loken, Olausson, Vallbo, & Wessberg, 2009), the
+pregenual anterior cingulate cortex (Case et al., 2016; Lindgren et al.,
+2012), the posterior superior temporal sulcus (Davidovic, Jönsson,
+Olausson, & Björnsdotter, 2016) and the orbitofrontal cortex (McGlone
+et al., 2012), involved in reward processing (Francis et al., 1999;
+Gottfried, de Carvalho, & Schultz, 2010; Kringelbach, 2005; O’Doherty, 2004;
+Schultz, Tremblay, & Hollerman, 2000). We recently investigated the
+time course of neural responses to long-lasting (40 min) CT-targeted,
+slow stroking stimulation and found a decrease of somatosensory acti-
+vation. At the same time, the posterior insula remained at stable acti-
+vation level but increased its connectivity with the orbitofrontal cortex
+during the stimulation. In line, we found an increased response in or-
+bitofrontal and striatal reward-related areas (Sailer et al., 2016). This is
+remarkable, as the touch was performed in a highly controlled, non-
+social fashion: stroking stimulation was conducted via a brush attached
+to a robotic device which stroked the forearm with constant force and
+velocity.
+Based on this study it is conceivable that such prolonged stimulation
+of CT ﬁbres may go along with beneﬁcial changes on a) the stress re-
+sponse, b) reward sensitivity and mood as well as c) interoceptive
+awareness, as has been reported for multiple interpersonal aﬀective
+touch conditions. Alternatively, pure CT stimulation may not lead to
+signiﬁcant alterations in such domains, if isolated from any social
+context.
+We hence hypothesized an eﬀect of long-lasting CT-targeted
+stroking stimulation on the stress response (operationalized as heart
+rate variability, salivary cortisol levels and self-reported stress), mood
+and reward sensitivity (operationalized as self-reported mood and re-
+sponsiveness to pleasant sensation) and interoceptive awareness (op-
+erationalized with the heart rate perception test (Pollatos, Herbert,
+Matthias, & Schandry, 2007)).
+
+In order to rule out potential unspeciﬁc test eﬀects, a control con-
+dition with vibration instead of brush stroking was employed. C-tactile
+aﬀerents are optimized to signal caress-like touch such as brush
+stroking (Ackerley, Backlund Wasling et al., 2014; Liljencrantz et al.,
+2017), while vibration is known to activate C-tactile aﬀerents to a lesser
+extent (Bessou et al., 1971; Wiklund Fernström, Jonsson,
+1960; Kumazawa & Perl, 1977; Olausson et al., 2002). High frequency vibra-
+tion is primarily signalled by rapidly adapting units fast-conducting Aβ
+low threshold mechanoreceptors (RA-LTMs) such as the Pacinian cor-
+puscles (Sato, 1961; Verillo, 1966). CT ﬁbres, on the other hand, show
+limited capacity to encode vibratory stimuli at high-frequency. Considering this, vibration at 100 Hz was
+chosen as control condition in order to limit C-tactile activation as
+much as possible. It seems reasonable to assume that a potential CT
+activation during vibration was negligible, and that other aﬀerents
+played a much larger role in its detection. That CT ﬁbres respond poorly
+to vibration is further supported by observations in Aβ denervated
+subjects that fail to detect vibration but can detect CT-targeted slow
+brushing.
+
+<Middle> Methods.
+2.1. Participants.
+40 healthy subjects, 22 women and 18 men, aged between 18 and
+51 years (mean = 27.58, SD = 8.38) were included into the study.
+77.5% were recruited via announcements on university boards, the
+remaining through announcements online via Facebook. None of the
+participants reported any chronic illness or skin disease that aﬀected
+the arm. One participant reported regular psychopharmacological
+medication. As a prerequisite for the reward test, normal olfactory
+function was ascertained in all participants with the “Sniﬃn’ Sticks” 16-
+item odour identiﬁcation test (Burghart Instruments, Wedel, Germany),
+using a cut-oﬀ of 11 (Kobal et al., 1996). The ﬁrst 20 participants (11
+women and 9 men, aged between 20 and 39 years, mean = 25.7,
+SD = 5.42) were assigned to the experimental “brush stroking” condi-
+tion, the next 20 participants (11 women and 9 men, aged between 18
+and 51, mean = 29.45, SD = 10.35) were assigned to a control “vi-
+bration” condition. Two participants in the vibration group were 51
+years, thus older than the rest of the sample (which was between 18 and
+40). As the mean values of those participants were within 1 SD of the
+mean values of the rest of the subjects for pleasantness ratings, cortisol
+levels and all the pre-and post-measures, and within 2 SD for SDNN
+(standard deviation of normal to normal R–R intervals, i.e. the index
+chosen for measuring the heart rate variability) and intensity ratings,
+these data were not excluded from further analysis. Instead, we decided
+to control for age statistically (see Section 2).
+
+The study was approved by the ethics committee of the University of
+Gothenburg. All participants gave written informed consent and re-
+ceived a ﬁnancial compensation of 200 SEK (∼23 €) per hour for
+participation.
+
+2.2. Materials and methods
+
+2.2.1. Experimental stimulations: “brush stroking” and control “vibration”
+The whole experimental procedure is shown in Fig. 1. Participants
+lay on a hospital bed with their left arm comfortably stabilized with
+medical cushions. They were visually shielded by occluding glasses that
+prevented peripheral sight but allowing looking straight ahead. Fur-
+thermore, they were auditory shielded by headphones. This was done in
+order to increase their focus on the tactile stimulation. Participants
+were instructed to rate the pleasantness and intensity of the tactile
+stimulation every two minutes throughout the stimulation. In total, 16
+ratings were collected. This was done on a visual analogue scale (VAS),
+presented on a computer screen, by using a mouse positioned on the
+right side of the participants. For pleasantness, participants were asked
+“How pleasant was the stimulation?” on the screen (endpoints of the
+scale: “not pleasant at all” (−10) and “very pleasant” (+10)). For in-
+tensity, they were asked “How intense was the stimulation?” (endpoints
+of the scale: “weak” (−10) and “strong” (+10)) (compare Sailer et al.,
+2016; Triscoli, Ackerley, & Sailer, 2014 for similar design). Further, two
+5-min-long baselines were included, one before the onset of the tactile
+stimulation and one at the end of the experiment, where the partici-
+pants were instructed to rest.
+
+In the “brush stroking” condition, the participants received slow
+stroking stimulation using a custom-built robotic device which delivers
+highly replicable force (linear tactile stimulator, LTS; Dancer Design; St
+
+72
+
+C. Triscoli et al.
+
+Biological Psychology 128 (2017) 71–81
+
+Fig. 1. Experimental procedure.
+
+Helen’s, UK, driven by LabVIEW software (National
+Instruments;
+Austin, TX)). A 60 mm wide ﬂat water-colour brush made of ﬁne,
+smooth goat’s hair was attached to the robot. It stroked the subjectś left
+dorsal forearm continuously and without interruption for an average
+duration of 35 min. The continuous back-and-forth brush strokes were
+administered with a predeﬁned force of 0.4 N+/− 0.05 and a velocity
+of 3 cm/s. The brush traversed a distance on the skin of ∼10 cm for
+each direction.
+
+In the “vibration” condition, the participants received vibration
+stimulation using a custom-built 2.0” × 1.25” × 0.020” piezoelectric
+element (Piezo Systems, Inc., MA, USA) which mechanically produces
+electrical signals (Gautschi, 2002). It was mounted on a wooden shaft
+with a contact surface made of balsa wood. The device was controlled
+by a battery powered drive circuit, 44 V (peak to peak), 50–150 Hz
+(EIN-407, Piezo Systems, Inc., MA, USA) and delivered a vibrating
+stimulation on the subjectś left dorsal forearm (compare (Chesler et al.,
+2016) for similar procedure). Vibration was given at a predeﬁned force
+of 0.4 N+/− 0.05 and a constant frequency of 100 Hz continuously
+and without interruption during the whole session for an average
+duration of 35 min, comparable to the experimental “brush stroking”
+condition. The devices used for the two types of tactile stimulation are
+shown in Fig. 2. As a measure of the changes during tactile stimulation,
+diﬀerences between the last and the ﬁrst rating were computed parti-
+cipant-wise, obtaining a “tactile pleasantness change” score for plea-
+santness and a “tactile intensity change” score for intensity.
+
+2.2.2. Pre- and post-measures
+
+The endocrine, autonomic and subjectively rated stress response
+was investigated through salivary cortisol levels, heart rate variability
+and a self-report questionnaire, respectively.
+
+Cortisol levels were assessed from saliva samples using Salivette
+cotton rolls (Salivette® Cortisol, Sarstedt, Nümbrecht, Germany) at four
+times: 30 min and 1 min before the onset of the tactile stimulation and
+1 min and 30 min after the oﬀset of tactile stimulation. Participants
+were instructed not to eat or drink anything except of water for 1 h
+before the experiment began. Upon their arrival, all participants were
+administered a standardized drink of 250 ml of grape juice (Kirschbaum
+et al., 1997). Saliva samples were stored at −20 °C in a laboratory
+freezer until analyses. After thawing, saliva samples were centrifuged
+for 10 min at 4000 rpm. Salivary cortisol levels were determined by
+using a commercially available luminescence assay (LIA, IBL-Hamburg,
+Germany). Due to non-normal (left skewed) distribution of cortisol
+data, this measure was log transformed before ﬁnal data analysis. The
+area under the curve with respect to the ground (AUCG) and with re-
+spect to increase (AUCI) were calculated reﬂecting total hormone
+concentrations and the cortisol response to the experimental stimulation, Kirschbaum, Meinlschmid, &
+Hellhammer, 2003). As in healthy individuals cortisol levels peak in the
+morning and decline slowly throughout the day (Debono et al., 2009;
+Krieger, Allen, Rizzo, & Krieger, 1971; Weitzman et al., 1971), the
+participants were additionally divided into two groups based on the
+time of the day when the experiment was conducted (“morning group”:
+between 8 am and 1 pm, “afternoon group”: between 1 pm and 6 pm).
+Speciﬁcally, in the “brush stroking” group, 13 subjects performed the
+experiment in the morning and 7 in the afternoon, while in the “vi-
+bration” group, 10 subjects performed the experiment in the morning
+and 10 in the afternoon. Thus, the day time of saliva collection was not
+signiﬁcantly diﬀerent between the groups
+(Chi-square = 0.92;
+p = 0.337).
+Heart rate was monitored via electrocardiogram recorded at
+1000 Hz with a custom-made ampliﬁer (program: “Chart Pro”, data
+collection unit: PowerLab 16 SP, company: AD Instruments, Dunedin,
+New Zealand). One Ag–AgCl surface electrode was placed below the
+right clavicle and the other two below the ribs, laterally and symme-
+trically, following the bony landmarks. Heart rate was collected during
+the whole tactile stimulation session and during two resting-period
+baselines. These baselines lasted for 5 min right before the tactile sti-
+mulation onset and at the end of the experiment, after the post-tests
+were collected. During tactile stimulation, two triggers were set for the
+onset and the oﬀset of the ratings. The rating period was then excluded
+from the analysis due to the associated movement that would interfere
+with heart rate. After visual inspection, artefacts due to rarely occurring
+ectopic beats or missed beat detections were manually corrected by
+removing an ectopic beat or by adding a missed beat. The very low
+frequency trend components were removed using the smoothness priors
+method in 17% of the heart rate data. Mean heart rate variability was
+calculated separately for each of the 16 blocks during tactile stimula-
+tion and for the two resting-period baselines with Kubios HRV 2.2
+(Tarvainen, Niskanen, Lipponen, Ranta-Aho, & Karjalainen, 2014) de-
+veloped using MATLAB® release 2014a (The MathWorks, Inc.).
+
+Heart rate variability was extracted from heart rate data. It was
+operationalized in one time-domain parameter (i.e., standard deviation
+of normal to normal RR intervals; SDNN), obtained participant-wise for
+each block. SDNN is a measure of high- and low-frequency oscillations
+in RR intervals, reﬂective of perturbations in the autonomic tone (Pope
+et al., 1999). SDNN was baseline-corrected to the 5 min right before the
+tactile stimulation onset (ﬁrst baseline).
+In order to reduce the eﬀect of possibly outliers, salivary cortisol
+and SDNN were submitted to winsorisation (Ghosh & Vogt, 2012).
+Therefore, the values outside the upper limit (75th percentile
++ 1.5 × interquartile range) were replaced with the value corre-
+sponding to the upper limit, and the values outside the lower limit
+(25th percentile − 1.5 × interquartile range) were replaced with the
+value corresponding to the lower limit. For the log-transformed cortisol,
+4.4% of the values (in 6 subjects) were replaced. 5.6% of the values for
+SDNN (in 25 subjects) were replaced.
+Subjective stress response was assessed before and after the ex-
+periment with a computerised version of the “Arnetz & Hasson Stress
+Questionnaire” (Andersson, Johnsson, Berglund, & Öjehagen, 2009).
+Answers for each of the 7 items (i.e. “health status”, “quality of sleep”,
+“ability to concentrate”, “stress level”, “energy level”, “life control” and
+“social life” right now) were given on visual analogue (VAS) scales with
+values ranging from 0 indicating high stress to 10 indicating low stress.
+
+Interoceptive awareness was assessed with the heart beat perception test.
+The heart beat perception test was performed before and after the
+experiment. The accuracy of detection of onés own heart beat is a well-
+established measure of interoceptive awareness (Schandry, 1981; Wölk,
+Sütterlin, Koch, Vögele, & Schulz, 2014). The same procedure as in
+Schandry (1981) and Wölk et al. (2014) was used. The participants sat
+relaxed on a chair and read the instructions on a computer screen po-
+sitioned in front of them. They were asked to quietly count their own
+heart beats for a given time interval of 25-, 35- and 45-s (in randomized
+order) without using supplementary aids such as feeling the pulse at the
+wrist or neck. An additional ﬁrst time interval served as practice to
+familiarize the participants with the task and was therefore not in-
+cluded in the analysis. Two acoustic cues signalled the onset and oﬀset
+of each time interval. After the second acoustic cue, the participants
+were asked to report the counted number of heart beats and to provide
+an answer about how sure they were regarding the reported number, on
+a scale from 0 (“not sure at all”) to 8 (“very sure”). During the whole
+task, the actual heart rate was monitored. Subsequently, for each time
+interval, the absolute diﬀerence between actual and reported heart-
+beats was divided by the number of actual heartbeats, and the resulting
+value was subtracted from 1. The thereby obtained three diﬀerent va-
+lues (one for each time interval) were summed up and divided by 3,
+obtaining a cardioceptive accuracy index. In this way, two cardiocep-
+tive accuracy indices, pre- and post-test, were obtained for each subject
+across the three time intervals with the formula above, used in a pre-
+vious study (Wölk et al., 2014) and partially modiﬁed from Werner and
+colleagues (Werner, Jung, Duschek, & Schandry, 2009) High values
+point at a small diﬀerence between reported and actual heartbeats and
+thereby indicate good cardiac perception.
+
+As interoceptive awareness has been found to depend on body mass
+index (BMI) (Herbert, Blechert, Hautzinger, Matthias, & Herbert, 2013),
+the height and weight of all participants was measured upon their ar-
+rival and their BMI was calculated. In the present sample, cardioceptive
+accuracy in the pre- and post-test did not signiﬁcantly correlate with
+the BMI (respectively, pre-test: r(40) = −0.06, p = 0.734; post-test: r
+(40) = 0.16, p = 0.922).
+
+Reward sensitivity and mood were assessed through an odour
+evaluation test and two questionnaires. For the odour evaluation test,
+participants were presented with three odours (“ﬂowers”, “aloe” and
+“rose” (Firmenich, Kerpen, Germany)). The odours were delivered in
+opaque glass bottles of 50 ml capacity. In order to ensure equal in-
+tensity, odours were diluted in propylene glycol (Sigma Aldrich,
+Steinheim, Germany) to respectively 5.5%, 0.49% and 5.5% (compare
+Croy, Angelo, & Olausson, 2014; Triscoli, Croy, Olausson, & Sailer,
+2014). Odour presentation was guided by a computerized protocol
+(programmed in MATLAB, Mathworks, Natick, MA) and involved 3 s of
+sniﬃng. After each odour presentation, participants rated the plea-
+santness and intensity on a visual analogue scale (VAS), presented on a
+screen. For pleasantness, the question was “How did you experience the
+latest stimulation?” (endpoints “unpleasant” (−10) and “pleasant”
+(+10)), for intensity the question was “How intense did you experience
+the latest stimulation?” (endpoints “weak” (−10) and “strong” (+10)).
+With a delay of 15 s after the rating, the next odour was presented. Each
+odour was presented twice and odour presentation was randomised.
+Two mean pleasantness ratings and two mean intensity ratings, pre-
+and post-test, were calculated for each subject by averaging the ratings
+across the six trials and across odours. It was assumed that higher
+ratings of odour pleasantness post-stimulation compared to pre-stimu-
+lation would indicate increased reward sensitivity.
+
+Two computerised questionnaires evaluating the degree of reward
+sensitivity and current mood were administered to the participants
+before and after the experiment. The “Snaith-Hamilton Pleasure Scale”
+(Snaith et al., 1995), is a 14-item questionnaire which measures he-
+donic tone, or ability to experience pleasure. Ratings were given on a 7-
+points Likert scale, from “not at all true for me” to “very true for me”.
+Examples of the items are “I would enjoy being with my family or close
+friends”. In order to focus the subjects on the current situation, the in-
+structions of the questionnaire were partially modiﬁed from its original
+form (i.e. the instruction “this questionnaire is designed to measure
+your ability to experience pleasure in the last few days” was changed to
+“this questionnaire is designed to measure your ability to experience
+pleasure right now”). The “Multidimensional Mood State Ques-
+tionnaire” (MDMQ) (Steyer, Schwenkmezger, Notz, & Eid, 1997), is a
+30-item questionnaire which evaluates the current mood through three
+diﬀerent scales: “Good–Bad”, “Calm–Nervous” and “Awake–Tired”.
+Ratings were given on a 6-points Likert scale, from “extremely” to
+“deﬁnitely not”. Examples of the items are: “content” (for
+“Good–Bad” scale), “tense” (for the “Calm–Nervous” scale), and “rested”
+(for the “Awake–Tired” scale). For each participant and for each of the
+questionnaires scales, two mean values were obtained for the pre- and
+post-test.
+In order to control for potential alterations of tactile sensitivity
+in the course of the experiment, the Von Frey monoﬁlament test was
+executed on the left dorsal forearm, following the same staircase based
+routine as reported before (Jönsson et al., 2015). Participants were
+prevented from watching the stimulation by wearing occluding glasses
+which prevented peripheral sight. Nine microﬁlaments, mounted on
+plastic rods and ranging from 13.7 mN to 0.08 mN were applied with a
+force suﬃcient to innocuously sting but not indent the skin, in a
+staircase method. The experimenter applied the strongest microﬁla-
+ment to the left forearm of the subjects, corresponding to a force of 13.7
+mN, after which the subjects were asked to verbally report whether
+they felt it or not. If the subjects gave a positive answer (“yes”), the
+experimenter continued with the next weaker microﬁlament. If the
+answer was still positive, the experimenter continued in decreasing
+order until the subject could not feel the stimulation anymore. At this
+point, the corresponding stimulus was reported as the ﬁrst reversal
+point and the experimenter continued in the opposite direction of the
+microﬁlaments, with the next stronger microﬁlament in increasing
+order. As soon as the subjects could again feel the stimulation, the
+corresponding stimulus was reported as the second reversal point and
+the procedure started again in the opposite direction, thus, with the
+next weaker microﬁlament in decreasing order. A total amount of six
+reversal points was collected. The ﬁrst two reversal points served for
+familiarizing with the task and were not used for further analysis. The
+last four reversal points were averaged for each participant separately
+for the pre-test and post-test.
+
+2.2.3. Data analysis
+
+For all dependent variables, a measure of the change between pre-
+and post-tactile stimulation was computed as the participant-wise dif-
+ference between the mean values during the post-test and the mean
+values during the pre-test. This was done for the odour pleasantness and
+odour intensity ratings, obtaining an “odour pleasantness change” score
+and an “odour intensity change” score, for the “Arnetz & Hasson Stress
+Questionnaire” scores, obtaining a “stress level change” score, for the
+heart beat perception test, obtaining a “cardioceptive accuracy change”
+score, for the “Snaith-Hamilton Pleasure Scale”, obtaining a “pleasure
+scale change” score, for the scales of the “Multidimensional Mood
+State Questionnaire”, obtaining a “Good–Bad change” score, a
+“Calm–Nervous change” score and an “Awake–Tired change” score and
+for the Von Frey monoﬁlament test, obtaining a “skin sensitivity
+change” score. Finally, in order to collect a representative value of the
+heart rate variability changes during tactile stimulation, diﬀerences
+between the mean last value (block 16) and the mean ﬁrst value (block
+1) were computed participant-wise on the SDNN data, obtaining a
+“SDNN change” score.
+
+In order to determine whether there were signiﬁcant relationships
+among the experienced pleasantness and intensity of the tactile sti-
+mulation with the heart rate variability measures and the pre- and post-
+test measures, Spearmańs correlations
+(N = 20) were computed
+separately for the experimental and control conditions “brush stroking”
+and “vibration”.
+
+More speciﬁcally, the “tactile pleasantness change” score and the
+“tactile intensity change” score during the stimulation were correlated
+for the stress response, the “SDNN
+with the following variables:
+change” score, AUCG and AUCI salivary cortisol, and the change scores
+of the “Arnetz & Hasson Stress Questionnaire”. For the reward sensi-
+tivity and mood, the “odour pleasantness change” and the “odour in-
+tensity change” scores (odour evaluation test), the change score of the
+“Snaith-Hamilton Pleasure Scale” and the change scores of the three
+scales of the “Multidimensional Mood State Questionnaire”. For the
+interoceptive awareness, the “cardioceptive accuracy change” score
+(heart beat perception test). The correlations were Bonferronís cor-
+rected at p = 0.004 in order to adjust for multiple testing of 13 vari-
+ables.
+
+2.2.4. Inferential statistical analysis
+
+Statistical analyses for the ratings, the questionnaires and the bio-
+logical parameters were made using SPSS Statistics version 21 (IBM,
+Chicago, USA).
+
+For the dependent variables obtained during tactile stimulation
+levels, pleasantness and intensity ratings, and heart rate
+(cortisol
+variability) it was analysed whether there was a stimulation dependent
+change over time and whether there were signiﬁcant group diﬀerences
+and interactions between group and stimulation change over time. For
+those variables where there was a diﬀerence between brush stroking
+and vibration (i.e. heart rate variability, see results), it was also in-
+vestigated whether such diﬀerence was due to the higher perceived
+pleasantness and/or intensity of brush stroking compared to vibration.
+For the dependent variables before and after tactile stimulation
+(reward sensitivity and mood,
+interoceptive awareness and tactile
+sensitivity) it was analysed whether there was a stimulation dependent
+change before versus after and also whether there were signiﬁcant
+group diﬀerences and interactions between group and stimulation
+change before versus after.
+
+For the pleasantness and intensity ratings, each dependent variable
+was separately submitted to a linear mixed model analysis, with “block
+number” (16 levels i.e. blocks) and “tactile stimulation” (“brush
+stroking” versus “vibration”) as the ﬁxed factors, and “subjects” and
+“age” as random combinations in order to control for random eﬀects
+among subjects. Restricted maximum likelihood estimation was used.
+The level of signiﬁcance was set to p = 0.05.
+
+In order to analyse cortisol levels, the log-transformed dependent
+variable was submitted to a linear mixed models analysis, with “col-
+lection time” (4 time-points collected every 30 min: at the beginning of
+the experiment, right before the onset of the tactile stimulation, right
+after the oﬀset of the tactile stimulation and at the end of the experi-
+ment), “tactile stimulation” (“brush stroking” versus “vibration”) and
+“time of the day” (“morning” versus “afternoon”) as the ﬁxed factors,
+and “subjects” and “age” as random combinations. For heart rate
+variability, SDNN was submitted to a linear mixed model analysis, with
+“block number” (18 levels, i.e. 2 baselines and 16 blocks), “tactile sti-
+mulation” (“brush stroking” versus “vibration”), pleasantness and in-
+tensity ratings as the ﬁxed factors, and “subjects” and “age” as random
+combinations in order to control for random eﬀects among subjects.
+Restricted maximum likelihood estimation was used. The level of sig-
+niﬁcance was set to p = 0.05.
+
+To determine whether there was an eﬀect of the tactile stimulation,
+diﬀerences between pre- and post-tests were statistically compared for
+the two stimulation types for the measures obtained only prior to and
+following tactile stimulation. These measures were: the odour plea-
+santness and intensity ratings (across the three diﬀerent odours), the
+mean questionnaires scores of the “Snaith-Hamilton Pleasure Scale”
+and the “Multidimensional Mood State Questionnaire” for reward
+sensitivity and mood, the cardioceptive accuracy indices for the heart
+beat perception test for the interoceptive awareness, the
+“Arnetz & Hasson Stress Questionnaire” for the subjective stress re-
+sponse, and the skin sensitivity values obtained with the Von Frey
+monoﬁlament test for controlling for potential alterations of tactile
+sensitivity. Each of these dependent variables was separately submitted
+to a linear mixed models analysis, with “tactile stimulation” (“brush
+stroking” versus “vibration”) and “session” (“before” versus “after”) as
+the ﬁxed factors, and “subjects” and “age” as random combinations.
+
+3. Results
+3.1. Perceived touch pleasantness and intensity
+
+Tactile stimulation was rated as more pleasant by the experimental
+“brush stroking” group than the control “vibration” group (for the
+means, see Table 2). This was evident from the main eﬀect of tactile
+stimulation (F(1,631) = 6.05, p = 0.014). Pleasantness ratings de-
+creased over time for both groups, as shown by the main eﬀect of block
+number (F(1,631) = 28.86, p < 0.001), ending in the slightly negative
+range. Speciﬁcally, they were above the neutral point until about
+20 min from the onset of the brush stroking (until ∼block 9), and be-
+came neutral or slightly negative only after. No signiﬁcant interactions
+were found between tactile stimulation and block number (F(1,631)
+= 2.31, p = 0.129) (Fig. 3).
+
+Tactile stimulation was rated as more intense by the experimental
+“brush stroking” group than the control “vibration” group (for the
+means, see Table 2), as evident from a main eﬀect of tactile stimulation
+(F(1,631) = 14.36, p < 0.001). At the same time, intensity was rated
+as being stable over time by both groups. Neither a main eﬀect of block
+number (F(1,631) = 0.47, p = 0.495), nor an interaction of tactile
+stimulation and block number (F(1, 631) = 1.59, p = 0.208) were
+found.
+
+3.2. Tactile sensitivity
+
+Tactile sensitivity, as measured with the Von Frey monoﬁlament
+test, did not diﬀer between groups (F(1, 316) = 0.41, p = 0.522), or
+before versus after tactile stimulation (F(1, 316) = 0.79, p = 0.375),
+and there was no signiﬁcant interaction eﬀect (F(1, 316) = 2.48,
+p = 0.116) (for the means and SD, see Table 1).
+
+3.3. Stress response
+
+Cortisol levels decreased over time irrespective of the condition
+(signiﬁcant main eﬀect of “collection time”)
+(F(1,152) = 6.19, p = 0.014), and they were higher during the morning than the after-
+noon (signiﬁcant main eﬀect of “time of the day”) (respectively,
+“morning” group: M = 1.48, sd = 0.64; “afternoon” group: M = 0.94,
+sd = 0.61) (F(1,152) = 9.10, p = 0.003). However, the two groups did
+not diﬀer (absent main eﬀect of “tactile stimulation”) (F(1,152) = 0.97,
+p = 0.327). No signiﬁcant interaction eﬀects among “collection time”,
+“tactile stimulation” and “time of the day” emerged. For the means, see
+Table 1.
+Heart rate variability increased over time (F(1, 613) = 4.08,
+p = 0.044), but did not diﬀer between the two types of stimulation
+(absent main eﬀect of “tactile stimulation”)
+(F(1,613) = 0.16, p = 0.686). No signiﬁcant main eﬀects of “pleasantness” (F(1, 613)
+= 0.24, p = 0.624) or “intensity” (F(1, 613) = 0.15, p = 0.703) on
+heart rate variability were found. However, the heart rate variability
+signiﬁcantly changed over time in relation to the stimulation and in
+relation to the pleasantness and intensity ratings. Hence, signiﬁcant
+interactions were revealed for “block number” by “pleasantness” (F(1,
+613) = 8.74, p = 0.003), “block number” by “intensity” (F(1, 613)
+= 6.39, p = 0.012) and “block number” by “pleasantness” and “in-
+tensity” (F(1, 613) = 8.72, p = 0.003). The SDNN increased across
+blocks only for “brush stroking”, but was stable for “vibration” (Fig. 4)
+and this increase was due to both the higher pleasantness and intensity
+of “brush stroking” to compare to “vibration” (interaction “tactile sti-
+mulation” by “block number” and “pleasantness”: F(1, 613) = 6.87,
+p = 0.009; interaction “tactile stimulation” by “block number” and
+“intensity”: F(1, 613) = 4.22, p = 0.040). Speciﬁcally, only for
+“stroking”, the higher the SDNN was, the lower the pleasantness ratings
+were (for the last block numbers, i.e. towards the end of brush
+stroking), while the lower the SDNN, the higher the pleasantness rat-
+ings (for the ﬁrst block numbers, i.e. in the beginning of brush stroking)
+(black dots in Fig. 5A). As well, only for “stroking”, the higher the
+SDNN was, the higher the intensity ratings were (for the last block
+numbers, i.e. towards the end of brush stroking), while the lower the
+SDNN was, the lower the intensity ratings were (for the ﬁrst block
+numbers, i.e. in the beginning of brush stroking) (black dots in Fig. 5B).
+In contrast, these two patterns were not seen for “vibration” (grey dots
+in Fig. 5A and B), where the data were less well aligned to the re-
+gression line. This interpretation was further conﬁrmed by a signiﬁcant
+third level interaction among “tactile stimulation”, “block number”,
+“pleasantness” and “intensity” (F(1, 613) = 5.48, p = 0.020). Speciﬁ-
+cally, the SDNN showed an initial increase until about 20 min from the
+onset of brush stroking (until ∼block 9), after which it plateaued. For
+the means, see Table 2.
+
+Stress ratings on the Arnetz & Hasson Stress Questionnaire did not
+diﬀer between groups (F(1,76) = 1.69, p = 0.197), or before versus
+after tactile stimulation (F(1,76) = 0.12, p = 0.726) (for the means and
+SD, see Table 1) and there was no signiﬁcant interaction eﬀect (F(1,76)
+= 0.19, p = 0.666).
+
+3.4. Reward sensitivity and mood.
+No signiﬁcant results were found for the odour evaluation test (for
+the pleasantness ratings: diﬀerences post- compared to pre-stimulation
+(F(1,473) = 0.44, p = 0.506), between groups
+(F(1,473) = 2.47,
+p = 0.117), or interaction eﬀects (F(1,473) = 0.00, p = 0.947) and for
+the intensity ratings: diﬀerences post- compared to pre-stimulation (F
+(1,475) = 0.05,
+(F(1,475) = 0.00,
+p = 0.965), or interaction eﬀects (F(1,475) = 0.47, p = 0.492)), for
+in the “Multidimensional Mood State Questionnaire”
+the scores
+(“Good–Bad” scale: diﬀerences post- compared to pre-stimulation (F
+(F(1,76) = 0.01,
+(1,76) = 0.40,
+p = 0.944),
+p = 0.947);
+“Calm–Nervous” scale: diﬀerences post- compared to pre-stimulation (F
+(F(1,76) = 0.00,
+(1,76) = 0.72,
+p = 0.970),
+p = 0.730);
+“Awake–Tired” scale: diﬀerences post- compared to pre-stimulation (F
+(1,76) = 0.90,
+(F(1,76) = 0.19,
+p = 0.664), interaction eﬀects (F(1,76) = 0.22, p = 0.641)) and in the
+“Snaith-Hamilton Pleasure Scale” diﬀerences post- compared to pre-
+stimulation (F(1,76) = 0.00, p = 0.969), between groups (F(1,76)
+= 0.00, p = 0.974), interaction eﬀects (F(1,76) = 0.95, p = 0.334)
+(see Table 1).
+The “pleasure scale change” of the “Snaith-Hamilton Pleasure Scale”
+(representing reward sensitivity and mood) correlated signiﬁcantly
+negatively with the “tactile pleasantness change” (r(20) = −0.75,
+p < 0.001) in those participants who received the “brush stroking”
+condition. Thus, the less the perceived pleasantness for brush stroking
+decreased over time, the higher was the score in the post-test compared
+to the pre-test. However for the participants of the “vibration condi-
+tion”, no such correlation was obtained (r(20) = 0.23, p = 0.353). No
+further signiﬁcant correlations were found, between the “tactile plea-
+santness change” and the other experimental domains, i.e. stress re-
+sponse and interoceptive awareness (p’s > 0.05).
+
+3.5. Interoceptive awareness
+
+No signiﬁcant diﬀerences were found for interoceptive awareness,
+neither between groups, nor before versus after tactile stimulation (for
+means and SD, see Table 1).
+
+<Conclusion> Discussion.
+The present ﬁndings demonstrate that pleasant touch at the CT-
+optimized stroking velocity improves the autonomic response of the
+individual, as shown by increased heart rate variability.
+
+4.1. Stress response
+
+Although at the onset of the tactile stimulation the heart rate
+variability index (i.e., SDNN) was similar for both groups, it subse-
+quently increased with continuous brush stroking, but not with vibra-
+tion, and after ∼13 min from the onset and until the end of the tactile
+stimulation heart rate variability was clearly higher for brush stroking
+than vibration (Fig. 4). This increase was related to the higher per-
+ceived pleasantness and intensity of brush stroking compared to vi-
+bration. Increased SDNN is an index of good balance between sympa-
+thetic and parasympathetic tone, which is required for the maintenance
+of overall health (McLachlan et al., 2010). In these terms, an imbalance
+of the autonomic nervous system, commonly resulting from excessive
+sympathetic activity and inadequate parasympathetic input, is often
+induced by stressors, and is cause of several stress-exacerbated dis-
+orders (Streeter, Gerbarg, Saper, Ciraulo, & Brown, 2012). Our study
+indicates a beneﬁcial eﬀect of long-lasting pleasant touch performed at
+CT optimized velocity on heart rate variability. Noticeably, in our
+previous study (Sailer et al., 2016), an increased activation in OFC
+(orbitofrontal cortex) was seen during ∼40 min of brush stroking with
+a very similar temporal trend as for the SDNN in this study. SDNN in the
+present study, as well as OFC activation in the previous one, showed an
+initial increase until about 20 min from the onset of the brush stroking,
+which was followed by a plateau. OFC is typically involved in coding
+the rewarding aspects of a stimulus (Francis et al., 1999; Gottfried et al.,
+2003; Kobayashi et al., 2010; Kringelbach, 2005; O’Doherty, 2004;
+Schultz et al., 2000). This similar trend may point at a positive eﬀect of
+CT-targeted touch at both the neural and physiological level. A possible
+explanation could be an orbitofrontal modulation on the cardiac ac-
+tivity in response to aﬀectively salient stimuli. Supporting this view,
+several pathways through which fronto-cortical activity modulates the
+parasympathetic tone have been identiﬁed (Ter Horst & Postema,
+1997). Several neuroimaging studies have found an association be-
+tween orbital prefrontal cortical activity and cardiovascular autonomic
+responses (Cechetto, 2014; Lane, 2001). Speciﬁcally, it has been shown
+that emotional arousal induced by the sight of emotionally connoted
+pictures was associated with a reduction in heart rate variability and
+concomitant decreases in medial prefrontal cortex and posterior orbi-
+tofrontal activation (Lane, 2001). In the present study, these autonomic
+eﬀects seem not to be explicitly experienced by the individuals because
+in both studies the pleasantness ratings became neutral over time. As to
+the late start of SDNN increase (see Fig. 4), one may draw on the notion
+of HRV to represent an index of safety (Thayer et al., 2009). In an ex-
+perimental situation that is unfamiliar to the participant, safety may
+take some time to ascertain. At the beginning of the stroking, the task
+and the situation were novel, and only after continuous repetition they
+may have become a safe routine. Heart rate variability may thus
+mediate strategies of information updating with respect to the de-
+creased perceived pleasantness: the more the ratings changed over
+time, the more updating was required (Geisler, Vennewald,
+Kubiak, & Weber, 2010).
+Salivary cortisol levels decreased over time both for touch and
+vibration. Pleasant tactile interactions have been found to reduce cor-
+tisol levels (Heinrichs et al., 2003). However, from our results it is not
+possible to interpret the decrease in cortisol as an exclusive eﬀect of
+stroking, because the same result was found for vibration. The absence
+of a unique eﬀect of the CT-optimized pleasant touch on salivary cor-
+tisol may lead to two diﬀerent interpretations. On the one hand, it is
+possible that the reduction in cortisol levels may have been due to the
+simple passage of time, so that the participants may have become more
+relaxed after 35 min of tactile stimulation. On the other hand, it is
+conceivable that any type of tactile stimulation provokes a decrease in
+cortisol. For example, a reduction in cortisol levels has also been ob-
+served while having phone conversations through a huggable human-
+shaped device (Rapaport, Schettler, & Breese, 2010; Sumioka, Nakae,
+Kanai, & Ishiguro, 2013). Similarly, electromechanical stimulation has
+been found to produce similar eﬀects on social behaviour as physical
+contact (Haans, IJsselsteijn, Graus, & Salminen, 2008). A possible ex-
+planation to the diﬀerent results of the two stress indices (salivary
+cortisol and SDNN) can be that the endocrine and cardiovascular sys-
+tems are diﬀerently responsive to sensory stimuli. For example, heart
+rate variability has been seen to be a more suitable psychophysiological
+marker of emotion regulation than cortisol (Pawan, Chwo, & Li, 2013).
+Therefore it could be that SDNN is more sensitive to aﬀective touch
+than cortisol.
+Contrarily to SDNN and cortisol levels, no eﬀect of either touch type
+or session (before versus after tactile stimulation) was found on sub-
+jective stress response. These ﬁndings support the use of objective
+measures in stress research.
+4.2. Tactile sensitivity
+
+In accordance with many previous studies (Jönsson et al., 2015;
+Löken et al., 2009; McGlone et al., 2014; Olausson et al., 2010;
+Sehlstedt et al., 2016; Triscoli, Ackerley et al., 2014), brush stroking at
+the CT-optimized velocity (3 cm/s) was perceived as pleasant, and as
+more pleasant than vibration (Davidovic et al., 2016). Across repeti-
+tions, pleasantness was reported to decrease, as has been found in
+previous studies of our group (Sailer et al., 2016; Triscoli, Ackerley
+et al., 2014; Triscoli, Croy et al., 2014). This mirrors a reduction of the
+aﬀective value of touch over continuous stimulation. However, in the
+present study the stroking experience became slightly unpleasant in the
+end. A similar decrease in the pleasantness ratings was seen for vibra-
+tion. Conversely, the intensity of both stroking and vibration was rated
+as constant over repetitions.
+
+Vibration was rated as less intense than the brush stroking. Further
+inspection of the data showed that the standard deviation of the in-
+tensity ratings for the vibration group was rather high, possibly because
+such vibration is not a common tactile stimulation experienced in ev-
+eryday life.
+
+Finally, as expected, no alterations of discriminative tactile sensitivity
+were detected, as shown by the lack of diﬀerences between either touch
+type or session (before and after) in the Von Frey monoﬁlament test.
+4.3. Reward sensitivity and mood
+
+Contrarily to our hypothesis, no eﬀect of either touch type or session
+(before versus after tactile stimulation) was found on reward sensitivity
+and mood. However, our results showed that the more the stroking was
+perceived as pleasant throughout the experiment, the higher the he-
+donic tone, or the ability to experience pleasure, after 35 min of plea-
+sant touch. This was not found for the vibration group.
+
+4.4. Interoceptive awareness
+
+Touch massage has been suggested to have a positive inﬂuence on
+body awareness (Lindgren et al., 2014). However, no eﬀect of either
+touch type or session (before versus after tactile stimulation) was found
+on interoceptive awareness with the present set-up.
+4.5. Implications and future directions
+In summary, our results showed that long-term pleasant touch at the
+CT-optimized velocity promotes beneﬁcial eﬀects on the autonomic
+stress response, as documented from an increase in a heart rate varia-
+bility index. This may be due to the artiﬁcial lab situation, in which CT
+stimulation was isolated from any social context. Here, stroking was
+performed with a brush by a machine in a laboratory setting, in contrast
+to a caress by a near one in everyday life. This does not see to lead to
+signiﬁcant alterations in the endocrine stress response, reward sensi-
+tivity, mood, and interoceptive awareness.
+It is conceivable that in real-life situations where pleasant touch is
+performed among individuals and therefore has a greater social and
+emotional value, its eﬀects on the stress response may be even larger
+than in controlled laboratory settings. In order to evaluate the physio-
+logical eﬀects of pleasant touch in more ecological situations, future
+research could for example use a human hand to perform the stroking.
+The observed beneﬁcial eﬀects of prolonged pleasant touch on the
+autonomic system may have clinical implications in long-term touch
+therapies, for example in the treatment of symptoms associated with
+sympathetic dominance of the autonomic nervous system. Moreover,
+such ﬁndings may redeﬁne the role of long-lasting tactile social inter-
+actions between individuals. Particularly, caressing and cuddling, per-
+formed between individuals in everyday situations may lead to a higher
+level of physiological well-being and life quality when prolonged for a
+rather long time.
+
+4.6. Limitations
+
+An important limitation of our study regards the salivary cortisol
+measure. From our results it is not possible to conclude whether the
+observed decrease in salivary cortisol levels was due to the simple
+passage of time or to the eﬀect of (any type of) tactile stimulation. The
+inclusion of a third condition, with the participants simply resting for
+35 min, might have been useful for excluding the ﬁrst hypothesis (de-
+crease in cortisol due to the passage of time). Furthermore, it cannot be
+excluded that C-tactile ﬁbres were activated by vibration. Vibratory
+stimuli have been found to activate C-tactile ﬁbres, but to a lesser extent
+than brush stroking (Bessou et al., 1971). However, designing a control
+condition similar to brush stroking which does not activate C-tactile
+aﬀerents is diﬃcult. C-tactile aﬀerents are activated by static touch and
+by stroking velocities outside the CT optimal velocity range (1–10 cm/
+s) (Vallbo et al., 1999). Consequently, vibration was preferred as it
+seems to be less CT-targeted than other alternatives.
+
+5. Conclusion
+
+The present study demonstrates the existence of physiological cor-
+relates to the conscious hedonic experience deriving from stroking at
+the CT optimal velocity. In particular, an increased activity of the
+parasympathetic system occurred during 35 min of pleasant brush
+stroking compared to vibration, as indicated by the increment in SDNN.
+Other indicators of physiological well-being such as salivary cortisol
+were not dependent on the type of touch, as shown by a reduction in
+cortisol regardless the type of the stimulation. Overall, whereas reward
+sensitivity and interoceptive awareness seem not to be aﬀected by
+prolonged pleasant touch, beneﬁcial eﬀects were found for autonomic
+nervous system regulation.
+
+Acknowledgements

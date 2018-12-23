@@ -1,0 +1,172 @@
+
+Motor imagery is deﬁned as the mental execution of an action
+without any physical movement or muscle activation [1].  Brain activity
+patterns during motor imagery are similar to those during the corresponding physical execution; the primary motor cortex (M1), premotor
+cortex, supplementary motor area, cerebellum, and basal ganglia are
+activated during motor imagery [2–7].  In addition, many studies have
+reported signiﬁcant improvement of motor skills in patients with stroke
+as well as in healthy persons after motor imagery training [8–10].  Because force control is always needed to perform a motor activity, motor
+imagery training must somehow act on the neural substrates of force
+control.  Thus, understanding the detailed eﬀects of motor imagery on
+the neural substrates of force control is important for developing a
+⁎ Corresponding author at: Faculty of Rehabilitation, School of Health Sciences, Fujita Health University, 1-98 Dengakugakubo, Kutsukake, Toyoake, Aichi, 470-1192, Japan. 
+E-mail addresses: tatemoto@fujita-hu. ac. jp, tbr. tatemoto@gmail. com (T.  Tatemoto), junko. dema510@gmail. com (J.  Tsuchiya), numata@rehab. tbgu. ac. jp (A.  Numata),
+ryukyu0059@yahoo. co. jp (R.  Osawa), yama_to_izu_tukigase@hotmail. com (T.  Yamaguchi), tanabes@fujita-hu. ac. jp (S.  Tanabe), k. kondo@wanreha. net (K.  Kondo),
+otaka119@mac. com (Y.  Otaka), sugawara-k@kuhs. ac. jp (K.  Sugawara). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 020
+Received 19 May 2017; Received in revised form 8 August 2017; Accepted 12 August 2017
+Available online 18 August 2017
+0166-4328/ 
+T.  Tatemoto Name
+Behavioural Brain Research 335 (2017) 185–190
+better rehabilitative strategy involving motor imagery. 
+Transcranial magnetic stimulation (TMS) is a noninvasive method
+used to assess human corticospinal excitability.  The increase in cortical
+excitability is evidenced by an increase in motor evoked potential
+(MEP) amplitude, and a reduction in the motor threshold of the stimulation [11,12].  Studies using TMS, which has good temporal resolution, have revealed increased corticospinal excitability during
+imagination of target muscle contraction without actual contraction
+[13–16].  Furthermore, Mizuguchi Name [17] reported that changes in
+corticospinal excitability during such motor imagery were related to the
+imagined force level.  Stinear and Byblow [18] noted that motor imagery of phasic thumb abduction temporally modulated excitability in
+M1, speciﬁc to the representation of the intrinsic hand muscle. 
+These previous studies have suggested that corticospinal excitability
+during motor imagery is modulated in a force level- and time-dependent manner.  However, in many of these studies, the timing of the
+corticospinal excitability that was investigated using TMS was more
+closely related to the period during which tonic muscle contraction was
+imagined.  In daily life, force control is ﬁnely tuned.  Force needs to be
+increased or decreased with a high degree of control in order to accomplish a ﬁne-motor task.  To our knowledge, no study has yet attempted to examine how motor imagery changes corticospinal excitability during the increasing and decreasing phases of force control.  We
+hypothesized that corticospinal excitability at such times would gradually increase or decrease, respectively, with the modulation of force. 
+Such a ﬁnding would provide new insights into the mechanism underlying the real-time modulation of cerebral cortical activity according
+to the state of motor imagery.  The aim of this study was therefore to
+examine the real-time changes in corticospinal excitability that occur
+during motor imagery in a task requiring isometric force control. 
+<Middle> Material and methods. 
+2. 1.  Participants
+Ten healthy volunteers (three men and seven women, all righthanded, age range: 20–30 years, mean age: 22. 7 ± 3. 4 years) participated in the present study.  None of the participants had any history of
+impairments in terms of neuromuscular or physical function that may
+have aﬀected task performance.  This study was performed in accordance with the tenets of the Declaration of Helsinki and was approved by the Local Ethics Committee of Kanagawa University of
+Human Services (Approval Number: HODAI 7–12).  All participants
+provided written informed consent prior to their participation in the2. 2.  Electromyography
+Electromyography (EMG) of the right extensor carpi radialis (ECR)
+and right ﬂexor carpi radialis (FCR) muscle was recorded using pairs of
+surface Ag/AgCl electrodes placed over these muscles in a belly − tendon montage.  The signal was ampliﬁed and ﬁltered (band pass
+5–3000 Hz) using a bioelectric ampliﬁer (Neuropack MEB-2200; Nihon
+Kohden Corp. , Tokyo, Japan), digitized at 4000 Hz, and stored for
+oﬄine analysis on a laboratory computer (Power Lab system; AD
+Instruments Pty Ltd. , New South Wales, Australia). 
+2. 3.  Experimental paradigm
+The protocol adopted herein has been described in a previous study
+[19].  Brieﬂy, the participants sat comfortably on a chair with their right
+forearms pronated at 45° and positioned horizontally over a table.  Before initiating the experiment, we measured the force produced in wrist
+dorsiﬂexion when each subject performed maximum voluntary contraction (MVC) of the ECR against a plate that had a strain gauge
+(Kyowa Electronic Instruments Co. , Tokyo, Japan) mounted to theFig.  1.  Experimental design of a force tracking task. 
+Participants were instructed to adjust the isometric force of wrist joint dorsiﬂexion to
+keep a dot on a target tracking line on a monitor, while the dot moved from the left to
+right at a constant speed.  During the performance test and the imagery test, no visual
+feedback was provided during tracking of the sine wave (fore generation phase).  MVC;
+maximum voluntary contraction. 
+vertical portion of the plate.  The analog signal was ampliﬁed (SA-250
+STRAIN AMPLIFIER; TEAC, Tokyo, Japan), ﬁltered, and digitized (NI
+USB-6229 BNC; National Instruments Corp. , Austin, TX). 
+For the motor task, the participant was instructed to adjust the
+isometric force during right wrist dorsiﬂexion while watching a PC
+monitor that displayed a moving dot and a tracking line.  The dot automatically moved horizontally from left to right at a constant speed
+(6 cm/s), but moved vertically according to the amount of dorsiﬂexion
+force exerted, such that the height of the dot was determined by the
+magnitude of the force generated.  A force-tracking line was presented
+on the monitor as a sine wave with horizontal lines at both ends (see
+Fig.  1).  The horizontal (ﬂat) line indicated zero force.  At the beginning
+of the task, the participants relaxed while the dot was moving from left
+to right on the horizontal line.  Then, participants exerted (Increasing
+phase) and reduced (Decreasing phase) contractile force such that the
+dot was continuously maintained on the line of the sine wave; they then
+relaxed again (i. e. , zero force) after the dot had passed over the sine
+wave.  The peak of the wave, representing the target peak force during
+the task, was set at 30% of the wrist dorsiﬂexion MVC. 
+The experimental protocol is shown in Fig.  2.  The experiment
+consisted of three sessions: the training session, which was used to
+construct the mental task image by motor learning and two test sessions, including the performance test and imagery test.  In the training
+session, the participants repeatedly performed the motor task described
+above with actual muscle contraction in order to construct the motor
+imagery.  Training consisted of four blocks, and each block was composed of 10 trials. 
+In the performance test, the participants performed the actual motor
+task without visual feedback; the target waveform and the dot disappeared at the time the contraction started.  To describe the learning
+curve needed to guarantee imagery construction, a performance test
+consisting of 10 trials each was carried out at three time points: before
+training (pre-training), and after the second and fourth training blocks
+(post-training). 
+For the imagery test, the participants performed the task without
+physical muscle contraction, and with no visual feedback, as per the
+performance test.  Participants were instructed to imagine using force
+control similar to that used during training.  During imagery, it was
+conﬁrmed that there was no muscle contraction by monitoring the
+EMG.  The imagery tests, consisting of 50 trials each, were carried out
+before training and after the fourth training block (post-training).  A
+custom-written computer program (LabVIEW software, ver. 7. 1;
+National Instruments Corp. , Austin, TX) was used to design the experimental paradigm, including the TMS protocol described below. 
+T.  Tatemoto Name
+2. 4.  Transcranial magnetic stimulation
+TMS was delivered using a Magstim 200 stimulator (Magstim Co. ,
+Dyfed, UK) attached to a ﬁgure-of-eight-shaped coil with an internal
+wing diameter of 9 cm.  The coil was placed with the handle pointing
+backwards, laterally at 45° from the midline, and approximately perpendicular to the central sulcus, to stimulate anteriorly and medially
+direct current in the brain.  The coil was optimally positioned to produce
+MEPs in the contralateral ECR and FCR.  Surface markings drawn on a
+cap that was placed on the scalp served as a reference for coil positioning.  The resting motor threshold (RMT) was deﬁned as the lowest
+stimulus intensity needed to produce MEPs greater than 50 μV in the
+ECR in at least ﬁve of 10 successive trials during the resting condition. 
+The test stimulus was applied at 120% of the RMT. 
+Before each imagery test, TMS was applied 10 times at rest, and
+MEPs were measured from the ECR and FCR as a control.  Subsequently,
+TMS was applied at ﬁve time points during the imagery test (see Fig.  1),
+as follows.  I: At 500 ms before the start of the imaged force production,
+II: at the midpoint of the Increasing phase, III: at the peak muscle force,
+IV: at the midpoint of the Decreasing phase, V: at 500 ms after the end
+of the imaged force production.  The time point when TMS was applied
+was randomly determined in each test during the 50 imagery tests (i. e. ,
+10 times for each test). 
+2. 5.  Data analysis and statistics
+The process of construction of the task image by motor learning was
+evaluated with the error area between the target-tracking sine wave
+and the position of the dot during the performance test.  The error area
+was presented as an RMS value; and the mean RMS value of 10 trials in
+each test was calculated.  The change in mean values across the tests,
+before training (pre), and after the second and fourth training blocks,
+was analyzed using a one-factor repeated-measures analysis of variance
+(ANOVA), with the main factor of training. 
+We calculated the oﬄine peak-to-peak amplitudes of all MEPs of the
+right ECR and FCR using Lab Chart 7 software (AD Instruments Pty. 
+Ltd. , New South Wales, Australia).  Motor cortex excitability for each
+muscle (ECR: agonist muscle, FCR: antagonist muscle) during the
+imagery test was expressed as the ratio of experimental to resting
+condition MEPs.  The eﬀects of training (pre- vs.  post-training) and the
+time points (I–V) on the MEP ratio were compared using two-way repeated-measures ANOVA. 
+To assess EMG activity of the ECR when the TMS pulse was delivered, we calculated the root mean square (RMS) values of the background EMG (B. EMG) activity for a 100-ms period before administering
+TMS pulses.  To determine whether B. EMG levels of each muscle affected the MEPs at each time point during imagery, a two-factor repeated-measures ANOVA was used to analyze the eﬀects of training
+(pre- vs.  post-training) and imagery condition (rest and time points
+I–V).  A paired t-test with Bonferroni’s correction for multiple comparisons was used for post-hoc analysis if a given ANOVA showed a signiﬁcant interaction and main eﬀect. 
+To examine the eﬀect of intervention on the resting condition, the
+change in MEP amplitude of the resting condition (control) between
+Behavioural Brain Research 335 (2017) 185–190
+Fig.  2.  Experimental protocol. 
+All participants performed the same protocols.  The solid black square with
+white characters indicates the training session, and the hollow white
+square with black characters indicates the test session.  Motor imagery
+includes the measurement of corticospinal excitability during motor imagery by transcranial magnetic stimulation (TMS). 
+pre-training and post-training was compared using a paired t-test in the
+ECR and FCR muscles, respectively. 
+All statistical analyses were conducted using IBM SPSS statistics 20
+for Windows (SPSS Inc. , Chicago, IL).  Statistical signiﬁcance was set at
+a value of p < 0. 05 in all tests. 
+3.  Results
+3. 1.  Process of construction of the task image
+Fig.  3 shows the group data for the RMS as an indicator of construction of the task image by motor learning across the three performance tests.  One-factor repeated-measures ANOVA revealed a signiﬁcant main eﬀect (F2,18 = 15. 378, p < 0. 001).  The post-hoc test
+showed that the pre-test session was signiﬁcantly higher than that after
+the 2nd training block (p < 0. 05) and post-training session
+(p < 0. 05).  However, there was no signiﬁcant change between after
+the 2nd training block and post-training session (p = 0. 165). 
+3. 2.  MEP ratio during motor imagery
+Fig.  4 shows sample MEP recordings from the ECR and FCR muscles
+obtained from a single subject, while Fig.  5 shows the MEP ratios of the
+ECR and FCR muscles at each time point of motor imagery before and
+after the training. 

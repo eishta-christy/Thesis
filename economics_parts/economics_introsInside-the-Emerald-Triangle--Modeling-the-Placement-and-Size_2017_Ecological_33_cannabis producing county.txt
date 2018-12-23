@@ -1,0 +1,52 @@
+
+Land-use conversions from forested and natural lands to agricultural
+landscapes are a leading cause of biodiversity decline worldwide
+(Gibson Name, 2011.  Laurance Name, 2014).  Agricultural conversions
+also release large amounts of carbon and contribute signiﬁcantly to climate change (Mendelsohn and Dinar, 2009).  Economic models of agricultural land-use change have proved helpful in understanding the
+ecological consequences of land conversion across multiple scales and
+for many commodities (Lubowski Name, 2008).  These models can also
+be used to predict the environmental impact of changes in agricultural
+policy or prices (Lawler Name, 2014.  Polasky Name, 2008). 
+Cannabis represents an emerging agricultural crop of economic and
+ecological signiﬁcance (Carah Name, 2015.  Decorte Name, 2011).  Cannabis is now legal, either as a medicine or for recreational use, in over
+half the United States and the federal government has signaled potential
+shifts in its classiﬁcation of cannabis as well (National Conference of
+State Legislatures, 2016).  The market for legal cannabis is already estimated to reach $22. 8 billion nationwide by 2020, approximately double
+the value of wheat production (Arcview Market Research, 2014).  The
+growth of this industry may lead to clearing of new land for agriculture
+or the intensiﬁcation of already established sites. 
+While many facets of cannabis production are not well documented,
+there is ample evidence that cannabis production can have negative
+ecological impacts (Carah Name, 2015).  For instance, illegal cannabis cultivation sites have been linked to rodenticide poisoning throughout
+Northern California (Gabriel Name, 2012.  Thompson Name, 2014), and
+to dewatering of streams due to irrigation practices (Bauer Name,
+2015).  Many grows are located in areas of potential ecological impact,
+such as on steep slopes, far from developed road networks, and near
+habitat for threatened and endangered ﬁsh species (Butsic and
+Brenner, 2016). 
+Given its high economic value and potential impact on the environment, surprisingly little is known about the most basic spatial dimensions of this emerging agricultural activity.  Even less is known about
+how cannabis farmers choose the location and size of their operations. 
+Unlike most agricultural crops in the United States, which are mapped
+and recorded by various government departments, the presence of cannabis agriculture has gone widely undocumented, with the exception of
+police reports during the era of strong prohibition.  Recent advances in
+the availability of high resolution satellite imagery have made it possible
+to map cannabis farms at some times of the year across fairly broad spatial scales (Bauer Name, 2015).  One recent study (Butsic and Brenner,
+2016) produced baseline data that could be used to model land-use
+decisions on cultivation location and size.  With these insights,
+policymakers, planners, and others charged with governing this emerging land-use activity might better prepare to mitigate anticipated environmental impacts. 
+We use a dataset consisting of 1341 documented cannabis cultivation sites on private land in Humboldt County, California to
+model the spatial location and production decisions of cannabis
+farmers.  We evaluate the impact of biophysical variables (slope, distance from ocean, distance to water, vegetation cover, and aspect),
+network variables (number of plants on nearby parcels), local regulations (zoning), and historical variables (whether or not a timber
+harvest has taken place in the last 15 years) on producer decisions. 
+In addition, we test to see if the impact of these variables differs for
+alternative production methods (outdoor cultivation vs.  greenhouse
+cultivation). 
+<Middle> Methods. 
+2. 1.  Study Area. 
+Our study area consists of 54 randomly selected watersheds in Humboldt County, CA which are representative of the county as a whole
+(Butsic and Brenner, 2016).  Humboldt County is located in northern
+California (Fig.  1) along the Paciﬁc coast and is considered the leading
+cannabis producing county in the United States, if the not world.  The
+county is a mix of coniferous and hardwood forest with pockets of
+open rangeland. 

@@ -1,0 +1,692 @@
+
+1. Introduction
+Facial expressions of emotion represent a crucial component of
+human social interaction, allowing the observer to infer another's
+emotional state (Frith, 2009; Keltner, 2003), and adjust their behaviour
+accordingly (Blair, 2003). Children and adults aﬀected by disorders of
+social and aﬀective functioning, including psychopathy, often show
+diﬃculties in recognizing others’ emotional expressions
+(Dawel, O’Kearney, McKone, & Palermo, 2012; Marsh & Blair, 2008). When ca-
+tegorizing expressions, attention is typically directed toward critical
+facial features, most notably the eyes the mouth
+(Eisenbarth & Alpers, 2011; Wells, Gillespie, & Rotshtein, 2016). A
+failure to attend to these regions may lead to diﬃculties in judging the
+expressed emotion. Although psychopathic traits in children and non-
+oﬀenders are associated with atypical eye scan paths for emotional
+faces (Dadds, El Masry, Wimalaweera, & Guastella, 2008; Gillespie,
+Rotshtein, Wells, Beech, & Mitchell, 2015), these relationships are yet to
+be tested in a forensic sample.
+Psychopathy is best understood as a collection of personality traits
+that vary along a continuum in the general population (Coid, Yang,
+Ullrich, Roberts, & Hare, 2009). These traits include elevated levels of
+antisocial behaviour, a callous disregard for others, and a deceitful and
+manipulative interpersonal style (Hare, 2003), and are often prominent
+in clinical and forensic samples (Skeem, Polaschek, Patrick, & Lilienfeld,
+2011). A triarchic conceptual framework describes psychopathy along
+three core dimensions that have been reliably identiﬁed and
+distinguished in clinical and non-clinical samples, namely Boldness,
+Meanness, and Disinhibition (Patrick, Fowles, & Krueger, 2009). Bold-
+ness refers to psychologically adaptive traits emphasised by Cleckley
+(1941), and includes venturesomeness, fearlessness, and interpersonal
+dominance (Patrick et al., 2009). Boldness explains a key diﬀerence
+between psychopathy and antisocial personality disorder [ASPD] (Wall,
+Wygant, & Sellbom, 2015), and contributes over and above Meanness
+and Disinhibition to the prediction of clinical psychopathy (Venables,
+Hall, & Patrick, 2014). Meanness entails a callous disregard for others,
+empathy problems, and a tendency toward exploiting others
+(Drislane & Patrick, 2016). The Disinhibition dimension refers to im-
+pulse control problems, emotional reactivity, poor behavioural re-
+straint, and irresponsibility (Patrick et al., 2009).
+
+Several prominent accounts of psychopathy emphasise the presence
+of emotion recognition impairments in relation to the fearless and un-
+empathic features (e.g., Boldness, Meanness) of the disorder (Blair,
+2005, 2008; Moul, Killcross, & Dadds, 2012). These diﬃculties have
+been observed among adult male psychopaths, and in relation to the
+broader psychopathy phenotype in both adults and children (Blair
+et al., 2004; Dolan & Fullam, 2006; Dadds et al., 2008; Hastings,
+Tangney, & Stuewig, 2008; Kosson, Suchy, Mayer, & Libby, 2002;
+Prado, Treeby, & Crowe, 2015). Although it is theorized by Blair (2005,
+2008) that impairments in recognizing others distress cues (fear and
+sadness) are of particular importance in psychopathy, a recent meta-
+analysis suggests that these diﬃculties are pervasive across fear, sad,
+happy, and surprise emotional expressions (Dawel et al., 2012).
+Neurobiologically inspired models of psychopathy propose that the
+disorder is characterized by functional impairments in areas related to
+emotion processing, including the amygdala (Blair, 2008), and the ex-
+tended limbic system (Kiehl, 2006). Support for these models comes
+from studies that have shown a reduced amygdala response to fearful
+expressions in both adults and children/adolescents with increasing
+psychopathic traits (Decety, Skelly, Yoder, & Kiehl, 2014; Jones,
+Laurens, Herba, Barker, & Viding, Cardinale, VanMeter, & Marsh, 2014).
+The successful decoding of diﬀerent emotional expressions depends
+on visual attention toward emotionally salient aspects of the face, most
+notably the eyes and the mouth (Eisenbarth & Alpers, 2011; Smith,
+Cottrell, Gosselin, & Schyns, 2005; Wells et al., 2016). The precise
+pattern of eye movements is thought to be dependent upon the emotion
+expressed, and attention is often guided toward the most diagnostic
+facial features for a given emotion (e.g., the widened eye whites of
+fearful expressions) (Schurgin et al., 2014; Smith et al., 2005; Wells
+et al., 2016). While attention to these regions is likely to be modiﬁed by
+conscious control, even brieﬂy presented faces trigger very early, po-
+tentially reﬂexive eye movements toward diagnostic regions of the face
+(Gamer & Büchel, 2009; Scheller, Büchel, & Gamer, 2012). Again, re-
+ﬂexive eye movements in these studies were more commonly toward
+the eyes than away from the eyes, and varied with the type of expres-
+sion. Psychopathy related impairments in emotion recognition may
+therefore reﬂect reduced attention to the eye region of emotional faces.
+In support of this hypothesis, children with elevated callous-un-
+emotional (CU) traits, referring to the aﬀective dimension of psycho-
+pathy, show impaired fear recognition and a reduced number and
+length of ﬁxations on the eye region (Dadds et al., 2008). When in-
+structed to ﬁxate the eye region, these children showed normalized
+levels of performance (Dadds et al., 2008). A similar pattern of per-
+formance has also been observed in a patient with bilateral amygdala
+dysfunction (Adolphs et al., 2005), and is taken as support for amygdala
+based models of psychopathy. More recent evidence from non-of-
+fending adult males has shown that the interpersonal and aﬀective
+features of psychopathy are associated with reduced attention to the
+eyes, and that the number of ﬁxations on the eye region is positively
+correlated with fear accuracy (Gillespie, Rotshtein, Wells et al., 2015).
+Another study with non-oﬀenders has shown that equivalent measures
+of Boldness, but not Meanness, are associated with reduced face ex-
+ploration during a face perception task (Boll & Gamer, 2016).
+
+In the present study we examined eye scan paths for emotional faces
+among adult male violent oﬀenders, and assessed the relationship of
+distinct psychopathic traits with attention to the eyes. For comparison
+we also recruited a community control group of non-oﬀending adult
+males. Because psychopathy consists of a number of positively related
+dimensions, suppressor eﬀects in statistical analyses may obscure un-
+derstanding of the unique correlates of distinct psychopathic traits.
+Thus, we aimed to model these dimensional traits simultaneously in a
+way that can account for their covariance (Hicks & Patrick, 2006; Lozier
+et al., 2014). We also measured levels of negative aﬀect, including
+anxiety and depression, as diﬀerences in emotional face processing and
+attentional allocation have been observed in these disorders (Buckner,
+Maner, & Schmidt, 2010; Easter et al., 2005; Kohler, Hoﬀman, Eastman,
+Healey, & Moberg, 2011). One earlier study suggests that psychopathy
+primarily aﬀects the perception of moderate intensity expressions
+(Hastings et al., 2008). Therefore in the current experiment we ma-
+nipulated the intensity of the emotional expression by morphing each
+prototypical expression (100%) with the neutral expression of the same
+person. Thus, participants classiﬁed expressions at 90% and 55% in-
+tensities (see Gillespie, Rotshtein, Wells et al., 2015; Gillespie,
+Rotshtein, Satherley, Beech, & Mitchell, 2015; Gillespie, Mitchell,
+Satherley, Beech, & Rotshtein, 2015; Wells et al., 2016).
+
+We predicted that the preference for information form the eye re-
+gion would be absent among violent oﬀenders, and that they would
+show an absence of stimulus driven eﬀects on eye scan paths. Moreover,
+we predicted that distinct psychopathic traits related to a lack of em-
+pathy and fearlessness, namely Meanness and Boldness, would be as-
+sociated with a pattern of impaired emotion recognition, and reduced
+attention to the eyes relative to the mouth. We tested these relation-
+ships across various parameters of attention to the eyes and the mouth:
+overall dwell time, ﬁxation count, and ﬁrst ﬁxation time. The analyses
+focused on the average response across all emotions, and also speciﬁ-
+cally on the processing of fearful expressions, given ﬁndings that the
+eye region is of particular importance for recognizing fear (Smith et al.,
+2005; Whalen et al., 2004). Furthermore, at least one prominent theory
+of psychopathy proposes that psychopaths are characterized by parti-
+cular deﬁcits in recognizing others distress cues (Blair, 2005, 2008).
+
+<Middle> Method.
+2.1. Participants.
+Thirty male violent non-sex oﬀenders, aged between 32 and 50
+years (M = 35.1, SD = 11.8), were recruited from HMP Grendon, UK.
+All participants had normal or corrected to normal vision. The majority
+of participants were White Caucasian (n = 19, 63%). Index oﬀences
+included, but were not limited to, murder (n = 17) or attempted
+murder (n = 2), and wounding with intent (n = 3). Case ﬁle histories
+showed that no participants had a pre-diagnosed mental health pro-
+blem, although one participant was taking antidepressant medication.
+The number of any previous convictions ranged from 0 to 31 (M = 9,
+SD = 10), and the number of previous violent convictions ranged from
+0 to 14 (M = 2, SD = 3). All participants signed their fully informed
+consent. Ethical approval for the study was granted by the University of
+Birmingham Committee for Ethical Review, and access was approved
+by the National Oﬀender Management Service for England and Wales,
+and the HMP Grendon Research Advisory Group.
+Eye movement data were also collected from an approximately age
+matched community control group of 25 adult males, aged 18–69 years
+(M = 37.88, SD = 18.29), to assess the typicality of the eye movements
+observed in the violent oﬀender sample. The comparison group was
+recruited from the community using online advertisements and parti-
+cipants received a monetary payment for taking part. None of the
+control group participants reported a history of convictions for either
+violent or sexual oﬀences.
+
+2.2. Materials.
+2.2.1. Facial expression stimuli.
+We used a selection of the facial stimuli developed by Gillespie and
+colleagues (Gillespie, Rotshtein, Wells et al., 2015 Gillespie, Rotshtein,
+Satherley et al., 2015 Gillespie, Mitchell et al., 2015 Wells et al. 2016)
+consisting of male and female expressions displayed at varying degrees
+of intensity. These stimuli consisted of ﬁve male and ﬁve female Cau-
+casian models,
+selected from the NimStim Face Stimulus Set
+(Tottenham et al., 2009; http://www.macbrain.org/resources.htm),
+showing each of seven diﬀerent expressions: neutral, angry, disgust,
+fear, happy, sad, and surprise. Emotional and neutral images from the
+same model were morphed to create images of varying levels of emo-
+tional intensity (see Gillespie, Rotshtein, Wells et al., 2015; Gillespie,
+Rotshtein, Satherley et al., 2015; Gillespie, Mitchell et al., 2015) for
+details of the morphing procedure. Images used in the current study
+consisted of each emotion, for each model, displayed at moderate (55%
+expressive) and high (90% expressive) intensity. The neutral expression
+was also included for each model so that participants were not only
+viewing emotional faces. Stimuli had a resolution of 504 × 624 pixels.
+The positioning of each image on the canvas was manipulated such that
+the eyes and the mouth appeared in the same location across all stimuli.
+
+2.2.2. Measures
+
+The Triarchic Psychopathy Measure (Drislane, Patrick, & Arsal,
+2014) was used for the assessment of psychopathic traits. The 58-item
+self-report measure yields scores on three subscales: Boldness, Mean-
+ness, and Disinhibition. Participants respond on a 4-point Likert scale
+(3 = true, 2 = somewhat true, 1 = somewhat false, 0 = false). Internal
+consistencies (Cronbach’s ɑ) for the Boldness, Meanness, and Disin-
+hibition subscales in the violent oﬀender sample were .69, .75, and .91,
+respectively. Participants in the control group were also asked to
+complete the TriPM for comparison, although two participants in this
+group failed to complete the measure. In order to provide a better de-
+scription of the sample, participants in the violent oﬀender group were
+also asked to complete the State Trait Anxiety Inventory [STAI]
+(Spielberger, Gorsuch, Lushene, Vagg, & Jacobs, 1983), which contains
+both State [STAI-S] and Trait [STAI-T] subscales, and the Beck De-
+pression Inventory [BDI] (Beck, Ward, Mendelson, Mock, & Erbaugh,
+1961). Internal consistencies for the STAI-S, STAI-T, and the BDI in the
+current sample were good: Cronbach’s ɑ = .94, .93, and .79.
+
+2.3. Eye tracking
+
+We used an EyeLink 1000 corneal-reﬂection based portable eye
+tracking system (SR Research Ltd.) to record participants’ eye move-
+ments. Although viewing was binocular, only movements of the right
+eye were recorded. Gaze location was sampled at 1000 Hz. A Dell
+Precision laptop computer was used to manage the recording of eye
+movements. Stimuli were displayed on a 19” LG colour monitor, using
+SR-Research Experiment Builder software, running on a laptop com-
+puter with a separate mouse and keyboard.
+
+2.6. Data analysis
+
+As Age is suggested to aﬀect the processing of emotional expres-
+sions, it is included as a covariate in all analyses. For comparison with
+the non-oﬀender control group, we ﬁrst examine the main eﬀects of
+Group, and any interactions of Group with Emotion, Intensity, or AOI,
+for accuracy, dwell
+time, ﬁxation count, and ﬁrst ﬁxation time.
+However, as the focus of this paper is on the eye movements of violent
+oﬀenders, we present in the main text the results for the violent of-
+fenders only. For the results of analyses conducted on the comparison
+group please see supplementary materials. Eﬀects on accuracy were
+computed using a mixed ANCOVA, with the factors Emotion (Anger,
+Disgust, Fear, Happy, Sad, Surprise) and Intensity (55%, 90%) as re-
+peated factors. For the three eye tracking parameters, we computed
+separate mixed ANCOVAs for each eye tracking parameter (dwell time,
+ﬁxation count, ﬁrst ﬁxation time) using Emotion, Intensity, and AOI
+(Eyes, Mouth) as repeated factors. Signiﬁcant interactions were broken
+down using follow up ANCOVAs and Bonferroni adjusted post hoc tests.
+To assess the relations of the TriPM subscales with accuracy and
+scanning pattern in violent oﬀenders, we computed regression models
+across all faces and intensities, and speciﬁcally for fearful expressions,
+for each of the four dependent variables (accuracy, dwell time, ﬁxation
+count, and ﬁrst ﬁxation time). For each regression model normalized
+scores of Boldness, Meanness, Disinhibition, and Age, were used as
+predictors of diﬀerential attention to the Eyes and the Mouth (Eyes −
+Mouth).
+
+2.4. Procedure
+
+3. Results
+
+Testing took place either in a private room inside the prison, or in a
+dedicated eye tracking laboratory at the university. Participants were
+seated at a desk and a chin rest of adjustable height was provided to
+minimize head movements. Participants were positioned approximately
+68 cm form the display monitor, and images were presented at a visual
+angle of 21.2°. Participants were asked to categorize the emotional
+expression stimuli as quickly and accurately as possible as either neu-
+tral or one of the six basic emotions while their eye movements were
+being recorded. Standard EyeLink calibration and validation proce-
+dures were performed, each using a series of nine ﬁxation points, pre-
+sented at random in one of nine locations on the screen. Facial ex-
+pression stimuli were presented in a randomized order over four blocks
+of 35 trials using the EyeLink software. At the start of each trial the
+experimenter conﬁrmed that the participant’s eye gaze fell on a ﬁxation
+point presented in the centre of the screen. A ﬁxation cross was then
+presented for 1000 ms, followed by an image of an emotional expres-
+sion that was displayed for 2000 ms, considered to be the time taken for
+an individual to judge facial aﬀect in an in vivo social interaction
+(Hoaken et al., 2007). Following display of the target expression, par-
+ticipants were asked to categorize the facial expression as neutral, or as
+one of the six basic emotions: anger, disgust, fear, happy, sad, surprise.
+Expression labels were displayed in a vertical list alongside the relevant
+number key (e.g., 1. ANGER). Responses were made using the numeric
+keys 0–6.
+
+2.5. Eye movement parameters
+
+Two separate areas of interest (AOIs) were created a-priori that in-
+cluded the eyes (300 × 100 pixels) and the mouth (240 × 125 pixels).
+For each AOI we were interested in the following gaze parameters:
+overall dwell time, total ﬁxation count, and ﬁrst ﬁxation time. For the
+analysis of ﬁrst ﬁxation times we only included ﬁrst ﬁxations that were
+initiated 100 ms after the presentation of each stimulus. While dwell
+time and ﬁxation count provide an estimate of the participants’ interest
+in the eyes and the mouth, ﬁrst ﬁxation time provides an index of early
+gaze shifts towards these regions.
+
+Mean scores and standard deviations for all self-report measures
+completed by violent oﬀenders are shown in Table 1, along with the
+inter-correlations between measures. For comparison, descriptive sta-
+tistics for the TriPM subscales in the non-oﬀender control group, and in
+non-oﬀender (N = 496), and forensic psychiatric samples (N = 296),
+reported by van Dongen et al. (2017) are also included. In the violent
+oﬀender sample, there was a signiﬁcant positive correlation between
+the TriPM Meanness and Disinhibition subscales that survived correc-
+tion for multiple comparisons. The correlations of Boldness with
+3.1. Accuracy.
+Accuracy for recognition of diﬀerent emotional expressions as a
+function of the intensity of the expression is shown in Table 2. A mixed
+ANCOVA showed that there was a signiﬁcant three way interaction of
+Group with Emotion and Intensity F(5, 260) = 2.69, p = .021,
+pη2 = .049. Although both groups showed a similar pattern of emotion
+recognition, when broken down by Group, the interaction eﬀect was
+greater for community controls compared with violent oﬀenders. Below
+we present the results for violent oﬀenders only. Results for the control
+group are show in the supplementary materials.
+
+The confusion matrix in Fig. 1 illustrates the pattern of responding
+among male violent oﬀenders for each emotional expression as a
+function of Intensity. Overall, neutral expressions were classiﬁed with a
+relatively high degree of accuracy (M = 81.5%, SD = 19.8). We found
+signiﬁcant main eﬀects of Emotion F(5, 140) = 19.37, p < .001,
+pη2 = .409, and Intensity F(5, 140) = 24.77, p < .001, pη2 = .469,
+and a signiﬁcant two-way interaction F(5, 140) = 2.80, p = .019,
+pη2 = .091. This two-way interaction was also aﬀected by Age F(5,
+140) = 11.34, p < .001, pη2 = .288. Based on the data in Table 3, the
+
+interaction of Emotion and Intensity emerged as expressions of anger,
+disgust, happy, sad and surprise were recognized better at higher in-
+tensities, but the pattern was reversed for fear. To test these observa-
+tions formally we analysed each emotion separately. While expressions
+of Disgust F(1, 28) = 20.91, p < .001, pη2 = .428, Happy F(1, 28)
+= 14.42, p = .001, pη2 = .340, Sad F(1, 28) = 33.87, p < .001,
+pη2 = .547, and Surprise F(1, 28) = 9.50, p = .005, pη2 = .253 were
+recognized better at high intensity, the converse was true for Fear F(1,
+28) = 11.70, p = .002, pη2 = .295. Angry expressions were recognized
+equally well at 55% and 90% intensities F(1, 28) = .657, p = .424,
+pη2 = .023. It is also worth noting that Bonferroni adjusted compar-
+isons showed that Fear was recognized least accurately compared with
+all other emotions (all p < .001), while Happy was recognized with
+the most accuracy compared with Disgust, Fear, Sad and Surprise (all
+p < .018). Anger was also recognized with more accuracy than Sad
+(p = .041).
+
+3.2. Eﬀects of emotion, intensity, and AOI
+
+Table 3 shows means and standard deviations for dwell time, ﬁxa-
+tion count, and ﬁrst ﬁxation times as a function of Group, Emotion,
+Intensity, and AOI.
+
+3.2.1. Dwell time
+
+For dwell time, the two-, three-, and four-way interactions of Group
+with Emotion, Intensity, and AOI were non-signiﬁcant (all F < 2.14,
+p > .058), suggesting that dwell times patterns were broadly similar in
+both groups. When focussing on the eﬀects for violent oﬀenders only,
+there was a signiﬁcant three-way interaction of Emotion, Intensity, and
+AOI F(5, 140) = 2.49, p = .034, pη2 = .082. When broken down by
+Intensity, the interaction of Emotion and AOI was signiﬁcant for ex-
+pressions at both 55% F(5, 140) = 22.62, p < .001, pη2 = .447, and
+90% intensity F(5, 140) = 8.07, p < .001, pη2 = .224, but the inter-
+action eﬀect was larger for 55% compared to 90% intensity.
+
+For 55% expressions, the eﬀect of Emotion was signiﬁcant for both
+the Eyes F(5, 140) = 17.13, p < .001, pη2 = .380, and the Mouth F(5,
+140) = 17.35, p < .001, pη2 = .383. Bonferroni adjusted comparisons
+for 55% expressions showed that dwell time on the Eyes was greatest
+for Fear compared with all other expressions (all p < .012), and for
+Surprise compared with Anger, Disgust, Happy, and Sad (all p < .01).
+Conversely, dwell time on the Mouth was greatest for Happy and
+Disgust compared with all other expressions (all p < .012).
+
+For 90% expressions, the eﬀect of Emotion was signiﬁcant for both
+the Eyes F(5, 140) = 9.63, p < .001, pη2 = .256, and the Mouth F(5,
+140) = 4.28, p = .001, pη2 = .133. For 90% expressions dwell time on
+the Eyes was greatest for Fear compared with all other expressions
+excluding Anger (all p < .038), as well as for Anger (p = .045) and
+Surprise (p = .004) compared with Happy. Conversely, dwell time on
+the mouth was greatest for Disgust compared with Anger, Fear, and Sad
+faces (all p < .035).
+
+In summary, as a group violent oﬀenders dwelled relatively longer
+on the eyes of fearful faces, and the mouth of disgusted faces, compared
+with other emotions. However, the strength of these biases varied with
+the expression intensity. This is a similar pattern to that previously
+reported for non-oﬀenders (Gillespie, Rotshtein, Wells et al., 2015;
+Wells et al., 2016).
+
+3.2.2. Fixation count
+
+For ﬁxation count, the two-, three- and four-way interactions of
+Group with Emotion, Intensity, and AOI were all non-signiﬁcant (all
+F < 2.59, p > .073), suggesting a similar pattern for ﬁxation counts
+in both violent oﬀenders, and non-oﬀenders. When focussing on the
+eﬀects for violent oﬀenders only, the two-way interactions of Intensity
+with AOI F(1, 28) = 24.95, p < .001, pη2 = .471, and Emotion with
+AOI F(5, 140) = 21.27, p < .001, pη2 = .432, were both signiﬁcant.
+When broken down by AOI we found opposing patterns at 55% and
+90% intensity, with the Eyes ﬁxated more often at higher intensities F
+(1, 28) = 13.55, p = .001, pη2 = .326, and the Mouth ﬁxated more
+often at lower intensities F(1, 28) = 20.93, p < .001, pη2 = .428. The
+eﬀect of Emotion was signiﬁcant for both the Eyes F(5, 140) = 20.52,
+p < .001, pη2 = .423, and the Mouth F(5, 140) = 5.71, p < .001,
+pη2 = .169. Bonferroni adjusted comparisons showed that the Eyes
+were ﬁxated more often for Fear compared with all other expressions
+for Surprise compared with Happy and Sad (all
+(all p < .002),
+p < .006), and for Anger
+compared with Happy (p = .003).
+Conversely, the Mouth was ﬁxated more often for Disgust compared
+with Angry, Sad, and Surprise (all p < .041).
+
+Mirroring the dwell time results, oﬀenders made more ﬁxations on
+
+fearful eyes and disgusted mouths relative to other expressions
+
+3.2.3. First ﬁxation time
+
+For ﬁrst ﬁxation time, the two-, three- and four-way interactions of
+Group with Emotion, Intensity, and AOI were all non-signiﬁcant (all
+F < 2.37, p > .131), suggesting that ﬁrst ﬁxation times followed a
+similar overall pattern in both oﬀenders and non-oﬀenders. When
+focussing on the violent oﬀender sample, there were signiﬁcant two-
+way interactions of Intensity with AOI F(1, 28) = 27.38, p < .001,
+pη2 = .494, and Emotion with AOI F(5, 140) = 17.90, p < .001,
+pη2 = .390.
+
+When broken down by AOI, we showed that ﬁrst ﬁxation times on
+the Eyes were faster for higher than lower intensity expressions F(1,
+28) = 40.93, p < .001, pη2 = .59, while ﬁrst ﬁxation times for the
+Mouth were similar at 55% and 90% intensities F(1, 28) = 2.16,
+p = .153, pη2 = .072. The eﬀect of Emotion was signiﬁcant for both the
+Eyes F(5, 140) = 9.83, p < .001, pη2 = .260, and the Mouth F(5,
+140) = 10.95, p < .001, pη2 = .281. Bonferroni adjusted comparisons
+showed that the Eyes were ﬁxated faster for Fear compared with Anger,
+Disgust and Happy expressions (all p < .01). Surprise Eyes were also
+ﬁxated faster than Anger Eyes (p = .028), and both Sad Eyes (p = .007)
+and Surprise Eyes (p = .008) were ﬁxated faster than Happy Eyes.
+Conversely, the Mouth was ﬁxated slowest for Sad compared with
+Anger, Disgust, Fear, and Happy (p < .05). The Mouth was also ﬁxated
+faster for Happy than Fear and Surprise (p < .030), for Anger than
+Surprise (p = .047), and for Disgust than Fear (p < .020).
+
+There was also a signiﬁcant two-way interaction of Emotion and
+Intensity F(5, 140) = 2.43, p = .038, pη2 = .080. When broken down
+by Intensity the eﬀect of Emotion was signiﬁcant for expressions at
+lower F(5, 140) = 3.04, p = .012, pη2 = .098, but not at higher in-
+tensities F(5, 140) = .54, p = .748, pη2 = .019. Bonferroni adjusted
+comparisons for 55% expressions showed that the critical facial features
+were ﬁxated faster for Fear than for Sad expressions (p = .001).
+
+In summary, the data suggest that fearful eyes, and to lesser degree
+surprised eyes, are associated with greater attentional capture as as-
+sessed using the timing of the ﬁrst ﬁxation. Smiles also appeared to
+capture attention. These eﬀects were larger for the more prototypical
+(90% intensity) expressions.
+
+3.3. Eﬀects of psychopathic traits on accuracy and eye scan paths
+
+We next assessed whether accuracy of expression recognition across
+intensities among violent oﬀenders can be predicted by the three sub-
+scales of the TriPM (Meanness, Boldness, and Disinhibition) after we
+controlled for Age, using linear regression. The analysis suggested that
+psychopathic traits did not aﬀect accuracy F(4, 25) = .632, p = .644,
+ΔR2 = −.50. Psychopathic traits also failed to predict accuracy of re-
+sponses to fearful expressions F = .39, p = .812, ΔR2 = −.09.
+
+We then assessed whether the scanning pattern for emotional faces
+(irrespective of Emotion or Intensity), and speciﬁcally for Fear, can be
+predicted by the TriPm subscales after controlling for Age. The analysis
+focused on the preference for the Eyes compared with the Mouth
+(Eyes–Mouth). The results of linear regression models predicting eye
+scan paths are summarized in Table 4 and Fig. 2. For illustrative pur-
+poses in Fig. 2D we also present average heat maps for high (n = 10)
+and low (n = 10) Boldness participants.
+
+The analyses revealed that scanning patterns (assessed by dwell
+time, ﬁxation count, and ﬁrst ﬁxation time) for emotional faces in
+general, and for fearful expressions in particular, can be reliably pre-
+dicted by distinct psychopathic traits and Age (see Table 4). A closer
+inspection of the parameter estimates for the regressors (proxy to the
+strength of relationship) suggested that Boldness and Age were
+
+negatively associated with the preference for the Eyes when measured
+in dwell time and ﬁxation count, both when collapsed across expres-
+sions, and when modelled separately for fearful expressions (Fig. 2A,
+B). These results are indicative of relatively reduced attention to the
+eyes (compared with the mouth) with advancing years and Boldness
+scores. Similarly Boldness predicted slower ﬁrst ﬁxation times (Fig. 2C),
+suggesting that advancing years and Boldness scores were associated
+with a relatively longer time taken to ﬁrst ﬁxate the eyes compared
+with the mouth. Age was also positively associated with ﬁrst ﬁxation
+times across all expressions, although the eﬀect of Boldness missed
+signiﬁcance. The eﬀects of Meanness and Disinhibition were non-sig-
+niﬁcant for each parameter, across all emotions, and for fearful ex-
+pressions only.
+
+To formally verify that Meanness and Disinhibition did not con-
+tribute to the eye scanning pattern, we computed backward linear re-
+gression. The results of these analyses were similar to those reported
+here. Statistical detail for linear regression models predicting dwell
+time, ﬁxation count, and ﬁrst ﬁxation time on the eyes relative to the
+mouth for the remaining emotions (Anger, Disgust, Happy, Sad,
+Surprise) are available in Supplementary Materials. These analyses
+show a similar pattern of results to those observed for fearful faces,
+suggesting that Boldness and Age eﬀects may be generic across diﬀerent
+expressions.
+
+<Conclusion> Discussion.
+
+In the present study we examined the eye movements of adult male
+violent oﬀenders compared with non-oﬀenders, and the extent to which
+distinct psychopathic traits predicted violent oﬀenders’ preference for
+information from the eye region compared with the mouth. Violent
+oﬀenders’ eye movements did not diﬀer from those of non-oﬀenders,
+and were found to vary with the emotion and intensity of the expres-
+sion. Furthermore, Boldness, but not Meanness or Disinhibition, was
+associated with reduced attention to the eyes across various eye
+tracking parameters among violent oﬀenders.
+
+Across all parameters, oﬀenders and non-oﬀenders showed similar
+patterns of eye gaze, with generally increased attention to fearful eyes,
+and to happy and disgusted mouths. These eﬀects are consistent with
+those found in non-oﬀending participants tested using the same stimuli
+(Gillespie, Rotshtein, Wells et al., 2015; Wells et al., 2016), and similar
+eﬀects have also been shown by Scheller et al. (2012), and Eisenbarth
+and Alpers (2011). Our ﬁndings support the notion that eyes are more
+salient for recognizing fear compared with other emotions (Adolphs
+et al., 2005; Elsherif, Sahan, & Rotshtein, 2017; Smith et al., 2005), and
+that widened eye whites represent the critical diagnostic facial feature
+for fear (Whalen et al., 2004). On the other hand, the mouth appears to
+be most salient for happy and disgust expressions, perhaps due to the
+rather unique shape of a smile, or the furrowing of the nose and the
+mouth for disgust (Elsherif et al., 2017; Schurgin et al., 2014).
+
+These stimulus driven eﬀects appear to be greater with increasing
+task diﬃculty, including when expressions are presented at shorter
+durations, or when expression intensity is reduced (Schurgin et al.,
+2014). Increasing task diﬃculty in this study was achieved by morphing
+emotional expressions with neutral to create expressions that were 55%
+expressive. Results showed that the interaction of emotion and AOI on
+violent oﬀenders’ dwell times was greatest when task diﬃculty was
+increased, that is, when judging expressions at 55% intensity. Violent
+oﬀenders also ﬁxated the eyes of higher intensity expressions more
+often, and more quickly, and ﬁxated the critical facial features more
+quickly for fear than sad at 55% intensity. It is argued that these pat-
+terns may reﬂect increased attention toward the most diagnostic facial
+
+features for each emotion as task diﬃculty increases (Schurgin et al.,
+2014; Wells et al., 2016).
+
+When examining the eﬀects of distinct psychopathic traits in violent
+oﬀenders, we found that increasing Boldness scores and advancing Age
+were associated with shorter overall dwell times, and a fewer number of
+ﬁxations, on the eyes compared with the mouth. However, there were
+no eﬀects of Meanness or Disinhibition. These results were found for
+dwell times and ﬁxation counts averaged across all expressions, as well
+as separately for fearful expressions. Similar results were also found for
+ﬁrst ﬁxation times, with increasing Boldness scores associated with
+slower ﬁrst ﬁxations on the eyes compared with the mouth of fearful
+expressions. These results are consistent with those previously reported
+in samples of non-oﬀending adult males (Gillespie, Rotshtein, Wells
+et al., 2015), and adolescent boys (Dadds et al., 2008). In both of these
+studies it was found that psychopathic tendencies indexing the callous
+features of the disorder were associated with reduced eye gaze.
+
+Findings from a recent study with non-oﬀenders also showed that
+Fearless Dominance, an equivalent measure of Boldness, was associated
+with reduced scanning behaviour for emotional faces (Boll & Gamer,
+2016). Furthermore, and perhaps surprisingly, these authors found that
+Self-Centred Impulsivity, equivalent to Disinhibition, was associated
+with fewer reﬂexive gaze shifts toward the eyes. These ﬁndings are in
+contrast to results from adult and developmental samples that found
+relationships of the fearless and unempathic features of psychopathy
+with eye gaze (Dadds et al., 2008; Gillespie, Rotshtein, Wells et al.,
+2015), and also with those reported here for violent oﬀenders. How-
+ever, there are important methodological diﬀerences between these two
+studies. In the current study participants were asked to judge the
+emotional expression following a 2000 ms presentation of a facial sti-
+mulus. Early eye ﬁxations recorded here therefore share features with
+voluntary attentional control, and may not reﬂect an impairment in
+reﬂexive orienting per se. In contrast, Boll and Gamer (2016) measured
+reﬂexive gaze shifts when faces were shifted unpredictably above or
+below a ﬁxation point during presentations lasting 150 ms or 2000 ms.
+Furthermore, Boll and Gamer used the Psychopathic Personality In-
+ventory (Lilienfeld & Widows, 2005) to assess Fearless Dominance and
+Self-Centred Impulsivity. Although these scales measure similar con-
+structs to the TriPM Boldness and Disinhibition scales, future research
+should seek to further examine the eﬀects of distinct psychopathic traits
+on reﬂexive, as well as more controlled attentional processes, and use
+diﬀering measures of psychopathic traits.
+
+The modest inter-correlations between the TriPM subscales reported
+in this study may seem surprising. Although others have reported sig-
+niﬁcant correlations of Boldness and Meanness (van Dongen et al.,
+2017), these subscales have previously been shown to be unrelated in
+prison inmates (Wall et al., 2015), or modestly related in a large mixed
+gender sample (Drislane et al., 2014). Drislane et al. suggest that al-
+though Boldness and Meanness may share a fearless temperament,
+other factors are also likely to contribute to dispositional Meanness
+(also see Patrick, Drislane, & Strickland, 2012). Weak negative corre-
+lations between Boldness and Disinhibition may also be expected, given
+that Boldness taps adaptive traits including immunity to stress and a
+fearless temperament, while Disinhibition taps impulse control pro-
+blems and impaired regulation of aﬀect (Drislane et al., 2014; Patrick
+et al., 2012). Others have debated that Boldness, or Fearless Dominance
+features, may be peripheral to psychopathy. However, ﬁndings from a
+recent meta-analysis (N = 10,693) underline the importance of these
+more adaptive traits to the conceptualisation and measurement of
+psychopathic personality (Lilienfeld et al., 2016).
+The ﬁnding that reduced eye gaze in violent oﬀenders is speciﬁcally
+related to Boldness, but not Meanness or Disinhibition, may reﬂect a
+speciﬁc relationship of Boldness with impaired processing of emotional
+stimuli, and reduced physiological reactivity fear (Benning,
+Patrick, & Iacono, 2005; Dindo & Fowles, 2011; Esteller, Poy, & Moltó,
+2016). In support of this argument, participants scoring high on a trait
+measure of psychopathy that indexes Boldness features, including social
+potency, stress immunity, and fearlessness (see Benning et al., 2003),
+also show abnormal neural activations in the amygdala and prefrontal
+cortex during the processing of emotional facial expressions (Gordon,
+Baird, & End, 2004).
+An alternative theory draws support from a recent study which
+showed that Boldness, but not Meanness or Disinhibition, is associated
+with a smaller N170 response to low (LSF), but not high (HSF), spatial
+frequency ﬁltered emotional expressions (Almeida et al., 2014). LSF
+information is detected by magnocellular cells of the tectopulvinar
+pathway (superior colliculi–pulvinar), and is thought to allow for the
+rapid interpretation of emotional expressions by the amygdala
+(Tamietto & De Gelder, 2010; Vuilleumier, Armony, Driver, & Dolan,
+2003). The results reported by Almedia et al. therefore suggest that
+Boldness may be associated with reduced amygdala processing during
+the analysis of LSF emotional expressions. Somewhat intriguingly, de-
+tection of fearful eyes is thought to rely predominantly on this mag-
+nocellular route (Vuilleumier et al., 2003), and dysfunction at an early
+stage in this pathway might account for reduced orienting toward the
+eyes, as well as hypoactivity of the amygdala in response to fearful
+expressions. These possibilities are worthy of future investigation.
+
+With regard to accuracy, like earlier ﬁndings, expressions of higher
+intensity were typically recognized with more accuracy (Gillespie,
+Rotshtein, Wells et al., 2015; Schurgin et al., 2014; Wells et al., 2016),
+and fear was recognized with least accuracy compared with other ex-
+pressions (Guo, 2012; Wells et al., 2016). However, accuracy was un-
+related to psychopathic traits, and did not diﬀer for violent oﬀenders
+compared with controls. While some studies have found correlations of
+psychopathic traits with accuracy (Gillespie, Mitchell et al., 2015;
+Prado et al., 2015), these relationships are not consistently reported.
+Also, although diﬃculties in emotion recognition have previously been
+reported for violent oﬀenders (Gillespie, Rotshtein, Satherley et al.,
+2015; Robinson et al., 2012; Schönenberg et al., 2014), the mean values
+reported here are similar to those reported by Gillespie, Rotshtein,
+Satherley et al. (2015) for sexual and violent oﬀenders tested using the
+same stimuli (but fear appears to be less impaired here than previously
+observed). The comparison group reported here also show particular
+diﬃculty identifying fear compared with other non-oﬀender samples
+(see Gillespie, Rotshtein, Wells et al., 2015; Gillespie, Rotshtein,
+Satherley et al., 2015; Wells et al., 2016). However, it is important to
+note that the current task was made more challenging by limiting the
+presentation of emotional faces to 2000 ms, meaning that comparisons
+with earlier studies should be made with some caution.
+
+The ﬁndings reported here are based on a restricted sample of se-
+vere violent oﬀenders that was relatively modest in size, and our results
+should therefore be replicated in a larger sample. Further, emotion
+recognition and eye movement patterns may diﬀer between diﬀerent
+types of oﬀender, for example sexual oﬀenders with child and adult
+victims, or may vary with other disorders know to aﬀect the processing
+of emotional faces, including anxiety disorder (Short, Sonuga-Barke,
+Adams, & Fairchild, 2016), and borderline personality disorder (Domes,
+Schulze, & Herpertz, 2009). Understanding these diﬀerences would
+provide a more detailed understanding of aﬀective processing in clin-
+ical samples. We used static images of emotional expressions, and the
+extent to which psychopathy related diﬀerences in eye gaze would be
+observed during a natural social interaction is also of interest. Further,
+although psychopathy refers to a dimensional construct (Edens, Marcus,
+Lilienfeld, & Poythress, 2006), recent ﬁndings suggest that the re-
+lationship of psychopathy with social-cognitive abilities may change at
+a point close to the cut-oﬀ score on the Psychopathy Checklist − Re-
+vised (Abu-Akel, Heinke, Gillespie,
+Mitchell, & Bo, 2015). As such, it would also be of interest to examine
+diﬀerences in eye scan paths for oﬀenders with extreme scores on the
+PCL-R, relative to non-psychopaths.
+
+5. Conclusion
+
+For the ﬁrst time, the present study explored the eye scanning be-
+haviour of violent oﬀenders during a facial emotion recognition task.
+Across diﬀerent parameters the scanning behaviour was found to vary
+with emotion and intensity, suggesting that eye scan paths were sen-
+sitive to stimulus driven eﬀects. We also showed that Boldness, but not
+Meanness or Disinhibition, was associated with a reduced tendency to
+dwell on and revisit the eye region. Similarly, Boldness was also asso-
+ciated with longer ﬁrst ﬁxations latencies for the eyes compared with
+the mouth, raising the possibility that these traits are associated with
+impaired automatic attention to the eyes. Our results extend the ﬁnding
+of psychopathy related diﬀerences in eye scan paths from develop-
+mental samples to incarcerated adult violent oﬀenders, and highlight
+the utility of the triarchic conceptualization of psychopathy (Patrick
+et al., 2009), in particular Boldness traits, for understanding emotion
+processing impairments in forensic samples. Our ﬁndings also lend
+support to models of psychopathy that emphasise the diﬀerential eﬀects
+of processing distinct psychopathic features on emotion processing
+(Fowles & Dindo, 2009).
+
+
+Acknowledgements
+

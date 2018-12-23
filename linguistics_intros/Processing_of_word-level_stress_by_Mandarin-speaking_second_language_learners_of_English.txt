@@ -1,0 +1,2212 @@
+Applied Psycholinguistics 38 (2017), 541–570
+doi:10.1017/S0142716416000321
+
+Processing of word-level stress by
+Mandarin-speaking second language
+learners of English
+
+ZHEN QIN, YU-FU CHIEN, and ANNIE TREMBLAY
+University of Kansas
+
+Received: October 1, 2015
+
+Accepted for publication: June 11, 2016
+
+ADDRESS FOR CORRESPONDENCE
+Zhen Qin, Department of Linguistics, University of Kansas, 1541 Lilac Lane, Blake Hall, Room 427,
+Lawrence, KS 66045-3129. E-mail: qinzhenquentin2@ku.edu
+
+ABSTRACT
+This study investigates whether second language learners’ processing of stress can be explained by
+the degree to which suprasegmental cues contribute to lexical identity in the native language. It
+focuses on Standard Mandarin, Taiwan Mandarin, and American English listeners’ processing of
+stress in English nonwords. In Mandarin, fundamental frequency contributes to lexical identity by
+signaling lexical tones, but only in Standard Mandarin does duration distinguish stressed–unstressed
+and stressed–stressed words. Participants completed sequence-recall tasks containing English disyl-
+labic nonwords contrasting in stress. Experiment 1 used natural stimuli; Experiment 2 used resyn-
+thesized stimuli that isolated fundamental frequency and duration cues. Experiment 1 revealed no
+difference among the groups; in Experiment 2, Standard Mandarin listeners used duration more than
+Taiwan Mandarin listeners did. These results are interpreted within a cue-weighting theory of speech
+perception.
+
+The ﬁrst language (L1) is often claimed to be responsible for second language (L2)
+learners’ (in)ability to process particular sounds in the target language. However,
+the conditions under which the L1 facilitates or inhibits the learning of new sounds
+are unclear, especially in the suprasegmental domain. Theoretical models such as
+Flege’s (1995) speech learning model and Best’s (1995) perceptual assimilation
+model predict L2 learners’ performance based on the phonetic similarity between
+L1 and L2 sounds. However, most of the evidence in support of these (and other)
+L2 speech perception models comes from studies that focus on consonants (e.g.,
+Best, McRoberts, & Goodell, 2001; Best, McRoberts, & Sithole, 1988; Flege &
+Hillenbrand, 1986; Flege, Munro, & Mackay, 1995; Flege, Takagi, & Mann, 1996)
+and vowels (e.g., Flege, 1987; Flege, Bohn, & Jang, 1997; Flege, Munro, & Fox,
+1994; Fox, Flege, & Munro, 1995). L2 learners’ processing of suprasegmental
+information has been the focus of less research, and it is therefore less well
+understood.
+
+© Cambridge University Press 2016 0142-7164/16
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+542
+
+Studies have shown that whether suprasegmental cues contribute to distinguish-
+ing among words in the L1, and how they do so, inﬂuences L2 learners’ use of
+these cues in the L2 (for discussion, see Cutler, 2012). Existing L2 studies on
+lexical tones have shown that how different aspects of fundamental frequency (F0;
+e.g., pitch direction and pitch height) signal lexical identity in the L1 largely de-
+termines how L2 learners perceive and process tones in the target language (e.g.,
+Francis, Ciocca, Ma, & Fenn, 2008; Hall´e, Chang, & Best, 2004; Leather, 1987;
+Lee, Vakock, & Wurm; 1996; Stagray & Downs, 1993; Wang, Spence, Jongman,
+& Sereno, 1999; Wayland & Guion, 2004). By contrast, previous research on
+the perception and processing of stress has focused on the degree of similarity
+or difference between the L1 and L2 stress systems (i.e., whether or not stress
+falls on the same syllable vs. on different syllables across words; Dupoux, Pal-
+lier, Sebasti´an, & Mehler, 1997; Dupoux, Peperkamp, & Sebasti´an-Gall´es, 2001;
+Dupoux, Sebasti´an-Gall´es, Navarrete, & Peperkamp, 2008; Peperkamp & Dupoux,
+2002; Peperkamp, Vendelin, & Dupoux, 2010; Tremblay, 2008, 2009), and not so
+much on the speciﬁc suprasegmental cues (e.g., F0, duration, and intensity) that
+instantiate stress in the L1 versus the L2 (but see Cooper, Cutler, & Wales, 2002;
+Lin, Wang, Idsardi, & Xu, 2014; Ortega-Llebaria, Hong, & Fan, 2013; Zhang &
+Francis, 2010). Hence, it is unclear whether the L2 processing of word-level stress
+is determined by how suprasegmental cues contribute to lexical identity in the L1.
+The present study sheds further light on this question by investigating L2 learn-
+ers’ use of F0 and duration cues in the processing of word-level stress. More
+speciﬁcally, this study examines whether a cue-weighting theory of speech per-
+ception (e.g., Francis & Nusbaum, 2002; Holt & Lotto, 2006; Ingvalson, Holt,
+& McClelland, 2011; Zhang & Francis, 2010) can explain L2 learners’ ability
+to process word-level stress. It does so by comparing the processing of stress in
+L2 learners of English who speak Standard Mandarin (SM) or Taiwan Mandarin
+(TM) as L1 dialects and who are at a similar proﬁciency in English. As will be
+shown below, SM, but not TM, instantiates word-level stress with the use of du-
+ration. This study investigates whether native SM and native TM listeners who
+have learned English as L2 differ in their ability to use duration as a cue to stress.
+An additional contribution of this study is that it investigates the effect of the L1
+dialect on L2 learners’ use of suprasegmental cues to stress.
+
+L2 PERCEPTION AND PROCESSING OF WORD-LEVEL STRESS
+
+Stress is lexically contrastive in languages such as English, Dutch, and Spanish.
+For instance, in English, record (noun) and record (verb) form a minimal pair with
+respect to stress placement. By contrast, languages such as French or Finnish do
+not have word-level stress. To illustrate, in French, the ﬁnal syllable of the last
+word in a phrase is accented, with this accent functioning as a boundary marker
+for words or phrases (e.g., Jun & Fougeron, 2000, 2002; Vaissi`ere, 1991; Welby,
+2006) but not distinguishing among segmentally identical words. Languages thus
+differ in whether or not stress contributes to lexical identity.
+
+Native speakers of languages that have contrastive stress have little difﬁculty
+encoding stress in L2 words or in nonwords. Using four cross-modal priming ex-
+periments and two forced-choice identiﬁcation experiments, Cooper et al. (2002)
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+543
+
+showed that Dutch-speaking L2 learners of English, who use stress to recognize
+Dutch words, were quite successful at using the suprasegmental cues of English
+stress to recognize English words. Similarly, Dupoux and colleagues have shown
+that native Spanish listeners are successful in distinguishing and recalling non-
+words that differ in stress (Dupoux et al., 2001, 2008; Peperkamp et al., 2010).
+
+In contrast, native speakers of languages that do not have contrastive stress have
+difﬁculty processing word-level stress. Using a sequence-recall task, Dupoux and
+colleagues showed that native French-speaking listeners, but not native Spanish-
+speaking listeners, had difﬁculty encoding stress when listening to nonwords
+(Dupoux et al., 2001; Peperkamp & Dupoux, 2002). To explain these ﬁndings,
+they proposed that listeners’ (in)ability to distinguish stress contrast is determined
+by whether, within the ﬁrst 2 years of life, they set the stress parameter to encode
+stress in their phonological representation of lexical words (Peperkamp, 2004;
+Peperkamp & Dupoux, 2002). For languages without contrastive stress (e.g.,
+French), infants are predicted to observe stress regularity across words and thus
+not encode stress in their mental lexicon, which was considered the cause of their
+so-called stress deafness. This stress deafness was observed not only in native
+French-speaking listeners but also in proﬁcient French-speaking L2 learners of
+Spanish (Dupoux et al., 2008) and in simultaneous French–Spanish bilinguals
+who were French dominant (Dupoux, Peperkamp, & Sebasti´an-Gall´es, 2010).
+This suggests that for L2 learners who do not have contrastive stress in their
+dominant language, the difﬁculty in processing word-level stress is very robust.
+
+Recent studies indicate that the mechanism underlying stress processing may not
+operate in an all or none fashion. Subtle differences between L1 and L2 prosodic
+systems can also inﬂuence L2 learners’ processing of stress (e.g., Tremblay, 2008,
+2009). For instance, Tremblay (2008) found that not all French-speaking L2 learn-
+ers were “stress-deaf”; in her study, several French Canadian L2 learners of English
+were able to use the stress contrast to distinguish between competing L2 word
+candidates. One possible explanation for the discrepancy between the ﬁndings
+of Tremblay and those of Dupoux and colleagues, in addition to methodological
+differences between the two sets of studies, is that speakers of Canadian French
+may have less difﬁculty than speakers of European French in using stress contrast
+for L2 lexical access because of the greater contrast between strong and weak syl-
+lables in Canadian French as compared to European French (for a discussion, see
+Tremblay, 2008, 2009). Another possible explanation is that speakers of Canadian
+French may have less difﬁculty using stress contrast for L2 lexical access because
+the speciﬁc suprasegmental cues that signal English stress (e.g., F0, duration, and
+intensity) may be used more in Canadian French than in European French.
+
+In the realm of L2 speech perception, empirical research has demonstrated that
+surface phonetic details can play an important role in determining the difﬁculties
+that L2 learners may experience in L2 speech perception. The cue-weighting
+theory of speech perception (e.g., Francis et al., 2008; Francis & Nusbaum, 2002;
+Gandour, 1983; Holt & Lotto, 2006; Ingvalson et al., 2011; Zhang & Francis,
+2010) highlights the importance of these phonetic details, as it is concerned with
+how acoustic cues that signal a speciﬁc contrast are weighed in different languages
+and how differences in this weighting affect L2 speech perception and processing.
+According to this theory, speech perception is multidimensional, and acoustic
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+544
+
+cues are weighed differently across categories and across languages. Although
+multiple cues are simultaneously available to listeners, these cues are not weighed
+equally, and they often have “trading relations” (e.g., Repp, 1982), with increased
+sensitivity to one cue being accompanied by decreased sensitivity to another cue.
+Listeners from different language backgrounds tune in to different acoustic cues
+in the same stimuli depending on how these cues are used to signal a contrast in
+the L1.
+
+A clear example of the relevance of cue weighting exists for the perception of /l/
+and /ɹ/ by Japanese L2 learners of English, as illustrated in Iverson, Kuhl, Akahane-
+Yamada, Diesch, Tohkura, Kettermann, and Siebert (2003). Prior studies had found
+that Japanese listeners had great difﬁculty distinguishing between English /l/ and
+/ɹ/ (Bradlow, Pisoni, Yamada, & Tohkura, 1997; Lively, Logan, & Pisoni, 1993;
+Logan, Lively, & Pisoni, 1991; Yamada, 1995). In their comparison of native
+English listeners and Japanese- and German-speaking L2 learners of English,
+Iverson et al. (2003) showed that English listeners discriminated the native /l/–/ɹ/
+contrast using the third formant (F3). In contrast, Japanese listeners were more
+sensitive to the second formant (F2) than to F3, probably because the Japanese
+liquid is perceptually more similar to English /l/, which is often cued by a low
+F2, than to English /ɹ/, which is often cued by a low F3 (e.g., Aoyama, Flege,
+Guion, Yamada, & Akahane-Yamada, 2004). Because Japanese listeners did not
+pay sufﬁcient attention to F3, they found it difﬁcult to perceive the English contrast.
+Although German /ʁ/ differs from English /ɹ/, German listeners, unlike Japanese
+listeners, were able to distinguish English /l/ and /ɹ/ because of their sensitivity
+to F3. Japanese listeners’ perceptual difﬁculty was attributed to their sensitivity
+to unhelpful F2 information, whereas German listeners’ perceptual sensitivity
+was attributed to their sufﬁcient attention to F3, a critical cue for distinguishing
+English /l/ and /ɹ/ (for a model that similarly predicts L2 learners’ perception
+of L2 categories on the basis of the mapping between L1 phonetic cues and the
+corresponding L1 categories, see Escudero, 2005, 2009; Escudero & Boersma,
+2004).
+
+Like segments, multiple suprasegmental cues (i.e., F0, duration, and intensity)
+contribute to the realization of word-level stress (e.g., Beckman, 1986; Fry, 1955;
+Lieberman, 1961) and more generally to lexical identity (e.g., in lexical tones;
+Chao, 1968; Duanmu, 2007). Moreover, languages with word-level stress differ
+in the extent to which suprasegmental cues contribute relevant information for
+lexical access. For instance, native English listeners have been shown to make
+limited use of suprasegmental cues to stress, as English stress is also signaled
+by segmental information (full vs. reduced vowels); as a result, English listeners’
+word recognition is not inhibited by errors in stress placement unless these errors
+result in segmental (i.e., vowel quality) changes in the word (Braun, Lemh¨ofer,
+& Mani, 2011; Cutler, 1986; Cutler & Clifton, 1984; Cutler, Wales, Cooper, &
+Janssen, 2007; Fear, Cutler, & Butterﬁeld, 1995; Small, Simon, & Goldberg,
+1988). Likewise, native English listeners rely less on suprasegmental cues to
+English stress than do Dutch-speaking L2 learners of English, because vowel
+reduction is more frequent in English than in Dutch (Cooper et al., 2002; Cutler
+et al., 2007). This suggests that the language-speciﬁc weighting of cues to English
+stress affects how listeners from different language backgrounds process it.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+THE PRESENT STUDY
+
+545
+
+The present study further investigates whether the L2 learners’ processing of stress
+is determined by the degree to which individual suprasegmental cues contribute to
+lexical identity in the L1. It does so by focusing on an L1-L2 pairing that has been
+the object of relatively little research: Mandarin-speaking L2 learners of English
+(but see Chrabaszcz, Win, Lin, & Idsardi, 2014; Lin et al., 2014; Wang, 2008;
+Zhang & Francis, 2010). Suprasegmental cues have a greater functional load in
+Mandarin than in English, because Mandarin words with different lexical tones
+(signaled primarily by F0 cues) have different meanings (e.g., [m¯a] “mother,” [m´a]
+“hemp,” [mˇa] “horse,” and [m`a] “scold”; Chao, 1968; Duanmu, 2007)1 ; although
+English has word-level stress, it has few words that can be distinguished only in
+the suprasegmental cues to stress (e.g., trusty vs. trustee; Cutler, 1986; Cutler &
+Clifton, 1984).
+
+Two target Mandarin varieties, SM and TM, are the focus of the present study.
+SM is based on the Beijing dialect (i.e., Putonghua) and spoken by the people
+of Mainland China, whereas TM is spoken by the people of Taiwan and, thus,
+inﬂuenced by Taiwanese (i.e., Southern Min). Because SM and TM share the
+above tonal system, they both use F0 as the primary suprasegmental cue to lexical
+identity (e.g., Howie, 1976; Liu & Samuel, 2004). Although duration is a secondary
+cue to lexical tones in Mandarin, it is much less reliable than F0 to signal word
+identity, because the duration of the tone is affected by its position in the word
+and in the sentence (e.g., Howie, 1976; Lai, Sui, & Yuan, 2010; Liu & Samuel,
+2004; Nordenhake & Svantesson, 1983; Shen, 1993). For instance, tones have
+shorter durations in non–word-ﬁnal than in word-ﬁnal positions, and they have
+shorter durations in non–phrase-ﬁnal than in phrase-ﬁnal positions (Nordenhake
+& Svantesson, 1983; Shen, 1993); yet Chinese listeners recognize them despite
+this variability in duration.
+
+It is important to note that SM and TM differ in the extent to which duration
+signals lexical identity, because only SM has word-level stress, and the primary
+suprasegmental cue to stress contrasts is precisely duration. SM has a stress
+pattern that contrasts stressed–stressed and stressed–unstressed disyllabic words
+(e.g., respectively, ['tʊ̄ ŋ'ɕī] “west and east” vs. ['tʊ̄ ŋɕi] “stuff,” both written as
+͈㺫; Chao, 1968; Duanmu, 2007). The second syllable of stressed–unstressed
+words (e.g., ['tʊ̄ ŋɕi]) is consistently shorter than the second syllable of stressed–
+stressed words (e.g., ['tʊ̄ ŋ'ɕī]; Chen & Xu, 2006; Lee & Zee, 2010; Lin, 1985;
+Lin & Yan, 1980). Duration is thus a robust cue, hence the primary perceptual
+cue, to this stress contrast (e.g., Lin, 1985). The second syllable of stressed–
+unstressed words also carries a neutral tone that can vary in F0 depending on
+the lexical tone carried by the preceding syllable: the F0 contour of the neu-
+tral tone can be characterized as midfalling after a high-level tone, high falling
+after a rising tone, midlevel after a dipping tone, and low falling after a high
+falling tone (Lee & Zee, 2010). F0 is thus a secondary cue to this stress con-
+trast (Lin, 1985). Although unstressed syllables in Standard Mandarin are also
+reduced, vowel reduction has not been deemed important as a cue to Mandarin
+stress, at least as compared to English stress (e.g., Lin, 1985; Zhang & Francis,
+2010).
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+546
+
+By contrast, TM does not have this stress distinction: disyllabic words have
+the stressed–stressed pattern, and the second syllable of disyllabic words is not
+reduced (e.g., ['tʊ̄ ŋ'ɕī] “west and east” vs. ['tʊ̄ ŋ'ɕī] “stuff,” both written as Ო
+㺫; Kubler, 1985; Swihart, 2003). Unlike in SM, the second syllable of ['tʊ̄ ŋ'ɕī]
+“stuff” is not shorter than the second syllable of ['tʊ̄ ŋ'ɕī] “west and east” in TM,
+and the second syllable of the two words do not differ in intensity either (Huang,
+2011, 2012). As the second syllable of disyllabic words in TM is not reduced,
+the neutral tone carried by this second syllable does not vary in F0 depending
+on the lexical tone carried by the preceding syllable; this neutral tone often has a
+low F0 regardless of the preceding tone (Huang, 2011, 2012). Hence, given the
+absence of stressed–unstressed words in TM, duration appears to be a relatively
+less important cue to lexical identity in TM than it is in SM.
+
+Existing L2 studies on Mandarin listeners’ processing of English stress have
+yielded mixed ﬁndings. Using a forced-choice word class identiﬁcation task (e.g.,
+DEsert as noun vs. deSERT as verb), Zhang and Francis (2010) found that
+Mandarin-speaking L2 learners of English from Mainland China but tested in
+the United States, who were a middle to high proﬁciency level (i.e., 7 as an aver-
+age self-evaluation score in a 10-point scale), relied more on vowel quality (i.e.,
+F1–F3) than on suprasegmental cues to English stress and did not differ from
+native English listeners in their use of F0 and duration cues. However, using a
+forced-choice English stress identiﬁcation task (i.e., stress on ﬁrst syllable vs. sec-
+ond syllable), Wang (2008) found that Mandarin-speaking L2 learners of English
+from Mainland China and tested in China (whose English proﬁciency was not
+reported) did not rely on segmental cues and used only F0 as a cue to English
+stress. These inconsistent ﬁndings may stem in part from the potentially different
+proﬁciencies of the L2 learners that were tested. Speciﬁcally, the L2 learners who
+lived in the United States (Zhang & Francis, 2010) may have been more proﬁcient
+than those who lived in China (Wang, 2008).
+
+Lin et al. (2014) remedied this problem by examining the processing of English
+stress in proﬁciency-matched SM- and Korean-speaking L2 learners of English.
+Unlike English and SM, Korean does not have word-level stress (Jun, 2005; Sohn,
+1999). Participants completed a sequence-recall task (Experiment 1) and a lexical
+decision task (Experiment 2); in the latter, words were selected such that their
+incorrect stress placement affected (humane as /'hjumən/ vs. /hjə'mejn/) or did not
+affect (e.g., enough as /'ɪnʌf/ vs. /ɪ'nʌf/) vowel quality. The results of Experiment
+1 revealed that the Mandarin group had an advantage over the Korean group in
+encoding stress in English nonwords. The results of Experiment 2 showed that
+vowel quality did not affect stress processing in either L2 group. These results
+suggest that suprasegmental cues to stress (including F0 and duration, which were
+not isolated in this study) enhanced stress processing only in the group for which
+these cues signaled lexical identity in the L1 (e.g., the SM group).
+
+However, no research (to our knowledge) to date has investigated whether L2
+learners whose L1 does not have word-level stress (e.g., TM) can transfer the use
+of a suprasegmental cue (here, F0) from a different phonological category (i.e.,
+lexical tones) to word-level stress in the L2. Furthermore, it is unclear whether
+L2 learners differ in their ability to use a particular suprasegmental cue to stress
+(here, duration) as a function of the relative weight of that cue in the L1 (e.g.,
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+547
+
+SM vs. TM). The present study examines these issues by investigating SM and
+TM listeners’ use of F0 and duration to encode English stress. In doing so, and
+following recent studies investigating how L1 dialect affects the L2 perception
+of segments (e.g., Chl´adkov´a & Podlipsk´y, 2011; Colantoni, Steele, & Escudero,
+2015; Escudero, Simon, & Mitterer, 2012; Escudero & Williams, 2012; Mayr &
+Escudero, 2010), this study also sheds light on whether the L1 dialect can modulate
+L2 learners’ encoding of English stress.
+
+Following previous research on the processing of stress (Dupoux et al., 2001,
+2008), this study uses sequence-recall experiments in which listeners listen to
+and encode sequences of words that differed in stress pattern. Dupoux et al.
+(2001) have proposed that the sequence-recall task provides a more robust method
+to study the processing of stress, because it requires listeners to encode stress in
+acoustically variable stimuli and discourages response strategies given the memory
+load it imposes on listeners. In the task, participants ﬁrst learn to encode a stress
+distinction (e.g., 'numi = 1; nu'mi = 2); then they hear sequences of nonwords that
+vary in stress pattern and must accurately encode the stress pattern of each nonsense
+word in the sequence (e.g., 'numi, nu'mi, 'numi, nu'mi = 1212). Sequence-recall
+tasks can thus assess whether nonnative listeners can encode acoustically variable
+word-level stress together with the segmental content of the words.
+
+Our participants completed two such tasks. The ﬁrst sequence-recall task con-
+tained naturally recorded English nonwords (Experiment 1), and the second se-
+quence recall task contained resynthesized English nonwords (Experiment 2).
+Experiment 1 served to establish a baseline in listeners’ processing of word-level
+stress when F0 and duration cues naturally co-occurred.2 Experiment 2 examined
+how listeners use F0 and duration cues when these cues are isolated or pitted
+against each other.
+
+METHOD
+
+The two experiments took place consecutively, with a short break (approximately
+5 min) in between. Experiment 1 was conducted before Experiment 2 in order to
+establish baseline results with natural stimuli and because the former was easier
+(F0 and duration cues converged) than the latter (F0 and duration converged in
+only one of four conditions). The same participants completed both Experiments
+1 and 2.
+
+Participants
+Thirty L2 learners of English who spoke either SM (n = 15) or TM (n = 15) as
+their L1 and 15 native English listeners participated in this study. The English- and
+SM-speaking participants were undergraduate and graduate students who studied
+at a Midwestern American university. Because it was difﬁcult to ﬁnd enough TM-
+speaking participants at the institution where the present research took place, 9 of
+the 15 TM-speaking learners were recruited and tested in Taiwan.
+
+A questionnaire was used to collect biographical and language experience infor-
+mation about the participants. This questionnaire revealed that the great majority
+of our SM-speaking and TM-speaking participants did not know other Chinese
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+Table 1. Participants’ language background information
+
+548
+
+First Language
+
+English (n = 15)
+Standard Mandarin (n = 15)
+Taiwan Mandarin (n = 15)
+
+Age
+(years)
+
+Gender
+(F/M)
+
+AOE
+(years)
+
+LOR
+
+(months)
+
+Cloze Test
+
+(/50)
+
+21.3 (3.9)
+24.2 (4.0)
+25.7 (3.4)
+
+8/7
+5/10
+10/5
+
+Birth
+
+10.9 (1.8)
+9.8 (2.7)
+
+—
+
+13 (12.3)
+15 (27.7)
+
+—
+
+32 (6.3)
+27 (11.7)
+
+Note: Values are means (standard deviations), except for gender. AOE, Age of ﬁrst expo-
+sure to English; LOR, length of residence in English-speaking countries.
+
+languages.3 All of the SM-speaking participants and 8 of the 15 TM-speaking par-
+ticipants had spent at least 1 month in an English-speaking country. No participant
+reported having any speech or hearing impairment.
+
+A cloze (i.e., ﬁll in the blank) test (Brown, 1980) was used to assess the L2 learn-
+ers’ proﬁciency in English. One advantage of using a written cloze test rather than
+an aural/oral proﬁciency test is that it avoids potentially circular argumentation
+by tapping into a set of language skills that are known to be highly predictive of
+general proﬁciency but that differ from the skills used in the present phonological
+processing experiment (e.g., performance on an aural/oral comprehension experi-
+ment is likely to be inﬂuenced by listeners’ ability to perceive and produce English
+stress). The particular cloze test that the L2 learners completed (Brown, 1980) was
+administered for a few years as part of the Guangzhou English Language Test at
+the Guangzhou English Language Center (Guangdong, China), and later as part
+of the English Language Institute Placement Test at the University of Hawai‘i
+(J. D. Brown, personal communication, April 28, 2007). Because it has been the
+object of much research (for details, see Brown, 1980), the test is regarded as a
+valid and reliable measure of global English proﬁciency. The maximum number
+of correct responses on the test was 50. The L2 learners’ responses on the test
+were considered accurate so long as they were acceptable, as determined by a
+list of answers that were considered acceptable when the test was administered
+as part of the English Language Institute Placement Test at the University of
+Hawai‘i.
+
+The participants’ biographical, language background, and proﬁciency informa-
+tion is provided in Table 1. Analyses of the L2 learners’ cloze test scores and
+length of residence in English-speaking countries revealed a signiﬁcant positive
+correlation (r = .472, n = 30, p < .008), indicating that the L2 learners were more
+proﬁcient in English if they spent a longer amount of time in English-speaking
+countries. Comparisons of the two groups of L2 learners revealed no signiﬁcant
+difference between them in their age of acquisition of English, t (28) = 1.362, p >
+.1, length of residence in English-speaking countries, t (19.3) = –0.255, p > .1, or
+proﬁciency in English, t (21.5) = 1.464, p > .1.4 Despite this lack of difference,
+the fact that some of the TM listeners lived in Taiwan at the time of testing may
+raise concerns as to whether the TM listeners were as proﬁcient in English as the
+SM listeners. To factor out possible proﬁciency effects in our results, we included
+L2 learners’ proﬁciency as a continuous variable in the statistical analyses.5
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+Table 2. Acoustic characteristics of nonwords in Experiment 1
+
+549
+
+F0 (Hz)
+
+Duration (ms)
+
+Word-Initial Stress Word-Final Stress Word-Initial Stress Word-Final Stress
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+Mean 226
+22
+SD
+
+162
+15
+
+1.4
+0.1
+
+174
+7
+
+192
+12
+
+0.9
+0.1
+
+163
+76
+
+293
+26
+
+0.6
+0.3
+
+140
+73
+
+328
+32
+
+0.4
+0.3
+
+Note: σ1, First syllable; σ2, second syllable.
+
+Experiment 1
+
+Materials. The stimuli were minimal pairs of English nonwords that differed
+in stress pattern (e.g., ['fʌði] vs. [fʌ'ði]). The nonwords were created such that
+they would have a consonant–vowel (CV) C1V1C2V2 structure. To ensure that the
+stress stimuli would not have vowel reduction cues to stress and still sound like
+English words, /ɪ/, /ʊ/, and /ʌ/ were used in V1 position and [i] was used in V2
+position, because these sounds would not be reduced to schwas as a function of
+stress placement in English words. To ensure that the consonants would similarly
+not provide segmental cues to stress, only fricatives and voiced stops were used
+in positions of C1 and C2 (e.g., Cho & Keating, 2001; Tremblay, 2009). Twelve
+experimental nonwords were used (for a complete list, see Table A.1 in Appendix
+A).
+
+The experiment also included ﬁller stimuli that differed in their word-initial
+consonant (e.g., [tɪvi] vs. [kɪvi]) to prevent participants from developing stress-
+speciﬁc processing strategies. The ﬁller stimuli always contrasted in the sounds
+/t/ and /k/, and they matched the stress contrast stimuli in their phonological
+structure, with /ɪ/, /ʊ/, and /ʌ/ being used in V1 position and [i] in V2 position.
+To increase the phonetic variability in the stimuli, fricatives (/f/, /v/, /θ/, and /ð/),
+voiced stops (/b/, /d/, and /g/), or sonorants (/m/, /n/, and /l/) were used for the
+sound in C2 position. A total of 12 nonwords were used for the ﬁllers (for a
+complete list, see Table A.2 in Appendix A).6 The inclusion of these ﬁller items
+in the experiment encouraged participants to attend to both suprasegmental and
+segmental information, and allowed us to rule out any effect of L1 dialect on their
+encoding of segmental words.
+
+The nonwords were produced by a female native speaker of American English
+with a Midwestern accent. She read each nonword four times in the carrier sentence
+“Say ___ again.” Two tokens were selected from the four repetitions of each stress
+pattern. The stimuli included a total of 96 tokens: 48 experimental tokens (12
+nonwords × 2 stress patterns × 2 tokens) and 48 ﬁller tokens (12 nonwords ×
+2 segmental contrasts × 2 tokens). Any given sequence (described in the next
+section) never contained the same token twice.
+
+Acoustic measurements of the stress stimuli, provided in Table 2, revealed that
+the nonwords with initial and ﬁnal stress differed signiﬁcantly in the F0 and
+duration ratios of the ﬁrst syllable to the second syllable, F0: t (23) = 17.1,
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+550
+p < .01; duration: t (23) = 5.58, p < .01. It can be noted that both nonwords
+with initial stress and nonwords with ﬁnal stress have a shorter initial syllable than
+ﬁnal syllable due to word-ﬁnal lengthening. The intensity of all the stimuli was
+normalized at 70 dB.
+
+Procedures. The task was conducted using Paradigm software (Perception Re-
+search Systems, 2007). The experimental stimuli were heard together in the same
+block, and the ﬁller stimuli were heard together in a separate block. The sequence-
+recall task had two main phases: a familiarization (or association) phase and a
+testing phase. In the familiarization phase, participants were trained to associate
+1 and 2 (on a keyboard) with word-initial and word-ﬁnal stress (experimental
+stimuli) or with “t” and “k” (ﬁller stimuli). This was done using real words (trusty
+vs. trustee, table vs. cable). Participants received feedback on whether or not
+their responses were correct. After 18 trials, an association test was conducted in
+which participants were required to correctly identify the stress pattern or initial
+consonant they heard (as 1 or 2). The participants were invited to complete the
+testing phase only after receiving an accuracy score equal to or higher than 95%
+on the association test. If the participants did not achieve 95% accuracy, they were
+required to take the familiarization task again, up to two more times. Given the
+transparency of the familiarization phase, 40 of the 45 participants reached the
+accuracy criterion in their ﬁrst attempt, and the 5 participants who were required to
+take the task again reached the accuracy criterion within three attempts. The train-
+ing took 10–20 min depending on whether the participants reached the accuracy
+criterion on their ﬁrst attempt.
+
+In the testing phase, participants were asked to recall sequences of four tokens by
+pressing 1 and 2 in the correct order. For the experimental stimuli, each sequence
+included two tokens with word-initial stress and two tokens with word-ﬁnal stress
+(e.g., [fʌ'ði] ['fʌði] ['fʌði] [fʌ'ði]). For the ﬁller stimuli, each sequence included
+two tokens with word-initial /t/ and two tokens with word-initial /k/ (e.g., [tɪvi]
+[kɪvi] [kɪvi] [tɪvi]). Six different token orders (i.e., [1122], [2211], [1212], [1221],
+[2121], [2112]) were used for the sequences of nonwords. The six orders were
+used to counterbalance the number of nonwords with initial and ﬁnal stress or with
+initial /t/ and /k/ within a sequence. Sequences with identical stress patterns or
+initial consonants (i.e., [1111], [2222]) were not used because there was no change
+in the sequences; thus, such trials might be much easier than other trials (Dupoux
+et al., 2001). Sequences with three identical stress patterns or initial consonants
+(i.e., [1112], [1121], [1211], [2111], [1222], [2122], [2212], [2221]) were also not
+used to keep the task relatively short. As will be shown in the Results section,
+despite the limited number of patterns to be recalled, listeners did not perform well
+on the task, indicating that the task was difﬁcult. The order of sequences and of
+tokens within each sequence was randomized across participants. The experiment
+included a total of 72 experimental trials (12 nonwords × 6 orders) and 72 ﬁller
+trials (12 nonwords × 6 orders). The experimental and ﬁller trials were heard in
+different blocks.
+
+At the beginning of each trial, participants saw the visual prompt “next trial.”
+Then they heard the four nonwords, each separated by an interstimulus interval
+of 50 ms, as in previous research (e.g., Dupoux et al., 2001, 2008). The last
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+551
+
+interstimulus interval in the sequence was followed by the auditory prompt “OK”
+in another female voice to prevent participants from using echoic memory to
+recall the sequences. The intertrial interval was 1500 ms. Participants completed
+a practice session of 12 sequences to ensure that they understood how to carry out
+the task before the actual experiment. The experiment took 20–30 min to complete.
+
+Data analysis and predictions. Logit mixed-effects models were conducted on
+the participants’ sequence-encoding accuracy. The models were ﬁtted in R using
+the lmer function from the lme4 package for mixed-effects models (for discussion,
+see Baayen, 2008).
+
+The ﬁrst two analyses focused on participants’ accuracy with stimuli that dif-
+fered in stress. A ﬁrst model analyzed the sequence-encoding accuracy of the three
+groups, with L1 (English, SM, and TM; baseline = English) as ﬁxed effect and
+with participant, test item, trial order, and sequence order (e.g., [1122], [2211])
+as crossed random effects. A second model analyzed the sequence-encoding ac-
+curacy of only the L2 groups, with L1 dialect (SM and TM; baseline = SM), L2
+proﬁciency (centered cloze test scores, obtained by subtracting the cloze test mean
+[across participants] from the raw cloze test score, to reduce multicollinearity in the
+model), and their interaction as ﬁxed effects, and with participant, test item, trial or-
+der, and sequence order as crossed random effects. The last two analyses were iden-
+tical to the ﬁrst two, but they were instead performed on participants’ sequence-
+encoding accuracy on test items that differed in their initial consonant (i.e., the
+ﬁller items). For each analysis, ﬁxed effects were removed from the initial (i.e.,
+most complex) model one at a time, and model comparisons were run in pairwise
+fashion to determine if the more complex model accounted for signiﬁcantly more
+of the variance, as determined by log-likelihood ratio tests. We report the simplest
+model that accounted for signiﬁcantly more of the variance than simpler models.
+Whether TM listeners differ from SM listeners in their ability to process English
+stress in Experiment 1, where the F0 and duration cues coincide, depends on
+whether or not these cues are additive in the processing of English stress. If
+they are, TM-speaking L2 learners of English should be less accurate than SM-
+speaking L2 learners of English at encoding English stress, because TM listeners
+are expected to be less reliant on duration as a cue to lexical identity as compared
+to SM listeners. If, in contrast, cues to stress are not additive, and if TM listeners
+can transfer the use of F0 cues to word identity from the lexical tones in TM to
+word-level stress in English, then TM and SM listeners should perform similarly
+on the task, because F0 is the primary cue to lexical tones and thus signals lexical
+identity in both languages.
+
+Results. The accuracy of the participants’ sequence encoding for stimuli that
+differed in stress pattern is shown in Figure 1.
+
+The best logit mixed-effects model on all the participants’ accuracy was a model
+that did not include any ﬁxed effect (i.e., adding L1 to the model did not improve
+it). This indicates that neither the SM group nor the TM group differed from the
+English group in their encoding of stress in English nonwords.
+
+Similarly, the best logit mixed-effect models on the L2 learners’ accuracy did
+not include any ﬁxed effect (i.e., adding L1 dialect and/or L2 proﬁciency to the
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+552
+
+)
+
+%
+
+(
+ 
+y
+c
+a
+r
+u
+c
+c
+A
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+English
+
+Standard Mandarin Taiwan Mandarin
+
+Figure 1. Participants’ sequence-encoding accuracy (standard errors) in the experimental stim-
+uli in Experiment 1.
+
+)
+
+%
+
+(
+ 
+
+y
+c
+a
+r
+u
+c
+c
+A
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+English
+
+Standard Mandarin Taiwan Mandarin
+
+Figure 2. Participants’ sequence-encoding accuracy (standard errors) in the ﬁller stimuli in
+Experiment 1.
+
+model did not improve it). This indicates that SM and TM listeners did not differ
+from each other in their processing of stress, and L2 proﬁciency (as measured by
+the cloze test) did not inﬂuence their performance on the task. Hence, all three
+groups patterned similarly in the processing stress in English nonwords.7
+
+The accuracy of the participants’ sequence encoding for stimuli that differed in
+their initial consonant is shown in Figure 2. The best logit mixed-effects model on
+all the participants’ accuracy included L1 as ﬁxed effect. This model is summarized
+in Table 3. The results of this analysis suggests that the English group outperformed
+the SM and TM groups in their encoding of /t/ and /k/ in English nonwords.
+However, the best logit mixed-effect model on the L2 learners’ accuracy did not
+include any effect, indicating that SM and TM listeners did not differ from each
+other in their processing of /t/ and /k/ in English nonwords.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+553
+
+Table 3. Logit mixed-effects model on all participants’ accuracy
+on ﬁller stimuli for Experiment 1
+
+Variable
+
+Est.
+
+SE
+
+z
+
+p
+
+2.1
+–1.4
+–1.1
+
+Intercept
+<.001
+L1 (SM)
+<.01
+L1 (TM)
+<.01
+Note: The English group’s performance was the baseline; df= 3015.
+L1, First language; SM, Standard Mandarin; TM, Taiwan Mandarin.
+
+0.39
+0.49
+0.49
+
+5.3
+–2.6
+–2.6
+
+Discussion. The results revealed no signiﬁcant difference in performance be-
+tween any of the groups in their encoding of stress in English nonwords. This
+indicates that the TM-speaking L2 learners of English encoded English stress as
+well as did native English listeners and SM-speaking L2 learners of English, both
+of whom have word-level stress in their L1. The results also showed that the SM
+and TM listeners did not differ from each other but performed less accurately
+than English listeners when encoding word-initial /t/ and /k/. The lower segmental
+accuracy of the L2 groups as compared to native English listeners may be due
+to differences between English and Mandarin in their phonetic realizations of the
+target segments (e.g., English /t/ is alveolar whereas Mandarin /t/ is dental) and
+possibly in their phonotactics (e.g., the lax vowels following /t/ and /k/ in the
+stimuli are not permitted in Mandarin).
+
+The lack of signiﬁcant difference between TM listeners and SM (and English)
+listeners in the experimental condition indicates that TM listeners were not at a
+disadvantage as compared to SM listeners when processing English stress. If TM
+listeners are less reliant on duration cues to lexical identity than SM listeners, as
+we predicted from the weighting of suprasegmental cues in their L1, then these
+results might suggest that the F0 cues were sufﬁcient for TM listeners to be able
+to process English stress. Listeners’ independent use of F0 and duration cannot,
+however, be assessed without isolating these cues in experimental stimuli.
+
+Experiment 2 used resynthesized stimuli in which F0 and duration were manip-
+ulated in order to determine whether TM and SM listeners differ from each other
+in their use of F0 and duration cues to English stress.
+
+Experiment 2
+
+Materials. As in Experiment 1, the experimental stimuli were minimal pairs of
+English nonwords that differed only in suprasegmental cues to stress (e.g., ['fʌði]
+vs. [fʌ'ði]). Because voiced stops and fricatives might behave differently in cueing
+stress, only nonwords containing fricative consonants were used in Experiment 2
+to control for the cues provided by the initial consonant. Four nonwords (/sɪvi/,
+/zʊθi/, /fʌði/, and /hʌﬁ/) were selected for resynthesis from the nonwords used in
+Experiment 1. The experimental stimuli included a total of 16 tokens (4 segmental
+nonwords× 2 stress patterns× 2 repetitions). As in Experiment 1, four nonwords
+differing in their word-initial consonant (e.g., [tɪvi] vs. [kɪvi]) were also selected
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+Table 4. Acoustic characteristics of nonwords in Experiment 2
+
+554
+
+F0
+
+Duration
+
+Word-Initial Stress Word-Final Stress Word-Initial Stress Word-Final Stress
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+σ1
+
+σ2 Ratio
+
+Mean 238
+29
+SD
+
+161
+18
+
+1.5
+0.1
+
+175
+8
+
+193
+11
+
+0.9
+0.1
+
+212
+58
+
+292
+23
+
+0.7
+0.2
+
+176
+45
+
+317
+29
+
+0.6
+0.2
+
+Note: σ1, First syllable; σ2, second syllable.
+
+from Experiment 1 as ﬁllers to prevent participants from developing stress-speciﬁc
+processing strategies. The ﬁller stimuli included a total of 16 tokens (4 segmen-
+tal nonword pairs × 2 initial consonants × 2 repetitions). Any given sequence
+(described in the next section) never contained the same token twice.
+
+As shown in Table 4, the experimental nonwords with initial and ﬁnal stress
+differed signiﬁcantly in the F0 and duration ratios of the ﬁrst syllable to the second
+syllable, F0: t (7) = 24.6, p < .01; duration: t (7) = 7.01, p < .01. The values
+in Table 4 are similar to those presented in Table 2, but slightly different in that
+only a subset of the nonwords were included in Experiment 2. The resynthesis
+of the experimental stimuli was done based on the average values reported in
+Table 4.
+The experimental stimuli were resynthesized such that stress would be conveyed
+by both F0 and duration (“F0 + duration cues” condition), by F0 alone (“F0 cue”
+condition), by duration alone (“duration cue” condition), or by conﬂicting F0 and
+duration (“conﬂicting cues” condition). The F0 + duration cues condition serves
+as the baseline, in that it contains two suprasegmental cues that signal stress in
+English nonwords. The F0 cue condition and the duration cue condition serve as
+experimental conditions, with the understanding that their comparison to the F0 +
+duration cues condition reﬂects the degree to which performance becomes more
+impaired upon the removal of, respectively, duration cue or F0 cue. Finally, in the
+conﬂicting cues condition, the F0 and duration cues contradict each other, such
+that a syllable with higher F0 is shorter and a syllable with lower F0 is longer.
+This last condition makes it possible to determine whether listeners weigh one
+cue more than the other when encoding stress patterns. Thus, the conﬂicting cues
+condition speciﬁes the relative importance of F0 and duration cues in listeners’
+encoding of English stress.
+
+Recall that all the stimuli had ﬁrst been normalized for intensity at 70 dB. The
+F0 and duration cues were then manipulated with PSOLA in Praat (Boersma &
+Weenink, 2012) such that the nonwords had the average F0 and/or duration of the
+natural stimuli reported in Table 4. Thus, in the condition where F0 was the only
+cue to stress, the duration of each syllable corresponded to the average duration
+across both syllables and stress patterns (i.e., 249 ms) in Table 4.8 In the condition
+where duration was the only cue to stress, the F0 of each syllable corresponded to
+the average F0 across both syllables and stress patterns (i.e., 189 Hz) in Table 4.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+555
+
+In the condition where both F0 and duration converged, the resynthesized stimuli
+had the exact values reported in Table 4. In the condition where F0 and duration
+conﬂicted, F0 and duration measurements were swapped across stress patterns
+such that the stimuli could be considered as having initial or ﬁnal stress depending
+on whether listeners attended to F0 or duration.
+
+Procedures. The sequence-recall task in Experiment 2 had only a testing phase,
+as the participants completed the familiarization (or association) test in Experiment
+1 and completed Experiment 2 approximately 5 min after Experiment 1. In the
+testing phase, participants were asked to recall sequences of four tokens by pressing
+1 and 2 in the correct order. Each test trial began with the auditory presentation
+of a sequence that included two stress-initial tokens and two stress-ﬁnal tokens
+with the same segments (e.g., [fʌ'ði] ['fʌði] ['fʌði] [fʌ'ði]) or two /t/-initial and two
+/k/-ﬁnal tokens (e.g., [tɪvi] [kɪvi] [kɪvi] [tɪvi]). For the experimental stimuli, each
+sequence consisted of four different tokens from the same cue condition (F0 +
+duration cues, F0 cue, duration cue, or conﬂicting cues). To shorten the duration
+of the experiment, for both experimental and ﬁller stimuli, three of the six possible
+sequences (i.e., [1122], [2211], [1212], [1221], [2121], [2112]) were used for two
+nonwords, and the other three possibilities were used for the other two nonwords.
+The order of sequences and of tokens within each sequence was randomized across
+participants. The experiment included 48 experimental sequences (4 segmental
+nonwords×4 conditions×3 orders) and 48 ﬁller sequences (4 segmental nonword
+pairs×4 repetitions×3 orders). The experimental and ﬁller trials were presented in
+different blocks. The rest of the procedures were identical to those of Experiment
+1. The experiment took 20–25 min to complete.
+
+Data analysis and predictions. The ﬁrst two analyses focused on participants’
+accuracy with stimuli that differed in stress. Logit mixed-effects models were
+conducted on the participants’ sequence-encoding accuracy in the ﬁrst three ex-
+perimental conditions. A ﬁrst model analyzed the accuracy of the three groups,
+with cue condition (F0 + duration cues, F0 cue, and duration cue; baseline = F0 +
+duration cues), L1 (English, SM, and TM; baseline = English), and the interaction
+between the two as ﬁxed effects and with participant, test item, trial order, and
+sequence order (e.g., [1122], [2211], etc.) as crossed random effects. A second
+model analyzed only the L2 learners’ accuracy, with cue condition (F0 + duration
+cues, F0 cue, and duration cue; baseline = F0 + duration cues), L1 dialect (SM
+and TM; baseline = SM), proﬁciency (centered cloze-test scores, as obtained for
+Experiment 1), and all interactions as ﬁxed effects, and with participant, test item,
+trial order, and sequence order as crossed random effects.
+
+The results in the conﬂicting cues condition were analyzed separately because
+they did not yield the same dependent variable as the previous three conditions.
+In this condition, because F0 and duration cues conﬂicted, the stress pattern of
+each word in the sequence could not be unequivocally identiﬁed. Participants’
+responses were therefore coded based on the use of F0 or duration cues to identify
+the stress patterns. For the use of F0, the recalled stress patterns were deemed to be
+“accurate” if the word for which the initial syllable had a higher F0 was identiﬁed
+as 1 and if the word for which the ﬁnal syllable had a higher F0 was identiﬁed as 2.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+556
+
+For the use of duration, the recalled stress patterns were deemed to be “accurate”
+if the word with a longer initial syllable was identiﬁed as 1 and if the word with
+a longer ﬁnal syllable was identiﬁed as 2. The sequence “accuracy” computed on
+the basis of these two different coding thus reﬂect listeners’ consistent use of F0
+versus duration cues to English stress when these two cues are pitted against each
+other.9
+
+Logit mixed-effects models were conducted on the participants’ accuracy in
+the conﬂicting cues condition. A ﬁrst model analyzed all participants’ accuracy
+in their use of F0, with L1 (English, SM, and TM; baseline = English) as ﬁxed
+effect, and with participant, test item, trial order, and sequence order as crossed
+random effects. A second model analyzed L2 learners’ accuracy in their use of F0,
+with L1 dialect (SM and TM; baseline = SM), proﬁciency (centered cloze-test
+scores), and their interaction as ﬁxed effects, and with participant, test item, trial
+order, and sequence order as crossed random effects. A third model analyzed all
+participants’ accuracy in their use of duration, with L1 (English, SM, and TM;
+baseline = English) as ﬁxed effect, and with participant, test item, trial order, and
+sequence order as crossed random effects. Finally, a fourth model analyzed L2
+learners’ accuracy in their use of duration, with L1 dialect (SM and TM; baseline=
+SM), proﬁciency (centered cloze-test scores), and their interaction as ﬁxed effects,
+and with participant, test item, trial order, and sequence order as crossed random
+effects.10 The last two mixed-effects models analyzed participants’ sequence-
+encoding accuracy on the test items that differed in their initial consonant (i.e., the
+ﬁller items), with either L1 (all participants) or L1 dialect (L2 learners) as ﬁxed
+effect.
+
+For each analysis, ﬁxed effects were removed from the initial (i.e., most com-
+plex) model one at a time, and model comparisons were run in pairwise fashion
+to determine if the more complex model accounted for signiﬁcantly more of the
+variance, as determined by log-likelihood ratio tests. We report the simplest model
+that accounted for signiﬁcantly more of the variance than simpler models. When-
+ever L1 or L1 dialect interacted with cue conditions (in the ﬁrst set of analyses),
+subsequent models were performed separately on the native speakers’ and L2
+learners’ accuracy within each cue condition. For all post hoc comparisons, we
+adjusted the alpha level using the Bonferroni correction.
+
+Given the results of Experiment 1, TM listeners are predicted to transfer their
+use of F0 cues from lexical tones in TM to stress in English, even if TM does not
+have word-level stress. If they do so, in the ﬁrst set of analyses, we should not ﬁnd
+signiﬁcant interactions between the effect of the F0 cue (as compared to the F0
++ duration baseline) and the effects of L1 dialect, because F0 is a cue to lexical
+identity in both TM and SM (due to lexical tones). However, if TM listeners are
+less reliant on duration as a cue to lexical identity than SM listeners are, in the
+ﬁrst set of analyses, we should ﬁnd signiﬁcant interactions between the effect
+of the duration cue (as compared to the F0 + duration baseline) and the effect
+L1 dialect, with TM-speaking L2 learners of English showing a larger difference
+between the duration cue condition and the baseline condition than SM-speaking
+L2 learners of English. Furthermore, we may ﬁnd in the second set of results that
+TM listeners make weaker use of duration and stronger use of F0 than SM listeners
+when duration is pitted against F0.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+557
+
+Figure 3. Participants’ sequence-encoding accuracy (standard errors) in the ﬁrst three cue
+conditions in Experiment 2.
+
+Table 5. Logit mixed-effects model on all participants’ accuracy on the
+experimental stimuli for Experiment 2
+
+Variable
+
+Est.
+
+SE
+
+Z
+
+p
+
+Intercept
+>.05
+Cue (F0)
+>.1
+Cue (duration)
+<.001
+L1 (SM)
+>.1
+L1 (TM)
+>.1
+Cue (F0)× L1 (SM)
+>.1
+Cue (duration)× L1 (SM)
+<.001
+Cue (F0)× L1 (TM)
+>.1
+Cue (duration)× L1 (TM)
+<.001
+Note: The English group’s performance in the F0 + duration cue condition was
+baseline; df = 1612. L1, First language; SM, Standard Mandarin; TM, Taiwan
+Mandarin.
+
+0.47
+0.50
+0.27
+0.48
+0.49
+0.34
+0.43
+0.36
+0.86
+
+0.9
+–0.8
+–1.9
+–0.3
+0.5
+0.4
+–1.6
+0.2
+–5.0
+
+<|1|
+
+–5.8
+
+<|1|
+
+1.9
+–1.6
+–7.3
+
+1.0
+1.1
+–3.7
+
+Results. The accuracy of participants’ sequence encoding in the F0 + duration,
+F0, and duration cue conditions is shown for the three groups in Figure 3. The best
+logit mixed-effects model of all three groups’ accuracy in the ﬁrst three prosodic
+cue conditions included L1, cue condition, and their interaction as ﬁxed effects.
+Table 5 summarizes the results of this model. The model revealed signiﬁcant
+effects of suprasegmental cue for the duration cue condition (as compared to the
+F0 + duration cues condition), as well as signiﬁcant interactions between duration
+cue condition and L1 for both the SM and TM groups. This interaction indicates
+that both the SM-speaking and the TM-speaking L2 learners of English showed
+a larger difference between the F0 + duration cues condition and the duration
+cue condition as compared to the English group. In other words, both L2 groups
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+558
+
+Table 6. Logit mixed-effects model on the L2 learners’ sequence-encoding accuracy on
+the experimental stimuli, with the SM group’s performance in the F0 + duration cues
+condition as baseline for Experiment 2
+
+Variable
+
+Est.
+
+SE
+
+z
+
+p
+
+Intercept
+Cue (F0)
+Cue (duration)
+L1 dialect
+L2 proﬁciency
+Cue (F0)× L1 Dialect
+Cue (duration)× L1 Dialect
+Cue (F0)× L2 Proﬁciency
+Cue (duration)× L2 Proﬁciency
+Cue (F0)× L1 Dialect× L2 Proﬁciency
+Cue (duration)× L1 Dialect× L2 Proﬁciency
+Note: df = 1069. L2, Second language; SM, Standard Mandarin; L1, ﬁrst language.
+
+0.6
+–0.4
+–3.4
+0.7
+0.0
+–0.2
+–3.3
+0.0
+0.0
+0.0
+0.0
+
+0.41
+0.41
+0.36
+0.49
+0.05
+0.36
+0.89
+0.01
+0.06
+0.05
+0.09
+
+1.5
+–1.0
+–9.6
+1.5
+<|1|
+<|1|
+–3.7
+<|1|
+<|1|
+<|1|
+<|1|
+
+>.1
+>.1
+<.001
+>.1
+>.1
+>.1
+<.001
+>.1
+>.1
+>.1
+>.1
+
+showed greater difﬁculty than English listeners in encoding stress when stress
+was realized only with duration. The model did not reveal a signiﬁcant effect of
+suprasegmental cue for the F0 cue condition or a signiﬁcant interaction between
+the F0 cue condition and L1 for either the SM group or the TM group. These
+results indicate that both groups of L2 learners differ from native English listeners
+in their use of duration, but not in their use of F0, to encode stress in English
+nonwords.
+
+The best logit mixed-effect model on L2 learners’ accuracy included L1, cue
+condition, L2 proﬁciency, and all interactions as ﬁxed effects. Table 6 summarizes
+the results of this model. The results revealed a signiﬁcant effect of supraseg-
+mental cue for the duration cue condition (as compared to the F0 + duration
+cues condition), as well as a signiﬁcant interaction between suprasegmental cue
+for the duration cue condition and L1 dialect. This interaction indicates that the
+TM-speaking L2 learners of English showed a larger difference between the F0 +
+duration cues condition and the duration cue condition than did the SM-speaking
+L2 learners of English. The model did not reveal a signiﬁcant effect of supraseg-
+mental cue for the F0 cue condition or a signiﬁcant interaction between the F0
+cue condition and L1 dialect. Furthermore, none of the ﬁxed effects involving L2
+proﬁciency were signiﬁcant, suggesting that L2 proﬁciency did not inﬂuence L2
+learners’ performance on the task. These results indicate that both groups of L2
+learners differ from each other in their use of duration, but not in their use of F0,
+to encode stress in English nonwords.
+
+Given the signiﬁcant interaction effects in the previous two models, post hoc
+analyses were conducted to investigate the effects of L1 and L1 dialect separately
+for the F0 + duration cues condition and the duration cue condition. While the
+three groups did not differ from each other in the F0 + duration cues condition (z
+< |1|), they did in the duration cue condition: the native English listeners outper-
+formed both the SM listeners, z (538) = –3.3, p < .001, and the TM listeners, z
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+559
+
+)
+
+%
+
+(
+ 
+e
+u
+c
+ 
+f
+o
+
+ 
+e
+s
+U
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+English
+
+SM
+
+TM
+
+Use of F0
+
+Use of duration
+
+Figure 4. Participants’ use (and standard errors) of fundamental frequency and duration in the
+conﬂicting cues condition in Experiment 2.
+
+(538) = –4.8, p < .001, and the SM listeners outperformed the TM listeners, z
+(359) = –2.8, p < .01.
+
+In summary, the SM-speaking and TM-speaking L2 learners of English pat-
+terned similarly in the use of the F0 to encode stress in English nonwords. However,
+in the condition where only duration signaled stress, the two L2 groups differed
+statistically. Overall, these results suggest that the TM-speaking L2 learners of
+English had more difﬁculty using duration as a cue to stress than the SM-speaking
+L2 learners of English.
+
+The participants’ responses in the conﬂicting cues condition were also analyzed
+to investigate the relative importance of F0 and duration for each group. Figure 4
+shows participants’ accuracy when using F0 or duration as a cue to stress.
+
+The best logit mixed-effects model on all three groups’ accuracy in the use of
+F0 in conﬂicting cues condition did not include L1 as ﬁxed effect (i.e., L1 did not
+signiﬁcantly improve the model). This means that the English listeners did not
+differ from either the SM-speaking L2 learners or the TM-speaking L2 learners in
+their reliance on F0. The best logit mixed-effects model on L2 learners’ accuracy
+in their use of F0 in the cue-conﬂicting condition included L2 proﬁciency, but
+not L1 dialect, as ﬁxed effect (i.e., L1 dialect did not signiﬁcantly improve the
+model). However, the results of this model did not reveal a signiﬁcant effect of
+L2 proﬁciency, z (359) = 1.2, p > .05. This suggests that the two groups of L2
+learners did not differ from each other in their use of F0, and L2 proﬁciency did not
+affect L2 learners’ performance in their use of F0 when it conﬂicted with duration
+in signaling stress.
+
+The best logit mixed-effects model on all three groups’ accuracy in their use
+of duration cue in the conﬂicting cues condition included L1 as ﬁxed effect. The
+results revealed that the English listeners differed from both the SM-speaking L2
+learners, z (538) = –2.0, p < .05, and the TM-speaking L2 learners, z (538) =
+–2.7, p < .01, in their use of duration. The best logit mixed-effects model on L2
+learners’ accuracy in their use of duration in the conﬂicting cues condition did not
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+560
+
+)
+
+%
+
+(
+ 
+y
+c
+a
+r
+u
+c
+c
+A
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+English
+
+Standard Mandarin Taiwan Mandarin
+
+Figure 5. Participants’ sequence-encoding accuracy (and standard errors) in the ﬁller stimuli
+in Experiment 2.
+
+Table 7. Logit mixed-effects model on all participants’
+accuracy on the ﬁller stimuli, with the English group’s
+performance as baseline for Experiment 2
+
+Variable
+
+Est.
+
+SE
+
+z
+
+p
+
+2.5
+–1.2
+–1.2
+
+Intercept
+<.001
+L1 (SM)
+<.01
+L1 (TM)
+<.05
+Note: df = 2028. L1, First language; SM, Standard Mandarin;
+TM, Taiwan Mandarin.
+
+0.47
+0.45
+0.45
+
+5.3
+–2.8
+–2.3
+
+include any ﬁxed effect (i.e., neither L1 dialect nor L2 proﬁciency signiﬁcantly
+improved the model). This means that the two groups of L2 learners did not differ
+from each other in their use of duration cue, and L2 proﬁciency did not affect
+L2 learners’ performance in their use of duration when it conﬂicted with F0 in
+signaling stress.
+
+These results suggest that in the presence of conﬂicting suprasegmental cues,
+both L2 groups prioritized F0 over duration, and did so similarly. This suggests
+that F0 is a stronger cue to lexical identity in both SM and TM, to such a degree
+that differences between the two L2 groups in their relative reliance on duration
+cues did not emerge in the conﬂicting cues condition.11
+
+Finally, the accuracy of the participants’ sequence encoding for stimuli that
+differed in initial consonant is shown in Figure 5. A logit mixed-effects model
+was conducted on all participants’ sequence encoding accuracy with stimuli that
+differed in their initial consonant. This model is summarized in Table 7. The results
+of this analysis suggest that English listeners outperformed SM and TM listeners
+in their encoding of segments (i.e., /t/ vs. /k/) in English nonwords. However, the
+best logit mixed-effect models on L2 learners’ accuracy did not include any ﬁxed
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+561
+
+effect, indicating that SM and TM listeners did not differ from each other in their
+processing of initial /t/ vs. /k/ in English nonwords.
+
+Discussion. The results of the second experiment shed important light on how
+suprasegmental cues to lexical identity in the L1 modulate listeners’ encoding of
+stress in the L2. When stress was signaled with F0 cues (both in the F0 condition
+and in the conﬂicting cues condition), the SM- and TM-speaking L2 learners of
+English did not differ from each other (or from native English listeners). This
+suggests that TM listeners, who do not have word-level stress in their L1 dialect,
+were successful at transferring the use of F0 cues from lexical tones in the L1 to
+stress in the L2. We hypothesize that TM listeners did not differ from SM listeners
+because both Mandarin dialects have lexical tones, which are signaled primarily
+by F0 and play an important role in Mandarin lexical access.
+
+However, when stress was signaled only with duration cues, TM-speaking L2
+learners of English performed less accurately on the task than SM-speaking L2
+learners of English. These results indicate that when cues to stress do not conﬂict,
+L2 learners differ in their ability to use these cues as a function of their relative
+weight in the L1. In SM but not in TM, duration is used to encode a stress
+distinction (i.e., stressed–stressed vs. stressed–unstressed); we hypothesize that
+this use of duration in SM is what allows SM-speaking L2 learners of English to
+encode English stress in the duration condition.
+
+At the same time, both groups of L2 learners performed less accurately than
+native English listeners in the use of duration both when duration cues were
+isolated (duration condition) and when they conﬂicted with F0 cues (conﬂicting
+cues condition). One possibility is that the greater occurrence of vowel reduction
+in English than in Mandarin as well as the use of duration as one of the cues that
+contrasts tense and lax vowels (e.g., /i/ vs. /ɪ/) in English may have led English
+listeners to be generally more sensitive to duration as a cue to stress as compared
+to Mandarin listeners (Lin et al., 2014, p. 334). Alternatively, SM may have
+fewer words that contrast in stress placement as compared to English (Duanmu,
+2007), thus potentially leading SM-speaking L2 learners of English to rely less on
+duration cue as a cue to stress as compared to native English listeners.
+
+It is interesting that TM listeners did not differ statistically from SM listeners
+when duration conﬂicted with F0 in the experimental stimuli. We hypothesize
+that L2 learners’ weaker reliance on duration (where they differed from native
+listeners) than on F0 (where they did not differ from native listeners) may have
+prevented any effect of L1 dialect from emerging when F0 and duration conﬂicted
+in signaling stress. In other words, in the presence of conﬂicting suprasegmental
+information, both groups of L2 learners tuned it primarily to F0, because F0 is a
+more important cue to lexical identity in both SM and TM.
+
+It is important that, when encoding English nonwords that contrasted in word-
+initial /t/ and /k/, SM and TM listeners did not differ from each other but performed
+less accurately than English listeners. As in Experiment 1, we attribute these results
+to differences between English and Mandarin in their phonetic realizations of the
+target segments (e.g., English /t/ is alveolar whereas Mandarin /t/ is dental) and in
+their phonotactics (e.g., the lax vowels following /t/ and /k/ in the stimuli are not
+permitted in Mandarin).
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+GENERAL DISCUSSION
+
+562
+
+This study investigated whether the suprasegmental cues to prominence that con-
+vey lexical identity in the L1 transfer to the encoding of stress in L2 processing.
+The results of the ﬁrst experiment, which used natural stimuli where F0 and
+duration cues co-occurred, showed that native English listeners and SM-speaking
+L2 learners of English did not have an advantage over TM-speaking L2 learners
+in processing stress in English nonwords. By contrast, the results of the second
+experiment, which used resynthesized stimuli where F0 and duration cues were
+isolated, revealed an advantage for the SM-speaking L2 learners (and native En-
+glish listeners) over the TM-speaking L2 learners when duration was the only cue
+signaling stress, but not when F0 signaled stress.
+
+These results are important, because they suggest that L2 learners whose L1
+does not have word-level stress (e.g., TM) can transfer the use of a suprasegmental
+cue (here, F0) from a different phonological category (i.e., lexical tones) to word-
+level stress in the L2. Furthermore, these results suggest that L2 learners differ
+in their ability to use a particular suprasegmental cue to stress (here, duration) as
+a function of the relative weight of that cue in the L1 (e.g., SM vs. TM). From
+an L2 learning perspective, the difﬁculty that L2 learners face thus appears to be
+complex, with L2 learners needing to associate speciﬁc suprasegmental cues to
+prominence (e.g., F0, duration, and intensity) with lexical representations (e.g.,
+word stress) and use this information to encode and access words (e.g., Cooper
+et al., 2002; Cutler, 2012; Zhang & Francis, 2010).
+
+Our results can be interpreted within a cue-weighting theory of speech per-
+ception (e.g., Francis & Nusbaum, 2002; Holt & Lotto, 2006; Invalgson et al.,
+2011; Zhang & Francis, 2010). According to this theory, the contribution of indi-
+vidual acoustic cues to distinguish among lexical items in the L1 determines the
+weight of these cues in the L2. This means that if a particular suprasegmental cue
+plays an important role in L1 lexical access, it could be used to encode stress in
+the L2, even if the L1 does not have word-level stress; by the same token, if a
+particular suprasegmental cue plays a limited role in L1 lexical access, then L2
+learners should have difﬁculty using this cue in the L2. This suggests that the
+mechanisms underlying stress processing do not operate strictly as a function of
+whether or not the L1 has word-level stress (for discussions, see also Lin et al.,
+2014; Tremblay, 2008, 2009). A cue-weighting theory of speech perception also
+assumes that the more important a cue is in the L1, the more it is used in L2
+processing (e.g., Francis & Nusbaum, 2002; Holt & Lotto, 2006; Iverson et al.,
+2003; McAllister, Flege, & Piske, 2002). Hence, this theory can explain not only
+the circumstances under which L2 learners can or cannot encode L2 English word
+stress but also how they encode L2 English word stress for the purpose of rec-
+ognizing L2 words. Our results show that the two groups of Mandarin-speaking
+L2 learners differed from native English listeners only in their use of duration
+cues to English stress. These results are consistent with the predictions of the cue-
+weighting account in that F0 is an important cue to lexical identity in Mandarin,
+arguably more than the stress–unstressed contrast signaled by duration in SM; con-
+sequently, F0 cues are used more than duration cues in the processing of English
+no-words.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+563
+
+Another signiﬁcant contribution of this study is in showing that not only the
+L1 but also the L1 dialect plays a crucial role in determining whether or not
+L2 learners can use speciﬁc suprasegmental cues to encode stress in English
+nonwords. Many studies have investigated how the L1 inﬂuences the processing
+of L2 stress (e.g., Cutler, 2012; Dupoux et al., 2001, 2008; Zhang & Francis,
+2010), and a growing number of studies have investigated how the L1 dialect
+modulates the perception of L2 segments (e.g., Chl´adkov´a & Podlipsk´y, 2011;
+Colantoni et al., 2015; Escudero et al., 2012; Escudero & Williams, 2011; Mayr &
+Escudero, 2010). To date, however, little work had been devoted to the inﬂuence
+of L1 dialects on L2 speech perception at the suprasegmental level. The present
+study ﬁlls this gap, and its results suggest that L2 speech processing models should
+consider the inﬂuence of L1 dialect, as it may impact how suprasegmental cues
+are weighed in L2 processing. Other studies have raised the possibility that the L1
+dialect may be a factor to consider in the perception of L2 stress (e.g., Tremblay,
+2008, 2009). In our study, the inﬂuence of the L1 dialect is assumed to be caused
+by the speciﬁc suprasegmental characteristics of the two languages (i.e., SM and
+TM). Further research should attempt to replicate the present ﬁndings with other
+L1 dialect–L2 pairings.
+
+It should be emphasized that the effect of L1 dialect does not imply that TM
+listeners are not capable of using duration as a cue to stress, but rather that they
+will be less reliant on duration than SM listeners because of the weaker role of
+duration in TM as compared to SM (e.g., TM listeners may still make weak use
+of this cue in the recognition of Mandarin words; Liu & Samuel, 2004). What is
+crucial here is that unlike SM, TM does not have a stress contrast cued by duration
+cues; as a result, TM and SM differ in the extent to which duration signals lexical
+identity. Accordingly, TM listeners will be less reliant than SM listeners on the
+use of duration as a cue in the processing of English stress.
+
+Given the methodology used in this study, one question that arises is whether
+our results would be generalizable to real words. Because English does not have
+many minimal pairs that differ only in the suprasegmental cues to stress (for
+discussion, see Cutler, 1986), using nonwords was the only possible option for
+the present experimental design (and doing so also made it possible to avoid the
+potentially confounding effects of word frequency and word familiarity). It may
+be easier to test the processing of L2 stress with (frequency-matched) real words in
+target languages that do not have vowel reduction (e.g., Spanish), unlike English.
+Further research should attempt to replicate our ﬁndings in such languages using
+real words.
+
+Conclusion
+
+In summary, this study examined how English listeners and proﬁciency-matched
+SM- and TM-speaking L2 learners of English encode stress in English nonwords.
+The results indicated that all three groups performed similarly when processing
+nonwords that contained F0 cues. However, when stress was signaled only with
+duration, TM listeners had more difﬁculty than SM listeners (and native English
+listeners) in encoding stress. Furthermore, both L2 groups relied less on duration
+cues than native English listeners did, a ﬁnding that was attributed to L2 learners’
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+564
+
+greater reliance on F0 due to the importance of lexical tones for lexical access in
+Mandarin. These results were interpreted within a cue-weighting theory of speech
+perception, which can provide a straightforward explanation of whether and how
+L2 learners encode English stress.
+
+APPENDIX A
+
+Table A.1. Experimental stimuli
+
+C1
+
+V1
+
+C2
+
+V2
+
+v
+θ
+ð
+v
+θ
+ð
+s
+z
+f
+s
+z
+f
+
+i
+
+V1
+
+C2
+
+V2
+
+ɪ
+ʊ
+ʌ
+
+b
+d
+g
+s
+Z
+f
+v
+θ
+ð
+n
+m
+l
+
+i
+
+ɪ
+ʊ
+ʌ
+
+C1
+
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+t/k
+
+Disyllabic
+
+Words
+/bɪvi/
+/dʊθi/
+/gʌði/
+/sɪvi/
+/zʊθi/
+/fʌði/
+/vɪsi/
+/θʊzi/
+/hʌﬁ/
+/bɪsi/
+/dʊzi/
+/gʌﬁ/
+
+b
+d
+g
+s
+z
+f
+v
+θ
+h
+b
+d
+g
+
+Table A.2. Filler stimuli
+
+Disyllabic
+
+Word 1
+/tɪbi/
+/tʊdi/
+/tʌgi/
+/tɪsi/
+/tʊzi/
+/tʌﬁ/
+/tɪvi/
+/tʊθi/
+/tʌði/
+/tɪni/
+/tʊmi/
+/tʌli/
+
+Disyllabic
+
+Word 2
+/kɪbi/
+/kʊdi/
+/kʌgi/
+/kɪsi/
+/kʊzi/
+/kʌﬁ/
+/kɪvi/
+/kʊθi/
+/kʌði/
+/kɪni/
+/kʊmi/
+/kʌli/
+
+ACKNOWLEDGMENTS
+For their insightful comments on this research, we are very grateful to Dr. Allard Jongman,
+Dr. Joan Sereno, and Dr. Jie Zhang; the student members of LING 850 at the University of
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+565
+
+Kansas; Dr. Isabelle Darcy; and two anonymous reviewers. Any misunderstandings are of
+course our own.
+
+NOTES
+
+1. The symbols in brackets are IPA symbols with tone markers representing the contour
+
+of the lexical tone.
+
+2. The present study focuses on F0 and duration cues rather than on intensity cues to
+stress, because clearer predictions can be made about F0 and duration cues based
+on the differences of stress patterns between SM and TM. That is, while F0 is a
+primary cue to lexical tones in both SM and TM, duration is a primary cue to stress
+patterns in SM only. Intensity is less important than other cues (e.g., duration) in the
+comparison, and thus left out.
+
+3. None of the SM-speaking participants knew other Chinese languages, but four of
+them spoke other varieties of Mandarin Chinese. Two of them spoke Southwestern
+Mandarin, one spoke Central Plains Mandarin, and one spoke Jiao-Liao Mandarin.
+We kept these four participants in our analysis because the Mandarin varieties they
+knew are similar to SM in their prosodic systems (Norman, 1988), and these partici-
+pants reported using SM as their dominant language.
+
+Two of the TM-speaking participants also spoke Taiwanese. Like in TM, duration
+does not signal word-level stress in Taiwanese. However, duration can be a stronger
+cue to lexical tones in Taiwanese than in TM, because checked tones and smooth
+tones differ in duration in Taiwanese (Peng, 1997; Yip, 2002). For this reason, we ran
+our statistical analyses with and without these two participants. The results of the two
+different analyses were exactly the same. We therefore kept these two participants in
+our analyses.
+
+4. The lack of signiﬁcant difference between the two learner groups may also be due
+to the large variance in learners’ length of residence (e.g., the standard deviation for
+the TM-speaking group is twice as large as the mean).
+
+5. We also analyzed the effect of length of residence on the TM-speaking participants’
+performance to see if the participants recruited and tested in the United States and
+in Taiwan behaved differently due to their different degrees of exposure to American
+English. We report these analyses in endnotes.
+
+6. The results of the ﬁller stimuli are reported, but the discussion of ﬁller stimuli is kept
+
+to a minimum due to space restrictions.
+
+7. An additional logit mixed-effects model was conducted on the TM group’s sequence-
+encoding accuracy, this time with length of residence as a ﬁxed effect. Length of
+residence did not improve the base model, which suggests that the performance of
+the TM-speaking L2 learners of English did not differ as a function of their exposure
+to American English.
+
+8. The word-ﬁnal lengthening that occurred in the natural stimuli was not preserved
+in order to resynthesize duration cues similarly to F0 cues. That is, any durational
+and F0 difference between Syllable 1 and Syllable 2 in disyllabic nonwords were
+removed in, respectively, the F0 cue condition and the duration cue condition.
+
+9. Note that these two different codings of the results in the conﬂicting cues condition
+are necessary, because the difference between the highest possible “accuracy” on
+the task (i.e., 100%) and the sequence encoding accuracy based on one cue does
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+566
+
+not equal the sequence encoding accuracy based on the other cue. This is because
+listeners may shift reliance from one cue (e.g., F0) to the other (e.g., duration) within
+a given sequence; such a sequence would be considered inaccurate whether or not
+accuracy is computed on the basis of F0 or duration.
+In the conﬂicting cues condition, listeners’ reliance on F0 and their reliance on
+duration could not be directly compared, as they are not independent (i.e., the higher
+their reliance on duration, the lower their reliance on F0).
+
+10.
+
+11. Additional logit mixed-effect models were conducted on the TM-speaking partici-
+pants’ accuracy with length of residence as a ﬁxed factor. Adding length of residence
+to the models did not improve any of them, indicating that the performance of the
+TM-speaking L2 learners of English did not differ as a function of their exposure to
+American English.
+
+REFERENCES
+Aoyama, K., Flege, J., Guion, S., Yamada, T., & Akahane-Yamada, R. (2004). Perceived phonetic
+dissimilarity and L2 speech learning: The case of Japanese /r/ and English /r/ and /l/. Journal
+of Phonetics, 23, 233–250.
+
+Baayen, R. H. (2008). Analyzing linguistic data: A practical introduction to statistics. Cambridge:
+
+Cambridge University Press.
+
+Beckman, M. E. (1986). Stress and non-stress accent. Dordrecht: Foris.
+Best, C. T. (1995). A direct realistic view of cross-language speech perception. In W. Strange (Ed.),
+Speech perception and linguistic experience: Issues in cross-language research (pp. 171–204).
+Baltimore, MD: York Press.
+
+Best, C. T., McRoberts, G., & Goodell, E. (2001). Discrimination of nonnative consonant contrasts
+varying in perceptual assimilation to the listener’s native phonological system. Journal of the
+Acoustical Society of America, 109, 775–794.
+
+Best, C. T., McRoberts, G., & Sithole, N. M. (1988). Examination of perceptual reorganization for
+nonnative speech contrasts: Zulu click discrimination by English-speaking adults and infants.
+Journal of Experimental Psychology: Human Perception and Performance, 14, 45–60.
+
+Boersma, P., & Weenink, D. (2012). Praat: Doing phonetics by computer, version 5.3 [Computer
+
+software]. Retrieved from http://www.praat.org
+
+Bradlow, A. R., Pisoni, D. B., Yamada, R. A., & Tohkura, Y. (1997). Training Japanese listeners
+to identify English /r/ and /l/: IV. Some effects of perceptual learning on speech production.
+Journal of the Acoustical Society of America, 101, 2299–2310.
+
+Braun, B., Lemh¨ofer, K., & Mani, N. (2011). Perceiving unstressed vowels in foreign-accented English.
+
+Journal of the Acoustical Society of America, 129, 376–387.
+
+Brown, J. D. (1980). Relative merits of four methods for scoring cloze tests. Modern Language Journal,
+
+64, 311–317.
+
+Chao, Y.-R. (1968). A grammar of spoken Chinese. Oakland, CA: University of California Press.
+Chen, Y.-R., & Xu, Y. (2006). Production of weak elements in speech: Evidence from F0 patterns of
+
+neutral tone in Standard Chinese. Phonetica, 63, 47–75.
+
+Chl´adkov´a, K., & Podlipsk´y, V. J. (2011). Native dialect matters: Perceptual assimilation of Dutch
+vowels by Czech listeners. Journal of the Acoustical Society of America, 131, EL186–EL192.
+Cho, T., & Keating, P. (2001). Articulatory and acoustic studies of domain-initial strengthening in
+
+Korean. Journal of Phonetics, 29, 155–190.
+
+Chrabaszcz, A., Winn, M., Lin, C., & Idsardi, W. J. (2014). Acoustic cues to perception of word
+stress by English, Mandarin and Russian speakers. Journal of Speech, Language, and Hearing
+Research, 57, 1468–1479.
+
+Colantoni, L., Steele, J., & Escudero, P. (2015). Second language speech: Theory and practice.
+
+Cambridge: Cambridge University Press.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+567
+
+Cooper, N., Cutler, A., & Wales, R. (2002). Constraints of lexical stress on lexical access in English:
+
+Evidence from native and non-native listeners. Language and Speech, 45, 207–228.
+
+Cutler, A. (1986). Forbear is a homophone: Lexical prosody does not constrain lexical access. Language
+
+and Speech, 29, 201–220.
+
+Cutler, A. (2012). Native listening: Language experience and the recognition of spoken words. Cam-
+
+bridge, MA: MIT Press.
+
+Cutler, A., & Clifton, C. E. (1984). The use of prosodic information in word recognition. In H. Bouma
+& D. G. Bouwhuis (Eds.), Attention and performance (Vol. 10, pp. 183–196). Hillsdale, NJ:
+Erlbaum.
+
+Cutler, A., Wales, R., Cooper, N., & Janssen, J. (2007). Dutch listeners’ use of suprasegmental cues
+to English stress. In J. Trouvain & W. J. Barry (Eds.), Proceedings of the 16th International
+Congress for Phonetic Sciences (pp. 1913–1916). Dudweiler, Germany: Pirrot.
+
+Duanmu, S. (2007). The phonology of standard Chinese. Oxford: Oxford University Press.
+Dupoux, E., Pallier, C., Sebasti´an, N., & Mehler, J. (1997). A destressing “deafness” in French? Journal
+
+of Memory and Language, 36, 406–421.
+
+Dupoux, E., Peperkamp, S., & Sebasti´an-Gall´es, N. (2001). A robust method to study stress “deafness.”
+
+Journal of the Acoustical Society of America, 110, 1606–1618.
+
+Dupoux, E., Peperkamp, S., & Sebasti´an-Gall´es, N. (2010). Limits on bilingualism revisited: Stress
+
+“deafness” in simultaneous French–Spanish bilinguals. Cognition, 114, 266–275.
+
+Dupoux, E., Sebasti´an-Gall´es, N., Navarrete, E., & Peperkamp, S. (2008). Persistent stress “deafness”:
+
+The case of French learners of Spanish. Cognition, 106, 682–706.
+
+Escudero, P. (2005). Linguistic perception and second language acquisition. LOT dissertation series
+
+113. Utrecht: Utrecht University.
+
+Escudero, P. (2009). Linguistic perception of “similar” L2 sounds. In P. Boersma & S. Hamann (Eds.),
+
+Phonology in perception (pp. 151–190). Berlin: Mouton de Gruyter.
+
+Escudero, P., & Boersma, P. (2004). Bridging the gap between L2 speech perception research and
+
+phonological theory. Studies in Second Language Acquisition, 26, 551–585.
+
+Escudero, P., Simon, E., & Mitterer, H. (2012). The perception of English front vowels by North
+Holland and Flemish listeners: Acoustic similarity predicts and explains cross-linguistic and
+L2 perception. Journal of Phonetics, 40, 280–288.
+
+Escudero, P., & Williams, D. (2011). Perceptual assimilation of Dutch vowels by Peruvian Spanish
+
+listeners. Journal of the Acoustical Society of America, 129, EL1–EL7.
+
+Fear, B. D., Cutler, A., & Butterﬁeld, S. (1995). The strong/weak syllable distinction in English.
+
+Journal of the Acoustical Society of America, 97, 1893–1904.
+
+Flege, J. E. (1987). The production of “new” and “similar” phones in a foreign language: Evidence for
+
+the effect of equivalence classiﬁcation. Journal of Phonetics, 15, 47–65.
+
+Flege, J. E. (1995). Second-language speech learning: Findings and problems. In W. Strange (Ed.),
+Speech perception and linguistic experience: Issues in cross-language research (pp. 233–273).
+Baltimore, MD: York Press.
+
+Flege, J. E., & Hillenbrand, J. (1986). Differential use of temporal cues to the /s/-/z/ contrast by native
+and L2 learners speakers of English. Journal of the Acoustical Society of America, 79, 508–
+517.
+
+Flege, J., Bohn, O.-S., & Jang, S. (1997). The effect of experience on nonnative subjects’ production
+
+and perception of English vowels. Journal of Phonetics, 25, 437–470.
+
+Flege, J., Munro, M., & Fox, R. (1994). Auditory and categorical affects on cross-language vowel
+
+perception. Journal of the Acoustical Society of America, 95, 3623–3641.
+
+Flege, J., Munro, M., & MacKay, I. (1995). The effect of age of second language learning on the
+
+production of English consonants. Speech Communication, 16, 1–26.
+
+Flege, J., Takagi, N., & Mann, V. (1996). Lexical familiarity and English-language experience affect
+Japanese adults’ perception of /r/ and /l/. Journal of the Acoustical Society of America, 99,
+1161–1173.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+568
+
+Fox, R., Flege, J., & Munro, M. (1995). The perception of English and Spanish vowels by native
+English and Spanish listeners: A multidimensional scaling analysis. Journal of the Acoustical
+Society of America, 97, 2540–2551.
+
+Francis, A. L., Ciocca, V., Ma, L., & Fenn, K. (2008). Perceptual learning of Cantonese lexical tones
+
+by tone and non-tone language listeners. Journal of Phonetics, 36, 268–294.
+
+Francis, A. L., & Nusbaum, H. C. (2002). Selective attention and the acquisition of new phonetic
+categories. Journal of Experimental Psychology: Human Perception and Performance, 28,
+349–366.
+
+Fry, D. (1955). Duration and intensity as physical correlates of linguistic stress. Journal of the Acoustic
+
+Society of America, 27, 765–768.
+
+Gandour, J. (1983). Tone perception in Far Eastern languages. Journal of Phonetics, 11, 149–175.
+Hall´e, P. A., Chang, Y.-C., & Best, C. T. (2004). Identiﬁcation and discrimination of Mandarin Chinese
+
+tones by Mandarin Chinese vs. French listeners. Journal of Phonetics, 32, 395–421.
+
+Holt, L. L., & Lotto, A. J. (2006). Cue weighting in auditory categorization: Implications for ﬁrst and
+
+second language acquisition. Journal of the Acoustical Society of America, 119, 3059–3071.
+
+Howie, J. M. (1976). Acoustical studies of Mandarin vowels and tones. Cambridge: Cambridge
+
+University Press.
+
+Huang, K. (2011). On the perception of the neutral tone in Taiwan Mandarin. Paper presented at the
+
+17th International Congress of Phonetic Sciences, Hong Kong.
+
+Huang, K. (2012). A study of neutral-tone syllables in Taiwan Mandarin (Unpublished doctoral
+
+dissertation). University of Hawai‘i at Manoa.
+
+Ingvalson, E. M., Holt, L. L., & McClelland, J. L. (2011). Can native Japanese listeners learn to
+differentiate /r-l/ on the basis of F3 onset frequency? Bilingualism: Language and Cognition,
+15, 255–274.
+
+Iverson, P., Kuhl, P. K., Akahane-Yamada, R., Diesch, E., Tohkura, Y., Kettermann, A., & Siebert, C.
+(2003). A perceptual interference account of acquisition difﬁculties for L2 learners phonemes.
+Cognition, 87, B47–B57.
+
+Jun, S. A. (2005). Korean intonational phonology and prosodic transcription. In S.-A. Jun (Ed.),
+Prosodic typology: The phonology of intonation and phrasing (pp. 201–229). Oxford: Oxford
+University Press.
+
+Jun, S. A., & Fougeron, C. (2000). A phonological model of French intonation. In A. Botinis (Ed.),
+Intonation: Analysis, modeling and technology (pp. 209–242). Dordrecht: Kluwer Academic.
+Jun, S. A., & Fougeron, C. (2002). Realizations of accentual phrase in French intonation. Probus, 14,
+
+147–172.
+
+Kubler, C. (1985). The inﬂuence of Southern Min on the Mandarin of Taiwan. Anthropological
+
+Linguistics, 27, 156–176.
+
+Lai, C., Sui, Y., & Yuan, J. (2010). A corpus study of the prosody of polysyllabic words in Mandarin
+
+Chinese. Paper presented at Speech Prosody 2010, Chicago.
+
+Leather, J. (1987). F0 pattern inference in the perceptual acquisition of second language tone. In
+A. James & J. Leather (Eds.), Sound patterns in second language acquisition (pp. 59–81).
+Dordrecht: Foris.
+
+Lee, W. S., & Zee, E. (2010). Articulatory characteristics of the coronal stop, affricate, and fricative in
+
+Cantonese. Journal of Chinese Linguistics, 38, 336–372.
+
+Lee, Y.-S., Vakoch, D. A., & Wurm, L. H. (1996). Tone perception in Cantonese and Mandarin: A
+
+cross-linguistic comparison. Journal of Psycholinguistic Research, 25, 527–542.
+
+Lieberman, P. (1961). Some acoustic correlates of word stress in American English. Journal of the
+
+Acoustic Society of America, 32, 451–454.
+
+Lin, C., Wang, M., Idsardi, W. J., & Xu, Y. (2014). Stress processing in Mandarin–English and
+
+Korean–English bilinguals. Bilingualism: Language and Cognition, 17, 316–346.
+
+Lin, M., & Yan, J. (1980). Beijinghua qingsheng de shengxue xingzhi [Acoustic characteristics of
+
+neutral tone in Beijing Mandarin]. Fangyan, 3, 166–178.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+569
+
+Lin, T. (1985). Tantao Beijinghua qingyin xingzhi de chubu shiyan [On neutral tone in Beijing
+Mandarin]. In S. Hu (Ed.), Beijing yuyin shiyanlu (Working papers in experimental phonetics,
+pp. 1–26). Beijing: Beijing Daxue chubanshe [Peking University Press].
+
+Liu, S., & Samuel, A. G. (2004). Perception of Mandarin lexical tones when F0 information is
+
+neutralized. Language and Speech, 47, 109–138.
+
+Lively, S. E., Logan, J. S., & Pisoni, D. B. (1993). Training Japanese listeners to identify English /r/
+and /l/: II. The role of phonetic environment and talker variability in learning new perceptual
+categories. Journal of the Acoustical Society of America, 94, 1242–1255.
+
+Logan, J. S., Lively, S. E., & Pisoni, D. B. (1991). Training Japanese listeners to identify English /r/
+
+and /l/: A ﬁrst report. Journal of the Acoustical Society of America, 89, 874–886.
+
+Mayr, R., & Escudero, P. (2010). Explaining individual variation in L2 perception. Bilingualism:
+
+Language and Cognition, 13, 279–297.
+
+McAllister, R., Flege, J., & Piske, T. (2002). The inﬂuence of the L1 on the acquisition of Swedish
+vowel quantity by native speakers of Spanish, English and Estonian. Journal of Phonetics, 30,
+229–258.
+
+Nordenhake, M., & Svantesson, J. O. (1983). Duration of standard Chinese word tones in different
+
+sentence environments. Lund University Working Papers in Linguistics, 25, 105–111.
+
+Norman, J. (1988). Chinese. Cambridge: Cambridge University Press.
+Ortega-Llebaria, M., Hong, G., & Fan, Y. (2013). English speakers' perception of Spanish lexical
+
+stress: Context-driven L2 stress perception. Journal of Phonetics, 41, 186–197.
+
+Peng, S.-H. (1997). Production and perception of Taiwanese tones in different tonal and prosodic
+
+contexts. Journal of Phonetics, 25, 371–400.
+
+Peperkamp, S. (2004). Lexical exceptions in stress systems: Arguments from early language acquisition
+
+and adult speech perception. Language, 80, 98–126.
+
+Peperkamp, S., & Dupoux, E. (2002). A typological study of stress “deafness.” In C. Gussenhoven &
+
+N. Warner (Eds.) Laboratory Phonology (Vol. 7, pp. 203–240). Berlin: Mouton de Gruyter.
+
+Peperkamp, S., Vendelin, I., & Dupoux, E. (2010). Perception of predictable stress: A cross-linguistic
+
+investigation. Journal of Phonetics, 38, 422–430.
+
+Perception Research Systems. (2007). Paradigm stimulus presentation. Retrieved from http://www.
+
+paradigmexperiments.com
+
+Repp, B. H. (1982). Phonetic trading relations and context effects: New evidence for a phonetic mode
+
+of perception. Psychological Bulletin, 92, 81–110.
+
+Shen, X. N. (1993). Relative duration as a perceptual cue to stress in Mandarin. Language and Speech,
+
+36, 415–433.
+
+Small, L. H., Simon, S. D., & Goldberg, J. S. (1988). Lexical stress and lexical access: Homographs
+
+versus nonhomographs. Perception and Psychophysics, 44, 272–280.
+
+Sohn, H.-M. (1999). The Korean language. Cambridge: Cambridge University Press.
+Stagray, J. R., & Downs, D. (1993). Differential sensitivity for frequency among speakers of a tone
+
+and a nontone language. Journal of Chinese Linguistics, 21, 143–163.
+
+Swihart, D. A. W. (2003). The two Mandarins: Putonghua and Guoyu. Journal of the Chinese Language
+
+Teachers Association, 38, 103–118.
+
+Tremblay, A. (2008). Is second language lexical access prosodically constrained? Processing of word
+stress by French Canadian second language learners of English. Applied Psycholinguistics, 29,
+553–584.
+
+Tremblay, A. (2009). Phonetic variability and the variable perception of L2 word stress by French
+
+Canadian Listeners. International Journal of Bilingualism, 13, 35–62.
+
+Vaissi`ere, J. (1991). Rhythm, accentuation, and ﬁnal lengthening in French. In J. Sundberg &
+R. Carlson (Eds.), Music, language, speech, and brain (pp. 108–120). New York: Macmillan
+Press.
+
+Wang, Q. (2008). L2 stress perception: The reliance on different acoustic cues. Paper presented at
+
+Speech Prosody 2008, Campinas, Brazil.
+
+Applied Psycholinguistics 38:3
+Qin et al.: Processing of word-level stress
+
+570
+
+Wang, Y., Spence, M., Jongman, A., & Sereno, J. (1999). Training American listeners to perceive
+
+Mandarin tones. Journal of the Acoustical Society of America, 106, 3649–3658.
+
+Wayland, R. P., & Guion, S. G. (2004). Training English and Chinese listeners to perceive Thai tones:
+
+A preliminary report. Language Learning, 54, 681–712.
+
+Welby, P. (2006). French intonational structure: Evidence from tonal alignment. Journal of Phonetics,
+
+34, 343–371.
+
+Yamada, R. A. (1995). Age and acquisition of second language speech sounds: Perception of American
+English /r/ and /l/ by native speakers of Japanese. In W. Strange (Ed.), Speech perception and
+linguistic experience: Issues in cross-language research (pp. 305–320). Baltimore, MD: York
+Press.
+
+Yip, M. (2002). Tone. Cambridge: Cambridge University Press.
+Zhang, Y., & Francis, A. L. (2010). The weighting of vowel quality in native and L2 learners listeners’
+
+perception of English lexical stress. Journal of Phonetics, 38, 260–271.
+
+

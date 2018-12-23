@@ -1,0 +1,1 @@
+This folder is only called intros. Atually now whole articles are inside.

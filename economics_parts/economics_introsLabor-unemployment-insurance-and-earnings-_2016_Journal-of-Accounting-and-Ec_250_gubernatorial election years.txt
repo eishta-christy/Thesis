@@ -1,0 +1,307 @@
+
+Understanding the forces that shape financial reporting outcomes is an important goal in accounting research.  A large
+prior literature provides evidence on how financial reporting choices are affected by explicit and implicit contracts.  Explicit
+debt contracts with firms’ creditors (Watts and Zimmerman, 1986; DeFond and Jiambalvo, 1994; Dichev and Skinner, 2002),
+and compensation contracts with firms’ executives (Healy, 1985), have been shown to influence financial reporting choices. 
+Implicit contracts with equity investors as reflected in these investors’ expectations have also been shown to influence
+financial reporting choices (Graham Name, 2005; Badertscher Name, 2012).  Relatively less attention has been devoted
+however to understanding the potential influence of implicit contracts between firms and rank and file employees. 
+Firms sell employees a package of explicit and implicit claims, with explicit claims expressed through explicit
+employment contracts and implicit claims expressed through promises about long-run working conditions and employment and advancement opportunities (Cornell and Shapiro, 1987).  The value of the ongoing implicit claims depends on
+employee expectations about the firm’s future financial conditions (Bowen Name, 1995).  Firms have an incentive to maximize
+the value of the package of explicit and implicit claims they offer by maximizing employees’ perceived value of the ongoing
+implicit claims, and this incentive is a potentially important determinant of corporate financial and reporting policies
+(Bowen Name, 1995; Agrawal and Matsa, 2013).  In this paper we provide new evidence on whether and how financial
+reporting choices are affected by the implicit claims of rank and file employees. 
+The prior literature has suggested two ways in which rank and file employees can potentially affect financial reporting. 
+The first is in the context of union negotiations.  The hypothesis posited in the literature is that firms are expected to manage
+earnings downwards in the short-run during union negotiations in order to justify resistance to union calls for enhanced pay
+and benefits.  This hypothesis predicts firm behavior when shareholder-employee conflicts of interest are pronounced and
+employees are unionized, and empirical tests of the hypothesis appear to yield mixed results (Liberty and Zimmerman,
+1986; DeAngelo and DeAngelo, 1991; D’Souza Name, 2001; Comprix and Muller 2011; Bova Name, 2015). 
+The second hypothesis posited in the literature, which is the focus of this paper, is that firms are expected to make longrun earnings-increasing choices in order to project financial security, as this reduces the cost of employee hiring and
+retention in competitive labor markets.  The hypothesis is predicted to hold more generally when shareholder-employee
+conflicts of interest are not salient, and the hypothesis is not conditioned on the presence of labor unions.  This idea is
+advanced in a number of papers in the accounting literature.  Bowen Name (1995), Burgstahler and Dichev (1997), Matsumoto
+(2002), and Cheng and Warfield (2005), among others, argue that firms manage their financial statements to make them
+appear rosier in order to improve their implicit terms of trade with various stakeholders including employees, and Graham
+Name (2005) report consistent evidence from a survey of CFOs. 
+As in the prior literature, by long-run earnings-increasing choices (or “long-run earnings management”) we mean
+management of cumulative earnings over an extended period that results in a sustained wedge between ‘true’ and reported
+cumulative earnings.  Cumulative earnings can potentially be managed through a combination of long-run income increasing
+choices such as depreciation, inventory, and bad debt recognition policies, and short-run accrual and real-earningsmanagement choices when the wedge is in jeopardy.  In particular, the upward management of cumulative earnings does
+not require upward earnings management in every single reporting period, which makes it relatively more challenging to
+detect empirically.  Bowen Name (1995) provide one test of the long-run-earnings management hypothesis by examining
+whether firms with high labor intensity are more likely to adopt long-run income-increasing accounting policies, and find
+supportive results.  In this paper we adopt a potentially more powerful approach by testing for changes in earnings
+management around an exogenous shock to employees’ cost of unemployment. 
+A large labor economics literature documents that employees bear substantial costs of involuntary unemployment (e. g. ,
+Gibbons and Katz, 1991; Gruber, 1997).  Employees therefore care about the financial security of their employer (Brown and
+Matsa, 2013), and one way they assess this is through their employer’s earnings performance (e. g. , Burgstahler and Dichev,
+1997; Matsumoto, 2002; Cheng and Warfield, 2005; Graham Name, 2005).  Firms bear at least two costs of exposing workers
+to unemployment risk.  First, firms bear ex ante costs of compensating employees for the level of employment risk that exists
+at the initiation of employment.  These “compensating differentials” are substantial and can take the form of higher wages
+and benefits, and better working conditions (Smith, 1976; Abowd and Ashenfelter, 1981; Topel, 1984; Hamermesh and
+Wolfe, 1990).  The economic significance of compensating wage differentials is suggested by empirical estimates that it is up
+to 14% of wages (Abowd and Ashenfelter, 1981), and that up to 41% of interindustry variation in wages is explained by
+unemployment risk (Li, 1986; Hamermesh and Wolfe, 1990).  Second, firms bear substantial turnover costs as employees
+seek more stable employment, and heightened search costs as potential employees shy away (Brown and Matsa, 2013), if
+there are significant increases in unemployment risk. 
+We expect firms try to mitigate these costs by managing long-run earnings in order to manage employee perceptions of
+unemployment risk.  This implies firms’ long-run-earnings management incentives change when employees’ unemployment
+risk changes.  Employees’ unemployment risk (and the firm’s cost of exposing employees to unemployment risk) is
+increasing in (i) the unemployment probability, (ii) employee risk aversion, and (iii) costs borne by workers during
+unemployment (Agrawal and Matsa, 2013).  Our research design exploits exogenous shocks to employees’ unemployment
+risk through a decrease in the costs borne by workers during unemployment.  This follows Agrawal and Matsa (2013) who
+show that the same exogenous shock affects firms’ financial policies through increased leverage. 
+State-level unemployment insurance (UI) programs are intended to lower employees’ unemployment costs by providing
+temporary income when they are involuntarily unemployed and actively seeking new employment, and UI has been shown
+to have economically significant effects on employee behavior and aggregate labor supply (Topel, 1984; Meyer, 1990, 1995). 
+An increase in UI benefits decreases employees’ cost of separation from, and likely therefore their dependence on, their
+employers.  When employees are better insured against unemployment we expect they are relatively less sensitive to their
+employers’ financial performance.  This observation forms the basis for the empirical tests: for firms in a given U. S.  state, we
+examine discretionary earnings decreases around large state-level increases in UI benefits as these state-level changes are
+relatively exogenous to the firm. 
+One way to view this is that cumulative or long-run earnings management results in a ‘bloated’ balance sheet.  Managers
+likely look for opportune moments to partially clean up the bloat, and as long as one determinant of this bloat is managing
+employee perceptions of unemployment risk, we expect a reduction in bloat (or partial unwinding of prior upward earnings
+management) when there is a reduction in unemployment risk.  As such, we are effectively testing changes in balance sheet
+bloat, rather than levels of bloat in the cross-section, which allows a relatively more powerful test of the hypothesis. 
+The empirical tests employ a difference-in-differences design by examining earnings management measures before
+versus after an exogenous increase in UI benefits, for treatment firms versus control firms.  The treatment firms are those
+headquartered in states with a large increase (410%) in maximum UI benefits, while control firms are those headquartered
+in matched neighboring states without an increase in benefits.  We find no differences in macroeconomic conditions
+between treatment and control states as indicated by state-level GDP growth, unemployment rates, stock returns and stock
+return volatilities of firms headquartered in those states, and UI payroll taxes. 
+Of the four earnings management measures employed, one is a model-implied estimate of abnormal accruals, while
+three are model-free measures.  The abnormal accrual estimate is from the Dechow and Dichev (2002) model, and results are
+robust to a variety of other models.  The model-free measures are special items, write downs, and net income-reducing
+restatements.  Across all earnings management measures, results suggest significant unwinding of prior upward earnings
+management for treatment firms relative to control firms in the year following an increase in UI benefits.  This suggests firms
+are relatively more likely to partially unwind prior upward earnings management when employees are better insured
+against unemployment, consistent with the main hypothesis.  A battery of further tests examining alternative specifications,
+and the potential influence of state-level political forces and unobserved economic conditions, indicate robustness of the
+main result. 
+A number of cross-sectional predictions are tested.  We expect upward earnings management is more likely at firms
+where employees’ perceptions of unemployment risk are relatively more important, such as firms that are more labor
+intensive, have higher layoff propensity, and employ relatively more low-wage workers.  Therefore, we expect relatively
+greater unwinding of earnings management at these firms following an increase in unemployment benefits.  Further, we
+expect partial unwinding is less likely at firms with other strong incentives to maintain the upward earnings management,
+such as firms that need to tap the capital markets, meet or beat earnings expectations, avoid debt covenant violations, or
+inflate executive compensation.  These tests yield significant and consistent results. 
+The evidence in this paper contributes to the accounting literature by providing new evidence on the role of employee
+perceptions in shaping financial reporting choices.  The evidence suggests that managing employees’ perception of
+unemployment risk is one determinant of firms’ long-run-earnings management.  The prior accounting literature has
+largely examined the influence of organized labor unions negotiating explicit contracts.  In contrast, the evidence here sheds
+light more generally on the role of rank and file employees and their implicit contract with employers.  The results
+contribute to the literature on the determinants of financial reporting choices, and further our understanding of the role
+therein of a key factor of production. 
+In what follows, Section 2 describes the hypotheses; Section 3 describes the data; Section 4 presents the main results;
+Section 5 describes cross-sectional tests; and Section 6 concludes. 
+2.  Hypothesis development. 
+An extensive literature in labor economics supports the idea that workers bear substantial costs of becoming
+involuntarily unemployed, including significant decreases in consumption (Gruber, 1997) and difficulty in finding another
+wage-equivalent job (Farber, 2005; Gibbons and Katz, 1991).  As such, employees care deeply about unemployment risk. 
+Firms in turn bear significant costs of exposing workers to unemployment risk, including compensating wage differentials
+(Abowd and Ashenfelter, 1981; Topel, 1984; Hamermesh and Wolfe, 1990), turnover costs as employees seek more stable
+employment, and heightened search costs as potential employees shy away (Brown and Matsa, 2013). 
+Reported earnings are useful for employees to assess the likelihood of becoming involuntarily unemployed.  This implicit
+use of accounting numbers likely creates ongoing incentives to manage earnings upward, as recognized in a number of prior
+papers including Bowen Name (1995).  Burgstahler and Dichev (1997) argue that lowering transactions cost with stakeholders
+such as employees is one incentive for upward earnings management.  Matsumoto (2002) and Cheng and Warfield (2005)
+hypothesize and find that one incentive for firms to avoid negative earnings surprises stems from the implicit claims of
+employees as proxied by labor intensity.  Choudhary Name (2009) hypothesize and find that labor intensity is one incentive
+for firms to manage income even absent cash flow effects.  Zechman (2010) hypothesizes that employees’ implicit claims also
+present an incentive for balance sheet management.  Finally, Graham Name (2005) indicate a significant majority of surveyed
+CFOs agree that managing earnings to manage stakeholder perception is descriptive of actual practice. 
+Employees do not necessarily have to be direct consumers of financial statements in order for their perceptions to be
+shaped by reported earnings.  As long as earnings are part of the public information set used by the media, analysts, ratings
+agencies and other parties to generate forecasts and reports, and employees are consumers of these forecasts, reports and
+news, reported earnings can shape employee perceptions of unemployment risk. 
+2. 1.  The U. S.  Unemployment Insurance (UI) System. 
+The UI system provides temporary income to eligible workers who are involuntarily unemployed and actively seeking
+new employment, in order to mitigate the loss of income from unemployment.  The basic framework for insurance
+provisions under the joint federal-state system is common across all states, though individual states have the autonomy to
+set the program’s parameters: Who is eligible, the duration of benefits, and the amount of weekly unemployment
+benefits paid. 
+A state’s benefit formula typically calculates the earnings realized by a worker in four of the last five quarters and seeks to
+replace approximately half of those wages through weekly payments, subject to minimum and maximum bounds.  Much of
+the interstate and intertemporal variation in UI benefits stems from changes to the maximum bounds, and the elasticity of
+actual compensation payments to maximum total benefits is approximately one (Agrawal and Matsa, 2013; Hsu Name, 2013). 
+The maximum bound of benefits therefore effectively captures the generosity of UI benefits, and is inversely related to
+workers’ consumption loss during unemployment. 
+State-level changes in maximum total UI benefits are motivated by both state-level macroeconomic conditions and
+political forces.  Since these underlying macroeconomic conditions could also be associated with the financial reporting
+outcomes examined here, our empirical tests ensure that treatment and control states have similar economic conditions. 
+This is analogous to achieving covariate balance under a propensity score matching method.  The other determinant of
+changes in the maximum bound, political forces, is considered in Section 4. 2. 
+States finance their UI programs through payroll taxes levied on employers.  The firm-level effective tax rates are tailored
+to the unemployment history of the individual firm through a method referred to as experience rating, and states have the
+authority to set their own state-level experience rating scheme.  Firms with a recent history of layoffs have higher effective
+unemployment tax rates under this system.  We address in two ways any potential concern that changes in UI payroll tax
+rates concurrent with changes in maximum total UI benefits explain the financial reporting outcomes examined here.  First,
+we examine UI payroll taxes paid around the event year, and find no changes either for treatment or control states.  Second,
+the regressions control for UI payroll taxes. 
+2. 2.  Hypotheses. 
+The primary hypothesis is that firms have an incentive to manage long-run-earnings upward in order to manage
+employee perceptions of unemployment risk, and therefore that changes in unemployment risk are expected to be
+associated with changes in earnings management incentives.  As such, we expect to empirically observe a partial reversal of
+prior upward earnings management following an increase in state-level UI benefits, where the earnings management
+reversal is expected to manifest in negative discretionary accruals, special items, write downs, and income-reducing
+restatements. 
+As noted in the prior literature, there are a number of incentives to manage earnings upward, including incentives
+stemming from the need to tap capital markets, meet or beat earnings expectations, avoid debt covenant violations, and
+inflate executive compensation.  These incentives are likely episodic, while the incentive to manage employee perceptions of
+unemployment risk is likely ongoing.  For example, it is unlikely that a firm taps the capital markets every year, is on the cusp
+of meeting or beating analyst forecasts every period (it might meet or beat comfortably in many periods), is in danger of
+violating a debt covenant every period, or that the incremental compensation payoff from earnings management is equally
+strong every period (the payoff could be non-linear in earnings as in Healy (1985)).  In contrast, firms have ongoing needs to
+retain and attract talent, which implies that the unemployment risk incentive is long-run and therefore less likely to be
+irrelevant for managerial actions.  Our hypothesis is about the incremental effect on earnings management of the
+unemployment risk incentive, and the tests control for other earnings management incentives. 
+A number of cross-sectional predictions are tested.  Firms with high labor intensity are likely more vulnerable to
+employee perception of employment security than firms with low labor intensity, and are therefore more likely to manage
+earnings upward on an ongoing basis.  As such, we expect a larger reversal of prior upward earnings management at more
+labor-intensive firms following an increase in UI benefits. 
+Reported earnings are likely more important to employees’ perception of unemployment risk at firms with higher layoff
+propensity.  Such firms likely have greater incentive to manage earnings upward in order to minimize their own costs of
+exposing workers to unemployment risk.  As such we expect a larger reversal of prior upward earnings management at firms
+with high layoff propensity, following an increase in UI benefits. 
+Low-wage workers are likely to benefit relatively more from an increase in UI benefits since they have lower savings at
+the time of job loss (Browning and Crossley, 2001; Bloemen and Stancanelli, 2005).  As such, increases in UI benefits likely
+affect relatively more the earnings management incentives of firms with a higher fraction of low wage workers.  We
+therefore expect such firms to have a larger reversal of prior upward earnings management following an increase in UI
+benefits. 
+Finally, when other upward earnings management incentives are strong (weak), an increase in UI benefits is less (more)
+likely to lead to partial unwinding of prior upward earnings management.  As such, we expect a significant (insignificant)
+partial unwinding of prior upward earnings management when incentives to tap capital markets, meet or beat earnings
+expectations, avoid debt covenant violations, and inflate executive compensation, are weak (strong). 
+<Middle> Data. 
+We employ a matched sample for testing, where the sample is developed as follows.  First, state-years with increases in
+the upper bound of unemployment benefits exceeding 10% (“the event”) are identified, yielding 128 such state-years.  The
+10% cutoff lies at the 85th percentile of the distribution of annual changes in the upper bound of unemployment benefits,
+and allows us to balance the magnitude of the change versus sample size considerations.  Results are robust to using other
+cutoffs such as 5% or 15% increases in the upper bound of unemployment benefits.  Second, each event-year is matched to at
+least one adjacent state that does not experience a large increase in maximum unemployment benefits in the same year and
+the prior year.  This yields 290 matching state-years for the 128 event-years, since some states are matched to more than one
+state in a given year.  Table 1 shows the sample of 128 event-years between 1976 and 2010 with an increase in maximum
+total benefits exceeding 10%, and without a large increase in unemployment benefits in the pre-event year.  As the table
+shows, event-years are not clustered in any particular state. 
+The economic significance of the Treatment effect (the reduction in employees’ unemployment risk resulting from a 10%
+increase in unemployment benefits) is suggested by two sets of evidence.  First, the evidence in Agrawal and Matsa (2013)
+suggests a 10% increase in unemployment benefits leads to a 0. 5 percentage point increase in financial leverage (debt/
+assets), which appears economically significant.  Second, we calibrate the dollar magnitude of implied wage savings as a
+result of the reduction in unemployment risk from a 10% increase in unemployment benefits (derivation details are
+presented in Appendix A).  The analysis suggests the reduction in employees' unemployment risk resulting from a 10%
+increase in unemployment benefits is, ceteris paribus, associated with an implied wage reduction of 8% of earnings for
+Treatment sample firms.  This appears to be an economically meaningful shock for firms. 
+The tests use data from all firms headquartered in these state-years.  Financial statement and stock price data are sourced
+from Compustat and CRSP, restatement data from Audit Analytics, analyst forecasts from IBES, debt covenant data is from
+Dealscan, executive compensation data is from Execucomp, unemployment benefit data from the United States Bureau of
+Labor Statistics, and state-level GDP growth data from the Census Bureau.  Political condition variables are obtained from the
+U. S.  Bureau of the Census Statistical Abstracts.  The final sample is from 1992 to 2010, which is the longest period for which
+we have all necessary data for the empirical tests. 1 All variable definitions are presented in Appendix B. 
+Compustat reports a firm’s current rather than historical headquarter location, and ignoring this source of measurement
+error could introduce bias.  To remedy this we extract historical headquarter locations from other data sources.  For the
+period between 1992 and 1995, we locate a firm’s headquarter by searching Compact Disclosure.  For each year from 1996
+onwards, we search each firm’s 10-K report via EDGAR for its headquarter address.  Overall, Compustat’s reported current
+location is different from the historical location for 17% of firm-year observations. 
+3. 1.  Earnings management measures. 
+The main tests use two broad categories of earnings management measures: model-implied estimates of abnormal
+accruals, and model-free measures.  The accrual model is the Dechow-Dichev (2002) model as modified in McNichols (2002). 
+Following Ball and Shivakumar (2006) this model is estimated for each three-digit SIC industry with more than 30
+observations (we exclude financials and utilities in estimating the accruals models) as follows,
+where t indexes the year; Accruals is income before extraordinary items minus operating cash flows; CFO is operating cash
+flows; ΔSales is the change in sales; and PPE is the end of year property, plant and equipment.  All variables are scaled by
+lagged total assets.  The residual from eq.  (1) is the first measure of earnings management (Abnormal accruals).  Results are
+robust to estimation by industry-year, and the use of three other accrual models: (i) the modified cross-sectional Jones
+(1991) model of Dechow Name (1995) as used in Dechow Name (2003) and Cohen Name (2008); (ii) the performance-matched
+approach in Kothari Name (2005); and (iii) the piecewise-linear model from Ball and Shivakumar (2006). 
+The three model-free measures of earnings management are special items (Special items), total write down (Write down)
+and an indicator equal to one for firms that have income-reducing restatements (Restatement).  The data for write downs and
+restatements are available for 2000–2010 only. 
+4.  Empirical tests and results. 
+In this section we test the hypothesis that prior upward earnings management reverses around large unemployment
+benefit increases.  Section 4. 1 examines the primary relation (Hypothesis 1), while Section 4. 2 describes tests intended to
+enhance identification and test robustness. 
+4. 1.  Earnings management reversal around large unemployment benefit changes. 
+We begin by examining macroeconomic conditions in the treatment and control samples in order to shed light on
+whether differences in the underlying macroeconomic conditions, rather than differences in treatment, have an effect on
+the outcome of interest.  Table 2 shows means of state-level macroeconomic indicators in the event-year and pre- event-year
+in both the treatment and control samples, along with a test of differences.  The macroeconomic indicators include statelevel GDP growth and unemployment rates, stock returns and stock return volatilities of all firms headquartered in these
+states as summary indicators of state-level economic conditions, and UI payroll taxes calculated as the average UI tax rate
+multiplied by average taxable wages in each state. 
+The last column of Table 2 shows a test of differences across the treatment and control samples in macroeconomic
+changes between the event-year and pre- event-year.  As that column shows, treatment and control samples differ only in
+the change in maximum unemployment benefits between the event-year and pre- event-year.  This suggests underlying
+macroeconomic conditions are unlikely to explain differences in examined outcomes across the treatment and control
+samples. 
+The subsequent tests are conducted on firm-year observations, where the firms are those headquartered in treatment
+and control states.  Table 3 shows descriptive statistics for the 8,272 firm-years in the sample.  The mean of Abnormal accruals
+is  0. 022, the mean of Special items is  1% of assets, mean Write down is  0. 1% of assets, and 4. 1% of firm-years report
+income-reducing restatements.  Benefit equals the log of maximum total unemployment benefits, and is calculated as the
+product of the maximum weekly benefit amount and the maximum duration allowed.  The mean and standard deviation of
+Benefit are 9. 094 and 0. 328, respectively, close to values reported in Agrawal and Matsa (2013). 
+The regression specification takes the form,
+where DepVar is the dependent variable that equals any one of the four earnings management measures described earlier;
+“i” indexes the firm, “t” indexes the year, and “j” indexes the jth control for j42.  The panel regressions include firm- and
+year-fixed effects, and standard errors are clustered by state (Petersen, 2009).  The inclusion of firm- and year-fixed effects
+represents a generalization of the difference-in-differences design that allows causal inference in a regression setting
+(Bertrand and Mullainathan, 2003; Angrist and Pischke, 2009; Armstrong Name, 2012).  The controls include lagged
+dependent variables2; other earnings management incentives including the need to tap capital markets in the future, meet
+or beat analyst expectations, avoid debt covenant violations, and inflate executive compensation; firm characteristics such
+as total assets, operating cash flows, asset growth, leverage, and cash flow volatility that are likely associated with the
+dependent variables (Myers Name, 2003; Ashbaugh Name, 2003; Butler Name, 2004); as well as state-level macroeconomic
+indicators such as GDP growth, unemployment rate, stock returns and stocks return volatilities of firms headquartered in
+the state, and UI payroll taxes. 
+Panel A of Table 4 shows coefficients, and t-statistics in parentheses, from pooled regression estimation of Eq.  (1).  The
+dependent variable in each specification is indicated in the column header.  The primary independent variable of interest is
+Benefit, and given the inclusion of firm fixed effects in the regression, results can be interpreted as showing that an increase
+in Benefit significantly predicts changes in the dependent variable. 
+As the table shows, an increase in Benefit significantly predicts a reduction in Abnormal accruals (two-tailed
+p-valueo0. 05), more negative Special items (two-tailed p-valueo0. 05) and Write downs (two-tailed p-valueo0. 01), and
+an increased likelihood of income-reducing Restatements (two-tailed p-valueo0. 01).  In terms of economic significance,
+Table 4 suggests a 10% increase in Benefit predicts a change in:3
+(i) Abnormal accruals of –0. 0012, which is 4% of earnings (given the mean ROA of 3% for our treatment sample firms). 
+(ii) Special items of  0. 0005, which is 1. 7% of earnings. 
+(iii) Write down of  0. 0002, which is 0. 7% of earnings. 
+(iv) Restatement probability of 1. 17 percentage points, which is about a 29% increase from the mean probability of incomereducing Restatements. 
+The firm-specific independent variables in Table 4 are motivated by the prior literature (Myers Name, 2003; Ashbaugh
+Name, 2003; Butler Name, 2004), and the signs of their coefficients are consistent with the prior literature.  In particular, the
+signs of the coefficients of other earnings management incentives are consistent with expectation, providing some comfort
+about proxy validity and regression specification: When the Tap capital market, Meet or beat, Tight covenant, and
+Compensation incentives are stronger, generally abnormal accruals are higher, special items and write downs are lower in
+magnitude (less negative), and the probability of income-reducing restatements is lower (considering both Panels A and B). 
+In an untabulated falsification test we examine whether non- income-reducing restatements, which constitute 0. 8% of all
+firm-years and 16. 3% of the restatement firm-years in our sample, are higher following an increase in unemployment
+benefits.  We re-estimate the regression specification in Panel A with non- income-reducing restatements as the dependent
+variable, and find the coefficient of Benefit is insignificant (t-statistic¼0. 26) as expected. 
+Panel B of Table 4 shows results when a more ‘traditional’ difference-in-differences specification is estimated.  Treat is an
+indicator equal to 1 for the treatment sample, and zero otherwise, while Post is an indicator equal to 1 in the year following
+the increase in unemployment benefits, and zero otherwise.  The main independent variable of interest is Treat Post, and it
+loads significantly negatively in all specifications consistent with the result in Panel A. 
+Collectively the results in Panels A and B of Table 4 are consistent with the hypothesis that firms manage earnings
+upward in order to manage employee perceptions of unemployment risk, and this incentive is incremental to other known
+earnings management incentives. 
+4. 2.  Further tests. 
+In this section we describe a number of tests intended to enhance identification and examine robustness.  Given the large
+number of dependent variables examined above, all subsequent results are tabulated using Abnormal accruals as the
+dependent variable. 
+4. 2. 1.  Extended windows around the event. 
+The main tests in Table 4 compare observations for years t and tþ1 for firms in treatment and control states.  We next
+examine robustness with respect to expanded windows around the event, ensuring that these windows do not contain
+other large changes in Benefit (so each window only contains one event for a given treatment state).  As shown in Panel A
+of Table 5, Benefit loads significantly negatively in samples of three years (two-tailed p-value o0. 10), and five years (twotailed p-value o0. 10), around the event year, indicating robustness of the main result in Table 4. 
+4. 2. 2.  All states, all years. 
+The main tests use a matched sample approach and therefore only include firms in treatment and control states.  An
+alternative as in Agrawal and Matsa (2013) is to estimate a pooled regression across all available states and years, without
+matching treatment state-years to control state-years.  As shown in Panel B of Table 5, results are robust to this test approach
+as Benefit loads significantly negatively (two-tailed p-value o0. 10). 
+4. 2. 3.  State-level political forces and discretionary accruals. 
+Benefit changes can be associated with political conditions (Agrawal and Matsa, 2013), and political conditions can
+influence discretionary accruals (Jones, 1991; Ramanna and Roychowdhury, 2010).  To ensure that the effect of Benefit is not
+due to omitted political forces in the main tests, we control for state-level political conditions in a number of ways.  First,
+gubernatorial election years could be associated with downward earnings management in order to avoid public scrutiny and
+becoming a political scapegoat, if the election involves economic issues that would adversely affect businesses.  Downward
+earnings management could also assist affiliated politicians hoping to unseat incumbents, since being able to point to lower
+profitability of area businesses likely helps political contenders challenge the economic record of incumbents. 

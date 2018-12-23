@@ -1,0 +1,425 @@
+
+Despite on-going research, the progress in knowledge of pathogenesis and pathophysiology of psychiatric disorders, particularly depression, remains unsatisfactory.  This emphasizes the need for animal
+models to study the pathophysiology and treatment targets to overcome
+the great heterogeneity of this disease due to its multifactorial background [1].  While there are a number of animal models, from rodents
+[2–5] to ﬁsh [6], mimicking characteristic features of the pathology,
+the validity of such models − particularly in light of the negative effects on the animals − is under controversial debate [7,8]. 
+Since both perspectives need to be considered, the scientiﬁc and the
+ethical, one needs to ﬁnd a good compromise to fulﬁll both criteria. 
+Of course it is not possible to develop animal models mimicking the
+human situation 1:1, but there are emotional, homeostatic and psychomotoric core symptoms of human depression that may be assessed
+objectively in rodent models [9].  One approach could be an increased
+awareness with regard to the optimal constellation of paradigms and
+model organisms [10].  As a prerequisite, in mice this requires an adequate consideration of background strains, which may fundamentally
+diﬀer with regard to a solid basis for the respective mutation [11–17]. 
+Many in vivo studies involving genetic manipulations in mice are
+conducted on a C57BL/6 background, which was recently described as
+“gold standard” [18,19].  On the other hand, to model the human
+condition in a more translational way it would be advisable not to use
+inbred animals, but to work with mixed genetic backgrounds [20],
+which resemble the heterogeneity of patients more closely.  This is
+supported by a study by Ridder Name who was able to demonstrate a
+helpless behavioral phenotype in GR+/− mice on a mixed C57BL/6N x
+FVB/N background, not under basal, but stressed conditions [20]. 
+Contrary, mice overexpressing the GR (on the mixed background as
+well) showed the opposite phenotype when analyzed for respective
+⁎ Corresponding author at: Interfaculty Biomedical Research Facility, University of Heidelberg, Im Neuenheimer Feld 347, 69120 Heidelberg, Germany. 
+E-mail address: miriam. vogt@ibf. uni-heidelberg. de (M. A.  Vogt). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 07. 037
+Received 23 June 2017; Received in revised form 21 July 2017; Accepted 25 July 2017
+Available online 03 August 2017
+0166-4328/ 
+M. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79
+parameters [20,21], which emphasizes the impact of an appropriate
+selection of background strains to increase the validity of in vivo studies. 
+GR represents a target gene for depression and several publications
+indicate its signiﬁcance in regulating the negative feedback in the hypothalamus-pituitary-adrenal (HPA) system after stress-induced increase of corticosterone [22]. 
+Since depression in humans and animals represents a multi-factorial
+disease, that implies the interaction between a distinct genetic predisposition in the presence of a challenging environment [23,24], the
+approach by Ridder Name was considered a suitable model with good
+face- and construct validity.  In addition, stress physiological data and
+the responsiveness of the model to DEX/CRH challenge underlined its
+impact with regard to predictive validity [20,25]. 
+What remains, however, a challenging aspect is the general validity
+of diﬀerent animal models for depression and anxiety [26].  Considering
+construct validity, i. e.  etiology of a disease, the learned helplessness
+(LH) paradigm may be a workable compromise due to a rather artiﬁcial
+− instead of straight translational − way to induce the depressive-like
+state by uncontrollable and unpredictable foot shocks [27].  From this
+point of view, the model of unpredictable chronic mild stress (UCMS)
+may be better suited, but also bears some challenges [28,29]. 
+The aim of our study here was to examine the transferability of a
+heterozygous mutation of the GR to two commonly used background
+strains, which naturally diﬀer in their basal characteristics [11].  Furthermore, it was our intention to compare two diﬀerent stress models to
+be able to make a more valid, generalized statement about the role of
+GR in depression. 
+To follow up our hypothesis that, with our models, genetic traits can
+evoke a stable depressive-like phenotype − reliable even on multiple
+background strains, we investigated GR+/− animals on a C57BL/6N
+and BALB/c background.  Assuming that a well-described stressor is a
+decisive factor, the mice were divided in two cohorts, exposed to either
+four weeks of UCMS or LH respectively, and were then analyzed in
+standardized behavioral tests for emotional and depressive-like behaviors. 
+<Middle> Material & methods. 
+2. 1.  Animals and housing conditions
+All experiments were conducted with male mice (12–15 weeks old
+at the onset of the experiments) being either heterozygous for the expression of the glucocorticoid receptor (GR+/−) or littermate controls
+[30].  The founders of GR-heterozygous mice (GR+/−) were developed
+by using homologous recombination in embryonic stem cells as described earlier [30].  All mice were genotyped after weaning to check for
+heterozygosity of the GR alleles (Primer sequences from 5′ to 3′: GR1:
+GGC ATG CAC ATT ACG GCC TTC T; GR4: GTG TAG CAG CCA GCT
+TAC AGG A GR8: CCT TCT CAT TCC ATG TCA GCA TGT).  Real-time
+RT-PCR and Western Blot analyses by Ridder Name [20] revealed a
+signiﬁcant down regulation of GR protein as well as mRNA level in GR
+heterozygous mice.  Mice were bred either for a minimum of 10 generations on a C57BL/6N (N = 95) or on a BALB/c (N = 75) background strain in the animal facility of the Central Institute of Mental
+Health (CIMH, Mannheim, Germany).  Mice were weaned at the age of 4
+weeks, and were then housed in type III Macrolon® cages equipped with
+nesting material, food and water ad libitum in littermate groups. 
+At an age of 8 weeks, the litter groups were divided in two independent cohorts being either transported to the University François
+Rabelais (Tours, France) for the unpredictable chronic mild stress
+(UCMS) paradigm and the following behavioral experiments (see
+Fig.  1A for details) or transferred from the CIMH breeding to housing
+facility for the basic behavioral experiments and the subsequent learned
+helplessness (LH) paradigm (see Fig.  1B for details). 
+For the UCMS, the animals were randomly separated into speciﬁc
+housing conditions as follows: unstressed control mice (C57BL/6N
+GR+/+ N = 15, GR+/− N = 14, BALB/c GR+/+ N = 9, GR+/−
+N = 10) were group housed up to a maximum of four littermates per
+cage in type III Macrolon® cages equipped with red transparent igloos
+and PVC plastic tunnels.  Mice exposed to the UCMS paradigm (C57BL/
+6N GR+/+ N = 15, GR+/− N = 15, BALB/c GR+/+ N = 10, GR+/−
+N = 10) were maintained single housed in disposable cages with a ﬂoor
+area of 187 cm2 (Charles River) with standard bedding only (isolation
+stress).  Stress group and control group were maintained in separated
+rooms to avoid confounding eﬀects of the stress procedures in the
+control group. 
+In the LH paradigm group, mice were single housed with standard
+bedding and nesting material (paper tissue) in type II Macrolon® cages,
+arriving in the experimental unit 2 weeks prior to the onset of the behavioral experiments (C57BL/6N GR+/+ N = 15, GR+/− N = 14,
+BALB/c GR+/+ N = 9, GR+/− N = 10). 
+All behavioral procedures were conducted during the dark, e. g.  the
+animals’ active phase with lights oﬀ at 9 am to 9 pm (UCMS paradigm)
+or 7 am to 7 pm (LH paradigm).  Water and food pellets were available
+ad libitum.  Bodyweight was assessed weekly when the cages were
+changed.  All experiments were conducted blind to the genotype, which
+was analyzed after the animals had undergone all behavioral tests.  All
+animal experiments were conducted in accordance with the guidelines
+of the European Commission (EC) Council Directive (2010/63/EU)
+(Germany: Regierungspräsidium Karlsruhe, France: Comité Régional
+d’Ethique en Expérimentation Animale (CREEA Centre Limousin)).  All
+eﬀorts were made to minimize animal suﬀering and to reduce the
+number of animals used. 
+2. 2.  Unpredictable chronic mild stress procedure (UCMS) and behavioral
+consequences
+2. 2. 1.  UCMS
+Mice were repeatedly subjected to various socio-environmental
+stressors according to a balanced schedule for a total period of 4 weeks
+as described previously (Fig 1A) [28].  The protocol applied involved
+randomized, daily exposures to distinct stressors including: damp
+bedding, removal of bedding, substitution of sawdust with 21 °C water
+(shallow water bath), cage exchange (mice were placed in the empty
+cage of another male); sawdust change, cage tilting (45°), predator
+smell (rat feces) and predator bird sounds as well as an altered length
+and time of the light/dark cycles, and restraint stress (1 h).  Mice were
+subjected 3–4 h per day to these mild stressors.  None of the stressors
+involved water or food deprivation.  In order to prevent habituation and
+maintaining the aspect of unpredictability, the number of stressors and
+their duration changed every day.  During the behavioral test procedure
+the UCMS was stopped to avoid acute stress eﬀects.  Moreover, we
+consider that the tests per se constitute another kind of stressful situation.  To manifest the function of the stressors in the UCMS paradigm we
+measured bodyweight and coat state weekly. 
+2. 2. 2.  Coat state
+Weekly, the coat state was assessed as an index of depressive-like
+state.  The total score of the coat state resulted from the sum of scores
+obtained from 8 diﬀerent body parts: head, neck, dorsal coat, ventral
+coat, front and hind paws, genital region and tail.  For each body area, a
+score of 0 was given for a well-groomed coat and 1 for an unkempt coat. 
+Thus the more elevated the total score the worse the fur [17,31].  Dirty
+state is characterized by a ﬂuﬀy, greasy, less dense coat or piloerection. 
+2. 2. 3.  Nest test
+For the nest test all mice, including the controls, were single housed
+in type II Macrolon® cages with only standard bedding, for at least 15 h
+before the test started.  A square of pressed cotton (Nestlet®, 5 × 5 cm2)
+was introduced into each cage 1 h before the end of the light phase. 
+After 5 h and 24 h, the quality of the nest was rated by using the scale ofM. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79Fig.  1.  Time lines of the two independent paradigms. 
+A Unpredictable chronic mild stress (UCMS) with
+behavioral testing.  UCMS consisted of several stressors applied: damp bedding, removal of bedding,
+shallow water bath instead of bedding, cage exchange to foreign cage, sawdust change, cage tilting
+(45°), predator smell
+feces), predator bird
+sounds, altered light/dark cycle, 1 h restraint stress,
+in a randomized order with 3–4 h stressor exposition
+per day.  During UCMS, bodyweight and coat state
+was assessed weekly; nest test (NT), was performed
+in the 3rd week of UCMS.  After 4 weeks of UCMS,
+behavioral tests were performed: novelty suppressed
+feeding (NSF), splash test (ST), home cage activity
+(Act), tail suspension test (TST), all conducted withinB Basal behavioral testing prior to learned helplessness (LH) paradigm.  Locomotion in an unknown
+open ﬁeld (OF) and pain sensitivity on the hotplate
+(HP) was assessed under basal conditions prior to the
+learned helplessness paradigm (LH, 3 days). 
+Deacon [32] with 1 as no visible interaction with the nestlet up to a
+score of 5 (globular nest). 
+housed control animals were kept single housed for 24 h prior to testing
+in a disposable cage to allow individual measurements. 
+2. 2. 4.  Novelty suppressed feeding
+This test induced a conﬂicting motivation between the drive to eat
+and the fear of venturing the center of an unknown arena [33,34]. 
+The wooden experimental box (30 × 30 × 20 cm3) was illuminated
+indirectly by red light and the ﬂoor was covered with 2 cm of standard
+sawdust.  12 h before the test, the food was removed from the home
+cages.  One pre-weighed standard food pellet was placed on a white
+paper-platform (1. 5 × 1. 5 cm2) in the center of the box.  The mouse was
+placed into a corner of the test box.  Within a 3 min period, the latency
+to the ﬁrst sniﬀ, number of approaches to the food as well as the latency
+to start consuming the pellet was recorded.  To control for potentially
+reduced appetite induced by the UCMS paradigm, the feeding drive of
+each animal was assessed by returning it to the familiar environment of
+the home cage immediately after the 3 min test phase, and measuring
+the amount of food consumed over a further period of 5 min (home food
+consumption). 
+2. 2. 5.  Splash test
+The splash test was used to evaluate the motivation of the mice to
+initiate self-care grooming as hedonic behavior [35].  The splash test
+consisted of splashing a 10% sucrose solution on the mouse’s dorsal
+coat in its home cage.  Because of its viscosity, the sucrose solution
+dirties the mouse fur and the animals initiate self-care grooming behaviors.  Immediately after having been splashed, the behavior of the
+mice was assessed over 5 min.  Three parameters were measured: latency and frequency to groom as well as time spent grooming. 
+Grooming bouts included nose/face grooming (strokes along the snout),
+head washing (semicircular movements over the top of the head and
+behind the ears) and body grooming (body fur licking). 
+2. 2. 6.  Homecage locomotor activity (Actimeter)
+The actograph device (Actimeter OSYS, Orga System, France) allowed the assessment of the activity of mice in their home cage, thus
+excluding the possibility of confounding the results due to novelty-induced alterations.  The home cage was placed in the center of the device, which consisted of a 20 × 20 cm2 square plane with two light
+beams, crossing the arena from midpoint to midpoint of opposite sides,
+thus dividing the plane into four quadrants and automatically detecting
+the movement of the animal when it crossed through, allowing to establish a score.  The higher the score, the more the mouse moved [36]. 
+Testing was carried out in the dark phase for 2 h allowing a better
+evaluation of the basal
+locomotor activity.  Disposable cages were
+placed in the device 15 min before the beginning of testing, group2. 2. 7.  Tail suspension test
+Mice were suspended by their tails with adhesive tape (approx.  1 cm
+from the tip of the tail) and attached to a horizontal pole 60 cm above
+to the ﬂoor [37].  4 mice were tested simultaneously for a period of
+6 min and activity was assessed by a video tracking software (Ethovision XT, Noldus, The Netherlands).  The time spent immobile, deﬁned as
+motionless hanging without additional moving, was measured. 
+2. 3.  Learned helplessness paradigm and preceding basal behavior
+2. 3. 1.  Open ﬁeld test
+The open ﬁeld test evaluates the general locomotor and exploratory
+behavior of mice exposed to a large open arena under dimmed light
+conditions [38,39].  It was applied to exclude potential artifacts in the
+LH paradigm due to genotype-related changes in locomotion.  Activity
+monitoring was conducted in a square-shaped, white open ﬁeld, measuring 50 × 50 cm2 and illuminated from above by 25 lx.  Mice were
+placed into the arena individually and monitored for 10 min by a video
+camera (Sony CCD IRIS).  The resulting data were analyzed using the
+image processing system EthoVison 3. 0 (Noldus Information Technology, Wageningen, The Netherlands).  For each sample, the system
+recorded position, object area, and the status of deﬁned events.  Parameters assessed were total distance moved, velocity, distance to walls
+and time in center, which was deﬁned as the area 10 cm distant from
+the walls. 
+2. 3. 2.  Hotplate test
+The hotplate test assesses pain sensitivity (ATLab, Vendargues,
+France) and serves as a pre-test for the LH procedure to avoid false
+positives due to basally altered pain sensitivity.  Temperature was set at
+53 °C ( ± 0. 3 °C) and a 45 s cut-oﬀ was introduced to prevent injury of
+mice.  Latency to ﬁrst reaction, i. e.  licking hind paws or jumping, was
+assessed [24]. 
+2. 3. 3.  Learned helplessness (LH)
+The learned helplessness paradigm, a test procedure in which stress
+sensitivity and depressive-like features can be measured, was conducted
+as described [27].  Mice received 360 foot shocks (0. 150 mA) on 2
+consecutive days
+shock chamber
+(18 × 18 × 30 cm3), equipped with a stainless steel grid ﬂoor (Coulborn precision regulated animal shocker, Coulborn Instruments, Düsseldorf, Germany).  Non-shocked control animals remained in the same
+chambers without receiving any aversive stimulation.  The foot shocks
+transparent Plexiglas®M. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79
+applied were unpredictable with varying shock-durations (1–3 s) and
+interval episodes (1–15 s).  24 h after the second foot shock exposure;
+learned helplessness was evaluated by testing two-way avoidance in a
+shuttle box (Coulborn Instruments, Düsseldorf, Germany).  Spontaneous
+initial shuttle activity from one compartment to the other was monitored during the ﬁrst 2 min by red-light beams at the bottom of each of
+the two compartments.  Thereafter, speciﬁc avoidance learning was
+tested over 30 trials.  Each trial started with a light stimulus of 5 s,
+announcing a subsequent foot shock (0. 150 mA; maximal duration
+10 s).  The total duration of this procedure varied (total testing time
+averaged 20 min) according to each animal’s individual performance in
+terms of failures (i. e.  not attempting to escape from the shock) and
+escape latencies (i. e.  latency to escape after onset of the shock).  Mice
+were divided in two groups, receiving either the foot shocks on the ﬁrst
+two days (foot shock group, C57BL/6N GR+/+ N = 10, GR+/−
+N = 10, BALB/c GR+/+ N = 10, GR+/− N = 10) or sitting in the
+shock boxes without receiving any foot shocks (un-shocked control
+group C57BL/6N GR+/+ N = 8, GR+/− N = 8, BALB/c GR+/+ N = 8,
+GR+/− N = 8), at the 3rd day, all mice (foot shock and un-shocked
+control group) were treated similarly in the shuttle boxes. 
+2. 4.  Statistical analysis
+Analyses were conducted using the SPSS for Windows 21.  Our focus
+was on the factors ‘stress’ and ‘genotype’ within the strains of BALB/c
+and C57BL/6N.  Strain comparisons were therefore not included. 
+To examine the eﬀects of the UCMS over time, repeated measurement ANOVAs were applied with the factors ‘time’ as within subject
+factor and both ‘stress’ plus ‘genotype’ as between subjects for intergroup comparisons.  With regard to the behavioral data, we did not
+perform bi-factorial ANOVAs but rather followed an attempt of explorative statistics to ﬁnd a speciﬁc pattern of genotype or stress eﬀects. 
+This was achieved by comparing the speciﬁc sub-groups directly by
+Student's T-Tests.  We took into consideration that this approach requires statistical corrections if we make an overall comparison.  To be
+able to see the single and speciﬁc eﬀects, though, we chose the route of
+analyzing and focusing on the presence of deﬁnite signiﬁcances per se,
+the parameter and the change of direction instead (Table 1).  Signiﬁcance levels were therefore uncorrected and set to p < 0. 05. 
+3.  Results
+3. 1.  Basal eﬀects of GR+/− genotype
+We evaluated basal eﬀects of the GR+/− genotype in both control
+groups of the BALB/c and the C57BL/6N background strains. 
+3. 1. 1.  BALB/c
+GR+/− mice, when compared totheir respective littermate controls
+on a BALB/c background, did not develop any alterations in neither
+absolute bodyweight, relative bodyweight change (Fig.  2A) nor coat
+state over time (Fig.  2C), dependent on the genotype of the mice (repeated measurement ANOVA factor genotype: absolute bodyweight: F
+(1,35) = 0. 378 p = 0. 543, rel.  bodyweight change F(1,35) = 0. 018
+p = 0. 893, coat state F(1,35) = 0. 226 p = 0. 637), although all mice
+showed time-dependent alterations over the experimental phases
+(factor time: absolute bodyweight: F(5,175) = 15. 771 p < 0. 001, rel. 
+bodyweight change F(4,140) = 20. 918 p < 0. 001, Fig.  2A, coat state
+F(5,175) = 66. 775 p < 0. 001, Fig.  2C). 
+In the behavioral tests, genotype eﬀects were apparent in mice on a
+BALB/c background (Table 1): In 4 of the 8 diﬀerent behavioral tests
+applied, a genotype eﬀect was evident in one or several parameters
+measured: In the nest test, the quality of the nest was enhanced in
+mutant GR+/− mice as a trend after 5 h (Student's T-Test p = 0. 063)
+and signiﬁcantly after 24 h (p = 0. 026, Fig.  3A).  In the splash test,
+mutant GR+/− mice started to groom later
+(p = 0. 039) andadditionally had a reduced frequency (p = 0. 060) and total grooming
+duration (p = 0. 035).  Home cage activity was signiﬁcantly reduced
+(p = 0. 027, Fig.  3C) although the activity (as measured by total distance moved or velocity) as well as the spatial pattern of locomotion
+(center time, distance to walls) was unaltered in a novel, unknown open
+ﬁeld.  In the tail suspension test, GR+/− mice showed a decrease in the
+total immobility time (p = 0. 026, Fig.  3E).  No signiﬁcant genotype
+eﬀects were obvious in the novelty suppressed feeding test, in pain
+sensitivity on the hotplate or in the performance in the shuttle box of
+the un-shocked control groups. 
+3. 1. 2.  C57BL/6N
+The inﬂuence of the GR genotype on mice on a C57BL/6N background is similarly strain and test speciﬁc, as GR+/− mice on a C57BL/
+6N background did not develop any alterations in neither absolute
+bodyweight, relative bodyweight change (Fig.  2B) nor coat state
+(Fig.  2D) over time, dependent on the genotype of the mice (factor
+genotype: absolute bodyweight: F(1,55) = 0. 111 p = 0. 741,bodyweight change F(1,55) = 0. 985 p = 0. 325, coat state F(1,55)
+= 0. 984 p = 0. 326).  Also mice of the C57BL/6N background exhibited
+time-dependent alterations concerning bodyweight and coat state
+(factor time: absolute bodyweight: F(5,275) = 11. 799 p < 0. 001, rel. 
+bodyweight change F(4,220) = 15. 989 p < 0. 001, Fig.  2B, coat state F
+(5,275) = 79. 194 p < 0. 001, Fig.  2D).  The inconsistent but surprisingly speciﬁc picture of genotype eﬀects within the BALB/c background
+strain mentioned above was not at all noticeable in the GR+/− mutants
+on the C57BL/6N background strain (Fig.  3B, D, F).  Here, the only
+genotype eﬀect was a slightly decreased initial activity of the GR+/−
+mutant mice during the shuttle box testing in the un-shocked control3. 2.  Stress eﬀects in control mice
+3. 2. 1.  UCMS induces physiological and behavioral stress responses
+3. 2. 1. 1.  BALB/c.  In mice on a BALB/c background, a clear pattern of
+stress eﬀects was evident (Table 1): while the relative bodyweight
+change (Fig.  2A, F(1,35) = 9. 336 p = 0. 004) and coat state (Fig.  2C, F
+(1,35) = 35. 362 p < 0. 001) were altered by stress, the absolute
+bodyweight remained unchanged (F(1,35) = 2. 621 p = 0. 114).  The
+development over time of (absolute) bodyweight and coat state
+(Fig.  2C) interacted signiﬁcantly with stress (interaction time x stress:
+state: F(5,175)
+bodyweight F(5,175) = 4. 220 p = 0. 001;
+= 11. 073 p < 0. 001). increased activity signiﬁcantly when measured in the home cage
+(p = 0. 034, Fig.  3C), and consistently, decreased immobility in the
+tail suspension test (p = 0. 032, Fig.  3E).  Nest building quality (Fig.  2A),
+behavioral performance in the novelty suppressed feeding task and
+grooming behavior in the splash test remained unaﬀected by chronicIn mice on BALB/c background,absolute
+bodyweight
+(F(1,55) = 0. 090
+3. 2. 1. 2.  C57BL/6N.  In mice on a C57BL/6N background,unpredictable chronic mild stress paradigm induced stress eﬀects over
+time concerning the relative bodyweight change (Fig.  2B, repeated
+measurement ANOVA factor stress: F(1,55) = 18. 342 p < 0. 001) as
+well as the coat state (Fig.  2D, F(1,55) = 178. 587 p < 0. 001) but notThe
+development over time of (absolute and relative) bodyweight as well
+as coat state interacted signiﬁcantly with stress (Fig.  2B, D, repeated
+measurement ANOVA: interaction time x stress: absolute bodyweight F
+(5,275) = 8. 103 p < 0. 001; relative bodyweight change F(4,220)
+= 3. 156 p = 0. 015; coat state: F(5,275) = 70. 623 p < 0. 001).  In
+contrast, mice on a C57BL/6N background were behaviorally almost
+unaﬀected by chronic mild stress (Fig.  3B, D, F), only the total amount
+of food consumed during the novelty suppressed feeding test was
+increased due to stress exposure (p = 0. 008). 
+p = 0. 765). 
+M. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79Pattern of statistical results within the unstressed controls due to genotype impact, stress eﬀects due to UCMS or LH paradigms or gene x environment interactions. (For
+interpretation of the references to color in text, the reader is referred to the web version of this article. )
+Pattern of signiﬁcant (increased: orange, decreased: green) and non-signiﬁcant (black) p-values of the statistical tests applied on the behavioral and physiological
+parameters.  P-values were based on diﬀerent statistical tests: Bodyweight and coat state: repeated measurement ANOVA, factor genotype, factor stress and interaction
+stress x genotype.  Nest test until learned helplessness: Student's T-Tests of the diﬀerent sub-groups.  No corrections of the values were applied.  n. t. : not tested, because
+these tests were performed as pre-tests to exclude artifacts in the learned helplessness paradigm due to general changes in activity or pain sensitivity. 
+3. 2. 2.  Unpredictable stress induces learned helplessness
+3. 2. 2. 1.  BALB/c.  Uncontrollable and unpredictable foot shock stress
+induced learned helplessness in control mice on BALB/c background
+(Table 1) concerning a reduced number of escapes (p < 0. 001) and
+increased number of failures (p < 0. 001, Fig.  4A) as well as the
+increased escape latency (p < 0. 001, Fig.  4C).  Activity prior to the
+onset of the ﬁrst stimulus (initial activity) was reduced in foot shocked
+treated mice (p < 0. 001) although inter-trial
+interval activity
+remained unchanged (p = 0. 889). 
+3. 2. 2. 2.  C57BL/6N.  Control mice on a C57BL/6N background
+exhibited a comparable phenotype when exposed to the foot shock
+stress prior to the shuttle box paradigm (Table 1): Number of escapes
+(p = 0. 013) was decreased while the number of failures (p = 0. 056,
+Fig.  4B) as well as escape latencies (p < 0. 001, Fig.  4D) were
+increased.  Preceding exhibition with uncontrollable and unpredictable
+foot shock stress induced a reduction of initial activity (p < 0. 001) butinterfere with shuttling behavior during the trials (ITI,
+p = 0. 259). M. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79
+Fig.  2.  Relative bodyweight change and coat state during the UCMS procedure. 
+A, B Relative bodyweight change of GR+/+ (black line) and heterozygous GR mice (GR+/−, dashed black line) without UCMS treatment in comparison to UCMS treated GR littermate
+controls (grey line) and GR mutant mice (grey dashed line).  1st bodyweight measurement (week 1) was deﬁned as 100%. 
+C, D Coat state over time during the UCMS paradigm of GR+/+ (black line) and heterozygous GR mice (GR+/−, dashed black line) without UCMS treatment in comparison to UCMS
+treated GR littermate controls (grey line) and GR mutant mice (grey dashed line).  Minimum score: 0, maximum score 8. 
+Left column: mice on a BALB/c background (A, C), right column: mice on C57BL/6N background (B, D).  Unpredictable chronic mild stress: UCMS.  Data represent mean +/−SEM. 
+3. 3.  Stress eﬀects in mutant GR+/− mice
+Stress had almost no distinct eﬀect on GR+/− mice than on control
+mice (Table 1): during the chronic mild stress paradigm, (absolute and
+relative) bodyweight development as well as coat state was neither
+aﬀected diﬀerently by stress on BALB/c nor on C57BL/6N background,
+repeated measurement ANOVAs showed no interaction eﬀects of stress
+x genotype.  In the behavioral tasks after the chronic mild stress paradigm, mutant GR+/− mice reacted almost not diﬀerently than controls,
+e. g.  with decreased nest building quality only of mutants on the BALB/c
+background (5 h score: p = 0. 040, 24 h score p = 0. 009, Fig.  3A) as
+well as increased latency to start eating in the novelty suppressed
+feeding task (p = 0. 023). 
+In the learned helplessness paradigm, comparable number of mutant GR+/− mice showed learned helplessness
+induced by unpredictable and uncontrollable foot shock stress: In the BALB/c mice, 8
+out of 10 control mice showed helplessness while 9 out of 10 mutant
+GR+/− mice were aﬀected.  On C57BL/6N background, 4 out of 10
+control mice and 3 out of 10 mutant GR+/− mice showed learned
+helplessness.  The genotype eﬀects concerning the diﬀerent behavioral
+responses avoidance, escapes, failures and escape latency (as well as initial activity or intertrial interval activity) never reached signiﬁcant
+levels on neither the BALB/c nor the C57BL/6N background. 
+<Conclusion> Discussion. 
+As demonstrated by our results, both, UCMS but also the LH paradigm represent depression models with a generally good overall
+validity [26,27]: in the UCMS this became evident by a decreased coat
+state and changes in bodyweight development, indicating reduced selfmaintenance in both background strains.  The LH procedure consistently
+evoked a depressive-like phenotype in animals exposed to unpredictable and uncontrollable foot shocks, equally and irrespective of
+being heterozygous for GR or wildtype. 
+What, however, remains surprising are the facts that these procedures, resembling well-characterized challenging and depression-inducing environmental conditions, are not equally eﬀective when applied
+to GR+/− animals in diﬀerent background strains. 
+In a previous study, Ridder Name described a robust eﬀect of a
+heterozygous mutation of GR when examined on a C57BL/6N x FVB/N
+F1 background [20].  This phenotype was represented by characteristic
+behavioral changes, i. e.  increased helpless behavior, which is also an
+indicative parameter in human patients.  Furthermore, the animals demonstrated disturbances in their HPA system when exposed to restraint
+stress and to a DEX/CRH challenge test, that revealed similar results as
+in humans with major depression [20].  Another important ﬁnding was
+the reduction of BDNF expression in distinct brain regions relevant in
+the development of depression [20,40]. 
+While in our hands in the BALB/c strain, the GR mutation already
+caused basal changes in activity; maintenance and despair behavior in
+the tail suspension test (TST), the UCMS per se did not further evoke
+more speciﬁc changes in this background.  Contrary, only in GR+/
++animals on a C57BL/6N background UCMS led to changes in bodyweight and enhanced the total amount of food consumed in the novelty
+suppressed feeding task; there were no basal genotype eﬀects. 
+Respective diﬀerences are not easy to explain, but could be attributed to ﬂoor- or ceiling eﬀects, respectively.  A lack of diﬀerence inM. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79
+Fig.  3.  Behavioral consequences after the unpredictable chronic mild stress (UCMS) paradigm in nest test, homecage locomotor activity and tail suspension task. 
+A, B Nest quality scores (min.  score 0, max.  score 5) 5 h (left columns) and 24 h (right columns) after introducing a nestlet in the cage.  Animals were single housed during and 24 h prior
+to the test. 
+C, D Homecage locomotor activity within 2 h during the dark phase.  The score represents beam breaks, reﬂecting the animals’ locomotor activity in the cage. 

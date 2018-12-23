@@ -1,0 +1,136 @@
+
+Despite on-going research, the progress in knowledge of pathogenesis and pathophysiology of psychiatric disorders, particularly depression, remains unsatisfactory.  This emphasizes the need for animal
+models to study the pathophysiology and treatment targets to overcome
+the great heterogeneity of this disease due to its multifactorial background [1].  While there are a number of animal models, from rodents
+[2–5] to ﬁsh [6], mimicking characteristic features of the pathology,
+the validity of such models − particularly in light of the negative effects on the animals − is under controversial debate [7,8]. 
+Since both perspectives need to be considered, the scientiﬁc and the
+ethical, one needs to ﬁnd a good compromise to fulﬁll both criteria. 
+Of course it is not possible to develop animal models mimicking the
+human situation 1:1, but there are emotional, homeostatic and psychomotoric core symptoms of human depression that may be assessed
+objectively in rodent models [9].  One approach could be an increased
+awareness with regard to the optimal constellation of paradigms and
+model organisms [10].  As a prerequisite, in mice this requires an adequate consideration of background strains, which may fundamentally
+diﬀer with regard to a solid basis for the respective mutation [11–17]. 
+Many in vivo studies involving genetic manipulations in mice are
+conducted on a C57BL/6 background, which was recently described as
+“gold standard” [18,19].  On the other hand, to model the human
+condition in a more translational way it would be advisable not to use
+inbred animals, but to work with mixed genetic backgrounds [20],
+which resemble the heterogeneity of patients more closely.  This is
+supported by a study by Ridder Name who was able to demonstrate a
+helpless behavioral phenotype in GR+/− mice on a mixed C57BL/6N x
+FVB/N background, not under basal, but stressed conditions [20]. 
+Contrary, mice overexpressing the GR (on the mixed background as
+well) showed the opposite phenotype when analyzed for respective
+⁎ Corresponding author at: Interfaculty Biomedical Research Facility, University of Heidelberg, Im Neuenheimer Feld 347, 69120 Heidelberg, Germany. 
+E-mail address: miriam. vogt@ibf. uni-heidelberg. de (M. A.  Vogt). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 07. 037
+Received 23 June 2017; Received in revised form 21 July 2017; Accepted 25 July 2017
+Available online 03 August 2017
+0166-4328/ 
+M. A.  Vogt Name
+Behavioural Brain Research 335 (2017) 71–79
+parameters [20,21], which emphasizes the impact of an appropriate
+selection of background strains to increase the validity of in vivo studies. 
+GR represents a target gene for depression and several publications
+indicate its signiﬁcance in regulating the negative feedback in the hypothalamus-pituitary-adrenal (HPA) system after stress-induced increase of corticosterone [22]. 
+Since depression in humans and animals represents a multi-factorial
+disease, that implies the interaction between a distinct genetic predisposition in the presence of a challenging environment [23,24], the
+approach by Ridder Name was considered a suitable model with good
+face- and construct validity.  In addition, stress physiological data and
+the responsiveness of the model to DEX/CRH challenge underlined its
+impact with regard to predictive validity [20,25]. 
+What remains, however, a challenging aspect is the general validity
+of diﬀerent animal models for depression and anxiety [26].  Considering
+construct validity, i. e.  etiology of a disease, the learned helplessness
+(LH) paradigm may be a workable compromise due to a rather artiﬁcial
+− instead of straight translational − way to induce the depressive-like
+state by uncontrollable and unpredictable foot shocks [27].  From this
+point of view, the model of unpredictable chronic mild stress (UCMS)
+may be better suited, but also bears some challenges [28,29]. 
+The aim of our study here was to examine the transferability of a
+heterozygous mutation of the GR to two commonly used background
+strains, which naturally diﬀer in their basal characteristics [11].  Furthermore, it was our intention to compare two diﬀerent stress models to
+be able to make a more valid, generalized statement about the role of
+GR in depression. 
+To follow up our hypothesis that, with our models, genetic traits can
+evoke a stable depressive-like phenotype − reliable even on multiple
+background strains, we investigated GR+/− animals on a C57BL/6N
+and BALB/c background.  Assuming that a well-described stressor is a
+decisive factor, the mice were divided in two cohorts, exposed to either
+four weeks of UCMS or LH respectively, and were then analyzed in
+standardized behavioral tests for emotional and depressive-like behaviors. 
+<Middle> Material & methods. 
+2. 1.  Animals and housing conditions
+All experiments were conducted with male mice (12–15 weeks old
+at the onset of the experiments) being either heterozygous for the expression of the glucocorticoid receptor (GR+/−) or littermate controls
+[30].  The founders of GR-heterozygous mice (GR+/−) were developed
+by using homologous recombination in embryonic stem cells as described earlier [30].  All mice were genotyped after weaning to check for
+heterozygosity of the GR alleles (Primer sequences from 5′ to 3′: GR1:
+GGC ATG CAC ATT ACG GCC TTC T; GR4: GTG TAG CAG CCA GCT
+TAC AGG A GR8: CCT TCT CAT TCC ATG TCA GCA TGT).  Real-time
+RT-PCR and Western Blot analyses by Ridder Name [20] revealed a
+signiﬁcant down regulation of GR protein as well as mRNA level in GR
+heterozygous mice.  Mice were bred either for a minimum of 10 generations on a C57BL/6N (N = 95) or on a BALB/c (N = 75) background strain in the animal facility of the Central Institute of Mental
+Health (CIMH, Mannheim, Germany).  Mice were weaned at the age of 4
+weeks, and were then housed in type III Macrolon® cages equipped with
+nesting material, food and water ad libitum in littermate groups. 
+At an age of 8 weeks, the litter groups were divided in two independent cohorts being either transported to the University François
+Rabelais (Tours, France) for the unpredictable chronic mild stress
+(UCMS) paradigm and the following behavioral experiments (see
+Fig.  1A for details) or transferred from the CIMH breeding to housing
+facility for the basic behavioral experiments and the subsequent learned
+helplessness (LH) paradigm (see Fig.  1B for details). 
+For the UCMS, the animals were randomly separated into speciﬁc
+housing conditions as follows: unstressed control mice (C57BL/6N
+GR+/+ N = 15, GR+/− N = 14, BALB/c GR+/+ N = 9, GR+/−
+N = 10) were group housed up to a maximum of four littermates per
+cage in type III Macrolon® cages equipped with red transparent igloos
+and PVC plastic tunnels.  Mice exposed to the UCMS paradigm (C57BL/
+6N GR+/+ N = 15, GR+/− N = 15, BALB/c GR+/+ N = 10, GR+/−
+N = 10) were maintained single housed in disposable cages with a ﬂoor
+area of 187 cm2 (Charles River) with standard bedding only (isolation
+stress).  Stress group and control group were maintained in separated
+rooms to avoid confounding eﬀects of the stress procedures in the
+control group. 
+In the LH paradigm group, mice were single housed with standard
+bedding and nesting material (paper tissue) in type II Macrolon® cages,
+arriving in the experimental unit 2 weeks prior to the onset of the behavioral experiments (C57BL/6N GR+/+ N = 15, GR+/− N = 14,
+BALB/c GR+/+ N = 9, GR+/− N = 10). 
+All behavioral procedures were conducted during the dark, e. g.  the
+animals’ active phase with lights oﬀ at 9 am to 9 pm (UCMS paradigm)
+or 7 am to 7 pm (LH paradigm).  Water and food pellets were available
+ad libitum.  Bodyweight was assessed weekly when the cages were
+changed.  All experiments were conducted blind to the genotype, which
+was analyzed after the animals had undergone all behavioral tests.  All
+animal experiments were conducted in accordance with the guidelines
+of the European Commission (EC) Council Directive (2010/63/EU)
+(Germany: Regierungspräsidium Karlsruhe, France: Comité Régional
+d’Ethique en Expérimentation Animale (CREEA Centre Limousin)).  All
+eﬀorts were made to minimize animal suﬀering and to reduce the
+number of animals used. 
+2. 2.  Unpredictable chronic mild stress procedure (UCMS) and behavioral
+consequences
+2. 2. 1.  UCMS
+Mice were repeatedly subjected to various socio-environmental
+stressors according to a balanced schedule for a total period of 4 weeks
+as described previously (Fig 1A) [28].  The protocol applied involved
+randomized, daily exposures to distinct stressors including: damp
+bedding, removal of bedding, substitution of sawdust with 21 °C water
+(shallow water bath), cage exchange (mice were placed in the empty
+cage of another male); sawdust change, cage tilting (45°), predator
+smell (rat feces) and predator bird sounds as well as an altered length
+and time of the light/dark cycles, and restraint stress (1 h).  Mice were
+subjected 3–4 h per day to these mild stressors.  None of the stressors
+involved water or food deprivation.  In order to prevent habituation and
+maintaining the aspect of unpredictability, the number of stressors and
+their duration changed every day.  During the behavioral test procedure
+the UCMS was stopped to avoid acute stress eﬀects.  Moreover, we
+consider that the tests per se constitute another kind of stressful situation.  To manifest the function of the stressors in the UCMS paradigm we
+measured bodyweight and coat state weekly. 
+2. 2. 2.  Coat state
+Weekly, the coat state was assessed as an index of depressive-like
+state.  The total score of the coat state resulted from the sum of scores
+obtained from 8 diﬀerent body parts: head, neck, dorsal coat, ventral
+coat, front and hind paws, genital region and tail. 

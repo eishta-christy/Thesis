@@ -1,0 +1,159 @@
+. 
+All auditors (US and foreign) who audit US-listed companies are required to register with the Public Company Accounting 
+Oversight Board (PCAOB) and be subject to PCAOB inspections.  In this study, we focus on foreign auditors and consider 
+whether audit quality for non -US-listed foreign public clients (non-US-listed clients) is higher following the initial PCAOB inspection. 
+Our study addresses the issue of positive externality, i. e. , whether the PCAOB international inspection program 
+improves audit quality for foreign auditors’ non-US-listed foreign clients even though investors in these particular foreign 
+companies are not the intended beneﬁciaries of the foreign auditor inspection program
+The impact of the PCAOB international inspection program on audit quality abroad is ambiguous.  Given the PCAOB’s 
+reputation for actively looking for auditor misconduct and taking follow-up disciplinary actions against deﬁcient auditors 
+( DeFond, 2010; Farrell and Shabad, 2005 ), the very act of registering with the PCAOB may exacerbate foreign auditors’ exposure to reputation loss and provide them with an ex ante incentive to strengthen their ﬁrm -level quality controls and 
+increase audit quality.  To the extent that audit deﬁciencies are discovered during the initial inspection, the auditor may 
+have an additional incentive to take appropriate remedial action and strengthen ﬁrm-level quality controls to avoid further 
+embarrassment on subsequent inspections.  The improvements in the foreign auditor’s ﬁrm -level quality controls could increase audit quality for all of the ﬁrm’s foreign clients US-listed or otherwise.  Moreover, because the starting point for audit 
+quality is potentially lower abroad than in the US ( Choi Name, 2008; Francis and Wang, 2008 ), the PCAOB inspection program 
+could have a greater impact abroad than in the US.  
+However, reasons exist to doubt the eﬃcacy of PCAOB inspections in improving audit quality.  Prior research ( DeFond, 
+2010; Lennox and Pittman, 2010 ) indicates that PCAOB inspection reports are not useful for assessing audit quality because 
+they merely list audit deﬁciencies and do not provide a summary opinion about the auditor’s quality.  Moreover, the effectiveness of the PCAOB’s international inspections may be limited by geographic distance from the US, potential language 
+differences, or cultural barriers.  Finally, foreign auditors may follow an asymmetric approach to their US-listed and nonUS-listed clients.  Given that the PCAOB is primarily interested in protecting investors in US-listed companies (selecting only 
+US-listed client engagements for inspection) and the fact that auditor litigation exposure is lower for non-US-listed clients 
+than for US-listed clients, foreign auditors may be less incentivized to improve audit quality for their non-US-listed clients.  
+Foreign auditors may override their ﬁrm-level quality controls and utilize less effective audit programs or assemble less 
+qualiﬁed audit teams for their non-US-listed clients (which may be less costly).  To the extent that foreign auditors follow 
+an asymmetric approach in servicing their US-listed and non-US-listed clients, any PCAOB inspection-related improvements 
+in ﬁrm-level quality controls may not necessarily beneﬁt their non-US-listed audit clients.  For all these reasons, the overall 
+effectiveness of the PCAOB international inspection program in improving audit quality for foreign auditors’ non-US-listed 
+clients is far from obvious and remains an open empirical question.  
+Because the quality of ﬁnancial reporting is a joint outcome of manager and auditor decision making, audit quality is 
+best viewed as a continuum with higher audit quality providing greater assurance of ﬁnancial reporting quality ( DeFond and 
+Zhang, 2014 ).  Still, beyond the notion that better audit quality leads to better ﬁnancial reporting quality, little or no consensus emerges in the extant literature as to how best to measure audit quality.  Hence, given that all audit quality proxies have 
+their limitations, we use multiple ﬁnancial reporting quality measures (such as discretionary accruals, the propensity to just 
+meet or beat earnings expectations, and accruals quality) that capture different dimensions of the audit quality construct.  
+In addition, we employ a measure of auditor independence: the likelihood of the auditor issuing a modiﬁed opinion for 
+non-US-listed clients as a proxy for audit quality.  For non-US-listed clients, this metric is similar to the propensity to issue 
+a going-concern opinion for US-listed clients, and it is generally viewed as a measure of the auditor’s ability to withstand 
+client pressure to issue a clean audit opinion ( DeFond Name, 2002; Chen Name, 2010; Fung Name, 2016 ).  
+Our study covers a 13-year period (2002–2014) and includes a total of 61,612 non-US-listed client-year observations with 
+PCAOB-registered foreign auditors from 55 non-US countries.  Our sample includes observations from countries that allow 
+as well as those that prohibit PCAOB inspections.  In our difference-in-differences (DID) research design, we control for the 
+threat of PCAOB inspections based not only on whether the observation is from a country that allows (or prohibits) PCAOB 
+inspections (consistent with Lamoreaux (2016) ) but also on a model that captures the likelihood of the client-year observa3 Our ﬁndings suggest that initial inspections have an incremental 
+tion being audited by a PCAOB-inspected foreign auditor.  
+effect on the audit quality of the foreign auditor over and above the effect of the threat of such inspections.  These ﬁndings 
+are of particular interest because some countries (such as China) continue to disallow PCAOB inspections.  Our ﬁndings are 
+consistent with those of Aobdia and Shroff (2017) who suggest that PCAOB oversight of non-U. S.  auditors with US-listed 
+clients increases the perceived assurance value of their audits and is reﬂected in an increase in their market share in their 
+home countries.  
+All of our results continue to hold when we re-estimate our tests using a matched sample based on the propensity score 
+of a non-US-listed foreign client having a PCAOB-inspected foreign auditor.  Further, we examine whether the strength of 
+the positive relation between PCAOB inspections and audit quality metrics for foreign auditors’ non-US-listed clients (the 
+externality effect) varies cross-sectionally over a number of factors.  The ﬁndings from our cross-sectional analyses suggest 
+that, controlling for the threat of inspections, the impact of the initial inspection is stronger when the likelihood of a foreign 
+auditor being inspected by the PCAOB is lower, in countries without a substantive increase in ﬁnancial reporting enforcement, in countries with lower liability standards for accountants, for earlier (versus later) initial inspections, and for foreign 
+auditors aﬃliated with one of the six global audit ﬁrm networks (GNs).  Consistent with the notion that PCAOB inspectors 
+share their ﬁndings and suggestions for improvement with the auditor at the time of the inspection itself without having 
+the auditor wait for the formal inspection report ( Aobdia, 2016 ), in additional analyses we ﬁnd that the improvement in 
+audit quality for foreign auditors’ non-US-listed clients is observable in the year the initial inspection report is issued and 
+that the improvement has persistence beyond the ﬁrst year.  
+Our paper contributes to the literature in several ways.  First, our study, to our knowledge, is the ﬁrst to examine whether 
+the PCAOB’s international inspection program (which is intended to improve audit quality for foreign auditors’ US-listed 
+clients) has a positive externality effect, i. e. , also improves audit quality for foreign auditors’ non-US-listed clients.  
+Our study complements studies by Lamoreaux (2016) and Krishnan Name (2017) who examine the direct audit quality effect of 
+PCAOB inspections, i. e. , focus on foreign auditors’ US-listed clients.  We contribute by documenting a positive externality in 
+that non-US listed audit clients beneﬁt from their audit ﬁrms’ PCAOB inspections.  
+Second, we contribute to the literature on auditor incentives and reputation concerns outside the US.  With respect to 
+incentives, prior research (e. g. , Lennox, 1999 ; Khurana and Raman, 2004 ) suggests that litigation exposure, not reputation 
+protection, is a driver of audit quality outside the US.  Along the same lines, Francis and Wang (2008) propose that audit 
+quality abroad is a function of investor protection.  The stronger the country-level legal institutions, the higher the auditor 
+incentive to provide a quality audit.  However, Weber Name (2008) and Skinner and Srinivasan (2012) argue that reputation 
+loss imposes actual costs on an auditor (in the form of lost market share) in Germany and Japan, respectively, and thereby 
+incentivizes audit quality even in countries with little or no legal exposure.  Pertinent to reputation concerns, the PCAOB’s 
+international inspections have the potential for embarrassing the foreign auditor through adverse publicity by disclosing 
+engagement-level audit deﬁciencies and for not remediating ﬁrm-level quality control deﬁciencies on a timely basis.  Our 
+ﬁndings are consistent with the notion that auditor reputation matters outside the US in that the initial PCAOB inspection has an incremental salutary effect on the foreign auditor’s audit quality over and above the effect of the threat of an 
+inspection itself.  
+Finally,  our  study  contributes  to  the  inquiry  of  the  eﬃcacy  of  the  PCAOB  international  inspection  program  in  improving  audit  quality.   As  noted  by  Carcello  et  al.   (2010) ,  US-listed  companies  audited  by  foreign  auditors  account  for 
+more  than  $650  billion  in  US  market  capitalization.   Further,  foreign  auditors  play  a  substantial  role  in  the  audit  of  US 
+domestic  companies  by  auditing  foreign  subsidiaries  that  are  material  to  the  consolidated  ﬁnancial  statements  of  US 
+multinationals.   For  these  reasons,  the  PCAOB  views  inspections  of  foreign  auditors  as  a  priority  and  devotes  substantial  resources  to  its  international  inspections  program.   Still,  the  board  faces  a  diﬃcult  challenge  in  this  area  because 
+a  number  of  countries  (such  as  China)  have  barred  PCAOB  inspections  within  their  borders  (on  national  sovereignty 
+grounds),  thereby  increasing  the  risk  of  substandard  audit  quality  for  investors  in  US-listed  companies.   We  document 
+that  the  PCAOB  international  inspection  program  generates  a  positive  externality,  as  it  not  only  improves  audit  quality  for  foreign  auditors’  US-listed  clients  (as  shown  in  concurrent  studies  by  Lamoreaux  (2016 )  and  Krishnan  et  al.  
+(2017 )),  but  also  for  their  non-US-listed  clients,  thereby  improving  investor  protection  from  substandard  audits  for  US 
+investors and foreign investors in non-US-listed foreign public companies.  These ﬁndings potentially allow foreign countries  and  regulators  to  better  assess  the  desirability  (in  terms  of  the  favorable  audit  quality  impact  for  their  own 
+domestic  investors  in  non-US-listed  public  companies)  of  allowing  the  PCAOB  to  conduct  inspections  in  their  home 
+countries.  
+The remainder of this paper is organized as follows.  Section 2 provides background information and develops our hypotheses.  Section 3 presents the research methodology and data description.  A discussion of empirical results follows in 
+Section 4 .  Section 5 provides concluding remarks.  
+2.  Background and hypothesis development. 
+2. 1.  Background. 
+The PCAOB was established by the Sarbanes-Oxley Act of 2002 (SOX; PL 107-204) with the objective of improving audit 
+quality for companies listed in US public securities markets.  To achieve this objective, the board is vested with broad powers 
+to oversee and discipline auditors (US and foreign) of US-listed companies and to conduct mandatory inspections of these 
+auditors as a new channel for improving audit quality.  Inspections for US auditors began in 2004.  Inspections for foreign 
+auditors commenced the following year, on a staggered basis, as the PCAOB sought to build its international inspection staff
+and obtain the necessary permission from foreign governments to conduct inspections of foreign auditors in their home 
+countries.  Also, while large auditors (those with more than 100 US-listed public company clients) are subject to annual 
+inspections, small auditors are inspected triennially.  Overwhelmingly, foreign auditors, including those aﬃliated with the six 
+global audit ﬁrm networks, are small auditors.  
+Prior research on the eﬃcacy of PCAOB domestic inspections in improving audit quality for US auditors indicates that 
+the  threat  of  inspections  drove  nearly  half  of  the  small  US  audit  ﬁrms  out  of  the  market  for  public  company  audits 
+and  thereby  increased  average  audit  quality  for  small  auditors  ( DeFond  and  Lennox  2011 ).   Other  studies  ( Abbott  et  al. , 
+2013; Gunny and Zhang, 2013; Gramling Name, 2011 ) show that audit quality (as measured by clients’ lower discretionary 
+accruals  and  auditors’  increased  propensity  to  issue  going-concern  opinions)  improved  for  small  US  auditors  following 
+inspections.  
+With respect to large US auditors, some limited evidence exists that PCAOB inspections improve audit quality.  Carcello 
+Name (2011b) report that, for a sample of US-listed clients audited by Big 4 ﬁrms, the initial PCAOB inspections were associated with an improvement in audit quality as measured by a decline in abnormal accruals.  By contrast, Boone Name 
+(2015) indicate that each of the Big 4 auditors in the US have received inspection reports identifying audit deﬁciencies 
+every year since the beginning of inspections in 2004, but that these large ﬁrms have been largely blasé about adverse 
+inspection reports because the PCAOB ﬁndings are based on “second-guessing” by “government bureaucrats” ( Norris, 2011a, 
+6 Further, although the PCAOB’s censure of Deloitte in December 2007 (the ﬁrst-ever PCAOB censure of a Big 4 
+2011b, 2011c ).  
+ﬁrm for not remediating ﬁrm-level quality control deﬁciencies on a timely basis) inﬂicted losses on the auditor in the form 
+of increased risk of client loss and lower audit fees, Boone Name (2015) report that Deloitte’s audit quality was not different 
+from that of other Big 4 ﬁrms during a three-year window either before or after the PCAOB censure.  More recently, Gipper 
+Name (2016) examine increases in short-window earnings response coeﬃcients (ERCs) around earnings announcements for 
+US-listed domestic clients following PCAOB inspections of their US auditors and report signiﬁcant ﬁndings for both Big 4 
+and non–Big 4 auditors.  Finally, regarding the eﬃcacy of PCAOB domestic inspections, we are not aware of any studies on 
+US auditors with non-US-listed foreign public clients or of any studies pertaining to PCAOB inspections of US auditors with 
+non-US-listed clients.  
+With respect to the eﬃcacy of PCAOB international inspections in improving audit quality for foreign auditors’ US-listed 
+clients (the direct effect of the inspections), two studies address this issue.  Lamoreaux (2016) suggests that the threat of 
+PCAOB inspections (as proxied by whether or not the foreign auditor is located in a country that allows PCAOB inspections) 
+is associated with improved audit outcomes, such as an increased propensity on the part of the foreign auditor to issue 
+going-concern opinions for US-listed clients.  By contrast, Krishnan Name (2017) investigate the effect of the initial inspection 
+of foreign auditors and report a decrease in abnormal accruals as well as an increase in the value relevance of accounting 
+numbers for their US-listed clients.  In examining the audit quality impact of the initial inspection, they do not control for the 
+threat of a PCAOB inspection preceding the inspection.  Separately (and possibly as a means of putting pressure on countries, 
+such as China, that disallow PCAOB inspections), the Board in 2010 disclosed the names of US-listed companies with foreign 
+auditors located in countries that do not allow PCAOB inspections.  Carcello Name (2011a) ﬁnd that the stock market reacted 
+adversely to these disclosures, that is, investors reacted negatively to the news that the PCAOB is not allowed to inspect the 
+foreign auditors of US-listed clients in their home countries.  Our study controls for the threat of a PCAOB inspection and 
+examines the incremental audit quality impact of the initial PCAOB inspection for foreign auditors’ non-US-listed clients, i. e. , 
+we examine the externality effect associated with the PCAOB international inspection program.  
+2. 2.  Hypothesis development. 
+The PCAOB  utilizes a risk-based (instead of a random or representative) sample approach to identify US-listed audit 
+engagements to review and is known to be actively looking for auditor misconduct.  Also, during inspections, the PCAOB 
+evaluates the  design and  effectiveness of  the  auditor’s  ﬁrm- level quality  control  systems  ( Center  for  Audit  Quality  CAQ, 
+2012 ; Public Company Accounting Oversight Board, 2012 ).  The underlying motivation for assessing the effectiveness of the 
+auditor’s ﬁrm-level quality controls is to increase audit quality for all of the auditor’s US-listed audit clients, not just the 
+sample of  US-listed  clients  (engagements) selected  for  review.   In  the  case  of  the  PCAOB’s  international inspections,  the 
+improvements in the foreign auditor’s ﬁrm - level quality controls could beneﬁt not only its US-listed clients but also its non US-listed clients.  Further, the PCAOB can issue inspection reports that publicly disclose engagement-level deﬁciencies, albeit 
+without identifying the client involved, and censure the auditor (i. e. , impose ﬁnes or bar the auditor from continuing to audit 
+US-listed clients) for ﬁrm-level quality control weaknesses that are not remediated on a timely basis (typically within 12 
+months) to the satisfaction of the board ( Center for Audit Quality CAQ, 2012 ; Public Company Accounting Oversight Board, 
+2012 ).  
+The public disclosure of audit deﬁciencies and possible censure by the PCAOB could embarrass the audit ﬁrm and damage 
+its reputation.  Prior research ( Boone Name, 2015; Klein and Leﬄer, 1981; Schmalensee, 1978; Shapiro, 1982; Smallwood and 
+Conlisk, 1979; Von Weizsacker, 1980 ) suggests that such reputational harm can inﬂict economic losses on the auditor by 
+triggering  a  decline  in  the  demand  for  the  ﬁrm’s  services  or  by  lowering  its  selling  price  and  that  the  threat  of  these 
+economic losses incentivizes the ﬁrm to maintain its service quality.  Consistent with this argument, recent studies ( Weber 
+Name, 2008; Skinner and Srinivasan, 2012 ) ﬁnd that auditor reputation matters outside the US, too.  Reputational harm can 
+result in loss of audit clients and market share.  Further, other research ( Choi Name, 2008; Francis and Wang, 2008 ) shows 
+that audit quality is lower outside the US due to extant lower levels of auditor litigation exposure and investor protection 
+abroad.  Because PCAOB standards require the auditor to have strong ﬁrm-level quality control systems and the inspections 
+essentially represent a new channel for identifying auditor misconduct, it is reasonable (consistent with DeFond (2010) ) to 
+expect the threat of PCAOB inspections to provide PCAOB-registered foreign auditors (at least in countries that allow PCAOB 
+inspections) with an ex ante incentive to improve audit quality.  To the extent that the initial inspection identiﬁes deﬁciencies 
+in the auditor’s ﬁrm-level quality control systems, the inspection may be expected to be associated with higher audit quality. 

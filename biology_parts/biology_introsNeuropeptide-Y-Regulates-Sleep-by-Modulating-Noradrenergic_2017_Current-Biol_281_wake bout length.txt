@@ -1,0 +1,443 @@
+Article
+Neuropeptide Y Regulates Sleep by Modulating
+Noradrenergic Signaling
+Highlights
+d A genetic screen in zebraﬁsh shows that overexpression of
+NPY promotes sleepChanpreet Singh, Jason Rihel,
+David A.  Prober
+d Mutation of npy or ablation of npy-expressing neurons results
+in decreased sleep
+Correspondence
+dprober@caltech. edu
+d NPY regulates sleep primarily by modulating the length of
+wake bouts
+d NPY promotes sleep by inhibiting noradrenergic signaling
+In Brief
+Based on a genetic screen, Singh Name
+identify NPY signaling and npyexpressing neurons as regulators of
+zebraﬁsh sleep.  They show that NPY
+promotes sleep by inhibiting
+noradrenergic signaling, thus linking NPY
+signaling to an established arousalpromoting system. 
+Singh Name, 2017, Current Biology 27, 3796–3811
+December 18, 2017 ª 2017 Elsevier Ltd. 
+https://doi. org/10. 1016/j. cub. 2017. 11. 018
+Current BiologyNeuropeptide Y Regulates Sleep
+by Modulating Noradrenergic Signaling
+Chanpreet Singh,1 Jason Rihel,2 and David A.  Prober1,3,*
+1Division of Biology and Biological Engineering, California Institute of Technology, Pasadena, CA 91125, USA
+2Department of Cell and Developmental Biology, University College London, London WC1E 6BT, UK
+3Lead Contact
+*Correspondence: dprober@caltech. edu
+https://doi. org/10. 1016/j. cub. 2017. 11. 018Sleep is an essential and evolutionarily conserved
+behavioral state whose regulation remains poorly understood.  To identify genes that regulate vertebrate
+sleep, we recently performed a genetic screen in
+zebraﬁsh, and here we report the identiﬁcation of
+neuropeptide Y (NPY) as both necessary for normal
+daytime sleep duration and sufﬁcient to promote
+sleep.  We show that overexpression of NPY increases sleep, whereas mutation of npy or ablation
+of npy-expressing neurons decreases sleep.  By
+analyzing sleep architecture, we show that NPY
+regulates sleep primarily by modulating the length
+of wake bouts.  To determine how NPY regulates
+sleep, we tested for
+interactions with several
+systems known to regulate sleep, and provide
+anatomical, molecular, genetic, and pharmacological evidence that NPY promotes sleep by inhibiting
+noradrenergic signaling.  These data establish NPY
+as an important vertebrate sleep/wake regulator
+and link NPY signaling to an established arousal-promoting system. 
+INTRODUCTION
+Sleep is among the most basic needs of living organisms, yet
+mechanisms that regulate sleep remain poorly understood. 
+Several neuropeptides have been implicated in regulating
+mammalian sleep [1], including hypocretin [2–4], which promotes wakefulness, and galanin [5–8] and melanin-concentrating hormone [9–12], which promote sleep, suggesting that
+examining additional neuropeptides may identify novel mechanisms that regulate sleep.  Identifying these mechanisms using
+mammalian models has been challenging due to their poor
+amenability for large-scale screens, although such screens are
+possible [13].  As an alternative approach, several groups have
+used behavioral criteria to study sleep-like states in simpler
+model organisms that are amenable to screens,
+including
+Drosophila [14–22], C.  elegans [23–25], and zebraﬁsh [26–30]. 
+In particular, several groups have demonstrated behavioral,
+anatomical, genetic, and pharmacological conservation of sleep
+between zebraﬁsh and mammals, establishing zebraﬁsh as a
+vertebrate sleep model [26–28, 30–33].  We previously described
+a screen for genes whose overexpression affects zebraﬁsh
+sleep, and reported that the neuropeptide neuromedin U is
+necessary and sufﬁcient for normal levels of arousal [29].  Here
+we demonstrate that another neuropeptide identiﬁed in the
+screen, neuropeptide Y (NPY), is necessary for daytime sleep
+and sufﬁcient to promote sleep. 
+injection of
+NPY is widely expressed in the brain and has been implicated
+in regulating endocrine, behavioral, and circadian processes
+[34], and is perhaps best known for its role in promoting feeding
+[35–38].  NPY has also been shown to affect sleep, but its role in
+this behavioral state remains unclear.  Several studies have
+shown that
+in vitro-synthesized NPY into the
+rodent brain [39–45] or intravenously into young healthy [46] or
+depressed [47] humans can induce sleep or reduce locomotor
+activity.  However, other rodent studies reported the opposite effect [48–50].  The basis for these disparate reports is unclear, but
+may be due to different sites and doses of NPY injection, or the
+use of in vitro-synthesized peptide that may vary in different
+preparations and from endogenous NPY.  Understanding the
+role of NPY in mammalian sleep is also confounded by links
+between mechanisms that regulate feeding and sleep [48–51]. reports of wake promotion by injected NPY also
+observed increased feeding [48–50], suggesting thatincreased wakefulness may result
+from increased feeding. 
+npy mutant mice exhibit several phenotypes, including increased
+anxiety, depression-like behavior, and cognitive deﬁcits [52, 53],
+and are less susceptible to diet-induced obesity [54].  However,
+an analysis of sleep in these animals and a role for npy-expressing neurons in sleep have not been described.  As a result, the
+role of NPY in vertebrate sleep remains unclear. 
+Here we show that NPY is sufﬁcient to promote sleep in zebraﬁsh, whereas loss of npy or npy-expressing neurons results in
+less daytime sleep.  We also show that NPY promotes sleep by
+inhibiting the wake-promoting noradrenergic system, providing
+a mechanistic basis for sleep regulation by NPY.  Together with
+the requirement of noradrenergic signaling for the wake-promoting function of hypocretin [55, 56], these results suggest that the
+noradrenergic system integrates neuropeptidergic signals that
+regulate sleep/wake states. 
+<Middle> RESULTS. 
+Overexpression of Human NPY Reduces Locomotor
+Activity and Increases Sleep in Zebraﬁsh
+We previously performed a screen to identify genes that affect
+larval zebraﬁsh sleep [29].  We injected >1,200 unique plasmids
+3796 Current Biology 27, 3796–3811, December 18, 2017 ª 2017 Elsevier Ltd. 
+WT (n=143) 
+hsp:npy (n=163)Night 5****Post-HS31Fni(hnltubeSDay 5Pre-HSWT (n=41) 
+hsp:npy (n=40))/(yiicDhim eSGni(hnltubkW250150502010080400Pre-HS****Post-HSPre-HSAhsyiicChimpelhsubeSHotafsosR3002001000402008400 . 40 . 20 . 0Ioicr sosRarleaaf50****0. 50. 30. 1
+2. 3 3. 0 4. 0Tap power (a. u. )n tafenpeeva gpe lWT (n=48) 
+hsp:npy (n=40)**0. 40. 22. 3 3. 0 4. 0Tap power (a. u. )1 0Tap power (a. u. )
+Figure 1.  Overexpression of Zebraﬁsh NPY Increases Sleep and Arousal Threshold
+(A–G) Overexpression of zebraﬁsh NPY following a heat shock at 3 p. m.  resulted in decreased locomotor activity (A and B) and increased sleep (C and D), due to
+more sleep bouts (E) and shorter sleep (F) and wake (G) bouts.  Yellow bars indicate heat shock (HS).  Pre-HS and post-HS quantify data for day 5 before and
+after HS.  Mean ± SEM from four experiments is shown. 
+(H) Representative stimulus-response curve for Tg(hsp:npy) animals compared to WT siblings following HS.  Data points represent mean ± SEM.  Dashed lines
+mark ETP50 value for each genotype.  Tg(hsp:npy) animals had an ETP50 value of 24. 2 versus 8. 2 for WT siblings (293% increase, p < 0. 05 by extra sum-of-squares
+F test). 
+(legend continued on next page)
+Current Biology 27, 3796–3811, December 18, 2017 3797
+in which a heat shock-inducible promoter (hsp) regulates the
+expression of genes that encode for secreted proteins into
+wild-type (WT) zebraﬁsh embryos at the one-cell stage.  We
+used human open reading frames (ORFs) encoding secreted
+proteins from the hORFeome v3. 1 library [57] because there
+was no resource of zebraﬁsh ORFs.  Co-injection of each plasmid
+with tol2 transposase mRNA resulted in incorporation of the hspregulated transgene into the genome in many cells of each animal and enabled heat shock-induced overexpression [29].  We
+then compared sleep/wake behaviors in injected animals before
+and after heat shock and to negative control animals injected
+with an hsp:egfp plasmid.  One gene whose overexpression
+increased sleep at night (Z score 1. 8) encoded human NPY (Figure S1A).  Even though zebraﬁsh exhibit high levels of sleep at
+night, NPY-overexpressing animals were 28% less active and
+slept 34% more than control animals during the night after
+heat shock (p < 0. 05 and p < 0. 01, two-tailed Student’s t test)
+(Figures S1B–S1G).  We observed a similar phenotype during
+the day before heat shock that did not reach statistical signiﬁcance, consistent with leaky expression from hsp that often is
+observed using this transient injection assay, but is not observed
+using stable transgenic lines [29]. 
+Overexpression of Zebraﬁsh NPY Reduces Locomotor
+Activity and Increases Sleep in Zebraﬁsh
+Using reciprocal BLAST searches, we identiﬁed a single zebraﬁsh
+npy ortholog, which encodes for a preproprotein that generates a
+predicted 36-amino acid mature peptide that is 89% identical to
+the human and mouse orthologs (Figure S1H).  npy is widely expressed in the mammalian brain, particularly in the hypothalamus,
+amygdala, locus coeruleus (LC), and cerebral cortex [58, 59].  Using
+in situ hybridization (ISH) with an npy-speciﬁc probe, immunostaining for total extracellular signal-regulated kinase (t-ERK), and image registration to the Z-Brain atlas [60], we found that npy is similarly expressed in several discrete nuclei within the larval zebraﬁsh
+brain (Figures S1I–S1N; Movie S1).  We also observed npy expression in the retina (data not shown) but not in other tissues. 
+To test whether overexpression of zebraﬁsh NPY affects
+sleep, we generated Tg(hsp:npy) zebraﬁsh.  Tg(hsp:npy) animals
+and their WT siblings had similar amounts of locomotor activity
+and sleep before heat shock (Figures 1A–1D).  However,
+following a heat shock at 3 p. m. , Tg(hsp:npy) animals were
+50% less active (Figures 1A and 1B) and slept 111% more (Figures 1C and 1D) than their WT siblings for the rest of the day
+(p < 0. 0001, two-tailed Student’s t test).  The phenotype resulted
+from a 230% increase in the number of sleep bouts (Figure 1E)
+and an 85% decrease in the length of wake bouts (Figure 1G)
+(p < 0. 0001, two-tailed Student’s t test), with a smaller decrease
+in the length of sleep bouts (Figure 1F), and thus is primarily due
+to fragmentation of the wake state. 
+The increase in sleep after the heat shock-induced pulse of
+NPY overexpression dampened by nighttime.  A previous study
+showed that the circadian system inhibits sleep in the evening,
+when homeostatic sleep drive is high [61], suggesting that the
+circadian system might limit NPY overexpression-induced sleep
+to the day.  To test whether NPY overexpression can also increase
+sleep at night, we heat shocked animals during the last hour of the
+day.  We found that Tg(hsp:npy) animals were 46% less active
+(Figures S2A–S2C) and slept 54% more (Figures S2D–S2F)
+than their WT siblings during the night (p < 0. 0001, two-tailed Student’s t test), similar to the daytime phenotype when NPY overexpression was induced in the afternoon.  This phenotype was due
+to longer sleep bouts (Figure S2H) and shorter wake bouts (Figure S2J), with no change in the number of sleep bouts (Figure S2G).  These results suggest that dampening of NPY-induced
+sleep at night following heat shock in the afternoon is due to
+declining levels of NPY rather than effects of the circadian clock. 
+Light affects locomotor activity and sleep in zebraﬁsh [27, 28],
+as it does in mammals [62].  To determine whether light affects
+NPY overexpression-induced sleep, we entrained larvae by
+raising them in 14:10-hr light:dark (LD) conditions for 4 days,
+and then transferred them to constant dark before inducing
+NPY overexpression.  NPY-overexpressing animals were 54%
+less active and slept 80% more than WT siblings during the rest
+of the subjective day (Figures S2K–S2N) (p < 0. 0001, two-tailed
+Student’s t test).  This phenotype was due to more sleep bouts
+and shorter wake bouts, with no change in the length of sleep
+bouts (Figures S2O–S2Q).  Hence, NPY overexpression promotes
+sleep independent of lighting condition and circadian phase. 
+Overexpression of NPY Increases Arousal Threshold
+Sleep is distinguished from quiet wakefulness by reduced
+sensory responsiveness [63].  Because NPY overexpression increases sleep, we asked whether it also alters arousal threshold
+by monitoring responses to mechano-acoustic stimuli.  We found
+that the stimulus intensity at which we observed the halfmaximal response (effective tap power 50; ETP50) was 290%
+higher for Tg(hsp:npy) animals than their WT siblings (Figure 1H)
+(p < 0. 05 by extra sum-of-squares F test).  Thus, NPY overexpression increases arousal threshold, consistent with increased
+sleep.  We next asked whether NPY overexpression affects
+arousal in awake and/or sleeping animals by allowing 5 min between trials.  According to the behavioral deﬁnition of sleep, we
+scored animals as awake if they moved during the minute before
+a stimulus was delivered.  We used stimulus intensities of 2. 3,
+3. 0, and 4. 0 arbitrary units, which were lower than the ETP50
+values of both Tg(hsp:npy) and WT animals.  NPY-overexpressing animals were less responsive to these stimuli than WT siblings during both awake (Figure 1I) and sleep (Figure 1J) states. 
+These data suggest that NPY overexpression decreases arousal
+in awake animals and increases sleep depth in sleeping animals. 
+npy Mutant Zebraﬁsh Are More Active and Sleep Less
+during the Day
+We next asked whether endogenous npy is required for normal
+sleep/wake behaviors by using the zinc ﬁnger nuclease method
+(I and J) Overexpression of NPY reduced the response of Tg(hsp:npy) animals to the stimulus compared to WT siblings during both awake (I) and sleep (J) states. 
+Stimulus intensities of 2. 3, 3. 0, and 4. 0 arbitrary units (a. u. ) were tested.  A dose-dependent response was observed for WT animals, but not their Tg(hsp:npy)
+siblings.  Bar graphs show mean ± SEM. 
+n, number of animals.  *p < 0. 05; **p < 0. 01; ***p < 0. 001; ****p < 0. 0001 by two-tailed Student’s t test. 
+See also Figures S1 and S2 and Movie S1. 
+3798 Current Biology 27, 3796–3811, December 18, 2017
+to generate zebraﬁsh containing a predicted null mutation in the
+npy ORF [64].  We isolated zebraﬁsh containing a 17 nt deletion
+in the second exon of the npy gene [64], which results in a translational frameshift at the beginning of the mature peptide domain
+(Figure 2A), generating a protein that lacks the mature peptide
+domain and thus is most likely nonfunctional.  Homozygous
+mutant animals are viable and fertile, and lack obvious developmental defects. 
+Consistent with the NPY overexpression phenotype, npy / 
+larvae were 23% more active and slept 36% less during the
+day than their npy+/+ siblings (p < 0. 0001 and p < 0. 01, oneway ANOVA, Holm-Sidak test) (Figures 2B, 2C, 2E, and 2F). 
+These effects were due to fewer sleep bouts (Figure 2H) and
+longer wake bouts (Figure 2L), with no effect on the length ofsleep bouts (Figure 2J).  Thus, reduced daytime sleep in npy
+animals is due to consolidation of the wake state.  We did not
+phenotypes at night.  These data indicate that
+observe npy
+endogenous npy is required for normal daytime sleep amounts. 
+Microinjection of NPY into the hamster suprachiasmatic
+nucleus phase shifts the locomotor activity circadian rhythm in
+constant light (LL) [65, 66], suggesting that NPY may regulate
+entrainment or expression of circadian rhythms.  To test whether
+endogenous npy is required for circadian regulation of locomotor
+activity and sleep, we tested larvae that were entrained for
+4 days in LD, then monitored for 24 hr in LD and then for 48 hr
+in LL.  Absence of npy had no obvious effect on the locomotor
+activity or sleep circadian period length or phase (Figures 3A
+animals were more active
+and 3D).  As expected, in LD, npy
+(Figures 3A and S3A) and slept less (Figures 3D and S3C) than
+their npy+/+ and npy+/ 
+siblings during the day, with no phenotype at night.  The daytime phenotype was due to fewer sleep
+bouts and longer wake bouts (Figures S3E and S3I).  Following
+animals were more active by 30% and
+the shift to LL, npy
+26% during the subjective day and night,
+respectively,
+compared to their npy+/+ siblings (p < 0. 001 and p < 0. 01, onelarvae
+way ANOVA, Holm-Sidak test) (Figures 3A–3C).  npy
+also slept 40% less during the subjective day and night
+(p < 0. 0001 and p < 0. 001, one-way ANOVA, Holm-Sidak test)
+(Figures 3D–3F).  These phenotypes were primarily due to longer
+wake bouts (Figures 3K and 3L), although there were also fewer
+(Figures 3G and 3H) and shorter (Figures 3I and 3J) sleep bouts. 
+These results indicate that npy is not required for circadian regulation of locomotor activity or sleep in zebraﬁsh larvae but rather
+regulates sleep in a light-dependent manner.  / Ablation of npy-Expressing Neurons Increases
+Locomotor Activity and Decreases Sleep
+As an alternative approach to test the hypothesis that NPY is
+necessary for normal sleep duration, we ablated npy-expressing
+neurons.  To this end, we generated Tg(npy:kalta4) zebraﬁsh, in
+which NPY neurons express an optimized version of the transcriptional activator Gal4 (KalTA4).  To verify the speciﬁcity of
+this transgene, we performed double ﬂuorescence ISH (FISH)
+using probes speciﬁc for npy and kalta4.  We observed that kalta4
+is expressed in >80% of npy-expressing neurons (>95% for
+some brain regions), and that >92% of kalta4-expressing neurons express npy (Figure S5A; Table S1).  We mated these ﬁsh
+to Tg(uas:nfsb-mcherry) animals [67], resulting in the expression
+of nitroreductase (nfsb) in npy-expressing neurons (Figure 4A). NFSB is a bacterial protein that converts the inert prodrug metronidazole (MTZ) into a cytotoxic DNA-crosslinking agent, thus
+enabling drug-inducible ablation of the targeted cell type [68]. 
+We treated Tg(npy:kalta4);Tg(uas:nfsb-mcherry) and Tg(npy:
+kalta4) sibling control animals with MTZ or DMSO vehicle control
+for 48 hr (from 3 days post-fertilization [dpf] to 5 dpf).  MTZ treatment almost completely eliminated mCherry-labeled cells in
+double-transgenic animals (Figures 4A–4C), indicating loss of
+most npy-expressing neurons.  Consistent with these observations, we detected TUNEL labeling in npy-expressing neurons
+in Tg(npy:kalta4);Tg(uas:nfsb-mcherry) animals treated with
+MTZ, but not in those treated with DMSO (Figures S5B–S5D),
+indicating that MTZ treatment induces apoptosis of npy-exphenotype, npypressing neurons.  Consistent with the npy
+ablated animals were 23% more active (Figures 4C and 4D)
+and slept 28% less (Figures 4F and 4G) (p < 0. 01 and p < 0. 05,
+two-tailed Student’s t test) compared to sibling controls during
+the day.  This phenotype was due to fewer sleep bouts (Figure 4I)
+and longer wake bouts (Figure 4M), indicating consolidation of
+animals.  To conﬁrm that the
+the wake state, similar to npy
+Tg(uas:nfsb-mcherry) transgene alone does not cause a behavioral phenotype, we crossed Tg(npy:kalta4)/+;Tg(uas:nfsbmcherry)/+ to WT ﬁsh, excluded animals that were positive for
+mCherry, and treated the remaining animals with MTZ.  We
+observed no difference in locomotor activity or sleep among animals of these three genotypes (Figure S4).  The cell ablation
+phenotype was slightly weaker than that of the npy mutant,
+most likely because the npy:kalta4 transgene is not expressed
+in all npy-expressing neurons.  Because a small number of neurons express kalta4 but not npy in some brain regions (8% in
+the subpallium, <5% in other brain regions; Figure S5A;
+Table S1), it is possible that ablation of these NPY-negative cells
+is responsible for the behavioral phenotype.  However, this is unlikely to be the case, due to the small number of cells involved
+and because the NPY neuron ablation phenotype is consistent
+with the npy mutant phenotype, suggesting that both NPY and
+npy-expressing neurons are necessary for normal daytime sleep / 
+The NPY Overexpression Phenotype Is Not Blocked by
+Manipulation of Several Pathways Known to RegulateTo identify genetic mechanisms through which NPY affects
+sleep, we tested whether the NPY overexpression phenotype
+is suppressed in zebraﬁsh containing mutations in other genes
+implicated in regulating sleep (Table S2).  We found that the
+NPY overexpression phenotype persisted in larvae containing
+null mutations in histidine decarboxylase (hdc) [69], hypocretin
+receptor (hcrtr) [27], corticotropin releasing hormone a (crha)
+(C. S.  and D. A. P. , unpublished data), crhb (C. S.  and D. A. P. , unpublished data), or arylalkylamine N-acetyltransferase 2 (aanat2)
+[70] (data not shown).  These data suggest that NPY promotes
+sleep via other mechanisms. 
+NPY Promotes Sleep by Inhibiting Noradrenergic
+Signaling
+Pharmacological and genetic studies in mammals and zebraﬁsh
+have shown that norepinephrine (NE) plays an important role in
+promoting arousal [56, 71], and that the LC is the primary source
+Current Biology 27, 3796–3811, December 18, 2017 3799NPY_Dr
+NPY_Dr d17NPY_Dr d17
+MNPNMKMWMSWAACAFLLFVCLGTLTEGYPTKPDNPGEDAPAEELAKYYSALRHYINLITRQRYGKR
+MNPNMKMWMSWAACAFLLFVCLGTLTEGYPTRGRTCGGARQVLFSTKTLHQPHNKAEVWEKVKR   
+SSADTLISDLLIGETESRPQTRYEDHLAW                                      
+TRGRTCGGARQVLFSTKTLHQPHNKAEVWEKVKR67npy +/+ (n=131) npy +/- (n=221) npy -/- (n=111)B)/(tvtA300100EDay 5Day 6)/m(eSH/topel20020Night 5Night 6****+/+10840+/-/Day+/+60D402004020+/++/+****+/-/0420531Night+/-/+/++/-/+/+hs tvtA30010084020)/m(pel)m(hge ubpel)mt ge  oea2001000Figure 2.  Loss of npy Reduces Daytime Sleep
+(A) Sequences of WT and mutant zebraﬁsh NPY proteins.  The mature peptide is indicated with a red box.  Altered amino acids in the mutant are shaded gray. 
+(B–M) npy
+siblings during the day, due to fewer sleep bouts (H) and
+longer wake bouts (L).  There was no difference in activity (B and D), sleep (E and G), sleep bout number (I) or wake bout length (M) at night, or in sleep bout length
+during the day (J) or night (K).  Mean ± SEM from seven experiments is shown.  n, number of animals. 
+**p < 0. 01; ***p < 0. 001; ****p < 0. 0001 by one-way ANOVA with Holm-Sidak test. 
+animals were more active (B and C), and slept less (E and F), than their npy+/+ and npy+/ 
+3800 Current Biology 27, 3796–3811, December 18, 2017)/(tvtA3002001000)/m(eS503010G/topel6420
+npy +/+ (n=48)
+npy +/- (n=113)
+npy -/- (n=44))/(yiicD5D6D7C**150300 Subjective Day                Subjective Night 2001000500+/-/+/+hni eSD5D6D7Subjective Day               Subjective Night 8**+/-/62**+/+15531Ini(hnltubeSKni(hnltubkW3020100***+/-/**+/+
++/-/****+/-/F***J1002. 51. 50. 53525155+/+**+/-/***+/-/ / 
+animals were more active (A–C) and slept less (D–F) than their npy+/ 
+Figure 3.  Entrained npy Mutants Sleep Less in Constant Light
+Larvae were entrained in 14:10-hr LD cycles for the ﬁrst 4 days and nights of development, and then behaviorally monitored for 24 hr in LD and then for 48 hr in LL. 
+and npy+/+ siblings during subjective day and night, due to fewer (G and H) andshorter (I and J) sleep bouts and longer wake bouts (K and L).  Mean ± SEM from three experiments is shown.  n, number of animals. 
+*p < 0. 05; **p < 0. 01; ***p < 0. 001; ****p < 0. 0001 by one-way ANOVA with Holm-Sidak test. 
+See also Figure S3. 
+of NE in the brain [72].  We obtained several lines of evidence suggesting that NPY promotes sleep by inhibiting NE signaling.  First,
+a nucleus of 3–5 npy-expressing neurons is located adjacent to,
+and sends projections that form close contacts with, LC neurons
+(Figures 5A–5H; Movie S2).  Although this does not prove a direct
+interaction between the two neuronal populations, it is consistent with our functional evidence that NPY promotes sleep by inhibiting NE signaling (see below).  The zebraﬁsh genome contains
+seven annotated npy receptor genes [73].  Using FISH, we did not
+detect npy receptor expression in LC neurons, although we
+observed expression of npy receptor y1 (npy1r) (Figure 5I) and
+npy receptor y2 like (npy2rl) (Figure 5J) near the LC.  The other
+Current Biology 27, 3796–3811, December 18, 2017 3801A’DKHCIJ3802 Current Biology 27, 3796–3811, December 18, 2017
+(legend on next page)
+npy receptors showed expression in other brain regions (npy8ar
+and npy8br) or no detectable pattern of expression (npy2r, npy4r,
+and npy7r) (data not shown).  These results suggest that NPY
+indirectly affects NE signaling, although an npy receptor might
+be expressed in LC neurons at levels too low to be detected using FISH, a common problem for G protein-coupled receptors
+(GPCRs). and dbh
+Second, we found that the sedating effects of NPY overexpression and loss of NE signaling are not additive.  We made
+this observation by overexpressing NPY in larvae that lack NE
+synthesis due to mutation of dopamine beta hydroxylase (dbh)
+[56], or that lack NE signaling due to treatment with the a-1adrenergic receptor antagonist prazosin.  Both genetic and pharmacological inhibition of NE signaling increase sleep in zebraﬁsh
+[56].  If NPY promotes sleep by inhibiting NE signaling, then over / 
+expression of NPY should not further increase sleep in dbh
+larvae or in WT larvae treated with prazosin.  Alternatively, if
+NPY promotes sleep via an NE-independent mechanism, then
+the combined effects of NPY overexpression and loss of NE
+signaling on sleep should be additive.  Because the behavior ofanimals is indistinguishable from that of their dbh+/+ siblings [56], we compared dbh+/ 
+siblings to reduce
+the number of comparisons in each experiment, and thus increase the number of animals per condition.  Prior to heat
+larvae were 40%
+shock-induced NPY overexpression, dbh
+less active and slept >100% more than their dbh+/ 
+siblings for
+both Tg(hsp:npy) animals and their non-transgenic siblings (Figures 6A–6D)
+(p < 0. 01, two-way ANOVA, Holm-Sidak test). 
+NPY overexpression decreased locomotor activity by 54%
+and increased sleep by 60% in Tg(hsp:npy);dbh+/ compared to dbh+/ 
+siblings (Figures 6A–6D) (p < 0. 0001 and
+p < 0. 05, two-way ANOVA, Holm-Sidak test).  However, overexpression of NPY did not further affect the sleep/wake behavior of
+animals, as activity and sleep amounts were indistindbh
+animals (Figures
+guishable for Tg(hsp:npy);dbh
+6A–6D).  We obtained similar results for NPY overexpression in
+prazosin-treated animals compared to DMSO vehicle-treated
+controls (Figures S6A–S6D).  To conﬁrm that the failure of NPY
+or prazosin-treated
+overexpression to enhance sleep in dbh
+animals is not due to a ceiling effect for sleep, we found that
+treatment with melatonin, an alternative sedative, enhanced
+sleep induced by overexpression of NPY (Figures S7A–S7D) or
+prazosin (Figures S7E–S7H).  /  /  / Third, we found that the increased locomotor activity and
+animals compared to their
+reduced sleep observed in npy
+npy+/+ siblings were abolished by treatment with prazosin.  Wemade this observation by treating npy+/+, npy+/ 
+larvae with either DMSO or prazosin.  If NPY promotes sleep
+by inhibiting NE signaling, then loss of NPY should not affect
+, and npy
+prasozin-induced sleep.  Alternatively, if NPY promotes sleep
+via an NE-independent mechanism, then loss of NPY should
+affect sleep amount in prazosin-treated animals.  Consistent
+with the former possibility, we found that prazosin decreased activity and increased sleep, and this phenotype was indistinguishable for npy+/+, npy+/ 
+siblings (Figures 6E–6J). 
+, and npyFourth, we found that NPY regulates dbh expression in the LC. 
+NPY overexpression decreased dbh mRNA in the LC by 38% at
+3 hr post-heat shock in Tg(hsp:npy) animals compared to WT
+siblings (p < 0. 05, two-tailed Student’s t test) (Figures 7A and
+7D).  This time point coincides with the maximal effect of NPY
+overexpression on locomotor activity and sleep (Figures 1A
+and 1C), suggesting that NPY overexpression-induced sleep
+may result from reduced dbh expression, and thus reduced NE
+levels.  However, effects of NPY overexpression on behavior
+begin within the ﬁrst hour after heat shock, and we only observed
+a trend of decreased dbh mRNA at 1 and 2 hr post-heat shock
+that was not statistically signiﬁcant (Figure 7D).  These observations suggest that reduced dbh expression may not be the primary cause of NPY overexpression-induced sleep, but may
+rather be a secondary effect that maintains NPY-induced sleep,
+perhaps resulting from decreased LC neuron activity.  We also
+tested whether NPY overexpression affects the level of tyrosine
+hydroxylase (th), which acts upstream of dbh in the NE synthesis
+pathway.  We found that NPY overexpression did not signiﬁcantly
+change th mRNA expression in the LC at 1, 2, or 3 hr post-heat
+shock (data not shown).  Reduced dbh expression was not simply a consequence of increased sleep, as dbh mRNA level was
+unaffected following overexpression of the sleep-promoting
+neuropeptide prokineticin 2 (Prok2) [74] (Figure 7E) or treatment
+with the sedative melatonin (Figure 7E).  The interaction between
+NPY and dbh appears to be speciﬁc, as NPY overexpression did
+not affect expression of other genes involved in promoting
+arousal, including the neuropeptides hcrt [28, 56] or adenylate
+cyclase activating polypeptide 1a (adcyap1a) (C. S.  and D. A. P. ,
+unpublished data) (Figures 7B, 7C, and 7E).  These results indicate that overexpression of NPY selectively decreases the level
+of dbh mRNA in the LC, presumably resulting in decreased NE
+levels and thus increased sleep.  In support of this ﬁnding, we
+observed that dbh mRNA level was 33% higher in the LC of
+and npy+/+ siblings durnpy
+ing the day (Figures 7F and 7G) (p < 0. 05, one-way ANOVA,
+Holm-Sidak test).  Moreover, dbh mRNA level in the LC of WT animals was 25% lower at night compared to the day (p < 0. 05,
+two-tailed Student’s t test) (Figure 7H).  This result demonstrates
+a correlation between the wake circadian phase of this diurnal
+species and the level of dbh mRNA in the LC, and suggests
+that changes in NE levels may contribute to the regulation of
+normal sleep/wake states.  Taken together, these results are
+animals compared to their npy+/ 0
+), showing nearly complete loss of mCherry after MTZ treatment.  Scale bar, 100 mm. 
+) Ventral views of brains from 5-dpf Tg(npy:kalta4);Tg(uas:nfsb-mcherry) animals stained with anti-DsRed antibody following treatment with DMSO (A) or
+Figure 4.  Loss of npy-Expressing Neurons Reduces Daytime Sleep(A and A
+10 mM MTZ (A
+(B) Mean ± SEM mCherry ﬂuorescence intensity for Tg(npy:kalta4);Tg(uas:nfsb-mcherry) animals treated with DMSO (n = 4) or MTZ (n = 4). 
+(C–N) Tg(npy:kalta4);Tg(uas:nfsb-mcherry) animals treated with MTZ were more active (C and D) and slept less (F and G) than identically treated Tg(npy:kalta4)
+siblings during the day, due to fewer sleep bouts (I) and longer wake bouts (M).  There was no difference in activity (C and E), sleep (F and H), sleep bout number
+(J) or wake bout length (N) at night, or in sleep bout length during the day (K) or night (L). 
+Mean ± SEM from three experiments is shown. 

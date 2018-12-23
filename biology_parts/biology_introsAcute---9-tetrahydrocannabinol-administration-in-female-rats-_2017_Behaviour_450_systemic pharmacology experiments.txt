@@ -1,0 +1,419 @@
+
+THC and other components in marijuana are among the most
+commonly used illicit drugs in the world.  A recent report [1] indicates
+over 181 million users world-wide, while an estimated 13. 1 million
+people exhibit cannabis dependence globally [2].  Marijuana usage is
+increasing in many countries, [3] and chronic use appears to be a risk
+factor for several mental illnesses including psychosis [4] and depression [5].  Moreover, chronic use is also linked to reduced performance
+on decision-making tasks [6,7].  It is therefore important to better understand how THC aﬀects the neural processes involved in cognition
+and decision-making.  Previous studies have indicated deﬁcits in executive function, verbal and visual memory, and visuoperception following chronic cannabis use in humans [8].  Rodent models have likewise shown impairments in working memory [9,10] and spatial
+memory [11] following acute THC administration.  Furthermore, acute
+THC causes impairments in reversal learning in macaques [12], as well
+as reversal learning and intradimensional set shifting impairments in
+rats [13,14].  These ﬁndings have led to the proposal that THC impairs
+cognitive ﬂexibility.  This is a nebulous term; for the purpose of this
+paper we deﬁne cognitive ﬂexibility as the ability to change response
+strategies when it is advantageous to do so.  Cognitive ﬂexibility is inﬂuenced by distinct neural processes that may compete or cooperate to
+modulate behaviour [15].  For example, animals can learn to select
+options based on action value estimates acrued over many trials (reinforcement learning), or could instead use heuristics to guide choice
+[16].  Animals may also rely on innate strategies such as the propensity
+to switch choices after reward omission, a widespread phenomenon
+termed lose-shift responding [17–20].  These and other systems can be
+used to derive choice, and can all manifest as cognitive ﬂexibility. 
+A common methodological feature in reversal learning and set
+shifting paradigms is a sudden and unexpected change in reward contingencies, which is used to assess how animals adapt choice strategy. 
+Both lose-shift and reinforcement learning strategies are likely engaged
+in these paradigms.  A physiological mechanism thought to be important
+for such reinforcement-driven response adaptations is the reward prediction error (RPE) signaling properties of midbrain dopamine neurons
+[21–23].  These neurons brieﬂy increase ﬁring rate following unexpectedly good reinforcements (rewards), signaling a positive RPE. 
+Conversely, these neurons decrease ﬁring following unexpectedly poor
+⁎ Corresponding author at: University of Lethbridge, Department of Neuroscience, Canadian Centre for Behavioural Neuroscience, Polaris Brain Dynamics Research Group, 4401
+University Drive West, Lethbridge, AB, Canada. 
+E-mail address: aaron. gruber@uleth. ca (A. J.  Gruber). 
+http://dx. doi. org/10. 1016/j. bbr. 2017. 08. 009
+Received 12 May 2017; Received in revised form 28 July 2017; Accepted 5 August 2017
+Available online 12 August 2017
+0166-4328/ 
+S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+reinforcements such as reward omission, signaling a negative RPE.  This
+RPE signal is suﬃcient to solve a variety of diﬃcult tasks [24].  Drugs or
+diseases that aﬀect dopamine transmission are therefore expected to
+impair this prediction error, and thereby impair reinforcement learning,
+which has been demonstrated in many species and tasks [25–28]. 
+Similar to other drugs of abuse, THC increases the ﬁring rates of
+midbrain dopamine neurons [29] and increases dopamine release in
+downstream targets such as the ventral striatum [30].  THC acts as an
+agonist at the Cannabinoid Receptor 1 (CB1), which is Gi coupled and
+acts as an inhibitory presynaptic regulator of neurotransmitter release
+[31].  CB1 is located on inhibitory aﬀerents to dopamine neurons [32]. 
+It is therefore likely that CB1 agonism reduces inhibitory input to dopamine neurons.  We expect that this will suppress the pause in dopamine neuron ﬁring following reward omission and thereby attenuate
+the negative RPE.  This should attenuate processes driven by reward
+omission, such as lose-shift responding and reinforcement learning from
+worse-than-expected reinforcements.  We have previously shown that
+lose-shift is attenuated by acute administration of amphetamine, which
+increases striatal dopamine among other eﬀects [26].  We expected that
+THC would have a similar attenuating eﬀect on lose-shift due to reduction of negative RPE.  Furthermore, we expect that THC would impair reinforcement learning from reward omission for the same reason. 
+Learning from positive reinforcements, however, should remain intactTo test this hypothesis, we systemically injected rats with THC and
+analyzed speciﬁc features of reinforcement-driven response adaptation
+in two reward-based decision-making tasks.  The ﬁrst was a binary
+choice task that rewards random choice; rats nonetheless employ a winstay/lose-shift strategy [33].  The second was an uncued reversal task
+that can be solved using reinforcement learning.  These tasks allow us to
+diﬀerentiate between the potential eﬀects of drug on lose-shift responding that occurs on a trial-by-trial basis, and on the multi-trial
+learning required to track reversals of asymmetric reward probabilities. 
+We found that systemic THC administration attenuated lose-shift responding on both tasks.  However, the drug did not impair the ability to
+ﬂexibly reverse choice preference in response to uncued reversals of
+reward probability.  These results suggest that THC causes an apparent
+reduction in cognitive ﬂexibility by impairing trial-by-trial loss sensitivity while sparing slower multi-trial learning from wins.  This dissociation is supported by recent computational analyses of rodent and
+human choices in decision-making tasks, which have demonstrated that
+hybrid models with rapid and gradual components more accurately
+capture the choices of humans and rodents than do models with a
+unitary timeframe [34–37]. 
+<Middle> Methods. 
+2. 1.  Animals
+Subjects were 21 adult (90 days old) female Long-Evans rats (bred
+in-house) weighing 200–250 g.  Animals were pair-housed in a climatecontrolled vivarium under a 12:12 h light:dark cycle (lights on 7:30
+a. m. ).  Animals had restricted access to water (one hour) on behavioural
+testing days, but otherwise had ad libitum access to food and water.  All
+procedures were approved by the University of Lethbridge Animal
+Welfare Committee (AWC) in accordance with the guidelines of the
+Canadian Council on Animal Care.  Our utilization of female rats ﬁlls
+knowledge gaps and is encouraged by the AWC. 
+2. 2.  Behaviour apparatus
+Behavioural testing was performed in aluminum operant conditioning chambers (see Fig.  1) as described previously [33,36].  Brieﬂy,
+rats were placed in the operant conditioning chamber for 45 min sessions.  Trials were self-paced, and initiated by the rat performing a nosepoke into the central port.  Following 150 ms of nose-poke entry, a toneFig.  1.  Schematic diagram of the operant conditioning chamber used for behavioural(6 kHz) was presented to indicate that the animal could then locomote
+to one of the two adjacent sucrose delivery feeders.  If the correct feeder
+was chosen, a reward (60 μL of 10% sucrose solution) was delivered.  If
+the incorrect feeder was chosen, no sucrose was delivered, the houselight illuminated, and the two panel lights extinguished.  The state of the
+lights then reverted (house-light turned oﬀ; panel light turned on).  This
+change in lighting served to indicate that reward was not forthcoming,
+and was of suﬃciently short duration such that it terminated by the
+time the rats returned to the central poke port; there was therefore no
+‘time-out’ associated with reward omission.  Once a feeder was chosen,
+or if no feeder was chosen in the 15 s following a nose-poke, the trial
+ended and the rat had to return to the central port to initiate a new trial. 
+2. 3.  Experiment 1: acute eﬀects of THC on the Competitive Choice TaskThe behaviour of animals in the ﬁrst cohort (n = 10) was shaped
+during the ﬁrst two training sessions.  All trials were rewarded and no
+barriers were present in the ﬁrst training session to facilitate task acquisition.  In the second training session, rats were rewarded on 50% of
+the trials regardless of feeder choice.  In all subsequent sessions, reinforcement was controlled by an algorithm that attempted to minimize
+the number of rewards given to the rats by predicting which feeder the
+rat would select.  This was done by examining the choices and reinforcements from the previous four trials [20,36].  If either feeder was
+selected at a greater than chance rate in the context of these past trials,
+it would be unrewarded for the upcoming trial.  In doing so, the competitive mode implements the classic ‘Matching Pennies’ task.  Optimal
+performance (random responding) will result in reward on 50% of the
+trials.  Parallel barriers positioned between the central port and feeder
+wells were added to introduce a choice cost and discourage feeder bias
+due to body position.  Increasingly longer barriers (4. 0, 8. 5, 13. 5 cm)
+were introduced during consecutive days of training.  Rats were trained
+until they completed two consecutive sessions of at least 150 trials with
+the long barriers.  All subsequent training and testing sessions were run
+with the long barriers. 
+After initial shaping (9 daily sessions), animals were randomly divided into four groups to receive acute THC (Cayman Chemicals, Ann
+Arbour, MI) in a counterbalanced block design.  The drug was dissolved
+into a 1:1:1:16 solution of THC:ethanol:Cremaphor EL:sterile saline
+(0. 9%) and delivered by intraperitoneal (IP) injection at one of three
+dosages (0. 5 mg/kg, 1. 0 mg/kg, or 2. 0 mg/kg).  Injections were administered 30 min prior to testing on the behavioural task over a period
+of 8 days using the following schedule: vehicle, injection 1, no injection, injection 2, no injection, injection 3, no injection, and injection 4. 
+The initial vehicle injection served to habituate animals to the
+S. A.  Wong Name
+procedure and was not included in the analysis.  Injection days consisted
+of one of the three THC dosages or vehicle.  Injecting drug or vehicle
+every other day provided time for THC to metabolize between sessions
+in order to reduce the potential confound of extended drug eﬀects [38]. 
+Running the rats on the task with no treatment every other day also
+provided an opportunity to ‘wash-out’ any learned choice strategy
+during the drug sessions. 
+2. 4.  Experiment 2: acute eﬀects of THC on the reversal task
+An additional cohort of female rats (n = 11) performed a reversal
+learning task in the same operant conditioning chambers.  Animals were
+trained on the same schedule as cohort 1.  Trial initiation was self-paced
+and began with a nose-poke in the central port.  A non-informative tone
+then prompted the rat to select a sucrose delivery feeder.  Correct feeder
+choices were rewarded with sucrose solution.  No reward was given for
+incorrect choices.  In contrast to the Competitive Choice Task, the
+probability of receiving a reward at a particular feeder was ﬁxed over
+blocks of 60 trials to either a high or low reward probability.  These
+reward probabilities reversed at the beginning of each block of trials. 
+For example, the left feeder would be the high reward probability side
+on trials 1–60, and would then reverse to become the low reward
+probability side for trials 61–120.  The reversals repeated several times
+per session, and the initial location of high-probability feeder was assigned randomly each session.  Animals were trained on this task for six
+sessions, with the high/low reward probability increasing every two
+sessions from 0. 6/0. 4 to 0. 7/0. 3, and ﬁnally to 0. 8/0. 2. 
+Animals were then randomly divided into two equal groups and
+received either THC (2. 0 mk/kg) or vehicle 30 min before testing in a
+counterbalanced design with reward probabilities for testing sessions
+set at 0. 8/0. 2.  The injection schedule across sessions was as follows:
+vehicle, no injection, injection 1, no injection, injection 2.  The initial
+injection of vehicle was to habituate animals to the process and was not
+included in the analysis. 
+2. 5.  Behaviour analysis
+Data were analyzed using Matlab version 2013a (Mathworks,
+Massachusetts), Graphpad Prism version 6 (Graphpad, La Jolla, CA),
+and SPSS version 21 (IBM, North Castle, NY).  To minimize potential
+confounds, all trials in which the animal sampled both feeders on the
+previous trial, which we have previously termed impulsive feeder approach [26], were omitted from the analysis of lose-shift and win-stay
+probabilities.  For Experiment 1 (Acute eﬀects of THC on the Competitive Choice Task), we examined several features of responding including lose-shift, win-stay, reaction time (duration of nose-poke in
+central port), number of trials, response time (time to locomote from
+central port to reward feeder), response entropy, intertrial interval, and
+impulsive feeder approach.  Lose-shift responding is a measure of loss
+sensitivity wherein animals chose to shift feeder choice from that of the
+previous trial if they failed to receive reward.  Win-stay is the re-selection of the feeder on the current trial that provided a reward on the
+previous trial.  Response entropy is a measure of the randomness of an
+animal’s choice sequence [36], with higher values representing more
+unpredictable responses.  This was determined by calculating the
+Shannon entropy of the animal’s choice sequence binned into four
+consecutive trials [39].  This resulted in nearly random feeder selection
+having entropy approaching four bits, while any pattern in feeder
+choice or side bias resulted in a lower value.  Note that response entropy
+is only weakly related to win-stay and lose-shift responses because the
+competitive algorithm randomizes the rewarded side on a trial-by-trial
+basis when the rat is performing well.  The resultant choice sequence
+thus appears random even in the presence of strong reward sensitivity. 
+Statistical signiﬁcance for all measures was determined by one-way
+repeated measures ANOVAs.  The Greenhouse-Geisser correction has
+been applied to these calculations (Exp 1: ITI, reaction time) when theBehavioural Brain Research 335 (2017) 136–144
+sphericity assumption was violated, as determined by Mauchly’s Test of
+Sphericity (α = 0. 05).  One animal was removed from Experiment 1
+(Acute eﬀects of THC on the Competitive Choice Task) due to being an
+extreme outlier on most behavioural measures, as determined by
+Grubb’s test (α = 0. 05). 
+In Experiment 2 (Acute eﬀects of THC on the Reversal Task), session-wide averages of the same measures were analyzed using paired ttests because only one level of drug was administered.  Two-way repeated measures ANOVAs were used to assess the statistical signiﬁcance
+of drug and the choice of high/low reward probability feeder.  To
+quantify changes of behaviour within each block of 60 trials irrespective of feeder choice, we collapsed across blocks and binned trials in
+groups of ten.  Each bin was averaged to get a mean value per bin for
+each animal prior to computing group statistics.  Two-way repeated
+measures ANOVAs were also used to determine statistical signiﬁcance
+of drug and bin number (learning) within blocks.  All ﬁgures display
+group means and standard error of the mean. 
+3.  Results
+3. 1.  Experiment 1: acute eﬀects of THC on the Competitive Choice Task
+Ten female Long-Evans rats were trained to perform a competitive
+binary choice task (see Methods).  We ﬁrst assessed the potential eﬀects
+of THC on motivation and motor output.  THC had no eﬀect on the intertrial interval (F (1. 7,14. 7) = 1. 65, p = 0. 22; Fig.  2A), or the number
+of trials performed (F (3,30) = 1. 21, p = 0. 32; Fig.  2B).  Response time
+(F (3,30) = 2. 628, p = 0. 07; Fig.  2C) and reaction time (F (1. 2,11. 9)
+= 2. 78, p = 0. 12; Fig.  2D) showed a non-signiﬁcant tendency to increase as drug dose increased.  Finally, the number of pre-reward anticipatory licks at the feeder was also unaﬀected by THC (F (3,30)
+= 0. 323, p = 0. 80).  Together, these results suggest that THC had a
+minimal eﬀect on motor output and motivation. 
+The optimal strategy in this task is to generate random choices from
+trial to trial, and to ignore losses and rewards on previous trials. 
+Overall, THC did not aﬀect the percentage of trials that were rewarded
+(F (3,30) = 1. 34, p = 0. 28; Fig.  3A).  However, previous work demonstrated that rats persistently engage the lose-shift strategy on this
+task [33,36].  Here we found that systemic THC decreased lose-shift
+responding in a dose-dependent manner (F (3,30) = 5. 34, p = 0. 005;
+Fig.  3B), similar to the eﬀect of systemic AMPH [26].  Additionally, winstay responding also decreased with increasing THC dose (F (3,30)
+= 3. 52, p = 0. 03; Fig.  3C), while the tendency of animals to impulsively approach feeders without ﬁrst performing a nose-poke was
+unaﬀected (F (3,30) = 1. 57, p = 0. 22).  THC did not aﬀect the randomness of choice as measured by the response entropy (F (3,30)
+= 0. 598, p = 0. 57; Fig.  3D), suggesting that THC aﬀected trial-by-trial
+win and loss sensitivity, rather than altering overall response pattern or
+strategy. 
+3. 2.  Experiment 2: acute eﬀects of THC on the Reversal Task
+We next sought to determine if THC aﬀected the ability to alter
+choice strategy in response to changing reward contingencies.  Eleven
+female Long-Evans rats were trained to perform an uncued serial reversal learning tasks in which the reward probabilities (0. 8 on one
+feeder, 0. 2 on the other) reversed every 60 trials (see Methods).  THC or
+vehicle was administered 30 min prior to testing over two sessions in a
+counterbalanced design.  The optimal strategy in this task is for animals
+to develop a strong bias for the feeder with a higher probability of reward.  They must also have the ﬂexibility to switch this bias when a new
+block of
+reverse. 
+Consequently, they could earn reward on nearly 80% of the trials by
+choosing optimally, but would earn reward on only 50% of trials by
+choosing randomly.  In practice, animals acquired rewards on 66 ± 3%
+of trials (see Fig.  4), indicating that they did alter their choice biases in
+trials begins and feeder
+reward probabilities
+S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+Fig.  2.  Motoric and motivational eﬀects of THC on the Competitive Choice Task.  (A) THC did not aﬀect the time between trials, as indicated by intertrial interval.  (B) Group-averaged
+number of trials, which was unaﬀected by drug.  (C) The time to locomote from the central port to the reward feeder was unaﬀected by THC.  (D) The length of time spent in the central
+nose port in order to initiate a trial was unaﬀected by THC.  Error bars indicate SEM. 
+order to exploit asymmetries in reward probability. 
+Similar to Experiment 1, drug administration did not signiﬁcantly
+aﬀect the number of trials per session (t (10) = 1. 65, p = 0. 13;
+Fig.  5A), intertrial interval (t (10) = 1. 23, p = 0. 25; Fig.  5B), or prereward anticipatory licks (t (10) = 0. 07, p = 0. 95), further suggesting
+no gross impairment in motor control or motivation.  However, reaction
+time (t (10) = 2. 50, p = 0. 03) and response time (t (10) = 2. 43,
+p = 0. 04) increased with THC administration.  Similar to Experiment 1,
+systemic THC decreased lose-shift
+(10) = 3. 47,
+p = 0. 007; Fig.  5C).  In contrast to Experiment 1, win-stay responding
+increased following THC injection with increasing drug dose (t (10)
+= 2. 37, p < 0. 05; Fig.  5D), while impulsive feeder approach was
+again unaﬀected by drug (t (10) = 0. 059, p = 0. 95).  Futhermore, THC
+administration reduced response entropy (t (10) = 3. 83, p = 0. 004;
+Fig.  5E).  This can likely be explained by the fact that THC increased the
+probability of the rat returning to the previous feeder choice (high reward probability)
+(10) = 3. 38,
+p = 0. 008; Fig.  5F).  This is a good strategy in this task and thus not
+considered an impairment. 
+regardless of choice outcome (t
+responding (t
+Next we sought to determine if responding was aﬀected by whether
+the animals had selected the high or low reward probability feeder on
+either the previous or current trial.  Group means for lose-shift and winstay responding were computed based on whether the animals had
+selected the high or low probability feeder on the previous trial.  Group
+means were also computed for response time and pre-reward anticipatory feeder licks based on the high/low reward probability feeder
+selection on the current trial.  Two-way repeated-measures ANOVAs
+were used to analyze the eﬀect of drug and feeder choice.  Rats generated much more anticipatory licking when they selected the highreward probability feeder (main eﬀect of feeder choice: F (1,9) = 65. 8,
+p < 0. 0001; Fig.  6A), but THC did not aﬀect anticipatory licking (main
+eﬀect of drug: F (1,9) = 0. 085, p = 0. 78; Fig.  6A).  Furthermore, response times were lower (running velocity was higher) when approaching the high reward probability feeder (main eﬀect of feeder
+choice: F (1,9) = 5. 49, p = 0. 04; Fig.  6B).  THC appeared to have no
+eﬀect on response times (main eﬀect of drug: F (1,9) = 3. 46, p = 0. 10;
+Fig.  6B).  Together, these data indicate that THC had no signiﬁcant effect on motivation or the ability of rats to discriminate which of the
+feeders was more likely to deliver reward.  Feeder choice had a signiﬁcant eﬀect on lose-shift responding (main eﬀect of feeder choice: F
+(1,9) = 63. 8, p < 0. 0001; Fig.  6C), such that animals were much more
+likely to lose-shift after receiving a loss at the low reward probability
+feeder than the high probability feeder.  Consistent with session-averaged data (Fig.  4C), lose-shift responding decreased with THC administration regardless of the reward probability (main eﬀect of drug: F
+(1,9) = 10. 4, p = 0. 01; Fig.  6C).  The prevalence of win-stay responding was also higher following wins at the high reward probability
+feeder (main eﬀect of
+feeder choice: F (1,9) = 10. 8, p = 0. 009;
+Fig.  6D), and this was unaﬀected by drug (main eﬀect of drug: F (1,9)
+= 1. 94, p = 0. 20; Fig.  6D).  These data suggest that feeder choice has a
+much greater eﬀect on our task measures than did THC. 
+We next sought to determine whether the measures of choice varied
+across trials within a block, independent of feeder choice.  We collapsed
+data across blocks, and aggregated trials into six bins of 10 trials.  Twoway repeated-measures ANOVAs were used to analyze the eﬀect of drug
+and bin number.  Our data suggests that rats adapted to the changing
+reward probabilities.  They were more likely to receive a reward in the
+later trial bins, as compared to early trial bins, within each block (main
+S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+Fig.  3.  Session-averaged eﬀects of acute THC administration on performance measures in the Competitive Choice Task.  (A) THC did not aﬀect the percentage of trials that were rewarded. 
+(B) Probability of lose-shift responding decreased in a dose-dependent manner with THC administration.  (C) Probability of win-stay responding, which was also reduced by systemic THC. 
+(D) THC had no eﬀect on the randomness of feeder selection over trials, as assayed by response entropy.  Statistical signiﬁcance for RM-ANOVAs are indicated by ‘*’ for p < 0. 05, and ‘**’
+for p < 0. 01.  Asterisks above individual points indicates group means that were signiﬁcantly diﬀerent from the control (Vehicle) mean according to Dunnett's post hoc test with
+α = 0. 05.  Error bars indicate SEM. 
+eﬀect of bin number: F (5,45) = 21. 5, p < 0. 0001; Fig.  7A).  Drug had
+no eﬀect on the probability of receiving a reward (main eﬀect of drug: F
+(1,9) = 0. 003, p = 0. 95; Fig.  7A).  Animals were also less likely to
+switch their feeder choice from the previous trial, regardless of
+outcome, as trials progressed within a block (main eﬀect of bin number:
+F (5,45) = 3. 16, p = 0. 02; Fig.  7B), and this was further decreased by
+drug (main eﬀect of drug: F (1,9) = 12. 6, p = 0. 006; Fig.  7B).  Consistent with the session-averaged analysis, drug had a signiﬁcant eﬀect
+Fig.  4.  Feeder selection for one representative animal during a session of the Reversal Task (240 trials
+over 4 blocks).  Each orange dot represents the feeder
+selected on a single trial.  The choice pattern demonstrates shifting feeder preference in response to
+changing reward contingencies.  (For interpretation
+of the references to colour in this ﬁgure legend, the
+reader is referred to the web version of this article. )S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+Fig.  5.  Treatment-averaged eﬀects of acute THC on behaviour in the Reversal Task.  (A) THC had no eﬀect the number of trials performed.  (B) THC did not aﬀect the intertrial interval.  (C)
+Probability of lose-shift responding was decreased by systemic THC.  (D) Probability of win-stay responding was increased by THC.  (E) THC signiﬁcantly reduced the randomness of feeder
+selection over trials, as measured by response entropy.  (F) The probability of a switch from the previous feeder choice independent of reinforcement was signiﬁcantly reduced by THC. 
+Statistical signiﬁcance is indicated by ‘*’ for p < 0. 05, and ‘**’ for p < 0. 01 for paired t-tests.  Error bars indicate SEM. 
+to reduce lose-shift responding (F (1,9) = 17. 6, p = 0. 002; Fig.  7C),
+whereas bin number had no eﬀect (F (5,45) = 2. 31, p = 0. 06; Fig.  7C). 
+Drug also had a signiﬁcant eﬀect on win-stay (F (1,9) = 5. 28,
+p < 0. 05; Fig.  7D), whereas bin number had a strong eﬀect on winstay such that it increased as blocks progressed (F (5,45) = 3. 82,
+p = 0. 006; Fig.  7D).  These data reveal that while THC did aﬀect shortterm decision-making (lose-shift, choice switch, and win-stay), it did
+not aﬀect the ability to learn to bias choices to high-probability feeders. 
+<Conclusion> Discussion. 
+Acute THC has been proposed to impair cognitive ﬂexibility in rats
+and other animal models based on evidence that it reduces performance
+on some tests of set shifting and reversal learning [12,14].  Performance
+on such tasks, however, likely depends on several information processing systems in the brain, such as those involved in short-term memory,
+reinforcement learning, and impulse control [40].  Here, we sought to
+reﬁne our understanding of THC’s eﬀects on decision-making by analyzing its eﬀects on some of these component systems.  In particular, we
+focused on lose-shift responding to assess immediate short-lasting effects, and reversal learning to assess more gradual learning over many
+trials.  We previously found that lose-shift responding depends speciﬁcally on sensorimotor regions of the striatum [36], and is attenuated in
+a dose-dependent manner by AMPH administration [26].  This eﬀect is
+likely due to the ability of amphetamine to increase dopamine release in
+the striatum [41], which is expected to attenuate the brief suppressionof dopamine
+transmission that normally
+indicatesreinforcement obtained was less than expected [21].  Because THC also
+increases tonic dopamine levels, albeit through a diﬀerent mechanism,
+we hypothesized that lose-shift would be likewise suppressed by THC. 
+We indeed found such an eﬀect (Figs.  3 and 5).  Lose-shift responding on
+this task depends on a memory trace that decays over 7 s [33].  Therefore, the present data suggest that THC will impair behavioural control
+that beneﬁts from rapid, but short-lasting, choice shifting away from
+poor response options. 
+Given its rapid decay, lose-shift responding appears to be distinct
+from other forms of reinforcement learning that contribute to decisionmaking based on reinforcement delivery over many trials and much
+longer timescales [33].  We tested if acute THC aﬀected this gradual
+learning by evaluating the ability of rats to ﬂexibly reverse response
+biases so as to track uncued reversals of reward probability.  We found
+that THC had no eﬀect on the slower form of reinforcement learning
+needed to solve the Reversal Task (Fig.  7).  This is illustrated by the fact
+that THC did not reduce the overall reward obtained during sessions or
+impair the ability to follow uncued reversals of reward probability. 
+Our ﬁndings are in contrast to other studies reporting an eﬀect of
+THC on reversal learning and set shifting [12,13].  It is unlikely these
+discrepancies are due to drug dose eﬀects, as these studies found impairments in set shifting [12] in lower doses (0. 1–0. 5 mg/kg), and reversal learning deﬁcits at equivalent doses (2. 0 mg/kg) [13] compared
+to those used in our study.  We note that these other studies used discriminative cues, which were omitted in the present study.  It is possible
+that the addition of these task features recruits additional brain regions
+that are aﬀected by THC.  One such region is the orbitofrontal cortex,S. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+Fig.  6.  Eﬀects of acute THC and feeder choice on behavioural measures in the Reversal Task.  (A) Anticipatory licking was increased when the high reward probability feeder was chosen. 
+(B) Response time was reduced on trials where the high reward probability feeder was chosen.  (C) THC reduced lose-shift, which was higher at the low probability feeder.  (D) Win-stay
+responding was lower at the low reward probability feeder.  Signiﬁcance was determined by a two-way RM-ANOVA indicated by ‘*’ for p < 0. 05, ‘**’ for p < 0. 01, ‘***’ for p < 0. 001,
+and ‘****’ for p < 0. 0001.  A main eﬀect of feeder choice is indicated by ‘#’, while a main eﬀect of drug is indicated by ‘†’.  Error bars indicate SEM. 
+which is involved in updating stimulus-outcome associations [42], and
+has increased immediate early gene activity following THC administration [13].  This leads us to speculate that animals are less reliant on
+the orbitofrontal cortex to perform our uncued tasks, thus leading to
+possible THC-induced changes in the region having little eﬀect in task
+performance.  Furthermore, rats do sometimes receive reward on the
+low-probability feeder in the present task.  This diﬀers from most reversal learning tasks, which tend to provide no reward (or aversive
+reinforcement such as quinine) on the previously optimal choice after a
+reversal has occurred.  Another possibility is that sex diﬀerences inﬂuenced our results, although we argue this is unlikely.  We have controlled for sex in Long Evans rats performing the Competitive Choice
+Task and found only minor diﬀerences unrelated to the main ﬁndings
+here (unpublished observations).  Moreover, we expect little to no eﬀect
+of estrous cycle because an extensive meta-analysis of behavioural and
+physiological traits found equal variability in both sexes, even when
+including estrous cycle phases [43].  We thus expect that the eﬀects of
+THC reported here would replicate in male rats.  Our ﬁnding that THC
+does not aﬀect uncued reversal learning suggests that THC only aﬀects
+certain subsystems involved in cognitive ﬂexibility. 
+Rats in the present study discriminated the expected value of the
+feeders in the Reversal Task; they exhibited increased win-stay responding, increased pre-reward licks, and more quickly approached the
+high probability feeder as compared to the low probability feeder.  Rats
+also exhibited less lose-shift responding at the high probability feeder. 
+This reduction is a favorable response policy and suggests that some
+processing systems involved in behavioural ﬂexibility can inhibit
+others.  Because lose-shift responding depends on the dorsolateral
+striatum [36], we speculate that the advantageous reduction of loseshift involves the suppression of this system by the prefrontal cortex. 
+Such suppression of innate behaviours by executive systems has been
+suggested by others [44,45]. 
+While THC and AMPH both impair lose-shift responding, their effects on behaviour diﬀered in several respects.  For example, AMPH
+decreased reaction time [26], whereas THC increased reaction time and
+response time in the Reversal Task, and showed a non-signiﬁcant trend
+to increase these measures in the Competitive Choice Task (Table 1). 
+Furthermore, AMPH had no eﬀect on win-stay responding, while THC
+decreased this behaviour in the Competitive Choice Task and increased
+it in the Reversal Task.  Given the weak and opposing eﬀects on winstay, we cannot rule out the possibility of a spurious eﬀect due to the
+binary nature of many deductive statistical tests [46].  It is also possible
+that win expectancy of the rats diﬀers between the tasks. 
+In contrast to win-stay responding, the tendency to approach feeders
+outside of the trial period to seek rewards was unaﬀected by THC. 
+Animals should always return to the central nose-poke after responding
+at a feeder.  However, on some trials they would instead approach the
+alternate feeder presumably seeking a reward.  This was never reinforced, and so we argue that it is an impulsive behaviour [26] that
+limits total reward during a session.  This impulsive feeder approach is
+dramatically increased by systemic amphetamine, or by infusions of
+amphetamine into the ventral striatum [26], or by lesions of theS. A.  Wong Name
+Behavioural Brain Research 335 (2017) 136–144
+Fig.  7.  Within-block analysis of THC’s eﬀects on behavioural measures in the Reversal Task.  (A) The probability of reward was strongly aﬀected by bin number.  (B) The probability of a
+switch from the previous choice, independent of reinforcement, was aﬀected by both drug and bin number.  (C) THC reduced lose-shift responding, while bin number had no eﬀect.  (D)
+Drug and bin number both had eﬀects on win-stay responding.  Signiﬁcance as determined by a two-way RM-ANOVA is indicated by ‘*’ for p < 0. 05, ‘**’ for p < 0. 01, and ‘****’ for
+p < 0. 0001.  A main eﬀect of drug is indicated by ‘†’, while a signiﬁcant main eﬀect of bin number is indicated by ‘#’.  Error bars indicate SEM. Comparison of behavioural measures inﬂuenced by THC in the Competitive Choice and
+Reversal Tasks.  Strong eﬀects are denoted with two arrows, while moderate eﬀects are
+denoted with one arrow.  Arrow directions indicate directionality of diﬀerences as compared to vehicle injections.  Non-signiﬁcant eﬀects are denoted with ‘-’. 
+Behavioral Measure
+Competitive Choice Task
+Reversal Task
+Lose-Shift
+Win-Stay
+Impulsive Feeder Approach
+Response Entropy
+Number of Trials
+InterTrial Interval
+Reaction Time
+Response Time
+Reversal Trackingweak ↓–––↓↓––↑–
+Conversely, relatively little CB1 mRNA is expressed in the ventral
+striatum this may be an explanation for why ventral striatum-driven
+impulsive feeder approach was unaﬀected by THC.  Further experiments
+will be needed to properly test this hypothesis. 
+As with all systemic pharmacology experiments, we cannot ascertain which brain structures are aﬀected and can only speculate on potential neurobiological mechanisms.  While CB1 expression is greatest in
+the striatonigral pathway, amygdala, and hippocampus, moderate expression also occurs in the neocortex [31]. 

@@ -1,0 +1,558 @@
+
+
+INTRODUCTION
+
+Amyotrophic lateral sclerosis (ALS) is an incurable, relentlessly
+progressing neurodegenerative disease, leading to death within
+3–5 years of diagnosis in most cases [1, 2]. In ALS, the degener-
+ation of upper and lower motor neurons leads to muscle atrophy,
+weakness, and eventually paralysis. Although predominantly a
+
+motor disorder, 20% of ALS cases also develop cognitive def-
+icits that resemble those seen in frontotemporal dementia (FTD).
+Strikingly, ALS and select FTD subtypes share the pathological
+hallmark of ubiquitinated inclusions composed of TDP-43 pro-
+tein, encoded by the TARDBP gene [3].
+
+The discovery of TARDBP mutations in ALS and FTD [4, 5]
+demonstrates that TDP-43 plays causal roles in the pathogen-
+esis of these diseases. Therefore, understanding the molecular
+events underlying TDP-43 toxicity is of special
+importance.
+Indeed, abnormal TDP-43 levels and localization are toxic to
+neurons [6], elicit endoplasmic reticulum (ER) stress [7], and
+impair multiple cellular processes, including axonal transport
+[8], mitochondrial function [9], and RNA metabolism [10]. TDP-
+43 is a ubiquitously expressed RNA- and DNA-binding protein,
+with primarily nuclear localization. Interestingly, TDP-43 was
+originally identiﬁed as a transcriptional
+repressor [11], but DNA-related functions of TDP-43 remain largely unexplored.
+Proper chromatin regulation is critical for gene expression in
+the brain [12, 13], and various epigenetic mechanisms including
+DNA methylation [14], histone acetylation [15], and histone
+variant exchange [16] have been shown to control memory for-
+mation and consolidation. Recent observations also point to
+possible altered histone methylation and acetylation having a
+role during brain degeneration in Alzheimer’s disease [17] and
+in models of tauopathies [18]. Chromatin remodeling is carried
+out by a large family of ATP-dependent enzymes that modify
+chromatin structure by depositing, sliding, and evicting histones
+[19]. Mutations in multiple chromatin remodelers are associated
+with human mental disorders, suggesting that imbalance of
+neuronal chromatin structure and the ensuing alterations in
+gene expression are detrimental to brain function [20]. The
+CHD family of chromatin remodelers is characterized by tandem
+chromodomains in the N-terminal region and a central catalytic
+domain with homology to the canonical SNF2-like ATPase
+domain. Vertebrates contain CHD1 and CHD2, which form a
+unique subfamily due to the presence of a C-terminal DNA-bind-
+ing domain [21], whereas in invertebrates only one gene, Chd1,
+exists.
+
+Here we took an unbiased screening approach to ask
+to whether chromatin regulatory proteins might be critical
+neurodegeneration. We ﬁnd an unexpected role of TDP-43 in im-
+pairing Chd1-dependent chromatin dynamics at stress genes,
+thus reducing the protective stress response and promoting
+neurodegeneration. We also ﬁnd a striking loss of CHD2 in hu-
+man FTD cortex, indicating that impaired chromatin remodeling
+may be a key event in ALS/FTD.
+
+<Middle> RESULTS.
+TDP-43 Toxicity Is Modulated by H3K4me3-Related
+Genes in Drosophila
+We performed an in vivo RNAi screen in which we reduced
+expression of 84 genes related to various aspects of chromatin
+regulation in a Drosophila model of ALS/FTD (Table S1; genes
+were selected as in [22]). The gene set included histone methyl-
+transferases, demethylases, acetyltransferases (HATs), and de-
+acetylases (HDACs), as well as associated factors, histones, and
+chromatin remodelers. We expressed TDP-43 in the ﬂy eye with
+the binary GAL4/UAS expression system. Such ﬂies show pro-
+gressive retinal deterioration that can be visualized externally,
+providing a simple and rapid readout of TDP-43 toxicity and
+potential gene enhancers or suppressors [23]. We followed the
+screen with secondary tests using a model of TDP-43-mediated
+brain degeneration.
+
+Following exclusion of RNAi lines that affected eye integrity on
+their own, the screen uncovered 31 modiﬁers, 4 of which we
+classiﬁed as ‘‘strong’’ and 27 as ‘‘mild’’ based on eye structure
+(Figure 1A). The modiﬁers, both enhancers and suppressors of
+TDP-43 toxicity, included a range of genes from most of the
+tested functional categories. However, we noted that six modi-
+ﬁers were related to histone H3 trimethyl lysine 4 (H3K4me3; Fig-
+ure 1A), a mark associated with active gene expression [24]. Two
+strong modiﬁers were lid and Chd1 (Figures 1B and 1C): knock-
+down of lid, an H3K4me3 demethylase [25], strongly suppressed
+TDP-43 toxicity, whereas knockdown of Chd1, a chromatin ATP-
+dependent remodeling factor associated with H3K4me3 [26],
+enhanced TDP-43 toxicity (Figures 1B and 1C). Knockdown of
+three components of COMPASS (conserved multiprotein com-
+plexes that mediate methylation of H3K4 [27]) showed mild
+enhancement of TDP-43 toxicity. These were Set1, the major
+H3K4me3 lysine methyltransferase [28], and the subunits ash2
+and Wdr82 (Figure S1A). Taken together, these genetic interac-
+tions suggested that gain of H3K4 methylation suppressed
+toxicity, whereas toxicity was enhanced by loss of H3K4 methyl-
+ation or function.
+
+To assess the speciﬁcity of these interactions, we manipulated
+other chromatin marks and examined TDP-43-mediated degen-
+eration. These data showed that modulation of genes that alter
+methylation of H3K9, H3K27, H3K36, or H3K79 had no effect
+on TDP-43 toxicity (Figure S1B). Furthermore, knockdown of
+Su(var)3-3, which demethylates mono and dimethyl H3K4 [29],
+also had little effect on TDP-43 toxicity (Figure S1A).
+
+The efﬁciency of lid and Chd1 knockdown was conﬁrmed us-
+ing real-time qRT-PCR (Figure S1C). We focused additional an-
+alyses on lid and Chd1 because of their strong modulation of
+TDP43. Modulation by lid and Chd1 was speciﬁc to TDP-43,
+because reduction of lid or Chd1 on their own did not affect
+integrity of the eye (Figure S1D) and did not impact the toxicity
+of another neurodegenerative disease protein, Tau (Figure S1D).
+
+Furthermore, lid and Chd1 knockdown did not alter TDP-43
+levels or nuclear/cytoplasmic partitioning (Figures S1E and
+S1F). Thus, the screen identiﬁed a selective genetic interaction
+between TDP-43 and chromatin factors related speciﬁcally to
+the H3K4me3 chromatin mark.
+
+We next tested whether manipulation of lid and Chd1 could
+alter TDP-43 toxicity in the nervous system. Expression of
+TDP-43 using the neuronal driver elav-Gal4 shortened lifespan
+and impaired motor abilities (chamber wall climbing). Knock-
+down of Chd1 further shortened lifespan and further impaired
+motor function, whereas lid knockdown prolonged lifespan and
+mitigated motor dysfunction (Figure 1D; Figure S1G). Impor-
+tantly, Chd1 and lid knockdown on their own had no effect on
+lifespan (Figure 1E).
+We considered the possibility that TDP-43 expression itself
+affected the level of the H3K4me3 mark. We therefore exam-
+ined the levels of H3K4me3 in brains of animals expressing
+TDP-43, compared to knockdown of lid and Set1, the
+H3K4me3 demethylase and methyltransferase, respectively.
+Although there was a striking effect of both lid and Set1 in
+modulating brain H3K4me3 levels, TDP-43 expression had no
+effect (Figure 1F). Chd1 depletion does not affect H3K4me3
+levels [30]. Furthermore, in the background of TDP-43 expres-
+sion, knockdown of lid, Set1, and Chd1 exerted similar effects
+on H3K4me3 as they did in control ﬂies (Figure S1H). These
+data suggested that it is not the level of H3K4me3 that is
+important but rather functional
+interactions, for example the
+recruitment of remodeling factors to chromatin that might be
+especially relevant, given the identiﬁcation of Chd1 as a strong
+TDP-43 modiﬁer.
+
+TDP-43 Mediates Stress Response Impairments
+via Chd1
+Chd1 is a nucleosome remodeling enzyme of the SNF2 family;
+human CHD1 speciﬁcally binds to H3K4me3 [26], and
+Drosophila Chd1 largely overlaps with H3K4me3 on chromatin
+[31]. However, given that global levels of H3K4me3 were unaf-
+fected by TDP-43, our ﬁndings raised the possibility that select
+targets of Chd1 might be of special importance to TDP-43-asso-
+ciated toxicity. Intriguingly, Chd1 is linked to gene induction
+following stress [30, 32], and molecular chaperones are crucial
+in neurodegenerative processes [33–35]. TDP-43, like numerous
+other degenerative disease proteins, is aggregation prone, and
+several heat shock proteins protect against its toxicity [36–40].
+In accordance with these studies, we found that upregulation
+of Hsc4 and Hsp68 suppressed TDP-43 toxicity (Figures S2A
+and S2B). We conﬁrmed that Chd1 loss impairs the induction
+of heat shock genes in adult ﬂies, as shown previously in larvae
+[30] (Figure S2C). These data raised the possibility that the Chd1
+and TDP-43 genetic interaction may involve stress pathways,
+and that impaired Chd1 function could limit the cellular stress
+response to various insults.
+
+During stress, TDP-43 accumulates in stress granules (SGs),
+which are cytoplasmic, non-membrane-bound assemblies of
+proteins and mRNAs and that are stalled in translation initiation
+[41]. Therapeutic inhibition of SGs mitigates TDP-43-mediated
+neurodegeneration [42]. We therefore tested whether Chd1
+might be involved in SG formation. We used Drosophila S2R+
+cells [43], and developed an automated SG analysis pipeline
+(Figure 2B) to allow quantitative analysis. Knockdown of Chd1
+(Figure 2A) did not induce SG formation on its own (Figure 2C).
+However, upon treatment with 0.2 mM sodium arsenite, a well-
+characterized inducer of SG formation, Chd1 knockdown signif-
+icantly increased the number of SGs per cell, SG size, and per-
+centage of cells that exhibit visible SGs (Figures 2C and 2D;
+highly sensitive to paraquat-induced
+oxidative stress as well as to starvation
+(Figure S2D), suggesting that TDP-43
+induced severe impairments to multiple
+stress response pathways. These data
+further indicated that the Chd1 and TDP-
+43 genetic interaction may reﬂect modu-
+lation of stress response genes.
+
+To examine the molecular basis of
+this sensitivity, we subjected animals to
+heat shock and analyzed the dynamics
+of gene expression of the molecular chap-
+erones. Without added stress, TDP-43
+caused a moderate and signiﬁcant
+upregulation of several heat shock genes
+(Figure 3F). Upon heat stress, the expression of these genes
+increased dramatically. However, the mRNA levels of Hsp23,
+Hsp27, Hsp40, Hsp68, Hsp70 loci, and Hsp83 were consistently
+lower in TDP-43 animals compared to controls following stress
+(Figures 3F and 3G; Figures S2H and S2I; data are presented
+relative to control non-heat shock). Thus, induction of heat shock
+gene expression is impaired by TDP-43. Upregulation of Chd1
+could restore stress gene induction to animals expressing
+TDP-43: importantly, the level of gene expression returned to
+nearly control levels in TDP-43 + Chd1-OE (Figure 3G; Figures
+S2H and S2I), consistent with the ability of Chd1 to protect
+TDP-43 animals from physiological heat stress (Figure 3C). The
+induction of several Hsps, such as Hsp67, was unaltered by
+TDP-43 (Figure S2E), showing speciﬁcity in effects. Supporting
+the unique role of the stress response in TDP-43 toxicity, ﬂies ex-
+pressing Tau (wild-type or R406W mutant) had normal heat
+shock gene induction (Figure S2G).
+
+To determine whether these effects of TDP-43 were conserved
+in mammalian cells, we utilized human embryonic kidney
+(HEK) 293T cells that express GFP-tagged wild-type TDP-43
+
+Figure S3). These data conﬁrmed that Chd1 function may be crit-
+ical during the stress response.
+
+To examine the functional importance of Chd1 during stress,
+we subjected Chd1 homozygous null ﬂies to 2 hr of heat stress
+
+C and allowed them to recover overnight (Figure 3A).
+at 40
+Control animals recovered almost completely, whereas loss of
+Chd1 dramatically impaired survival (Figure 3B). Knockdown of
+Chd1 similarly resulted in impaired survival following stress (Fig-
+ure 3B). We then asked whether stress sensitivity is a feature of
+animals expressing TDP-43. Strikingly, conditional expression of
+TDP-43 in adult animals also resulted in hypersensitivity to heat
+stress, with high lethality after overnight recovery (Figure 3C);
+Chd1 knockdown further increased lethality, whereas increased
+expression of Chd1 (Chd1-OE) dramatically reduced lethality of
+TDP-43 ﬂies (Figure 3C). The increased sensitivity of TDP-43 an-
+imals to stress was selective, and not a general feature of ani-
+mals undergoing neurodegeneration, because expression of
+the neurodegenerative disease protein Tau (wild-type or the
+FTD-Tau-related mutation R406W) did not result in sensitivity
+to heat stress (Figures 3D and 3E). TDP-43 animals were also
+(GFP-TDP-43) or GFP alone conditionally via the TetON system.
+GFP-TDP-43 or GFP was placed under the tetracycline-respon-
+sive promoter element
+(TRE) and induced by the reverse
+tetracycline-controlled transactivator (rtTA). Six days following
+
+C for
+doxycycline induction, the cells were heat stressed at 46
+1 hr. RNA was extracted after 6 and 8 hr, and the expression of
+10 prototypical members of the heat shock protein family was
+assessed. We found that TDP-43 dramatically impaired the
+induction of HSPB5 (Crystallin Alpha B; CYRAB), DNAJB1
+(HSP40 member B1), HSPA1A (HSP70 protein 1A), and HSPA6
+(HSP70 protein 6) (Figure 3H; Figure S2F). Our data indicate
+that in both Drosophila and mammalian cells, TDP-43 impairs
+the induction of major stress genes, notably HSP70.
+
+TDP-43 Impairs Chromatin Dynamics
+The ability of a chromatin remodeling factor, Chd1, to modulate
+TDP-43-mediated impairments in stress gene induction raised
+the possibility that TDP-43 may impact chromatin structure at
+these genes. We focused on Hsp70 because it is a highly
+induced, canonical stress gene. Upon heat shock, nucleosomes
+along the gene body are rapidly removed to allow transcription
+by paused RNA polymerase II [44]. We therefore tested whether
+these nucleosome dynamics are impacted by TDP-43. Using
+micrococcal nuclease protection followed by qPCR (MNase-
+qPCR; Figure 4A), we conﬁrmed that histones are rapidly cleared
+(approximately 4-fold decrease) over the Hsp70 gene body upon
+heat shock of adult Drosophila (Figure 4B). We then conditionally
+expressed TDP-43 and analyzed nucleosomal positioning under
+ambient temperatures or following 10 min of heat stress. Without
+heat stress, TDP-43 caused a mild but signiﬁcant clearance of
+nucleosomes (Figure 4B), in accordance with its effects on
+gene expression (see Figure 3F). Strikingly, under stress, TDP-
+43 induced a strong impairment in histone clearance along the
+Hsp70 gene body (Figure 4B), which was also consistent with
+the reduction in gene expression in TDP-43-expressing animals
+at this time point. In accordance with the ability of Chd1-OE to
+rescue heat shock sensitivity and gene induction in TDP-43-ex-
+pressing animals, added Chd1 restored histone clearance (Fig-
+ure 4B). Analysis of a second locus, Hsp40, yielded similar
+effects (Figure S4A). These data suggest that TDP-43 impairs in TetON-HEK293 cells (Figure 3H), we performed MNase pro-
+tection to ask whether nucleosomal dynamics was also affected
+in human cells. Chromatin clearance ahead of RNA polymerase
+has been previously described for human HSP70 in response to
+heat stress of cultured cells [45], suggesting that this gene is a
+suitable system with which to study chromatin dynamics in
+C and 1-hr
+mammalian cells. Following a 1-hr heat stress at 46
+recovery at 37
+C, we found reduced nucleosomal occupancy
+at the promoter and gene body of HSPA6 and HSPA1A, two hu-
+man HSP70 genes (Figure S4E). Expression of TDP-43 impaired
+the clearance of nucleosomes at both of these genes (Fig-
+ure S4E). Therefore, impaired chromatin dynamics by TDP-43
+is conserved in mammalian cells.
+TDP-43 Impairs Recruitment of Chd1 to Chromatin
+Chd1 is recruited to heat shock loci and associates with regions
+of high transcriptional activity [46]. In light of our ﬁndings, we hy-
+pothesized that TDP-43 may impact recruitment of Chd1 to
+chromatin. To test this, we employed a hemagglutinin (HA)-
+tagged Chd1 genomic transgene expressed via the endogenous
+Chd1 promoter and followed in vivo chromatin association of
+Chd1 utilizing an anti-HA antibody. ChIP-qPCR analysis across
+the Hsp70 gene conﬁrmed that Chd1-HA recruitment over the
+Hsp70 gene body coincided with the clearance of histone H3
+(Figures S4F and S4G), consistent with the role of Chd1 in nucle-
+osome remodeling at Hsp70 [30]. We then used ChIP-qPCR to
+compare Chd1 association with the Hsp70 gene between control
+ﬂies and ﬂies expressing TDP-43. Whereas the association of
+Chd1 with the Hsp70 gene body was normally robust upon
+stress, the presence of TDP-43 resulted in a signiﬁcant reduction
+in Chd1 association (Figure 4E), despite normal overall levels of
+Chd1 (Figures S5A and S5B). Taken together with the impaired
+eviction of nucleosomes and the hypersensitivity of TDP-43 an-
+imals to stress, these data suggest that reduced levels of Chd1
+on Hsp gene bodies during stress impair chromatin dynamics,
+leading to reduced transcription of Hsp genes. Thus, animals
+with sub-optimal levels of stress response gene expression will
+be hypersensitive to insult, which will manifest in increased
+mortality.
+
+TDP-43 and Drosophila Chd1/Human CHD2 Physically
+Interact
+A mechanism underlying reduced Chd1 recruitment to chromatin
+might involve physical interactions between TDP-43 and Chd1.
+We examined interactions in soluble and chromatin fractions, us-
+ing co-immunoprecipitation (coIP) in extracts derived from whole
+ﬂies. Intriguingly, TDP-43 coIP Chd1-HA primarily in the soluble
+fraction (Figure 5B), although TDP-43 was localized to both the
+soluble and chromatin fractions (Figure 5B). IP with an IgG control
+as well as western immunoblot against b-tubulin demonstrated
+the selectivity of the interaction. coIPs with anti-TDP-43 anti-
+bodies in ﬂies that do not express TDP-43 did not pull down
+Chd1-HA, conﬁrming speciﬁcity (Figure S5C). These data sug-
+gest that TDP-43 may physically prevent proper recruitment of
+Chd1 to stress genes, and are consistent with TDP-43-depen-
+dent compromise of nucleosome remodeling (see Figure 4) and
+dampened stress-related gene expression (see Figure 3).
+
+Vertebrates, including humans, encode two orthologs of
+Chd1: CHD1 and CHD2 (Figure 5A). Between these, mutations
+chromatin dynamics, largely downstream of the transcription
+start site (TSS) within the transcribed gene body, and that these
+impairments are restored by added Chd1.
+
+To conﬁrm these ﬁndings using an independent assay, we
+used chromatin immunoprecipitation (ChIP) of histone H3 in
+adult ﬂies (Figure 4C), as the opening of chromatin structure is
+accompanied by reduced occupancy of histone H3 [44]. In
+accordance with the MNase data, heat shock resulted in loss
+of the H3 signal, and clearance of H3 was impaired by TDP-43
+(Figure 4D). Here as well, Chd1-OE rescued TDP-43-mediated
+impairments in nucleosomal clearance (Figure 4D). To obtain a
+quantitative measure of the dynamic ability of speciﬁc regions
+within the Hsp70 locus to clear nucleosomes upon stress, we
+calculated the ratio of non-heat shock to heat shock values for
+both the MNase and H3 ChIP experiments (Figures S4C and
+S4D). This analysis further supported a role for TDP-43 in impair-
+ing chromatin dynamics. We further conﬁrmed that TDP-43 did
+not alter H3K4me3 levels at the Hsp70 promoter/TSS region,
+underscoring that TDP-43 interferes with chromatin remodeling
+but does not affect H3K4me3 levels (Figure S4B). Moreover,
+because TDP-43 impaired the induction of human HSP genes
+in CHD2 are associated with neurological disorders, including in-
+tellectual disability, autism spectrum disorder, and epileptic
+encephalopathies [47–54], whereas loss of CHD1 in mouse em-
+bryonic stem cells leads to neural differentiation, suggesting that
+CHD1 impairs neural fate [55]. Thus, we focused on CHD2 as the
+relevant homolog in the brain.
+
+Using HEK293 cells, which endogenously express both TDP-
+43 and CHD2, we determined whether TDP-43 and CHD2 phys-
+ically interacted by coIP. Cells were fractionated into soluble and
+chromatin fractions, and anti-TDP-43 antibody was utilized for
+IP. CHD2 was selectively pulled down by TDP-43 (Figure 5C),
+and, as in Drosophila, CHD2 and TDP-43 interacted primarily in
+the soluble fraction, whereas TDP-43 was detected in both
+fractions (Figure 5C). IP with an IgG control as well as western
+immunoblot against b-tubulin conﬁrmed the speciﬁcity of the
+interaction. We conﬁrmed a robust and selective interaction be-
+tween TDP-43 and CHD2 by reverse IP with CHD2 and immuno-
+blot against TDP-43 (Figure 5D). Importantly, endogenous CHD2
+and TDP-43 were coIPed without overexpression of these pro-
+teins, supporting a strong interaction. To examine whether this
+interaction was mediated by RNA, we repeated the IP with sam-
+ples treated with RNase A. Surprisingly, we detected an increase
+in the association of CHD2 and TDP-43 (Figure S5D). Mutations
+in the TDP-43 RNA recognition motifs induce nuclear accumula-
+tions of TDP-43 [23, 56]. We therefore suggest that upon aggre-
+gation, TDP-43 increases its interaction with CHD2. Of note,
+however, RNase A treatment also promoted an interaction of
+TDP-43 with b-tubulin, which is not bound under native condi-
+tions (Figure S5D). Taken together, these data indicate that dis-
+ruptions to the function of Chd1/CHD2 may be mediated by
+interaction with TDP-43.
+
+Cytoplasmic TDP-43 Accumulations Are Associated
+with Reduced CHD2 Levels in Cultured Cells and in
+Human FTD Cortex
+Given the interactions between TDP-43 and Chd1/CHD2, we
+analyzed CHD2 expression using immunohistochemistry in
+TetOn-GFP-TDP-43 and control cells (Figure 6A). These data
+showed that TetOn-GFP-TDP-43 cells had an 20% reduction
+in CHD2 protein levels (Figure 6B). Similar reduction was also de-
+tected by western immunoblot (Figure S5E). We further noted
+that 15% of cells expressing GFP-TDP-43 exhibited abnormal
+accumulations of cytoplasmic TDP-43, reminiscent of ALS and
+FTD (Figure 6C). CHD2 levels were reduced in those cells with
+cytoplasmic TDP-43 accumulations (Figures 6C and 6D), sug-
+gesting that TDP-43 mislocalization is correlated with reduced
+CHD2 levels.
+
+These results prompted us to examine CHD2 levels in the hu-
+man brain. CHD2 immunolabeling of temporal cortex showed
+staining that appeared exclusively nuclear (Figure 6E), as in
+cultured cells. We then compared CHD2 immunolabeling be-
+tween tissue from controls and FTD cases with TDP-43 pathol-
+ogy (FTD-TDP). These data revealed that CHD2 levels were
+dramatically reduced in FTD-TDP (Figures 6E and 6F). Further,
+when comparing CHD2 levels within FTD brain cells based on
+nuclear or cytoplasmic TDP-43 localization, reduced CHD2
+was associated with cells bearing abnormal cytoplasmic locali-
+zation of TDP-43 (Figure 6G). Therefore, in both cultured cells
+and human post-mortem disease brain tissue, CHD2 protein
+levels are negatively associated with abnormal cytoplasmic
+TDP-43 accumulations.
+
+To systematically determine whether the relative abundance
+of multiple histone post-translational modiﬁcations was altered
+in the FTD post-mortem brain, we extracted histones from tem-
+poral cortex samples and analyzed histone H3 and histone H4
+modiﬁcations by liquid chromatography tandem mass spec-
+trometry (LC-MS/MS [57]). We found no signiﬁcant alterations
+in the abundance of 44 acetylation or methylation marks on his-
+tones H3 and H4 between controls and FTD cases (Figures S6A
+and S6B). We also speciﬁcally analyzed H3K4me3 levels by
+immunoblot, and again found no signiﬁcant changes between
+controls and FTD cases (Figure S6C), as in Drosophila. There-
+fore, reduced levels of CHD2 in the FTD brain are not associated
+with a global change in histone modiﬁcations in general, or
+H3K4me3 in particular.
+
+Taken together, our data support a model whereby TDP-43
+compromises chromatin dynamics at least in part by interfering
+with Chd1 (in Drosophila)/CHD2 (in humans) recruitment to
+genes such as stress response genes. Reduced clearance of nu-
+cleosomes is expected to interfere with the ability of the tran-
+scriptional machinery to allow optimal gene expression upon
+exposure to stressful stimuli (Figure 6H). This reduced ability to
+upregulate stress genes will
+impair the cellular capacity to
+resolve stress insults and thus contribute to the progression of
+neurodegeneration.
+
+<Conclusion> DISCUSSION.
+An in vivo RNAi screen in Drosophila identiﬁed Chd1 and several
+H3K4me3-related factors as strikingly selective modiﬁers of
+TDP-43-induced neurodegeneration. Detailed investigation re-
+vealed an interaction between TDP-43 and the chromatin re-
+modeler Chd1. We ﬁnd that upon stress, TDP-43 ﬂies are
+impaired in their ability to upregulate Hsp gene expression and
+are highly sensitive to deleterious actions of stress (see Figure 3).
+We ﬁnd that these effects are mediated by Chd1: TDP-43
+impaired Chd1 recruitment to chromatin upon exposure to
+heat stress, resulting in reduced ability to clear nucleosomes
+from the gene body of Hsp70 and Hsp40 (see Figures 4 and
+S4). Importantly, TDP-43 animals were also sensitive to paraquat
+and starvation, suggesting general stress sensitivity. We antici-
+pate that similar impairments of chromatin dynamics at stress
+response genes will also occur under these situations. We
+extended our ﬁndings to show that CHD2 levels are markedly
+reduced in FTD-TDP cortex. Our studies raise the possibility
+that TDP-43 toxicity is associated with impaired chromatin re-
+modeling, at least in part due to compromise of CHD2 levels
+and function. Approaches to promote chromatin dynamics
+and/or restore CHD2 levels may be promising therapeutics.
+Our screen also identiﬁed lid as a suppressor of TDP-43 toxicity,
+although we focused on Chd1 function because we did not
+observe a change in global levels of H3K4me3 in the FTD brain
+or in our animal model following TDP-43 expression. We cannot
+rule out that local changes in H3K4me3 abundance may occur at
+speciﬁc genomic locations, although we did not detect such a
+change at Hsp70.
+
+Interestingly, TDP-43 caused a 20% reduction in CHD2 pro-
+tein levels in HEK293 cells but did not alter Chd1 protein levels
+or nuclear/cytoplasmic partitioning in ﬂies. The more drastic
+reduction observed in the FTD brain suggests that additional,
+most likely aging-dependent mechanisms are involved. Further-
+more, as Drosophila bears a single Chd1 gene whereas the
+human CHD1 family also contains CHD2, it is possible that the
+expression of ﬂy Chd1 is subject to tighter regulation. The pre-
+cise mechanism by which TDP-43 impairs chromatin recruitment
+of Chd1 requires future studies, but we hypothesize that it will
+involve physical association between these proteins.
+
+Our studies highlight impaired stress gene dynamics. This un-
+expected result, that TDP-43 impairs the induction of molecular
+chaperones—the very factors needed for resolution of cellular
+stress—may help to explain the difﬁculty neurons have in
+resolving TDP-43-mediated toxicity in ALS/FTD. Given that in-
+duction of chaperone gene expression is considered a therapeu-
+tic approach for neurodegenerative diseases [58], a detailed
+understanding of the mechanisms that govern chaperone gene
+expression in the brain is warranted. Indeed, reduced protein
+levels of several Hsps are reported in the spinal cord of TDP-
+43 mouse models and human ALS cases [40]. Similarly, HSP70
+levels were found to be reduced in neural derived plasma exo-
+somes from FTD patients as compared with controls [59]. Our
+ﬁndings suggest that TDP-43 may impair the stress response
+at the chromatin level, implicating chromatin remodelers as crit-
+ical factors in this impact.
+
+Interestingly, the human CHD2 gene, but not human CHD1, is
+mutated in a variety of neurodevelopmental disorders [47–54].
+CHD2, therefore, appears to be of special
+importance to the
+brain. In contrast to CHD2, human CHD1 did not physically asso-
+ciate with TDP-43 (data not shown), further underscoring that the
+relevant ortholog in humans is CHD2. Our ﬁndings suggest that
+in addition to critical
+functions during brain development,
+CHD2 may also be important in maintenance of adult brain func-
+tion and integrity. Indeed, a relevant target of CHD2 is REST [60],
+which is an important regulator of neuronal gene expression dur-
+ing development yet that also regulates stress-related gene
+expression in the aging brain [61]. REST levels fail to become up-
+regulated in FTD, Alzheimer’s disease, and dementia with Lewy
+bodies,
+like they are during healthy aging, suggesting that
+reduced REST levels may contribute to neurodegeneration.
+Reduced CHD2 levels are predicted to reduce REST levels,
+further promoting stress sensitivity and degeneration.
+Mutations in multiple different genes are associated with ALS
+and FTD, but only a minority (10%) of patients show a clear
+
+Current Biology 27, 3579–3590, December 4, 2017 3587
+
+inheritance pattern. It is therefore striking that pathologically
+abnormal TDP-43 accumulations widely characterize most fa-
+milial and sporadic disease, indicating that multiple toxic path-
+ways converge on TDP-43. TDP-43-mediated impairments in
+stress pathways, which are critical for protection from degener-
+ative disease, could contribute to the toxicity of multiple genes
+associated with familial and sporadic ALS/FTD. Our study
+highlights altered chromatin remodeling as an important and
+previously unrecognized impact of TDP-43, and indicates that
+approaches to promoting chromatin dynamics and/or restoring
+CHD2 levels may be an effective therapeutic avenue to pursue
+for degenerative disease.
+
+References

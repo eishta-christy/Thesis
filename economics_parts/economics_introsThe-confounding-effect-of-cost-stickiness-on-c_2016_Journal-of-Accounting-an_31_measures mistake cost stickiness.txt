@@ -1,0 +1,33 @@
+
+Empirical research on conditional conservatism documents a piecewise linear relation between earnings and stock
+returns and often attributes this pattern to a more timely recognition of bad news than good news (e. g. , Basu, 1997). 
+However, we argue that a similar asymmetric relation can arise from a fundamentally different source—cost stickiness.  Cost
+stickiness refers to the asymmetric response of costs to sales increases versus decreases, which is a widely documented
+finding in the research on cost behavior (e. g. , Anderson Name, 2003).  We show that cost stickiness can be mistaken for
+conditional conservatism in standard models, distorting inferences about both the average level of conservatism and the
+extent of cross-sectional variation in conservatism.  To reduce the likelihood of spurious inference, we develop new
+empirical tests that separate conservatism from the confounding effect of sticky costs. 
+Conditional conservatism implies that bad news (the usual proxy for which is negative stock returns) is recognized in
+earnings more quickly and more fully than good news (measured by positive returns).  Therefore, the contemporaneous
+association between earnings and stock returns should be stronger for negative returns than for positive returns (Basu,
+1997).  Numerous studies find results consistent with this prediction and infer the presence of conditional conservatism (e. g. ,
+Pope and Walker, 1999; Ball Name, 2000; Watts, 2003b; Ball Name, 2013a). 
+The research on sticky costs documents an asymmetric behavior of costs and attributes it to operational decisions by
+managers who face adjustment costs, such as severance payments to dismissed workers and disposal costs for property, plant,
+and equipment (e. g. , Anderson Name, 2003).  To avoid adjustment costs, managers retain some unused resources when sales
+fall.  By contrast, when sales rise, managers have to add sufficient resources to meet the demand.  Because of this operational
+asymmetry, costs are “sticky” on average—they rise more in response to sales increases than they fall for sales decreases. 
+The cost asymmetry implies that, on average, earnings respond more to sales decreases than to sales increases.  Because
+sales changes and concurrent stock returns are positively correlated, cost stickiness leads to an asymmetric relation between
+earnings and stock returns, which is stronger for negative returns than for positive returns.  Therefore, the standard
+estimates of asymmetric timeliness are likely biased upwards on average when sticky costs are prevalent.  Further, because
+cost stickiness varies systematically (e. g. , Weiss, 2010), it leads to variation in the bias, which is likely to distort inferences
+about the extent of cross-sectional variation in conservatism.  To control for this confounding effect, we incorporate cost
+stickiness in standard conservatism models. 
+We use data for publicly traded US firms from 1987 to 2007 to examine the confounding effect of cost stickiness in the
+Basu (1997), Ball Name (2013b), and Collins Name (2014) models. 1 Controlling for the asymmetric effect of sales changes
+reveals an average bias in conservatism estimates of more than 25%.  Further tests confirm that the confounding asymmetry
+for sales changes is consistent with manifestations of cost stickiness and is distinct from conservatism.  Thus, the upward
+bias in the standard conservatism measures arises because the measures mistake cost stickiness for conditional
+conservatism.  We also find that controlling for the variation in cost stickiness has a large impact on estimates of the
+variation in conservatism. 

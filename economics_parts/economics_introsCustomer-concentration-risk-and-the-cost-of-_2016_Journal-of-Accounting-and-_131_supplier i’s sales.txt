@@ -1,0 +1,140 @@
+
+Business risks stemming from a firm's business model and operating environment are important determinants of its cost of
+equity capital (Modigliani and Miller, 1958).  One characteristic that regulators, researchers, and practitioners view as important in
+assessing the risks inherent in a firm's current and future cash flows is the concentration of the firm's customer base.  For instance,
+Statement of Financial Accounting Standards (SFAS) No.  131 (previously SFAS No.  14) requires firms to disclose information about
+major customers because these customers represent “a significant concentration of risk. ” The SEC under Regulation S-K Item 101
+also has similar disclosure requirements.  Further, anecdotal evidence suggests that firms explicitly recognize this risk. 4 While
+approximately 45% of public firms report relying on at least one customer for a sizeable portion of revenues (Ellis Name, 2012),
+there is surprisingly little empirical evidence on whether customer concentration risk affects firms’ financing costs.  In this study,
+we aim to fill this gap by investigating the relation between the concentration of a supplier’s customer base and its cost of equity. 
+Depending on a major customer for a large portion of sales can be risky for a supplier for two primary reasons. 5 First, a
+supplier faces the risk of losing substantial future sales if a major customer becomes financially distressed or declares bankruptcy,
+switches to a different supplier, or decides to develop products internally.  Consistent with this notion, Hertzel Name (2008) and
+Kolay Name (2015) document negative supplier abnormal stock returns to the announcement that a major customer declares
+bankruptcy. 6,7 Further, a customer's weak financial condition or actions could signal inherent problems about the supplier’s
+viability to its remaining customers and lead to compounding losses in sales.  Second, a supplier faces the risk of losing
+anticipated cash flows from being unable to collect outstanding receivables if the customer goes bankrupt. 8 This assertion is
+consistent with the finding that suppliers offering customers more trade credit experience larger negative abnormal stock
+returns around the announcement of a customer filing for Chapter 11 bankruptcy (Jorion and Zhang, 2009; Kolay Name, 2015). 
+While the above evidence suggests that a concentrated customer base can increase a supplier’s risk, whether this risk is
+priced into a supplier’s cost of equity is unclear and thus an empirical question.  To test the relation between customer
+concentration and a supplier’s cost of equity, we first create three measures that capture various dimensions of customer
+concentration over the years 1981–2011.  Next, we follow prior research and measure a supplier’s cost of equity as the
+average of several implied cost of equity estimates derived from analysts’ earnings forecasts (e. g. , Hail and Leuz, 2006; Li,
+2010).  In our empirical tests, we control for omitted variables that can affect all suppliers in the same industry during any
+given year and several characteristics known to impact a supplier’s cost of equity. 
+Across all three measures of customer concentration, we find evidence that greater risk associated with a concentrated
+customer base results in a higher cost of equity.  Our findings suggest that a supplier that depends on one or more major customers
+for at least 10% of its annual revenues has a cost of equity that is 21. 2 basis points higher, which represents an additional annual cost
+of $7. 99 million for the average supplier to finance with equity.  This effect is economically significant relative to our other control
+variables, such as measures of information asymmetry.  For instance, the effect of depending on sales from a major customer on a
+supplier’s cost of equity is equivalent to the effect of a 1. 5 standard deviation increase in analyst forecast dispersion. 
+We also document a positive relation between customer concentration and a supplier’s systematic risk, as measured by
+the supplier’s equity beta.  This finding is consistent with traditional asset pricing theories that suggest that customer
+concentration risk would have to be related to systematic risk in order to be non-diversifiable and therefore priced into a
+supplier’s cost of equity (e. g. , Lambert Name, 2007; Lintner, 1965; Sharpe, 1964).  Further, this result supports the conclusion
+that the risk associated with having a concentrated customer base is in part non-diversifiable. 9
+We also conduct several cross-sectional tests that exploit settings where the risk associated with having a concentrated
+customer base is predictably larger.  If greater customer concentration increases a supplier's risk, then the positive relation
+between customer concentration and a supplier’s cost of equity should be especially strong when these relationships are
+predictably riskier.  Specifically, this relation should be stronger when a supplier has a major customer that is more likely to
+default or declare bankruptcy or a major customer that has fewer barriers to switching to a different supplier.  This relation
+should also be more pronounced for a supplier that is more likely to have unpaid invoices if a major customer defaults and
+for a supplier that lacks a diverse stream of revenues that can coinsure against the loss of a major customer.  We use several
+measures to proxy for these situations and find evidence that is consistent with all four predictions. 
+Our estimates of the effect of customer concentration on a supplier's cost of equity could suffer from an omitted variable
+bias.  In particular, our control variables may insufficiently account for differences between suppliers that do and do not have
+concentrated customer bases.  Thus, the estimated effect of customer concentration on a supplier's cost of equity could
+be picking up nonlinear effects of our control variables.  We are also unable to observe the extent to which different
+customer–supplier relationships are governed by implicit versus explicit contracts as well as the extent to which
+managerial-specific relationships between customers and suppliers affect the risk of losing a major customer.  To help
+alleviate these endogeneity concerns, we perform a propensity score matched sample analysis and implement an
+instrumental variables approach.  The results from both analyses continue to show that a supplier with a more concentrated
+customer base has a higher cost of equity, suggesting a causal link from customer concentration to a supplier's cost of equity. 
+The focus of our paper is on the relation between a concentrated base of corporate customers and a supplier's cost of
+equity.  Yet, a supplier can also be highly dependent on revenues from the U. S.  federal government.  Unlike corporate
+customers, however, federal government customers are much less likely to default or declare bankruptcy, and government
+purchases are typically regulated by longer-term procurement contracts (Goldman Name, 2013), which reduce the risk that
+government customers will switch suppliers.  As such, a supplier that depends on the federal government for a large portion
+of revenues gains operational efficiencies from selling to a major customer but does not bear many of the risks associated
+with relying on a major corporate customer.  Consequently, we expect a negative relation between federal government
+customer concentration and a supplier’s cost of equity.  We find that the cost of equity is 19. 1 basis points lower for a supplier
+that depends on the federal government for at least 10% of its annual revenues. 
+In our last set of analyses, we examine the relation between customer concentration and a supplier’s cost of debt.  If a
+supplier with a concentrated base of corporate customers loses a major customer, the financial losses the supplier incurs
+could limit its ability to service debt payments.  As such, we expect that creditors demand a higher rate of return on loans
+made to a supplier with a more concentrated customer base.  We measure a supplier’s cost of debt using loan spreads on
+new issues of both bank loans and public bonds.  Our results show that a supplier that depends on at least one major
+corporate customer has 5. 0–6. 0% higher borrowing costs on bank debt and 7. 0–9. 9% higher borrowing costs on public bonds. 
+Thus, a concentrated customer base increases a supplier’s cost of accessing not only external equity but also debt capital. 
+We provide new empirical evidence that the concentration of a supplier’s customer base impacts its cost of equity. 
+Broadly, this finding contributes to the literature investigating the determinants of a firm's cost of equity.  Prior work
+predominantly focuses on how various forms of information risk affect firms' cost of equity, including voluntary financial
+and nonfinancial disclosure (Botosan, 1997; Dhaliwal Name, 2011; Francis Name, 2008), earnings transparency (Barth Name,
+2013), and internal control quality (Ashbaugh-Skaife Name, 2009).  While studies find that business risks stemming from a
+firm’s operating environment and business model tend to have a larger impact than managerial discretion on a firm’s cost of
+equity (Bhattacharya Name, 2012; Francis Name, 2005), they do not identify the sources of such business risks.  Our work
+extends this literature by documenting how a prevalent source of business risk—a concentrated customer base—impacts a
+firm’s financing costs.  Our findings also validate the inclusion of a “customer concentration risk premium” as an input in
+practitioner models of a firm’s cost of equity (e. g. , Duff & Phelps). 10,11
+Our findings also extend the literature that examines how the concentration of a supplier’s customer base affects its characteristics
+and financial policies.  While prior work shows that suppliers with a concentrated base of customers tend to be more profitable because
+they realize operational efficiencies (Cen Name, 2013; Kalwani and Narayandas, 1995; Patatoukas, 2012), our findings imply that a
+concentrated customer base raises suppliers’ risk and financing costs.  Thus, our paper relates to work documenting that a concentrated
+customer base is associated with higher idiosyncratic risk and a greater likelihood of receiving a going-concern opinion (Albuquerque
+Name, 2014; Dhaliwal Name, 2014).  Last, several other studies find that suppliers with greater customer concentration tend to maintain
+lower financial leverage ratios (Banerjee Name, 2008; Kale and Shahrur, 2007), recognize bad news sooner (Hui Name, 2012), have more
+discretionary accruals (Raman and Shahrur, 2008), hold more cash (Itzkowitz, 2013), and pay fewer dividends (Wang, 2012). 
+Finally, our study contributes to literature showing that nonfinancial stakeholders have a significant impact on a firm’s financing
+costs.  For instance, Chen Name (2011) show that labor unions increase labor adjustment costs and make wages stickier, resulting in
+higher operating leverage and a higher cost of equity.  Yet, Chen Name (2012) find that unionization lowers a firm’s cost of debt.  In
+addition to showing that major customers impact a firm’s financing costs, we show that the type of customer exposes suppliers to
+differential business risks.  Specifically, we show that a supplier with a major corporate customer has a higher cost of equity and
+debt, while a supplier with a major federal government customer has a lower cost of equity but not a lower cost of debt. 
+The remainder of this paper is organized as follows.  Section 2 describes our data and empirical methodology.  Section 3
+reports our empirical findings.  Section 4 documents the results of additional robustness tests.  Section 5 concludes. 
+<Middle> Data and empirical methodology. 
+2. 1.  Sample selection. 
+We obtain data to estimate the implied cost of equity capital from the Institutional Brokers’ Estimate System (IBES),
+customer–supplier data from Compustat’s segment customer files, financial statement data from Compustat, and stock
+return data from the Center for Research in Security Prices (CRSP) files.  The intersection of these databases creates our main
+sample that consists of 44,218 supplier-year observations.  This sample includes industrial firms that have publicly-traded
+stock over the 1981–2011 period, are incorporated in the U. S. , and have non-missing data for the main variables of interest. 
+We exclude utilities (SIC 4900–4999) and financial firms (SIC 6000–6999).  We winsorize continuous variables at their 1st
+and 99th percentiles to reduce the influence of outliers and express all dollar values in 2009 dollars. Implied cost of equity capital estimates
+We empirically estimate the cost of equity that is implied in current stock prices and analysts’ earnings forecasts using
+IBES data as of June in the following year and four cost of equity models introduced by Claus and Thomas (2001), Gebhardt
+Name (2001), Easton (2004), and Ohlson and Juettner-Nauroth (2005).  The first two models are based on Ohlson's (1995)
+residual income valuation model, and the latter two models are based on Ohlson and Juettner-Nauroth’s abnormal earnings
+growth valuation model.  Appendix A provides a detailed description of the cost of equity estimates.  There is little consensus
+in the literature on which models perform best or how the models should be evaluated (Botosan and Plumlee, 2005; Gode
+and Mohanram, 2003; Guay Name, 2011).  Therefore, we follow prior literature and use the mean of the estimates from the
+four models as our measure of the cost of equity to mitigate the effect of measurement errors associated with one particular
+model (Hail and Leuz, 2006; Li, 2010). 
+Table 1 presents the descriptive statistics and the correlation matrix for the cost of equity estimates.  As seen in Panel A, the
+Ohlson and Juettner-Nauroth (OJN) method generates the highest average estimated cost of equity with a mean of 12. 94% and a
+median of 12. 12%.  The Gebhardt Name (GLS) method produces the lowest average estimated cost of equity with a mean of 7. 33%
+and a median of 7. 05%.  Panel B of Table 1 presents the pairwise Pearson (below the diagonal) and the Spearman (above the
+diagonal) correlations between the four estimates, which are all positive.  The lowest observed Pearson (Spearman) correlation is
+between the GLS method and the Easton (MPEG) method with a value of 0. 473 (0. 459).  The highest observed Pearson
+(Spearman) correlation is between the OJN method and the MPEG method with a value of 0. 885 (0. 863).  Overall, our ex ante cost
+of equity estimates are comparable to those in prior studies (Botosan and Plumlee, 2005; Chen, Chen, and Wei, 2011). 
+2. 3.  Measures of customer concentration
+We use Compustat’s segment customer files to identify suppliers that disclose sales to major corporate customers.  Since
+1976, the Statement of Financial Accounting Standards No.  14 (SFAS 14) of the Financial Accounting Standard Board (FASB) has
+required a supplier to disclose external customers that individually account for 10% or more of its revenues.  FAS 131
+superseded SFAS 14 in 1997, and the requirement to report such customers remains intact for public companies under SEC
+Regulation S-K Item 101.  Although regulations require suppliers to identify customers accounting for at least 10% of revenues,
+suppliers often voluntarily report customers that account for less than 10% of sales.  Because these disclosures are voluntary, we
+do not include these customers in our concentration calculations to reduce concerns of a potential selection bias. 12
+We create three measures to capture the extent to which a supplier’s customer base is concentrated.  Panel C of Table 1
+presents summary statistics for these three concentration measures.  For our first measure of customer concentration, we
+create an indicator variable that is set to one if a supplier discloses at least one corporate customer that accounts for 10% or
+more of its annual revenues and zero otherwise (Major Customer).  In 26% of our observations, a supplier reports that at least
+one major customer accounts for 10% or more of revenues. 
+For our second measure, we follow Patatoukas (2012) and use an application of the Herfindahl-Hirschman Index to
+capture customer concentration (Customer HHI).  This measure accounts for both the number of major customers identified
+by the supplier and the importance of those major customers to the supplier’s annual revenues.  Thus, we measure supplier
+i’s customer concentration in year t across the supplier’s J major customers as this, where Salesijt represents supplier i’s sales to major customer j in year t, and Salesit represents supplier i’s total sales in year t. 
+This variable ranges between zero and one, with higher values corresponding to a more concentrated customer base. 

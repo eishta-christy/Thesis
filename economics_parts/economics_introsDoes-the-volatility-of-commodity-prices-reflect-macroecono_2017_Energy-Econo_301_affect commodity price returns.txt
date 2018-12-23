@@ -1,0 +1,536 @@
+
+The literature on oil and commodity markets during the last
+decade has shown the importance to identify and understand the
+causes and consequences of commodity price shocks.  Some of the
+key insights (Kilian, 2008a) are that (i) most commodity prices
+are endogenous with respect to the global business cycle, and (ii)
+demand shocks cause delayed and sustained price movements while
+supply shocks have small and transitory effects.  Whereas disentangling the supply and demand components in a structural model is
+now common in the empirical literature to understand commodity price dynamics (especially for crude oil price), some important
+concerns are missing regarding the effect of second-order moments
+(especially the one related to uncertainty). 
+So far, the previous literature is indeed silent on the effects of
+macroeconomic uncertainty on the volatility of commodity prices. 
+This issue is nevertheless worthy of investigation since the impact
+of uncertainty on the global economy has been widely documented. 
+For instance, theories of investment under uncertainty explain
+why under irreversibility condition or ﬁxed costs, uncertainty over
+future returns reduces current investment, hiring, and consumption
+through an “option value to wait”. 1 The starting point is that at a
+micro level, uncertainty may diminish the willingness of ﬁrms to
+commit resources to irreversible investment and the readiness of
+consumers to spend or allocate their earning and wages.  It follows
+that micro-level uncertainty may be transmitted to the macro level
+because uncertainty about the return to investment at a micro level
+may create cyclical ﬂuctuations in aggregate investment at a macro
+level (see Bernanke, 1983). 2 The crucial point here is that there is
+no reason why such mechanism at both micro and macro levels
+should not be extended to commodity markets.  Indeed, at a micro
+level, commodity ﬁrms in several sectors (especially in oil industry)
+are confronted to high costs and should be impacted by uncertainty
+about returns to investment.  Similarly, at a macro level, as prices are
+related to global supply and demand conditions, uncertainty about
+macroeconomic aggregates should also affect commodity prices. 
+In the wake of the literature about the origins of commodity price
+movements, the aim of this paper is to investigate the impact of
+uncertainty on commodity price returns and volatility.  Regarding the
+previous literature, the bulk of the studies have looked at the reverse
+relationship and highlighted the signiﬁcance of uncertainty in oil
+prices in explaining economic ﬂuctuations and in exacerbating asymmetry in the oil price-economic activity nexus. 3 All of them suggest
+that oil price uncertainty impacts output, investment, and consumption in the U. S.  and G-7 countries in an asymmetric way.  While
+providing interesting results, these studies suffer from an important
+drawback since it is well known that the effect of uncertainty in
+the oil price—and commodity prices in general—on the macroeconomy should be small, by construction of the underlying economic
+models.  As argued by Kilian (2014), energy is indeed not necessarily a key component of the cash ﬂow of investment projects, making
+the effect of oil price uncertainty on output not plausible.  It follows
+that looking at the reverse transmission from macroeconomic uncertainty to the volatility of commodity prices is more relevant with
+regard to the modern view of the endogenous component of prices. 
+As stressed above, this question has not been widely addressed in
+the literature.  Some limited exceptions can, however, be mentioned. 
+First, regarding theoretical papers, (i) Pindyck (1980) discusses the
+implications of uncertainty associated with oil demand and reserves
+on the oil price behavior.  (ii) Litzenberger and Rabinowitz (1995)
+analyze backwardation behavior in oil futures contracts.  and (iii)
+Alquist and Kilian (2010) allow for endogenous convenience yield
+and endogenous inventories, and stress that it is uncertainty about
+the shortfall of supply relative to demand that matters.  Second,
+among empirical papers, one may refer to (i) Kilian (2009) and Kilian
+and Murphy (2014) who design as a precautionary demand shock
+a shock that reﬂects shifts in uncertainty and treat macroeconomic
+uncertainty as unobserved.  and (ii) Van Robays (2013) who investigates whether observed macroeconomic uncertainty changes the
+responsiveness of the oil price to shocks in oil demand and supply. 
+Our paper extends this literature on the relationship between
+macroeconomic uncertainty and commodity prices in several ways. 
+Speciﬁcally, we address this question by examining the inﬂuence of
+macroeconomic uncertainty on a large panel of commodity markets. 
+More precisely, we consider four groups of 19 raw materials (energy,
+precious metals, agriculture, and industry) to investigate whether
+the impact of macroeconomic uncertainty on commodity prices differs depending on the type of market.  In addition, with uncertainty
+evolving through time, we account for this feature by assessing its
+impact at various horizons—namely short-, medium-, and long-run
+horizons—to test whether its effect varies according to its maturity. 
+From a theoretical viewpoint, ﬂuctuations in uncertainty may indeed
+have different impacts through time on the economy (Bloom, 2014),
+with usually two negative channels in the short run (the real option
+and risk aversion/risk premium effects4) and two positive channels
+in the long run (the growth option and Oi-Hartman-Abel effects5). 6
+Turning to methodological issues, our contribution is threefold.  First,
+we retain a nonlinear structural threshold vector autoregressive
+(TVAR) speciﬁcation that allows us to identify different uncertainty
+states, and we investigate whether the impact of uncertainty varies
+according to its level and variability.  Second, because macroeconomic uncertainty is unobservable, assessing its effect on commodity
+markets obviously requires us to ﬁnd an adequate proxy.  To this
+end, we rely on Jurado Name (2015) and consider a robust approach
+to measuring macroeconomic uncertainty.  The retained proxy uses
+a wide range of monthly macroeconomic and ﬁnancial indicators
+and is based on the underlying idea of a link between uncertainty
+and predictability.  In this sense, we go further than the previous
+literature—particularly compared with Van Robays’s (2013) paper,
+which is the closest to ours—which generally relies on dispersion
+measures such as conditional volatility (e. g.  conditional variance of
+world industrial production growth or of U. S.  GDP growth estimated
+from a GARCH(1,1) process) or the VXO index of Bloom (2009).  As
+we will see, an important drawback in using GARCH-type models
+to proxy uncertainty is that they are inherently backward-looking,
+whereas investors’ expectations tend to be forward-looking.  More
+generally, and thanks to a detailed robustness analysis, we show that
+the choice of the uncertainty measure is crucial to avoid erroneously
+attributing to uncertainty ﬂuctuations that are actually predictable. 
+Third, for the sake of completeness, we also investigate how macroeconomic uncertainty can generate uncertainty in commodity prices,
+looking at second-order moments transfer.  To this end, we construct
+a robust proxy of commodity market uncertainty based on macroeconomic uncertainty, and provide a historical decomposition that
+allows us to determine the contribution of macroeconomic uncertainty to commodity price uncertainty.  For the speciﬁc case of oil,
+we further disentangle supply and demand components of oil price
+uncertainty to assess their respective contribution during periods of
+uncertainty in the market. 
+The central message of the paper is that most of commodity
+price returns are affected by macroeconomic uncertainty, the effect
+being more important for commodities that are strongly related
+to the global business cycle (such as oil, agricultural, and industrial markets).  Then, in addition to traditional supply and demand
+shocks, macroeconomic uncertainty constitutes another key channel
+through which economic fundamentals may impact commodity
+prices.  Maturity seems to matter depending on the commodity type. 
+long-run uncertainty having more effect on agricultural and industrial cumulative price dynamics, while other markets being more
+sensitive to short-run impacts.  Furthermore, our new commodity
+price uncertainty indicator shows for most considered series a transfer from macroeconomic uncertainty to price uncertainty during
+the 2007–09 great recession period.  It further reveals that volatility
+and uncertainty in prices are disconnected.  It is especially the case
+for oil as we ﬁnd that most important shocks that occurred in the
+1990s and the beginning of the 2000s that lead to price volatility
+do not generate systematic price uncertainty, meaning that most of
+these movements were predictable at this period and emphasizing
+the relevance of our uncertainty measure in linking uncertainty to
+predictability rather than to volatility. 
+The rest of the paper is organized as follows.  Section 2 presents
+the uncertainty measure and discusses the corresponding theoretical
+framework.  Section 3 addresses methodological issues by presenting
+the TVAR speciﬁcation as well as our data.  Section 4 displays the
+results regarding the impact of macroeconomic uncertainty on commodity markets.  Section 5 is devoted to the link between macroeconomic uncertainty and the uncertainty of each commodity market,
+and disentangles the respective contribution of supply and demand
+shocks to oil price uncertainty.  Section 6 provides some robustness
+checks regarding the choice of both the macroeconomic uncertainty
+measure and our measure of price uncertainty.  Finally, Section 7
+concludes the paper. 
+2.  Uncertainty measure. 
+2. 1.  Measuring macroeconomic uncertainty. 
+Measuring uncertainty and examining its impact on market
+dynamics is a challenging question for economists because no
+objective measure exists.  Although in a general sense uncertainty is deﬁned as the conditional volatility of an unforecastable
+disturbance,7 the empirical literature to date has usually relied on
+proxies.  The most common measures used are the implied or realized
+volatility of stock market returns, the cross-sectional dispersion of
+ﬁrm proﬁts, stock returns, or productivity, and the cross-sectional
+dispersion of survey-based forecasts.  However, their adequacy to
+correctly proxy uncertainty is questionable, and such measures are
+even misspeciﬁed with regard to the theoretical notion of uncertainty, as highlighted by Jurado Name (2015).  Indeed, stock market
+volatility, cross-sectional dispersion in stock returns and ﬁrm proﬁts
+can vary over time due to several factors—such as risk aversion, the
+leverage effect, and heterogeneity between ﬁrms—even if there is no
+signiﬁcant change in uncertainty.  In other words, ﬂuctuations that
+are actually predictable can be erroneously attributed to uncertainty,
+putting forward the importance of distinguishing between uncertainty in a series and its conditional volatility.  Speciﬁcally, properly
+measuring uncertainty requires to remove the forecastable component of the considered series before computing the conditional
+volatility.  In this sense, uncertainty in a series is not equivalent to
+the conditional volatility of the raw series.  Another important characteristic of Jurado Name’s (2015) approach is that macroeconomic
+uncertainty is deﬁned as the common variation in uncertainty across
+many series rather than uncertainty related to any single series.  This
+is in line with the uncertainty-based business cycle theories which
+implicitly assume a common variation in uncertainty across a large
+number of series. 
+Accordingly, to provide a consistent measure of macroeconomic
+uncertainty, we follow the deﬁnition of Jurado Name (2015) by linking
+uncertainty to predictability.  Speciﬁcally, the h-period-ahead uncertainty in the variable yjt ∈ Yt =
+is deﬁned as the
+conditional volatility Uy
+jt(h) of the purely unforecastable component
+of the future value of the series. 
+See Bloom (2009), Bloom Name (2010), Fernández-Villaverde Name (2011), Bloom
+Name (2012), Gilchrist Name (2014), andBaker Name (2015) among others. 
+where j = 1, .  .  .  , Ny, E(. | Jt) is the conditional expectation of the considered variable and Jt denotes the information set available at time
+t.  Uncertainty related to the variable yjt+h is therefore deﬁned as the
+expectation of the squared error forecast.  Aggregating over j individual uncertainty measures Uy
+jt(h) equally weighted by wj leads to the
+following expression of aggregate or macroeconomic uncertainty. 
+As discussed by Jurado Name (2015), the estimation of Eqs.  (1) and
+(2) requires three fundamental steps.  The ﬁrst step is to replace the
+conditional expectation E[yjt+h| Jt] in Eq.  (1) by a forecast in order
+to compute forecast errors.  It is a crucial step since the forecastable
+component should be then removed from the conditional volatility computation.  To do so, an as rich as possible predictive model
+based on factors from a large set of N predictors {Xit}, i = 1, .  .  .  , N, is
+considered, taking the following approximated form. 
+Xit = KF(cid. 3)
+where Ft is a rf × 1 vector of latent common factors, KF
+i is the vector of latent factor loadings, and eX
+it is a vector of idiosyncratic errors
+which allows for some cross-sectional correlations.  To account for
+time-varying omitted-information bias, Jurado Name (2015) further
+include estimated factors, as well as nonlinear functions of these factors in the forecasting model through a diffusion forecast index.  The
+second step consists of (i) deﬁning the h-step-ahead forecast error
+(cid. 14), and (ii) estimating the related conditional volatility, namely E
+.  To account for time-varying
+volatility in the errors of the predictor variables, E
+is recursively multistep-ahead computed for h > 1. 8 In the third,
+ﬁnal step, macroeconomic uncertainty Uy
+t (h) is constructed from the
+individual uncertainty measures Uy
+jt(h) through an equally-weighted
+average. 
+Using large datasets on economic activity, Jurado Name (2015)
+provide two types of uncertainty measures that are as free as possible from both the restrictions of theoretical models and/or dependencies on a handful of economic indicators.  The ﬁrst one is the
+“common macroeconomic uncertainty” based on the information
+contained in hundreds of primarily macroeconomic and ﬁnancial
+monthly indicators,9 and the second one is the “common microeconomic uncertainty” based on 155 quarterly ﬁrm-level observations
+on proﬁt growth normalized by sales. 10 In addition, with the proposed measures deﬁned for different values of h, they allow us
+to investigate uncertainty transmission in commodity markets for
+distinct maturities. 
+2. 2.  Endogenous and exogenous components of uncertainty. 
+One important issue when investigating the impact of macroeconomic uncertainty on commodity prices is to understand the
+intrinsic nature of uncertainty with respect to prices.  In other words,
+it is important to disentangle the endogenous and exogenous components of macroeconomic uncertainty (i. e. , whether macroeconomic
+uncertainty is demand-driven or supply-driven with respect to
+commodity prices).  Since 1974, the price of oil—as the price of
+other commodities—has become endogenous with respect to global
+macroeconomic conditions (see Alquist Name, 2013).  Since then,
+the empirical literature has provided overwhelming evidence that
+commodity prices have been driven by global demand shocks. 11 As
+pointed out by Barsky and Kilian (2002), the 1973–74 episode of dramatic surge in the price of oil and industrial commodities is the most
+striking example where the price increase was explained for 25% by
+exogenous events and for 75% by shifts in the demand side.  With the
+predominant role of ﬂow demand on prices, another important channel of transmission is the role of expectations in the physical market
+(see among others, Kilian, 2009.  Alquist and Kilian, 2010.  andKilian,
+2014).  The underlying idea is that anyone who expects the price to
+increase in the future will be prompted to store oil now for future
+use leading to a shock from the demand of oil inventories.  Kilian and
+Murphy (2014) demonstrate that shifts in expectations through oil
+inventories have played an important role during the oil price surge
+in 1979 and 1990, and the price collapse in 1986. 12
+The aggregate speciﬁcation of our proxy has the particularity to
+be “global”, accounting for a lot of information regarding uncertainty
+in the supply and demand channels.  While it is quite diﬃcult in this
+framework to identify the proportion of unanticipated demand or
+supply, some reasonable assumptions about the effect of demand and
+supply shocks on prices may give us some insight about the mechanisms behind the relationship between macroeconomic uncertainty
+and commodity prices.  In our analysis, we follow the dominant view
+about the endogenous nature of commodity prices with respect to
+macroeconomic conditions, considering the aggregate demand channel as a primary source of price ﬂuctuations (see Mabro, 1998.  Barsky
+and Kilian, 2002, 2004 .  Kilian, 2008a.  and Hamilton, 2009).  In line
+with the previous literature, we therefore assume that exogenous
+events coming from the supply channel—such as cartel decisions,
+oil embargoes or the effects of political uncertainty from the Middle East—are secondary, being mainly an indirect consequence of
+the macroeconomic environment.  By construction, our approach
+accounts for both channels, the demand channel being a direct effect
+of macroeconomic aggregate and the supply channel an indirect effect
+of macroeconomic conditions on exogenous events.  In other words,
+our macroeconomic uncertainty proxy primarily reﬂects uncertainty
+about the demand side. 13
+2. 3.  Backward-looking vs.  forward-looking uncertainty. 
+As previously discussed, it is quite diﬃcult to approximate uncertainty because it is not observable.  One important issue regarding
+usual proxies based on conditional volatility is that they are
+often backward-looking, whereas investors’ expectations tend to be
+forward-looking (Kilian and Vigfusson, 2011).  As an illustrative purpose, Fig.  1 provides a comparison between three uncertainty proxies. 
+Speciﬁcally, the green line is the conditional volatility estimated from
+a one-month GARCH(1,1) process for the U. S.  GDP growth,14 the blue
+line is the VXO stock market volatility index of Bloom (2009), and the
+red line is the common macroeconomic uncertainty proxy of Jurado
+Name (2015).  the gray bands corresponding to the NBER recession
+dates.  Looking at the recent ﬁnancial crisis, all proxies identify this
+episode as an important source of macroeconomic uncertainty since
+a peak occurred for each series around 2008.  However, some systematic differences regarding the identiﬁed macroeconomic uncertainty
+periods can be highlighted.  The measure based on the GARCH speciﬁcation starts to peak in January 2009, while the VXO index begins
+to peak in May 2008.  The implied volatility proxy is therefore more
+forward-looking than the one based on the conditional variance. 
+Meanwhile, the proxy developed by Jurado Name (2015) peaks in
+June 2007, pointing out that it is the most forward-looking measure. 
+Moreover, comparing periods of uncertainty for each proxy with
+NBER recession dates (December 2007–June 2009), we ﬁnd that
+both GARCH and VXO proxies are too backward-looking, while the
+macroeconomic uncertainty proxy we use peaks just few months
+before the starting date of the recession.  In other words, our retained
+measure of macroeconomic uncertainty that accounts for forwardlooking behavior of agents (whatever the maturity considered) is
+the most appropriate one, and other approaches usually erroneously
+attribute to uncertainty ﬂuctuations that are actually predictable. 
+Jurado Name (2015) have further documented that shocks to macroeconomic uncertainty lead to an increase in the VXO index, the reverse
+effect being not veriﬁed. 
+The concept of uncertainty is basically related to the perception of agents about potential future evolutions.  Together with the
+notion of time variability, it implies that different horizons lead
+to distinct perceptions of uncertainty, and thus disparate economic
+behaviors.  As shown by Jurado Name (2015), uncertainty is generally higher for medium- and long-run maturities (respectively 3
+and 12 months) than for short-run horizons (1 month).  In addition,
+the relative importance of macroeconomic uncertainty in the total
+uncertainty (i. e. , uncertainty accounting for all series) grows as the
+forecast horizon increases.  Accounting for the maturity is thus of
+great importance to fully apprehend the impact of uncertainty on
+macroeconomic dynamics.  As shown by Jurado Name (2015), uncertainty shocks with shorter uncertainty horizons tend to be associated
+with a larger fraction of the forecast error variance in aggregates than
+those with longer uncertainty horizons. 
+In the context of commodity prices and especially oil prices, the
+discussion is of primary importance.  The ongoing debate in the literature about the effect of maturity has been mainly oriented toward
+the consequences of oil price uncertainty on economic activity.  Kilian
+and Vigfusson (2011) provide an interesting comparison between
+the long-run theoretical uncertainty measure of Bernanke (1983)
+and Pindyck (1991), and the empirical short-run uncertainty proxy
+of Elder and Serletis (2010).  According to the authors, the former
+deﬁnition is related to uncertainty at horizons relevant to investment
+decisions, while the latter is more appropriate to capture the reallocation effect of Hamilton (1988) since it measures the current real oil
+price volatility.  Clearly, the effect of oil price uncertainty on activity
+depends on the impact of the oil price on investment, but also on how
+companies face to uncertainty regarding their investment decision
+plans.  Indeed, depending on the sectors, the delay from the investment decision to the beginning of the production can differ, and
+short-run uncertainty can thus have no impact for long-run investment strategies.  All in all, accounting for the effect of maturity when
+investigating the impact of uncertainty is thus of crucial importance. 
+<Middle> Data and model speciﬁcation. 
+3. 1.  Data. 
+We consider a large dataset of 19 principal commodity markets,
+classiﬁed into four categories.  energy, precious metals, agriculture,
+and industry.  Related price series are monthly, starting in October
+1978 for energy markets, February 1976 for precious metals markets, and February 1980 for agricultural and industrial markets.  The
+period ends in April 2015 for all groups of commodities.  All series are
+transformed into ﬁrst-logarithmic differences (i. e. , price returns),17
+as described in Table 1 in Appendix A, which also provides data
+sources. 
+Turning to macroeconomic uncertainty measures for distinct
+maturities, we rely on data freely available on Ludvigson’s
+homepage. 18 As stressed above, these uncertainty indexes are based
+on the information contained in several macroeconomic and ﬁnancial series.  Speciﬁcally, two monthly datasets are considered.  The
+ﬁrst one gathers together 132 macroeconomic time series used in
+Ludvigson and Ng (2010) and extracted from the FRED-MD monthly
+database,19 including real output and income, employment and
+hours, real retail, manufacturing and trade sales, consumer spending,
+housing starts, inventories and inventory sales ratios, orders and
+unﬁlled orders, compensation and labor costs, capacity utilization
+measures, price indexes, bond and stock market indexes, and foreign
+exchange measures.  The second dataset consists of 147 time series
+of ﬁnancial indicators that measure the behavior of a broad crosssection of asset returns and some aggregate ﬁnancial indicators not
+contained in the ﬁrst, macroeconomic dataset.  This ﬁnancial dataset
+includes dividend-price and earning-price ratios, growth rates of
+aggregate dividends and prices, default and term spreads, yields on
+corporate bonds of different ratings grades, yields on Treasuries and
+yield spreads, and a broad cross-section of industry equity returns. 20
+In constructing the factors (see Eq.  (3)), the raw data have been transformed to achieve stationarity.  Finally, it is worth mentioning that
+whereas both sets of data are used to estimate the forecasting factors,
+macroeconomic uncertainty is proxied using the 132 macroeconomic time series only.  Indeed, as explained by Jurado Name (2015),
+uncertainties in the 147 ﬁnancial indicators are not computed since
+the macroeconomic dataset already contains some ﬁnancial series,
+and the authors do not wish to over-represent the ﬁnancial sector in
+the aggregate uncertainty measure. 
+As shown by Jurado Name (2015), their measure of macroeconomic
+uncertainty exhibits a quantitatively important dynamic relationship
+with global economic activity, as well as with business cycles.  Indeed,
+common macroeconomic uncertainty shocks are much larger associated with a decline in real activity (production, hours worked and
+employment) than are shocks to stock market volatility.  In addition,
+macroeconomic uncertainty is evidenced to be (i) highly countercyclical, explaining a larger part of total uncertainty during recessions than in other periods, and (ii) strongly more persistent than
+usual uncertainty proxies.  Overall, according to Jurado Name (2015),
+important macroeconomic uncertainty shocks are strongly linked to
+changes in economic activity, and even more during recessions. 
+Finally, an appealing characteristic is that our retained uncertainty measures have the advantage of providing far fewer important
+uncertainty episodes than do popular proxies.  As an example, though
+Bloom (2009) identiﬁes 17 uncertainty periods based on stock
+market volatility, Jurado Name (2015) ﬁnd evidence of only three
+episodes of uncertainty over the 1959–2011 period.  the month
+surrounding the 1973–74 and 1981–82 recessions and the recent
+2007–09 great recession.  This suggests that much variability in the
+stock market does not come from changes in genuine uncertainty
+across the broader economy.  in other words, much of the variation
+in traditional uncertainty proxies is not driven by uncertainty itself. 
+Such variability may come from other factors as changes in risk aversion, sentiments, leverages, etc.  As stressed above, this ﬁnding can be
+explained by the fact that (i) standard proxies tend to overestimate
+the weight of a single series in the evaluation of macroeconomic
+uncertainty, and (ii) popular uncertainty proxies based on volatility
+measures usually erroneously attribute to uncertainty ﬂuctuations
+that are actually forecastable. 
+Overall, our considered macroeconomic uncertainty proxy identiﬁes fewer uncertainty episodes than usual volatility-based measures,
+but when such periods occur, they display higher and more persistent correlation with real activity.  These developments highlight the
+relevance of considering predictability rather than volatility when
+assessing the uncertainty–macroeconomy relationship. 
+3. 2.  Structural threshold VAR model. 
+To analyze whether uncertainty affects commodity prices’ behavior depending on the level of uncertainty, we consider that uncertainty may be a nonlinear propagator of shocks across markets,
+captured by a structural threshold vector autoregressive model. 21 A
+threshold VAR model is a nonlinear multivariate system of equations
+that models nonlinearity additively and can be estimated by OLS. 
+In addition to providing an intuitive way to capture the nonlinear effects of uncertainty on markets, the TVAR model has the
+advantage of endogenously identifying different uncertainty states. 
+Indeed, according to this speciﬁcation, observations can be divided,
+for example, into two states delimited by a threshold reached by
+uncertainty, with estimated coeﬃcients that vary depending on the
+considered state (low- and high-uncertainty states).  In other words,
+the TVAR speciﬁcation allows uncertainty states to switch as a result
+of shocks to commodity markets. 
+For each of our four groups of commodity markets, we consider a
+structural TVAR model of the form. 
+where Yt is a vector of endogenous variables containing both the
+price returns of all commodities belonging to the considered group
+(energy, precious metals, industry, and agriculture) and the measure of macroeconomic uncertainty,22 A1 and A2 reﬂect the structural
+contemporaneous relationships in the two states, respectively, B1(L)
+and B2(L) are lag polynomial matrices, l1 and l2 are vectors of constants, and ut denotes the vector of orthogonalized error terms.  ct−d
+is the d-lagged threshold variable, which is a function of uncertainty
+(this hypothesis is discussed and tested below, as well as the choice
+of the optimal value of d).  It(ct−d ≥ c) is an indicator function that
+equals 1 when ct−d ≥ c and 0 otherwise, where c denotes the
+threshold uncertainty critical value that has to be endogenously estimated.  In other words, two states are identiﬁed.  the low-uncertainty
+state corresponding to a weak degree of uncertainty (It(. ) = 0)
+and the high-uncertainty state related to a high degree of uncertainty (It(. ) = 1).  As shown by Eq.  (4), the coeﬃcients of the TVAR
+model are allowed to change across states depending on the level of
+uncertainty. 
+An essential step in TVAR approach is to test for the existence of
+a threshold effect with respect to uncertainty.  However, the testing
+procedure is not straightforward because under the null hypothesis of no threshold effect, the threshold value is not known a priori
+and has to be estimated. 23 Here, the threshold is determined endogenously by a grid search over all possible values of the threshold
+variable where the grid is trimmed at a lower and upper bound to
+ensure a suﬃcient number of data points for the estimation procedure in each regime. 24 To test for a threshold effect, we rely on nonstandard inference and estimate the model by least squares for all
+possible threshold values.  Conditionally to each possible threshold,
+we generate three Wald-type statistics using Hansen’s (1996) simulation method to test the null hypothesis of no difference between
+states.  the maximum Wald statistic over all possible threshold values
+(sup-Wald), the average Wald statistic over all possible values (avgWald), and a function of the sum of exponential Wald statistics
+(exp-Wald).  Because the asymptotic distribution of Wald statistics is
+nonstandard, we use Hansen’s (1996) bootstrap procedure to simulate the related distribution and conduct inference.  The estimated
+threshold values are those that maximize the log-determinant of the
+variance-covariance matrix of residuals. 
+Once the TVAR speciﬁcation is estimated, another important
+concern consists in analyzing nonlinear impulse-response functions
+(IRFs).  In a nonlinear setup, impulse responses are more complicated than in standard linear VAR models because responses to a
+shock are history-dependent.  Indeed, in a linear framework impulse
+responses are computed under the assumption that shocks hit the
+series only at a particular point in time (i. e. , neither before, nor during
+the forecasting horizon).  Unlike the standard framework, in our case
+the reaction of the endogenous variable to a shock depends on the
+past history, the state of the economy and the size and the sign of
+all the shocks hitting the economy within the period of interest.  In
+order to average out the inﬂuences of shocks on the system, we compute generalized impulse-response functions (GIRFs, see Koop Name,
+1996).  By relying on data simulation depending on the regime of the
+system at the time of the shock hits the variables, this approach has
+the advantage to allow for regime-dependent responses, as well as
+to look at the effects of shocks of different sizes and directions. 
+A GIRF can be deﬁned by the following expression. 
+GIRFy (h, Yt−1, ut) = E [yt+h | Yt−1, ut] − E [yt+h | Yt−1]where Yt−1 is the information set at time t − 1 andu t is a particular realization of exogenous shocks.  The response of the variable y at
+horizon h is calculated by simulating the evolution of the model conditionally on the initial condition Yt−1 and a given realization of ut. 
+The general idea is to simulate the model for any possible starting
+point in the time horizon.  We do this by drawing vectors of shocks
+ut+j with j = 1, .  .  .  , k, and simulating the model conditionally on the
+initial condition and given realization.  We repeat the procedure for
+−ut+j in order to eliminate any asymmetry that may arise from sampling variation in the draws of ut+j.  The approach is repeated 500
+times.  In order to generate IRFs conditionally to the location of the
+system with respect to the threshold variable, the simulations are
+repeated for several histories depending on the considered regime. 
+Finally, the response to shocks speciﬁc to a particular regime is the
+estimated conditional expectation based upon the average of the
+simulation results. 
+3. 3.  Endogeneity and strict exogeneity between macroeconomic and
+commodity prices. 
+As mentioned above, another complication when estimating
+TVAR models concerns the endogeneity issue.  Endogeneity may
+come from the fact that the threshold variable (our uncertainty
+measure) is allowed to endogenously respond to commodity price
+shocks.  One way to address this problem is to assume strict
+exogeneity between variables.  However, as discussed by Van Robays
+(2013) among others, assuming strict exogeneity between oil prices
+(and commodity prices in general) and macroeconomic uncertainty
+is not realistic because it is well known that a strong relationship
+exists between the oil market and economic activity.  Therefore, a
+common approach is to impose the threshold variable to switch
+across states with a delay.  This implies that we only evaluate commodity price shocks that occur within a certain state.  Another
+common assumption in the TVAR literature is to deﬁne the threshold
+variable as a moving average process that requires some persistence in the variation of the threshold variable before shocks cause
+the regime switching.  To fully address the issue of endogeneity, we
+combine these two approaches in the present paper by considering
+a three-period moving average of our one-period-lagged threshold
+variable. 26
+4.  Uncertainty transmission across states. 
+We now use the TVAR approach to apprehend the impact of
+macroeconomic uncertainty on commodity prices.  We ﬁrst present
+threshold test results and related comments.  We then complement
+the analysis by conducting nonlinear IRF analysis under high- and
+low-uncertainty states to investigate whether the transmission of
+macroeconomic uncertainty shocks into commodity markets differs
+across states.  Finally, we assess the inﬂuence of the considered
+maturity. 
+4. 1.  Threshold test results. 
+Tables 2 to 5 in Appendix A report the three threshold test
+results for each group of commodity markets at different maturities
+together with the “percentage of high uncertainty” corresponding to
+the percentage of observations such that the threshold variable is
+above the estimated threshold critical value. 27 Our main results can
+be summarized as follows. 
+First, the null hypothesis is always rejected in favor of the
+presence of threshold effects for each group of markets and the
+maturity considered.  The TVAR speciﬁcation is thus appropriate
+because it accounts for varying effects of uncertainty depending on
+the degree of uncertainty.  Second, the estimated threshold values
+increase with the maturity, meaning that as h increases, the switching mechanism between low- and high-uncertainty states is delayed. 
+This ﬁnding reﬂects a different perception of the level of uncertainty as the horizon increases (Bloom, 2014) and is also consistent
+with Jurado Name’s (2015) conclusions, highlighting that the level
+of uncertainty tends to augment along with the maturity.  Third,
+turning to the percentage of high uncertainty, the results deserve
+some detailed comments.  Whatever the maturity considered, agricultural and industrial markets display the highest percentages,
+whereas energy and precious metals markets are characterized by
+similar lower values.  Moreover, high-uncertainty percentage values
+are quite stable, regardless of the considered maturity for the latter
+two markets.  Regarding precious metals, this result can be explained
+by their safe-haven role across all horizons during times of economic turmoil (Bredin Name, 2014), making them an interesting tool
+to transfer short-run uncertainty to longer one.  Concerning energy
+markets, the limited substitution effects at relatively short-term
+horizons may explain the stability of the high-uncertainty percentage values.  Indeed, whereas consumers’ demand for energy may
+potentially slightly decrease following its corresponding price rise,
+this dynamics is weakened by limited substitution opportunities.  It
+may be more accentuated at longer horizons but two brakes will
+be at play.  First, such movement would take some time to be truly
+effective given the required important investments needed in the
+energy domain.  Second, the substitution effect is limited by the socalled rebound effect.  an improvement in energy eﬃciency leads to
+a decline in the cost of energy use, canceling the substitution effect. 
+Turning to agricultural markets, this sector is highly sensitive to
+the unexpected changes in economy (Baumeister and Kilian, 2014),
+explaining why the high-uncertainty percentage value is higher at
+the short-run, one-month maturity.  In the case of agricultural and
+energy markets, the role of storage could be emphasized.  Indeed,
+storage capacities are somewhat more ﬂexible on energy markets
+than on agricultural markets in the sense that a large part of agricultural products needs to be extracted at ﬁxed dates.  This may explain
+why highest percentages of uncertainty are observed for agricultural
+markets compared to energy ones.  Finally, the observation that the
+percentage of high uncertainty increases with the maturity in the
+case of industrial markets results from the sensitivity of this sector
+to structural factors that are more at play in the long run.  Indeed,
+to design proper R&D investment strategies, ﬁrms usually have to
+focus on longer horizons.  Fourth, the evolution of the percentage
+of high uncertainty according to the value of h also provides useful information regarding the sensitivity of commodity markets to
+the level and variability of uncertainty.  Indeed, as shown by Jurado
+Name (2015), the level of uncertainty increases with h, whereas its
+variability is a decreasing function of h because the forecast value
+tends to the unconditional mean as the forecast horizon tends to
+inﬁnity.  Consequently, the percentage of high uncertainty in agricultural markets seems to be more sensitive to the variability of
+uncertainty (short-run uncertainty), but for industrial markets, this
+percentage increases with h and seems to be more sensitive to the
+level (long-run uncertainty). 
+Fig.  1B in Appendix B presents these ﬁndings in a more dynamic
+way by showing the evolution of our macroeconomic uncertainty
+measure at one month over the whole period together with the corresponding threshold value.  For almost all markets, periods of high
+uncertainty coincide with episodes of heightened macroeconomic
+uncertainty, such as the 1981–82 and 2007–09 recessions.  In addition and as expected given our preceding arguments (see Section 3),
+we identify a few high-uncertainty episodes compared with studies
+that rely on standard volatility-type proxies, such as Bloom (2009)
+and Van Robays (2013). 
+4. 2.  Nonlinear impulse-response function analysis. 
+Figs.  1C to 4C in Appendix C depict the impact of macroeconomic uncertainty for h = 1 on each commodity price return series. 
+As shown, four lines are displayed, corresponding to positive and
+negative nonlinear IRFs under high- and low-uncertainty states following a two-standard-deviation macroeconomic uncertainty shock. 
+For almost all series and as expected, positive macroeconomic uncertainty shocks (i. e. ,increase in macroeconomic uncertainty) affect
+commodity price returns negatively on average, whereas negative
+shocks (i. e. 

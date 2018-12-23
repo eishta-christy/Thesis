@@ -1,0 +1,35 @@
+
+The trade-off between risk and return is a fundamental issue in asset
+pricing theory, which has been given much attention by researchers,
+market investors and analysts.  In general, investors require a larger
+expected return from a security that is riskier.  However, after decades
+of controversy, no consensus exists among researchers on the relation
+between risk and return across time.  Recently, the volatility implied
+from options prices is commonly considered as the best volatility
+forecast and risk measure (Mencia and Sentana, 2013).  Thus, interest
+in the relations between return and implied volatility has increased to
+provide new evidence to this debate. 
+During the 2008 global ﬁnancial crisis, a new implied volatility index
+(OVX) in the crude oil market was launched by the Chicago Board
+Options Exchange (CBOE).  the index can measure the market's
+expectation of the 30-day volatility of crude oil prices by applying
+the well-known CBOE Volatility Index methodology to options on
+the United States Oil Fund (Liu Name, 2013).  This index is the ﬁrst
+commodity-based implied volatility index.  research on its relations
+with oil price returns will help investors further improve their trading
+decisions and will contribute, as well, to the development of energy
+ﬁnance, which is what the current study hopes to achieve. 
+Previous empirical literature has been focused on the relations
+between returns and historical volatility in ﬁnancial markets (Leὁn
+Name, 2007.  Wu and Lee, 2015.  Chang, 2016), while there is few research
+in energy market.  Recently, return–implied volatility relationship has
+been received extensive attention in traditional ﬁnancial markets, in
+which the stock market implied volatility index (VIX) is widely investigated (Sarwar, 2012.  Basher and Sadorsky, 2016).  Although much
+research has been done, no consistent conclusion on positive relations
+(Fleming Name, 1995.  Giot, 2005.  Guo and Whitelaw, 2006) or negative
+relations (Dash and Moran, 2005.  Tanha and Dempsey, 2015) has been
+achieved.  Furthermore, the conclusion in the stock market cannot be
+simply applied to OVX because of the more complicated structure of
+crude oil options (Ji and Fan, 2016). 
+Research on OVX in the crude oil market has been a research hotspot
+in the ﬁeld of energy ﬁnance. 

@@ -1,0 +1,463 @@
+
+INTRODUCTION
+The vast majority of bacterial diversity is found within phylumlevel
+lineages that lack isolated representatives [1], commonly
+referred to as ‘‘candidate phyla.’’ Candidate phyla constitute at
+least 103 out of approximately 142 widely recognized bacterial
+phyla for which there is genomic representation [1–3]; 46% of
+known bacterial phyla are clustered in the Candidate Phyla Radi-
+ation (CPR). However, there remain many phylum-level bacterial
+lineages that have no genomic representation and are not yet
+formally recognized [4]. Genome-resolved metagenomic studies
+offer unique and unprecedented insights into the biology of these
+uncultured, poorly understood lineages and their biochemical
+diversity [3–8]. In addition to revealing the environmentally and
+economically important roles played by such bacteria, these
+studies contribute greatly to our understanding of the distribution
+of lifestyles across the tree of life. For example, genomes from
+members of the CPR suggest that they are metabolically sparse
+and lack many biosynthetic pathways typically required for life,
+presumably because these organisms are dependent on other
+microbes for survival
+[6, 9]. Candidate phyla genomes may
+also reveal novel functional diversity, as phylogenetic diversity
+is correlated with novel proteomic diversity and biological prop-
+erties [10, 11].
+
+Marine mammals are an ecologically important group of
+animals harboring little-explored microbial communities. Previ-
+ous research has shown that bottlenose dolphins, in particular,
+host a rich diversity of novel bacteria [12]. Nearly 70% of near-
+full-length 16S rRNA genes from the dolphin microbiota were
+novel in 2015 at the species level, and representatives from 25
+bacterial phyla were present in the mouth alone. Furthermore,
+a surprising number of candidate phyla such as Gracilibacteria
+(BD1-5/GN02), Modulibacteria (KSB3), and the Parcubacteria
+(OD1) supergroup, which are unusual in mammal-associated en-
+vironments, were found in the dolphin mouth [12]. Genomes from
+such candidate phyla have nearly exclusively been retrieved
+from non-host-associated environments, and thus it is unknown
+how these bacteria adapt to a mammalian environment. Interest-
+ingly, despite evidence that the marine mammal microbiota is
+shaped by the sea, these bacteria were not detected in the adja-
+cent seawater [12].
+
+The vast majority of bacterial diversity is found within phylum-
+level lineages that lack isolated representatives [1], commonly
+referred to as ‘‘candidate phyla.’’ Candidate phyla constitute at
+least 103 out of approximately 142 widely recognized bacterial
+
+On the basis of these prior observations, we concluded that
+marine mammals afford an unusual opportunity for studying
+bacterial diversity. Working under the hypothesis that novel
+phylogenetic diversity correlates with novel functional diversity,
+in this study we applied genome-resolved metagenomics to
+investigate the diversity and functional potential of the dolphin
+oral microbiome. The results hint at the wealth of evolutionary
+and biochemical diversity that remains uncharted within previ-
+ously unexplored environments, including mammalian micro-
+biomes, and will contribute to future comparative studies of
+host-associated versus non-host-associated candidate phyla
+bacteria.
+
+<Middle> RESULTS.
+Dolphin Oral Microbiota Composition and Structure
+Swab samples were collected from the gingival sulcus of
+healthy bottlenose dolphins (Tursiops truncatus) under the pur-
+view of the U.S. Navy’s Marine Mammal Program in San Diego
+Bay, California. Samples from two dolphins were selected for
+shotgun sequencing based on the ﬁndings of Bik et al. [12],
+which indicated that
+these two samples (DolJOral78 and
+DolZOral124) contained representatives from nine candidate
+phyla at relative abundances of R0.05% (Table S1). Paired-
+end Illumina HiSeq reads were generated, ﬁltered, assembled,
+and used to recover microbial genomes, as described in STAR
+Methods.
+
+From >63 Gbp of ﬁltered paired-end sequences, we recovered
+107 draft-quality genomes from 24 previously described
+bacterial phyla and one circular genome from a candidate Sac-
+charibacteria (TM7) phage (presented below). These genomes
+derived from 22 organisms afﬁliated with the candidate phyla
+Absconditabacteria (SR1), Campbellbacteria (OD1), Cloacimo-
+netes (WWE1), Delongbacteria, Fermentibacteria (Hyd24-12),
+Gracilibacteria (BD1-5/GN02), Modulibacteria (KSB3), and Mor-
+anbacteria (OD1), and the Saccharibacteria (TM7) phylum.
+Phylum-level assignments (or lack thereof, as was the case for
+three of our genomes) were determined by constructing a phy-
+logeny based on an alignment of 15 concatenated ribosomal
+proteins (Figure 1; Data S1; see STAR Methods). Of note, we
+were able to link a 16S rRNA gene sequence to a member of
+the Delongbacteria phylum, which previously consisted of a sin-
+gle genome for which no 16S rRNA gene had been recovered [2].
+Additionally, low-coverage (%33) archaeal genome fragments
+were recovered from two members of the Woesearcheota
+phylum. Similar sequences have been recovered from host-
+associated environments (see SILVA database [13–15]), such
+as coral heads [16] and human skin [17], but were not originally
+recognized as afﬁliated with the Woesearcheota phylum or
+placed within a comprehensive phylogeny.
+
+Bacterial community composition and structure inferred
+from the same DNA preparations differed depending on the
+survey method: genome-resolved metagenomics (this study)
+versus 16S rRNA gene ampliﬁcation [12] (Figure 2; Figure S1;
+Table S1). Notably, the 16S rRNA gene that was associated
+with the highest-coverage genome in both samples (17% and
+4% relative abundance in DolJOral78 and DolZOral124, respec-
+tively; Figure 2) was barely detected in the amplicon-based sur-
+vey (not detected in DolJOral78; 0.04% relative abundance in
+DolZOral124). This is surprising, because the PCR primers
+match the assembled sequence perfectly, the GC content of
+the gene is 58%, and it contains no unusual
+insertions. The
+two genomes are from the same species of Actinobacteria (order
+
+Micrococcales), and the GC content of the genome is 68%.
+Furthermore, members of the CPR were greatly under-detected
+using the amplicon-based approach. From the metagenomic as-
+semblies, we detected 16 unique CPR species-level genomes,
+some of which ranked among the highest-coverage genomes
+recovered (Figure 2). For example, the fourth most abundant
+bacterial organism in the DolJOral78 sample was a member of
+the Saccharibacteria phylum (4% relative abundance), although
+no Saccharibacteria representatives were detected in the
+DolJOral78 sample in the previous 16S rRNA gene amplicon sur-
+vey. In the amplicon-based study [12], only nine unique opera-
+tional taxonomic units (OTUs) from the CPR were identiﬁed
+from both samples combined, with a maximum relative abun-
+dance of 0.24%. This discrepancy can be explained at least
+partially by primer mismatches, consistent with previous reports
+on the CPR [4]. Of the 21 unique CPR 16S rRNA genes assem-
+bled and identiﬁed in the metagenomic data, nine span the re-
+gion between the commonly used 338F and 906R bacterial
+primers (also used in Bik et al. [12]) and have sufﬁcient read
+coverage to validate the assembly. Eight of these have 1–3 mis-
+matches in at least one primer site. In the amplicon study, eight
+of the nine OTUs were detected among all samples, although
+only the one OTU with no primer site mismatches was detected
+in the two samples studied here.
+
+Given the breadth of novel bacterial diversity in the dolphin
+oral samples, we next searched for novel phage diversity.
+Using a stringent set of criteria (see STAR Methods), we iden-
+tiﬁed a set of 33 and 55 sequences from DolJOral78 and
+DolZOral124, respectively, for which we had high conﬁdence
+in their derivation from phage genomes. These sequences
+range in length from 1,583 to 119,885 bp (average 19,363
+and 21,462; SD 13,243 and 19,615 bp). To assess overlap
+between samples, we performed a reciprocal best-hit BLAST
+[18, 19] search between phage sequences from the two
+samples. We identiﬁed 14 phage genome fragments that
+were present (or had close relatives present) in both samples.
+To evaluate the degree of phage genome novelty, we BLASTed
+[18, 19] phage sequences against the NCBI non-redundant
+nucleotide
+(https://ncbi.nlm.nih.gov/nucleotide).
+Only three alignments were longer than 1,000 bp, the longest
+of which was only 2,919 bp. These alignments corresponded
+to 2.3%, 3.8%, and 8.2% of the lengths of the respective
+phage scaffolds. This suggests that phages in the dolphin
+mouth are only distantly related to phages for which genomic
+fragments have previously been recovered, as one would
+expect under the hypothesis that novel bacterial diversity be-
+gets novel phage diversity.
+
+database
+
+Novel, Deeply Divergent Phylum-Level Lineages
+The concatenated ribosomal protein tree enabled determination
+of the phylum-level identity of recovered genomes (Figure 1).
+Within this tree, three genomes belonging to two deep-branch-
+ing lineages eluded identiﬁcation. To evaluate whether these
+two lineages were representative of previously undescribed
+phyla, we examined whether (1) they formed monophyletic line-
+ages in both the concatenated ribosomal protein phylogeny and
+the 16S rRNA gene phylogeny, and (2) the 16S rRNA gene se-
+quences of such lineages were at least 25% divergent from
+those of known phyla (i.e., the threshold used by Yarza et al. [20]).
+lowest
+
+One lineage, for which we propose the name ‘‘Delphibacteria’’
+(rationale in Supplemental Discussion),
+is afﬁliated with the
+Fibrobacteres-Chlorobi-Bacteroidetes (FCB) superphylum and
+is represented by genomes DolJOral78_Bacteria_63_78 and
+DolZOral124_Bacteria_64_63. The names refer, for example, to
+sample DolZOral124,
+taxonomic resolution Bacteria,
+GC content of 64%, coverage of 633). The 16S rRNA gene
+sequence from the Delphibacteria lineage clusters with se-
+quences from what is currently recognized as the Latescibacte-
+ria phylum in the SILVA database [13–15] (see Supplemental
+Discussion, Figure S2, and Data S1). The diversity encompassed
+by this ‘‘phylum’’ was recently found to be an assemblage of at
+least two phylum-level lineages: Latescibacteria and the newly
+proposed Eisenbacteria [2]. Nearly all members of the Delphi-
+bacteria lineage share <75% sequence identity across the 16S
+rRNA gene with members of the Eisenbacteria phylum (Fig-
+ure S2A) and <78.5% sequence identity with members of the
+Latescibacteria phylum (Figure S2B). Predicted proteins in the
+near-complete genome from this lineage were most similar to
+
+those from the Deltaproteobacteria phylum (Figure S3A).
+Notably, the Delphibacteria lineage was detected in 41 oral sam-
+ples from 15 of 33 U.S. Navy dolphins and one of ten wild dol-
+phins surveyed with 16S rRNA gene amplicon pyrosequencing
+in Bik et al. [12], although it was classiﬁed as a member of the
+Latescibacteria phylum. In the DolJOral78 sample, two Delphi-
+bacteria genomes were detected at relative abundances of
+1.6% and 1.2%, while in the DolZOral124 sample one Delphi-
+bacteria genome was detected at a relative abundance of 0.7%.
+The second previously uncharacterized lineage, for which we
+propose the name ‘‘Fertabacteria’’ (rationale in Supplemental
+Discussion), is afﬁliated with the CPR and is represented by
+the genome DolZOral124_Bacteria_38_8. The 16S rRNA gene
+sequence from Fertabacteria clusters with sequences from
+what is currently recognized as the Peregrinibacteria (PER)
+phylum in the SILVA database (see Supplemental Discussion
+and Data S1). It is part of a well-supported clade with <75%
+sequence identity to the rest of the PER phylum, including
+PER-ii (Figure S2C). Predicted proteins from this lineage are
+most similar to those from the Peregrinibacteria phylum (Fig-
+ure S3B), yet the 16S rRNA gene sequence identity argues
+against its inclusion in this group. Out of all samples surveyed
+with 16S rRNA gene pyrosequencing in Bik et al. [12], only a sin-
+gle Fertabacteria amplicon was detected. The amplicon was
+generated from a sample of forcefully expired air (‘‘chuff’’) from
+the dolphin respiratory tract collected on sterile ﬁlter paper,
+and was originally classiﬁed as a member of the Gracilibacteria
+phylum. The 906R primer used in Bik et al. [12] had two mis-
+matches to the corresponding priming site, and therefore this
+organism may have been widely under-detected in the ampli-
+con-based survey. The Fertabacteria genome is one of the
+lowest-coverage genomes (83) in this study, with a relative
+abundance of 0.09% in the DolZOral124 sample.
+
+Functional Proﬁle of the Delphibacteria Lineage
+Due to the abundance and prevalence of Delphibacteria organ-
+isms in the dolphin oral samples, we investigated the metabolic
+potential of
+the near-complete DolZOral124_Bacteria_64_63
+genome. The genome dataset contained 49 of 51 universal bac-
+terial single-copy genes used to assess completeness [21].
+It comprised 3,362,850 bp and is predicted to contain 3,011 pro-
+tein-coding genes. It appears to utilize a variety of compounds as
+carbon and energy sources, including polysaccharides such as
+starch/glycogen, acetate, acetaldehyde, ethanol, and butyrate
+(Figure 3; Data S2). DolZOral124_Bacteria_64_63 carries the
+potential to ferment to acetate, with ethanol and acetaldehyde
+being produced during regeneration of NAD+ required for glycol-
+ysis. Two of the three genes speciﬁc to gluconeogenesis are also
+present, as are those involved in the non-oxidative pentose
+phosphate pathway. The genome includes the capacity for
+amylose synthesis and possibly GDP-L-rhamnose synthesis.
+
+The complete gene complement required for running the
+forward tricarboxylic acid (TCA) cycle is present. Accordingly,
+the DolZOral124_Bacteria_64_63 genome is predicted to
+support aerobic respiration and possibly also anaerobic respi-
+ration using nitrogen compounds as terminal electron accep-
+tors. The catalytic subunit of a periplasmic nitrate reductase
+was detected (napA), as were accessory periplasmic nitrate
+reductase subunits. The catalytic subunit of a nitric oxide
+reductase (norB) and the terminal nitrous oxide reductase
+(nosZ) were also detected. Nitrite reductase genes (nirK
+or nirS) were not identiﬁed, nor were many of the subunits
+typically associated with the above reductases. Nonetheless,
+the presence of catalytic subunits for three out of the four
+steps involved in converting nitrate to dinitrogen suggests
+that this Delphibacteria representative is capable of denitriﬁ-
+cation. We detected another mechanism for generating proton
+motive force in the form of a pumping pyrophosphatase,
+indicating that DolZOral124_Bacteria_64_63 may be able
+to utilize pyrophosphate as an alternative chemical energy
+carrier to ATP.
+
+DolZOral124_Bacteria_64_63 is most likely a lipopolysaccha-
+ride-producing bacterial species with ﬂagella and type IV pili and
+capable of chemotaxis. We identiﬁed ten acriﬂavin resistance
+proteins, which are typically involved in efﬂux of cationic antimi-
+crobial peptides. Overall, we infer that this is a heterotrophic
+organism that has the genomic potential for oxygen and most
+likely nitrate reduction.
+
+given the large size of the BGC. Based on the prominence of
+this Actinobacterium in both dolphin oral microbiotas and the
+size of this genomic region (3% of the genome), the peptide
+product is likely to be advantageous to the organism, and may
+facilitate interactions within the community and/or with the host.
+
+Large Biosynthetic Gene Cluster in the Dominant
+Actinobacteria Genome
+One of the two highest-coverage bins in both samples contained
+scaffolds that nearly exclusively encoded genes that were part of
+a small-molecule biosynthetic gene cluster (BGC). The products
+of BGCs are diverse and often act as mediators in bacteria-host
+or bacteria-bacteria interactions [22, 23]. On ﬁrst inspection, the
+BGC was not assigned to any draft-quality genomes from these
+samples. Extension of the BGC-associated scaffold revealed
+that it is part of the genome of the most abundant species in
+both samples (Actinobacteria phylum). The BGC is located
+within an 80,484-bp-long region of the genome ﬂanked by mo-
+bile elements and has a relatively high GC content (74% versus
+68% for the rest of the genome) (Figure S4A) and a distinct tet-
+ranucleotide composition (Figure S4B). Its read coverage is
+consistent with the rest of the genome (Figure S4C). These ﬁnd-
+ings suggest that the BGC was acquired through a relatively
+recent horizontal gene transfer event. Notably, the BGC is pre-
+dicted to produce a relatively long non-ribosomal peptide
+(NRP) of 17 amino acids (Figure 4). NRPs are synthesized by
+NRP synthetase enzyme complexes, independent of the ribo-
+some. In the MIBiG database [27], the average size of NRPs
+synthesized by BGCs is only 6 amino acids long (SD ±4.5) (Fig-
+ure S4D). Because the BGC does not have signiﬁcant similarity
+to known BGCs and its predicted product does not resemble
+any known peptide, elucidation of the function of this BGC prod-
+uct will require heterologous expression—a daunting challenge
+
+Novel Cas9 Diversity
+Given the wealth of both novel bacterial and phage genomes, we
+attempted to link phage sequences to bacterial hosts. We
+ﬁrst identiﬁed CRISPR-Cas systems and, in doing so, discov-
+ered surprising CRISPR-Cas9 diversity (see Supplemental
+Discussion, Figure S5, and Data S3 and S4). We identiﬁed a
+total of 67 unique predicted Cas9 proteins (see STAR Methods).
+Interestingly, two are longer than all Cas9 protein sequences
+in the RefSeq database [28]
+(accessed December 2016)
+(Figure 5A) (DolZOral124_scaffold_19676_2: 1,895 amino acids;
+DolZOral124_scaffold_953_34: 1,794 amino acids). Neither was
+assigned to any of the recovered genomes. Another Cas9 con-
+tains a large insertion in the RuvC-III domain (DolZOral124_
+scaffold_26_62, also unassigned). We aligned all three novel
+Cas9 amino acid sequences against AnaCas9 from Actinomyces
+naeslundii (Figure 5B). AnaCas9 was selected as a reference
+because it has a resolved crystal structure and it is a type II-C
+Cas9, as are the three novel predicted proteins in the present
+study (Figure S6; Data S1). We found that the largest insertions
+in the two long Cas9 proteins are concentrated in regions
+that align with the a-helical, b-hairpin, and RuvC-III domains
+of AnaCas9. The DolZOral124_scaffold_26_62 Cas9 has a
+304-amino acid insertion in the RuvC-III domain when compared
+with AnaCas9. This insertion has signiﬁcant homology (R30%
+identity over 100% sequence length; e value < 1e-10) to seven
+other Cas9 proteins in the NCBI non-redundant protein database
+(https://www.ncbi.nlm.nih.gov/protein/). Attempts to infer the
+function of the insertion were inconclusive (see Supplemental
+Discussion) [29, 30].
+
+Saccharibacteria Type II CRISPR-Cas Systems and a
+Saccharibacteria-Infecting Phage
+CRISPR-Cas systems are exceedingly rare within the CPR. In a
+survey of 354 high-quality draft genomes from the CPR, Burstein
+et al. [31] found that only ﬁve genomes (1.4%) contained a
+CRISPR-Cas system, and none contained a type II system. We
+found complete type II CRISPR-Cas systems in two out of ﬁve
+Saccharibacteria (CPR) genomes (see Supplemental Discus-
+sion). The Saccharibacteria genomes are not closely related to
+each other; the ribosomal protein S3 sequences share 67%
+amino acid identity, which is less than expected for genomes
+in the same family [32]. Although the two complete Saccharibacteria Cas9 proteins are afﬁliated with a single clade of type II-C
+Cas9 proteins (Figure S6), neither of the CRISPR-Cas loci en-
+codes a Cas4 protein, as would be expected for a type II-C
+system.
+
+The ability to identify phages that infect CPR bacteria is
+important to understanding CPR bacterial evolution and the con-
+straints that they face in their natural settings. However, it is rare
+to identify phages that infect the CPR [31, 33, 34]. Using
+CRISPRFinder [35] and Crass [36], we identiﬁed a total of 42
+unique spacers from Saccharibacteria CRISPR arrays (see Sup-
+plemental Discussion and Data S4). Of the Saccharibacteria
+spacers, only one (from the sole CRISPR array associated with
+DolZOral124_Saccharibacteria_55_12_B) matched a genomic
+fragment that was identiﬁable as a phage genome (DolZOral124_
+Phage_53_65). The phage and Saccharibacteria genomes were
+originally binned together based on tetranucleotide frequency.
+Convergence of tetranucleotide frequency is suggestive of a his-
+tory of co-evolution between a phage and its bacterial host [37].
+The phage genome is circular and 38,841 bp long, with a GC
+content of 52%. No read pairs mapped to both the phage and
+Saccharibacteria genomes. Consequently, we infer that the
+phage was not integrated into the host genome at the time of
+sampling. The phage genome contains 50 predicted open
+reading frames (ORFs) and no tRNAs (Figure 6; Data S5). Pre-
+dicted functions of these ORFs include host cell lysis, phage
+packaging, and DNA recombination.
+
+<Conclusion> DISCUSSION.
+We used genome-resolved metagenomics to study the micro-
+bial communities of
+two dolphin oral samples in order to
+explore the unusual evolutionary and functional diversity pre-
+dicted by a previous 16S rRNA gene-based survey [12]. Of
+note, we detected and characterized novel
+lineages distantly
+related to and reproducibly unafﬁliated with known phyla. We
+propose that they represent phylum-level
+lineages for which
+we put forth the names Candidatus Delphibacteria and Candi-
+datus Fertabacteria. The Delphibacteria representative charac-
+terized here is predicted to denitrify, which is a process that
+may impact dolphin health and physiology. For example, in hu-
+mans, denitriﬁcation by oral bacteria can affect oral and gastric
+blood ﬂow, signaling in bacteria-bacteria and bacteria-host
+interactions, and mucus thickness in the stomach [38, 39]. It
+is unclear whether bacteria in the Delphibacteria candidate
+phylum remain uncultured due to intrinsic biological factors or
+due to the absence of a systematic effort to culture and identify
+them using traditional methods. Regardless, our genomic anal-
+ysis may provide insights into the conditions required for
+successful cultivation of these and closely related bacteria,
+especially with regard to oxygen conditions and potential en-
+ergy and carbon sources.
+
+In addition, we recovered genomes from candidate phyla
+whose members are seldom associated with animals. These ge-
+nomes will be a valuable resource for future comparative studies
+aimed at understanding how such bacteria adapt to a mamma-
+lian environment. Interestingly, we detected members of the
+Saccharibacteria phylum. Members of this phylum have been
+associated with human oral disease [40]. At least one Sacchari-
+bacteria strain, an obligate endobiont of an Actinobacterium, has
+the ability to modify human immune responses in vitro [9]. This
+may aid Saccharibacteria and potentially also their microbial
+host/s in avoiding clearance by the human immune system. It
+remains unclear whether oral Saccharibacteria are detrimental
+to dolphin health, and whether they may be associated with
+Actinobacteria in this setting.
+
+An interesting aspect of our community composition analysis
+was that the highest-coverage genome was from an Actinobac-
+terium that went virtually undetected in the previously published
+16S rRNA amplicon survey. The underlying reasons for this
+discrepancy remain unknown. This ﬁnding highlights the fact
+that even among relatively well characterized phyla there exist
+unexplored branches represented by organisms with unusual
+predicted properties that are inherently distinct from the bacteria
+we are accustomed to studying.
+
+By exploring the microbiology of the dolphin mouth, we
+uncovered an unexpected diversity of CRISPR systems
+that are related to those used in recently developed CRISPR-
+Cas9-based genome editing methods [41]. At this time, the
+potential technological value of divergent proteins from class 2
+CRISPR-Cas systems (those with single-subunit CRISPR RNA
+(crRNA)-effector molecules) remains relatively unexplored and
+so the signiﬁcance of the ﬁndings remains unclear. However,
+the ﬁndings further establish the potential importance of genes
+discovered in the genomes of bacteria newly characterized by
+cultivation-independent metagenomics [10].
+
+Previously unexplored environments, such as the marine
+mammal oral cavity, contain a wealth of phylogenetic and func-
+tional novelty of which we have only just scratched the surface.
+Populating the tree of life with genomes from poorly understood
+or previously unsampled microbial lineages from diverse envi-
+ronments, and characterizing the phages that infect them, is an
+important step toward creating a comprehensive picture of the
+evolutionary history of life on Earth.
+
+References

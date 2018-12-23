@@ -1,0 +1,33 @@
+ 
+Investors, preparers, regulators, and standard setters have expressed concern that corporate disclosure has become longer, 
+more redundant, less readable, less speciﬁc, and more boilerplate over time ( Li, 2008; KPMG, 2011; SEC, 2013 ).  In 2013, the 
+SEC began a comprehensive review of regulation with the intent of identifying excessive, unduly complex, and redundant 
+disclosure ( SEC, 2013 ).  Similarly, the FASB has an ongoing agenda project, the Disclosure Framework, evaluating the effectiveness of textual disclosure ( FASB, 2012 ).  A variety of explanations have been offered for why disclosure might be changing 
+over time including increases in litigation concerns, business complexity, globalization, regulation, and new mandatory disclosures ( KPMG, 2011; SEC, 2013; Monga and Chasan, 2015 ).  In this paper we quantify a variety of 10-K disclosure attributes 
+and provide initial descriptive evidence on trends in these attributes over time.  
+While there is a substantial academic literature on trends in the characteristics of quantitative accounting data (particuthe magnitude, economic determinants, speciﬁc content, and attributes of trends 
+larly earnings and book value) over time, 
+in textual disclosure have received less attention.  At least in part, this likely reﬂects the challenge in assessing the content 
+of 10-K textual disclosure and in categorizing and quantifying disclosure for a large number of lengthy, complex documents, 
+especially given that disclosure of a given topic often appears in multiple sections of the 10-K and any given passage often 
+combines multiple topics.  
+In many ways, the issues in assessing 10-K content are similar to those faced in other literatures.  For example, researchers 
+in journalism have been interested in trends in coverage of the New York Times ( Blei, 2012 ), those in literature in understanding topical trends in poetry ( Rhody, 2012 ), in politics understanding trends in Senate discourse ( Grimmer, 2010 ), in 
+history understanding historical trends using the content of State Department cables ( Chaney Name, 2015 ), and in science 
+understanding topical trends in journals such as Science ( Blei and Lafferty, 2007 ).  In all of these domains, the challenge is 
+in analyzing trends in corpuses far too large for humans to manually review and to summarize them in a way that is easily 
+interpretable.  
+Following that literature, we use a natural language processing technique, Latent Dirichlet Allocation (LDA), to understand the changing content of 10-Ks.  3 LDA is a Bayesian computational linguistic technique that identifies the latent topics in a corpus of documents.  4 It is well suited to understanding the text of the 10-K because it permits analysis of the topical content of a large group of lengthy documents over time in an objective and replicable matter and relies on a very limited set of assumptions that are likely to be met in 10-K disclosure.  Further, it is specifically designed to infer proportions of content for documents which contain multiple topics, even if the topics are entangled, which is important given that 10-Ks comprise a large number of interspersed topics.  5 It permits the proportion of the 10-K related to each topic to vary across documents so it is well-suited to examining topical trends in textual disclosure.  As a result, we can deconstruct the 10-K by topic irrespective of whether topics appear in, for example, the footnotes, risk factors, or Management’s Discussion and Analysis (MD&A).  We can then assess trends in the discussion of topics over time and relate them to changes in specific disclosure requirements (e. g. , new FASB standards, SEC requirements, and regulatory events such as SOX) and other events (e. g. , changes in litigation risk, mergers and acquisitions, etc. ). 
+Additionally, once the topic model is trained, it permits us to identify paragraphs by topic, so that we can track where 
+speciﬁc topics occur within the 10-K.  This allows us to identify the extent to which, for example, FASB requirements (e. g. , 
+footnotes) create redundancy with SEC requirements (e. g. , risk factors and MD&A) by highlighting which topics tend to 
+be redundant within the 10-K as well as across time and across ﬁrms.  Similarly, by accumulating text within a topic, we 
+can identify the topical sources of textual attributes that prior literature suggests may be important such as boilerplate, 
+redundancy, stickiness, and lack of speciﬁcity.  
+In our empirical analysis, we examine the text of 10-Ks for 10,452 ﬁrms and 75,991 ﬁrm-years over the period 1996 
+to 2013.  We begin by documenting trends in textual characteristics that have been identiﬁed by prior research as potentially affecting the informativeness of disclosure, including length ( Loughran and McDonald, 2014 ), readability ( Miller, 2010 ), 
+boilerplate ( Lang and Stice-Lawrence, 2015 ), redundancy ( Cazier and Pfeiffer, 2015b ), speciﬁcity ( Hope Name, 2016 ), stickiness  ( Brown  and  Tucker,  2011 ),  and  the  relative  prevalence  of  informative  numbers  in  the  text  or  “hard” information 
+( Blankespoor, 2016 ).  
+We document clear and consistent trends across all measures.  Median text length doubled from 23,0 0 0 words in 1996 to 
+nearly 50,0 0 0 in 2013, while redundancy, boilerplate, and stickiness increased nearly monotonically and readability, speciﬁcity, and the relative mix of hard information showed clear decreases.  Given these trends, we next investigate their topical 
+sources. 

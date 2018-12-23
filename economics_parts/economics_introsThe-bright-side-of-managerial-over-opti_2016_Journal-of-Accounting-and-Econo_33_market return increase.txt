@@ -1,0 +1,34 @@
+
+One of the best-established stylized facts in the decision-making literature is that individuals are over-optimistic about
+future outcomes (e. g. , Weinstein, 1980).  Over-optimism is related to overconﬁdence but is distinct. 1 Over-optimism creates
+an upward bias in the mean of the distribution while overconﬁdence creates an upward bias in its precision.  Importantly,
+prior analytical work also suggests the possibility that over-optimism can increase ﬁrm performance (e. g. , Hackbarth, 2008),
+but little empirical work exists on this topic.  We investigate this issue empirically. 
+We ﬁrst note that individuals are over-optimistic in general, and particularly so regarding the effect of their own actions
+(we call this phenomenon “static over-optimism”).  In addition, managers may suffer from a biased attribution of causality
+after a series of good performances that leads them to under-estimate the role of random noise and over-attribute successes
+to their own actions (we call this phenomenon “dynamic overconﬁdence”).  The combination of these two phenomena leads
+to an increase in over-optimism after a series of successes (we call this phenomenon “dynamic over-optimism”): optimistic
+managerial actions (or beliefs) receive an increasingly disproportionate weight in the overall estimation of a project's
+success.  Thus, our ﬁrst hypothesis posits that the degree of managerial over-optimism should increase after a series of
+successes.  This miscalibration in managerial prediction may encourage managers to exert greater effort, as they expect this
+effort to pay-off with a greater likelihood.  Naturally, this additional effort should have a positive effect on ﬁrm performance. 
+Hence, our second hypothesis conjectures that ﬁrm performance should increase following a series of successes, even if the
+increase remains below the level expected by an over-optimistic manager. 
+We note that our hypotheses can be motivated in an economic framework in which individuals are Bayesian.  For
+example, Van den Steen (2004) proposes a model in which a representative agent is endowed with priors.  In the most basic
+setting, a manager can choose from a menu of actions.  For each action, the manager's prior over the likelihood of success
+equals the true probability plus a (non-invertible) random error.  The manager optimally chooses the action for which her
+prior is highest, which is also the action whose probability of success the manager is most likely to over-estimate ex post. 
+This generates the static over-optimism we discuss above.  This framework also allows for a Bayesian but biased attribution
+of performance that yields a form of dynamic overconﬁdence.  Combined with static over-optimism, this phenomenon
+generates the dynamic over-optimism that is the core of our ﬁrst hypothesis.  Our second hypothesis relies on the idea that
+over-optimism can elicit higher effort from management.  As noted in Van den Steen (2004) this emerges naturally if the
+payoff is increasing in effort when the action is successful. 
+Our empirical ﬁndings are consistent with our analytical framework and support the presence of dynamic overoptimism.  First, we show that managers who experienced more frequent successes in the recent past, subsequently issue
+more optimistic forecasts.  Further analysis reveals that they also exercise stock options later (Malmendier and Tate, 2005;
+Campbell Name, 2011) and issue earnings releases with a more optimistic tone (based on textual analysis).  Importantly, these
+results hold in speciﬁcations with manager ﬁxed effects.  By showing that over-optimism has an endogenous and dynamic
+component, our results suggest that, at least to a certain extent, some managers are made (rather than just born) overoptimistic.  Second, and importantly, we show that the over-optimism we document can improve ﬁrm performance and that
+managers appear to exert greater effort to meet their own over-optimistic forecasts.  Speciﬁcally, ﬁrm accounting performance and quarterly market return increase as the degree of managerial over-optimism increases.  In contrast, measures of
+accruals or real earnings management are not affected by this over-optimism. 
