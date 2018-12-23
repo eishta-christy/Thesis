@@ -1,0 +1,934 @@
+	Subcorpus	Type of Article	Article	Teil	Sentence number	CNC String	CNC Length	Words before
+0	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	16.0	target population sizes	3.0	225.0
+1	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	38.0	decision analysis framework	3.0	578.0
+2	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	42.0	population supplementation tools	3.0	680.0
+3	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	52.0	alternative supplementation strategies	3.0	859.0
+4	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	54.0	baseline recovery target	3.0	955.0
+5	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	55.0	population viability analysis	3.0	980.0
+6	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	60.0	resource management decisions	3.0	1085.0
+7	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	70.0	stepsensitivity analyses	3.0	1294.0
+8	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	73.0	Decision analysis models	3.0	1330.0
+9	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	86.0	breeding supplementation programs	3.0	1517.0
+10	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	92.0	baseline management target	3.0	1571.0
+11	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	94.0	frog recovery plan	3.0	1625.0
+12	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	94.0	extinction risk threshold	3.0	1636.0
+13	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	98.0	Demographic population models	3.0	1698.0
+14	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	109.0	pretiosa extinction risk	3.0	1869.0
+15	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	113.0	supplementation pathway rankings	3.0	1985.0
+16	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	119.0	ﬁrst sensitivity analysis	3.0	2052.0
+17	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	125.0	reduceextinction risk	3.0	2174.0
+18	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	135.0	pretiosa recovery efforts	3.0	2395.0
+19	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	138.0	pretiosa recovery efforts	3.0	2449.0
+20	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	144.0	effort estimating costs	3.0	2579.0
+21	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	153.0	reduceextinction risk	3.0	2734.0
+22	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	161.0	breedrelease offspring	3.0	2943.0
+23	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	177.0	background extinction risk increases	4.0	3174.0
+24	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Intro>	182.0	Figpopulation size	3.0	3237.0
+25	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	196.0	top-ranked recovery pathway	3.0	3471.0
+26	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	196.0	baseline recovery target	3.0	3486.0
+27	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	198.0	lowest population sizes	3.0	3515.0
+28	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	199.0	extinction risk increases	3.0	3551.0
+29	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	199.0	target population size	3.0	3566.0
+30	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	200.0	butoptimal recovery	3.0	3583.0
+31	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	206.0	ratherratio we've	3.0	3749.0
+32	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	212.0	beneﬁt cost ratios	3.0	3836.0
+33	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	239.0	decision analysis framework	3.0	4235.0
+34	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	239.0	population viability analyses	3.0	4251.0
+35	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	248.0	life historyThe effectiveness	3.0	4401.0
+36	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	263.0	management time horizon	3.0	4667.0
+37	economics_intros	Quant/Qual	A-Decision-theory-Approach-to-Cost-effective-Population-Su_2017_Ecological-E.txt	<Conclusion>	269.0	Morrisdecision analysis	3.0	4848.0
+38	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	3.0	countries' emission performances	3.0	53.0
+39	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	5.0	index decomposition analysis	3.0	106.0
+40	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	7.0	energy systems analysis	3.0	161.0
+41	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	29.0	country's energy use	3.0	467.0
+42	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	44.0	modelling intensity indicators	3.0	749.0
+43	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	47.0	emission intensity indicator	3.0	798.0
+44	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	48.0	emission intensity indicator cover	4.0	834.0
+45	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	59.0	ﬁnest disaggregation level	3.0	1055.0
+46	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	64.0	global-level decomposition analysis masks intensity indicator changes	7.0	1099.0
+47	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Intro>	65.0	country-level decomposition analysis	3.0	1125.0
+48	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	80.0	Andrewanalytical difference	3.0	1288.0
+49	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	101.0	demand structure effect	3.0	1679.0
+50	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	109.0	pure SDA formulation	3.0	1746.0
+51	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	115.0	production structure effect	3.0	1794.0
+52	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	116.0	production structure effect	3.0	1826.0
+53	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	120.0	example country r's impact	4.0	1892.0
+54	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	134.0	DHdcountry r's	3.0	2015.0
+55	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	134.0	country r's emission	3.0	2032.0
+56	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	152.0	emission intensity change	3.0	2236.0
+57	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	158.0	country's emission intensity	3.0	2334.0
+58	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	164.0	multiplicative decomposition method	3.0	2451.0
+59	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	183.0	global MRIO table	3.0	2728.0
+60	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	188.0	versions SDA analysis	3.0	2813.0
+61	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	217.0	cumulative driving forces	3.0	3057.0
+62	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	218.0	sectoral intensity effect	3.0	3065.0
+63	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	218.0	production structure effect	3.0	3084.0
+64	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	229.0	traded production technology effect	4.0	3210.0
+65	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	240.0	emission intensity decrease	3.0	3297.0
+66	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	240.0	emission intensity improvement	3.0	3304.0
+67	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	250.0	domestic production technology	3.0	3455.0
+68	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	251.0	sectoral emission intensity	3.0	3470.0
+69	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	257.0	demand structure effects	3.0	3529.0
+70	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	275.0	domestic production structure effect	4.0	3845.0
+71	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	300.0	Sectoral emission efﬁciency change	4.0	4066.0
+72	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	303.0	cumulated driving forces	3.0	4103.0
+73	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	307.0	emission-intensive production structure	3.0	4151.0
+74	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	310.0	sectoral emission efﬁciency	3.0	4181.0
+75	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	311.0	sectoral emission performance	3.0	4193.0
+76	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	317.0	production structure effect	3.0	4269.0
+77	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	318.0	Sectoral emission efﬁciency	3.0	4299.0
+78	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	323.0	emission intensity increases	3.0	4380.0
+79	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	339.0	sectoral emission efﬁciency improvement	4.0	4548.0
+80	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	356.0	sectoral emission efﬁciency improvement	4.0	4743.0
+81	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	372.0	sectoral emission efﬁciency improvement	4.0	4917.0
+82	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Middle>	378.0	aggregate emission intensity changes	4.0	5012.0
+83	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	398.0	Angemission performance	3.0	5314.0
+84	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	405.0	climate technology transfer	3.0	5431.0
+85	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	406.0	technology transfer framework	3.0	5447.0
+86	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	409.0	present climate policies	3.0	5476.0
+87	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	413.0	possible policy measures	3.0	5544.0
+88	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	418.0	Present climate policies	3.0	5636.0
+89	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	432.0	country level model	3.0	5843.0
+90	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	435.0	emission intensity changes	3.0	5917.0
+91	economics_intros	Quant/Qual	A-Multi-region-Structural-Decomposition-Analysis-of-Globa_2017_Ecological-Ec.txt	<Conclusion>	446.0	aggregate intensity indicator	3.0	6140.0
+92	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	1.0	electricity price convergence	3.0	24.0
+93	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	4.0	transmission capacity auction	3.0	119.0
+94	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	10.0	price coupling region	3.0	291.0
+95	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	12.0	areas price coupling	3.0	352.0
+96	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	17.0	transmission rights cannot	3.0	431.0
+97	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	23.0	AR–GARCH copula model	3.0	545.0
+98	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	42.0	data input amounts	3.0	950.0
+99	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	43.0	Day-ahead electricity price	3.0	957.0
+100	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Intro>	45.0	time series models	3.0	1037.0
+101	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	55.0	electricity price data	3.0	1237.0
+102	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	63.0	time series plots	3.0	1437.0
+103	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	72.0	hourly price data	3.0	1641.0
+104	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	74.0	time series plots	3.0	1672.0
+105	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	82.0	electricity generation mix	3.0	1856.0
+106	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	93.0	exact price coupling percentage	4.0	2097.0
+107	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	106.0	smaller price difference	3.0	2373.0
+108	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	108.0	exact price convergence	3.0	2443.0
+109	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	111.0	AR–GARCH copula model	3.0	2492.0
+110	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	147.0	regime switching nature	3.0	3081.0
+111	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	156.0	marginal distribution functions	3.0	3249.0
+112	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	174.0	only copula parameter	3.0	3521.0
+113	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	210.0	componentregime-switching AR–GARCH model	3.0	3890.0
+114	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	231.0	displays sample autocorrelation	3.0	4093.0
+115	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	232.0	Sample autocorrelation plots	3.0	4104.0
+116	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	241.0	price coupling ﬁrst	3.0	4223.0
+117	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	266.0	tail dependence terms	3.0	4610.0
+118	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	269.0	paper tail dependence coeﬃcients	4.0	4674.0
+119	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	282.0	tail dependence coeﬃcients	3.0	4870.0
+120	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	289.0	tail dependence coeﬃcients	3.0	4914.0
+121	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	294.0	tail dependence coeﬃcients	3.0	5030.0
+122	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	303.0	lower tail dependence	3.0	5142.0
+123	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	307.0	Most wind turbines	3.0	5208.0
+124	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	313.0	tail dependence estimate	3.0	5302.0
+125	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	369.0	day-ahead electricity price difference	4.0	5967.0
+126	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	376.0	transmission system operators	3.0	6091.0
+127	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	382.0	hourly day-ahead electricity price	4.0	6160.0
+128	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	386.0	spread option values	3.0	6212.0
+129	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	389.0	areas FTR prices	3.0	6280.0
+130	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	402.0	ﬂow direction DE→FR	3.0	6514.0
+131	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	404.0	option price calculations	3.0	6563.0
+132	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	411.0	AR–GARCH copula models	3.0	6713.0
+133	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	443.0	electricity ﬂow patterns	3.0	7459.0
+134	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	452.0	AR–GARCH copula model	3.0	7635.0
+135	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	457.0	regime-switching AR–GARCH model	3.0	7732.0
+136	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	462.0	spread time series	3.0	7784.0
+137	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	478.0	copula modeling framework	3.0	7999.0
+138	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	491.0	likelihood ratio tests	3.0	8190.0
+139	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	504.0	model acceptance percentages	3.0	8439.0
+140	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Middle>	517.0	AR–GARCH copula model	3.0	8742.0
+141	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Conclusion>	535.0	lower option prices	3.0	9114.0
+142	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Conclusion>	538.0	likelihood ratio tests	3.0	9174.0
+143	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Conclusion>	542.0	market coupling algorithm	3.0	9294.0
+144	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Conclusion>	555.0	copula dependence parameter	3.0	9563.0
+145	economics_intros	Quant/Qual	A-regime-switching-copula-approach-to-modeling-day-ahead-pri_2017_Energy-Eco.txt	<Conclusion>	563.0	spot electricity prices	3.0	9672.0
+146	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Intro>	6.0	control program costs	3.0	97.0
+147	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Intro>	29.0	Exotic mosquito incursions	3.0	332.0
+148	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Intro>	29.0	vanden Hurk	3.0	346.0
+149	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Intro>	62.0	term control programs	3.0	650.0
+150	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Intro>	70.0	mosquito control program	3.0	824.0
+151	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	137.0	Appendix“Mosquito Incursion Emergency Response	5.0	1523.0
+152	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	150.0	pest control companies	3.0	1757.0
+153	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	161.0	vector control staff	3.0	1921.0
+154	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	170.0	vector control team	3.0	2075.0
+155	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	212.0	vector control response	3.0	2505.0
+156	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	219.0	vector control response	3.0	2619.0
+157	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	227.0	vector control ofﬁcers	3.0	2730.0
+158	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	241.0	employee fringe beneﬁts	3.0	2891.0
+159	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	244.0	Additional personnel costs	3.0	2947.0
+160	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	248.0	vector control staff	3.0	2981.0
+161	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	251.0	larvicidesadulticides sub-contracts	3.0	3029.0
+162	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	256.0	Total capital costs	3.0	3096.0
+163	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	274.0	incident management framework	3.0	3350.0
+164	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	274.0	softwareadministration training	3.0	3365.0
+165	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	274.0	pest management licenses	3.0	3372.0
+166	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	274.0	beyondpest control operators	4.0	3386.0
+167	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	301.0	Queenslandbeneﬁt cost ratio	4.0	3623.0
+168	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	313.0	triangular probability distribution	3.0	3780.0
+169	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Middle>	346.0	albopictus eradication strategy	3.0	4078.0
+170	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	438.0	aegypti eradication programs	3.0	5002.0
+171	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	488.0	permanent vector control team	4.0	5686.0
+172	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	492.0	government control programs	3.0	5775.0
+173	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	505.0	activity saltmarsh mosquitoes	3.0	5985.0
+174	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	506.0	mosquito control managers	3.0	6003.0
+175	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	516.0	Worobeyeffective elimination strategy	4.0	6161.0
+176	economics_intros	Quant/Qual	An-Economic-Analysis-of-the-Threats-Posed-by-the-Establishm_2017_Ecological-.txt	<Conclusion>	521.0	vector surveillance activities	3.0	6229.0
+177	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	1.0	energy consumption nexus	3.0	10.0
+178	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	21.0	traditional energy consumption	3.0	264.0
+179	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	27.0	cointegration/VECM/VAR/Granger causality tests	3.0	310.0
+180	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	27.0	studies clariﬁes policy directions	4.0	319.0
+181	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	29.0	seeprevious studies	3.0	363.0
+182	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	73.0	energy type mix	3.0	728.0
+183	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	98.0	residential energy users	3.0	1198.0
+184	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	99.0	“Residential energy conservation	3.0	1213.0
+185	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	99.0	climate change policy	3.0	1228.0
+186	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	102.0	article “Global changes	3.0	1242.0
+187	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	103.0	energy consumption trends	3.0	1290.0
+188	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	109.0	income group panels	3.0	1410.0
+189	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	117.0	residential energy consumption	3.0	1659.0
+190	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	118.0	industrial energy consumption	3.0	1695.0
+191	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	121.0	energy consumption share	3.0	1762.0
+192	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	121.0	energy consumption share	3.0	1778.0
+193	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	129.0	energy consumption share	3.0	1926.0
+194	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	129.0	energy consumption share	3.0	1951.0
+195	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	149.0	high income panel	3.0	2362.0
+196	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	171.0	industrial energy consumption	3.0	2748.0
+197	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	186.0	high income countries	3.0	3095.0
+198	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	194.0	total energy consumption	3.0	3306.0
+199	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	205.0	energy consumption total	3.0	3652.0
+200	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	210.0	Figsrecent resurgence	3.0	3709.0
+201	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	222.0	renewable energy share	3.0	3868.0
+202	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	240.0	renewable-based power generation capacity	4.0	4152.0
+203	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	241.0	wind power market	3.0	4198.0
+204	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	247.0	residential energy consumption	3.0	4258.0
+205	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	249.0	household energy usage	3.0	4304.0
+206	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	251.0	aggregate energy intensity	3.0	4319.0
+207	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	270.0	energy consumption share	3.0	4612.0
+208	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	281.0	household space heating units	4.0	4722.0
+209	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	283.0	gas heating equipment	3.0	4766.0
+210	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	288.0	country's electricity system	3.0	4882.0
+211	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	293.0	AsiaAfrica energy	3.0	4987.0
+212	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	296.0	household energy consumption	3.0	5065.0
+213	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Intro>	299.0	energy conversion technologies	3.0	5107.0
+214	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	340.0	difference GMM estimator	3.0	5542.0
+215	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	363.0	income level categories	3.0	5804.0
+216	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	389.0	high income countries	3.0	6051.0
+217	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	400.0	instance energy efﬁciency	3.0	6309.0
+218	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	403.0	buildings space heating technologies	4.0	6348.0
+219	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	407.0	renewable energy share	3.0	6398.0
+220	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	415.0	energy consumption increases	3.0	6507.0
+221	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	452.0	total energy consumption	3.0	7042.0
+222	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	463.0	labour-intensive production processes	3.0	7261.0
+223	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	486.0	renewable energy consumption	3.0	7639.0
+224	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	500.0	middle income countries	3.0	7868.0
+225	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Middle>	503.0	signiﬁcant government support	3.0	7951.0
+226	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Conclusion>	561.0	energy consumption total	3.0	8902.0
+227	economics_intros	Quant/Qual	An-investigation-of-renewable-and-non-renewable-energy-consumpti_2017_Energy.txt	<Conclusion>	572.0	panel data perspective	3.0	9113.0
+228	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	14.0	Kumarconsiderable uncertainty	3.0	242.0
+229	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	14.0	climate change scenarios	3.0	260.0
+230	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	19.0	water scarcity problems	3.0	410.0
+231	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	29.0	water demand scenario studies	4.0	611.0
+232	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	31.0	different climate change scenarios	4.0	676.0
+233	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	32.0	water intensity coeﬃcients	3.0	717.0
+234	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	33.0	sectoral production functions	3.0	732.0
+235	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	34.0	main research questions	3.0	762.0
+236	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	58.0	surfacegroundwater withdrawals	3.0	1139.0
+237	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	65.0	international staple crop trade	4.0	1318.0
+238	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Intro>	79.0	sustainability water resources	3.0	1460.0
+239	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	81.0	IPCC climate change scenarios	4.0	1502.0
+240	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	83.0	new scenario framework	3.0	1546.0
+241	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	88.0	inputspeciﬁc factor productivity	3.0	1651.0
+242	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	92.0	water stress indices	3.0	1731.0
+243	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	95.0	virtual water scarcity index	4.0	1817.0
+244	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	98.0	Climate change projections	3.0	1842.0
+245	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	98.0	climate change scenarios	3.0	1856.0
+246	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	125.0	population growth rates	3.0	2353.0
+247	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	133.0	day water availability	3.0	2583.0
+248	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	147.0	iv groundwater bodies	3.0	2910.0
+249	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	169.0	Water intensity coeﬃcients	3.0	3436.0
+250	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	169.0	water use category	3.0	3443.0
+251	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	185.0	water supply costs	3.0	3659.0
+252	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	207.0	households water use	3.0	4080.0
+253	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	210.0	Dfdistribution coeﬃcients	3.0	4184.0
+254	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	216.0	water intensity coeﬃcients	3.0	4286.0
+255	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	223.0	virtual water “embedded”	3.0	4448.0
+256	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	226.0	sectoral water usage	3.0	4544.0
+257	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	243.0	improvement water consumption	3.0	4826.0
+258	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	255.0	water management strategies	3.0	5037.0
+259	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	259.0	water intensity coeﬃcients	3.0	5138.0
+260	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	269.0	water stress threshold	3.0	5334.0
+261	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	280.0	moresmallest proportion	3.0	5595.0
+262	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	318.0	Vorosmartysimple algorithm	3.0	6430.0
+263	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	330.0	higher water usage	3.0	6692.0
+264	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Middle>	333.0	water eﬃciency gains	3.0	6837.0
+265	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Conclusion>	379.0	blue water availability estimation	4.0	7915.0
+266	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Conclusion>	383.0	river basin water	3.0	8017.0
+267	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Conclusion>	399.0	different climate scenarios	3.0	8328.0
+268	economics_intros	Quant/Qual	Are-we-in-deep-water--Water-scarcity-and-its-limits-to-_2017_Ecological-Econ.txt	<Conclusion>	402.0	water availability constraints	3.0	8410.0
+269	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	1.0	debt market participants	3.0	15.0
+270	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	1.0	loan contract terms	3.0	31.0
+271	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	11.0	loan contract monitoring	3.0	148.0
+272	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	12.0	loan contract amendments	3.0	188.0
+273	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	19.0	loan contract monitoring beneﬁts	4.0	368.0
+274	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	32.0	borrower credit risk	3.0	559.0
+275	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	37.0	loan contract terms	3.0	604.0
+276	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	44.0	loan contract amendments	3.0	743.0
+277	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	44.0	borrowers’ credit quality	3.0	760.0
+278	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	67.0	abnormal loan returns	3.0	1180.0
+279	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	67.0	operating cash ﬂows	3.0	1220.0
+280	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	83.0	loan contract amendments	3.0	1557.0
+281	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	90.0	accounting-based performance covenants	3.0	1761.0
+282	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	90.0	loan contract features	3.0	1770.0
+283	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	99.0	loan contract amendment	3.0	1875.0
+284	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	102.0	loan contract amendment frequency	4.0	1962.0
+285	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	103.0	loan contract terms	3.0	1996.0
+286	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	114.0	Loan contract monitoring	3.0	2095.0
+287	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	116.0	goal loan contracts	3.0	2123.0
+288	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	116.0	transfer control rights	3.0	2144.0
+289	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	123.0	loan contract terms	3.0	2234.0
+290	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	132.0	Most loan contracts	3.0	2366.0
+291	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	140.0	theoretical disclosure literature	3.0	2504.0
+292	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	143.0	loan contract term	3.0	2589.0
+293	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	145.0	loan contract monitoring beneﬁts	4.0	2635.0
+294	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	154.0	ﬁnancial statement line	3.0	2772.0
+295	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	158.0	Prior debt contracting research	4.0	2830.0
+296	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	181.0	prior research shows	3.0	3158.0
+297	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	181.0	loan contract monitoring	3.0	3163.0
+298	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	181.0	borrower credit risk	3.0	3179.0
+299	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	183.0	loan contract terms	3.0	3218.0
+300	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	187.0	prior research shows	3.0	3321.0
+301	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	187.0	loan contract monitoring	3.0	3326.0
+302	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	189.0	Borrower-lender information asymmetry	3.0	3353.0
+303	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	195.0	loan contract terms	3.0	3496.0
+304	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	196.0	example interest coverage covenants	4.0	3529.0
+305	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	199.0	borrower credit risk	3.0	3569.0
+306	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	199.0	loan contract terms	3.0	3577.0
+307	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	205.0	loan contract amendments	3.0	3643.0
+308	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	205.0	borrower credit quality	3.0	3660.0
+309	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	209.0	Loan contract amendments	3.0	3706.0
+310	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	214.0	borrower credit risk	3.0	3872.0
+311	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	217.0	loan contract amendments	3.0	3950.0
+312	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	218.0	loan contract terms	3.0	3964.0
+313	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	218.0	loan contract terms	3.0	3987.0
+314	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	253.0	secondary loan market	3.0	4722.0
+315	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	260.0	abnormal loan returns	3.0	4889.0
+316	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	260.0	operating cash ﬂows	3.0	4911.0
+317	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	264.0	abnormal loan returns	3.0	4957.0
+318	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Intro>	264.0	operating cash ﬂows	3.0	4987.0
+319	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	272.0	private information covenants	3.0	5130.0
+320	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	276.0	aﬃrmative covenant section	3.0	5149.0
+321	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	283.0	reportable pension plan changes	4.0	5263.0
+322	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	284.0	common umbrella requirement	3.0	5273.0
+323	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	285.0	borrowers’ loan contracts	3.0	5292.0
+324	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	285.0	borrower reporting covenants	3.0	5297.0
+325	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	291.0	borrowers’ accounting performance	3.0	5414.0
+326	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	294.0	information covenant measure	3.0	5491.0
+327	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	297.0	borrower reporting covenant sections	4.0	5548.0
+328	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	300.0	reporting covenant sections	3.0	5619.0
+329	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	308.0	private information covenants	3.0	5748.0
+330	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	310.0	same identiﬁcation algorithm	3.0	5803.0
+331	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	318.0	deal-level loan amount	3.0	5959.0
+332	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	332.0	sample loan contracts	3.0	6099.0
+333	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	343.0	loan contract terms	3.0	6223.0
+334	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	350.0	borrowers’ growth options	3.0	6334.0
+335	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	353.0	information asymmetry measures	3.0	6445.0
+336	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	354.0	loan contract terms	3.0	6468.0
+337	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	355.0	maximum amount borrowable	3.0	6508.0
+338	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	356.0	borrowers’ accounting performance	3.0	6531.0
+339	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	357.0	borrower income statement	3.0	6567.0
+340	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	357.0	borrowers’ balance sheet	3.0	6596.0
+341	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	358.0	loan pricing terms	3.0	6606.0
+342	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	358.0	performance pricing provisions	3.0	6622.0
+343	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	364.0	loan contract features	3.0	6755.0
+344	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	365.0	performance Return Volatility	3.0	6801.0
+345	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	365.0	Cash Flow Volatility	3.0	6809.0
+346	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	366.0	borrower-lender information asymmetry	3.0	6828.0
+347	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	379.0	loan contract terms	3.0	7047.0
+348	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	383.0	Cash Flow Volatility	3.0	7186.0
+349	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	384.0	Cash Flow Volatility	3.0	7226.0
+350	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	392.0	Cash Flow Volatility	3.0	7471.0
+351	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	397.0	borrowing base loan contract	4.0	7626.0
+352	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	398.0	loan contract terms	3.0	7685.0
+353	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	407.0	loan contract amendments	3.0	7797.0
+354	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	424.0	information covenant measures	3.0	7996.0
+355	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	425.0	overall hazard rate	3.0	8030.0
+356	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	431.0	original loan contracts	3.0	8239.0
+357	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	431.0	loan contract amendments	3.0	8258.0
+358	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	437.0	new loan contracts	3.0	8352.0
+359	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	455.0	borrower information covenant	3.0	8714.0
+360	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	457.0	loan contract amendments	3.0	8771.0
+361	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	475.0	cumulative probability rises	3.0	9052.0
+362	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	484.0	borrowers’ cash flow	3.0	9265.0
+363	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	485.0	abnormal loan return	3.0	9300.0
+364	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	485.0	trading day period	3.0	9308.0
+365	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	488.0	deflated cash flow	3.0	9332.0
+366	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	490.0	borrowers’ loan returns	3.0	9358.0
+367	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	493.0	post-earnings announcement projections	3.0	9496.0
+368	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	494.0	loan market prices	3.0	9550.0
+369	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	496.0	projection delivery dates	3.0	9565.0
+370	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	511.0	earnings announcement date	3.0	9967.0
+371	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	511.0	earnings announcement date	3.0	9998.0
+372	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	511.0	earnings announcement date	3.0	10002.0
+373	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	512.0	loan market returns	3.0	10034.0
+374	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	523.0	market loan prices	3.0	10215.0
+375	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	537.0	loan contract features	3.0	10537.0
+376	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	540.0	Borrower credit risk	3.0	10551.0
+377	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	541.0	borrower credit risk	3.0	10580.0
+378	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	541.0	borrower credit risk	3.0	10598.0
+379	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	543.0	loan interest rate	3.0	10641.0
+380	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	544.0	borrower credit risk	3.0	10678.0
+381	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	552.0	lender information requests	3.0	10825.0
+382	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	555.0	maximum loan spreads	3.0	10884.0
+383	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	563.0	loan contract terms	3.0	11027.0
+384	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	565.0	borrower information covenant	3.0	11075.0
+385	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	570.0	lead lender ﬁxed-effects	3.0	11124.0
+386	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	570.0	information covenant determinant tests	4.0	11130.0
+387	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	571.0	JAE conference participants	3.0	11142.0
+388	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	572.0	loan syndicate structure	3.0	11162.0
+389	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Middle>	574.0	bank lead lenders	3.0	11177.0
+390	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	579.0	prior research ﬁnds	3.0	11255.0
+391	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	582.0	ﬁnancial statement information	3.0	11360.0
+392	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	583.0	loan contract monitoring purposes	4.0	11400.0
+393	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	583.0	loan funding ﬁrms	3.0	11425.0
+394	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	584.0	loan contract monitoring beneﬁts	4.0	11455.0
+395	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	593.0	abnormal loan returns	3.0	11699.0
+396	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	593.0	operating cash ﬂows	3.0	11730.0
+397	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	595.0	lenders’ loan contract monitoring	4.0	11782.0
+398	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	599.0	loan contract terms	3.0	11876.0
+399	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	601.0	lenders’ contract monitoring incentives	4.0	11939.0
+400	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	605.0	stock market reaction	3.0	12029.0
+401	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	606.0	loan contract features	3.0	12086.0
+402	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	608.0	capital markets literature	3.0	12161.0
+403	economics_intros	Quant/Qual	Borrower-private-information-covenants-and-loa_2017_Journal-of-Accounting-an.txt	<Conclusion>	612.0	yield capital market beneﬁts	4.0	12188.0
+404	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	22.0	renewable energy source	3.0	518.0
+405	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	23.0	conventional fossil fuels	3.0	532.0
+406	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	25.0	biomass energy consumption	3.0	596.0
+407	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	28.0	biomass energy consumption	3.0	659.0
+408	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	30.0	biomass energy consumption	3.0	679.0
+409	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	32.0	break unit root test	4.0	727.0
+410	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	32.0	unit root properties	3.0	733.0
+411	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	33.0	bounds testing approach	3.0	742.0
+412	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	38.0	biomass energy consumption	3.0	832.0
+413	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	40.0	biomass energy consumption	3.0	863.0
+414	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	48.0	Biomass energy consumption	3.0	937.0
+415	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	56.0	Burrittpotential beneﬁts	3.0	1102.0
+416	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	56.0	greenhouse gases emissions	3.0	1138.0
+417	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	64.0	Most electricity generation	3.0	1275.0
+418	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	76.0	ample state ﬂexibility	3.0	1469.0
+419	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	76.0	deadlines market trading mechanisms	4.0	1480.0
+420	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	79.0	Eastinsecond policy	3.0	1546.0
+421	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	80.0	greenhouse gases emissions	3.0	1605.0
+422	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	93.0	carbon dioxide emissions	3.0	1863.0
+423	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	115.0	mono nitrogen oxides	3.0	2172.0
+424	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	169.0	capita energy consumption	3.0	3207.0
+425	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	180.0	biomass energy consumption	3.0	3349.0
+426	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	184.0	hand fossil fuel consumption	4.0	3401.0
+427	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	185.0	wavelet coherence approach	3.0	3415.0
+428	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	185.0	biomass energy consumption	3.0	3422.0
+429	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	185.0	biomass energy consumption	3.0	3434.0
+430	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	186.0	biomass energy consumption	3.0	3453.0
+431	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Intro>	188.0	biomass energy consumption	3.0	3511.0
+432	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	190.0	biomass energy consumption	3.0	3558.0
+433	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	193.0	constantUS$ exports	3.0	3586.0
+434	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	195.0	Biomass energy consumption	3.0	3619.0
+435	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	198.0	biomass energy consumption	3.0	3662.0
+436	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	204.0	coal carbon emissions	3.0	3776.0
+437	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	205.0	energy carbon emissions	3.0	3799.0
+438	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	207.0	biomass energy consumption	3.0	3873.0
+439	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	210.0	biomass energy consumption	3.0	3942.0
+440	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	229.0	applied economics literature	3.0	4247.0
+441	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	229.0	bounds testing approach	3.0	4272.0
+442	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	232.0	bounds testing approach	3.0	4317.0
+443	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	252.0	bounds testing approach	3.0	4609.0
+444	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	263.0	vector error correction model	4.0	4736.0
+445	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	276.0	biomass energy consumption	3.0	4887.0
+446	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	280.0	Biomass energy consumption	3.0	4966.0
+447	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	283.0	unit root properties	3.0	5032.0
+448	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	283.0	unit root test	3.0	5048.0
+449	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	285.0	unit root test	3.0	5097.0
+450	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	285.0	unit root test	3.0	5112.0
+451	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	286.0	unit root test	3.0	5143.0
+452	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	300.0	unit root problem	3.0	5424.0
+453	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	303.0	bounds testing approach	3.0	5481.0
+454	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	304.0	lag order selection	3.0	5516.0
+455	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	307.0	computed ARDL-F statistic	3.0	5562.0
+456	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	311.0	maximum likelihood cointegration test	4.0	5677.0
+457	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	312.0	maximum Eigen value	3.0	5717.0
+458	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	317.0	biomass energy consumption	3.0	5840.0
+459	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	331.0	carbon emissions function	3.0	5997.0
+460	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	334.0	asexports imports	3.0	6071.0
+461	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	349.0	biomass energy consumption	3.0	6358.0
+462	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	361.0	cubic carbon emissions	3.0	6511.0
+463	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	364.0	trade openness variables	3.0	6529.0
+464	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	370.0	cubic carbon emissions	3.0	6587.0
+465	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	387.0	biomass energy consumption	3.0	6785.0
+466	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	387.0	biomass energy consumption	3.0	6797.0
+467	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	388.0	Tablesunidirectional causality	3.0	6808.0
+468	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	391.0	Biomass energy consumption	3.0	6871.0
+469	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	395.0	biomass energy consumption	3.0	6919.0
+470	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	398.0	biomass energy consumption	3.0	6961.0
+471	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	398.0	biomass energy consumption	3.0	6965.0
+472	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Middle>	401.0	cause biomass energy	3.0	7028.0
+473	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	411.0	carbon emissions functions	3.0	7158.0
+474	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	412.0	CMR unit root test	4.0	7200.0
+475	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	413.0	bounds testing approach	3.0	7219.0
+476	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	416.0	combat carbon emissions	3.0	7305.0
+477	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	418.0	biomass energy consumption	3.0	7373.0
+478	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	425.0	biomass energy consumption	3.0	7537.0
+479	economics_intros	Quant/Qual	Bounds-testing-approach-to-analyzing-the-environment-Kuznets-cur_2017_Energy.txt	<Conclusion>	436.0	facts policy makers	3.0	7780.0
+480	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	1.0	airlines' energy costs	3.0	22.0
+481	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	26.0	multi-criteria decisionmaking models	3.0	314.0
+482	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	36.0	airline research studies	3.0	436.0
+483	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	48.0	fuel efﬁciency differences	3.0	614.0
+484	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	97.0	air transport business	3.0	1489.0
+485	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	106.0	Jiangforeign investment	3.0	1718.0
+486	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Intro>	126.0	airline efﬁciency studies	3.0	2058.0
+487	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	155.0	whetherairline ﬂies	3.0	2396.0
+488	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	156.0	airline efﬁciency levels	3.0	2447.0
+489	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	157.0	airline efﬁciency levels	3.0	2493.0
+490	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	160.0	key success factor	3.0	2562.0
+491	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	175.0	ﬁtting probability distributions	3.0	2835.0
+492	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	186.0	tail dependence structure	3.0	3021.0
+493	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	210.0	different dependence parameters	3.0	3488.0
+494	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	244.0	Charnesnetwork model	3.0	4174.0
+495	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	252.0	cfnoncooperative game approach	4.0	4363.0
+496	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	260.0	efﬁciency decomposition problem	3.0	4566.0
+497	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	266.0	Bi-level programming problem	3.0	4599.0
+498	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	267.0	Bi-level programming problem	3.0	4623.0
+499	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	268.0	level decision maker	3.0	4681.0
+500	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	269.0	ﬁrst decision maker	3.0	4692.0
+501	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	312.0	iteration efﬁciency scores	3.0	5504.0
+502	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	318.0	most regression approaches	3.0	5582.0
+503	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Middle>	320.0	robust regression approach	3.0	5640.0
+504	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	355.0	higher utilization rate	3.0	6231.0
+505	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	361.0	stochastic efﬁciency scores	3.0	6383.0
+506	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	368.0	speciﬁc regression type	3.0	6589.0
+507	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	383.0	copula generator type	3.0	6894.0
+508	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	412.0	customer service levels practices	4.0	7579.0
+509	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	413.0	Chinese stock market	3.0	7597.0
+510	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	418.0	carbon dioxide emissions	3.0	7731.0
+511	economics_intros	Quant/Qual	Chinese-airline-efficiency-under-CO2-emissions-and-flight-de_2017_Energy-Eco.txt	<Conclusion>	426.0	more airline companies	3.0	7943.0
+512	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	12.0	bank’s lending concentration	3.0	255.0
+513	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	13.0	information collection practices	3.0	275.0
+514	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	21.0	borrower monitoring techniques	3.0	454.0
+515	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	23.0	statement collection records	3.0	521.0
+516	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	30.0	banks’ audit collection	3.0	609.0
+517	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	31.0	statement collection records	3.0	638.0
+518	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	38.0	statement collection rate	3.0	803.0
+519	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	46.0	borrower audit rates	3.0	905.0
+520	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	46.0	borrower audit rates	3.0	920.0
+521	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	52.0	bank market competition	3.0	1057.0
+522	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	53.0	adverse selection concerns	3.0	1081.0
+523	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	57.0	bank market competition	3.0	1189.0
+524	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	66.0	incremental audit collection rate declines	5.0	1410.0
+525	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	77.0	audit veriﬁcation strategy	3.0	1708.0
+526	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	103.0	loan portfolio exposures	3.0	2154.0
+527	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	106.0	bank’s monitoring effectiveness	3.0	2200.0
+528	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	110.0	agency cost framework	3.0	2258.0
+529	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	117.0	bank default risk	3.0	2370.0
+530	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	123.0	lenders’ expansion decisions	3.0	2458.0
+531	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	131.0	[B]ankssound credits	3.0	2555.0
+532	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	137.0	regulatory documents detail	3.0	2662.0
+533	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Intro>	158.0	available expert banks	3.0	3052.0
+534	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	167.0	statement collection practices	3.0	3220.0
+535	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	172.0	RMA sample ﬁrms	3.0	3296.0
+536	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	192.0	cumulative borrower sales	3.0	3743.0
+537	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	193.0	screening meaning statements	3.0	3785.0
+538	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	234.0	Cumulative borrower sales	3.0	4434.0
+539	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	235.0	borrower ﬁrm size	3.0	4458.0
+540	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	251.0	bank C&I exposure concentrations	4.0	4782.0
+541	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	255.0	commercial loan exposure bank	4.0	4849.0
+542	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	267.0	exposure concentration measures	3.0	5060.0
+543	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	267.0	exposure concentration statistics	3.0	5070.0
+544	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	269.0	statement collection practices	3.0	5094.0
+545	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	289.0	loan exposure concentration	3.0	5411.0
+546	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	294.0	information loan oﬃcers	3.0	5490.0
+547	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	305.0	borrower size group	3.0	5663.0
+548	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	314.0	“Concentration tercile differences	3.0	5805.0
+549	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	314.0	bank size tercile”	3.0	5811.0
+550	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	314.0	exposure concentration terciles	3.0	5821.0
+551	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	314.0	bank size tercile	3.0	5828.0
+552	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	341.0	audited statement collection	3.0	6292.0
+553	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	343.0	aggregate borrower sales	3.0	6332.0
+554	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	345.0	ﬁrm size controls	3.0	6397.0
+555	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	347.0	bank’s industry expertise	3.0	6450.0
+556	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	357.0	competitive banking markets	3.0	6654.0
+557	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	362.0	result industry expertise	3.0	6853.0
+558	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	363.0	table performance dispersion	3.0	6888.0
+559	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	380.0	setting lead arrangers	3.0	7157.0
+560	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	395.0	industry expert banks	3.0	7450.0
+561	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	396.0	bank’s industry expertise	3.0	7471.0
+562	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	397.0	loan setting studies	3.0	7492.0
+563	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	402.0	standard deviation increase	3.0	7581.0
+564	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	418.0	Audited statement collection	3.0	7864.0
+565	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	431.0	percentage point change	3.0	8222.0
+566	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	434.0	dividecoeﬃcient estimate	3.0	8245.0
+567	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	446.0	cluster standard errors	3.0	8497.0
+568	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	452.0	incremental audit rate	3.0	8594.0
+569	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	462.0	housing market boom	3.0	8793.0
+570	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	466.0	construction demand shift	3.0	8885.0
+571	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	467.0	audit collection rates	3.0	8911.0
+572	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	469.0	housing boom change	3.0	8971.0
+573	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	469.0	construction loan exposure	3.0	8976.0
+574	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	474.0	ﬁrst sample year	3.0	9091.0
+575	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	475.0	tests bank exposures	3.0	9139.0
+576	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	487.0	construction industry observations	3.0	9473.0
+577	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	487.0	cluster standard errors	3.0	9493.0
+578	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	505.0	bank’s portfolio concentration	3.0	9914.0
+579	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Middle>	505.0	information collection strategies	3.0	9918.0
+580	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Conclusion>	529.0	lending portfolio concentration	3.0	10444.0
+581	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Conclusion>	534.0	information collection practices	3.0	10563.0
+582	economics_intros	Quant/Qual	Commercial-lending-concentration-and-bank-expertise-_2017_Journal-of-Account.txt	<Conclusion>	545.0	recent disclosure regulation research	4.0	10766.0
+583	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	5.0	land availability constraints	3.0	109.0
+584	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	52.0	choice modeling methodology	3.0	1178.0
+585	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	86.0	hypothetical donation choices	3.0	1706.0
+586	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	86.0	climate change mitigation	3.0	1735.0
+587	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	102.0	pest management practices	3.0	2107.0
+588	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	116.0	Kahnemanhuman action	3.0	2320.0
+589	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	152.0	ABOS contract characteristics	3.0	2942.0
+590	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	182.0	lengthcontract contract cancellation	4.0	3506.0
+591	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	187.0	forest management options	3.0	3569.0
+592	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	198.0	land use change	3.0	3771.0
+593	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Intro>	210.0	biodiversity offsets program carried-out	4.0	4079.0
+594	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Middle>	214.0	choice experiment questions	3.0	4174.0
+595	economics_intros	Quant/Qual	Compensating-Environmental-Losses-Versus-Creating-Environmen_2017_Ecological.txt	<Middle>	238.0	sample choice set	3.0	4582.0
+596	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	5.0	Marontheoretical assumption	3.0	32.0
+597	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	30.0	biodiversity compensation requirements	3.0	545.0
+598	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	53.0	background biodiversity trends	3.0	937.0
+599	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	54.0	say biodiversity gains	3.0	963.0
+600	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	57.0	background biodiversity trend	3.0	1008.0
+601	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	66.0	survey respondent group	3.0	1164.0
+602	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	71.0	phrases “biodiversity offset”	3.0	1261.0
+603	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	78.0	elicited conservation offsets	3.0	1388.0
+604	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Intro>	86.0	forest habitat cover trend	4.0	1491.0
+605	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	126.0	ﬁrst forest habitat	3.0	2248.0
+606	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	159.0	central limit theorem	3.0	2651.0
+607	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	175.0	Average participant age	3.0	2876.0
+608	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	176.0	average participant age	3.0	2886.0
+609	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	177.0	average participant age	3.0	2897.0
+610	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	188.0	nature conservation activities	3.0	3100.0
+611	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	224.0	more forest creation	3.0	3546.0
+612	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	232.0	forest cover “will	3.0	3699.0
+613	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Middle>	251.0	Figfact Columns	3.0	3884.0
+614	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	319.0	more forest creation	3.0	4591.0
+615	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	323.0	NNL policy principles	3.0	4698.0
+616	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	335.0	forest creation efforts	3.0	4928.0
+617	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	338.0	less forest creation	3.0	4955.0
+618	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	343.0	ii nature conservation	3.0	5072.0
+619	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	352.0	withcompensation requirements	3.0	5241.0
+620	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	378.0	species habitat losses	3.0	5708.0
+621	economics_intros	Quant/Qual	Counterintuitive-Proposals-for-Trans-boundary-Ecological-Com_2017_Ecological.txt	<Conclusion>	385.0	nature conservation gains	3.0	5769.0
+622	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	2.0	gas supply disruptions	3.0	25.0
+623	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	2.0	power generation shortages	3.0	33.0
+624	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	42.0	countries’ time series	3.0	511.0
+625	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	43.0	energy sector’s output disruption	4.0	548.0
+626	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	44.0	energy production disruptions	3.0	567.0
+627	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	46.0	resource recovery investments	3.0	668.0
+628	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	51.0	modelling energy resilience	3.0	823.0
+629	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	58.0	critical energy disruptions	3.0	952.0
+630	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	62.0	brute force scenario enumeration	4.0	996.0
+631	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	76.0	energy supply bottleneck	3.0	1248.0
+632	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	77.0	energy supply reductions	3.0	1275.0
+633	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	78.0	Input-Output linear program	3.0	1289.0
+634	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	81.0	theoretical route map	3.0	1372.0
+635	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	90.0	production disruption level	3.0	1672.0
+636	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	105.0	production capacity bottlenecks	3.0	1956.0
+637	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	111.0	energy supply disruption	3.0	2053.0
+638	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	112.0	energy imports resilience evaluation	4.0	2098.0
+639	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	113.0	recovery effort concept	3.0	2128.0
+640	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	114.0	dependencies energy production disruptions	4.0	2162.0
+641	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	128.0	production capacity recovery	3.0	2346.0
+642	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	129.0	demand deﬁcit level	3.0	2388.0
+643	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	130.0	non-negative recovery rate	3.0	2404.0
+644	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	142.0	capacity recovery model	3.0	2596.0
+645	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	145.0	production capacity recovery	3.0	2630.0
+646	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	155.0	buffer production capacity	3.0	2843.0
+647	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	167.0	[aij]The output recovery path	4.0	2974.0
+648	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	174.0	total demand deﬁcits	3.0	3103.0
+649	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	176.0	sector demand deﬁcits	3.0	3125.0
+650	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	180.0	total demand deﬁcits	3.0	3216.0
+651	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	195.0	reality production disruptions	3.0	3352.0
+652	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	210.0	production disruption scenario	3.0	3559.0
+653	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	210.0	maximum demand deﬁcit	3.0	3565.0
+654	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	218.0	maximum demand deﬁcits	3.0	3679.0
+655	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	234.0	energy recovery resilience	3.0	3888.0
+656	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	246.0	maximum demand deﬁcits	3.0	3991.0
+657	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	253.0	critical disruption scenario	3.0	4081.0
+658	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	257.0	recovery rate coeﬃcients	3.0	4167.0
+659	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	265.0	recovery rate parameters	3.0	4264.0
+660	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	266.0	maximum demand deﬁcits	3.0	4304.0
+661	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	267.0	production restoration efforts	3.0	4334.0
+662	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	271.0	recovery rate parameters	3.0	4417.0
+663	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	274.0	energy recovery resilience	3.0	4454.0
+664	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	279.0	production recovery capability	3.0	4555.0
+665	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	288.0	switching power generation	3.0	4657.0
+666	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	324.0	product terms kisi	3.0	5156.0
+667	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	327.0	plane solution procedure	3.0	5244.0
+668	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	331.0	comprehensive energy supply system	4.0	5291.0
+669	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	345.0	deﬁcit budget levels	3.0	5442.0
+670	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	362.0	current deﬁcit budget	3.0	5753.0
+671	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	371.0	large-scale coal production bases	4.0	5950.0
+672	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	372.0	new coal production centres	4.0	5965.0
+673	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	374.0	China’s coal production	3.0	6020.0
+674	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	376.0	coal cleaning technology	3.0	6054.0
+675	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	377.0	power generation technology	3.0	6079.0
+676	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	378.0	recovery resilience situation	3.0	6096.0
+677	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	378.0	recovery rate parameters	3.0	6105.0
+678	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	380.0	disruption severity levels	3.0	6139.0
+679	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	402.0	most power generation	3.0	6429.0
+680	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	404.0	power outage cases	3.0	6478.0
+681	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	408.0	recovery rate parameters	3.0	6575.0
+682	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	417.0	metal ores sector	3.0	6698.0
+683	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	440.0	technology eﬃciency improvements	3.0	7121.0
+684	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	440.0	demand deﬁcits reduction	3.0	7129.0
+685	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	441.0	jth column vector	3.0	7140.0
+686	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	444.0	top ﬁve sectors	3.0	7219.0
+687	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	446.0	power generation technology eﬃciency	4.0	7283.0
+688	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	448.0	electricity production disruption	3.0	7332.0
+689	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Intro>	448.0	production eﬃciency improvement	3.0	7337.0
+690	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	455.0	energy recovery resilience	3.0	7533.0
+691	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	457.0	disruption production recovery	3.0	7568.0
+692	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	459.0	energy security outlook	3.0	7616.0
+693	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	462.0	power generation assets	3.0	7678.0
+694	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	466.0	economy’s energy resilience status quo	5.0	7758.0
+695	economics_intros	Quant/Qual	Energy-economic-recovery-resilience-with-Input-Output-linea_2017_Energy-Econ.txt	<Conclusion>	468.0	complicated recovery models	3.0	7791.0
+696	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	7.0	China's energy consumption	3.0	79.0
+697	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	14.0	largest carbon dioxide emitter	4.0	243.0
+698	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	19.0	country's interior regions	3.0	345.0
+699	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	20.0	technology diffusion model	3.0	406.0
+700	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	24.0	capita output level	3.0	495.0
+701	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	25.0	capita output growth rate	4.0	522.0
+702	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	37.0	weighted distribution dynamics	3.0	739.0
+703	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	38.0	energy consumption intensity	3.0	787.0
+704	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	40.0	unit root test techniques	4.0	828.0
+705	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	42.0	similar unit root tests	4.0	887.0
+706	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	42.0	capita energy consumption	3.0	914.0
+707	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	44.0	capita energy consumption	3.0	949.0
+708	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	47.0	time series method	3.0	1011.0
+709	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	49.0	convergence test method	3.0	1068.0
+710	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	49.0	carbon dioxide emissions	3.0	1075.0
+711	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	51.0	capita energy consumption	3.0	1124.0
+712	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	52.0	capita energy consumption	3.0	1154.0
+713	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	54.0	total energy consumption	3.0	1197.0
+714	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	55.0	capita energy consumption	3.0	1216.0
+715	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	59.0	capita energy consumption	3.0	1355.0
+716	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	63.0	capita energy consumption	3.0	1431.0
+717	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	66.0	second section brieﬂy	3.0	1479.0
+718	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	102.0	capita electricity use	3.0	1924.0
+719	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	118.0	capita energy consumption	3.0	2191.0
+720	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	118.0	capita energy consumption	3.0	2211.0
+721	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	150.0	LeSagespatial correlation	3.0	2672.0
+722	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	164.0	spatial weights matrix	3.0	2892.0
+723	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	169.0	per energy consumption	3.0	2977.0
+724	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	170.0	regional spillover effect	3.0	3002.0
+725	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	173.0	LeSagespatial dependence	3.0	3066.0
+726	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	175.0	spatial lag model	3.0	3108.0
+727	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	190.0	province's energy consumption	3.0	3327.0
+728	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	192.0	common regression methods	3.0	3368.0
+729	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	192.0	maximum likelihood estimation	3.0	3375.0
+730	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	192.0	quasi-maximum likelihood estimation	3.0	3380.0
+731	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	217.0	lower growth rate	3.0	3707.0
+732	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	221.0	capita energy consumption	3.0	3772.0
+733	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	225.0	carbon dioxide emissions	3.0	3855.0
+734	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	226.0	capita energy consumption	3.0	3873.0
+735	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	236.0	Duexport commodities	3.0	4064.0
+736	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	244.0	Madariagapotential inﬂuences	3.0	4247.0
+737	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	247.0	technology spillover effect	3.0	4332.0
+738	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	247.0	energy use efﬁciency	3.0	4357.0
+739	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	265.0	capita energy consumption	3.0	4526.0
+740	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	268.0	capita energy consumption	3.0	4570.0
+741	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	268.0	capita energy consumption	3.0	4586.0
+742	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	269.0	capita energy consumption	3.0	4604.0
+743	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	287.0	extent reﬂects club	3.0	4960.0
+744	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	290.0	capita energy consumption	3.0	5034.0
+745	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	294.0	capita energy consumption	3.0	5097.0
+746	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	295.0	capita energy consumption	3.0	5119.0
+747	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	304.0	unit root test	3.0	5236.0
+748	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	305.0	time series dimension	3.0	5268.0
+749	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	306.0	unit root tests	3.0	5284.0
+750	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	316.0	panel cointegration tests	3.0	5513.0
+751	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	317.0	panel ADF cointegration	3.0	5527.0
+752	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	318.0	unit root tests	3.0	5571.0
+753	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	319.0	unit root tests	3.0	5611.0
+754	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	320.0	panel cointegration test	3.0	5629.0
+755	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	326.0	ﬁxed effect estimation	3.0	5711.0
+756	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	329.0	capita energy consumption	3.0	5783.0
+757	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	332.0	capita energy consumption	3.0	5852.0
+758	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	340.0	capita energy consumption	3.0	5967.0
+759	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	342.0	same calculation method	3.0	6015.0
+760	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	352.0	capita energy consumption	3.0	6172.0
+761	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	353.0	capita energy consumption	3.0	6186.0
+762	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	361.0	capita energy consumption	3.0	6347.0
+763	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	378.0	spatial spillover effect	3.0	6761.0
+764	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	383.0	capita energy consumption	3.0	6874.0
+765	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	387.0	provinces' energy consumptions	3.0	7003.0
+766	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	388.0	air pollutant emissions	3.0	7023.0
+767	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	405.0	benchmark equation model	3.0	7365.0
+768	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Intro>	417.0	simple robustness check	3.0	7549.0
+769	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	424.0	capita energy consumption	3.0	7755.0
+770	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	428.0	contrast population density	3.0	7820.0
+771	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	430.0	capita energy consumption	3.0	7873.0
+772	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	432.0	capita energy consumption	3.0	7924.0
+773	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	433.0	emissions reduction policies	3.0	7956.0
+774	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	434.0	capita energy consumption	3.0	7976.0
+775	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	438.0	capita energy consumption	3.0	8080.0
+776	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	438.0	capita energy consumption	3.0	8091.0
+777	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	439.0	China's energy consumption	3.0	8152.0
+778	economics_intros	Quant/Qual	On-the-convergence-in-China-s-provincial-per-capita-energy-con_2017_Energy-E.txt	<Conclusion>	447.0	higher trade openness	3.0	8320.0
+779	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	8.0	household energy consumption	3.0	182.0
+780	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	17.0	hourly household level dataset	4.0	304.0
+781	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	21.0	many engineering papers	3.0	395.0
+782	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	25.0	average emissions analysis	3.0	466.0
+783	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	34.0	air quality effects	3.0	562.0
+784	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	50.0	gas combustion turbine generators	4.0	752.0
+785	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	50.0	coal steam turbine generators	4.0	766.0
+786	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	62.0	independent system operator	3.0	960.0
+787	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	65.0	gas power plants	3.0	1035.0
+788	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	66.0	grid electricity consumption	3.0	1049.0
+789	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Intro>	73.0	bias emission impact	3.0	1170.0
+790	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	107.0	hourly grid electricity	3.0	1772.0
+791	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	111.0	highresolution data monitoring equipment	4.0	1844.0
+792	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	111.0	energy consumption data	3.0	1849.0
+793	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	111.0	energy generation data	3.0	1853.0
+794	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	115.0	Hourly generation data	3.0	1961.0
+795	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	115.0	data aggregation malfunctions	3.0	1971.0
+796	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	120.0	household consumption data	3.0	2065.0
+797	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	140.0	household level data	3.0	2426.0
+798	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	141.0	household electricity consumption	3.0	2462.0
+799	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	141.0	grid electricity consumption	3.0	2471.0
+800	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	147.0	water consumption factors	3.0	2534.0
+801	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	164.0	grid electricity consumption	3.0	2766.0
+802	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	165.0	water consumption intensity	3.0	2798.0
+803	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	172.0	water consumption rates	3.0	2971.0
+804	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	184.0	effects regression model	3.0	3200.0
+805	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	198.0	generation interaction term	3.0	3412.0
+806	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	206.0	electric vehicle owners	3.0	3546.0
+807	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	206.0	household budget constraint	3.0	3567.0
+808	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	220.0	most rebound effect estimates	4.0	3781.0
+809	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	223.0	solar rebound effectwe	3.0	3849.0
+810	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	245.0	generator emissions data	3.0	4104.0
+811	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	246.0	grid generator load	3.0	4145.0
+812	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	255.0	grid generator load	3.0	4321.0
+813	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	259.0	grid generator load	3.0	4393.0
+814	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	263.0	grid generator load	3.0	4446.0
+815	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	264.0	linear regression model	3.0	4465.0
+816	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	266.0	grid generator load	3.0	4512.0
+817	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	269.0	marginal carbon intensity	3.0	4540.0
+818	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	275.0	marginal emission rates	3.0	4647.0
+819	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	276.0	base load generation	3.0	4724.0
+820	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	277.0	grid generator load quantile bins	5.0	4745.0
+821	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	278.0	marginal emission rates	3.0	4792.0
+822	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	292.0	water consumption rates	3.0	5019.0
+823	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	293.0	cycle power plants	3.0	5058.0
+824	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	294.0	grid generator load	3.0	5086.0
+825	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	299.0	grid generator load	3.0	5175.0
+826	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	301.0	water consumption rates	3.0	5223.0
+827	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	301.0	water consumption rates	3.0	5235.0
+828	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	302.0	water consumption rates	3.0	5265.0
+829	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	305.0	natural gas combustion turbines	4.0	5330.0
+830	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	308.0	average fuel/technology type	3.0	5422.0
+831	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	310.0	gas steam turbine	3.0	5465.0
+832	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	314.0	marginal water consumption rates	4.0	5518.0
+833	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Middle>	333.0	same production price	3.0	5818.0
+834	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	383.0	household summer electricity usage	4.0	6534.0
+835	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	384.0	households' grid electricity consumption	4.0	6547.0
+836	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	385.0	grid electricity consumption	3.0	6571.0
+837	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	432.0	relative sample sizes	3.0	7280.0
+838	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	436.0	capacity southfacing panels	3.0	7314.0
+839	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	454.0	large system beneﬁts	3.0	7602.0
+840	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	518.0	water consumption impact	3.0	8636.0
+841	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	528.0	water consumption beneﬁt	3.0	8828.0
+842	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	546.0	lifecycle water impacts	3.0	9089.0
+843	economics_intros	Quant/Qual	The-environmental-impacts-of-green-technologies-in-TX_2017_Energy-Economics.txt	<Conclusion>	547.0	estimate vehicle lifecycle water consumption	5.0	9108.0
+844	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	26.0	Mirrleescarbon taxes	3.0	252.0
+845	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	27.0	van den Bergh	3.0	259.0
+846	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	30.0	carbon tax incidence	3.0	327.0
+847	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	54.0	home heating method	3.0	640.0
+848	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	60.0	household’s carbon tax	3.0	755.0
+849	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	76.0	carbon tax incidence	3.0	1003.0
+850	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	84.0	Taxbeneﬁt microsimulation models	3.0	1063.0
+851	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	111.0	carbon tax incidence	3.0	1420.0
+852	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	112.0	Regression-based decomposition methods	3.0	1442.0
+853	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	130.0	consumption patterns representative	3.0	1800.0
+854	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	140.0	Other fuel sources	3.0	2000.0
+855	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	143.0	Indirect carbon consumption	3.0	2079.0
+856	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	143.0	carbon tax incidence	3.0	2091.0
+857	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	152.0	unit price data	3.0	2272.0
+858	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	157.0	electricity expenditure amount	3.0	2375.0
+859	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	185.0	domestic carbon tax	3.0	2695.0
+860	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	187.0	Departmentuniform price	3.0	2759.0
+861	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	189.0	carbon tax expenditure	3.0	2804.0
+862	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	200.0	carbon tax payments	3.0	2936.0
+863	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	216.0	carbon tax expenditure	3.0	3209.0
+864	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	216.0	carbon tax cost	3.0	3233.0
+865	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	216.0	carbon tax expenditure	3.0	3259.0
+866	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	232.0	carbon tax incidence	3.0	3514.0
+867	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	234.0	Leahycarbon tax	3.0	3562.0
+868	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	237.0	regressions variance inﬂation factors	4.0	3608.0
+869	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	247.0	Sectiontotal inequality	3.0	3663.0
+870	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	270.0	carbon tax incidence	3.0	3937.0
+871	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	272.0	carbon tax expenditure	3.0	3976.0
+872	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	284.0	carbon tax expenditures	3.0	4090.0
+873	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	285.0	carbon tax revenues	3.0	4114.0
+874	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	288.0	carbon tax expenditure	3.0	4165.0
+875	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	290.0	carbon tax payments	3.0	4198.0
+876	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	292.0	carbon tax expenditure	3.0	4222.0
+877	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	320.0	motor fuel consumption	3.0	4603.0
+878	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	327.0	home heating fuels	3.0	4731.0
+879	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	328.0	fuel-related carbon consumption	3.0	4741.0
+880	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	329.0	fuel-related carbon consumption	3.0	4759.0
+881	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	343.0	carbon tax expenditure	3.0	4902.0
+882	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	346.0	electricity-related carbon tax expenditure	4.0	4959.0
+883	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	348.0	carbon tax incidence	3.0	5021.0
+884	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	357.0	Own account workers	3.0	5132.0
+885	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	359.0	carbon tax expenditure	3.0	5181.0
+886	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	364.0	carbon tax cost	3.0	5212.0
+887	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	365.0	carbon tax cost	3.0	5238.0
+888	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	372.0	carbon tax incidence	3.0	5325.0
+889	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	372.0	carbon tax incidence	3.0	5347.0
+890	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	385.0	carbon tax cost	3.0	5540.0
+891	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	389.0	carbon tax cost	3.0	5620.0
+892	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	396.0	carbon tax cost	3.0	5703.0
+893	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	398.0	water heating method	3.0	5756.0
+894	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	400.0	carbon tax incidence	3.0	5815.0
+895	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	428.0	carbon tax incidence	3.0	6154.0
+896	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	440.0	carbon tax incidence	3.0	6243.0
+897	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	441.0	carbon tax costs	3.0	6283.0
+898	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	444.0	revenue redistribution measures	3.0	6372.0
+899	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	446.0	concentration index methodology	3.0	6429.0
+900	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	461.0	lower income gradient	3.0	6659.0
+901	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	474.0	carbon tax incidence	3.0	6853.0
+902	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	479.0	Space heating method	3.0	6992.0
+903	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	483.0	space heating technology	3.0	7098.0
+904	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	483.0	carbon tax expenditure	3.0	7108.0
+905	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	507.0	space heating technologies	3.0	7377.0
+906	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Intro>	508.0	fuel space heating technology	4.0	7394.0
+907	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	512.0	concentration index methodology	3.0	7439.0
+908	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	520.0	tax beneﬁt system	3.0	7663.0
+909	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	535.0	backboiler space heating increase	4.0	7885.0
+910	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	538.0	Income-based redistribution measures	3.0	7911.0
+911	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	539.0	space heating technology	3.0	7937.0
+912	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	540.0	weekly cash transfers	3.0	7966.0
+913	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	541.0	space heating technologies	3.0	8006.0
+914	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	541.0	energy eﬃciency upgrades	3.0	8015.0
+915	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	541.0	carbon tax incidence	3.0	8020.0
+916	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	542.0	fuel price ﬂuctuations	3.0	8049.0
+917	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	543.0	energy eﬃciency obligation	3.0	8063.0
+918	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	544.0	carbon tax revenue	3.0	8103.0
+919	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	545.0	carbon tax incidence	3.0	8155.0
+920	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	546.0	household’s carbon tax	3.0	8170.0
+921	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	548.0	Revenue redistribution measures	3.0	8223.0
+922	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	566.0	carbon tax consumption	3.0	8486.0
+923	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	571.0	‘other’ fuel usage	3.0	8599.0
+924	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	577.0	labour tax adjustments	3.0	8741.0
+925	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	578.0	progressive wage tax reform	4.0	8759.0
+926	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	590.0	carbon tax emission sources	4.0	8921.0
+927	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	595.0	carbon tax incidence	3.0	9023.0
+928	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	598.0	space heating technology	3.0	9080.0
+929	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	600.0	space heating technology	3.0	9116.0
+930	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	602.0	carbon tax incidence	3.0	9157.0
+931	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	605.0	revenue recycling measures	3.0	9206.0
+932	economics_intros	Quant/Qual	What-Factors-Drive-Inequalities-in-Carbon-Tax-Incidence--Deco_2017_Ecologica.txt	<Conclusion>	607.0	carbon tax rates	3.0	9259.0

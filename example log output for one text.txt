@@ -1,0 +1,80 @@
+[2018-10-25 14:01:15.459219]Processing -Lacking-warmth---Alexithymia-trait-is-related-to-warm-spe_2017_Biological-P.txt in biology_intros
+[2018-10-25 14:01:53.332749]multifaceted personality construct in sent: 8 with maxCNC: 3
+[2018-10-25 14:02:44.343136]multiple somatosensory pathways in sent: 14 with maxCNC: 3
+[2018-10-25 14:03:35.041328]variance scalar beamformer in sent: 175 with maxCNC: 3
+[2018-10-25 14:04:17.439630]time covariance window in sent: 184 with maxCNC: 3
+[2018-10-25 14:04:17.442628]memory array presentation in sent: 184 with maxCNC: 3
+[2018-10-25 14:04:22.782320]time covariance window in sent: 185 with maxCNC: 3
+[2018-10-25 14:04:23.858653]open access article in sent: 35 with maxCNC: 3
+[2018-10-25 14:04:26.930749]Summary statistics images in sent: 186 with maxCNC: 3
+[2018-10-25 14:04:26.933747]memory array presentation in sent: 186 with maxCNC: 3
+[2018-10-25 14:05:22.718176]Behavioral results Analysis in sent: 197 with maxCNC: 3
+[2018-10-25 14:05:33.920232]repeated measures analysis in sent: 199 with maxCNC: 3
+[2018-10-25 14:07:54.332979]heat pain threshold in sent: 68 with maxCNC: 3
+[2018-10-25 14:08:36.802788]meanfaster RTs in sent: 242 with maxCNC: 3
+[2018-10-25 14:08:46.926159]emotion recognition impairment in sent: 75 with maxCNC: 3
+[2018-10-25 14:09:25.984940]Figalpha activity in sent: 253 with maxCNC: 3
+[2018-10-25 14:09:43.757381]Figinitial desynchronization in sent: 257 with maxCNC: 3
+[2018-10-25 14:10:04.802374]alpha band activity in sent: 262 with maxCNC: 3
+[2018-10-25 14:10:13.763061]dBalpha topography in sent: 264 with maxCNC: 3
+[2018-10-25 14:10:18.633663]Second row shows in sent: 265 with maxCNC: 3
+[2018-10-25 14:10:27.763236]lower TAS quartile in sent: 97 with maxCNC: 3
+[2018-10-25 14:10:36.715562]upper TAS quartile in sent: 99 with maxCNC: 3
+[2018-10-25 14:11:55.957073]mathe contralateral nipulation in sent: 288 with maxCNC: 3
+[2018-10-25 14:13:14.163604]warm threshold test in sent: 132 with maxCNC: 3
+[2018-10-25 14:13:39.068172]Pinprick pain threshold in sent: 138 with maxCNC: 3
+[2018-10-25 14:13:43.600364]laser stimulation device in sent: 139 with maxCNC: 3
+[2018-10-25 14:15:13.643561]Bonnefondirrelevanttask areas in sent: 322 with maxCNC: 3
+[2018-10-25 14:15:27.171176]alpha activity increase in sent: 324 with maxCNC: 3
+[2018-10-25 14:15:31.462517]numberintensity stimulus trials in sent: 155 with maxCNC: 4
+[2018-10-25 14:15:31.467515]numberintensity stimulus trials in sent: 155 with maxCNC: 4
+[2018-10-25 14:16:30.477411]orientation discrimination threshold in sent: 167 with maxCNC: 3
+[2018-10-25 14:16:32.790918]period alpha desynchronization in sent: 338 with maxCNC: 3
+[2018-10-25 14:16:35.582447]largest ridge width in sent: 168 with maxCNC: 3
+[2018-10-25 14:18:26.922550]stimulation duration constant in sent: 194 with maxCNC: 3
+[2018-10-25 14:20:03.693475]ulna styloid process in sent: 212 with maxCNC: 3
+[2018-10-25 14:20:19.667702]alpha inhibition hypothesis in sent: 377 with maxCNC: 3
+[2018-10-25 14:20:24.157760]heartbeat perception task in sent: 216 with maxCNC: 3
+[2018-10-25 14:20:52.468900]heartbeat perception score in sent: 222 with maxCNC: 3
+[2018-10-25 14:20:52.484525]heartbeat perception intervals in sent: 222 with maxCNC: 3
+[2018-10-25 14:21:06.134482]heartbeat detection task in sent: 225 with maxCNC: 3
+[2018-10-25 14:21:42.981145]words in the <Intro>0
+[2018-10-25 14:21:42.981145]CNCs up 3 in the <Intro>0
+[2018-10-25 14:21:42.997394]words that contains CNCs in <Intro>0
+[2018-10-25 14:21:43.001568]words in the <Middle>0
+[2018-10-25 14:21:43.001568]CNCs up 3 in the <Middle>0
+[2018-10-25 14:21:43.001568]words that contains CNCs in <Middle>0
+[2018-10-25 14:21:43.001568]words in the <Conclusion>5997
+[2018-10-25 14:21:43.001568]CNCs up 3 in the <Conclusion>38
+[2018-10-25 14:21:43.001568]words that contains CNCs in <Conclusion>117
+[2018-10-25 14:21:43.001568]In this document CNCs >=3 are 0.01950975487743872\% of the text.
+[2018-10-25 14:21:43.001568]Processing Activation-of-TLR4-STAT3-signaling-in-VTA-contributes-to-th_2017_Behavioural.txt in biology_intros
+[2018-10-25 14:21:46.004234]somatosensory detection threshold in sent: 233 with maxCNC: 3
+[2018-10-25 14:22:04.391356]detection threshold intensities in sent: 235 with maxCNC: 3
+[2018-10-25 14:23:31.785175]heat pain threshold in sent: 260 with maxCNC: 3
+[2018-10-25 14:24:46.441774]thermal detection test in sent: 281 with maxCNC: 3
+[2018-10-25 14:26:23.393540]further linear regression in sent: 309 with maxCNC: 3
+[2018-10-25 14:27:30.164159]Mean pleasantness ratings in sent: 330 with maxCNC: 3
+[2018-10-25 14:28:19.886345]°Cdetection accuracy in sent: 344 with maxCNC: 3
+[2018-10-25 14:28:19.890343]d’Response bias in sent: 344 with maxCNC: 3
+[2018-10-25 14:28:19.895340]d’Response bias in sent: 344 with maxCNC: 3
+[2018-10-25 14:31:34.712605]null result cannot rule in sent: 402 with maxCNC: 4
+[2018-10-25 14:31:46.800114]warmth perception threshold in sent: 405 with maxCNC: 3
+[2018-10-25 14:33:10.907990]warmstimulus dimensions in sent: 424 with maxCNC: 3
+[2018-10-25 14:33:58.650403]physical warmthalsoOur study in sent: 434 with maxCNC: 3
+[2018-10-25 14:34:43.948330]c-tactile mechanoreceptor pathway in sent: 447 with maxCNC: 3
+[2018-10-25 14:35:23.309937]pleasantness ratings overall in sent: 457 with maxCNC: 3
+[2018-10-25 14:35:37.467164]body mass index in sent: 461 with maxCNC: 3
+[2018-10-25 14:36:25.690279]words in the <Intro>1395
+[2018-10-25 14:36:25.694275]CNCs up 3 in the <Intro>6
+[2018-10-25 14:36:25.694275]words that contains CNCs(N>=3) in <Intro>18
+[2018-10-25 14:36:25.695275]words in the <Middle>3446
+[2018-10-25 14:36:25.696276]CNCs up 3 in the <Middle>25
+[2018-10-25 14:36:25.696276]words that contains CNCs(N>=3) in <Middle>77
+[2018-10-25 14:36:25.697274]words in the <Conclusion>1939
+[2018-10-25 14:36:25.698274]CNCs up 3 in the <Conclusion>11
+[2018-10-25 14:36:25.698274]words that contains CNCs(N>=3) in <Conclusion>34
+[2018-10-25 14:36:25.699273]words that contains CNCs(N>=3) in <Intro> are 0.13953488372093023 \% of all CNC words
+[2018-10-25 14:36:25.699273]words that contains CNCs(N>=3) in <Middle> are 0.5968992248062015 \% of all CNC words
+[2018-10-25 14:36:25.700273]words that contains CNCs(N>=3) in <Conclusion> are 0.26356589147286824 \% of all CNC words
+[2018-10-25 14:36:25.700273]In this document CNCs >=3 are 0.01902654867256637\% of the text.
