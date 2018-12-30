@@ -1,36 +1,3 @@
-Applied Psycholinguistics 38 (2017), 703–732
-doi:10.1017/S0142716416000400
-
-Second language acquisition
-of pragmatic inferences: Evidence
-from the French c’est-cleft
-
-EMILIE DESTRUEL
-University of Iowa
-
-BRYAN DONALDSON
-University of California, Santa Cruz
-
-Received: August 4, 2015
-
-Accepted for publication: August 30, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Emilie Destruel, University of Iowa, 111 Philipps Hall, Iowa City, IA 52242.
-E-mail: emiliedestrueljohnson@gmail.com
-
-ABSTRACT
-This paper examines the extent to which second language (L2) speakers of French acquire the semantic
-and pragmatic (or interpretive) properties associated with the c’est-cleft, speciﬁcally the exhaustive
-inference. This phenomenon is relevant to theories of language acquisition because it is situated at
-the interface of syntax and pragmatics. The results from a forced-choice task challenge the empirical
-adequacy of the interface hypothesis (Sorace, 2011, 2012; Sorace & Filiaci, 2006), which claims that
-external interfaces between a linguistic module and a cognitive module remain problematic even at
-the highest levels of L2 acquisition. The results from 40 L2 learners at three proﬁciency levels reveal
-development from nontargetlike to nativelike behavior. In particular, the high-proﬁciency group inter-
-prets the c’est-cleft, as well as canonical subject–verb–object sentences and sentences with exclusives
-(i.e., seul(ement) “only”), in a statistically identical way to the French native speaker control group.
-
 In natural languages, sentences are often underspeciﬁed, sometimes conveying
 more than they encode lexically. The overall meaning of a sentence typically
 consists of multiple layers of meaning. While some are literally encoded, others
@@ -48,14 +15,6 @@ domain, ate a sandwich.
 (2) Seul Jean a mang´e un sandwich.
 
 “Only John ate a sandwich.”
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-704
-
 One important difference between (1) and (2) is that nonliteral meanings can be
 suspended or canceled (Levinson, 2000). Adding information like “ . . . and so did
 Paul” to (1) does not create an overt contradiction (as would be the case in [2]), but
@@ -92,7 +51,7 @@ unique and potentially insurmountable difﬁculties in L2 acquisition. According
 the second contribution of this paper is theoretical, contributing to the debate on
 the L2 acquisition of interface properties.
 
-BASIC PROPERTIES OF THE FRENCH C’EST-CLEFT
+BASIC PROPERTIES OF THE FRENCH C’EST-CLEFT.
 The underlying syntax of the c’est-cleft has been widely debated.2 Most schol-
 ars agree that the cleft is biclausal, containing a matrix clause followed by a
 relative-like clause, both of which share a common referent (Lambrecht, 1994).
@@ -105,12 +64,6 @@ Functionally, clefts arise in focus contexts. Following Lambrecht (1994, 2001),
 the cleft sentence in (1) functions as follows: it presupposes the existence of an
 individual who satisﬁes the backgrounded predicate in the relative-like clause, and
 it marks this individual as the focus, that is, the part of the sentence that evokes
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-705
-
 a set of relevant alternatives, which assists the hearer in updating the common
 ground (Krifka, 2008; Rooth, 1992). This is represented in (3).3
 
@@ -166,14 +119,6 @@ All in all, although similar structurally, English and French clefts differ in t
 function. The variety of contexts in which the c’est-cleft can occur, compared to
 the it-cleft, makes for a potentially misleading input, which the L2 learners of
 French will have to overcome in order to express themselves felicitously.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-THE EXHAUSTIVE INFERENCE
-
-706
-
 Despite functional differences in marking focus, c’est- and it-clefts have been noted
 to convey an exhaustive inference such that the clefted element is interpreted as
 the only relevant referent in the contextual domain. For example, hearing (5), a
@@ -222,12 +167,6 @@ discourse context, speakers should express disagreement by overtly contradicting
 the assertion. In contrast, because exhaustivity in canonicals is weak and not lex-
 ically asserted, speakers should react differently to canonicals whose truth-value
 (with respect to exhaustivity) differs from the discourse context.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-707
-
 Against this backdrop, Onea and Beaver (2011) designed an ofﬂine forced-
 choice task in which participants viewed pictures that violated the exhaustive
 inference of the three sentence types described above (i.e., exclusive, cleft, and
@@ -281,14 +220,6 @@ is weaker in clefts than in exclusives.
 
 Adapting the design from Onea and Beaver (2011), the study presented hereafter
 extends the analysis of exhaustivity to the development of L2 French grammars.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-L2 ACQUISITION OF INTERFACE PHENOMENA
-
-708
-
 The L2 acquisition of the c’est-cleft implicates linguistic interface phenomena,
 and more speciﬁcally the syntax–discourse interface, an area of considerable in-
 terest since Sorace (2003) proposed the IH. The IH implicates perennial topics
@@ -336,12 +267,6 @@ emphasizes, “the point of the IH is that unlike many of the developmental prob
 that are reduced or eliminated as L2 proﬁciency grows, performance at the syntax–
 pragmatics interface may remain permanently unstable” (p. 213). Although White
 (2011b, pp. 109–110) and Lardiere (2011, p. 52) both challenge the theoretical
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-709
-
 validity of restricting the predictions of the IH to a speciﬁc level of L2 attainment,
 most of the relevant research to date has focused on very advanced, purportedly
 near-native L2 populations.
@@ -392,12 +317,6 @@ whose pragmatic properties nonetheless differ (Belletti et al., 2007, p. 665; So
 race & Filiaci, 2006, p. 359; Valenzuela, 2006, p. 301). For Bohnacker (2010),
 “it is not the involvement of an ‘interface’ as such . . . but rather the fact that
 language-speciﬁc possibilities and constraints can have subtle consequences for
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-710
-
 information distribution in discourse, and these are often gradual in nature”
 (p. 134).
 
@@ -449,19 +368,12 @@ the near-native speakers’ use of c’est-clefts and that of their NS interlocu
 near-native speakers felicitously used c’est-clefts to mark focus. Reichle and Bird-
 song (2014) examined ERP signatures for two groups of L2 French speakers at
 different proﬁciency levels via a discourse task with contrastive and informational
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-711
-
 focus. The ERP signatures of the high-proﬁciency group appeared entirely native-
 like. Such results suggest that the c’est-cleft can be fully acquired at sufﬁciently
 advanced proﬁciency levels. However, both Donaldson (2012) and Reichle and
 Birdsong (2014) limited their investigations to the mapping of the cleft with focus.
-
-STUDY
-
+<Middle>
+STUDY.
 The present study moves beyond the use of clefts as focus-marking devices to
 investigate the interpretative property of exhaustivity in L2 French. As discussed
 earlier, the English it-cleft is more marked than the French corresponding structure
@@ -489,9 +401,8 @@ especially with respect to the c’est-cleft?
 3. Does L2 proﬁciency modulate the interpretation of exhaustivity?
 4. Do L2 inferential patterns reﬂect L1 transfer from English?
 
-METHODOLOGY
-
-Participants
+METHODOLOGY.
+Participants.
 Participants included (a) L2 French speakers (n = 40), (b) a NS French control
 group (n = 24), and (c) a NS English control group (n = 24). The L2 learners were
 all L1 English speakers who began learning French as adults, following Johnson
@@ -506,11 +417,6 @@ listening to, reading, or watching authentic material on a daily or weekly basis
 All reported speaking only English at home, with friends, and at work. Next, we
 recruited 10 graduate students in a French MA program at an American university
 (4 females, 6 males). Their ages ranged between 25 and 29 (median = 27), all
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-712
 had studied French for 6 to 10 years (median = 7), and 7 had spent time in a
 French-speaking country (average = 2 year, 4 months [2;4 years]). Six reported
 using “mostly English with occasional French” with their friends and at work,
@@ -532,8 +438,7 @@ international studies, and microbiology (but none were language majors). They
 received extra credit for taking part in the study. All participants had normal or
 corrected-to-normal vision and were naive regarding the purpose of the study.
 
-Test instruments
-
+Test instruments.
 Proﬁciency measure. To avoid conﬂating experience or institutional level with
 L2 proﬁciency (see Tracy-Ventura, McManus, Norris, & Ortega, 2014), we ad-
 ministered Tremblay’s (2011) cloze test to the L2 participants as an independent
@@ -559,12 +464,6 @@ subtle linguistic properties are acquired in L2 only beyond advanced proﬁcienc
 that is, at the near-native level (Hopp, 2009; Slabakova et al., 2012). As shown
 subsequently, our results indicate that we distinguished three distinct acquisitional
 stages.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-713
-
 Main task. The experimental design is based on that of Onea and Beaver (2011),
 as adapted to French by Destruel (2013). The stimuli consisted of a short dialogue
 in the form of a question–answer pair, followed by three continuations in which the
@@ -631,12 +530,6 @@ We created seven lexicalizations for each experimental condition using common
 nouns and verbs. A counterbalanced 3 × 2 design (3 levels of sentence types
 and 2 levels of grammatical function) yielded a total of 42 experimental items.
 These items were distributed across six presentation lists following a Latin square
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-714
-
 procedure, arranged in pseudorandomized order interspersed with 21 ﬁllers, such
 that each participant only saw one version of each item but had an equal number
 of trials per condition. All questions appeared in the form of wh-word followed
@@ -646,8 +539,7 @@ interrogative form because it is relatively neutral with respect to register (Va
 1988) and because it does not prime a cleft answer, such that a canonical sentence
 would be a felicitous response.6 Appendix A contains sample stimuli.
 
-Predictions
-
+Predictions.
 Previous results for this type of task (Onea & Beaver, 2011) suggest that exhaus-
 tivity in clefts is not truth-conditionally exhaustive, but rather is pragmatically
 derived. We expected similar results for the French and English NS control groups:
@@ -669,8 +561,7 @@ ferences about exhaustivity in c’est-clefts from their L1 knowledge of it-clef
 anticipated minimal effects of proﬁciency; even at the initial stage of acquisition,
 learners should reliably select the “yes, but” continuation with clefts.
 
-Procedure
-
+Procedure.
 All participants were tested individually in a quiet laboratory. Participants ﬁrst
 completed an online biographical questionnaire designed using Qualtrics software
 (in French for L1 French speakers and English for L1 English speakers). They
@@ -684,14 +575,7 @@ and then to select the most natural continuation. Once the choice was made, the
 next item appeared. No time limits were imposed. Most participants took between
 35 and 40 min to complete the entire procedure (20–25 min for the experimental
 task).
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-715
-
-Statistical analysis
-
+Statistical analysis.
 We analyzed the data using mixed-effects logistic regression models to test the
 effect of four predictors on the continuation selected by participants: sentence
 type (cleft or canonical), grammatical function of the focus (subject or object),
@@ -714,8 +598,7 @@ without, while keeping the RES identical. We report estimates, standard errors, 
 t values for all models. Any t value exceeding |1.96| was considered statistically
 signiﬁcant at p < .05.
 
-RESULTS
-
+RESULTS.
 We ﬁrst present a descriptive summary of the data. The continuations selected
 in each condition are reported for the French controls (from Destruel, 2013) in
 Figure 1. The English controls’ data appear in Figure 2, and the L2 French data
@@ -738,186 +621,6 @@ tivity is pragmatically derived. Second, we deduce that all speakers understand
 the experimental task and do not respond at chance (i.e., responses distributed
 evenly across the three possible continuations). Note further that for all groups,
 the “no” continuation was used almost entirely to continue a discourse with an
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-716
-
-Oui, et
-Oui, mais
-Non
-
-Can
-
-Cleft
-
-Sentence Type
-
-Exc
-
-Figure 1. French native speaker responses.
-
-Oui, et
-Oui, mais
-Non
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-i
-t
-n
-o
-c
- 
-f
-o
-
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-t
-i
-n
-o
-c
- 
-f
-o
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-100
-
-80
-
-60
-
-40
-
-20
-
-0
-
-Can
-
-Cleft
-
-Sentence Type
-
-Exc
-
-Figure 2. English native speaker responses.
-
-exclusive sentence and was rarely selected after clefts or canonicals. Thus, we
-excluded both the exclusive sentence condition and the “no” continuation from
-our statistical analyses, concentrating instead on the cleft versus canonical con-
-dition and on the “yes, and” versus “yes, but” continuations.8 Consequently, our
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-717
-
-Oui, et
-Oui, mais
-Non
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-
-i
-t
-n
-o
-c
- 
-f
-o
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-Can
-
-Cleft
-
-Sentence Type
-
-Exc
-
-Figure 3. Second language responses (collapsed for proﬁciency).
-
 outcome measure (i.e., the type of continuation selected) is now binary (i.e., has
 two levels, “yes, and,” and “yes, but,” which were coded for the analysis as 0 and
 1, respectively)
@@ -946,76 +649,6 @@ with sentence type as a factor gave a signiﬁcantly better ﬁt than a model wi
 performed better than a model involving the interaction of the two factors (χ2 =
 10.534, p = .034). On this basis, we excluded the factor grammatical function
 from all following analyses.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-718
-
-Oui et
-Oui mais
-Non
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-
-i
-t
-n
-o
-c
- 
-f
-o
-
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-100
-90
-80
-70
-60
-50
-40
-30
-20
-10
-0
-
-Can
-
-Cleft
-
-Exc
-
-Sentence Type
-
-Figure 4. High-proﬁciency group (ࣙ37 points).
-
 Our second research question looked at the L2 French speakers, asking whether,
 as a group collapsed for proﬁciency, their inferential patterns differ from those
 of the French native controls. Accordingly, the statistical model was run on the
@@ -1046,149 +679,6 @@ learners and natives), predicting the likelihood of a “yes, and” responses f
 level was set as the reference group. Results, reported on in Table 1, reveal a main
 effect of sentence type, and an effect of proﬁciency only for the low-proﬁciency
 L2 group. There was no interaction of the two predictors for the advanced group or
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-719
-
-Oui et
-Oui mais
-Non
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-
-i
-t
-n
-o
-c
- 
-f
-o
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-100
-
-90
-
-80
-
-70
-
-60
-
-50
-
-40
-
-30
-
-20
-
-10
-
-0
-
-Can
-
-Cleft
-
-Exc
-
-Sentence Type
-
-Figure 5. Intermediate-proﬁciency group (27–36 points).
-
-Oui et
-Oui mais
-Non
-
-d
-e
-t
-c
-e
-l
-e
-s
- 
-n
-o
-i
-t
-a
-u
-n
-
-i
-t
-n
-o
-c
- 
-f
-o
-
- 
-e
-g
-a
-t
-n
-e
-c
-r
-e
-P
-
-100
-
-80
-
-60
-
-40
-
-20
-
-0
-
-Can
-
-Cleft
-
-Exc
-
-Sentence Type
-
-Figure 6. Low-proﬁciency group (<26 points).
-
 for the intermediate group, suggesting that these speakers, at these two proﬁciency
 levels, pattern with the native norm. There was, however, a signiﬁcant interaction
 for the low group.
@@ -1198,67 +688,6 @@ models to compare the three proﬁciency-level groups to each other, thus furthe
 examining how the three groups differed with respect to sentence type, proﬁciency,
 and their interaction, which were included as ﬁxed-effect predictors in all models.
 Here, proﬁciency was sum coded with three levels, and the reference category
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-720
-
-Table 1. Full model predicting “yes, and” responses from sentence type, proﬁciency,
-and their interaction for second language learners
-
-Intercept
-Sentence type (cleft = −1)
-Proﬁciency
-Advanced
-Intermediate
-Low
-
-Sentence Type Cleft× Proﬁciency Advanced
-Sentence Type Cleft× Proﬁciency Intermediate
-Sentence Type Cleft× Proﬁciency Low
-
-β
-
-SE
-
-t
-
-p
-
-0.6177
-−0.5897
-−0.3433
-−0.3793
-−0.9581
-0.1057
-0.5110
-1.3864
-
-0.1884
-3.280
-0.2071 −2.848
-0.2111 −1.103
-0.2131 −1.320
-0.2348 −4.080
-0.255
-0.4154
-1.678
-0.3341
-4.409
-0.3679
-
-.001
-
-.242
-.196
-.0001
-.563
-.182
-.0001
-
-Note: The intercept is for native French speakers. Signiﬁcant effects are in bold.
-
 was set to each level in turn. The models did not converge with the maximal RES,
 so we ran them again with the interaction of the two predictors as random slopes
 for the subject term, and main effects for both predictors on the item term. In all
@@ -1291,12 +720,6 @@ termediate group treats canonical sentences differently than the high-proﬁcien
 group (and the NSs). When comparing the high-proﬁciency and intermediate-
 proﬁciency learners’ responses to canonicals, a main effect arose for proﬁciency
 (ˆa = 0.81, SE = 0.26, t = 2.38, p = .027), revealing that the intermediate learners
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-721
-
 do not (yet) possess as strong of a preference for “yes, and” versus “yes, but”
 continuations after canonicals as the learners in the high group. Performing the
 same analysis for clefts, however, we found no effect for proﬁciency (ˆa = 0.09,
@@ -1307,9 +730,8 @@ nally, the performance of the low-proﬁciency group revealed no effect of sente
 type (ˆa = 0.88, SE = 0.29, t = 1.07, p = .24); these learners did not vary their
 response preferences according to whether the sentence contained a c’est-cleft or a
 canonical.
-
-DISCUSSION
-
+<Conclusion>
+DISCUSSION.
 Motivated by the observation that the exhaustive inference associated with clefts is
 an external interface property, a domain where the IH predicts residual difﬁculties
 even in advanced L2 acquisition, and that the c’est-cleft is thought to be learned
@@ -1346,12 +768,6 @@ contend that these results reﬂect optionality in the L2 grammar: these learner
 interpret the c’est-cleft without reference to discourse pragmatics. That is, in
 their grammars, the c’est-cleft represents a pragmatically neutral structure, either
 because they have no representation of its pragmatic properties or because they are
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-722
-
 unable to cope with the cognitive demands of integrating syntactic and discourse–
 pragmatic information (Sorace, 2011, p. 14), effectively voiding the structure
 of any pragmatic values. Consequently, at this stage of proﬁciency, L2 learners
@@ -1401,12 +817,6 @@ several previous studies, on other aspects of the c’est-cleft among highly adv
 or near-native speakers of L2 French, which have revealed similarly nativelike be-
 havior. For instance, Donaldson (2012) reported nativelike use of the c’est-cleft to
 mark focus in a corpus of spontaneous conversations, and Reichle and Birdsong
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-723
-
 (2014) reported nativelike ERP signatures in the processing of two types of focus
 encoded via the c’est-cleft.
 
@@ -1458,12 +868,6 @@ The degree of frequency of c’est-clefts in the input could explain the devel-
 opmental cline that our data show. Usage-based theories of L2 acquisition, for
 example, relate development to input frequency (e.g., Ellis, 2006). However, as
 O’Grady, Lee, and Kwak (2009) warn, “what counts is not how many times
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-724
-
 learners hear a particular form—it is how many times they encounter mappings be-
 tween a form and its meaning” (p. 72). This observation is pertinent for the French
 c’est-cleft, given that, as discussed previously, the c’est-cleft is very common but
@@ -1514,12 +918,6 @@ conversations, canonicals are between two and three times more frequent than
 c’est-clefts. Given that the interpretation of c’est-clefts was acquired earlier than
 that of canonicals in the present study, the role of frequency is not straightforward.
 Although Slabakova (2015) argues that incomplete acquisition of interpretative
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-725
-
 (interface) properties may be due to a structure’s rarity in the input, this explanation
 cannot explain why exhaustivity in canonicals proved more difﬁcult than in c’est-
 clefts. One possibility is that canonicals, unlike lexical exclusives and c’est-clefts,
@@ -1534,8 +932,7 @@ highest proﬁciency group report that the majority of their exposure to French 
 from authentic sources. Notably, all of these participants had long since completed
 their instructed learning of French.
 
-Conclusion
-
+Conclusion.
 Moving beyond the mapping of c’est-clefts and pragmatic focus (Donaldson,
 2012; Reichle, 2010), the study in this paper investigated a more subtle pragmatic
 property: how L2 learners interpreted exhaustivity in c’est-clefted sentences. This
@@ -1568,471 +965,3 @@ of French interpret exhaustivity in c’est-clefts. This L2 development culminat
 in these data, in entirely nativelike performance, with no evidence of permanent
 residual impairment at this area of the syntax–pragmatics interface, contra the
 predictions of the IH.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-726
-
-APPENDIX A
-
-SAMPLE EXPERIMENTAL STIMULI
-
-Subject condition
-
-1. Qui est-ce qui a accueilli les ´el`eves?
-
-Canonical condition: Le prof a accueilli les ´el`eves.
-Cleft condition: C’est le prof qui a accueilli les ´el`eves.
-Exclusive condition: Seul le prof a accueilli les ´el`eves.
-
-Oui, et le directeur aussi a accueilli les ´el`eves.
-Oui, mais le directeur aussi a accueilli les ´el`eves.
-Non, le directeur aussi a accueilli les ´el`eves.
-
-Who welcomed the students?
-Canonical condition: The professor welcomed the students.
-Cleft condition: It’s the professor who welcomed the students.
-Exclusive condition: Only the professor welcomed the students.
-
-Yes, and the director also welcomed the students.
-Yes, but the director also welcomed the students.
-No, the director also welcomed the students.
-
-2. Qui est-ce qui a goˆut´e la soupe?
-
-Canonical condition: Le chef a goˆut´e la soupe.
-Cleft condition: C’est le chef qui a goˆut´e la soupe.
-Exclusive condition: Seul le chef a goˆut´e la soupe.
-
-Oui, et le serveur aussi a goˆut´e la soupe.
-Oui, mais le serveur aussi a goˆut´e la soupe.
-Non, le serveur aussi a goˆut´e la soupe.
-
-Who tasted the soup?
-Canonical condition: The chef tasted the soup.
-Cleft condition: It’s the chef who tasted the soup.
-Exclusive condition: Only the chef tested the soup.
-
-Yes, and the waiter also tasted the soup.
-Yes, but the waiter also tasted the soup.
-No, the waiter also tasted the soup.
-
-Object focus
-
-1. Qui est-ce que le prof a accueilli?
-
-Canonical condition: Le prof a accueilli les ´el`eves.
-Cleft condition: C’est les ´el`eves que le prof a accueilli.
-Exclusive condition: Le prof a accueilli seulement les ´el`eves.
-
-Oui, et le prof a aussi accueilli les parents.
-Oui, mais le prof a aussi accueilli les parents.
-Non, le prof a aussi accueilli les parents.
-
-Who did the professor welcome?
-Canonical condition: The professor welcomed the students.
-Cleft condition: It’s the students who the professor welcomed.
-Exclusive condition: The professor welcomed only the students.
-
-727
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-Yes, and the professor also welcomed the parents.
-Yes, but the professor also welcomed the parents.
-No, the professor also welcomed the parents.
-
-2. Qu’est-ce que le chef a goˆut´e?
-
-Canonical condition: Le chef a goˆut´e la soupe.
-Cleft condition: C’est la soupe que le chef a goˆut´e.
-Exclusive condition: Le chef a goˆut´e seulement la soupe.
-
-Oui, et le chef aussi a goˆut´e la salade.
-Oui, mais le chef a aussi goˆut´e la salade.
-Non, le serveur a aussi goˆut´e la salade.
-
-What did the chef taste?
-Canonical condition: The chef tasted the soup.
-Cleft condition: It’s the soup that the chef tasted.
-Exclusive condition: The chef only tasted the soup.
-
-Yes, and the chef also tasted the salad.
-Yes, but the chef also tasted the salad.
-No, the chef also tasted the salad.
-
-ACKNOWLEDGMENTS
-We thank Bob McMurray for his help and advice on the statistical analyses included in
-this paper. The analyses have also greatly beneﬁted from the insightful comments from
-the associate editor. We are grateful to the two anonymous reviewers for their constructive
-criticisms, as well as to the participants at AAAL 2013 for discussion on a preliminary
-version of the study. All remaining errors are entirely our own.
-
-NOTES
-1. See Velleman et al. (2012) for a proposal orthogonal to the semantic–pragmatic debate
-in terms of at-issueness, which argues for clefts and exclusives having the same
-entailments.
-
-2. There is also a lively debate on the representation of English clefts: how to account
-for the syntactic structure of the cleft, and notably how to treat the syntactic relation
-between the matrix/cleft clause and the cleft phrase, the nature of the copula as a
-predicate or a semantically empty element, and the properties of the cleft pronoun as
-an expletive or a semantically contentful element (see Hartmann & Veenstra, 2013;
-Reeve, 2011, among others).
-
-3. Although the most common type of cleft in French and English organizes infor-
-mation into a focus-background articulation (i.e., where the clefted element signals
-a focus and the information in the relative clause is presupposed and thus part of
-the background information), several scholars have noted that other types of cleft
-exist as well. For English, the seminal work of Prince (1978) noted that, in addi-
-tion to focus-background clefts (i.e., stressed-focus in Prince’s terminology), there
-exist “informative-presupposition” clefts characterized by a clefted element that typ-
-ically contains an anaphoric item and a relative clause that carries primary stress and
-contains information that is at least partially new to the hearer (i.e., information that
-is not shared knowledge).
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-728
-
-4. Note that English possesses three common types of cleft sentences, which allow a
-proposition to be split between two clauses: it-clefts, wh-clefts, and reversed wh-clefts
-(Hedberg, 2000).
-
-5. For many of the items in the cloze test, Tremblay (2011, pp. 370–371) provides
-“lexically acceptable answers,” based on native speaker responses, in addition to the
-“exact answer” present in the original text. For three of the items, in one instance each,
-we accepted an additional answer that the ﬁrst author, a native speaker of French,
-judged to be entirely lexically acceptable. These are as follows: Item 5, expos´e(e);
-Item 7, trouve; Item 40, ´etudes. We shall note that, in a personal communication,
-Tremblay also agreed with the addition to the ﬁrst item.
-
-6. Many researchers (Katz, 1997; Lambrecht, 1994) consider a cleft to be the most natural
-way to answer a who-question in French, but for the purpose of this experiment,
-we include canonical subject–verb–object answers as well, especially as participants
-judged the felicity of the continuation rather than the answer. We did not expect adverse
-effects due to any potential pragmatic oddity of canonical subject–verb–object in the
-answer sequence.
-
-7. For a discussion on coding scheme for mixed-effect models, see, for instance,
-
-http://users.ox.ac.uk/ßcpgl0080/coding_schemes.html
-
-8. We thank one of the anonymous reviewers for this suggestion.
-9. A large body of empirical work on scalar implicatures has provided conﬂicting evi-
-dence with respect to the cost of deriving inferences. While certain researchers ﬁnd
-that computing these implicatures is a slow and effortful process (Huang & Snedeker,
-2009), others ﬁnd that it is fast and costless (Grodner, Klein, Carbary, & Tanenhaus,
-2010).
-
-REFERENCES
-Abrahamsson, N., & Hyltenstam, K. (2009). Age of onset and nativelikeness in a second
-language: Listener perception versus linguistic scrutiny. Language Learning, 59, 249–
-306.
-
-Bardovi-Harlig, K. (2003). Understanding the role of grammar in the acquisition of L2 pragmatics. In
-A. Mart´ınez, E. Us´o Juan, & A. Fern´andez Guerra (Eds.), Pragmatic competence and foreign
-language teaching (pp. 25–44). Castell´o de la Plana, Spain: Publicacions de la Universitat
-Jaume I.
-
-Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for conﬁrmatory
-
-hypothesis testing: Keep it maximal. Journal of Memory and Language, 68, 255–278.
-
-Bartning, I. (1997). C’est—In native and non-native spoken French. Studier i Modern Spr˚akventenskap,
-
-11, 13–47.
-
-Bartning, I., & Hammarberg, B. (2007). The functions of a high-frequency collocation in native and
-learner discourse: The case of French c’est and Swedish det ¨ar. International Review of Applied
-Linguistics, 45, 1–43.
-
-Bates, D. M. (2005). Fitting linear mixed models. R News, 5, 27–30.
-Belletti, A. (2005). Answering with a cleft: The role of the null subject parameter and the VP periphery.
-In L. Brug`e, G. Giusti, N. Munaro, W. Schweikert, & G. Turano (Eds.), Proceedings of the
-30th Incontro di Grammatica Generativa (pp. 63–82). Venice, Italy: Cafoscarina.
-
-Belletti, A., Bennati, E., & Sorace, A. (2007). Theoretical and developmental issues in the syntax
-of subjects: Evidence from near-native Italian. Natural Language & Linguistic Theory, 25,
-657–689.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-729
-
-Birch, S. L., & Rayner, K. (1997). Linguistic focus affects eye movements during reading. Memory
-
-and Cognition, 25, 653–660.
-
-Bohnacker, U. (2010). The clause-initial position in L2 Swedish declaratives: Word order variation
-
-and discourse pragmatics. Nordic Journal of Linguistics, 33, 105–143.
-
-Bott, L., & Noveck, I. A. (2004). Some utterances are underinformative: The onset and time course of
-
-scalar inferences. Journal of Memory and Language, 51, 437–457.
-
-Bourns, S. K. (2014). Contrasting c’est-clefts and it-clefts in discourse. In S. K. Bourns & L. L. Myers
-(Eds.), Perspectives on linguistic structure and context (pp. 199–222). Amsterdam: Benjamins.
-Carter-Thomas, S. (2009). The French c’est-cleft: Functional and formal motivations. In D. Banks,
-S. Eason, & J. Ormrod (Eds.), La linguistique syst´emique fontionnelle et la langue franc¸aise
-(pp. 127–156). Paris: L’Harmattan.
-
-Chierchia, G., Crain, S., Guasti, M. T., Gualmini, A., & Meroni, L. (2001). The acquisition of disjunc-
-tion: Evidence for a grammatical view of scalar implicatures. In: A. H.-J. Do, L. Dom´ınguez,
-& A. Johansen (Eds.), Proceedings of the 25th Boston University Conference on Language
-Development (pp. 157–168). Somerville, MA: Cascadilla Press.
-
-Clech-Darbon, A., Rebuschi, G., & Rialland, A. (1999). Are there cleft sentences in French? In
-G. Rebuschi & L. Tuller (Eds.), The grammar of focus (pp. 83–118). Amsterdam: Benjamins.
-DeCat, C. (2007). French dislocation: Interpretation, syntax and acquisition. Oxford: Oxford Univer-
-
-sity Press.
-
-Dekydtspotter, L., & Farmer, K. (2016). On the processing of subject clefts in English–French inter-
-language: Parsing to learn and the subject relativizer qui. In P. Guijarro-Fuentes, K. Schmitz,
-& N. M¨uller (Eds.), The acquisition of French in multilingual contexts (pp. 66–93). Bristol:
-Multilingual Matters.
-
-Destruel, E. (2013). An empirical investigation of the meaning and use of the French c’est-cleft
-
-(Doctoral dissertation, University of Texas at Austin).
-
-Destruel, E., & Farmer, T. A. (2015). Processing exhaustive in English it-clefts. Poster presented at the
-
-XPrag Conference, Chicago.
-
-Destruel, E., Velleman, D., Onea, E., Bumford, D., Xue, J., & Beaver, D. (2015). A cross-linguistic
-study of the non at-issueness of exhaustive inferences. In F. Schwarz (Ed.), Experimental
-perspectives on presuppositions (pp. 135–156). Dordrecht: Springer.
-
-Donaldson, B. (2011a). Left dislocation in near-native French. Studies in Second Language Acquisition,
-
-33, 399–432.
-
-Donaldson, B. (2011b). Nativelike right-dislocations in near-native French. Second Language Re-
-
-search, 27, 361–390.
-
-Donaldson, B. (2012). Syntax and discourse in near-native French: Clefts and focus. Language Learn-
-
-ing, 62, 902–930.
-
-Drenhaus, H., Zimmermann, M., & Vasishth, S. (2011). Exhaustiveness effects in clefts are not truth-
-
-functional. Journal of Neurolinguistics, 24, 320–337.
-
-Ellis, N. (2006). Language acquisition as rational contingency learning. Applied Linguistics, 27, 1–24.
-Ferdinand, A. (2002). Acquisition of syntactic topic marking in L2 French. In H. Broekhuis & P. Fikkert
-
-(Eds.), Linguistics in the Netherlands (pp. 49–59). Amsterdam: Benjamins.
-
-F´ery, C. (2013). Focus as prosodic alignment. Natural Language and Linguistic Theory, 31, 683–734.
-Grodner, D., Klein, N. M., Carbary, K. M., & Tanenhaus, M. K. (2010). “Some,” and possibly all,
-scalar inferences are not delayed: Evidence for immediate pragmatic enrichment. Cognition,
-116, 42–55.
-
-Gross, M. (1968). Grammaire transformationnelle du franc¸ais: Syntaxe du verbe. Paris: Larousse.
-Hamlaoui, F. (2007). French cleft sentences and the syntax-phonology interface. In M. Radiˇsi´c (Ed.),
-Actes du congr`es annuel de l’Association canadienne de linguistique 2007 (pp. 1505–1518).
-Saskatchewan: Canadian Linguistic Association.
-
-Hartmann, K., & Veenstra, T. (2013). Cleft structures. Amsterdam: Benjamins.
-Hedberg, N. (2000). On the referential status of clefts. Language, 76, 891–920.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-730
-
-Heizmann, T. (2007). Children’s acquisition of exhaustivity in clefts. In H. Caunt-Nulton, S. Kulatilake,
-& I.–H. Woo (Eds.), Proceedings of the 31st Boston University Conference on Language
-Development (pp. 298–309). Somerville, MA: Cascadilla Press.
-
-Heizmann, T. (2012). Exhaustivity in questions and clefts; and the quantiﬁer connection: A study in
-
-German and English (Doctoral dissertation, University of Massachusetts, Amherst).
-
-Hofmeister, P. (2009). Encoding effects on memory retrieval in language comprehension. Paper pre-
-sented at the 22nd CUNY Conference on Human Sentence Processing, University of California,
-Davis.
-
-Hopp, H. (2009). The syntax-discourse interface in near-native L2 acquisition: Off-line and online
-
-performance. Bilingualism: Language and Cognition, 12, 463–483.
-
-Horn, L. (1981). Exhaustiveness and the semantics of clefts. In V. Burke & J. Pustejovsky (Eds.),
-Proceedings of the 11th Annual Meeting of the North East Linguistic Society (pp. 125–142).
-Amherst, MA: Graduate Student Linguistic Association.
-
-Huang, Y., & Snedeker, J. (2009). On-line interpretation of scalar quantiﬁers: Insight into the semantics–
-
-pragmatics interface. Cognitive Psychology, 58, 376–415.
-
-Johnson, J. S., & Newport, E. L. (1989). Critical period effects in second language learning: The
-inﬂuence of maturational state on the acquisition of English as a second language. Cognitive
-Psychology, 21, 60–99.
-
-Katz, S. L. (1997). The syntactic and pragmatic properties of the c’est-cleft construction (Doctoral
-
-dissertation, University of Texas at Austin).
-
-Kiss, K. E. (1998). Identiﬁcational focus versus information focus. Language, 74, 245–273.
-Krifka, M. (2008). Basic notions of information structure. Acta Linguistica Hungarica, 55, 243–276.
-Lambrecht, K. (1986). Pragmatically motivated syntax: Presentational cleft constructions in spoken
-French. In A. M. Farley, P. T. Farley, & K.–E. McCullough (Eds.), Papers from the Parasession
-on Pragmatics and Grammatical Theory (pp. 115–126). Chicago: Chicago Linguistic Society.
-Lambrecht, K. (1987). On the status of SVO sentences in French discourse. In R. S. Tomlin (Ed.),
-
-Coherence and grounding in discourse (pp. 217–261). Amsterdam: Benjamins.
-
-Lambrecht, K. (1994). Information structure and sentence form. Cambridge: Cambridge University
-
-Press.
-
-Lambrecht, K. (2001). A framework for the analysis of cleft constructions. Linguistics, 39, 463–516.
-Lardiere, D. (2011). Who is the interface hypothesis about? Linguistic Approaches to Bilingualism, 1,
-
-48–53.
-
-Levinson, S. C. (2000). Presumptive meanings: The theory of generalized conversational implicature.
-
-Cambridge, MA: MIT Press.
-
-Lozano, C. (2002). The interpretation of overt and null pronouns in non-native Spanish. Durham
-
-Working Papers in Linguistics, 8, 53–66.
-
-Marinova-Todd, S. H. (2003). Comprehensive analysis of ultimate attainment in adult second language
-
-acquisition (Doctoral dissertation, Harvard University).
-
-Noveck, I. (2001). When children are more logical than adults: Experimental investigations of scalar
-
-implicature. Cognition, 78, 165–188.
-
-O’Grady, W., Lee, M., & Kwak, H.-Y. (2009). Emergentism and second language acquisition. In
-W. Ritchie & T. Bhatia (Eds.), Handbook of second language acquisition (pp. 69–88). Bingley:
-Emerald Group.
-
-Onea, E., & Beaver, D. (2011). Hungarian focus is not exhausted. In E. Cormany, S. Ito, & D. Lutz
-(Eds.), Proceedings of Semantics and Linguistic Theory (SALT) 19 (pp. 342–359). Ljubljana,
-Slovenia: eLanguage.
-
-Pavlou, N. (2014). Experimental insights: Explicit and implicit exhaustivity. Paper presented at the
-
-15th meeting of the Texas Linguistics Society, Austin, TX.
-
-Prince, E. F. (1978). A comparison of wh-clefts and it-clefts in discourse. Language, 54, 883–906.
-R Development Core Team. (2016). R: A language and environment for statistical computing. Vienna:
-
-R Foundation for Statistical Computing. Retrieved from https://www.R-project.org/
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-731
-
-Reeve, M. (2010). Clefts (Doctoral dissertation, University College London).
-Reeve, M. (2011). The syntactic structure of English clefts. Lingua, 121, 142–171.
-Reichle, R. V. (2008). Syntactic focus structure processing: Behavioral and electrophysiological ev-
-idence from L1 and L2 French (Doctoral dissertation, dissertation, University of Texas at
-Austin).
-
-Reichle, R. V., & Birdsong, D. (2014). Processing focus structure in L1 and L2 French: L2 proﬁciency
-
-effects on ERPs. Studies in Second Language Acquisition, 36, 535–564.
-
-Rooth, M. E. (1992). A theory of focus interpretation. Natural Language Semantics, 1, 75–116.
-Rothman, J. (2009). Pragmatic deﬁcits with syntactic consequences? L2 pronominal subjects and the
-
-syntax–pragmatics interface. Journal of Pragmatics, 41, 951–973.
-
-Rowlett, P. (2007). The syntax of French. Cambridge: Cambridge University Press.
-Schwartz, B. D., & Sprouse, R. A. (1996). L2 cognitive states and the full transfer/full access model.
-
-Second Language Research, 12, 40–72.
-
-Skopeteas, S., & Fanselow, G. (2010.) Focus types and argument asymmetries: A cross-linguistic study
-in language production. In C. Breul & E. G¨obbel (Eds.), Contrastive information structure
-(pp. 169–197). Amsterdam: Benjamins.
-
-Slabakova, R. (2010). Scalar implicatures in second language acquisition. Lingua, 120, 2444–2462.
-Slabakova, R. (2015). The effect of construction frequency and native transfer on second lan-
-guage knowledge of the syntax–discourse interface. Applied Psycholinguistics, 36, 671–
-699.
-
-Slabakova, R., Kempchinsky, P., & Rothman, J. (2012). Clitic-doubled left dislocation and focus
-fronting in L2 Spanish: A case of successful acquisition at the syntax-discourse interface.
-Second Language Research, 28, 319–343.
-
-Sleeman, P. (2004). Guided learners of French and the acquisition of emphatic constructions. Interna-
-
-tional Review of Applied Linguistics, 42, 129–151.
-
-Sorace, A. (2003). Near-nativeness. In M. Long & C. Doughty (Eds.), Handbook of second language
-
-acquisition (pp. 130–152). Oxford: Blackwell.
-
-Sorace, A. (2011). Pinning down the concept of “interface” in bilingualism. Linguistic Approaches to
-
-Bilingualism, 1, 1–33.
-
-Sorace, A. (2012). Pinning down the concept of interface in bilingual development: A reply to peer
-
-commentaries. Linguistic Approaches to Bilingualism, 2, 209–216.
-
-Sorace, A., & Filiaci, F. (2006). Anaphora resolution in near-native speakers of Italian. Second Lan-
-
-guage Research, 22, 339–368.
-
-Tracy-Ventura, N., McManus, K., Norris, J. M., & Ortega, L. (2014). “Repeat as much as you can”:
-Elicited imitation as a measure of oral proﬁciency in L2 French. In P. Leclercq, A. Edmonds,
-& H. Hilton (Eds.), Measuring L2 proﬁciency: Perspectives from SLA (pp. 143–166). Bristol:
-Multilingual Matters.
-
-Tremblay, A. (2011). Proﬁciency assessment standards in second language acquisition research. Studies
-
-in Second Language Acquisition, 33, 339–372.
-
-Tr´evise, A. (1986). Is it transferable, topicalization? In E. Kellerman & M. Sharwood Smith (Eds.),
-Crosslinguistic inﬂuence in second language acquisition (pp. 186–206). New York: Pergamon
-Press.
-
-Tsimpli, I., & Sorace, A. (2006). Differentiating interfaces: L2 performance in syntax semantics and
-syntax discourse phenomena. In D. Bamman, T. Magnitskaia, & C. Zeller (Eds.), Proceedings
-of the 30th annual Boston University Conference on Language Development (Vol. 2, pp. 653–
-664). Somerville, MA: Cascadilla Press.
-
-Valdman, A. (1988). Classroom foreign language learning and language variation: The notion of
-
-pedagogical norms. World Englishes, 7, 221–236.
-
-Valenzuela, E. (2006). L2 end state grammars and incomplete acquisition of Spanish CLLD construc-
-tions. In R. Slabakova, S. Montrul, & P. Pr´evost (Eds.), Inquiries in linguistic development: In
-honor of Lydia White (pp. 283–304). Amsterdam: Benjamins.
-
-Applied Psycholinguistics 38:3
-Destruel & Donaldson: L2 acquisition of pragmatic inferences
-
-732
-
-Watorek, M. (2004). Construction du discours par des apprenants de langues, enfants et adultes.
-
-Acquisition et Interaction en Langue Etrang`ere, 20, 129–171.
-
-White, L. (1989). Universal grammar and second language acquisition. Amsterdam: John Benjamins.
-White, L. (2011a). Second language acquisition at the interfaces. Lingua, 121, 577–590.
-White, L. (2011b). The interface hypothesis: How far does it extend? Linguistic Approaches to Bilin-
-
-gualism, 1, 108–110.
-
-Xue, J., & Onea, E. (2011). Correlation between presupposition projection and at-issueness: An
-empirical study. In G. Kierstead (Ed.), Proceedings of the ESSLLI 2011 Workshop on Projective
-Meaning (pp. 171–184). Ljubljana, Slovenia: eLanguage.
-
-

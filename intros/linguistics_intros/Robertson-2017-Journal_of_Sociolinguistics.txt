@@ -1,64 +1,8 @@
-Journal of Sociolinguistics 21/4, 2017: 497–520
-
-He’s more katakana than kanji: Indexing
-identity and self-presentation through script
-
-selection in Japanese manga (comics)
-
-Wesley C. Robertson
-Monash University, Australia
-
-This paper examines the role of script selection in indexing identities and
-styles of self-presentation within a Japanese manga (comic). By cataloguing
-where the kanji, hiragana, and katakana scripts are used to represent ﬁrst
-person pronouns, I establish the contexts where each script/pronoun
-combination serves as a locally normative representation. These norms are
-compared against non-normative representations to gain insight into the
-local meanings associated with the various scripts. Analysis of the variant
-forms is combined with an interview with the manga’s author. Ultimately,
-the results reveal that the contribution of script to the meaning of a
-Japanese text goes beyond any single marked selection, and involves
-interactions between both locally normative patterns of script use and
-meaningful local violations of these norms. Selections of script are seen to
-convey nuances in how meaning is constructed in the text, as well as
-reﬂecting wider ideologies about language use in Japan.
-本研究では日本の漫画を一作品取り上げ、文字表記方法によって登場人
-物のアイデンティティや表現スタイルがどのように構築されるかを考察
-する。登場人物の一人称代名詞が日本語の最も一般的な表記文字(漢
-字、ひらがな、カタカナ)のうちどの文字で著されているかを調査し、
-それぞれの表記がどのような文脈で用いられているかを分析すること
-により、文字表記の選択をもたらす、あるいは影響する動機を明らか
-にしようとする。この結果により日本語の文字表記の選択はテキスト
-の意味において複雑で、且つ相互的な影響力を持つことが分かる。文
-字表記による意味は、ある一場面でどの文字が使われているかという
-個別の選択によって決まるものではなく、作品全体の中で見られる一
-貫したパターン(また、そのパターンからの例外的な逸脱)との関係で
-構築されるのである。これまでの先行研究では社会言語学的な見方で
-日本語の文字表記バリエーションについて多くは論じられていないが、
-本論文では、日本語の文字表記の選択は意味作成やニュアンスにおいて
-重要であり、また、日本でダイアローグ作成に影響する言語思想(イデ
-オロギー)を観察するためのツールであることを明確化する。[Japanese]
-
-KEYWORDS: Indexicality, Japanese, Japanese writing, script, language
-ideology, comics
-
-© 2017 John Wiley & Sons Ltd
-
-498
-
-INTRODUCTION
-
-ROBERTSON
-
-In English,
-
-in many languages.
-
+INTRODUCTION.
 Compared to avenues for linguistic variation like accent, spelling, or word
 choice, the indexical potential of script has only recently become a topic of
 empirical inquiry. This is not necessarily surprising, as script selection is rare or
-even non-existent
-for example, distinct
+even non-existent in many languages. In English, for example, distinct
 populations with contrasting pronunciations, spelling standards, and/or
 vocabulary preferences are still united in their use of the Roman script.
 However, a growing body of research has evidenced many cases where
@@ -71,7 +15,6 @@ English-speaking heavy metal bands to index militarism or machismo, we see
 clear examples of script acting as a marker of distinct social groups and/or
 ideologically associated traits (Bender 2008; Brown and Yeon 2015; Harkness
 2015; Spitzm€uller 2012, 2015; Thompson 1982).
-
 The indexical potential of script selection is particularly interesting when
 discussing written Japanese. In most writing systems, script selection is
 somewhat analogous to dialect, as distinct communities utilize distinct
@@ -82,71 +25,50 @@ The contemporary Japanese writing system departs from this script/dialect
 analogy, as it instead necessitates the combined use of multiple scripts within a
 sentence. In particular, three scripts known as kanji, hiragana, and katakana
 are found within almost any contemporary text not written for children.
-Although the use of the three scripts generally follows codiﬁed standards,
+Although the use of the three scripts generally follows codified standards,
 almost any element of the Japanese language can be (and, indeed, has been)
 written in each script (Konno 2015). Consequently, the Japanese writing
 system allows for variation in script use on a ‘scale which is inconceivable in
 the case of more familiar [to Western readers] writing systems’ (Backhouse
 1984: 220). This provides potential for meaningful and systematic variations
-in ‘saying the same thing’ (Silverstein 1985: 222) which is difﬁcult, if not
+in ‘saying the same thing’ (Silverstein 1985: 222) which is difficult, if not
 impossible, to observe in other languages.
-
 My goal in this study is to further our understanding of how variant uses of
 kanji, hiragana, and katakana can be part of the creation of a ‘total linguistic
-fact’ (Silverstein 1985: 220). That is, an unpredictable,
-layered, context-
-dependent, and ideologically mediated linguistic unit that is co-constructed by
+fact’ (Silverstein 1985: 220). That is, an unpredictable, layered, contextdependent,
+and ideologically mediated linguistic unit that is co-constructed by
 the denotational (i.e. conventional or dictionary-literal) and indexical meaning(s)
-of
-I
-investigate variation in the script(s) which represent ﬁrst person pronouns
+of linguistic signs (Blommaert 2016; Wortham 2010). To do so, I
+investigate variation in the script(s) which represent first person pronouns
 throughout the dialogue of adult characters in the Japanese manga (‘comic’)
-
-(Blommaert 2016; Wortham 2010). To do so,
-
-linguistic signs
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-499
-
-Usagi Doroppu (‘Bunny Drop’). More speciﬁcally, I identify and compare consistent
-links between script/pronoun combinations and deﬁnable speaker identities and
-styles of self-presentation to shed light on how each script’s indexical ﬁeld
-inﬂuences if, when, and where the author represents a pronoun in hiragana,
+Usagi Doroppu (‘Bunny Drop’). More specifically, I identify and compare consistent
+links between script/pronoun combinations and definable speaker identities and
+styles of self-presentation to shed light on how each script’s indexical field
+influences if, when, and where the author represents a pronoun in hiragana,
 katakana, or kanji. Analysis of the script selection is supplemented by a
 stimulated recall interview conducted with the manga’s author.
-
 Ultimately, the representation of pronouns in Usagi Doroppu is found to
 involve both contrasting norms that separate major character identities and
-temporary variants which index locally non-normative styles of
-self
-presentation. The speciﬁcs of each norm’s design and use also shows that
-script selection can serve as a location for observing the inﬂuence of linguistic
+temporary variants which index locally non-normative styles of self
+presentation. The specifics of each norm’s design and use also shows that
+script selection can serve as a location for observing the influence of linguistic
 ideologies on how dialogue is constructed in Japanese. However, before
-discussing the data or ﬁndings in further detail, it is necessary to ﬁrst explain
+discussing the data or findings in further detail, it is necessary to first explain
 the particulars of script and script selection in Japanese writing. The following
 section will provide this summary, and in doing so establish why investigation
 of Japanese script selection is still necessary despite prior discussion of the topic.
-
-SCRIPT AND SCRIPT SELECTION IN CONTEMPORARY JAPANESE
-WRITING
-
-As mentioned,
-the three primary scripts used in contemporary written
+SCRIPT AND SCRIPT SELECTION IN CONTEMPORARY JAPANESE WRITING.
+As mentioned, the three primary scripts used in contemporary written
 Japanese are known as kanji, hiragana, and katakana. Of the three scripts,
 kanji is by far the oldest and most complex. Contemporary written Japanese
 uses thousands of distinct kanji, with each morphosyllabic character usually
 representing sound and meaning simultaneously (Matsunaga 1996). As an
-example, in the construction これは紙です (kore wa kami desu, ‘this is paper’)
-the kanji 紙 both represents the morae kami and means ‘paper’; the kanji both
-signiﬁes sound and distinguishes the morae from other homographs. In
+example, in the construction これは紙です(kore wa kami desu, ‘this is paper’)
+the kanji 紙both represents the morae kami and means ‘paper’; the kanji both
+signifies sound and distinguishes the morae from other homographs. In
 contemporary Japan, kanji are primarily used to represent nouns of Japanese
-or Chinese origin, and the non-inﬂectional stems of most verbs and adjectives
+or Chinese origin, and the non-inflectional stems of most verbs and adjectives
 (Seeley 2000).
-
 Hiragana and katakana are instead phonetic scripts developed in Japan.
 Both consist of corresponding sets of 46 characters which represent individual
 morae in Japanese phonology. In contrast to kanji, individual hiragana and
@@ -155,114 +77,62 @@ language act. For instance, three options for writing the morae kami are the
 previously mentioned kanji 紙, the hiragana かみ, and the katakana カミ.
 While the kanji representation is almost certain to mean ‘paper’, the other
 options could represent the words ‘paper’, ‘hair’, ‘god’, or a number of other
-homographs which would require distinct kanji (髪 and 神 for ‘hair’ and ‘god’,
+homographs which would require distinct kanji (髪and 神for ‘hair’ and ‘god’,
 respectively). Currently, the major role of hiragana is to represent grammatical
-particles and the inﬂectional elements of a sentence, while katakana most commonly
+particles and the inflectional elements of a sentence, while katakana most commonly
 represents loanwords from languages other than Chinese (Konno 2014a). Both
-
-© 2017 John Wiley & Sons Ltd
-
-500
-
-ROBERTSON
-
 scripts are also used to represent onomatopoeia, and to replace kanji
-considered difﬁcult to read or write.
-
+considered difficult to read or write.
 While the use of multiple scripts in Japanese is therefore far from chaotic, the
 major applications of each script are actually better described as conventions
 rather than rules (Konno 2014a). Some conventions, like the use of hiragana
-for particles and inﬂection, are quite rigid. However, there is not necessarily a
-deﬁnitive or ‘best’ representation for many individual words, and variant
+for particles and inflection, are quite rigid. However, there is not necessarily a
+definitive or ‘best’ representation for many individual words, and variant
 selections are often better described as ‘uncommon’ than ‘wrong’ (Konno
 2014b). Consequently, authors are allowed some individuality in their script
 use, and orthographic variation stands as ‘a major characteristic of the
-Japanese writing system’ (Joyce, Hodoscek and Nishina 2012: 269) even
-within standard writing. In more creative or ﬂexible styles/mediums of writing
+Japanese writing system’ (Joyce, Hodoscek and Nishina 2012: 269) even
+within standard writing. In more creative or flexible styles/mediums of writing
 (e.g. manga, advertising, online communication), script variation can be even
 further pronounced, as the fact that any script can technically represent almost
 any word opens the door for a wide variety of creative play (Gottlieb 2010;
 Robertson 2015). Table 1 shows three examples.
-
 Speaking broadly, researchers have established two major motives for the
-selection of unconventional or uncommon script variants in Japanese. The ﬁrst
+selection of unconventional or uncommon script variants in Japanese. The first
 is a desire or need for legibility-related changes. For instance, authors may use
 an otherwise unusual representation to draw attention to a word, avoid kanji
 with unpleasant meanings, adjust their text composition in consideration of
-the literacy level of
-readers, or clarify word boundaries when
+the literacy level of their readers, or clarify word boundaries when
 orthographic norms would cause one script to dominate a sentence (Akizuki
 2005; Gottlieb 2005). These recognized sources of script variation are not the
 focus of the current study, but must be considered as potential explanations for
 any interesting script use found in written Japanese.
-
-their
-
 The second major reason for script selection, and the one of interest to this
-study,
-is that authors sometimes vary their script use in relation to the
+study, is that authors sometimes vary their script use in relation to the
 meaning of a word or sentence. That is, authors select ‘a particular script type
 for the “feeling” it evokes’ (Kess and Miyamoto 1999: 108), with each ‘feeling’
 arising from links1 between a script, its historical or contemporary uses or
 users, and culturally associated traits. For example, the kanji script was once
 mostly restricted to the domain of educated, upper-class males. Even today, it is
 still seen as a symbol of maturity and erudition. Consequently, its marked use
-
-Table 1: Three words written in the three major Japanese scripts
-
-Japanese word (English translation)
-
-Script
-
-kaki (‘oyster’)
-
-megane (‘glasses’)
-
-biiru (‘beer’)
-
-Kanji
-Hiragana
-Katakana
-
-牡蠣
-かき
-カキ
-
-眼鏡
-
-めがね
-メガネ
-
-麦酒
-
-びいる
-ビール
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-501
-
 is frequently argued to make writing have an old-fashioned, masculine, formal,
 or scholarly feel (Brown 1985; Tsuboi 2003). Hiragana-heavy texts are instead
 viewed as feminine, cute, gentle, or childish (Akizuki 2005; Miyake 2007), as
 hiragana was historically the primary script used by women writers, and is
-currently the ﬁrst script learned by Japanese children (Hirose 2007; Yoda
+currently the first script learned by Japanese children (Hirose 2007; Yoda
 2000). Finally, the nonstandard use of katakana is said to be able to evoke a
 foreign or modern feel due to the script’s major role of representing loan words
 (Tomoda 2009; Tranter 2008). While it should be recognized that many
 descriptions of each script come from the assertions of individuals rather than
 empirical analysis, a sizeable body of psycholinguistic research has evidenced
-that the listed impressions (insho), feelings (kimochi), effects (koka), or images
-(imeji) of each script – to borrow the terms used across the cited works – exist in
-the minds of native speakers and can inﬂuence their script use under
+that the listed impressions (insho), feelings (kimochi), effects (koka), or images
+(imeji) of each script – to borrow the terms used across the cited works – exist in
+the minds of native speakers and can influence their script use under
 experimental conditions (Hirose 2007; Iwahara, Hatta and Maehara 2003;
 Ukita et al. 1996).
-
 However, the widespread recognition of the idea that native speakers of
-Japanese view each script differently belies a lack of systematic and context-
-sensitive empirical investigation into how and why these images manifest in
+Japanese view each script differently belies a lack of systematic and contextsensitive
+empirical investigation into how and why these images manifest in
 variant uses of kanji, hiragana, and katakana in natural (i.e. not produced for
 the purpose of research) texts. Most studies which touch on the topic are more
 broadly interested in identifying differences in script use between writers/
@@ -270,18 +140,15 @@ genres via script proportion analysis. Generally speaking, these studies contain
 clear uses of script which cannot be attributed to legibility-related concerns,
 but their analysis of how the selection of a particular script creates meaning is
 constrained by a few reoccurring limitations.
-
 The most common limitation in prior research is a nearly exclusive interest
 in nonstandard uses of katakana. The focus on katakana is understandable.
 Purposeful selection of hiragana and kanji can be hard to identify because the
-scripts possess some overlapping roles (Usami 2004). Furthermore,
-the
+scripts possess some overlapping roles (Usami 2004). Furthermore, the
 (perceived) increase in katakana/loan words in Japanese writing has long
 been a subject of debate and controversy in Japan (Tomoda 2009; Twine
 1991). Still, the lack of attention to variant use of all three scripts prevents us
 from fully accessing if and how multiple representations contrast and interact
 to index meaning across a text or texts (Masuji 2011).
-
 The second major limitation is that analysis of what individual selections of
 script are intended to convey is rarely based on systematic trends evidenced
 within texts written by a single author. Instead, potential uses of script for
@@ -289,85 +156,57 @@ effect are taken from works written by multiple authors with potentially
 clashing script preferences, and/or presented out of context in tables or as
 individual words. This forces the motives for any particular selection to be
 analyzed through attending to a researcher’s individual conception of a script’s
-indexical ﬁeld, the types of words being represented in a nonstandard manner,
-or demographic differences between authors/audiences (e.g. Joyce, Hodoscek
+indexical field, the types of words being represented in a nonstandard manner,
+or demographic differences between authors/audiences (e.g. Joyce, Hodoscek
 and Nishina 2012; Rowe 1981; Satake 1989). While often persuasive, these
-
-© 2017 John Wiley & Sons Ltd
-
-502
-
-ROBERTSON
-
 explanations are not rooted in clear divides between the local contexts where a
 single author uses different scripts to represent the same item(s). Consequently,
 the explanations may inadvertently overlook nuances of what caused the
 selection, similar to how traditional descriptions of venues for variation
-originating in Japanese speech (e.g. the use of honoriﬁc variants (keigo),
+originating in Japanese speech (e.g. the use of honorific variants (keigo),
 ‘women’s language’ (onna kotoba), or pronoun selection) have been found to
 inexactly describe the diversity of reasons why individuals use or avoid certain
-lexical variants and/or grammatical
-(Agha 1998; Cook 2011;
+lexical variants and/or grammatical forms (Agha 1998; Cook 2011;
 Moskowitz 2014, 2015). Finally, since previous studies almost always
-identiﬁed marked script use by referencing published guidelines for script use
-in standard Japanese (Masuji 2011),
-locally
+identified marked script use by referencing published guidelines for script use
+in standard Japanese (Masuji 2011), there is a possibility that locally
 normative language use has been treated as marked (Davila 2012), or that
 meaningful locally nonstandard variants have been overlooked due to chance
 alignment with standard language use (Bucholtz and Hall 2005).
-
-there is a possibility that
-
-forms
-
-I do not
-
-In making these pointed critiques,
-
-intend to dismiss the
-contributions of prior research to the ﬁeld. The limitations discussed so far
+In making these pointed critiques, I do not intend to dismiss the
+contributions of prior research to the field. The limitations discussed so far
 are often due to script use for effect being only an ancillary element of studies
 with other primary interests, and this study would be impossible without the
-fundamental ﬁnding that some script variation must be attributed to
+fundamental finding that some script variation must be attributed to
 associations authors hold with kanji, hiragana, and katakana. Rather, the
 intent of my critique is to establish why the role of script selection in indexing
 meaning in Japanese writing needs further study despite the basic concept
-seeing decades of recognition. While there is no doubt
-that hiragana,
+seeing decades of recognition. While there is no doubt that hiragana,
 katakana, and kanji can function as indexes, there is much that remains
-unknown about the speciﬁcs of how and why (i.e. for what purposes) this
+unknown about the specifics of how and why (i.e. for what purposes) this
 occurs, with systematic and context-sensitive analysis necessary to further our
 understanding of the phenomenon.
-
-DATA SOURCE AND METHODOLOGY
-
+<Middle>
+DATA SOURCE AND METHODOLOGY.
 The primary data for this study comes from the dialogue throughout the nine
 primary volumes of the manga series Usagi Doroppu (‘Bunny Drop’) (Unita
 2006, 2007a, 2007b, 2008, 2009a, 2009b, 2010a, 2010b, 2011). The
-manga medium was selected as a data source for two primary reasons. The ﬁrst
+manga medium was selected as a data source for two primary reasons. The first
 is the popularity of manga in Japan. Although manga are described as
 Japanese comics, it is important to establish that they are a ‘critical part of the
 [Japanese] culture industry’ (Prough 2010: 56). Yearly sales of manga are
 over three times larger than those of comics in America and Canada combined
 (Oricon 2012; Virtue 2015), and the medium reaches such a high level of
-mainstream acceptance that even ofﬁcial government communications,
+mainstream acceptance that even official government communications,
 corporate histories, classical works of literature, and educational texts can be
 found in manga form (Kinsella 1996; Schwartz and Rubinstein-Avila 2006).
-This substantial popularity of manga makes them a linguistically inﬂuential
+This substantial popularity of manga makes them a linguistically influential
 medium, with many noted trends in both speech and writing thought to have
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-503
-
 been spread or popularized by the language used by protagonists of popular
 titles (Nakamura 2007; Ueno 2006; Unser-Schutz 2010, 2013). Consequently,
 manga serve as a valuable site for examining contemporary stereotypes and
 ideologies regarding language users and language use in Japanese (Kinsui
 2003).
-
 Secondly, the comic medium has a well-recognized history of conveying
 information through the graphic manipulation of text (McCloud 1993).
 Comics are distinct from most other writing which contains dialogue in that an
@@ -379,44 +218,35 @@ information about a character or speech act (McCloud 2006; Wolk 2007). This
 established reliance on graphic manipulation of text to create meaning
 provides the potential for comics/manga to be a particularly fertile location for
 observing the use of script as an index.
-
 The manga used for analysis here, Usagi Doroppu, is a slice-of-life manga
 written and illustrated by the Japanese manga-ka Yumi Unita between 2005
-and 2011. The manga was ﬁrst serialized in FEEL YOUNG, a manga magazine
+and 2011. The manga was first serialized in FEEL YOUNG, a manga magazine
 with an annual run of around 80,000 copies (Japanese Magazine Publishers
 Association 2014). Generally, the comics within FEEL YOUNG fall within the
-Ladies’ Comics (redısu komikkusu) genre, which is aimed primarily at female
+Ladies’ Comics (redısu komikkusu) genre, which is aimed primarily at female
 readers between 15 and 45 years of age (Ito 2005). However, although Usagi
 Doroppu contains tropes of this genre, being drawn in a realistic style and
 involving some discussion of relationships, it is atypical in not focusing on
 female protagonists or romance (Ueno 2006). Rather, the protagonist of the
-ﬁrst four volumes is a Japanese businessman named Daikichi who learns how
+first four volumes is a Japanese businessman named Daikichi who learns how
 to be a single father after adopting a six-year-old girl named Rin. Each of these
-four initial volumes consists of about six months of time, with Rin in her ﬁrst
-year of elementary school at the end of the fourth volume. In the ﬁfth volume
+four initial volumes consists of about six months of time, with Rin in her first
+year of elementary school at the end of the fourth volume. In the fifth volume
 the story enters its second major act, and jumps forward ten years. Rin is now
 in high school, and Daikichi and Rin serve as co-protagonists. As the story
 continues more romance-related elements appear, but the major plotline of the
-latter volumes centers around Rin deciding to ﬁnd her biological mother. The
+latter volumes centers around Rin deciding to find her biological mother. The
 complete story is currently available in Japanese and English as nine individual
 volumes, and a tenth bonus volume (called a bangaihen) was released in 2011.
 Usagi Doroppu was selected over other potential manga series due to: (1) its
-popularity, having spawned an animated series and a feature ﬁlm; and (2) its
+popularity, having spawned an animated series and a feature film; and (2) its
 creation by a single author/artist. The manga’s mainstream nature raises
-conﬁdence that the language/script use within is aimed at a fairly general
+confidence that the language/script use within is aimed at a fairly general
 readership. Sole authorship ensures that there is no risk of script variation
 resulting from contrasting preferences. While Japanese publishers can have
-internal guidelines for script use, the author conﬁrmed in the interview that
-
-© 2017 John Wiley & Sons Ltd
-
-504
-
-ROBERTSON
-
+internal guidelines for script use, the author confirmed in the interview that
 she had complete control over how she represented her characters’ dialogue
 (Yumi Unita, personal communication, 3 March 2015).
-
 The data used in this study were collected by transcribing the entirety of the
 dialogue from Usagi Doroppu, and coding each utterance by volume, speaker,
 and page number using NVivo software (a data analysis program that allows
@@ -434,256 +264,137 @@ Children’s dialogue is therefore better analyzed separately from teenage and
 adult usages, and in a holistic way, as any single selection of script for a child’s
 dialogue is potentially part of a larger construct for the representation of
 children’s speech in writing.
-
 Analysis began by using the coded dialogue to catalogue where (i.e. in what
 dialogue) each script/pronoun combination occurred in the manga. This
-catalogue was used to look for distinct contexts where speciﬁc combinations of
+catalogue was used to look for distinct contexts where specific combinations of
 a script and a pronoun served as a local norm in the manga. Here ‘contexts’ is
-deﬁned broadly to include who is speaking, who is involved in the
-conversation, and the contents of/motive for the speech act. The deﬁnition
-of a ‘local norm’ is based on a slight modiﬁcation to that used by Ukita et al.
+defined broadly to include who is speaking, who is involved in the
+conversation, and the contents of/motive for the speech act. The definition
+of a ‘local norm’ is based on a slight modification to that used by Ukita et al.
 (1996): any script that the author used to represent a word over 70 percent of
-the time in a deﬁnable context is considered to be the local norm for that
+the time in a definable context is considered to be the local norm for that
 context. That is, rather than use a general conception of the orthographic
 norms of standard Japanese (raised earlier as problematic), quantitative
-cataloguing of
-the script use within the manga itself created localized
-deﬁnitions of what is normative and marked throughout both the text and
+cataloguing of the script use within the manga itself created localized
+definitions of what is normative and marked throughout both the text and
 the dialogue of individual speakers/speaker groups. The study then compared
-the context
-in which each identiﬁed script/pronoun combination norm
-occurred against the others to identify the speciﬁcs of what made each
-context distinct. Similarly, noted types of deviations from each identiﬁed norm
+the context in which each identified script/pronoun combination norm
+occurred against the others to identify the specifics of what made each
+context distinct. Similarly, noted types of deviations from each identified norm
 (e.g. locally marked uses of katakana for a pronoun in a context where the
 manga otherwise uses kanji) were examined to see whether they could be
-similarly attributed to consistent contextual
-triggers. Ultimately, both
-examinations helped establish if and how speciﬁc character types and styles
-of self-presentation inﬂuenced the use of kanji, hiragana, and katakana for
-pronouns across the text. This analysis was complemented by a stimulated-
-recall interview on script and script use conducted with the manga’s author,
+similarly attributed to consistent contextual triggers. Ultimately, both
+examinations helped establish if and how specific character types and styles
+of self-presentation influenced the use of kanji, hiragana, and katakana for
+pronouns across the text. This analysis was complemented by a stimulatedrecall
+interview on script and script use conducted with the manga’s author,
 Yumi Unita, via email in March 2015. The interview was used to access the
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-505
-
 author’s general impressions of each script, receive further information for the
 motives for interesting orthographic trends noted in initial analysis, and
 inquire about locally variant script use which could not be attributed to a
-deﬁnable context or trend.
-
-DATA ANALYSIS AND RESULTS
-
+definable context or trend.
+DATA ANALYSIS AND RESULTS.
 Japanese pronouns and their use in Usagi Doroppu
-
-Before examining the script use for ﬁrst person pronouns in Usagi Doroppu, it is
-necessary to brieﬂy discuss pronoun use in both the manga and Japan. First
+Before examining the script use for first person pronouns in Usagi Doroppu, it is
+necessary to briefly discuss pronoun use in both the manga and Japan. First
 person pronouns have long been recognized as a location where Japanese
 language users select from variants to adopt stances or index their identity,
 with each individual pronoun connected to different social voices or styles of
 self-presentation (Ono and Thompson 2003). Within Usagi Doroppu, the four
 pronouns that appear are watashi, ore, boku, and atashi. According to Ide
 (1979), these pronouns are broadly differentiated as follows:
-
-more common and less formal in women’s speech;
-
 • watashi is the politest of the four, and although used by both genders is
+more common and less formal in women’s speech;
 • boku and ore are male-exclusive, with boku more polite than ore; and
 • atashi is a casual (compared to watashi) pronoun used only by women.
-Recent studies have shown that pronoun use in Japan does not always ﬁt
+Recent studies have shown that pronoun use in Japan does not always fit
 within Ide’s descriptions, and can index more than gender or a particular level
 of politeness (Maree 2003; Miyazaki 2002; Moskowitz 2014). However, the
 use of pronouns in Usagi Doroppu agrees with Ide’s stereotypical descriptions,
-Japanese popular media often divides characters
-reﬂecting ﬁndings that
-through more conventional or ‘normative’
-language use than is seen in
+reflecting findings that Japanese popular media often divides characters
+through more conventional or ‘normative’ language use than is seen in
 natural conversation (Kinsui 2003, 2010; Nakamura 2013, 2014).
-
-their
-
 For example, the stereotypically masculine pronouns ore and boku account
 for all but one of the 541 pronouns used by males in Usagi Doroppu. Teen males
 prefer the ‘rougher’ ore, using it 109 times, and avoid the ‘politer’ boku, using it
 only twice. Adult males instead have individual preferences for boku or ore,
 with their selection depending on the character’s general personality or the
-contextual politeness of
-speech register. To explain ‘contextual
+contextual politeness of their speech register. To explain ‘contextual
 politeness’, consider the manga’s protagonist Daikichi. Daikichi prefers a
 rough, slang-heavy speech style which uses ore; the pronoun accounts for 352
 of the 382 pronouns that appear in his speech. However, Daikichi switches to
 boku 29 times, and each use occurs in politer dialogue with either superiors at
 work or people he’s just met. Daikichi’s dialogue also contains the sole use of
 watashi by a male speaker, which he uses when calling Rin’s biological mother,
-Masako, for the ﬁrst time. In this conversation, Daikichi (who Masako does not
+Masako, for the first time. In this conversation, Daikichi (who Masako does not
 yet know exists) utilizes a number of indexes of formal, other-directed deference
 which never appear in his speech elsewhere. A clear example is a reference to
-
-© 2017 John Wiley & Sons Ltd
-
-506
-
-ROBERTSON
-
-Table 2: Contexts in which each pronoun found in Usagi Doroppu is used
-
-Pronoun
-
-Male speech
-
-Female speech
-
-watashi
-
-Limited to hyper-polite speech
-
-Norm for polite speakers/speech
-
-boku
-
-ore
-
-Norm for polite speakers/speech
-
-Not observed
-
-Norm for all teens, and rough or
-casual adult speakers and speech
-
-Not observed
-
-atashi
-
-Not observed
-
-Norm for all teens besides Rin,
-and rough or casual adult
-speakers and speech
-
 his adopted daughter as kaga rin-san (‘Ms. Rin Kaga’). Daikichi simply calls her
 rin (‘Rin’) in all other conversations. In sum, the locally marked use of the
 stereotypically hyper-polite male watashi appears as part of a locally irregular
 adoption of a formal stance towards his interlocutor, which is in alignment
-with Ide’s descriptions. Female characters’ pronoun use is
-similarly
+with Ide’s descriptions. Female characters’ pronoun use is similarly
 stereotypical, as women only use the ‘feminine’ pronouns watashi and atashi.
 All teenage girls besides Rin use the more casual atashi exclusively. Rin instead
 always uses watashi, with her status as the most mature and studious of her
-peers reﬂected in her preference of the more polite pronoun. Like the boku/ore
+peers reflected in her preference of the more polite pronoun. Like the boku/ore
 divide in the speech of adult men, adult women whose speech regularly
 contains indexes of formality use watashi, while women who frequently use
 slang or casual speech registers prefer atashi. Table 2 summarizes the contexts
 in which each pronoun is used in Usagi Doroppu.
-
 In short, the author’s pronoun use varies consistently in relation to the
 gender of a character and/or the speech register they use in a given context,
 and this variation occurs in a fairly conventional manner. However, as will be
-shown in the analysis of the author’s script use, attending only to pronoun-
-based variation overlooks the totality of means through which pronouns index
+shown in the analysis of the author’s script use, attending only to pronounbased
+variation overlooks the totality of means through which pronouns index
 socially meaningful identities and stances across the text.
-
-Script use for men’s pronouns
-
+Script use for men’s pronouns.
 Beginning with male dialogue in Usagi Doroppu, there is a steady divide
 between the script normatively used to represent the pronouns of teenagers
 and adults. As can be seen in Figure 1, 110 of the 111 pronouns (99.1%) used
-by teenage males are written in katakana. In contrast, 414 of the 430 ﬁrst
+by teenage males are written in katakana. In contrast, 414 of the 430 first
 person pronouns (96.3%) used by adult males are written in kanji. Putting
 aside the exceptions for now, initial examination of the data indicates that the
 use of kanji or katakana for boku and ore is in some way related to a character’s
 age. If a character is in high school, kanji will almost always be treated as
 inappropriate for their pronouns, while katakana is generally avoided for
 writing the pronouns used by adult males.
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-507
-
-1
-
-110
-
-15
-
-1
-
-414
-
-Katakana
-Kanji
-
-Katakana
-Kanji
-Hiragana
-
-(a) Script used for FPPs of teen males
-
-(b) Script used for FPPs of adult males
-
-Figure 1: The representation of ﬁrst person pronouns (FPPs) in male dialogue in
-Usagi Doroppu
-
 Due to this divide in script use, male characters in Usagi Doroppu can be
 differentiated both lexically (i.e. through pronouns) and orthographically (i.e.
 through script), with each individual contrast indicating different information
 about what divides a speaker from another. For example, Daikichi and his father
 respectively prefer the pronouns ore and boku. This contrast in their pronoun
-preference reﬂects a contrast in their general demeanor: Daikichi has a short
+preference reflects a contrast in their general demeanor: Daikichi has a short
 temper, while his father is the only member of their family who is never seen
 yelling or raising their voice. However, as both speakers are adults, kanji is used
 for all of their pronouns. This means that the characters’ pronouns are lexically
 incongruous (ore vs. boku) but orthographically alike (kanji (俺) vs. kanji (僕)).
-In contrast, both Daikichi and a teenage male named Koki prefer the pronoun
-ore, but Koki’s pronouns are always written in katakana. The normative
-pronouns of Daikichi and Koki are consequently lexically identical (ore vs. ore)
-(俺) vs. katakana (オレ)). Between
-and orthographically distinct
-Daikichi’s father and Koki we then see two levels of distance, as the
-characters are distinguished through both lexical
-(boku vs. ore) and
-orthographic (kanji
-these
-combine to reﬂect differences in both demeanor/politeness (pronouns) and
-something relating to age (script). The identities of
-the male speakers
-simultaneously inﬂuence the selection of variants through two channels,
+In contrast, both Daikichi and a teenage male named Koki prefer the pronoun
+ore, but Koki’s pronouns are always written in katakana. The normative
+pronouns of Daikichi and Koki are consequently lexically identical (ore vs. ore)
+and orthographically distinct (kanji (俺) vs. katakana (オレ)). Between
+Daikichi’s father and Koki we then see two levels of distance, as the
+characters are distinguished through both lexical (boku vs. ore) and
+orthographic (kanji (僕) vs. katakana (オレ)) divides. Together, these
+combine to reflect differences in both demeanor/politeness (pronouns) and
+something relating to age (script). The identities of the male speakers
+simultaneously influence the selection of variants through two channels,
 with four distinct script/pronoun combination norms indexing four distinct
 categories of (male) speakers.
-
-(僕) vs. katakana (オレ)) divides. Together,
-
-(kanji
-
 However, while age can predict whether a male character’s pronouns will be
 represented by katakana or kanji over 96 percent of the time (524/541), the
-idea that
-is directly indexing a speaker’s age may be an
-oversimpliﬁcation. When asked how she chose whether to use kanji or
+idea that script is directly indexing a speaker’s age may be an
+oversimplification. When asked how she chose whether to use kanji or
 katakana for male pronouns, the author wrote that:
-
-script
-
-© 2017 John Wiley & Sons Ltd
-
-508
-
-ROBERTSON
-
-It’s always a bit arbitrary but I do divide the use [of script]. The image of 俺 [ore
-in kanji] ? (if compared to the katakana) a little old fashioned, Japanese, visually
-hard impression. The image ofオレ [ore in katakana] (if compared to the kanji)
+It’s always a bit arbitrary but I do divide the use [of script]. The image of 俺[ore
+in kanji]?(if compared to the katakana) a little old fashioned, Japanese, visually
+hard impression. The image ofオレ[ore in katakana] (if compared to the kanji)
 ? naughty, young, a bit show-offy, visually sharp. But these images are just my
 personal feelings, and not a strict thing.2 (Yumi Unita, personal communication,
 3 March 2015)
-
 Based upon the author’s comments, the kanji/katakana divide between
 adult and teen pronouns does not appear to be consciously planned. Rather,
-selection is inﬂuenced more subconsciously by ‘images’ the author holds
+selection is influenced more subconsciously by ‘images’ the author holds
 regarding each script. This would imply that the prominence of kanji in adult
 males’ speech is not a consequence of age, but rather of the author treating
 adults as having a lower normative occurrence of behavioral traits she treats
@@ -694,52 +405,30 @@ in male speech (i.e. the use of katakana for adult male pronouns and use of
 kanji for teen male pronouns) is not random, but consistently occurs when a
 character behaves incongruously with the images the author feels are indexed
 by the locally standard script for their age group.
-
 For example, in Excerpt 1 we see the use of a kanji-represented boku (boxed
 in the excerpt) in the dialogue of a teenager named Yasuhara. This excerpt
-occurs when Yasuhara meets Rin for the ﬁrst time and makes a semi-formal
+occurs when Yasuhara meets Rin for the first time and makes a semi-formal
 request. It is one of only two times teenage males use boku in the manga, and
 the only time any teenage male’s pronoun is written in kanji.
-
-Excerpt 1: Usagi Doroppu, Vol. 6, p. 135
-
-Yasuhara: じゃ、ごめんね。(cid:3707)、今日はさすがに部活に顔出さないと. . .
-すいませんこんなカンジで. . . あとよろしくお願いします。
-
-ja gomen ne. boku , kyo wa sasuga ni bukatsu ni kao dasanai to. . .
-suimasen konna kanji de. . . ato yoroshiku onegaishimasu.
-
-Ah, sorry. I should show my face at the club activities today. . .
-sorry to leave now but. . . please take care of things from here.
-
 In all later stories, where Yasuhara is closer with Rin, he instead uses the
 teenage male standard of a katakana-represented ore (オレ). Furthermore, the
 dual conversion in Excerpt 1 is not repeated during the second use of boku by a
-teenager, which occurs when an embarrassed Koki is making obviously false
-excuses to Rin about why his bag smells of perfume. Koki’s adoption of a
+teenager, which occurs when an embarrassed Koki is making obviously false
+excuses to Rin about why his bag smells of perfume. Koki’s adoption of a
 ‘childish’ stance towards Rin in this scene is contrastively accompanied by
-maintenance of the local katakana standard (i.e. ボク), with no polite stance-
-taking occurring in the dialogue/scene.
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-509
-
+maintenance of the local katakana standard (i.e. ボク), with no polite stancetaking
+occurring in the dialogue/scene.
 Still, since Yasuhara is a minor character with limited dialogue, the single
-in his speech risks being dismissed as chance or a mistake.
-use of kanji
+use of kanji in his speech risks being dismissed as chance or a mistake.
 However, every violation of the manga’s kanji norm for pronouns in adult
 male speech similarly occurs when a character acts in a locally non-normative
 (here, immature, showy, impolite, etc.) manner. For example, three of the 15
 adult-male pronouns written in katakana occur in the dialogue of a character
-named Tama during his ﬁrst appearance in the manga. In this story Tama is
+named Tama during his first appearance in the manga. In this story Tama is
 yelling angrily at Daikichi, and uses a katakana-represented ore (オレ) three
 times. In all later dialogue Tama is instead calm and friendly, and his dialogue
 only contains uses of boku written in kanji (僕), moving to the more polite
 variant in both channels.
-
 Similarly, three uses of katakana for boku (ボク) occur in the speech of an
 unnamed male model during his initial meeting with Daikichi at Rin’s school. In
 this chapter, the model has a spirited conversation with Daikichi about past work
@@ -750,66 +439,37 @@ the model is blushing and clasping his face with both hands while laughing. His
 dialogue is highly animated, and although polite overall contains multiple
 exclamation points and irregular spellings (underlined in Excerpt 2) often
 intended to make writing appear cute (Miyake 2007). The model’s performance
-in this dialogue (and the chapter) is silly and ﬂamboyant, matching the ‘show-
-offy’ (chara chara) feel the author attributes to katakana. Additionally, the sole
+in this dialogue (and the chapter) is silly and flamboyant, matching the ‘showoffy’
+(chara chara) feel the author attributes to katakana. Additionally, the sole
 use of hiragana for a male pronoun also occurs in the model’s dialogue during
-this conversation, further indicating that something speciﬁc to this character is
+this conversation, further indicating that something specific to this character is
 causing irregular pronoun representations. Based on previous descriptions of
-hiragana, the childish elements of the scripts’ indexical ﬁeld may be relevant
+hiragana, the childish elements of the scripts’ indexical field may be relevant
 here. That said, as the hiragana boku (ぼく) is a single handwritten exception,
-rather than part of any clear trend, a deﬁnitive reason for the selection is not
+rather than part of any clear trend, a definitive reason for the selection is not
 possible to obtain using the methods of analysis employed by this study.
-
-Excerpt 2: Usagi Doroppu, Vol. 4, p. 78
-
-Model: あああ!! それ多分
-
-です!! はずかしっ。御社にかなりお世話に
-
-なっておりますぅー。肌着も海パンもNGナシでなんでも
-着てました!!
-
-aaa!! sore tabun boku desu!! hazukashi. onsha ni kanari osewa ni natte
-orimasu-, hadagi mo kaipan mo enujı nashi de nandemo kitemashita!!
-Ahh!! That was probably me !! So embarrassing! I’m very indebted to
-your company. Underwear, swim trunks, I wore whatever I was
-asked!!
-
-In contrast, during his second (and ﬁnal) appearance the model is more
+In contrast, during his second (and final) appearance the model is more
 subdued. In this later chapter he joins other adults at a park, and participates
-
-© 2017 John Wiley & Sons Ltd
-
-510
-
-ROBERTSON
-
-in a dialogue about the difﬁculties of being a single parent. In this more
+in a dialogue about the difficulties of being a single parent. In this more
 restrained environment, wherein children and parents of both genders are
 present and the model is enacting his identity as a parent rather than a model/
 new friend, the model’s dialogue is written using standard spelling and
 grammar, and his two uses of boku are all written in kanji (僕).
-
-in the bathroom of a restaurant. Like with Tama,
-
 Finally, the remaining nine uses of katakana for adult-male pronouns come
 from the dialogue of two workers at Daikichi’s company. One is unnamed, and
 uses a katakana-represented ore (オレ) twice while smoking and complaining
-about Daikichi
-the
+about Daikichi in the bathroom of a restaurant. Like with Tama, the
 character’s speech and behavior in the scene where a katakana-represented ore
-occurs is casual, angry, and vulgar (he refers to Daikichi as kachinige kitane,
-roughly ‘a scumbag who runs off with the winnings’). However,
-further
-particulars of the character’s identity are difﬁcult to describe as he only appears
+occurs is casual, angry, and vulgar (he refers to Daikichi as kachinige kitane,
+roughly ‘a scumbag who runs off with the winnings’). However, further
+particulars of the character’s identity are difficult to describe as he only appears
 in two panels. On the other hand, the last seven uses of katakana are spread
 across the dialogue of an unnamed subordinate of Daikichi’s who appears in
 multiple volumes. The author uses a katakana-represented ore (オレ) for all
 but one of the eight pronouns in this character’s dialogue. The subordinate is
 therefore depicted as preferring the same pronoun as Daikichi (ore) but the
 pronoun is normatively represented with a different script. Like with Daikichi
-and Koki,
-the script divide again mirrors differences between the two
+and Koki, the script divide again mirrors differences between the two
 characters. While both are ore-normative, employ rougher speech styles, and
 are prone to outbursts, Daikichi is the protagonist, a college-educated bilingual,
 wears a tie, and works as a manager. The subordinate is instead bearded, has
@@ -820,59 +480,35 @@ stereotypical white-collar males in Japan or the manga (Dasgupta 2013). These
 departures from the manga’s depiction of normative masculine adulthood are
 echoed in the subordinate’s status as the only adult male using a clear katakana
 norm for his pronouns, with the character orthographically distanced from both
-other adult males and kanji’s indexical ﬁeld.
-
+other adult males and kanji’s indexical field.
 Due to the high consistency of katakana usage for the subordinate’s
 pronouns, the one scene where his selected pronoun is written in kanji is
 particularly conspicuous. The kanji-represented pronoun appears when the
-subordinate meets Rin (i.e. his boss’s daughter) for the ﬁrst time. In Excerpt 3,
+subordinate meets Rin (i.e. his boss’s daughter) for the first time. In Excerpt 3,
 the subordinate can be seen initially greeting Rin with his normative
 katakana-represented ore (オレ, boxed in Excerpt 3). He then explicitly
 corrects himself, and switches to the more polite boku (underlined in Excerpt 3)
 to position himself as showing respect. This change is not merely limited to
 pronoun selection though, as boku is written in kanji (僕) rather than katakana
-(ボク). Consequently, we again see a character’s locally nonstandard self-
-presentation accompanied by locally nonstandard lexical and orthographic
-variants. In this speciﬁc case, the adoption of a polite stance requires distance
+(ボク). Consequently, we again see a character’s locally nonstandard selfpresentation
+accompanied by locally nonstandard lexical and orthographic
+variants. In this specific case, the adoption of a polite stance requires distance
 from both ore-linked identities and katakana-linked identities in the manga
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-511
-
 (including the normative identity of the character himself), with the changes to
 both channels necessary to bring the subordinate’s pronouns into temporary
 orthographic alignment with the norm the manga establishes for more
 ‘mature’ adult males.
-
-Excerpt 3: Usagi Doroppu, Vol. 7, p. 58
-
-Subordinate: エーット、
-
-. . . いや僕たち会社で河地さんにお世話
-
-になってて. . .
-
-etto, ore . . . iya boku tachi kaisha de kawachi san ni osewa ni
-natte te. . .
-
-Umm, ore , no, boku tachi3 all work under Mr. Kawachi and. . .
-
-Script use for women’s pronouns
-
+Script use for women’s pronouns.
 In addition to the adult male/teen male divide, a second major orthographic
 contrast in the manga exists between the pronouns used by male and female
-speakers. All but ﬁve of the 321 pronouns used by female characters are
+speakers. All but five of the 321 pronouns used by female characters are
 written in hiragana. The more casual pronoun atashi is written in hiragana (あ
 たし) all 89 times it appears. The politer watashi is written in hiragana (わた
-し) in 227 of its 232 appearances, with the remaining ﬁve uses in kanji (私).
+し) in 227 of its 232 appearances, with the remaining five uses in kanji (私).
 No pronouns used by women are written in katakana. As a result, for all but
 six of the 862 pronouns in the manga (99.3%), we can identify if the speaker of
 any excerpt is male or female by checking whether any pronouns are written
 in hiragana.
-
 Certainly, the divide between the script use for male and female pronouns
 relates in some part to word choice. Atashi is exclusive to female dialogue in the
 manga, which makes how the author would represent a hypothetical male use of
@@ -891,25 +527,16 @@ for the pronoun is not due to a manga-wide norm. Rather, the script use for
 watashi is conditional on an almost biological sense of a speaker’s sex, as even
 uses of watashi by retired, decorous, and/or highly educated female characters
 are normatively written in hiragana.
-
-© 2017 John Wiley & Sons Ltd
-
-512
-
-ROBERTSON
-
-Furthermore,
-
-the absence of katakana-represented female pronouns is
+Furthermore, the absence of katakana-represented female pronouns is
 important, as it indicates that the author treats the script as inappropriate for
 female pronouns regardless of a speaker’s speech, dress, or relationship to
-ideologies deﬁning ‘feminine’ behavior. That is, the author does not use katakana
+ideologies defining ‘feminine’ behavior. That is, the author does not use katakana
 representations of female pronouns even when a speaker’s dialogue or behavior
-contains the triggers seen to bring about locally marked katakana-representations
+contains the triggers seen to bring about locallymarked katakana-representations
 of pronouns in kanji-normative male characters’ dialogue. For instance, in the
 manga a female teenager named Akari hangs out in a bar, is verbally and
 physically abusive to her partners, bullies and harasses Rin for years, and fakes a
-pregnancy to extort money from Koki. Despite being very much ‘young’,
+pregnancy to extort money from Koki. Despite being very much ‘young’,
 ‘naughty’, and ‘a bit show-offy’, to borrow the author’s terms, Akari’s uses of
 atashi are always written in hiragana (あたし) rather than katakana (アタシ).
 The author therefore appears to either: (1) treat a katakana-represented atashi as
@@ -917,88 +544,41 @@ outside her conception of acceptable script use (despite its appearance in other
 manga, Robertson 2015); or (2) treat katakana-represented pronouns as indexing
 identities which either involve a masculine element or are incongruous with all
 types of female identity and self-presentation that appear in the manga.
-
-Lastly, out of the ﬁve cases where watashi appears in kanji (私) in female
+Lastly, out of the five cases where watashi appears in kanji (私) in female
 dialogue, four were included in the stimulated recall section of the interview
-because they did not appear within any deﬁnable context(s). The author referred
+because they did not appear within any definable context(s). The author referred
 to all four uses as ‘probably something like a typing error’,5 and wrote that she
-‘fundamentally intended to use わたし [watashi in hiragana]’6 for female speakers
-(Yumi Unita, personal communication, 3 March 2015). The ﬁfth kanji
+‘fundamentally intended to useわたし[watashi in hiragana]’6 for female speakers
+(Yumi Unita, personal communication, 3 March 2015). The fifth kanji
 representation of a female-used watashi may therefore also result from mistaken
-input, but
-it reﬂects the simultaneous lexical and
+input, but is interesting in that it reflects the simultaneous lexical and
 orthographic changes to pronouns seen earlier in the dialogue of male speakers.
-The locally nonstandard representation of watashi appears in the ﬁrst statement
+The locally nonstandard representation of watashi appears in the first statement
 made by a minor female character named Ota. In the semi-formal context of a
 work meeting, Ota uses a kanji-represented watashi (boxed in Excerpt 4) once
 while asking Daikichi a question during his speech to newly hired employees.
-
-is interesting in that
-
-Excerpt 4: Usagi Doroppu, Vol. 3, p. 83
-
-Ota:
-
-は営業職で採用されたんですけどーー
-
-watashi wa eigyoshoku de saiyo saretan desu kedo――.
-I was hired for a sales position, but――
-
 After the meeting, the character defaults to a more casual speech style which
 only uses the less formal pronoun atashi. Furthermore, in contrast to her initial
 work-related question, the content of Ota’s dialogue in these later scenes
-primarily consists of attempts to ﬂirt with male employees. The differences in
+primarily consists of attempts to flirt with male employees. The differences in
 both Ota’s selection of a pronoun and its orthographic representation between
 Excerpt 4 and Excerpts 5 and 6 therefore directly mirror the switches noticed in
-the dialogue of Yasuhara and Daikichi’s subordinate. That
-is, during
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-513
-
+the dialogue of Yasuhara and Daikichi’s subordinate. That is, during
 irregularly formal self-presentation, a normatively casual speaker’s dialogue
 contains a pronoun which is locally nonstandard in terms of both its lexical
-and orthographic representations, with the locally irregular stance inﬂuencing
+and orthographic representations, with the locally irregular stance influencing
 two distinct channels.
-
-Excerpt 5: Usagi Doroppu, Vol. 3, p. 92
-
-Ota:
-
-もこーゆートコで働きたいなァ. . . それにひとりぐらい女
-
-の子がいた 方が楽しいじゃないですかー
-
-atashi mo koyu took de hatarakitai na. . . sore ni hitori gurai onna no ko
-ga ita ho ga tanoshi janai desuka
-
-I would like to work in this kind of place too. . . wouldn’t it be more
-fun to have a girl around?
-
-Excerpt 6: Usagi Doroppu, Vol. 3, p. 96
-
-Ota:
-
-とかどーです?
-atashi toka do desu?
-
-How about a girl like me ?
-
-DISCUSSION
-
+<Conclusion>
+DISCUSSION.
 Throughout the manga, we see that the author’s selection of pronouns and
 script varies consistently in relation to both distinct character identities and
 stances the characters adopt in particular scenes. By interacting with an item
 subject to linguistic ideologies or metalinguistic discussion in and of itself, the
-author’s script selection shows inﬂuence from more than just a single element
-of any script’s indexical ﬁeld. Rather, (the author’s conception of) the indexical
-ﬁelds of orthographic and lexical variants function in a symbiotic relationship.
+author’s script selection shows influence from more than just a single element
+of any script’s indexical field. Rather, (the author’s conception of) the indexical
+fields of orthographic and lexical variants function in a symbiotic relationship.
 The result is an effect unique to the particular combination, which is lost if
 only one channel is examined.
-
 Consequently, within the manga the traditional watashi/boku/ore and
 watashi/atashi contrasts exist in a more of a matrix-like system, wherein
 norms and movements can occur in lexical and/or orthographic directions
@@ -1010,125 +590,34 @@ a kanji-represented boku (僕) can then clarify which boku-associated identity
 (e.g. semi-polite but childish or show-offy vs. semi-polite and more ‘adult’) a
 character adopts. Hiragana instead represents a norm for all female speakers,
 with hiragana-represented male pronouns exceedingly rare.
-
-© 2017 John Wiley & Sons Ltd
-
-514
-
-ROBERTSON
-
-Table 3: Comparison of observed and potential script/pronoun combinations in
-Usagi Doroppu
-
-Pronoun
-
-watashi
-
-ore
-
-boku
-
-atashi
-
-Kanji
-
-私
-Marks super-polite/
-formal speech by
-both genders
-
-俺
-Norm for informal
-speech by rougher
-adult males
-
-僕
-Norm for politer
-adult males, can
-mark polite male
-speech
-
-Script
-
-Katakana
-
-ワタシ
-Unobserved
-
-オレ
-Norm for most teen
-males, and angry/
-very casual adults/
-adult speech
-
-ボク
-Used by males acting
-ﬂamboyant, showy,
-or silly
-
-アタシ
-Unobserved
-
-Hiragana
-
-わたし
-Norm for speech by
-polite or studious
-females, esp. adults
-
-おれ
-Unobserved
-
-ぼく
-Can appear when a
-(adult) male is very
-excited, more data
-needed
-
-あたし
-Norm for women
-with rougher
-speech/behavior,
-especially teens
-
-Furthermore, the ﬁndings make it clear that the importance of any selection
+Furthermore, the findings make it clear that the importance of any selection
 of script cannot be understood by analyzing individual examples. No selection
 survives out of context, as the ultimate effect the index creates is interactive
 and partially bound to the situated use of the variable (Eckert 2008). For
-instance,
-that a temporary use of katakana in adult-male dialogue is
-meaningful
-in Usagi Doroppu, and that it indexes what can be broadly
-deﬁned as immature or impolite masculinity rather than other images
+instance, that a temporary use of katakana in adult-male dialogue is
+meaningful in Usagi Doroppu, and that it indexes what can be broadly
+defined as immature or impolite masculinity rather than other images
 associated with marked katakana use like foreignness, coldness, or eroticism
 (Robertson 2015), is dependent upon the author establishing local, contrasting
 norms for script use between teen males, adult males, and females. If any of the
-three norms were absent, the effect created by the use of katakana in adult-
-male dialogue might change or even disappear. Likewise, the importance of
+three norms were absent, the effect created by the use of katakana in adultmale
+dialogue might change or even disappear. Likewise, the importance of
 Daikichi’s subordinate’s use of katakana-ore (オレ) as a norm is partially
 meaningful in its relation to the kanji norm adopted by all other adult males,
 with the subordinate’s speech, like his behavior, in constant interaction with
 the local ‘adult male’ standard it contrasts with and violates. Excerpt-level
 analysis of any use of script discussed here would sever the text-internal
-contrasts which guide the activation of speciﬁc elements of its indexical ﬁeld,
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-515
-
+contrasts which guide the activation of specific elements of its indexical field,
 and prevent understanding of the particular motive(s) behind the selection.
 Indeed, in Usagi Doroppu the question of which script is standard for each
 pronoun in the manga as a whole is more or less irrelevant. Each extant
 representation is regular within some contexts and marked in others.
-
 Finally, the data shows that script selection in Japanese has the same
-potential to reﬂect higher-order linguistic ideologies as more studied avenues for
+potential to reflect higher-order linguistic ideologies as more studied avenues for
 language variation. While connections between men and kanji or women and
 hiragana are observable in historical orthographic practices, with women being
 once socially discouraged from using/learning the kanji script, national (e.g. at
-least ofﬁcially non-gendered) guidelines for script use have been mainstream
+least officially non-gendered) guidelines for script use have been mainstream
 since the early 1900s at the latest (Gottlieb 2005; Seeley 2000; Yoda 2000).
 Similarly, in contrast to the manga’s standards, teenage males are by no means
 the primary users of katakana, and decreases in kanji recognition over the last
@@ -1137,41 +626,32 @@ more kanji than writing by twenty-something males (Yoshimura 1985). The
 idea that hiragana is more appropriate to female speakers, or that kanji indexes
 masculinity, is more the result of contemporary metalinguistic dialogues and
 ideologies about script, language use, and language users in Japan than a
-reﬂection of extant orthographic practices. The author’s selections of script are
-inﬂuenced by and participating in the transmission of ideologies or ‘cultural
-messages’ (Agha 2003: 246), as the script use in Usagi Doroppu reﬂects and
-afﬁrms the long-running belief in Japan that there are (or should be) inherent
+reflection of extant orthographic practices. The author’s selections of script are
+influenced by and participating in the transmission of ideologies or ‘cultural
+messages’ (Agha 2003: 246), as the script use in Usagi Doroppu reflects and
+affirms the long-running belief in Japan that there are (or should be) inherent
 differences in male and female language use (Inoue 2004; Nakamura 2007,
 2014). While script cannot be ‘heard’, it is nevertheless separates how the
 speech of the two groups is represented on the page.
-
-CONCLUSION
-
+CONCLUSION.
 In looking at the representations of pronouns throughout Usagi Doroppu, it is
 clear that script selection can be a very important and nuanced element of how
 meaning is created in written Japanese. While the use of pronouns to index
 character types in Japanese (manga) is well established, within Usagi Doroppu
 the normative script used to write pronouns stands as another linguistic area
-inﬂuenced by contrasts between the contextual self-presentation and/or gender
+influenced by contrasts between the contextual self-presentation and/or gender
 of speakers. The concurrent use of multiple scripts particular to Japanese also
 allows variant script use to occur from scene to scene or even sentence to
 sentence, and thereby mark changes in the stances adopted by individual
 speakers from panel to panel. Furthermore, while some observed selections of
-script relate to once extant ﬁrst-order connections between a script and a
-primary body of users, the ideologies about script and language that inﬂuence
+script relate to once extant first-order connections between a script and a
+primary body of users, the ideologies about script and language that influence
 the author possess substantial distance from the realities of script use in
 contemporary Japan. As a result, the use of script for pronouns in the manga
-does not merely reﬂect actual dialect-like divides in linguistic practice. Rather,
+does not merely reflect actual dialect-like divides in linguistic practice. Rather,
 like spelling changes or word choice, Japanese script selection stands as a
-
-© 2017 John Wiley & Sons Ltd
-
-516
-
-ROBERTSON
-
-major avenue for indexing a variety of identities, registers, and methods of self-
-presentation, and observing how contemporary ideologies about language use
+major avenue for indexing a variety of identities, registers, and methods of selfpresentation,
+and observing how contemporary ideologies about language use
 and language users can affect the representation of language. Ultimately, this
 study shows clearly that ignoring variant uses of kanji, hiragana, and
 katakana throughout a text risks overlooking a potentially major element of
@@ -1179,343 +659,3 @@ the message(s) the writing contains or is intended to convey. Selections of
 script are seen to convey nuances in how meaning is constructed in the text,
 and serve as a potential location for revealing overarching ideologies about
 language use in Japan.
-
-NOTES
-
-1. These links are ﬁrst- and higher-order indexical connections in all but name, but
-
-I avoid the use of the term ‘index’ here as it is not used in the cited studies.
-
-2. Original Japanese: いつも、なんとなくですが使い分けています。「俺」のイ
-メージ?(カタカナと比べてどちらかというと)少し古風日本的視覚的に硬い
-印象。「オレ」のイメージ?(漢字と比べてどちらかというと)やんちゃ若さ
-少しちゃらちゃらしている視覚的にとがっている。これらはあくまでわた
-し個人の感じ方で、厳密なものでもありませんが。。。
-
-3. The sufﬁx -tachi is attached to ﬁrst person pronouns to create the plural.
-4. Original Japanese: 基本的には、硬い印象にしたい場合は「私」にすると思い
-ます。あとは、公の場では男性も「私(わたし・わたくし)」と言いますが、
-そういう場合は漢字かなあと。漢字には男性的な印象もあるような気がし
-ます。
-(‘Fundamentally, I think I use kanji for watashi when I want to create a hard
-impression. Furthermore, in public situations men also say watashi or watakushi,
-and in these cases I think I might use kanji. I feel like kanji also have a masculine
-impression’).
-
-5. Original Japanese:これは誤植のようなものかもしれません。
-6. Original Japanese: 基本的に「わたし」にしていたつもりでした.
-
-REFERENCES
-
-Agha, Asif. 1998. Stereotypes and registers of honoriﬁc language. Language in Society 27: 151–
-
-193.
-
-Agha, Asif. 2003. The social life of cultural value. Language & Communication 23: 231–273.
-Akizuki, Kotaro. 2005. Arienai Nihongo. Tokyo, Japan: Chikuma Shobo.
-Backhouse, A.E. 1984. Aspects of the graphological structure of Japanese. Visible Language 18:
-
-219–228.
-
-Bender, Margaret. 2008. Indexicality, voice, and context in the distribution of Cherokee
-
-scripts. International Journal of the Sociology of Language 192: 91–103.
-
-Blommaert, Jan. 2016. Meaning as a nonlinear effect: The birth of cool. AILA Review 28: 7–
-
-27.
-
-Brown, Lucien and Jaehoon Yeon. 2015. The Handbook of Korean Linguistics. Chichester, U.K.:
-
-John Wiley & Sons.
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-517
-
-Brown, R. A. 1985. Orthography in contemporary Japan: Reality and illusion. Unpublished PhD
-
-thesis. Austin, Texas: The University of Texas at Austin.
-
-Bucholtz, Mary and Kira Hall. 2005. Language and identity. In Alessandro Duranti (ed.) A
-
-Companion to Linguistic Anthropology. Oxford, U.K.: Blackwell. 369–395.
-
-Choksi, Nishaant. 2014. Scripting the border: Script practices and territorial imagination
-among Santali speakers in eastern India. International Journal of the Sociology of Language
-227: 47–63.
-
-Cook, Haruko Minegishi. 2011. Are honoriﬁcs polite? Uses of referent honoriﬁcs in a Japanese
-
-committee meeting. Journal of Pragmatics 43: 3655–3672.
-
-Dasgupta, Romit. 2013. Re-reading the Salaryman in Japan: Crafting Masculinities. New York:
-
-Routledge.
-
-Davila, Bethany. 2012. Indexicality and ‘standard’ edited American English: Examining the
-identity. Written
-
-link between conceptions of standardness and perceived authorial
-Communication 29: 180–207.
-
-Eckert, Penelope. 2008. Variation and the indexical ﬁeld. Journal of Sociolinguistics 12: 453–
-
-476.
-
-Gottlieb, Nanette. 2005. Language and Society in Japan. Cambridge, U.K.: Cambridge University
-
-Press.
-
-Gottlieb, Nanette. 2010. Playing with language in E-Japan: Old win in new bottles. Japanese
-
-Studies 30: 393–407.
-
-Harkness, Nicholas. 2015. Linguistic emblems of South Korean society. In Lucien Brown and
-Jaehoon Yeon (eds.) The Handbook of Korean Linguistics. Chichester, U.K.: John Wiley & Sons.
-492–508.
-
-Hirose, Takehiko. 2007. Nihongo Hyoki no Shinrigaku: Tango Ninchi ni Okeru Hyoki to Hindo.
-
-Tokyo, Japan: Kitaoji Shobo.
-
-Ide, Sashiko. 1979. Onna no Kotoba Otoko no Kotoba. Japan: Ueno Insatsujo.
-Inoue, Miyako. 2004. Gender,
-
-language, and modernity: Toward an effective history of
-‘Japanese women’s language’. In Shigeko Okamoto and Janet Shibamoto-Smith (eds.)
-Japanese Language, Gender, and Ideology: Cultural Models and Real People. Oxford, U.K.: Oxford
-University Press. 57–75.
-
-Ito, Kinko. 2005. A history of manga in the context of Japanese culture and society. The
-
-Journal of Popular Culture 38: 456–475.
-
-Iwahara, Akihiko, Takeshi Hatta and Aiko Maehara. 2003. Effects of a sense of compatibility
-
-between type of script and word in written Japanese. Reading and Writing 16: 377–397.
-
-Japanese Magazine Publishers Association. 2014. JMPA Insatsu busu kohyo. Last accessed 5
-
-August 2014 at http://www.j-magazine.or.jp/magadata/?module=list&action=list
-
-Joyce, Terry, Bor Hodoscek and Kikuko Nishina. 2012. Orthographic representation and
-variation within the Japanese writing system: Some corpus-based observations. Written
-Language & Literacy 15: 254–278.
-
-Kess, Joseph and Tadao Miyamoto. 1999. The Japanese Mental Lexicon: Psycholinguistic Studies
-
-of Kana and Kanji Processing. Philadelphia, Pennsylvania: John Benjamins.
-
-Kinsella, Sharon. 1996. Change in the social status, form and content of adult manga, 1986–
-
-1996. Japan Forum 8: 103–112.
-
-Kinsui, Satoshi. 2003. Vacharu Nihongo: Yakuwarigo no Nazo. Tokyo, Japan: Iwanami.
-Kinsui, Satoshi. 2010. ‘Otoko kotoba’ no rekishi: ‘Ore’ ‘boku’ o chushin ni. In Momoko
-
-Nakamura (ed.) Jenda de Manabu Gengogaku. Kyoto, Japan: Sekai Shisosha. 35–49.
-
-Konno, Shinji. 2014a. Kanazukai no Rekishi. Tokyo, Japan: Chuokoron.
-Konno, Shinji. 2014b. Nihongo no hyoki no tayosei. AJALT 37: 23–27.
-
-© 2017 John Wiley & Sons Ltd
-
-518
-
-ROBERTSON
-
-Konno, Shinji. 2015. Nihongo no Rekishi. Tokyo, Japan: Kawade.
-Maree, Claire. 2003. Ore wa ore dakara [‘because I’m me’]: A study of gender and language in
-the documentary Shinjuku Boys. Intersections: Gender, History and Culture in the Asian
-Context 9. Last accessed September 2016 at http://intersections.anu.edu.au/issue9/maree.
-html
-
-Masuji, Hitomi. 2011. Gendai nihongo ni okeru mojishu no sentaku. Unpublished PhD
-
-dissertation. Tokyo, Japan: Waseda University.
-
-Matsunaga, Sachiko. 1996. The linguistic nature of kanji reexamined: Do kanji represent only
-
-meanings? The Journal of the Association of Teachers of Japanese 30: 1–22.
-
-McCloud, Scott. 1993. Understanding Comics: The Invisible Art. New York: HarperCollins.
-McCloud, Scott. 2006. Making Comics. New York: HarperCollins.
-Miyake, Kazuko. 2007. How young Japanese express their emotions visually in mobile phone
-
-messages: A sociolinguistic analysis. Japanese Studies 27: 53–72.
-
-Miyazaki, Ayumi. 2002. Relational shift: Japanese girls’ nontraditional ﬁrst person pronouns.
-In Sarah Benor, Mary Rose, Devyani Sharma, Julie Sweetland and Qing Zhang (eds.)
-Gendered Practices in Language. Stanford, California: CSLI Publications. 355–374.
-
-Moskowitz, Nona. 2014. Gender, maturity, and ‘going out into the world’: Self-referent term
-
-choice at Ogasawara Middle School. U.S.-Japan Women’s Journal 47: 73–99.
-
-Moskowitz, Nona. 2015. Ordering a disordered world through language: Metapragmatic
-dissonance and the ‘misreading’ of an indexical relationship. Signs and Society 3: 331–361.
-Nakamura, Momoko. 2007. ‘Sei’ to Nihongo: Kotoba ga Tsukuru Onna to Otoko. Tokyo, Japan:
-
-Nihon Hosou Shuppan Kyokai.
-
-Nakamura, Momoko. 2013. Honyaku ga Tsukuru Nihongo: Heroin wa ‘Onna Kotoba’ wo
-
-Hanashitsuzukeru. Tokyo, Japan: Hakutakusha.
-
-Nakamura, Momoko. 2014. Gender, Language and Ideology: A Genealogy of Japanese Women’s
-
-Language. Philadelphia, Pennsylvania: John Benjamins.
-
-Ono, Tsuyoshi and Sandra A. Thompson. 2003. Japanese (w)atashi/ore/boku ‘I’: They’re not
-
-just pronouns. Cognitive Linguistics 14: 321–347.
-
-Oricon. 2012. 2011nen Shoseki Shibai. Last accessed March 2015 at http://www.oricon.co.
-
-jp/news/2006093/full/
-
-Prough, Jennifer. 2010. Marketing Japan: Manga as Japan’s new ambassador. ASIANetwork
-
-Exchange 12: 54–68.
-
-Robertson, Wesley. 2015. Orthography,
-
-foreigners, and ﬂuency: Indexicality and script
-
-selection in Japanese manga. Japanese Studies 35: 205–222.
-
-Rowe, Harold Myer. 1981. Variations in Japanese newspaper spelling. In Harold Bolitho and
-Alan Rix (eds.) A Northern Prospect: Australian Papers on Japan. Canberra, Australia:
-Australian National University Press. 107–122.
-
-Satake, Hideo. 1989. Wakamono no bunsho to katanana koka. Nihongogaku 8: 60–67.
-Schwartz, Adam and Elaine Rubinstein-Avila. 2006. Understanding the manga hype:
-Uncovering the multimodality of comic book literacies. Journal of Adolescent & Adult Literacy
-50: 40–49.
-
-Sebba, Mark. 2009. Sociolinguistic approaches to writing systems research. Writing Systems
-
-Research 1: 35–49.
-
-Sebba, Mark. 2012. Orthography as social action: Scripts, spelling, identity and power. In
-Mark Sebba, Alexandra Jaffe, Jannis Androutsopoulos and Sally Johnson (eds.) Orthography
-as Social Action: Scripts, Spelling, Identity and Power. Berlin, Germany: Walter de Gruyter.
-1–20.
-
-© 2017 John Wiley & Sons Ltd
-
-HE’S MORE KATAKANA THAN KANJI
-
-519
-
-Seeley, Christopher. 2000. A History of Writing in Japan. Honolulu, Hawai’i: University of
-
-Hawai’i Press.
-
-Silverstein, Michael. 1985. Language and the culture of gender: At the intersection of
-structure, usage, and ideology. In Elizabeth Mertz and Richard J. Parmentier (eds.) Semiotic
-Mediation: Sociocultural and Psychological Perspectives. Orlando, Florida: Academic Press.
-219–257.
-
-Spitzm€uller, J€urgen. 2012. Floating ideologies: Metamorphoses of graphic ‘Germanness’. In
-Mark Sebba, Alexandra Jaffe, Jannis Androutsopoulos and Sally Johnson (eds.) Orthography
-as Social Action: Scripts, Spelling, Identity and Power. Berlin, Germany: Walter de Gruyter.
-255–288.
-
-Spitzm€uller, J€urgen. 2015. Graphic variation and graphic ideologies: A metapragmatic
-
-approach. Social Semiotics 25: 126–141.
-
-Thompson, Roger. 1982. Language planning in frontier America: The case of the Deseret
-
-Alphabet. Language Problems and Language Planning 6: 45–62.
-
-Tomoda, Takako. 2009. The Foreign Word Tsunami: Perceptions, Politics and Policies on
-Loanwords (Gairaigo) in Contemporary Japan. Saarbr€ucken, Germany: VDM Verlag Dr.
-M€uller.
-
-Tranter, Nicolas. 2008. Nonconventional script choice in Japan. International Journal of the
-
-Sociology of Language 192: 133–51.
-
-Tsuboi, Miki. 2003. Otokode/onnade: Seisa ni yoru hyoki yoshiki no bunrui. Tsukuba Nihongo
-
-Kenkyu 8: 1–21.
-
-Twine, Nanette. 1991. Language and the Modern State. London: Routledge.
-Ueno, Junko. 2006. Shojo and adult women: A linguistic analysis of gender identity in manga
-
-(Japanese comics). Women & Language 29: 16–25.
-
-Ukita, Jun, Ichiro Sugishima, Naohiro Minagawa, Michio Inoue and Kan Kashu. 1996.
-Nihongo no Hyoki Keitai ni Kansuru Shinrigakuteki Kenkyu. Tokyo, Japan: Nihon Shinrigakkai
-Monogurafu Iinkai.
-
-Unita, Yumi. 2006. Usagi Doroppu 1. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2007a. Usagi Doroppu 2. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2007b. Usagi Doroppu 3. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2008. Usagi Doroppu 4. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2009a. Usagi Doroppu 5. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2009b. Usagi Doroppu 6. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2010a. Usagi Doroppu 7. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2010b. Usagi Doroppu 8. Tokyo, Japan: Shodensha.
-Unita, Yumi. 2011. Usagi Doroppu 9. Tokyo, Japan: Shodensha.
-Unser-Schutz, Giancarla. 2010. Exploring the role of language in manga: Text types, their
-
-usages, and their distributions. International Journal of Comic Art 12: 25–43.
-
-Unser-Schutz, Giancarla. 2013. The role of language in manga: From the point of view of structure,
-vocabulary, and characters. Unpublished PhD dissertation. Tokyo, Japan: Hitotsubashi
-University.
-
-Unseth, Peter. 2005. Sociolinguistic parallels between choosing scripts and languages. Written
-
-Language & Literacy 8: 19–42.
-
-Usami, Hiroshi. 2004. Kotoboa no ‘tadashisa’ to wa nanika. In Kokuritsu Kokugo Kenkyujo
-(ed.) Shin Kotoba Shirızu 17: Kotoba no ‘Tadashisa’ towa Nanika. Tokyo, Japan: Kokuritsu
-Insatsukyoku. 28–36.
-
-© 2017 John Wiley & Sons Ltd
-
-520
-
-ROBERTSON
-
-Virtue, Graeme. 2015. Marvel and DC comics dominate sales helped along by big-screen boost.
-The Guardian January 15. Last accessed March 2015 at http://www.theguardian.com/b
-ooks/2015/jan/14/marvel-dc-spiderman-guardians-of-the-galazy
-
-Wolk, Douglas. 2007. Reading Comics: How Graphic Novels Work and What They Mean.
-
-Cambridge, Massachusetts: DeCapo Press.
-
-Wortham, Stanton. 2010. Linguistic anthropology of education. In Marilyn Martin-Jones,
-Nancy Hornberger and de Mejia Anne-Marie (eds.) Encyclopedia of Language and Education
-Volume 3. New York: Springer. 93–103.
-
-Yoda, Tomiko. 2000. Literary history against the national
-
-frame, or gender and the
-
-emergence of Heian kana writing. Positions 8: 465–497.
-
-Yoshimura, Yumiko. 1985. Gohyoki ishiki no heni. Gengogaku Ronso 4: 82–93.
-
-Address correspondence to:
-
-Wesley C. Robertson
-Monash University – Arts
-Wellington Rd & Blackburn Rd
-Clayton
-Melbourne, Victoria 3800
-Australia
-
-wesleycrobertson@gmail.com
-
-© 2017 John Wiley & Sons Ltd
-
-

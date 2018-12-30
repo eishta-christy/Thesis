@@ -4,37 +4,7 @@ doi:./S
 Hebrew verbal passives in Later Language
 
 Development: the interface of register and verb
-
-morphology*
-
-DORIT RAVID A N D LIZZY VERED
-
-Tel Aviv University, Israel
-
-(Received  May  – Revised  August  – Accepted  September  –
-
-First published online  November )
-
-A B S T R A C T
-
-The current study examined the production of Hebrew verbal passives
-across adolescence as mediated by linguistic register and verb
-morphology. Participants aged eight to sixteen years and a group of
-adults were asked to change written active-voice sentences into
-corresponding passive-voice forms, divided by verb register (neutral and
-high), binyan pattern (Qal / Nif’al, Hif’il / Huf’al, and Pi’el / Pu’al),
-and verb tense (past and future tense). Results showed that Hebrew
-passive morphology is a very late acquisition, almost a decade later
-than in other languages, that passivizing neutral-register verbs was
-less challenging than high-register verbs, and that past tense verbs
-were easier
-to passivize than future tense verbs. An order of
-acquisition was determined among the three binyan pairs. The paper
-provides an account of these ﬁndings grounded in the event-telling
-role of Hebrew passives in discourse and the spurt of abstract,
-lexically speciﬁc vocabulary in Later Language Development.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 Passive voice is among the most prominent and widespread perspective-
 changing constructions in the world’s languages (Abraham & Leisiö, ;
 Givón, ; Keenan & Dryer, ). The acquisition of passive forms
@@ -45,170 +15,99 @@ Passive constructions have been described as delayed in some languages
 early acquisitions in others (Allen & Crago, ; Aschermann, Gulzow &
 Wendt, ; Demuth, Moloi & Machobane, ). Syntactic, semantic,
 discourse, cognitive, and usage factors as well as elicitation conditions have
-
-[*] Address for correspondence: Dorit Ravid, Tel Aviv University – School of Education,
-
-Ramat Aviv, Tel Aviv , Israel. e-mail: doritr@post.tau.ac.il
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
 been invoked in explaining why young children struggle in comprehending
 and producing passive forms (Brooks & Tomasello, ; Messenger, ;
 Pinker, Lebeaux & Frost, ).
-
-structure.” From a Hebrew-speciﬁc
-
 The current study aimed to examine the acquisition of passive forms in
 Hebrew in a new light. First, focus here is on the MORPHOLOGY of the
-passive verb. As general
-theoretical motivation for this verb-focused
+passive verb. As general theoretical motivation for this verb-focused
 investigation, we follow Haspelmath’s (, p. ) comment that “the
 verbal morphology associated with a passive construction is an essential
 part of the construction whose properties are worthy of study in their own
-right. Indeed, the passive can be regarded as ﬁrst and foremost a verbal
+right. Indeed, the passive can be regarded as first and foremost a verbal
 morphological category whose meaning implies certain changes in the
-clause
-typological perspective,
+clause structure.” From a Hebrew-specific typological perspective,
 studying passive verb morphology in acquisition is key, as Hebrew passive
 forms are part and parcel of the verb-pattern binyan system, a set of seven
-conjugations which provide the vocalic form of
-the verb and its
-syntactico-semantic
-research on passive
+conjugations which provide the vocalic form of the verb and its
+syntactico-semantic category. Second, previous research on passive
 acquisition – in Hebrew as in other languages – examined spoken passive
 constructions in young children, mostly in preschoolers. In contrast, the
 current study elicited passive forms in writing from school-going children
 and adolescents, compared with adults, during the period of Later
 Language Development (Berman, ; Nippold, ). This framework
 enabled us to contextualize the acquisition of passive verbs as part of a set
-of Hebrew morpho-lexical
-is delayed to
-adolescence – a time of when socio-cognitive,
-linguistic, and literacy
+of Hebrew morpho-lexical classes whose learning is delayed to
+adolescence – a time of when socio-cognitive, linguistic, and literacy
 abilities connect together in the complex expression of communicative
 goals (Berman & Ravid, ).
-
-category. Second, previous
-
-classes whose
-
-learning
-
 The main goals of the current study were as follows: (i) to provide an
 account of the development of Hebrew passive verb morphology across the
 school years, based on an experimental task; and (ii) to determine the role
-of derivational and inﬂectional binyan morphology in this development.
-
-Passive constructions
+of derivational and inflectional binyan morphology in this development.
+Passive constructions.
 Passive voice seems to be a universal phenomenon; nonetheless, it has been
 described as an elusive category, deserving of sound conceptual foundations
 (Shibatani, ). Several conclusions come to mind when reviewing the
 linguistic literature on passive constructions and their functional roles
-across diﬀerent languages, which can be useful in laying the background
-and generating expectations for the current developmental
-study of
+across different languages, which can be useful in laying the background
+and generating expectations for the current developmental study of
 Hebrew passives.
-
 First, passives are noted among the most prominent and widespread
-perspective-changing constructions
-(Givón,
+perspective-changing constructions in the world’s languages (Givón,
 ). The general view of passive constructions as backgrounding the
-
-in the world’s
-
-languages
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
 agent role while highlighting the patient role is shared among linguists
 (Myhill, ). We adopt here Keenan and Dryer’s () analysis of the
-passive as essentially diﬀerent
-from syntactically restricted inversion
+passive as essentially different from syntactically restricted inversion
 phenomena such as topicalizing and dislocating constructions: unlike the
-former, passive forms are integral
-languages in
+former, passive forms are integral to the grammar of languages in
 occupying unmarked positions and the case marking of NPs, in requiring
-no speciﬁc intonation patterns, and in undergoing all major syntactic
+no specific intonation patterns, and in undergoing all major syntactic
 operations. According to Keenan and Dryer, the most distinctive property
 of passives is the formation of the passive verb phrase (Haspelmath, ).
 This supports our focus on the morphology of Hebrew passive verbs in
 investigating their acquisitional path.
-
-to the grammar of
-
 A second observation from the cross-linguistic literature indicates that the
 notion of ‘passive’ often serves as an umbrella term for a cluster of
 constructions sharing the perspective of the patient. Across languages,
 these include middle voice and impersonal constructions (Abraham &
 Leiss, ), in addition to get-passives, medial passives, and adjectival
 passives (Mitkovska & Bužarovska, ; Rathert, ), all participating
-in diﬀerent conﬁgurations of agent and patient roles in the event. Viewed
+in different configurations of agent and patient roles in the event. Viewed
 from a developmental psycholinguistic perspective, passives constitute one
 form of voice construction whose function is to depict a non-canonical
 view on events and situations. This can generate the expectation that a
 language learner would need to gain experience not only with variegated
-communicative
-array of
+communicative events and contexts, but also with the array of
 agent-demoting constructions and discourse types typically associated with
 their expression in her language.
-
-and contexts, but
-
-events
-
-also with the
-
 A third conclusion drawn from the literature is the strong relationship
 between transitivity and voice, on the one hand, and between aspect
 and voice, on the other (Abraham & Leisiö, ; Shibatani, ).
 Middle voice constructions tend to express a generic and imperfective
-outlook, e.g. these books sell well. Passive voice,
-in contrast, prefers a
+outlook, e.g. these books sell well. Passive voice, in contrast, prefers a
 transitive construction that expresses the patient argument in an object
 NP, with an agentive, volitional grammatical subject and a concrete,
-actional verb aﬀecting the object, as in the alternation John built the IKEA
+actional verb affecting the object, as in the alternation John built the IKEA
 chest / the IKEA chest was built by John. No less importantly, expression
 of canonical passive voice is associated with realis, concrete/agentive
 transitivity, and perfective temporality (Foley, ). In a language such
-as Hebrew, which does not mark aspectual distinctions in verb inﬂectional
+as Hebrew, which does not mark aspectual distinctions in verb inflectional
 morphology, this means a strong association of passive forms with the
 narrative past tense – unlike telic past, which strongly associates with
 middle/inchoative semantics (Berman & Slobin, ). This generates two
-expectations:
-less agentive and object-
-aﬀecting Hebrew verbs should be more challenging to children; and that
-future tense passive forms should be more diﬃcult to passivize than past
-
-that passivization of abstract,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
+expectations: that passivization of abstract, less agentive and objectaffecting
+Hebrew verbs should be more challenging to children; and that
+future tense passive forms should be more difficult to passivize than past
 tense verbs. The relationship between resultative predicates and passive
-verbs has been shown to beneﬁt learning (Lee & Lee, ), but the tense
-hypothesis,
-to our best knowledge, has not been tested before. The
+verbs has been shown to benefit learning (Lee & Lee, ), but the tense
+hypothesis, to our best knowledge, has not been tested before. The
 acquisition literature (see below) has long known that actional passive
 constructions are comprehended earlier than non-actional ones (Maratsos,
 Fox, Becker & Chalkley, ), but testing passive formation in late
 childhood adolescence makes it possible to examine a much richer array of
 cognitive and abstract verbs.
-
-Acquisition of passive constructions
+Acquisition of passive constructions.
 The acquisition of passive forms by children has been the controversial topic
 of numerous research studies across the last decades regarding the timing of
 the acquisition of passive forms and the reasons thereof (Budwig, ;
@@ -216,11 +115,10 @@ Crain, Thornton & Murasugi, ). Much of the investigation of passive
 acquisition has focused on English, where it was often described as
 delayed to age six years in both comprehension and production (Brooks &
 Tomasello, ; Marchman, Bates, Burkardt & Good, ). Children
-were shown to experience particular diﬃculty when full passives – that is,
+were shown to experience particular difficulty when full passives – that is,
 the whole syntactic structure including the by-phrase – were involved (Fox
-& Grodzinsky, ). The realization that
-the passive is a complex
-phenomenon with diﬀerent parts and facets dictates a more nuanced view
+& Grodzinsky, ). The realization that the passive is a complex
+phenomenon with different parts and facets dictates a more nuanced view
 of passive learning as a drawn-out process of learning. Many studies have
 shown that young children start by attending to semantically restricted,
 prototypical passives – that is, irreversible passives with actional verbs and
@@ -229,7 +127,6 @@ prefer less patient-oriented, agent-demoting devices, such as the get
 passive or middle voice (Gámez, Shimpi, Waterfall & Huttenlocher, ).
 Only later on, beyond age six and even later, does children’s knowledge go
 beyond the canonical passive (Messenger et al., ).
-
 Frequency of passive forms and their discourse contexts in the input have
 often been invoked as determining factors in children’s acquisition of
 passives (Tomasello, Brooks & Stern, ). Thus, the rarity of agentless
@@ -243,49 +140,22 @@ Crago, ; Demuth et al., ; Pye & Quixtan Poz, �
 children acquiring languages with lower frequencies of passive forms than
 English, such as Catalan or Hebrew, are reported to continue struggling
 with passive production even beyond age ten (Prat-Sala et al., ;
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
 Ravid, ). At the same time, exposure of child and adult participants to
 passive constructions of all types has been shown to enhance their passive
-productions (Gámez et al., ). Thus,
-the literature suggests that
+productions (Gámez et al., ). Thus, the literature suggests that
 learners are sensitive to the way the immediate and general linguistic input
-employs passive constructions in the depiction of diﬀerent agent-demoting
+employs passive constructions in the depiction of different agent-demoting
 scenes.
-
-Passive voice in Hebrew
+Passive voice in Hebrew.
 Syntactically, the active/passive alternation in Hebrew is rather similar to
 that of English. Consider the pair of Hebrew sentences in (), which
 express active (a) and passive (b) voice perspectives on the same event.
-
-()
-
-a. ha-texnay
-
-hiklit
-
-the-technician recorded
+() a. ha-texnay hiklit et ha-re’ayon
+the-technician recorded ACC the-interview
 ‘The technician recorded the interview’
-
-ha-re’ayon
-
-et
-ACC the-interview
-
-b. ha-re’ayon
-
-huklat
-
-al-yedey ha-texnay
+b. ha-re’ayon huklat al-yedey ha-texnay
 the-interview was-recorded by the-technician
 ‘The interview was recorded by the technician’
-
 The active version (a) has a grammatical subject depicting the agent
 ha-texnay ‘the technician’ at sentence-initial position, and a direct object
 patient ha-re’ayon ‘the interview’ marked by accusative et, following the
@@ -295,74 +165,49 @@ passive voice in Hebrew, since only truly passive (as opposed to medial
 passive) constructions can take it. The scope of the Hebrew passive is
 notably less broad than in English, as passivization is generally restricted
 to transitive constructions with direct, sometimes oblique, objects. Unlike
-English, Hebrew does not allow passivization of
-indirect objects in
-ditransitive constructions such as Mary handed the ﬂowers to John / John
-was handed the ﬂowers by Mary.
-
-Two language-speciﬁc, structural, and functional characteristics render
-the Hebrew passive very diﬀerent from that of English, providing grounds
+English, Hebrew does not allow passivization of indirect objects in
+ditransitive constructions such as Mary handed the flowers to John / John
+was handed the flowers by Mary.
+Two language-specific, structural, and functional characteristics render
+the Hebrew passive very different from that of English, providing grounds
 for further hypotheses regarding acquisition. One is its Semitic verb
 morphology; another is the prevalence of generic subjectless constructions
 in Hebrew.
-
 Passive verb morphology. Like all Hebrew verbs, passive verbs are formed
-within the binyan system by the Semitic non-linear aﬃxation of root and
+within the binyan system by the Semitic non-linear affixation of root and
 pattern morphemes. Semitic roots are discontinuous morphemes consisting
 of three or four radicals, which constitute the structural and semantic core
 of Hebrew words in general and verbs in particular, e.g. root g-d-l ‘grow’
-or root t-q-n ‘ﬁx’. All Hebrew verbs are constructed by combining a root
-termed binyanim (literally
-with one
-
-seven verb conjugations
-
-of
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
+or root t-q-n ‘fix’. All Hebrew verbs are constructed by combining a root
+with one of seven verb conjugations termed binyanim (literally
 ‘buildings’) – traditionally named Qal, Nif’al, Hif’il, Huf’al, Pi’el, Pu’al,
 and Hitpa’el (based on the root p-’-l ‘act’). Binyan conjugations provide
-the main vocalic structure of
-the verb (sometimes accompanied by
-preﬁxation). For example, Pi’el provides the CiCeC template into which
+the main vocalic structure of the verb (sometimes accompanied by
+prefixation). For example, Pi’el provides the CiCeC template into which
 the root (marked by capital Cs) is inserted. In addition, each binyan
-consists of a speciﬁc bundle of temporal patterns that combine with a root
+consists of a specific bundle of temporal patterns that combine with a root
 to create its paradigm of temporal stems. For example, gidel, megadel, and
 yegadel serve as the respective past, present, and future tense stems of
 ‘raise’ in Pi’el.
-
-three arguments, or
-
 The binyan system not only dictates the morphological structure of verbs,
 but also how transitivity relations, including passive voice, are expressed
 syntactically. Thus, binyan patterns are associated with higher or lower
 transitivity values, with correspondingly richer or poorer argument
 structures – e.g. high-transitivity Hif’il, which is often associated with two
-low-transitivity Nif’al, mostly occurring in
-or
+or three arguments, or low-transitivity Nif’al, mostly occurring in
 single-argument structures (Berman, ). In this respect, Hebrew binyan
-from Romance
-conjugations diﬀer
-verb conjugations, which are
-morphophonological
-in nature (Monachesi, ), and are somewhat
+conjugations differ from Romance verb conjugations, which are
+morphophonological in nature (Monachesi, ), and are somewhat
 similar to Slavic verb formation, which is also associated with aspect and
-Aktsionsart (Svenonius, ). Hebrew root-based verbs with diﬀerent
+Aktsionsart (Svenonius, ). Hebrew root-based verbs with different
 binyan patterns constitute semi-productive derivational families combining
-lexically speciﬁc meanings with Aktionsart values such as inchoativity,
-causativity, reﬂexivity, reciprocity, middle, and passive voice (see Berman
+lexically specific meanings with Aktionsart values such as inchoativity,
+causativity, reflexivity, reciprocity, middle, and passive voice (see Berman
 & Nir-Sagiv, , p. , for a detailed table). For example, root g-d-l
-‘grow’ combines with binyan patterns to create a family of six diﬀerent
+‘grow’ combines with binyan patterns to create a family of six different
 verbs – two of which in passive voice: basic gadal ‘grow’, causative higdil
 ‘enlarge’, passive hugdal ‘be enlarged’, causative gidel ‘raise’, passive
-gudal ‘be raised’, and middle-reﬂexive hitgadel ‘aggrandize oneself’.
-
+gudal ‘be raised’, and middle-reflexive hitgadel ‘aggrandize oneself’.
 Passive verb formation takes place within this morphologically stringent
 root-binyan verb system. Hebrew passive morphosyntax is based on the
 three transitive binyan patterns – Qal, Hif’il, and Pi’el, each associated
@@ -370,87 +215,10 @@ with a dedicated passive counterpart: Qal with Nif’al, Hif’il with Huf’al,
 and Pi’el with Pu’al (Table ). In the current context, we investigate
 VERBAL passives, that is, passive verbs in the past and future tense, rather
 than resultative adjectival passives, which are based on the present tense
-stems of passive binyan patterns, such as Pu’al metukan ‘ﬁxed’ or Huf’al
+stems of passive binyan patterns, such as Pu’al metukan ‘fixed’ or Huf’al
 mufta ‘surprised’ (Berman, ). Adjectival passives constitute a major
-
- Verbs are presented according to the Hebraic tradition in the past tense, third person
-
-masculine singular form, which corresponds to the binyan name.
-
- See Ravid et al. () for an account of the two binyan subsystems occupied by Qal, Hif’il,
-
-Pi’el, and their passive counterparts.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
-TA B L E . The three active/passive binyan pairs illustrated with three roots
-(l-m-d ‘learn’, s-b-r ‘explain’, and t-p-l ‘take care of’) across past, present,
-and future tenses (in third person masculine singular), and the inﬁnitive form
-
-Voice ?
-
-Binyan ?
-Past tense
-Present tense
-Future tense
-Inﬁnitive
-
-Active
-
-Passive
-
-Active
-
-Passive
-
-Active
-
-Passive
-
-Qal
-lamad
-lomed
-yilmad
-lilmod
-
-Nif’al
-nilmad
-nilmad
-yilamed
-lehilamed
-
-Hif’il
-hisbir
-masbir
-yasbir
-lehasbir
-
-Huf’al
-husbar
-musbar
-yusbar
-—
-
-Pi’el
-tipel
-metapel
-yetapel
-letapel
-
-Pu’al
-tupal
-metupal
-yetupal
-—
-
 structural source of Hebrew adjectives, learned early on, around four years of
 age (Berman, ).
-
 In one sense, passive morphology is the most predictable of all binyan
 functions, as choice of passive binyan is always entailed by its active
 counterpart (Table ). However, the three patterns expressing passive
@@ -460,16 +228,11 @@ several unique features. First, the passive voice is their only functional
 role, so that their existence is predicated on that of a corresponding
 transitive Hif’il or Pi’el verb. Structurally, they share the vowel u across
 their temporal paradigms, and unlike all other binyan patterns, they do not
-have inﬁnitive forms (Table ). Again, unlike all other patterns, Pu’al and
-Huf’al form their action nominals by attaching the abstract suﬃx -ut to
-‘readi-ness’ or
-tense
-their
-adjectival present
-me’orav-ut ‘involve-ment’
-(Ravid & Avidor, ). Importantly, their
-present
-tense forms express both passive participial and resultative
+have infinitive forms (Table ). Again, unlike all other patterns, Pu’al and
+Huf’al form their action nominals by attaching the abstract suffix -ut to
+their adjectival present tense stems, e.g. muxan-ut ‘readi-ness’ or
+me’orav-ut ‘involve-ment’ (Ravid & Avidor, ). Importantly, their
+present tense forms express both passive participial and resultative
 meanings, so that mefursam in Pu’al can be interpreted as both ‘is being
 published’ and ‘famous’. Nif’al, in contrast, has several characteristics that
 mark its special status (Schwarzwald, ). First, in addition to its role as
@@ -480,41 +243,13 @@ tense participial Nif’al participates in a tripartite system with Qal and the
 resultative pattern CaCuC, as in Qal kotev ‘is writing’ / CaCuC katuv
 ‘written’ / Nif’al nixtav ‘is being written’. Structurally, too, Nif’al does
 not have the typical passive u vowel of the strict passives, and again,
-unlike them, it has an inﬁnitival stem and a derived action nominal like
+unlike them, it has an infinitival stem and a derived action nominal like
 all other non-passive binyan patterns. Finally, Nif’al is the only binyan
 (or for that matter, any derivational pattern in Hebrew) starting with
-
-e.g. muxan-ut
-
-stems,
-
- Side by side with derivation from present tense stems, like its strict passive counterparts.
-(regular action nominal with pattern
-
-‘state of being counted’
-
-Compare hipakdut
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-same
-
-employed for
-
-Hebrew passive
-
-structural devices
-
-preﬁxal n-, with a further peculiarity of having identical past and present
-stems and phonologically distinct future and inﬁnitive stems (Ravid, ).
-formation is ﬁrmly embedded in Hebrew verb
-morphology, using the
-the
+prefixal n-, with a further peculiarity of having identical past and present
+stems and phonologically distinct future and infinitive stems (Ravid, ).
+Hebrew passive formation is firmly embedded in Hebrew verb
+morphology, using the same structural devices employed for the
 expression of other binyan functions. There is nothing special about the
 morphophonology of either the strict passives or Nif’al: the developmental
 literature shows that present tense adjectival passives with u are found in
@@ -526,168 +261,76 @@ Hitpa’el forms such as hitparek ‘fell apart’ soon following in their steps
 culprit in the very late acquisition of passive voice in Hebrew. We argue
 that the problem lies elsewhere, at the interface of syntactic constructions
 and event structure in the ambient language.
-
-subjectless
-
-Passive versus generic
-
-several
+Passive versus generic subjectless constructions. Hebrew has several
 subjectless constructions that serve to express a non-agent oriented outlook
-on events (Berman, ). Two prominent examples are predicate-ﬁrst ()
-and impersonal
-in everyday
+on events (Berman, ). Two prominent examples are predicate-first ()
+and impersonal () constructions, which are prevalent in everyday
 interactions, child speech, and input to children (Dromi & Berman, ).
-
-() constructions, which are prevalent
-
-constructions. Hebrew has
-
-()
-
-a.
-
-b.
-
-()
-
-a.
-
-b.
-
-mutar lexa laléxet
+() a. mutar lexa laléxet
 Allowed to-you to-go
 ‘You may go’
-xam po
+b. xam po
 hot here
 ‘it’s hot here’
-bonim po gesher
+() a. bonim po gesher
 building,PL here bridge
 ‘A bridge is under construction here’
-lo yimkeru lexa kan glida
+b. lo yimkeru lexa kan glida
 not will-sell,PL to-you here ice cream
 ‘They won’t sell you ice cream here’
-
-stance
-
 Constructions such as those in () and () share a general, often modal,
-(Berman, ). Such subjectless, often verbless,
-discourse
-tense, are
-impersonal constructions, usually anchored in the present
-prevalent
-thus
+discourse stance (Berman, ). Such subjectless, often verbless,
+impersonal constructions, usually anchored in the present tense, are
+prevalent in everyday communication and written discourse, thus
 occupying the preferred slot for the expression of habitual, generic states,
 scenarios, and situations in Hebrew. Hebrew passive constructions are very
-diﬀerent. Like their active counterparts, and in direct contrast
-to
-
-in everyday communication and written discourse,
-
-hiCaCCut) with nifkadut ‘going AWOL’ (based on the present tense stem), both based on
-the root p-q-d.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
+different. Like their active counterparts, and in direct contrast to
 subjectless/verbless constructions, they require a grammatical subject and are
-based on lexical verbs that take all temporal
-inﬂections, favoring the
-tense. By itself, passive syntactic structure cannot be
-perfective past
+based on lexical verbs that take all temporal inflections, favoring the
+perfective past tense. By itself, passive syntactic structure cannot be
 regarded as the cause of delayed passive acquisition in Hebrew, as children
 produce the required, grammatically integral SV(O) structures (Keenan &
 Dryer, ) fairly early, including many with non-agentive subjects and
-unaccusative verbs (Berman, ). Relating diﬀerent structures should
+unaccusative verbs (Berman, ). Relating different structures should
 not be challenging to Hebrew-speaking children, who are early on exposed
 to and produce sentences with pragmatically alternating word orders such
 as () (Ravid, ).
-
-()
-
-a. ha-tik nafal /
-
-nafal ha-tik
-
+() a. ha-tik nafal / nafal ha-tik
 the-bag has-dropped / has-dropped the-bag
 ‘the bag has dropped’
-b. kvar axalti et ha-agas
-
-already ate,ST.SG ACC the-pear
+b. kvar axalti et ha-agas / et ha-agas kvar axalti
+already ate,ST.SG ACC the-pear / ACC the-pear already ate,ST.SG
 ‘I already ate the pear’
-
-et ha-agas kvar axalti
-
-/
-/ ACC the-pear already ate,ST.SG
-
 We argue that the FUNCTIONAL ROLE reserved in Hebrew to passive verb
 constructions is the gist of the problem. In direct contrast to generic,
-present
-tense, state-oriented subjectless constructions, verbal passives
+present tense, state-oriented subjectless constructions, verbal passives
 functionally pinpoint highly transitive, perfective EVENTS, either realis or
 irrealis, as in ().
-
-()
-
-a.
-
-b.
-
-af báyit lo shupats be-maha’lax ha-tkufa
+() a. af báyit lo shupats be-maha’lax ha-tkufa
 no house not renovated in-the-course the-period
 ‘Not a single house was renovated during this period’
-im ta’ase kax, lo tenuke me-ashma
+b. im ta’ase kax, lo tenuke me-ashma
 If will-do,ND.SG that, not will-be-cleaned,ND.SG from-guilt
 ‘If you do that, you will not be cleared of guilt’
-
-Passive constructions thus require the expression of speciﬁc, perfective
+Passive constructions thus require the expression of specific, perfective
 events through an abstract and distanced agent-demoting stance, which
 does not characterize early child language interaction. This restricted
 functional role predicts a prolonged period of learning passive voice,
 enabled by socio-cognitive changes in adolescence during Later Language
-Development
-). Learning passive
+Development (Blakemore & Choudhury, ). Learning passive
 constructions in Hebrew is based on gaining extensive experience with the
 appropriate communicative contexts of event- and story-telling, and the
 passive constructions associated with them; and the ability to perceive
 multiple perspectives, as well as familiarity with literate, written language
 styles that prefer such forms of expression (Berman & Ravid, ).
-
-(Blakemore & Choudhury,
-
- We take irrealis as an umbrella term covering non-indicative, less-than-real modality
-
-functions (Timberlake, ).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-; Ravid et
-
-al.,
-
-),
-
-and in children’s
-
 Learning Hebrew passives. Most research on Hebrew passive acquisition to
 date has focused on its distributions in child, adolescent, and adult corpora.
 Verbal passives of Pu’al and Huf’al were virtually absent in spoken mother–
 child interactions, child-directed speech, child speech, children’s peer talk
-(Berman,
-spoken
+(Berman, ; Ravid et al., ), and in children’s spoken
 personal-experience story-telling (Berman & Slobin, ). They were also
 negligible (under %) in the written narrative and expository texts of
-Hebrew-speaking high-schoolers
-and even university-educated adults
+Hebrew-speaking high-schoolers and even university-educated adults
 (Berman & Nir-Sagiv, ). Past tense (no future tense) Pu’al and Huf’al
 verbs constituted under % of verb types and tokens in children’s story-books
 and early school texts. Passive Nif’al past and future tense forms in the same
@@ -698,7 +341,6 @@ Berman, ), with special concentration in adult narrative writing (Ra
 Chen-Djemal, ). This supports our hypothesis regarding the special role
 passive constructions occupy in Hebrew event-telling and the drawn-out route
 to learning their usage contexts in the language.
-
 Ravid () reviewed several small-scale Hebrew-language experimental
 studies where past tense passive constructions were elicited in school-aged
 children. They all showed that, by age ten, syntactic errors in passive
@@ -713,31 +355,20 @@ of these studies, Nif’al had the highest correct scores and attracted the
 most errors, leading us to assume that it constituted the bridge leading
 towards strict passives, given the prominence of intransitive, telic, and
 change-of-state Nif’al forms in early childhood (Berman, ).
-
 To sum up, corpora studies indicated the marked absence of passive
-constructions from spoken and written Hebrew texts, except
-for the
-speciﬁc, adult preference for narrating events from a distanced discourse
-stance. Correspondingly, passive
-verb production in experimental
+constructions from spoken and written Hebrew texts, except for the
+specific, adult preference for narrating events from a distanced discourse
+stance. Correspondingly, passive verb production in experimental
 conditions outlined a learning path starting very late, around age nine,
 reaching command only by late adolescence. Given children’s command
 of Hebrew verb morphology and argument structure in early childhood,
 we hypothesized that the delay in learning Hebrew passives does not
 derive from syntactic nor morphological factors, but rather from the rare
 encounters with Hebrew passive constructions that are the direct outcome
-of their speciﬁc narrative role coupled with a detached and general stance.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
+of their specific narrative role coupled with a detached and general stance.
 Linguistic register. A critical component of the current study is the notion
 of LINGUISTIC REGISTER, characterized by Ferguson (, p. ) as “the
-linguistic diﬀerences that correlate with diﬀerent occasions of use”. This
+linguistic differences that correlate with different occasions of use”. This
 means that acquisition of register involves gaining command of the range
 of expressive options available in the target language, and being able to
 map relevant linguistic forms in accordance with communicative context
@@ -746,25 +377,19 @@ displaced writing mode, which allows for more planning and monitoring,
 hence more complex linguistic features (Halliday, ). Accordingly,
 verbal passives occupied a prominent part of the elevated Hebrew register
 in Ravid and Berman’s () analysis of text production across adolescence.
-
-this background,
-
-Hypotheses in the current study
-Against
-the current study was the ﬁrst systematic,
+Hypotheses in the current study.
+Against this background, the current study was the first systematic,
 large-scale, dedicated study of Hebrew passive elicitation in sentential
 context to engage school-going populations – children and adolescents –
 compared with adults. The passivization task included two new variables
-studied for the ﬁrst time, suitable for examining the language of literate
+studied for the first time, suitable for examining the language of literate
 participants during the period of Later Language Development. First, the
 variable of linguistic REGISTER, that is, language level. Register was used as
-a measure of lexical speciﬁcity and degree of abstractness of the verb,
+a measure of lexical specificity and degree of abstractness of the verb,
 following the criteria established in Hebrew by Ravid and Berman ().
 A second new variable was past versus future verb tense, as against all
-previous experimental
-studies on Hebrew passive production which
+previous experimental studies on Hebrew passive production which
 involved past tense, the default form of Hebrew passives.
-
 We had four hypotheses following the literature reviewed above. ()
 Correct performance on the passive task was expected to increase from the
 youngest age group to adulthood, across the period of later language
@@ -773,328 +398,88 @@ to incur lower correct scores than those with verbs in neutral register. () W
 expected Nif’al to lead correct passive performance, that is, to have the highest
 scores starting from the lowest age group. We had no expectations regarding
 the ordering within the two strict passives Pu’al and Huf’al, as previous
-studies had shown conﬂicting results. () As an irrealis temporal form, future
+studies had shown conflicting results. () As an irrealis temporal form, future
 tense is rarely used in referring to events. Accordingly, we expected higher
 performance on the canonical past tense verbs.
-
-M E T H O D
+<Middle>
+METHOD.
 This study was a structured elicitation task testing the production of Hebrew
 passive voice constructions in writing. PARTICIPANTS were  typically
 developing monolingual, native Hebrew-speaking children, adolescents, and
 adults with no diagnosed language or learning disorders. They were all of
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-TA B L E . Structure of the Passive Task (N =  items)
-
-Qal / Nif’al N = 
-
-Pi’el / Pu’al N = 
-
-Hif’il / Huf’al N = 
-
-Neutral register N = 
-Future tense
-Past tense
-N = 
-N = 
-High register N = 
-Past tense
-N = 
-
-Future tense
-N = 
-
-Neutral register N = 
-
-Past tense
-N = 
-
-Future tense
-N = 
-
-Neutral register N = 
-
-Past tense
-N = 
-
-Future tense
-N = 
-
-High register N = 
-
-High register N = 
-
-Past tense
-N = 
-
-Future tense
-N = 
-
-Past tense
-N = 
-
-Future tense
-N = 
-
 middle SES (socio-economic status), as determined by the Strauss Cultivation
 Measure (Strauss, ; Ensminger & Fothergill, ). All participants lived
 in the same region in the south of Israel. Participants were in seven age/
-schooling level groups:  eight- to nine-year-olds (M = ;) in third grade
+schooling level groups:  eight- to nine-year-olds (M= ;) in third grade
 (henceforth designated eight-year-olds);  nine- to ten-year-olds (M = ;) in
-fourth grade;  ten- to eleven-year-olds (M = ;) in ﬁfth grade;  eleven-
-to twelve-year-olds(M = ;) in sixth grade;  thirteen- to fourteen-year-
-olds (M = ;) in eighth grade;  sixteen- to seventeen-year-olds (M =
+fourth grade;  ten- to eleven-year-olds (M= ;) in fifth grade;  elevento
+twelve-year-olds(M = ;) in sixth grade;  thirteen- to fourteen-yearolds
+(M = ;) in eighth grade;  sixteen- to seventeen-year-olds (M=
 ;) in eleventh grade; and  adult university students aged –.
-
-Materials
+Materials.
 Participants were asked to change written active-voice sentences into
 corresponding passive-voice sentences. Materials consisted of  task
 sentences divided according to three variables: verb register, binyan, and
 verb tense (Table ).
-
-eight-year-olds,
-
 Register. Half of the sentences () were in neutral register, and the other
 half in high register. Verbs with neutral register corresponded to Ravid and
 Berman’s () level  – colloquial everyday usage, e.g. shalax ‘sent’ – while
 high-register verbs corresponded to level  – the standard written usage of
-lexically speciﬁc, abstract hexerim
-educated monolingual speakers, e.g.
-‘conﬁscated’. Task verbs were checked against school texts to ensure their
-suitability for
-age group. Sentential
+educated monolingual speakers, e.g. lexically specific, abstract hexerim
+‘confiscated’. Task verbs were checked against school texts to ensure their
+suitability for eight-year-olds, the youngest age group. Sentential
 arguments (agent and patient nouns) were adjusted to the verb’s register
 level, based on Ravid’s () Noun Scale. For example, the agent and
 patient for neutral-register send were Ron and letters respectively (Ron sent the
-letters), while the agent and patient for high-register conﬁscate were the
-Customs and merchandise respectively (the Customs conﬁscated the merchandise).
+letters), while the agent and patient for high-register confiscate were the
+Customs and merchandise respectively (the Customs confiscated the merchandise).
 The register division was designed to determine whether lexical properties of
 the active verb and its context were helpful or detrimental in learning. All
 materials were piloted in a corresponding population to ensure that children
 understood the meanings of the sentences and their components.
-
-the youngest
-
 Binyan. The three transitive verb patterns were given equal representation
 of sixteen sentences each: Qal (targeting passive Nif’al, as in shadad/nishdad
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
 ‘robbed / was robbed’), Pi’el (targeting passive Pu’al as in pizer/puzar
 ‘scattered / was scattered’), and Hif’il (Huf’al, as in yaklit/yuklat ‘will
 record / will be recorded’). This division enabled us to test the role of
 binyan morphology in learning to passivize.
-
 Tense. Half of the task sentences had past tense verbs and half future tense
 verbs. The most compelling reason for this was that present tense passive
-forms (e.g. meluxlax ‘dirty’
-in Pu’al) comprise an entirely diﬀerent
+forms (e.g. meluxlax ‘dirty’ in Pu’al) comprise an entirely different
 linguistic and psycholinguistic domain in Hebrew acquisition (Berman,
 ; Pe’er, ). Past and future tense verbs agree with their
 grammatical subjects in person, gender, and number, while present tense
 verbs carry gender and number (but no person) agreement marking, like
 adjectives. The division into past and future verb tense enabled us to test
-the role of the speciﬁc temporal patterns of each binyan in learning the
+the role of the specific temporal patterns of each binyan in learning the
 passive forms, and to ask whether past tense passives were easier to
 acquire. All task verbs were in third person, e.g. ha-talmid te’er et ha-riv
-‘the-student described ACC the-ﬁght’, so as to be narrative in tone.
-
-line
-
-i.e.
-
-Procedure
+‘the-student described ACC the-fight’, so as to be narrative in tone.
+Procedure.
 Testing took place in writing in the class forum, that is, during the school
 day in the classroom. Participation was voluntary: students who did not
-wish to participate were exempted and given other tasks in a diﬀerent
-location on the school premises. Each student received one of
-two
+wish to participate were exempted and given other tasks in a different
+location on the school premises. Each student received one of two
 randomized versions of the target forty-eight sentences on two pages.
-Students sitting next to each other received two diﬀerent versions to ensure
+Students sitting next to each other received two different versions to ensure
 individual work. Each target sentence in active voice was followed by a
-response
-the
+response line starting with the new grammatical subject, i.e. the
 active-sentence object NP, which served as a prompt to the passive voice
 construction that participants were asked to complete. For example,
 ha-moxer yishkol et ha-sxora ‘the-vendor will-weigh the-merchandise’ was
 followed by a line starting with ha-sxora ‘the merchandise’. Following
-piloting,
-the ﬁrst page was as follows:
+piloting, the instruction at the top of the first page was as follows:
 “Following below are sentences. Re-write them without changing the
 meaning of the sentence nor its tense.” Given the age range of the
 participants, only one example was given: Yossi axal et ha-tapúax ‘Yossi ate
 ACC the-apple’, followed by ha-tapúax ne’exal al yedey Yossi ‘The-apple was
 eaten by Yossi’ (passive verb and by-phrase underlined in the given example).
-
-starting with the new grammatical
-
-subject,
-
-the instruction at
-
-the top of
-
-Scoring
+Scoring.
 As the patient grammatical subject was used as the prompt, syntactic errors
 were virtually absent. Scoring thus focused on the morphological change
 from active to passive verb. Responses were categorized into six levels
 from  to . Level  designated a correct passive form in the required
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-TA B L E . Percentages and standard deviations (in parentheses) of correct
-passive responses to the neutral-register verbs, by age/schooling group, binyan,
-and verb tense
-
-Qal ? Nif’al
-
-Hif’il ? Huf’al
-
-Pi’el ? Pu’al
-
-Age/Schooling
-group
-
-rd grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-Adults
-–-year-olds
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-binyan, with further categorization indicating inﬂectional errors in tense.
+binyan, with further categorization indicating inflectional errors in tense.
 Level  indicated incorrect passive binyam responses, based on the correct
 root, e.g. erroneous Huf’al hushdad for correct Nif’al nishdad ‘was
 robbed’. For each of the three binyan patterns in the test, there were two
@@ -1102,218 +487,48 @@ possible erroneous alternatives – the other two binyan patterns. Thus,
 Nif’al or Pu’al passives were possible Level  errors for a target Huf’al
 passive form. Level  involved two passive-related errors: () present-tense
 resultative adjectives, e.g. mexudad ‘sharpened’ for target future tense
-yexudad ‘will be
-e.g.
-erroneous hitkanes for target Nif’al niknas ‘was ﬁned’. Level  errors
+yexudad ‘will be sharpened’; and () medial-passive Hitpa’el, e.g.
+erroneous hitkanes for target Nif’al niknas ‘was fined’. Level  errors
 consisted of morphophonologically non-felicitous forms with some passive
 indication, such as u-vowels (e.g. tusuman for correct tesuman ‘will be
 marked’). Level  errors consisted of non-passive responses, usually
-focusing on the inﬂectionall markers of the cue active form. For example,
+focusing on the inflectionall markers of the cue active form. For example,
 plural hegifu ‘they shuttered’ for hegifa ‘she shuttered’, where the target
 passive form should have been hugfu ‘were shuttered’. Level  errors
 consisted of non-passive semantic and syntactic alternatives (e.g. kibel knas
-‘received a ﬁne’ for niknas ‘was ﬁned’), irrelevant answers, and empty slots.
-
-and () medial-passive Hitpa’el,
-
-sharpened’;
-
-R E S U L T S
-As register was the only non-morphological variable, we ﬁrst report correct
+‘received a fine’ for niknas ‘was fined’), irrelevant answers, and empty slots.
+RESULTS.
+As register was the only non-morphological variable, we first report correct
 responses (Level  responses only, converted into percentages) in two
 separate tables, by register. Table  presents correct responses for the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
-TA B L E . Percentages and standard deviations (in parentheses) of correct
-passive responses to the high-register verbs, by age/schooling group, binyan, and
-verb tense
-
-Qal ? Nif’al
-
-Hif’il ? Huf’al
-
-Pi’el ? Pu’al
-
-Age/Schooling
-group
-
-rd grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-Adults
-–-year-olds
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
 neutral-register verbs, and Table  presents correct responses for the
 high-register verbs. A four-way ANOVA of correct responses in () age/
 schooling groups (eight-, nine-, ten-, eleven-, thirteen-, sixteen-year-olds,
 and adults) × () binyan verb patterns (Qal ? Nif’al, Hif’il ? Huf’al, Pi’el
 ? Pu’al) × () verb tense (past tense, future tense) × () register (neutral,
 high) was performed on the data in Tables  and .
-
-This analysis yielded an eﬀect for register (F(,) = ·, p < ·,
+This analysis yielded an effect for register (F(,) = ·, p < ·,
 η = ·) – verbs with neutral register scored higher (M = ·%) than
 verbs with high register (M = ·%). A four-way interaction of age/
 schooling group, binyan pattern, verb tense, and register was found
 (F(,) = ·, p < ·, η = ·), with subsequent two three-way and
-three two-way interactions involving register. These results conﬁrmed our
+three two-way interactions involving register. These results confirmed our
 initial hypothesis regarding the critical importance of linguistic register in
 passivization. We thus turned to two separate analyses in neutral- and
 high-register active/passive verbs.
-
-Correct passivization of verbs in neutral register
+Correct passivization of verbs in neutral register.
 A three-way ANOVA of correct (Level ) responses in () age/schooling
 groups × () binyan verb patterns × () verb tense was performed on the
 data in Table . Correct responses increased (F(,) = ·, p < ·,
 η = ·) from ·% in eight-year-olds to ·% in thirteen-year-olds.
-Further Bonferroni pairwise
-clusters of
-
-showed three
-
-comparisons
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-Fig. . Interaction of age group, binyan verb pattern, and verb tense in correct passive
-
-responses of neutral register.
-
+Further Bonferroni pairwise comparisons showed three clusters of
 age/schooling groups – eight- and nine-year-olds, ten-and eleven-year-olds,
-and the three oldest groups. The eﬀect for binyan verb pattern (F(,) =
+and the three oldest groups. The effect for binyan verb pattern (F(,) =
 ·, p < ·, η = ·) and further Bonferroni comparisons showed that
 Huf’al responses (M = ·%) were higher than Pu’al (M = ·%) and
-Nif’al (M = ·%) responses, which did not diﬀer from each other.
+Nif’al (M = ·%) responses, which did not differ from each other.
 Verbs in past tense scored higher (M = ·%) than verbs in future tense
 (M = ·%) (F(,) = ·, p < ·, η = ·).
-
 Three two-way interactions of age group with binyan (F(,) = ·,
 p = ·, η = ·) and with verb tense (F = (,) = ·, p = ·, η = ·)
 and of binyan and verb tense (F = (,) = ·, p < ·, η = ·) were
@@ -1323,38 +538,19 @@ tense Nif’al had the lowest scores in eight-year-olds and the shallowest
 growth curve, while future tense Huf’al verbs and past tense Nif’al verbs
 had the highest scores. Verbs in past tense Huf’al and both Pu’al tense
 patterns were in the middle.
-
-Correct passivization of verbs in high register
+Correct passivization of verbs in high register.
 A three-way ANOVA of correct responses in () age/schooling groups × ()
 binyan verb patterns × () verb tenses was performed on the data in
 Table . Correct responses increased with age (F(,) = ·, p < ·,
 η = ·) from ·% in eight-year-olds to ·% in sixteen-year-olds.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
-Fig. . Interaction of age group, binyan verb pattern, and verb tense in correct passive
-
-responses of high register.
-
-p < ·,
-
-η = ·)
-
 Further Bonferroni comparisons showed the same three clusters of age/
-schooling groups as in neutral register – eight- and nine-year-olds, ten-
-and eleven-year-olds, and the three oldest groups. The eﬀect for binyan
-verb pattern (F(,) = ·,
-and Bonferroni
-comparisons showed that all three binyan patterns signiﬁcantly diﬀered
+schooling groups as in neutral register – eight- and nine-year-olds, tenand
+eleven-year-olds, and the three oldest groups. The effect for binyan
+verb pattern (F(,) = ·, p < ·, η = ·) and Bonferroni
+comparisons showed that all three binyan patterns significantly differed
 from each other: Huf’al responses (M = ·%) were highest, followed by
 Pu’al (M = · %) and then Nif’al (M = ·%) responses. Verb tense
-was not signiﬁcant.
-
+was not significant.
 Two two-way interactions of age group with binyan (F(,) = ·,
 p = ·, η = ·) and of binyan and verb tense (F = (,) = ·,
 p < ·, η = ·) were found, as well as a three-way interaction of age
@@ -1363,345 +559,47 @@ Figure  shows two distinct groups of patterns in acquisition: the three
 higher-scoring patterns were past tense Pu’al and the two Huf’al tense
 patterns; the three lower-scoring patterns were past tense and future tense
 Nif’al, and future-tense Pu’al.
-
-Error analysis
+Error analysis.
 Non-morphological errors were very few and did not permit statistical
 analysis. They occurred only in eight- and nine-year-olds, and mostly
 consisted of providing syntactic alternatives in the form of subordinated
 clauses, e.g. ha-shulxan zaz biglal she-ha-mora heziza oto ‘the desk moved
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-TA B L E . Percentages and standard deviations (in parentheses) of erroneous
-passive binyan responses out of the total of responses in neutral register, by age/
-schooling group, binyan, and verb tense
-
-Qal ? Nif’al
-
-Hif’il ? Huf’al
-
-Pi’el ? Pu’al
-
-Age/Schooling
-group
-
-rd grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-Adults
-–-year-olds
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
 because the teacher moved it’, instead of changing heziza ‘she moved, TR’ to
 huzaz ‘was moved’ as prompted. The overwhelming majority of errors were
-morphological. Accordingly, we focused on Level  errors – that
-is,
+morphological. Accordingly, we focused on Level  errors – that is,
 responses that used erroneous passive binyan morphology. Tables  and 
 present the percentages of erroneous passive binyan responses out of the
 total number of responses. Three-way ANOVAs of erroneous passive
 binyan responses in () age/schooling groups × () binyan verb patterns ×
 () verb tenses were performed on the data in Tables  and .
-
 Neutral register. Erroneous passive responses declined with age (F(,) =
-·, p < ·, η = ·), with a cut-oﬀ between the younger age/schooling
-groups (M = ·% in eight-year-olds, M = ·% in nine-year-olds) and
+·, p < ·, η = ·), with a cut-off between the younger age/schooling
+groups (M = ·% in eight-year-olds, M= ·% in nine-year-olds) and
 the rest of the groups (under % in ten- and eleven-year-olds, dwindling
 to % in the older groups, virtually absent in the adults). Regarding
 binyan (F(,) = ·, p < ·, η = ·), Nif’al had the most passive
 binyan errors (M = ·%), followed by Pu’al (M = ·%) and Huf’al
-(M = ·%), which did not diﬀer. Verb tense was also
-responses
-signiﬁcant (F(,) = ·, p < ·, η = ·), with more passive binyan
-errors (M = ·%)
-tense (M = ·%). Three
+responses (M = ·%), which did not differ. Verb tense was also
+significant (F(,) = ·, p < ·, η = ·), with more passive binyan
+errors (M = ·%) in future than in past tense (M = ·%). Three
 two-way interactions of age group with binyan (F(,) = ·, p = ·,
 η = ·), age group and verb tense (F(,) = ·, p < ·, η = ·),
 and binyan and verb tense (F(,) = ·, p < ·, η = ·) were
 found, as well as a three-way interaction of age group, binyan, and verb
-
-in future than in past
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
-TA B L E . Percentages and standard deviations (in parentheses) of erroneous
-passive binyan responses out of the total of responses in high register, by age/
-schooling group, binyan, and verb tense
-
-Qal ? Nif’al
-
-Hif’il ? Huf’al
-
-Pi’el ? Pu’al
-
-Age/Schooling
-group
-
-rd grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-th grade
-–-year-olds
-Adults
-–-year-olds
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Past
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
-Future
-tense
-
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-·
-(·)
-
 tense (F(,) = ·, p < ·, η = ·). Figure  shows that future tense
 Nif’al had the most passive binyan errors, declining from close to % in
 eight-year-olds to a virtual absence in adults. Of the  erroneous passive
 binyan responses to target future tense Nif’al,  (%) were in Huf’al,
 and the rest in Pu’al.
-
 High register. Erroneous passive responses declined with age (F(,) =
-·, p < ·, η = ·), but
-the cut-oﬀ was between eight- and
+·, p < ·, η = ·), but the cut-off was between eight- and
 eleven-year-olds, with over % such errors (M = ·% in eight-year-olds)
-and the
-two oldest groups, with under % errors, with the
-thirteen-year-olds lying in between (M = ·%), diﬀering only from
+and the two oldest groups, with under % errors, with the
+thirteen-year-olds lying in between (M = ·%), differing only from
 adults. Regarding binyan (F(,) = ·, p < ·, η = ·), Nif’al had
 the most passive binyan errors (M = ·%), followed by Pu’al (M =
-·%) and Huf’al responses (M = ·%), which did not diﬀer. Verb tense
-was not signiﬁcant. Three two-way interactions of age group with binyan
+·%) and Huf’al responses (M = ·%), which did not differ. Verb tense
+was not significant. Three two-way interactions of age group with binyan
 (F(,) = ·, p < ·, η = ·), age group and verb tense (F(,) =
 ·, p = ·, η = ·), and binyan and verb tense (F(,) = ·,
 p < ·, η = ·) were found, as well as a three-way interaction of age
@@ -1710,63 +608,32 @@ Figure  shows that future tense and past tense Nif’al had the most
 passive binyan errors, declining from about % in eight-year-olds to
 virtual absence in adults. Of the  erroneous passive binyan responses on
 target future tense Nif’al,  (%) were in Huf’al, and the rest in Pu’al;
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-Fig. . Interaction of age group, binyan verb pattern, and verb tense in erroneous passive
-
-binyan responses, in neutral register.
-
-Fig. . Interaction of age group, binyan verb pattern, and verb tense in erroneous passive
-
-binyan responses, in high register.
-
 of the  Level  responses on target past tense Nif’al,  (%) were in
 Pu’al, and the rest in Huf’al.
-
-D I S C U S S I O N
+<Conclusion>
+DISCUSSION.
 This study elicited passive verbs in writing in a sentential context from
 Hebrew-speaking school-aged children, adolescents, and adults, focusing
 on the variables of neutral vs. high register, active/passive binyan pattern
 pairs (Qal/Nif’al, Hif’il/Huf’al, Pi’el/Pu’al), and past vs. future tense.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
 Passive as a very late acquisition: development
-Our ﬁrst two hypotheses regarding the protracted process of acquisition and
-the impact of register were conﬁrmed. The current study found that learning
+Our first two hypotheses regarding the protracted process of acquisition and
+the impact of register were confirmed. The current study found that learning
 passive verb morphology in Hebrew is a very late acquisition. Active verbs in
 neutral register with human subjects and concrete objects (e.g. tsava
 ‘painted’, tadpis ‘will type up’, pizer ‘scattered’) reached % correct
 responses only by age thirteen to fourteen, almost a decade later than
 attested in other languages with late passives. In our view, this delay is
 mostly due to the drawn-out process of learning to reconcile the role of
-Hebrew passives in the expression of event-oriented, dynamic and speciﬁc
+Hebrew passives in the expression of event-oriented, dynamic and specific
 (rather than concept-oriented, generic, and static) content, with using the
 detached, distanced mode preferred by adult narrators (Berman, ;
 Ravid & Chen-Djemal, ).
-
-is
-
-their ability to productively match verb forms
-
 Passive learning in Hebrew demonstrates the interface of discourse
-abilities with grammatical acquisition. While Hebrew-speaking eight-year-
-olds have gained full and automatic command of verb morphology
-(Berman, ),
-to
-discourse functions
-just emerging (Berman, ). School-going
+abilities with grammatical acquisition. While Hebrew-speaking eight-yearolds
+have gained full and automatic command of verb morphology
+(Berman, ), their ability to productively match verb forms to
+discourse functions is just emerging (Berman, ). School-going
 ten-year-olds use distinct grammatical devices for narrative and expository
 agent demotion (Ravid, ), being familiar with the conventional
 child-oriented medial passive and adjectival passive devices prevalent in
@@ -1775,73 +642,49 @@ are also familiar with the use of subjectless, often verbless, constructions
 for the expression of routines, ideas, and factual information (Berman,
 ; Ravid, ; Ravid & Zilberbuch, ). These two classes of
 grammatical devices are, however, kept apart for distinct genre expression.
-Learning verbal passives in Hebrew requires the ﬂexibility brought on
+Learning verbal passives in Hebrew requires the flexibility brought on
 by adolescent socio-cognitive development (Blakemore & Choudhury, ;
 Nippold, ), coupled with enhanced exposure to diverse communicative
-events and written texts of diﬀerent genres (Berman & Ravid, ;
+events and written texts of different genres (Berman & Ravid, ;
 Christie & Derewianka, ). By late adolescence, these developments
 enable Hebrew users to cross the strict genre–structure association and
 adopt the mature preference for the specialized usage of event-oriented
-verbal passives in taking a distanced, generic outlook on speciﬁc events.
-
-Passive as a very late acquisition: register
+verbal passives in taking a distanced, generic outlook on specific events.
+Passive as a very late acquisition: register.
 As predicted, again, learning verbal passives was found to be mediated
-by linguistic register. In the current study, abstract,
-lexically speciﬁc,
-higher-register active verbs (kansa ‘ﬁned’, tanxe ‘will lead the ceremony’,
+by linguistic register. In the current study, abstract, lexically specific,
+higher-register active verbs (kansa ‘fined’, tanxe ‘will lead the ceremony’,
 nimek ‘motivated’) yielded lower passive scores than neutral verbs, and
 reached % only by sixteen to seventeen years of age. Outside our
 experimental design, high-register verbal passives are the norm rather than
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
 the exception in Hebrew usage, and moreover they usually co-occur with
 other abstract, mental, and irrealis high-register lexical items typical of
-adult expression (Ravid & Chen-Djemal, ). This is exempliﬁed in (),
+adult expression (Ravid & Chen-Djemal, ). This is exemplified in (),
 a  September  Hebrew posting on Facebook:
-
-() huvhar
-
-li
-
-yukran
-
-was-clariﬁed to-me
-‘It was made clear to me that the ﬁlm would be screened this evening’
-
-she-haséret
-that-the-ﬁlm will-be-screened this-evening
-
-ha-érev
-
+() huvhar li she-haséret yukran ha-érev
+was-clarified to-me that-the-film will-be-screened this-evening
+‘It was made clear to me that the film would be screened this evening’
 As register is a lexical feature in Hebrew (Ravid & Berman, ), verbal
 passives are lexically rather than syntactically challenging. They are part of
 the lexical explosion that doubles adolescent vocabulary, ushering in also
 derived nominals (Ravid, ; Ravid & Avidor, ) and denominal
 adjectives (Ravid & Zilberbuch, ), categories with restricted semantic–
 pragmatic distributions and simpler alternatives used by younger speakers.
-
 Learning the Hebrew passive: morphology and register
 We now turn to the morphological aspects of passive acquisition. Recall the
 remaining hypotheses regarding the primacy of Nif’al as the bridge to
 passive learning, the indeterminate order of acquisition, and the challenge
-posed by future tense passive forms. The ﬁndings revealed a clear, though
+posed by future tense passive forms. The findings revealed a clear, though
 unexpected, order of acquisition among the three passive verb patterns,
-interacting diﬀerently with temporal patterns, and introducing syntactic
+interacting differently with temporal patterns, and introducing syntactic
 and semantic considerations to the developmental picture.
-
-Counter to previous ﬁndings, across development in both registers, and
+Counter to previous findings, across development in both registers, and
 particularly in the high register, past and future tense Huf’al verbs fared
 the best in correct responses. Pu’al verbs followed; however, past was
 easier than future tense, especially in the high register. Finally, Nif’al
-verbs behaved diﬀerently in the two registers: future tense was extremely
+verbs behaved differently in the two registers: future tense was extremely
 challenging in both registers, but past tense Nif’al verbs were as easy as
-Huf’al in neutral register, and as diﬃcult as future tense Nif’al in high
+Huf’al in neutral register, and as difficult as future tense Nif’al in high
 register. Moreover, target Nif’al verbs entailed four times as many passive
 binyan errors than both the other passive patterns, with Huf’al occupying
 all of Nif’al error space in neutral register, and all future tense Nif’al
@@ -1849,58 +692,39 @@ error space in high register. Pu’al attracted almost all past tense Nif’al
 errors. Explaining these results requires the examination of the properties
 of each active/passive binyan pair, as mediated by the lexical properties of
 register.
-
 Huf’al passives. With the highest correct passive scores across all age
 groups, and as the major attractor of passive binyan errors, Hebrew
 learners clearly preferred Huf’al as the default verbal passive. This
-highlights Hif’il/Huf’al as
-semantically, and
+highlights Hif’il/Huf’al as the most syntactically, semantically, and
 phonologically regular and transparent active/passive pair in Hebrew. Of
-
-syntactically,
-
-the most
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
 the three active binyan patterns, Hif’il is the most transitive, with most
 Hif’il verbs taking the accusative direct object (Dattner, ), hence
-constituting the prototypical
-syntactic source for passive formation.
+constituting the prototypical syntactic source for passive formation.
 Phonologically, too, Huf’al not only has the hallmark passive u-vowel, but
 is also completely uniform, the only passive binyan with the same vocalic
 pattern across all temporal stems. Semantically, Huf’al passives are the most
-inﬂection-like in nature, solely dedicated to the regular, virtually automatic
+inflection-like in nature, solely dedicated to the regular, virtually automatic
 passive modulation on the hif’il verb meaning. This is supported by a
 recent analysis of Hebrew resultative adjectives in children’s peer talk,
-which showed that the category of derivational, lexically speciﬁc Huf’al
+which showed that the category of derivational, lexically specific Huf’al
 adjectives was the smallest in the corpus (Pe’er, ).
-
 Pu’al passives. Pu’al passives had an interim status in the study. In neutral
 register, they lay in between the high-scoring Huf’al / past tense Nif’al and
 the low-scoring future tense Nif’al. In high register, past tense Pu’al verbs
 clustered with Huf’al, while future tense Pu’al verbs shared a steep
-trajectory with Nif’al verbs. These results reﬂect the speciﬁc properties of
+trajectory with Nif’al verbs. These results reflect the specific properties of
 the Pi’el/Pu’al pair.
-
 Syntactically, Pi’el is less transitive than Hif’il, with more oblique (rather
 than accusative) objects (Dattner, ), and therefore fewer opportunities
 for passive formation. Phonologically, although Pu’al shares the u-vowel
 and the strict passive morphology with Huf’al, it is less uniform, absent
-tense h-preﬁx. Morphologically, Pi’el and Pu’al are
-the typical past
-strongly linked to Hitpa’el (Ravid et al., ), oﬀering a medial-passive
+the typical past tense h-prefix. Morphologically, Pi’el and Pu’al are
+strongly linked to Hitpa’el (Ravid et al., ), offering a medial-passive
 escape hatch for the younger age groups: Thus, Pu’al had nine times as
 many Level  medial-passive errors (%) than Nif’al and Huf’al (under
 %) in the younger groups – all of them in Hitpa’el; for example, hitpazru
 ‘scattered’ for correct puzru ‘were scattered’, and yistakem ‘will add up to’
 for correct yesukam ‘will be summarized’.
-
 Taken together, these properties indicate the double function of Pi’el/
 Pu’al as the less regular and transparent strict passive pair, side by side
 with Pu’al’s central role as a derivational device, generating twice as many
@@ -1909,30 +733,16 @@ lacking transitive Pi’el sources (Pe’er, ). Pu’al was also rev
 canonical Hebrew perfective passive, accounting for the fact that past tense
 Pu’al passives attracted the overwhelming majority Nif’al errors, and by
 the inferior results of future tense Pu’al passives.
-
 Nif’al passives. Counter our predictions, the Qal/Nif’al pair constituted
 the major challenge to passive learning as the least preferred option for the
 expression of passive voice in participants up to adulthood. Future tense
 Nif’al verbs in neutral register and both tenses in high register had the
-
- Even the small set of intransitive, inchoative Hif’il verbs such as hivri ‘get well’ or hexmir
-
-‘grow severe’ always have a causative interpretation.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
 lowest scores in eight-year-olds, and distinctly steep trajectories. The maverick
-morphophonological properties of Nif’al, so diﬀerent from the strict passives,
+morphophonological properties of Nif’al, so different from the strict passives,
 would have led us to posit a suitable hypothesis, but all previous studies on
 Hebrew passive in acquisition had pointed at Nif’al as the bridge to passive
 learning. Thanks to including the tense and register variables, the current
-study can now oﬀer a solution to this apparent contradiction.
-
+study can now offer a solution to this apparent contradiction.
 Clearly, passive voice is only one of the functions of Nif’al. It is the canonical
 intransitive binyan in the Qal/Nif’al/Hif’il/Huf’al subsystem, holding a
 similar role to Hitpa’el in the subsystem it shares with Pi’el and Pu’al (Ravid
@@ -1942,71 +752,49 @@ interpretation of both middle or passive, as in tarak/nitrak ‘slam,TR/slam,
 INT ∼ be slammed’. Many Nif’al middle/passives do not have Qal
 counterparts, e.g. nirtav ‘get wet’, while others hold idiosyncratic
 relationships with Qal, e.g. both avad/ne’evad meaning ‘get lost’ in high and
-neutral
-structurally and
+neutral register, respectively. Qal itself, the most structurally and
 semantically irregular and variegated binyan, is the least transitive of the
 three passive-source binyanim, designated as transitivity-neutral in Berman
 (). This is also supported in that half of the adjectival passives in
 CaCuC, the passive resultative adjective pattern corresponding to the Qal
 and Nif’al paradigm, do not match a transitive verb in Qal (Pe’er, ).
-
-respectively. Qal
-
-register,
-
-itself,
-
-the most
-
 It was only the neutral register past tense Nif’al verbs, all conveying the
 canonical perfective outlook, that had early high scores in the current
 study, as in the previous studies, and served as the early bridge to mature
-passives. Although most of
-them had the double middle/passive
+passives. Although most of them had the double middle/passive
 interpretation (e.g. neheras ‘be/get destroyed’, nishkal ‘be weighed / weigh
 oneself’), there was no separate middle option attracting errors, as Hitpa’el
-does for Pu’al. In other words, in a diﬀerent binyan they would have
+does for Pu’al. In other words, in a different binyan they would have
 shown Level  errors. But when required to use the non-canonical future
 for the perfective outlook, these atypical Nif’al passives were rejected in
 favor of the default Huf’al. The high-register abstract Nif’al passives, so
-very diﬀerent from the early Nif’al telics such as nikra ‘tore’, were the last
+very different from the early Nif’al telics such as nikra ‘tore’, were the last
 to be acquired. They were abstract, clearly passive verbs (e.g. tibalem ‘will
-be restrained’, niknesa ‘was ﬁned’), but nonetheless systematically rejected
+be restrained’, niknesa ‘was fined’), but nonetheless systematically rejected
 by younger participants in favor of Huf’al (future tense) and Pu’al (past
 tense) errors. For example, Huf’al tuvdak for correct Nif’al tibadek ‘will
 be examined’, or Pu’al guzal for correct Nif’al nigzal ‘was usurped’. It was
 only in late adolescence that participants were willing to forgo the strict
 passive options and accept Nif’al as a passive option of Qal.
-
-C O N C L U S I O N S
+CONCLUSIONS.
 The very late acquisition of Hebrew verbal passives is an example of how
-speciﬁc language typology interacts with the agent-demoting outlook of
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
+specific language typology interacts with the agent-demoting outlook of
 passive voice. Morphological passives ride piggyback on middle/passive past
 tense Nif’al forms to begin with, but once the canonical Pu’al and Huf’al
 passives are learned in grade school, the Nif’al bridge is burned. Hebrew
 passive morphology enters the developmental picture only when learners
-have identiﬁed how verbal passives behave in the speciﬁcally perfective yet
+have identified how verbal passives behave in the specifically perfective yet
 detached communicative contexts, where generic subjectless or adjectival
 passives will not do the job – most typically, when conversant with the
 literate, written mode.
-
 Taking an overarching view of the domain, the study of passive voice
 acquisition has undergone several phases, side by side with changes in the
 construal of the passive voice in linguistics. Earlier studies viewed passive
 voice (mainly through the prism of English) as a syntactic phenomenon,
-with the delay to about age ﬁve explained by the need to move NPs in the
+with the delay to about age five explained by the need to move NPs in the
 sentence (Borer & Wexler, ; Pierce, ), or due to a universal
 maturational delay preventing children from connecting the patient role to
-et al., ). Later,
-the subject position (Horgan, ; Maratsos
+the subject position (Horgan, ; Maratsos et al., ). Later,
 input-driven analyses explained that English-speaking children under three
 do not generalize the construction due to scarce exposure in early
 childhood (Brooks & Tomasello, ). This view was supported by
@@ -2017,312 +805,3 @@ Poz, ). The current study was chaperoned by the shifting linguistic
 spotlight towards the verbal morphology of passives, on the one hand, and
 the extension of developmental psycholinguistic investigation to the realms
 of adolescence and written language, on the other.
-
-R E F E R E N C E S
-
-Abraham, W. & Leisiö, E. (eds) (). Passivization and typology: form and function.
-
-Amsterdam: John Benjamins.
-
-Abraham, W. & Leiss, E. (). The impersonal passive: voice suspended under aspectual
-conditions. In W. Abraham & E. Leisiö (eds), Passivization and typology: form and
-function, –. Amsterdam: John Benjamins.
-
-Alcock, K. J., Rimba, K. & Newton, C. R. J. C. (). Early production of the passive in two
-
-Eastern Bantu languages. First Language , –.
-
-Allen, S. E. M. & Crago, M. B. (). Early passive acquisition in Inuktitut. Journal of Child
-
-Language , –.
-
-Aschermann, E., Gulzow, I. & Wendt, D. (). Diﬀerences in the comprehension of passive
-voice in German- and English-speaking children. Swiss Journal of Psychology , –.
-Baldie, B. J. (). The acquisition of the passive voice. Journal of Child Language , –.
-Berman, R. A. (). The case of an (S)VO language: subjectless constructions in Modern
-
-Hebrew. Language , –.
-
-Berman, R. A. (). Acquisition of Hebrew. Hillsdale, NJ: Lawrence Erlbaum.
-Berman, R. A. (). Marking of verb transitivity by Hebrew-speaking children. Journal of
-
-Child Language , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-Berman, R. A. (). Formal, lexical, and semantic factors in acquisition of Hebrew
-
-resultative participles. Berkeley Linguistic Society , –.
-
-Berman, R. A. (). Between emergence and mastery: the long developmental route of
-language acquisition. In R. A. Berman (ed.), Language development across childhood and
-adolescence (pp. –). Amsterdam: John Benjamins.
-
-Berman, R. A. (). Introduction: developing discourse stance in diﬀerent text types and
-
-languages. Journal of Pragmatics , –.
-
-Berman, R. A. (). The psycholinguistics of developing text construction. Journal of Child
-
-Language , –.
-
-Berman, R. A. & Nir-Sagiv, B. (). Linguistic indicators of inter-genre diﬀerentiation in
-
-later language development. Journal of Child Language , –.
-
-Berman, R. A. & Ravid, D. (). Becoming a literate language user: oral and written text
-construction across adolescence. In D. R. Olson & N. Torrance (eds), Cambridge
-handbook of literacy, –. Cambridge: Cambridge University Press.
-
-Berman, R. A. & Slobin, D. I. (). Relating events in narrative: a crosslinguistic
-
-developmental study. Hillsdale, NJ: Erlbaum.
-
-Biber, D. (). Dimensions of register variation: a crosslinguistic comparison. Cambridge:
-
-Cambridge University Press.
-
-Blakemore, S.-J. & Choudhury, S. (). Development of the adolescent brain: implications
-for executive function and social cognition. Journal of Child Psychology and Psychiatry ,
-–.
-
-Borer, H. & Wexler, K. (). The maturation of syntax. In T. Roeper and E. Williams
-
-(eds), Parameter setting (pp. –). Dordrecht: Reidel.
-
-Brooks, P. J. & Tomasello, M. (). Young children learn to produce passives with nonce
-
-verbs. Developmental Psychology , –.
-
-Budwig, N. (). The linguistic marking of nonprototypical agency: an exploration into
-
-children’s use of passives. Linguistics , –.
-
-Christie, F. & Derewianka, B. (). School discourse. London: Continuum.
-Crain, S., Thornton, R. & Murasugi, K. (). Capturing the evasive passive. Language
-
-Acquisition , –.
-
-Dattner, E. (). Enabling and allowing in Hebrew: a Usage-Based Construction Grammar
-account. In B. Nolan, G. Rawoens & E. Diedrichsen (eds), Causation, permission, and
-transfer: argument realisation in GET, TAKE, PUT, GIVE and LET verbs, –.
-Amsterdam: Benjamins.
-
-Demuth, K. (). Subject, topic and the Sesotho passive. Journal of Child Language , –.
-Demuth, K., Moloi, F. & Machobane, M. (). -Year-olds’ comprehension, production,
-
-and generalization of Sesotho passives. Cognition , –.
-
-Dromi, E. & Berman, R. A. (). Language-general and language-speciﬁc in developing
-
-syntax. Journal of Child Language , –.
-
-Ensminger, M. E. & Fothergill, K. E. (). A decadeof measuring SES: what it tells us andwhere
-to go from here. In M. H. Bornstein & R. H. Bradley (eds), Handbook of parenting: socioeconomic
-status, parenting, and child development, Vol. , –. Mahwah, NJ: Erlbaum.
-
-Ferguson, C. A.
-
-register, and genre: working assumptions about
-conventionalization. In D. Biber & E. Finegan (eds), Sociolinguistic perspectives on
-register, –. New York: Oxford University Press.
-
-(). Dialect,
-
-Ferreira, F. (). Choice of passive voice is aﬀected by verb type and animacy. Journal of
-
-Memory and Language , –.
-
-Foley, W. A. (). A typology of information packaging in the clause. In T. Shopen (ed.),
-Language typology and syntactic description: Vol. II, Clause structure, –. Cambridge:
-Cambridge University Press.
-
-Fox, D. & Grodzinsky, Y. (). Children’s passive: a view from the by-phrase. Linguistic
-
-Inquiry , –.
-
-Gámez, P. B., Shimpi, P. M., Waterfall, H. R. & Huttenlocher, J. (). Priming a
-perspective in Spanish monolingual children: the use of syntactic alternatives. Journal of
-Child Language , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-H E B R E W P A S S I V E M O R P H O L O G Y I N D E V E L O P M E N T
-
-Gil, D. (). The acquisition of voice morphology in Jakarta Indonesian. In N. Gagarina &
-I. Gülzow (eds), The acquisition of verbs and their grammar: the eﬀect of particular languages,
-–. Dordrecht: Springer.
-
-Givón, T. (). Typology and functional domains. Studies in Language , –.
-Gordon, P. & Chafetz, J. (). Verb-based versus class-based accounts of actionality eﬀects
-
-in children’s comprehension of passives. Cognition , –.
-
-Halliday, M. A. K. (). Spoken and written language. Oxford: Oxford University Press.
-Haspelmath, M. (). The grammaticalization of passive morphology. Studies in Language
-
-, –.
-
-Horgan, D. (). The development of the full passive. Journal of Child Language , –.
-Keenan, E. L. & Dryer, M. S. (). Passive in the world’s languages. In T. Shopen (ed.),
-Language typology and syntactic description: Vol. II, Clause structure, –. Cambridge:
-Cambridge University Press.
-
-Lee, K.-O. & Lee, Y. (). An event-structural account of passive acquisition in Korean.
-
-Language and Speech , –.
-
-Maratsos, M., Fox, D. E., Becker, J. A. & Chalkley, M. A. (). Semantic restrictions on
-
-children’s passives. Cognition , –.
-
-Marchman, V. A., Bates, E., Burkardt, A. & Good, A. B. (). Functional constraints of the
-acquisition of the passive: toward a model of the competence to perform. First Language ,
-–.
-
-Messenger, K. (). Syntactic priming and children’s production and representation of the
-
-passive. Language Acquisition , –.
-
-Messenger, K., Branigan, H. P. & Mclean, J. F. (). Is children’s acquisition of the passive
-a staged process? Evidence from six- and nine-year-olds’ production of passives. Journal of
-Child Language , –.
-
-Mitkovska, L. & Bužarovska, E.
-
-the English
-get-past participle constructions: Is get all that passive? Journal of English Linguistics ,
-–.
-
-(). An alternative analysis of
-
-Monachesi, P. (). The verbal complex in Romance: a case study in grammatical interfaces.
-
-Oxford: Oxford University Press.
-
-Myhill, J. (). Towards a functional typology of agent defocusing. Linguistics , –.
-Nippold, M. A. (). Later language development: school-age children, adolescents, and young
-
-adults, rd ed. Austin, TX: Pro-Ed.
-
-Pe’er, M. (). Resultative passives in the Hebrew lexicon and in Hebrew-speaking children’s
-
-peer talk. Unpublished MA thesis, Tel Aviv University [in Hebrew].
-
-Pierce, A. (). The acquisition of passives in Spanish and the question of A-chain
-
-maturation. Language Acquisition , –.
-
-Pinker, S., Lebeaux, D. S. & Frost, L. R. (). Productivity and constraints in the
-
-acquisition of the Passive. Cognition , –.
-
-Prat-Sala, M., Shillcock, R. & Sorace, A. (). Animacy eﬀects on the production of
-object dislocated descriptions by Catalan-speaking children. Journal of Child Language
-, –.
-
-Pye, C. & Quixtan Poz, P. (). Precocious passives (and antipassives) in Quiche Mayan.
-
-Papers and Reports on Child Language Development , –.
-
-Rathert, M. (). Simple preterit and composite perfect tense: the role of the adjectival
-passive. In W. Abraham & L. Leisiö (eds), Passivization and typology: form and function,
-–. Amsterdam: John Benjamins.
-
-Ravid, D. (). Language change in child and adult Hebrew: a psycholinguistic perspective.
-
-New York: Oxford University Press.
-
-Ravid, D. (). Later lexical development in Hebrew: derivational morphology revisited. In
-R. A. Berman (ed.), Language development across childhood and adolescence: psycholinguistic
-and crosslinguistic perspectives, –. Amsterdam: Benjamins.
-
-Ravid, D. (). Emergence of linguistic complexity in written expository texts: evidence
-from later language acquisition. In D. Ravid & H. Bat-Zeev Shyldkrot (eds), Perspectives
-on language and language development, –. Dordrecht: Kluwer.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-R AV I D A N D V E R E D
-
-Ravid, D. (). Semantic development in textual contexts during the school years: Noun
-
-Scale analyses. Journal of Child Language , –.
-
-Ravid, D., Ashkenazi, O., Levie, R., Ben Zadok, G., Grunwald, T., Bratslavsky, R. & Gillis,
-S. (). Foundations of the root category: analyses of linguistic input to Hebrew-speaking
-children. In R. Berman (ed.), Acquisition and development of Hebrew: from infancy to
-adolescence (pp. –) (TILAR (Trends in Language Acquisition Research) ).
-Amsterdam: John Benjamins.
-
-Ravid, D. & Avidor, A. (). Acquisition of derived nominals in Hebrew: developmental
-
-and linguistic principles. Journal of Child Language , –.
-
-Ravid, D. & Berman, R. (). Developing linguistic register in diﬀerent text types.
-
-Pragmatics & Cognition , –.
-
-Ravid, D. & Chen-Djemal, Y. (). Spoken and written narration in Hebrew: a case study.
-
-Written Language and Literacy , –.
-
-Ravid, D. & Epel Mashraki, Y. (). Prosodic reading, reading comprehension and
-language skills in Hebrew-speaking th graders. Journal of Research in Reading , –.
-Ravid, D. & Geiger, V. (). Promoting morphological awareness in Hebrew-speaking
-
-gradeschoolers: an intervention study using linguistic humor. First language , –.
-
-Ravid, D. & Levie, R. (). Adjectives in the development of text production: lexical,
-
-morphological and syntactic analyses. First Language , –.
-
-Ravid, D. & Saban, R. (). Syntactic and meta-syntactic skills in the school years: a
-developmental study in Hebrew. In I. Kupferberg & A. Stavans (eds), Language
-education in Israel: papers in honor of Elite Olshtain, –. Jerusalem: Magnes Press.
-
-Ravid, D. & Zilberbuch, S. (). Morpho-syntactic constructs in the development of
-
-spoken and written Hebrew text production. Journal of Child Language , –.
-
-Schwarzwald, O. (). The special status of Nif’al in Hebrew. In S. Armon-Lotem,
-G. Danon, and S. Rothstein (eds), Current issues in generative Hebrew linguistics, –.
-Amsterdam: John Benjamins.
-
-Shibatani, M. (). On the conceptual framework for voice phenomena. Linguistics ,
-
-–.
-
-Strauss, S. (). Ministry of Education Chief Scientist report on the Cultivation Measure.
-
-Jerusalem: Ministry of Education [in Hebrew].
-
-Svenonius, P. (). Slavic preﬁxes inside and outside VP. In P. Svenonius (ed.), Nordlyd,
-Tromsø Working Papers on Language and Linguistics (): Special issue on Slavic preﬁxes,
-–. Tromsø: University of Tromsø.
-
-Timberlake, A. (). Aspect, tense, mood. In In T. Shopen (ed.), Language typology and
-syntactic description: Vol. II, Grammatical categories and the lexicon, –. Cambridge:
-Cambridge University Press.
-
-Tomasello, M., Brooks, P. J. & Stern, E. (). Learning to produce passive utterances
-
-through discourse. First Language , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000544
-
-

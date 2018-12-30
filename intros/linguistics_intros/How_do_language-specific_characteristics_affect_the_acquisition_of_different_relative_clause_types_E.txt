@@ -1,105 +1,22 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-doi:./S
-
-How do language-speciﬁc characteristics aﬀect the
-
-acquisition of diﬀerent relative clause types? Evidence
-
-from Finnish*
-
-MINNA KIRJAVAINEN
-
-University of Manchester, UK, and
-Osaka Gakuin University, Japan
-
-EVAN KIDD
-
-Australian National University, Australia
-
-ARC Centre of Excellence for the Dynamics of Language
-
-A N D
-
-ELENA LIEVEN
-
-University of Manchester, UK
-
-(Received  October  – Revised  May  – Accepted  November  –
-
-First published online  January )
-
-A B S T R A C T
-
-We report three studies (one corpus, two experimental) that investigated
-the acquisition of relative clauses (RCs) in Finnish-speaking children.
-Study  found that Finnish children’s naturalistic exposure to RCs
-predominantly consists of non-subject relatives (i.e. oblique, object)
-which typically have inanimate head nouns. Study  tested children’s
-comprehension of subject, object, and two types of oblique relatives.
-No diﬀerence was found in the children’s performance on diﬀerent
-structures, including a lack of previously widely reported asymmetry
-children’s
-between
-comprehension was modulated by animacy of the head referent. Study
-
-relatives. However,
-
-object
-
-subject
-
-and
-
-[*] We would like to thank the nursery staﬀ and children in Kotka, Finland, for their
-participation in the study, and the corpus child and her family for the data collection
-they conducted. We would also like to thank the three anonymous reviewers for their
-helpful comments. The study was funded by a post-doctoral research grant from the
-Max Planck Institute for Evolutionary Anthropology to the ﬁrst author. Address for
-correspondence: Minna Kirjavainen, Language Education Institute, Foreign Languages
-Department, Osaka Gakuin University, -- Kishibe-minami, Suita-Shi, Osaka -
-, Japan. e-mail: leimk@ogu.ac.jp.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
- tested children’s production of the same RC structures using sentence
-repetition. Again we found no subject–object asymmetry. The pattern of
-results suggested that distributional frequency patterns and the relative
-complexity of the relativizer contribute to the diﬃculty associated with
-particular RC structures.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 Cross-linguistic research is essential to theoretical development in language
 acquisition research, allowing us to determine universal as opposed to
-language-speciﬁc constraints on the acquisition process. One structure that
-has
-acquisition
+language-specific constraints on the acquisition process. One structure that
+has received considerable attention in the grammatical acquisition
 literature is the relative clause (henceforth RC) (see Kidd, ). In this
 paper we present three studies that investigated the acquisition of RCs in
 children acquiring Finnish, a language for which there is little data on RC
 acquisition.
-
-attention in the grammatical
-
-received considerable
-
-Acquisition of relative clauses
+Acquisition of relative clauses.
 Most research on the acquisition of RCs has focused on age of acquisition
-and the level of diﬃculty children experience in naturalistic and
+and the level of difficulty children experience in naturalistic and
 experimental contexts with subject RCs such as (), object RCs such as
 (), and oblique RCs such as ().
-
 () The dog that __ chased the cat.
 () The cat that the dog chased ___.
 () The dog to whom the boy gave the bone ___.
-
 The general consensus amongst many scholars is that subject RCs are
 essentially easier to acquire than non-subject RCs, based on the following:
-
 (a) subject RCs have been reported to emerge at an earlier developmental
 stage in naturalistic child language than non-subject RCs (e.g. Brandt,
 Diessel & Tomasello, ; Diessel, ; Diessel & Tomasello, );
@@ -108,84 +25,52 @@ best on subject RCs in comparison to other RC types (e.g. Adani,
 ; de Villiers, Tager Flusberg, Hakuta & Cohen, ; Diessel &
 Tomasello, ; Friedmann, Belletti & Rizzi, ; Goodluck, ;
 Guasti, Stavrakaki & Arosio, ; Kas & Lukács, ), although
-more recently some scholars have noted that this eﬀect appears to be
-modulated by distributional and typological
-features of individual
+more recently some scholars have noted that this effect appears to be
+modulated by distributional and typological features of individual
 languages (Arnon, ; Brandt, Kidd, Lieven & Tomasello, ;
 Diessel, ; Kidd, Brandt, Lieven & Tomasello ).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 Even though there is general agreement on subject RC advantage over
 other RC types, there are several competing theoretical explanations for
-the eﬀect, ranging from appeals to the primacy of subjects in syntactic
+the effect, ranging from appeals to the primacy of subjects in syntactic
 derivation (either typologically: Keenan & Comrie, ; or formally:
-Rizzi, ), appeals
-to processing routines and memory capacity
+Rizzi, ), appeals to processing routines and memory capacity
 (O’Grady, ), and appeals to distributional frequency (Diessel, ;
 Kidd et al., ). These approaches often make very similar predictions
-to distinguish. In the current paper we take a
-and can be diﬃcult
-usage-based perspective,
-representations of
+and can be difficult to distinguish. In the current paper we take a
+usage-based perspective, assuming that linguistic representations of
 structure are constructed on the basis of experience. From this perspective
 we consider why, for Finnish, we do not observe a clear subject advantage
 in RC acquisition.
-
-assuming that
-
-linguistic
-
 Subject–non-subject RC asymmetry. The evidence for the subject–object
 asymmetry largely comes from a fairly narrow range of languages where
 RCs display distinct structural similarities (e.g. English, German, and
-Hebrew). In terms of RCs, these all are ‘head-ﬁrst’ languages (i.e. the RC
-comes after the (head)noun that it modiﬁes). Data from languages whose
-RCs do not display ‘head-ﬁrst’ syntactic structure are less clear. For
+Hebrew). In terms of RCs, these all are ‘head-first’ languages (i.e. the RC
+comes after the (head)noun that it modifies). Data from languages whose
+RCs do not display ‘head-first’ syntactic structure are less clear. For
 instance, acquisition studies with children acquiring Basque (Carreiras,
 Duñabeitia, Vergara, de la Cruz-Pavía & Laka, ; Gutierrez-Mangado,
 ), Chinese (Chan, Matthews & Yip, ; Chen & Shirai, ),
 Japanese (Ozeki & Shirai, ; Suzuki, ), and Quechua (Courtney,
-) either show no diﬀerence between subject and object RCs (the most
-common comparison),
-an object RC advantage, or mixed results
+) either show no difference between subject and object RCs (the most
+common comparison), an object RC advantage, or mixed results
 depending on the methodology used.
-
 Even though data from Basque, Chinese, Japanese, and Quechua suggest
 that there may be no universal subject RC dominance, comparing data from
 these languages directly with languages like English, German, and Hebrew
 can be problematic for two reasons. First, Chinese, Japanese, Korean, and
-Basque are ‘head-ﬁnal’ languages (i.e. the RC precedes the noun that it
-modiﬁes). This means that RCs in these languages are structurally
-distinctly diﬀerent from languages like English, which might explain the
-cross-linguistic diﬀerences
-in developmental and processing patterns
+Basque are ‘head-final’ languages (i.e. the RC precedes the noun that it
+modifies). This means that RCs in these languages are structurally
+distinctly different from languages like English, which might explain the
+cross-linguistic differences in developmental and processing patterns
 observed between these two language groups. Second, the comparison
-might not be warranted because, at least for some head-ﬁnal languages
+might not be warranted because, at least for some head-final languages
 (e.g. East Asian languages), typologists have questioned whether true RCs
 actually exist (Comrie, ).
-
-Finnish RCs, like English, German, and Hebrew RCs, are head-ﬁrst
-structures. Due to the highly inﬂected nature of Finnish, its ﬂexible word
-order, and the distributional
-the acquisition of
-Finnish RCs is relevant to the question as to whether all head-ﬁrst
+Finnish RCs, like English, German, and Hebrew RCs, are head-first
+structures. Due to the highly inflected nature of Finnish, its flexible word
+order, and the distributional frequencies of RCs, the acquisition of
+Finnish RCs is relevant to the question as to whether all head-first
 languages show subject dominance.
-
-frequencies of RCs,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 Linguistic properties of relative clauses in Finnish, and their acquisition
 Finnish is a head-ﬁrst, nominative–accusative language. Prototypically, a RC
 directly follows its head noun. Finnish has three relative pronouns: JOKA
@@ -265,19 +150,6 @@ one Finnish child, Piia, and her caregivers’ data between the child’s ages o
 approx. ; and ;. Piia’s earliest RCs (N = ) were subject RCs, which
 preceded any other RC structure found in the child’s data by several months.
 This is consistent with naturalistic data from other nominative–accusative
-
- Words in capital letters refer to all forms of that word.
- ‘Marginal’ refers to often archaic and/or unproductive cases that are infrequent in adult
-
-language and absent from children’s language.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 languages (Brandt et al., ; Diessel & Tomasello, ). Piia’s use
 of RCs clauses changed when she approached her third birthday. At this point
 in development, oblique RCs became her most frequent RC structure (%),
@@ -286,7 +158,6 @@ of all RC types). Compared to other languages this is a fairly striking result (
 g. Keenan & Comrie, ). For instance, English- and German-speaking
 children produce oblique RCs proportionally much less frequently (English:
 %; Diessel and Tomasello, ; German: %; Brandt et al., ).
-
 At least two factors can explain the discrepancy between Finnish and
 English/German children’s use of oblique RCs. First, oblique RCs are the
 conventional way in Finnish to express many meanings for which English-
@@ -349,20 +220,11 @@ whether the previously observed asymmetry/hierarchy has been created by
 distributional properties of those structures in previously studied languages.
 Second, it has been suggested that oblique RCs are more diﬃcult than
 subject and object RCs because in languages such as English and German
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 oblique RCs usually consist of a relative pronoun and a preposition, which
 either occur adjacent to each other (e.g. German: Das ist der Mann, mit
 dem ich getanzt habe, and English: That was the man with whom I danced)
 or are separated by at least two words (English: That was the man who I
-danced with)
-(Diessel & Tomasello, ). Because in Finnish both
+danced with) (Diessel & Tomasello, ). Because in Finnish both
 grammatical and locative case information can be expressed by a single
 case-marked relative pronoun, in terms of lexical complexity, subject, object,
 and single-word oblique relativizers can be seen as being equally easy/
@@ -406,8 +268,8 @@ That
 kiipesi
 climbed
 ‘That’s the sock in which a mouse climbed’
-
-The current research
+<Middle>
+The current research.
 In comparison to many other head-ﬁrst languages, Finnish children hear and
 use an overwhelmingly high number of non-subject RCs. This usage
 pattern, as assumed by usage-based constructivist theoretical stances (e.g.
@@ -415,25 +277,10 @@ Tomasello, ), should have a strong inﬂuence on children’s acquis
 such that Finnish-speaking children should be less likely to show a
 subject-advantage in comparison to children acquiring languages such as
 English, German, and Hebrew.
-
 We tested these predictions across three studies. Study  reanalysed
 Kirjavainen and Lieven’s () naturalistic data, focusing on one major
 variable that has been shown to aﬀect the distribution of subject and
 object RCs: the animacy of the head noun. Animate nouns make good
-
- Note that English also has a one-word relativizer that can be used in (inanimate) oblique
-RCs, where (e.g. That’s the café where I proposed to my ex-wife) and a temporal relativizer
-when (e.g. That was the holiday when I left my wife). However, given that the research of
-RCs in English has heavily focused on subject and object RCs, we have relatively little
-information about the acquisition patterns of oblique RCs in English.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 agents, whereas inanimate nouns are typically patients (Fox & Thompson,
 ). Accordingly, many studies have shown that subject RCs are more
 likely to have animate heads than non-subject RCs, which typically have
@@ -443,10 +290,9 @@ investigated whether these distributional diﬀerences across diﬀerent RC
 types signiﬁcantly inﬂuence Finnish-speaking children’s comprehension
 and production of RCs.
 
-STUDY : CORPUS ANALYSIS
-
-Corpus
-Piia is a monolingual ﬁrst-born child in an upper-working-/middle-class
+STUDY : CORPUS ANALYSIS.
+Corpus.
+Piia is a monolingual first-born child in an upper-working-/middle-class
 family, in Kotka, southeast Finland. The language used in her corpus is
 colloquial speech typical to the geographical area. Piia was audio-recorded
 by her parents for approximately three hours per week between the ages of
@@ -457,43 +303,27 @@ interaction between the child and one or both of her parents (or other
 relatives) during meal times or play sessions. After the age of ; her
 younger sister was often present during the recordings, although she rarely
 took part in the interaction.
-
 The data was transcribed using the CHAT software (MacWhinney, ).
 In the current study we include data recorded between ;· and ;·
-(N =  recordings, approx. , word tokens, approx. , child
+(N=  recordings, approx. , word tokens, approx. , child
 utterances, approx. , adult utterances).
-
-searched on the ﬂo-transcription line of Piia’s
-
 Searches
 Morphological coding has yet to be carried out on the Piia-corpus. We
-therefore
-and her
-interlocutors’ speech for each possible forms of diﬀerent relative pronouns.
-The ﬂo-line semantically mirrors the main transcription line, but represents
+therefore searched on the flo-transcription line of Piia’s and her
+interlocutors’ speech for each possible forms of different relative pronouns.
+The flo-line semantically mirrors the main transcription line, but represents
 colloquial (i.e. often shortened yet morphologically marked) word forms in
 standard language (see example ()). Our search was therefore likely to
 extract standard as well as colloquial relativizer forms from the data, and
 because the relative pronoun is an obligatory part of Finnish RC
 constructions, our search is likely to have extracted all RCs in the data.
 () Main-line: Miä juoksin siihe taloo mis oli punanen katto
-
 Flo-line: Minä juoksin siihen taloon missä oli punainen katto.
-
 ‘I ran to the house which had a red roof’
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 The KWAL program of the CLAN software (MacWhinney ) was
 used to extract sentences with relative pronouns (MIKÄ, JOKA, KUKA)
 in fourteen cases (nominative, accusative, partitive, genitive, translative,
-inessive, elative,
-illative, adessive, ablative, allative, sublative, temporal,
+inessive, elative, illative, adessive, ablative, allative, sublative, temporal,
 and causative) in the singular and plural. Cases that are unlikely to occur in
 relative clauses (e.g. abessive) and/or that are unlikely to be found in
 colloquial spoken (child) language (e.g. essive) were excluded from the search.
@@ -502,18 +332,14 @@ Because some relative pronoun forms are identical to interrogative pronouns
 restrictive and non-restrictive RCs were included in our analysis, and no
 distinction was made between the two. The child’s repetitions and imitations
 of adults’ language as well as songs and rhymes were excluded.
-
 Coding
 The search output was coded for the following:
-
 i. the syntactic function of the NP within the RC (SUBJ, OBJ, OBL). For
 the purpose of this analysis, we did not distinguish between oblique and
 oblique RCs because (a) Piia did not produce any oblique RCs in the
 data sampled and (b) only a handful of oblique RCs (% of oblique
 RCs) were found in the adults’ data.
-
 ii. animacy of the head noun (animate, inanimate).
-
 This was done separately for the child and her interlocutors. In Finnish, case
 marking on the relative pronoun often indicates the role that the relativized
 element plays within the RC. Because of some overlap, for instance, between
@@ -521,103 +347,18 @@ subject and object pronouns, (a) the pronoun form, (b) the argument
 structure, and (c) semantics of the sentence were used to determine the
 syntactic role of the relativized NP. Toys that can be perceived as animate
 were coded as such. If it was impossible to determine the syntactic
-function or
-the sentence was coded as
+function or the animacy of the head, the sentence was coded as
 ambiguous. The coding is illustrated in Table .
-
-the animacy of
-
-the head,
-
 To determine reliability for the coding of the relativized element (subject,
-object, oblique, ambiguous), % (N = ) of the input and % (N = ) of
+object, oblique, ambiguous), % (N= ) of the input and % (N= ) of
 the child’s targets were recoded by a second coder. The agreement was high:
 Child ·% (к = ·), Input %. Disagreement in the coding for the
-child’s targets was adjudicated by the ﬁrst author.
-
-R E S U L T S
+child’s targets was adjudicated by the first author.
+RESULTS
 We found  RC structures (SUBJ: %, OBJ: %, OBL: %) in Piia’s
 speech and  (SUBJ: %, OBJ: %, OBL: %) in her input. The
 small number of RCs found in Piia’s data are likely due to the relatively
 early developmental period sampled (;–;). Piia’s data is nevertheless
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-TA B L E . Examples of coding
-
-Animate
-
-Inanimate
-
-Animacy ambiguous
-
-SUBJ Muistat siä sen pikku
-
-Kato ku se oli
-semmonen ohjelma
-joka tuli telkkarist
-(MOT ;·)
-See, because it was that
-kind of a program that
-was on TV.
-Entä ne vanhat tutit
-mitä olen käyttänyt?
-(CHI ;·)
-What about the old
-dummies that I have
-used?
-Sulla oli se punainen
-lapio millä siä teit
-lumitöitä.
-(MOT ;·) You had
-that red shovel with
-which you ploughed
-snow.
-
-Tää mikä mulla
-on (CHI ;·)
-This that is at me.
-
-Mikä tää oli
-minkä siä piirsit?
-(MOT :·)
-What was this that
-you drew?
-
-Se keltanen missä
-on ne punaiset.
-(MOT ;·) The
-yellow one in/on
-which is the red
-ones.
-
-prinsessan mikä eilen tuli
-siin Pikkukakkoses? (MOT
-;·)
-Can you remember that little
-princess that was on TV
-yesterday?
-Otat siä sen hauvan minkä siä
-heitit sinne?
-(FAT ;·) Can you fetch that
-doggie that you threw there?
-
-Se kelle mennää tänään.
-(CHI ;·)
-The person to whom we’ll go
-today
-
-OBJ
-
-OBL
-
-Fig. . RC types and the animacy of head NPs in input.
-
 included here to illustrate that the animacy of the head NP in diﬀerent RC
 structures in her language corresponds to the pattern displayed by the
 Finnish adults. In four (<%) of the input sentences the syntactic function
@@ -627,153 +368,102 @@ animate and inanimate head referents found for each RC type.
 
 The input and child data looked very similar. First, there were more
 non-subject RCs than subject RCs overall, but this was moderated by the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-Fig. . RC types and the animacy of head NPs in child’s speech.
-
-structure
-
-signiﬁcantly diﬀered across
-
+included here to illustrate that the animacy of the head NP in different RC
+structures in her language corresponds to the pattern displayed by the
+Finnish adults. In four (<%) of the input sentences the syntactic function
+of the relativized element was ambiguous and so they were excluded from
+the analysis. Figures  (input) and  (output) illustrate the proportions of
+animate and inanimate head referents found for each RC type.
+The input and child data looked very similar. First, there were more
+non-subject RCs than subject RCs overall, but this was moderated by the
 animacy of the head noun. In Piia’s input the distribution of animate and
-inanimate head nouns
-types
-(Chi-square result: χ = ·, df = , p < ·, ϕ = ·). This signiﬁcant
-diﬀerence was driven by the more even distribution of animate and
+inanimate head nouns significantly differed across structure types
+(Chi-square result: χ = ·, df=, p < ·, ϕ = ·). This significant
+difference was driven by the more even distribution of animate and
 inanimate heads in subject RCs: although when analyzed separately all
-structures contained signiﬁcantly more inanimate than animate heads
+structures contained significantly more inanimate than animate heads
 (binomial tests: subject RCs: p = ·, object RCs: p < ·; oblique RCs:
-p < ·), the subject RC result is not signiﬁcant following Bonferroni
-(α = ·/ = ·). Indeed, removing subject RCs from the
-adjustment
-overall Chi-square
-and
-little variance explained (χ = ·, df = , p = ·, ϕ = ·), suggesting that
-the subject RCs were driving the initial signiﬁcant result. Piia did not
+p < ·), the subject RC result is not significant following Bonferroni
+adjustment (α = ·/ = ·). Indeed, removing subject RCs from the
+overall Chi-square analysis results in a non-significant result and
+little variance explained (χ = ·, df=, p = ·, ϕ = ·), suggesting that
+the subject RCs were driving the initial significant result. Piia did not
 produce enough tokens of each structure type to have a good degree of
-conﬁdence in any statistical analyses, and thus we merely interpret her
+confidence in any statistical analyses, and thus we merely interpret her
 data qualitatively.
-
-in a non-signiﬁcant
-
-analysis
-
-results
-
-result
-
-D I S C U S S I O N
+DISCUSSION.
 The corpus analysis shows similar results to previous RC studies in which an
-eﬀect of animacy and RC type has been found (e.g. Diessel, ; Fox and
+effect of animacy and RC type has been found (e.g. Diessel, ; Fox and
 Thompson, ; Kidd et al., , Mak, Vonk & Schriefers, , ).
 Our Finnish-speaking child and adults rarely produce object or oblique
-relatives with animate heads. Consistent with Diessel
-(), subject
+relatives with animate heads. Consistent with Diessel (), subject
 relatives, although commonly produced with inanimate head referents,
 were more likely to have animate heads than the other two RC types. The
 close correspondence between Piia’s input and her own speech suggests
 that children’s language experience heavily shapes language use.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-STUDY : RELATIVE CLAUSE COMPREHENSION
-
-The ﬁndings from Study  suggest that, (i) as in more well-studied
-languages, RC formation is signiﬁcantly aﬀected by the animacy of the
+STUDY : RELATIVE CLAUSE COMPREHENSION.
+The findings from Study  suggest that, (i) as in more well-studied
+languages, RC formation is significantly affected by the animacy of the
 head referent, and (ii) Finnish-speaking children hear and use considerably
 more non-subject than subject RCs, a result that seems almost entirely due
 to the greater use of oblique RCs. In Study  we investigated whether
-these usage facts about Finnish aﬀect children’s comprehension of subject,
+these usage facts about Finnish affect children’s comprehension of subject,
 object, and oblique/oblique RCs. In addition, by including oblique
 and oblique RC test items, we were able to test some potential reasons
-for previously reported diﬃculty associated with oblique RCs.
-
+for previously reported difficulty associated with oblique RCs.
 Based on the assumption that animate entities make better subjects and that
 inanimate entities function better as objects, the usage-based prediction is that
 (a) children should perform better with subject than object RCs when the test
 sentences contain an animate head and (b) inanimate head nouns should
 improve performance on non-subject RCs. Furthermore, the usage-based
 stance assumes that distributional properties of linguistic items play an
-important role in aﬀecting children’s language acquisition and processing.
+important role in affecting children’s language acquisition and processing.
 Thus, the usage-based stance predicts that the large preponderance of
-non-subject RCs in Finnish children’s input should aﬀect Finnish children’s
-representation of RCs. Speciﬁcally, the preponderance of non-subject RCs
+non-subject RCs in Finnish children’s input should affect Finnish children’s
+representation of RCs. Specifically, the preponderance of non-subject RCs
 reduces the strong expectation that a relativized NP takes a subject role, such
-that the diﬀerence between subject and non-subject RCs observed in many
-other languages should be attenuated or even non-signiﬁcant in Finnish. That
+that the difference between subject and non-subject RCs observed in many
+other languages should be attenuated or even non-significant in Finnish. That
 is, no overall subject advantage is predicted for Finnish.
-
 Three- to four-year-old children were tested on a referent selection task
 that measured their comprehension of subject, object, oblique, and
 oblique RCs that contained either animate or inanimate head nouns.
-
-M E T H O D
-Participants
+METHOD.
+Participants.
 Forty children aged ;–; were recruited from nurseries in Kotka,
 southeast Finland and participated in our two studies (Study  and Study
 ). Thirty-eight of these children took part in Study . However, the
 fourteen oldest children (;–;) were excluded from the analysis due to
 them being at ceiling. Thus, data from twenty-four children ( female)
-aged ;–; (mean ;, SD = ·) were included in the current study.
+aged ;–; (mean ;, SD=·) were included in the current study.
 Apart from one child, who was tested in the home environment, the
 children were tested in a quiet area of their nursery. All participants were
 typically developing monolingual Finnish-speakers.
-
-Materials
+Materials.
 Thirty-two test items were created. Each of these items consisted of
 background sentences, one distractor sentence, and one test sentence. The
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 test sentences were manipulated for the RC type (subject, object, oblique,
 oblique) and animacy of the head NP (animate, inanimate). The test
 sentences were nine or, in the case of the two-word relativizer sentences
 (oblique), ten words long. Each background and test sentence had two
 NPs. Apart from a handful of test verbs (pomppia ‘bounce’, pomputtaa
-‘make something bounce’, piiloutua ‘hide’,
-luikerrella ‘slither’, ryömiä
+‘make something bounce’, piiloutua ‘hide’, luikerrella ‘slither’, ryömiä
 ‘crawl’), all head NPs and verbs were found in the Finnish CDI (–
-months)
-the verbs used should be
-familiar to our children aged ;–;. To speciﬁcally address the subject–
+months) (Lyytinen, ), indicating that the verbs used should be
+familiar to our children aged ;–;. To specifically address the subject–
 object asymmetry found in previous studies, half of our materials had
 animate heads, and were reversible (i.e. both nouns within the RC could
 have plausibly been the subject or object of the sentence). In addition,
-speciﬁcally to test animacy eﬀects (Fox & Thompson, ), half of our
+specifically to test animacy effects (Fox & Thompson, ), half of our
 test sentences had inanimate heads.
-
-(Lyytinen, ),
-
-indicating that
-
-for the frequency of
-
 Finnish has an intricate case-marking system and consequently it was
 impossible to choose only one relativizer for our test sentences. We
-therefore searched for the frequencies of diﬀerent relativizers in the child’s
+therefore searched for the frequencies of different relativizers in the child’s
 output in the Kirjavainen-Max Planck corpus. Because the frequency of
-diﬀerent relativizers in RC and non-RC constructions (e.g. interrogatives)
-varies, we were unable to tightly control
-the
-relativizers used between diﬀerent types of target sentences. However,
-several
-instances of our subject, object, and oblique relativizers were
+different relativizers in RC and non-RC constructions (e.g. interrogatives)
+varies, we were unable to tightly control for the frequency of the
+relativizers used between different types of target sentences. However,
+several instances of our subject, object, and oblique relativizers were
 found in the Kirjavainen-Max Planck corpus, which we took to indicate
 that our experimental children were familiar with each of these relativizers.
 The relative pronouns in the subject RCs were in the nominative case, and
@@ -783,505 +473,207 @@ animate oblique RCs were kenelle(ALL) ‘for whom’ (oblique) and kenen
 (INE) ‘in(side) which’ (oblique) and minkä(GEN) sisään(ILL) ‘in(to)
 which’ (oblique). Table A in the ‘Appendix’ lists the relativizers used
 and their distributional frequencies.
-
-on Study
-
-Procedure
+Procedure.
 The children were tested in two sessions. In each session, they completed
 half of Study  materials (comprehension) and half of Study  materials
-(repetition). Half of the children were tested on Study  materials ﬁrst,
-half
-between sessions was
+(repetition). Half of the children were tested on Study  materials first,
+half on Study  materials. The order between sessions was
 counterbalanced so that for half of the children one set of items occurred
-in the ﬁrst session, half in the second. For most of the children the two
-sessions were administered during one day so that the ﬁrst session took
+in the first session, half in the second. For most of the children the two
+sessions were administered during one day so that the first session took
 place in the morning and the second in the afternoon. For six children the
 sessions took place on two consecutive days.
-
- materials. The
-
-order
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 The task in Study  was similar to the one used by Brandt et al. ().
 Presented as the ‘slide-game’, children were shown a small slide, and the
 experimenter explained that she had a lot of toys that wanted to go down
 the slide, but that the toys must go down one at a time. The experimenter
 said that she would tell the child whose turn it was to have a go, after
 which the child could slide the toy down.
-
 For every target sentence, the child was shown three toys (e.g. two tigers
 and an elephant). The experimenter labelled the toys (e.g. “Look, I have two
 tigers and an elephant here”). The pair of animals (e.g. tigers) were always
 distinguishable by a prominent attribute (e.g. colour, size). Each of the
-toys then performed a diﬀerent action (e.g. one tiger chased an elephant,
+toys then performed a different action (e.g. one tiger chased an elephant,
 the other tiger stroked the elephant) and was placed in front of the child.
 The location of the two tokens of head referent with reference to the child
 (i.e. left or right) was counterbalanced. Half of the correct referents for
 each target sentence type were placed on the right, and half on the left of
 the child. After the head NP toys (e.g. tigers) had been placed in front of
-the child, a distractor scene was acted out. For this,
-the additional
+the child, a distractor scene was acted out. For this, the additional
 (non-target) NP (e.g. elephant) performed an intransitive action and the
 experimenter explained what the toy was doing (e.g. “Look, now the
 elephant stomps in the jungle!”). The distractor NP was then placed
 between the target toys in front of the child, i.e. there were three toys (or
 combinations of the three toys) to choose from when the children were
-making their
-referential choices. The child was asked to give the
+making their referential choices. The child was asked to give the
 experimenter one of the items by sliding it down the slide (e.g. “Give me
 the tiger that chased the elephant”). Table B in the supplementary on-line
 content lists the background and target sentences (see http://dx.doi.org/.
 /S.
-
-Coding
+Coding.
 The experimenter coded for the children’s choices on-line as either (a)
 Correct (e.g. the correct tiger), (b) Head token errors (e.g. the incorrect
 tiger), (c) NP other errors (e.g. the elephant), (d) Other (i.e. the correct
 tiger with the elephant, the incorrect tiger with the elephant, both tigers
 selected with or without the elephant selected, or no choice was made).
-
-R E S U L T S
+RESULTS
 Figure  reports the mean proportion correct and standard errors for each
 condition. Figure  shows that the children performed above chance (%)
 in each condition. They scored higher on sentences containing inanimate
-heads
-the oblique structure.
+heads for all structural types except for the oblique structure.
 Additionally, they appeared to perform marginally better overall on the
 subject and object RCs than on the oblique RCs.
-
-structural
-
-except
-
-for
-
-all
-
-types
-
-for
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-Fig. . Proportion correct for each test structure in Study . Error bars denote standard
-
-error.
-
 The data were analyzed using Generalized Linear Mixed Models (Baayen,
 Davidson & Bates, ; Jaeger, ), which were calculated using the lme
-package for Linear Mixed Eﬀects (Bates & Maechler, ) in R (version
+package for Linear Mixed Effects (Bates & Maechler, ) in R (version
 .·; R Core Development Team, ). Factor labels were centred at 
 with a range of . An initial model that included (zero-centred) age and
 gender as independent variables showed that these two variables did not
-signiﬁcantly inﬂuence performance. These variables were not included in
-subsequent analyses. We ﬁtted a model to the data that included the
+significantly influence performance. These variables were not included in
+subsequent analyses. We fitted a model to the data that included the
 independent variables of structure ( levels: (i) subject RC, (ii) object RC,
 (iii) oblique RC, and (iv) oblique RC) and animacy ( levels: animate,
-inanimate), as well as participants and items as random eﬀects. Random
-slope parameters for main eﬀects and interactions were included in the
+inanimate), as well as participants and items as random effects. Random
+slope parameters for main effects and interactions were included in the
 models using forward selection: each random slope was added sequentially
-to the model, ﬁrst for participants and then items, and the ANOVA
+to the model, first for participants and then items, and the ANOVA
 function was used to determine whether the additional random slope
-signiﬁcantly improved the model (Baayen, ). None of the random
-slopes improved the ﬁt of the model and were therefore not included.
-Additionally, the structure × animacy interaction did not improve the ﬁt of
-the model (χ = ·, df = , p = ·) and was therefore removed. The ﬁnal
+significantly improved the model (Baayen, ). None of the random
+slopes improved the fit of the model and were therefore not included.
+Additionally, the structure × animacy interaction did not improve the fit of
+the model (χ = ·, df=, p = ·) and was therefore removed. The final
 model results are shown in Table .
-
-Table  shows that animacy signiﬁcantly aﬀected children’s performance:
+Table  shows that animacy significantly affected children’s performance:
 across all sentence types children performed better on sentences that
 contained inanimate head nouns. Subject RCs were comprehended
-marginally better than the oblique RCs, but
-the overall diﬀerences
+marginally better than the oblique RCs, but the overall differences
 between performance on the subject RCs and the object and oblique RCs
-were not signiﬁcant. Subsequent analyses revealed that the children’s
-performance on the object RCs was signiﬁcantly better overall than on the
+were not significant. Subsequent analyses revealed that the children’s
+performance on the object RCs was significantly better overall than on the
 oblique RCs (β = –·, z = –·, p = ·) but not the oblique RCs
-(β = –·, z = –·, p = ·). There was no diﬀerence in performance on
+(β = –·, z = –·, p = ·). There was no difference in performance on
 the oblique and oblique RCs (β = ·, z = ·, p = ·).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-TA B L E . Final model for referential choice data in Study 
-
-Intercept
-Structure(Obj)
-Structure(OBL)
-Structure(OBL)
-Animacy
-
-β
-
-·
-·
-−·
-−·
-·
-
-Std. error
-
-·
-·
-·
-·
-·
-
-Wald-Z
-
-·
-·
-−·
-−·
-·
-
-p-value
-
-<·***
-·
-·
-·
-·*
-
-NOTES: *** p < ·; * p < ·; reference levels (intercept terms) for ﬁxed-eﬀects predictors:
-Structure: Subject RC, Animacy: Animate. (log likelihood = –·).
-
-TA B L E . The number of diﬀerent types of errors produced by the children
-
-overall in the referential choice test
-
-RC type
-
-Head token errors
-
-NP other errors
-
-Other
-
-Total
-
-subject-ani
-subject-inani
-object-ani
-object-inani
-oblique-ani
-oblique-inani
-oblique-ani
-oblique-inani
-Total
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Error analysis
+Error analysis.
 When children erred they most often chose the incorrect token of the head
 referent (% of responses), although the frequency of this response did
-not diﬀer across conditions. The children also sometimes chose the
+not differ across conditions. The children also sometimes chose the
 distractor (%) or made a selection that was coded as ‘Other’ (%). Table 
 lists the frequencies of these error types by condition.
-
-D I S C U S S I O N
+DISCUSSION.
 The results from Study  suggest that, overall, three- to four-year-old
-Finnish-speaking children comprehend diﬀerent types of RC structures
+Finnish-speaking children comprehend different types of RC structures
 very well. Based on our corpus analysis (Study ), and due to typical
 animacy features of subject and object entities (Fox & Thompson, ),
 we predicted that Finnish children would not show an overall subject–
-object asymmetry, but that they would show animacy eﬀects.
-
-Consistent with our prediction, we did not ﬁnd evidence of subject–object
+object asymmetry, but that they would show animacy effects.
+Consistent with our prediction, we did not find evidence of subject–object
 asymmetry, not even in the in the condition where the head and embedded
 NP were both animate (e.g. Friedmann et al., ; Kidd et al., ). Note
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 also that, due to the nature of Finnish, each noun in the background
 sentences for each target sentence type (subject, object, oblique) was
-inﬂected (e.g. NOM, PART, INE, ALL). The main clause of each test
+inflected (e.g. NOM, PART, INE, ALL). The main clause of each test
 sentence had the same structure Anna mulle se X ‘Give me the X-ACC/
 NOM’. This means that the only sentence type in which the target head
 noun had the same case marking in the background and the target
 sentences were subject RCs (see examples ()–()). Furthermore, the
-only sentence type in which both nouns within the RC were inﬂected
+only sentence type in which both nouns within the RC were inflected
 exactly as they were in the background sentences were animate subject
-RCs. If we assume that children are yet
-to acquire an adultlike
+RCs. If we assume that children are yet to acquire an adultlike
 case-marking system at the age of ;–; (e.g. Krajewski, Lieven &
 Theakston, ; Krajewski, Theakson, Lieven & Tomasello, ), the
 mismatch in noun forms between background and target sentences may
-have made it more diﬃcult for the children to process object and oblique
+have made it more difficult for the children to process object and oblique
 targets, as not only did the children have to determine the meaning of the
 background and target sentences, they also had to pay attention to the
-diﬀering forms of the key lexical item in these. Regardless of this potential
-extra layer of diﬃculty in object and oblique RCs, no subject–object
+differing forms of the key lexical item in these. Regardless of this potential
+extra layer of difficulty in object and oblique RCs, no subject–object
 asymmetry was found.
-() Tää tiikeri
-
-norsua
-elephant-PART
-
-jahtaa
-This tiger-NOM chases
-‘This tiger chases the elephant’
-Tää tiikeri
-paijaa
-This tiger-NOM strokes
-‘This tiger strokes the elephant’
-Anna mulle
-Give me
-‘Give me the tiger who chased the elephant’
-
-norsua
-elephant-PART
-
-kuka
-
-() Kirahvi
-
-se tiikeri
-that tiger-ACC who-NOM chased elephant-PART
-
-jahtas norsua
-
-tätä hiirtä
-this mouse-PART
-
-puree
-Giraﬀe-NOM bites
-‘The giraﬀe bites this mouse’
-Kirahvi
-Giraﬀe-NOM washes
-‘The giraﬀe washes this mouse’
-Anna mulle se hiiri
-Give me
-‘Give me the mouse that the giraﬀe bit’
-
-pesee
-
-tätä hiirtä
-this mouse-PART
-
-puri
-that mouse-ACC that-PART giraﬀe-NOM bit
-
-kirahvi
-
-mitä
-
- In these types of constructions, the accusative form is identical to the nominative form.
- With reference to noun cases, our animate and inanimate materials were identical. Hence,
-
-due to lack of space, we only give examples of animate test sentences here.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-() Lapsi
-
-soittaa
-
-tälle palomiehelle
-this ﬁreman-ALL
-
-irvistää
-
-Child-NOM rings
-‘The child rings this ﬁreman’
-Lapsi
-Child-NOM grins
-‘The child grins at this ﬁreman’
-Anna mulle se palomies
-Give me
-‘Give me the ﬁreman at whom the child grinned’
-
-tälle palomiehelle
-this ﬁreman-ALL
-
-that ﬁreman-ACC who-ALL child-NOM grinned
-
-kelle
-
-lapsi
-
-irvisti
-
 The only structure type that created a marginally increased level of
-diﬃcultly were oblique targets, which were driven by the children’s
+difficultly were oblique targets, which were driven by the children’s
 relatively high error rate when choosing referents for animate oblique
 targets (e.g. “Give me the cockerel for/to whom the girl read”). The
-children’s performance in this condition may have been aﬀected by the
+children’s performance in this condition may have been affected by the
 relative pronoun kenelle, whose frequency in adult–child conversation is
 relatively low in comparison to the relative pronouns in our other conditions.
-The main eﬀect of animacy showed that the children performed best when
+The main effect of animacy showed that the children performed best when
 sentences contained an inanimate head, which did not interact with structure
-type. This result reﬂects our frequency analysis in Study , but might be
+type. This result reflects our frequency analysis in Study , but might be
 considered surprising with reference to the assumption that animate
 entities make good subjects (Fox & Thompson, ). That is, one might
 have expected better performance with animate subject than non-subject
 RCs.
-
 Performance in the animate subject RC condition (similarly to kenelle
-above) may have been aﬀected by our relative pronoun kuka. Even though
+above) may have been affected by our relative pronoun kuka. Even though
 this pronoun is relatively frequent in Finnish, its frequency is somewhat
 lower than that of our animate object relativizer. Thus, this decrement in
 performance may be due to experience-based phenomena.
-
 Inconsistent with assumptions of animacy characteristics of subject and
-non-subject entities (Fox & Thompson, ), we did not ﬁnd the
+non-subject entities (Fox & Thompson, ), we did not find the
 children perform better with inanimate non-subject than subject RCs. The
 fact that we controlled for the noun types and used only lexical nouns
 across our test sentences (subject, object, oblique, and oblique RCs)
-could explain this eﬀect, given that several studies suggest that inanimate
+could explain this effect, given that several studies suggest that inanimate
 object relatives are easier to comprehend if the embedded subject is a
-. . . the dog that I stroked) (e.g. Gordon,
-pronoun than a noun (e.g.
+pronoun than a noun (e.g. . . . the dog that I stroked) (e.g. Gordon,
 Hendrick & Johnson, , ; Kidd et al., ; Warren & Gibson,
 ). Thus, the fact that our test sentences consisted of embedded noun
 subjects (e.g. granddad instead of he) might have hindered the children’s
 performance with inanimate non-subject RCs.
-
-Last, we did not ﬁnd oblique relatives to be more diﬃcult than the other
+Last, we did not find oblique relatives to be more difficult than the other
 RC structures. Our Finnish comprehension data therefore do not support
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-()
-
-suggestion that
-
-Diessel and Tomasello’s
-increased structural
-complexity in terms of the relativizer form used results in children ﬁnding
-oblique sentences more diﬃcult than the other RC structures (subject,
-object, oblique). This ﬁnding is diﬃcult to accommodate within the
+Diessel and Tomasello’s () suggestion that increased structural
+complexity in terms of the relativizer form used results in children finding
+oblique sentences more difficult than the other RC structures (subject,
+object, oblique). This finding is difficult to accommodate within the
 usage-based approach, since oblique relatives were largely absent from
-our corpus data. Indeed, this ﬁnding is diﬃcult to accommodate within
+our corpus data. Indeed, this finding is difficult to accommodate within
 any current theory of RC acquisition (Keenan & Comrie, ; O’Grady,
-, ; Rizzi, ). One potential explanation for the eﬀect might be
+, ; Rizzi, ). One potential explanation for the effect might be
 methodological. Our method tested comprehension and hence simply
 requires children to establish an aboutness relationship with the head
 referent in comparison. Even so, this result is interesting, and raises the
 question of whether it would be observable in production. Study  tested
 this possibility.
-
-STUDY : SENTENCE REPETITION
-
-Study  showed that Finnish-speaking children are inﬂuenced by the
+STUDY : SENTENCE REPETITION.
+Study  showed that Finnish-speaking children are influenced by the
 animacy of the head noun in their comprehension of RCs, but that, unlike
 children acquiring many other languages, they do not show a subject RC
 advantage. This result is important because it can potentially help shed
 light on psycholinguistic processes that take place during RC acquisition.
-However, null eﬀects are diﬃcult to interpret; thus there is a need to
-follow up Study  using a diﬀerent method. Study  did so using sentence
+However, null effects are difficult to interpret; thus there is a need to
+follow up Study  using a different method. Study  did so using sentence
 repetition. The method is a particularly sensitive measure of children’s
 grammatical knowledge (Lust, Flynn & Foley, ), and has been shown
-to both be sensitive to and predict children’s knowledge of diﬀerent RC
+to both be sensitive to and predict children’s knowledge of different RC
 structures (Boyle, Lindell & Kidd, ; Diessel & Tomasello, ; Kidd
 et al., ). As Study  raised some questions in relation to animacy
-eﬀects, in Study  we conducted a detailed error analysis to investigate the
-source of errors in diﬀerent RC types.
-
-M E T H O D
-Participants
+effects, in Study  we conducted a detailed error analysis to investigate the
+source of errors in different RC types.
+METHOD.
+Participants.
 The forty children described in our Study  also took part in the current
 study. Of these, three children ( female,  male) were tested but were not
 cooperative and testing was discontinued. Thus, thirty-seven (N = , 
-female) children aged ;–; (Mean = ;, SD = ·) were included in the
+female) children aged ;–; (Mean = ;, SD=·) were included in the
 study.
-
-Materials
-Thirty-two test sentences and fourteen ﬁllers were created. The test
+Materials.
+Thirty-two test sentences and fourteen fillers were created. The test
 sentences were manipulated for the RC type (subject, object, oblique,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 oblique) and animacy of the head NP (animate, inanimate). The sentences
 were controlled for length (– syllables long). Because we assumed that
 the shorter colloquial word forms would be easier for the children than the
 longer more formal variants, the sentences were created in colloquial
 dialect typical for the area where the children lived (e.g. tossa was used for
 tuossa ‘there’, kelle for kenelle ‘for whom’, kenen kaa for kenen kanssa ‘with
-whom’). The ﬁllers were short simple sentences such as Ulkona sataa ‘It’s
+whom’). The fillers were short simple sentences such as Ulkona sataa ‘It’s
 raining outside’. Table C in the supplementary on-line content lists the
-test and ﬁller sentences (see http://dx.doi.org/./S.
-
-Familiarity of items to children
+test and filler sentences (see http://dx.doi.org/./S.
+Familiarity of items to children.
 Nouns. We carefully selected the head NPs and nouns within the relative
 clauses in the test sentences. All of these were lexical nouns, and all are
 listed in the Finnish MacArthur CDI (– months) (Lyytinen, ),
 which we took to mean that they should be familiar to Finnish children
-aged ;–;. A selection of data ﬁles of the Kirjavainen-Max Planck
+aged ;–;. A selection of data files of the Kirjavainen-Max Planck
 Finnish child corpus was searched for the frequency of these nouns
 between the ages of ; and ; (approx. , word tokens produced
 by the child at the time of the searches). The head nouns were selected so
@@ -1293,8 +685,7 @@ similar frequencies in the naturalistic speech of our Finnish corpus child,
 and because we needed both head and RC nouns, some nouns were used
 in more than one test sentence. Whenever possible, these sentences were
 presented to the children in separate test sessions. The fact that we
-manipulated for head noun animacy (animate vs.
-limited
+manipulated for head noun animacy (animate vs. inanimate), limited
 ourselves to familiar nouns with similar frequencies, and did not want to
 repeat the same nouns several times during the test session, also meant
 that many of our test sentences were not reversible, or were biased towards
@@ -1308,40 +699,25 @@ whereby each verb type (i) had to be listed in the Finnish MacArthur
 CDI (– months) (Lyytinen, ), and (ii) appear at least once in our
 Finnish corpus child’s speech. Highly frequent verbs (such as ‘go’) were
 excluded. Therefore, our test verbs should be familiar to children aged
-between ; and ;, but there should not be huge diﬀerences in the verb
-
-inanimate),
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
+between ; and ;, but there should not be huge differences in the verb
 frequency overall. Apart from three verbs (halata ‘to hug’, leikkiä ‘to play’,
 siivota ‘to clean/tidy up’), all verbs appeared in only one test sentence. These
 three verbs were each used in two test sentences, which were presented in
-diﬀerent test sessions and occurred in diﬀerent sentence types.
-
+different test sessions and occurred in different sentence types.
 The main clauses were always predicate nominal of copular clauses (e.g.
-
 ‘That is X(NOM)’).
-
 Procedure
 A PowerPoint slideshow was created in which each test sentence was paired
-up with a picture of the head referent. A native Finnish speaker (the ﬁrst
+up with a picture of the head referent. A native Finnish speaker (the first
 author) prerecorded the test sentences using Audacity software. Four
-diﬀerent orders were created of the PowerPoint slideshows and children
+different orders were created of the PowerPoint slideshows and children
 were randomly assigned to one order.
-
 The test was presented to the children as a ‘parrot-game’. The children
 were told that they would see pictures on the computer screen and that
 they would have to pretend that they are parrots and say the same thing as
 the computer.
-
 Prior to beginning the experiment, the children completed six practice
-trials, which presented six simple sentences. The ﬁrst practice sentence
+trials, which presented six simple sentences. The first practice sentence
 (e.g. Siinä on nostokurki ‘That is a crane’) was repeated by the experimenter
 to demonstrate what was required of the child. The second sentence was
 then played back to the child and s/he was asked to repeat it (e.g. Siinä on
@@ -1354,626 +730,245 @@ same thing as the computer. If the child did not repeat the sentence,
 the experimenter played the sentence back to the child again and asked the
 child to repeat it. Once all warm-up sentences had been repeated in this
 manner the experimenter proceeded to the actual test items.
-
 If during testing the child did not produce a response after hearing the test
 sentence, the sentence was played back once more and the experimenter
 encouraged the child to try to repeat the sentence. If the child did not
 attempt to repeat the sentence, the experimenter moved to the next item.
-If the child did not attempt to repeat ﬁve consecutive sentences, the
+If the child did not attempt to repeat five consecutive sentences, the
 testing was discontinued and the child excluded from the study.
-
 The materials were counterbalanced as per the description in our Study .
 The test situations were audio-recorded. The experimenter transcribed the
 children’s responses on-line and checked the transcriptions against the
-recordings oﬀ-line. Data from one session of eight children (·% of data)
+recordings off-line. Data from one session of eight children (·% of data)
 were transcribed and coded for reliabilities by a native Finnish speaker
 RA. Inter-coder agreement was very good (·%, к = ·).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-Coding
+Coding.
 Each repetition attempt was coded for using a similar coding scheme as
-Diessel and Tomasello (). The child’s ﬁnal attempt was taken as the
+Diessel and Tomasello (). The child’s final attempt was taken as the
 response, i.e. children were given credit for self-correction (e.g. ‘That is
 the pig that . . . with whom the sheep ran outside’).
-
 The children were given a score of  if they produced a verbatim repetition
 of the test sentence. Minor errors were overlooked (and were coded as ).
 These included:
-. The child changed the relativizer to a diﬀerent one but with the same
+. The child changed the relativizer to a different one but with the same
 function (e.g. joka-NOM for kuka-NOM). This is comparable to an
 English-speaking child changing, e.g. which for that/who or vice versa.
-
 . The use of colloquial or standard language form of a given word (e.g. kelle
-
 vs. kenelle ‘for whom’).
-
 . Change in the position of the adverbial within the RC. Because Finnish
-has a ﬂexible word order, changing the place of an adverbial does not
+has a flexible word order, changing the place of an adverbial does not
 justify penalization.
-
-. Change of the adverbial to a diﬀerent one (e.g. ‘yesterday’ for ‘a moment
-
+. Change of the adverbial to a different one (e.g. ‘yesterday’ for ‘a moment
 ago’).
-
 . Addition of an extra adverbial (e.g. ‘That’s the boy who helped Granddad
 in the forest yesterday’ for ‘That’s the boy who helped Granddad in the
 forest’).
-
 . Minor changes to the main-clause demonstrative (e.g. ‘That is the boy . . .’
-
 for ‘There is the boy . . .’).
-
-. Exclusion of a deﬁnite marker in the main clause, e.g. Toi on poika . . . for
+. Exclusion of a definite marker in the main clause, e.g. Toi on poika . . . for
 Toi on SE poika . . . (‘That is boy . . .’ for ‘That is THAT boy . . .’). This
-decision was made because deﬁniteness is not very clear or systematic in
+decision was made because definiteness is not very clear or systematic in
 Finnish.
-
 . When the child made minor changes to NPs within the RC or the head
-
 referent (e.g. ‘a boy’ for ‘a child’).
-
 A score  was given:
 . When there was no attempt at repetition.
 . When the child did not produce a RC structure, e.g. the child produced
-
 a simple or coordinate sentence.
-
-. When the child changed the relativizer to one with a diﬀerent function
-
+. When the child changed the relativizer to one with a different function
 (e.g. kelle-ALL ‘for whom’ for kuka-NOM ‘who’).
-
 . Distinctly incorrect word order within the RC clause (e.g. Possu minkä
 lammas kaa juoksi ‘A pig whom a sheep with ran’ for Possu minkä/kenen
 kaa lammas juoksi ‘A pig with whom a sheep ran’).
-
 . When the utterance had a resumptive pronoun.
-. Errors other than minor lexical errors (e.g. the use of a diﬀerent verb,
-
+. Errors other than minor lexical errors (e.g. the use of a different verb,
 omitting nouns, verbs, or relativizers).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-TA B L E . Error categories in the sentence repetition task
-
-Response type
-
-Verbatim or near verbatim
-repetition
-No response/No RC produced
-Wrong relativizer with the same
-function as the target
-Wrong relativizer with a diﬀerent
-function as the target
-Omission of the relativizer
-
-Resumptive (pro)noun was used
-
-Major lexical errors
-Word order errors
-
-A number of errors produced
-within a given response
-
-Example
-
-–
-
-–
-jota-OBJ for mitä-OBJ
-
-mitä-OBJ for mikä-SUBJ
-
-Tossa on se hassu vauva (kelle) setä nauroi ‘That’s the
-funny baby (at whom) a man laughed’
-Tossa on se laiva mikä laiva työnsi jäätä ‘That’s the boat
-that the boat pushed ice’
-Non-target verb used within the RC
-Toi on se ankka kenen kukko kaa äsken leikki ‘That’s the
-duck whom the cockerel with played a moment ago’
-Tossa on se tyttö kuka luki usein kirjaa for Tossa on se
-tyttö kenelle mummo luki usein ‘That’s the girl who
-often read a book’ for ‘That’s the girl to whom a granny
-read often’
-
 In addition to coding the responses as incorrect () or correct (), we also
 coded the responses into nine more detailed categories to assess the types of
 errors that the children made. It is important to note that some errors that we
 coded in the binary error analysis as correct responses were coded as errors in
 this more detailed analysis. For instance, repetitions in which the child
 produced a non-target relativizer whose case was nevertheless the same as
-joka-NOM for kuka-NOM) were coded as
-the target relativizer’s (e.g.
+the target relativizer’s (e.g. joka-NOM for kuka-NOM) were coded as
 correct in our binary analysis but as errors in our detailed error analysis.
 Table  illustrates the error categories for our detailed error analysis.
-
-R E S U L T S
+RESULTS.
 Figure  reports the mean proportion correct and standard errors for each
 condition. Figure  shows that the children performed best on subject and
-object RCs. Animacy had an uneven eﬀect on performance across the test
+object RCs. Animacy had an uneven effect on performance across the test
 structures: inanimate heads only resulted in better performance for object
 and oblique RCs, whereas the opposite was the case for the subject and
 oblique relatives.
-
 The data were analyzed using Generalized Linear Mixed Models (Baayen,
 Davidson & Bates, ; Jaeger, ), which were calculated using the lme
-package for Linear Mixed Eﬀects (Bates & Maechler, ) in R (version
+package for Linear Mixed Effects (Bates & Maechler, ) in R (version
 .·; R Core Development Team, ). Factor labels were centred at 
 with a range of . An initial model that included (zero-centred) age and
 gender as independent variables showed that these two variables did not
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-Fig. . Proportion correct for each test structure in Study . Error bars denote standard
-
-error.
-
-TA B L E . Final model of elicited imitation data in Study 
-
-Intercept
-Structure(Obj)
-Structure(OBL)
-Structure(OBL)
-Animacy
-Structure(Obj):Animacy
-Structure(OBL):Animacy
-Structure(OBL):Animacy
-
-β
-
-·
-−·
-−·
-−·
-−·
-·
-·
-·
-
-Std. error
-
-Wald-Z
-
-·
-·
-·
-·
-·
-·
-·
-·
-
-·
-−·
-−·
-−·
-−·
-·
-·
-·
-
-p-value
-
-<·***
-·
-<·***
-<·***
-·
-<·**
-<·***
-·
-
-NOTES: *** p < ·; ** p < ·; * p < ·. Reference levels (intercept terms) for ﬁxed-eﬀects
-predictors: Structure: Subject RC, Animacy: Animate.
-
-signiﬁcantly inﬂuence performance. These variables were not included in
-subsequent analyses. We ﬁtted a model to the data that included the
+significantly influence performance. These variables were not included in
+subsequent analyses. We fitted a model to the data that included the
 independent variables of structure ( levels: (i) subject RC, (ii) object RC,
 (iii) oblique RC, and (iv) oblique RC) and animacy ( levels: animate,
-inanimate), as well as participants and items as random eﬀects. Random
-slope parameters for main eﬀects and interactions were included in the
+inanimate), as well as participants and items as random effects. Random
+slope parameters for main effects and interactions were included in the
 models using forward selection: each random slope was added sequentially
-to the model, ﬁrst for participants and then items, and the ANOVA
+to the model, first for participants and then items, and the ANOVA
 function was used to determine whether the additional random slope
-signiﬁcantly improved the model (Baayen, ). The ﬁnal model only
-included the by-participants random slope for the ﬁxed variable of
-structure. The ﬁnal model results are shown in Table .
-
-Table  shows that, whereas the children did not diﬀer in their overall
+significantly improved the model (Baayen, ). The final model only
+included the by-participants random slope for the fixed variable of
+structure. The final model results are shown in Table .
+Table  shows that, whereas the children did not differ in their overall
 performance on subject and object RCs, the subject RCs were more often
 repeated correctly than were both categories of oblique RCs. Subsequent
 analyses revealed that the children’s performance on the object RCs was
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-also signiﬁcantly better overall than on both the Oblique- RCs (β = –·,
+also significantly better overall than on both the Oblique- RCs (β = –·,
 z = ·, p = ·) and Oblique- RCs (β = –·, z = –·, p = ·), but
-that their overall performance on the two Oblique categories did not diﬀer
-(β = –·, z = –·, p = ·). The main eﬀect of animacy was marginal; a
-series of
-suggested animacy aﬀected
+that their overall performance on the two Oblique categories did not differ
+(β = –·, z = –·, p = ·). The main effect of animacy was marginal; a
+series of structure × animacy interactions suggested animacy affected
 performance depending on the structural type.
-
-structure × animacy interactions
-
 The structure × animacy interactions were explored further by splitting the
 data by animacy. The same analysis strategy as per the previous analysis was
-employed. The sentences containing animate head nouns were analyzed ﬁrst.
-The random slope for items did not signiﬁcantly contribute to the model
-and was therefore not included in the ﬁnal model; the random eﬀects of
+employed. The sentences containing animate head nouns were analyzed first.
+The random slope for items did not significantly contribute to the model
+and was therefore not included in the final model; the random effects of
 participants and items and the random slope for participants were included.
-The results showed that the diﬀerence in children’s performance on subject
-(β = –·, z = –·,
-and object RCs was marginal and not signiﬁcant
+The results showed that the difference in children’s performance on subject
+and object RCs was marginal and not significant (β = –·, z = –·,
 p = ·). In contrast, performance on the subject RCs with animate heads
-was signiﬁcantly higher than on the Oblique (β = –·, z = –·, p < ·)
+was significantly higher than on the Oblique (β = –·, z = –·, p < ·)
 and Oblique RCs (β = –·, z = –·, p < ·). Subsequent analyses
 revealed that the children’s performance on object RCs with animate heads
-was signiﬁcantly better than their performance on both Oblique RCs with
+was significantly better than their performance on both Oblique RCs with
 animate heads (β = –−·, z = –·, p = ·) and Oblique RCs (β = –·,
-z = –·, p = ·), which did not diﬀer from each other (β = –·, z = –
+z = –·, p = ·), which did not differ from each other (β = –·, z = –
 ·, p = ·).
-
 We next analyzed children’s performance on sentences that contained
-inanimate head nouns. The random eﬀect and the random slope for items
-were not signiﬁcant and were therefore not included in the model; the
-random eﬀect and the random slope for participants were included. The
-results showed that children performed signiﬁcantly better on object RCs
+inanimate head nouns. The random effect and the random slope for items
+were not significant and were therefore not included in the model; the
+random effect and the random slope for participants were included. The
+results showed that children performed significantly better on object RCs
 with an inanimate head than with both subject RCs (β = –·, z = –·,
 p = ·) and oblique RCs (β = –·, z = –·, p < ·), but not oblique
-RCs (β = –·, z = –·, p = ·). The diﬀerence between performance on
-subject and oblique RCs with inanimate heads was not signiﬁcant (β = ·,
-z = ·, p = ·), but performance on both of
-these sentence types
-was signiﬁcantly higher than performance on oblique RCs (subject RCs:
+RCs (β = –·, z = –·, p = ·). The difference between performance on
+subject and oblique RCs with inanimate heads was not significant (β = ·,
+z = ·, p = ·), but performance on both of these sentence types
+was significantly higher than performance on oblique RCs (subject RCs:
 β = –·, z = –·, p < ·; oblique RCs: β = –·, z = –·, p < ·).
-
-Finally, we analyszed whether animacy of the head referent aﬀected
-performance on each individual
-structure type. Children performed
-signiﬁcantly better on subject RCs with an animate head than with an
+Finally, we analyszed whether animacy of the head referent affected
+performance on each individual structure type. Children performed
+significantly better on subject RCs with an animate head than with an
 inanimate head (β = –·, z = –·, p = ·). In contrast, they performed
 better on object and oblique RCs with inanimate heads than with
 animate heads (object RCs: β = ·, z = ·, p = ·; Oblique: β = ·,
 z = ·, p < ·). Finally, the children performed marginally better on
 Oblique RCs with animate heads than with inanimate heads, but the
-eﬀect was not signiﬁcant (β = –·, z = –·, p = ·).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
+effect was not significant (β = –·, z = –·, p = ·).
 Detailed error analysis
 In addition to our statistical analysis above, we conducted a descriptive error
 analysis separately for each RC type. Recall that not all repetitions coded as
 errors in our detailed error analyses were coded as such in our statistical
 analyses above. Hence, the proportions of errors below do not directly
 correspond to the proportions of errors reported above.
-
-Subject
-
-gapped relatives. The
-
-children produced (near) verbatim
-repetitions of animate subject RCs % (N = /) of the time. For
-inanimate subject RCs the proportion was % (N = /). When
+Subject gapped relatives. The children produced (near) verbatim
+repetitions of animate subject RCs % (N=/) of the time. For
+inanimate subject RCs the proportion was % (N=/). When
 producing non-verbatim repetitions, the children most commonly changed
 the target for a non-target relativizer that had the same function (i.e. same
 case) as the target. This is comparable to an English speaker producing which
 for that. These types of responses were not coded as errors in our statistical
 analysis but were coded as errors here. Repetitions like these were particularly
-prevalent in animate subject RCs (% [N = /]). Instead of producing
+prevalent in animate subject RCs (% [N=/]). Instead of producing
 the target relativizer, kuka-NOM, the children produced an alternative
 relativizer correctly in the nominative case (mikä [%], joka [%]). Fifteen
-percent (N = /) of inanimate subject RC repetitions were instantiations
-of these (joka-NOM [%], kuka-NOM [%] for mikä-NOM).
-
-the target
-
+percent (N= /) of inanimate subject RC repetitions were instantiations
+of these (joka-NOM[%], kuka-NOM[%] for mikä-NOM).
 The children also commonly changed the case of the subject relativizer
-(animate: %, N = /; inanimate: %, N = /) and hence created
+(animate: %, N= /; inanimate: %, N= /) and hence created
 grammatically deviant sentences. These errors are comparable to an
 English speaker producing whom instead of who. In both animate and
-inanimate subject RCs
-relativizers were most commonly
+inanimate subject RCs the target relativizers were most commonly
 replaced with mitä-PART (animate: %, inanimate: %) or jota-PART
 (animate: %, inanimate: %). The partitive case is used for the object
 function, and hence in these contexts the use of the partitive results in
 deviant sentences with two object and no subject referents. Note, however,
-that structurally most of
-look like subject RCs as
+that structurally most of these sentences look like subject RCs as
 illustrated by (). That is, our participants rarely changed the location or
-the case of the other NPs within the RCs to reﬂect the needs of the
+the case of the other NPs within the RCs to reflect the needs of the
 incorrectly case-marked relative pronoun. Because the children only
 changed the case of the relativizer, it is likely that they understood the
 grammatical roles for each participant, but for one reason or another failed
-to inﬂect the relativizer correctly. Thus, we do not take these types of
+to inflect the relativizer correctly. Thus, we do not take these types of
 repetitions as object-for-subject conversions. On the other hand, three
 animate and four inanimate object-for-subject conversions were found. In
-these,
-the relative pronoun was produced incorrectly in the partitive
+these, the relative pronoun was produced incorrectly in the partitive
 (object) case, the target object referent was produced incorrectly in the
 nominative case and it preceded the verb, as shown in ().
-
-these sentences
-
-() Toi
-
-That
-
-on se poika mitä
-is
-
-the boy that-PART helped granddad-PART
-
-auttoi
-
-pappaa
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-metsässä
-forest-INE
-‘That is the boy *whom helped granddad/old man in the forest’
-For the target sentence:
-on se poika kuka
-Toi
-That
-is
-metsässä
-forest-INE
-‘That is the boy who helped granddad/old man in the forest’
-
-the boy who-NOM helped granddad-PART
-
-pappaa
-
-auttoi
-
-() Toi
-
-on se poika mitä
-is
-
-pappa
-
-the boy
-metsässä
-
-that-PART granddad-NOM
-
-That
-auttoi
-help-sg-past forest-INE
-‘That is the boy whom granddad/old man helped in the forest’
-
-i.e.
-
-function,
-
-Object gapped relatives. Fifty-ﬁve percent (N = /) of animate object RC
+Object gapped relatives. Fifty-five percent (N = /) of animate object RC
 responses were (near) verbatim repetitions. In inanimate object RCs these
-accounted for % (N = /) of responses. The error
-type the
-children most commonly produced when repeating animate (%, N =
-/) and inanimate (%, N = /) object targets were repetitions
+accounted for % (N=/) of responses. The error type the
+children most commonly produced when repeating animate (%, N=
+/) and inanimate (%, N= /) object targets were repetitions
 in which the target relativizer was replaced with a relativizer with a
-diﬀerent
-the children produced grammatically deviant
-sentences. In these, the children most commonly (animate: N = /;
-inanimate: N = /) changed the object relativizer (mitä-PART) into a
-subject relativizer (mikä-NOM,
-joka-NOM, kuka-NOM). Five animate
+different function, i.e. the children produced grammatically deviant
+sentences. In these, the children most commonly (animate: N= /;
+inanimate: N= /) changed the object relativizer (mitä-PART) into a
+subject relativizer (mikä-NOM, joka-NOM, kuka-NOM). Five animate
 and one inanimate subject-for-object RC conversions were found in
 which the target object RC was converted incorrectly into a subject RC
 by using a nominative marking on the relative pronoun, moving the RC
 subject referent in the canonical object position (following the verb),
-and inﬂecting the subject referent for the object
-(partitive) case; see
+and inflecting the subject referent for the object (partitive) case; see
 example ().
-
-() Toi
-
-on se kana
-is
-
-joka
-that-NOM tease-sg-past
-
-kiusasi
-
-the chicken
-eilen
-
-That
-poikaa
-boy-PART yesterday
-‘That is the chicken that teased a boy yesterday’
-For
-Toi
-That
-kiusasi
-tease-sg-past
-‘That is the chicken that a boy teased yesterday’
-
-se kana
-that chicken
-eilen
-
-yesterday
-
-mitä
-that-PART boy-NOM
-
-poika
-
-on
-is
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 One-word oblique relatives. The children struggled to repeat animate
 oblique relatives – they produced (near) verbatim repetitions only %
-(N = /) of the time. A further % (N = /) of the responses
-contained a correctly inﬂected, non-target relativizer, (joka-ALL (%),
+(N = /) of the time. A further % (N=/) of the responses
+contained a correctly inflected, non-target relativizer, (joka-ALL (%),
 mikä-ALL (%) for kuka-ALL). Thirty-one percent of repetitions were
-such that the children changed the relativizer to one with a diﬀerent
+such that the children changed the relativizer to one with a different
 function. Most commonly they produced nominative or partitive forms
 instead of the target allative form (kuka-NOM (%) joka-NOM (%),
-mikä-NOM (%),
-jota-PART (%), mitä-PART (%)). The children
+mikä-NOM (%), jota-PART (%), mitä-PART (%)). The children
 also frequently produced repetitions of animate oblique RCs which had
-more than one error (%, N = /).
-
+more than one error (%, N= /).
 Contrary to animate oblique RCs, the children performed very well with
-inanimate oblique relatives, producing (near) verbatim responses % (N =
+inanimate oblique relatives, producing (near) verbatim responses % (N=
 /) of the time. A further % of their responses were repetitions in which
-the target relativizer was replaced with another correctly inﬂected relativizer.
+the target relativizer was replaced with another correctly inflected relativizer.
 That is, the children’s repetition accuracy was much better with inanimate
 than animate oblique RCs regardless of whether we consider producing a
-correctly inﬂected non-target relativizer as an error or not. The most
+correctly inflected non-target relativizer as an error or not. The most
 common error type with inanimate oblique RC was the use of a
-relativizer with a diﬀerent function to the target relativizer (%, N = /
+relativizer with a different function to the target relativizer (%, N= /
 , of oblique RC responses). There was no clear pattern in these, but
 the most common erroneous relativizers used were mitä-PART (%),
-joka-NOM (%), and jota-PART (%), such as is exempliﬁed by ():
-
-() Toi
-
-on se sänky mitä
-is
-
-kissa
-
-nukkui
-
-that bed that-PART cat-NOM slept
-
-That
-illalla
-in the evening
-‘*That is the bed that a cat slept in the evening’
-For
-Toi
-That
-illalla
-in the evening
-‘That is the bed in which a cat slept in the evening’
-
-se sänky missä
-that bed that-INE
-
-kissa
-cat-NOM slept
-
-nukkui
-
-on
-is
-
+joka-NOM (%), and jota-PART (%), such as is exemplified by ().
 Two-word oblique relatives. The children performed badly with animate
 and inanimate two-word oblique relatives. They produced (near) verbatim
-repetitions of these only % (N = /; animate) and % (N = /;
+repetitions of these only % (N=/; animate) and % (N=/;
 inanimate) of their responses. A further % and % of the repetitions,
-respectively, had a correctly inﬂected non-target
-two-word relativizer
+respectively, had a correctly inflected non-target two-word relativizer
 replacing the target relativizer, e.g. minkä + kaa ‘with whom’ for kenen +
 kaa ‘with whom’.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 The error pattern for the two-word oblique relatives was relatively clear.
 The children most commonly produced errors in which they replaced the
-two-word relativizer with a one-word relativizer (animate: %, N = /
-; inanimate: %, N = /). The incorrect single word relativizers
+two-word relativizer with a one-word relativizer (animate: %, N= /
+; inanimate: %, N= /). The incorrect single word relativizers
 produced in repetitions of inanimate oblique RCs had similar semantics
 as the two-word target relativizer. Instead of producing minkä sisään ‘into
-which’,
-(‘into
+which’, the children commonly produced mihin ‘which-ILL’ (‘into
 which’), minne ‘which-SUBL’ (‘into which’), or missä ‘which-INE’ (‘in
 which’). However, the responses for animate oblique targets very rarely
 resembled the target either semantically or structurally. These responses
 were overwhelmingly such that the children replaced the relativizer with a
 semantically unacceptable one (subject or object case), or produced
 repetitions with a number of errors; see example ().
-
-the children commonly produced mihin ‘which-ILL’
-
-se possu mikä
-that pig that-NOM sheep-NOM run-sg-past
-
-lammas
-
-juoksi
-
-() Toi
-
-on
-is
-
-That
-ulos
-out
-‘That is the pig *who the sheep ran outside’
-For
-se possu kenen kaa lammas
-Toi
-that pig who with
-That
-juoksi
-ulos
-run-sg-past out
-‘That is the pig with whom the sheep ran outside’
-
-sheep-NOM
-
-on
-is
-
-D I S C U S S I O N
+DISCUSSION
 Several results from Study  bear on theoretical issues relevant to RC
-acquisition. First, we did not ﬁnd an across the board signiﬁcant subject
+acquisition. First, we did not find an across the board significant subject
 RC advantage when test sentences contained animate or inanimate head
-nouns. In particular, the diﬀerence between subject and object RCs was
-not signiﬁcant. Furthermore, unlike some previous studies (e.g. Diessel &
+nouns. In particular, the difference between subject and object RCs was
+not significant. Furthermore, unlike some previous studies (e.g. Diessel &
 Tomasello, ) which report that children relatively frequently convert
 object RCs into subject RCs (e.g. That’s the cat that bit the dog for That’s
 the cat that the dog bit) we only found a handful of subject-for-object
@@ -1983,23 +978,13 @@ conversions. Relative pronoun case errors were also equally prevalent in
 both directions. Eighty-eight percent (N = / of which animate: /,
 inanimate: /) of the subject relativizer case errors were such that the
 partitive (object) was produced instead of the nominative, whereas %
-(N = / of which animate: /,
-inanimate /) of the object
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
+(N = / of which animate: /, inanimate /) of the object
 relativizer case errors were such that the nominative (subject) was produced
 instead of the partitive. This result, even though not completely comparable
 to the materials (namely, reversibility) or method (comprehension vs.
 repetition) of some previous studies (e.g. Friedmann et al., ), points
 towards the possibility that no universal subject dominance exists in RC
 acquisition.
-
 Second, the children’s performance on the subject, object, and oblique
 RCs is broadly consistent with the distributional properties of Finnish
 found in Study . In particular, object and oblique RCs were best
@@ -2009,58 +994,43 @@ RCs in Study  were most often produced with inanimate heads, there are
 several reasons to suggest that the children’s performance is consistent
 with usage patterns. First, animate nouns are typically agents. This is
 likely to have contributed to children’s better performance on animate in
-comparison to inanimate subject RCs. Second, the animacy eﬀect for
-subject RCs was inﬂuenced by our coding scheme. If only verbatim
+comparison to inanimate subject RCs. Second, the animacy effect for
+subject RCs was influenced by our coding scheme. If only verbatim
 repetitions are counted, the children performed better on the inanimate
 subject RCs. The animate subject RC advantage only emerged when we
 allowed grammatically correct relative pronoun substitution to count as a
 correct repetition.
-
-Third, our results diﬀer from some previous studies that have found
-oblique RCs diﬃcult for children (e.g. Brandt et al., ; Diessel &
+Third, our results differ from some previous studies that have found
+oblique RCs difficult for children (e.g. Brandt et al., ; Diessel &
 Tomasello, , ; Rahmany, Marefat & Kidd, ). Our results do
-not support the suggestion that oblique RCs are more diﬃcult than object
+not support the suggestion that oblique RCs are more difficult than object
 RCs because object RCs are semantically similar to simple transitives
 while oblique RCs are not (Diessel, ). The semantic dissimilarity
 between these two structures is present in Finnish yet certain oblique RCs
 were as easy for our Finnish children as object RCs. Diessel and
-Tomasello () suggested that oblique RCs are diﬃcult in English and
+Tomasello () suggested that oblique RCs are difficult in English and
 German because the relativizer in these constructions consists of two
 words and the other RC types consist of just one. The fact that we found
 that our Finnish children perform worse with oblique than (inanimate)
 oblique RCs could be taken as support for Diessel and Tomasello’s
-suggestion. Many (animate: %;
-inanimate: %) oblique repetitions
+suggestion. Many (animate: %; inanimate: %) oblique repetitions
 were such that the children erroneously replaced the two-word relativizer
 with a one-word relativizer. In almost all repetitions in which the child
 substituted the inanimate two-word relativizer (minkä sisään ‘into which’),
 they did so by producing a semantically similar one-word relativizer
 (mihin-ILL ‘into which’, minne-SUBL ‘into which’, missä-INE ‘in
 which’). This created a semantically sound, but incorrectly repeated, RC
-structure,
-the target
+structure, indicating that they understood the meaning of the target
 sentence but struggled to repeat it. There is no one-word relativizer in
-
-they understood the meaning of
-
-indicating that
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
 Finnish the semantics of which correspond to our animate oblique
 relativizer. Regardless of this, % of the children’s animate oblique
 responses were such that the child replaced the target with a one-word
-relativizer (commonly nominative or partitive forms). This ﬁnding is
+relativizer (commonly nominative or partitive forms). This finding is
 similar to Diessel and Tomasello’s () study, which found that English
 and German children also erroneously replaced two-word with one-word
 relativizers.
-
-G E N E R A L D I S C U S S I O N
+<Conclusion>
+GENERAL DISCUSSION.
 We conducted three studies investigating the acquisition of relative clauses in
 Finnish-speaking children. Study  analyzed the naturalistic productions of
 one Finnish-speaking child and her caregivers. In comparison to other
@@ -2068,24 +1038,22 @@ languages for which there is comparable data, we found that Finnish
 contains a comparatively higher proportion of non-subject RCs. We also
 found that RCs are most typically used with inanimate head nouns. In
 Study  we conducted a comprehension experiment and found that, in
-contrast to other head-ﬁrst languages (e.g. English, German, Hebrew),
+contrast to other head-first languages (e.g. English, German, Hebrew),
 there does not appear to be a subject–object asymmetry in Finnish.
 Instead of structure, consistent with the usage patterns observed in Study
-, children’s comprehension was most aﬀected by the animacy of the head
+, children’s comprehension was most affected by the animacy of the head
 referent. Finally, in Study  we conducted a sentence repetition study, the
 results of which revealed a good degree of consistency with Studies  and .
-
 No subject–object asymmetry
-Let us ﬁrst consider the fact that we found no diﬀerence between subject and
+Let us first consider the fact that we found no difference between subject and
 object RCs. This is cross-linguistically an unexpected result, given that
-studies investigating RC acquisition in many other head-ﬁrst languages
+studies investigating RC acquisition in many other head-first languages
 have reported strong subject RC dominance (Adani, ; de Villiers
 et al., ; Diessel & Tomasello, ; Friedmann, et al., ;
 Goodluck, ; Guasti, et al., ; Kas & Lukács, ).
-
 Consistent with the predictions of the usage-based approach to language
 acquisition, the lack of subject–object asymmetry in our study can be
-explained by the children’s behaviour in our experiments heavily reﬂecting
+explained by the children’s behaviour in our experiments heavily reflecting
 distributional features of Finnish. For instance, in German, subject RCs
 are much more frequent than object or oblique RCs in the input (Brandt
 et al., ), contributing to the subject advantage observed in German.
@@ -2094,166 +1062,106 @@ and object RCs are roughly equally frequent. This means that, all things
 being equal, Finnish and English children’s performance with subject and
 object RCs might be predicted to be similar, yet it is only in Finnish
 where the subject advantage is not present.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
 Importantly, not all things are equal between these two languages. First,
 the much greater proportion of non-subject than subject RCs in Finnish,
 relative to English, means that the expectations Finnish speakers have
 about the head noun is less strongly skewed in favour of subject function
 than it is for English speakers.
-
 Second, English has a relatively rigid word order. The strong agent/actor +
-Verb schema of simple sentences in English has been argued to aﬀect
+Verb schema of simple sentences in English has been argued to affect
 expectations of sentence-/clause-initial nouns, contributing to the subject–
 object asymmetry (e.g. Diessel & Tomasello, ; Slobin and Bever, ).
-Finnish having a more ﬂexible word order than English means that
+Finnish having a more flexible word order than English means that
 Finnish speakers may not have as strong a preference for placing agents/
 actors in sentence-/clause-initial positions as English speakers.
-
-Third,
-
-in Finnish it is usually the relative pronoun that ultimately
+Third, in Finnish it is usually the relative pronoun that ultimately
 determines the participant roles within the relative clause. Thus, the
 relativized syntactic role is often reliably disambiguated as soon as the
-relativizer is heard. In languages such as English,
-in which identical
+relativizer is heard. In languages such as English, in which identical
 relative pronoun forms are used for subject and object RCs, speakers/
 hearers are more likely to be garden-pathed than in Finnish.
-
-found that,
-
-in terms of
-
-Given that we found no subject–object asymmetry, it may be worth brieﬂy
+Given that we found no subject–object asymmetry, it may be worth briefly
 discussing our age range and its implications. Our experimental studies
 included children from a relatively narrow age range (;–;). Thus, even
-though WE did not ﬁnd a subject–object asymmetry, this asymmetry might
+though WE did not find a subject–object asymmetry, this asymmetry might
 be found in younger or older age groups. Let us address the younger
-children ﬁrst. Without experimental evidence it is diﬃcult to determine
+children first. Without experimental evidence it is difficult to determine
 whether very young Finnish children (<;) would show a subject
 advantage. However, our corpus study, which extracted RCs between the
-ages of ; and ;,
-frequency of use, no
+ages of ; and ;, found that, in terms of frequency of use, no
 preference for using subject RCs was present in the child’s language. If a
 Finnish child does not show a preference for subject over non-subject RCs
 in naturalistic situations, it is likely that they do not show a preference for
 using them in experimental situations either, and consequently make
 subject for non-subject RC errors, for instance. Furthermore, our corpus
 analysis showed that the corpus child’s input contained fewer exemplars of
-subject relatives than non-subject relatives. Based on a large body of ﬁrst
-language research which shows that children’s language is signiﬁcantly
-inﬂuenced by the language input
-they hear (e.g. Cameron-Faulkner,
+subject relatives than non-subject relatives. Based on a large body of first
+language research which shows that children’s language is significantly
+influenced by the language input they hear (e.g. Cameron-Faulkner,
 Lieven & Theakston, ; Huttenlocher, Vasilyeva, Cymerman &
 Levine, ; Kidd, Lieven & Tomasello, ; Kirjavainen, Theakston &
 Lieven, ; Rowland, ), it is not likely that Finnish children would
-go through a stage during which they show subject dominance,
-in
+go through a stage during which they show subject dominance, in
 particular if at the age of ;–; they do not show it.
-
 The second possibility is that subject advantage arises after the upper limit
 of our age range (>;). Two facts suggest this is not the case. First, our
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-corpus analysis did not ﬁnd subject RCs to be more prevalent in the adults’
+corpus analysis did not find subject RCs to be more prevalent in the adults’
 language, i.e. Finnish adults do not prefer to use subject RCs over object/
 oblique RCs, at least not when they are interacting with children. Even
 though it is not impossible, it is improbable that, while Finnish speakers
 do not show a subject advantage before ; or in adulthood, they go
 through a period somewhere in between when subject–object asymmetry is
 present. Second, if a subject RC advantage arose after a developmental
-stage during which children are
-in
+stage during which children are already extremely competent in
 comprehending and producing subject and object RCs (as they were in
 our Study  and Study ), the emerged subject preference would not tell
 us much about the processes that take place in language acquisition but
 about something else.
-
-already extremely competent
-
-Oblique relatives
+Oblique relatives.
 We next turn to oblique relatives. Our study provided little support for
 Diessel’s () suggestion that semantic dissimilarity between oblique
 RCs and transitive sentences results in children’s poorer performance with
 oblique than object RCs. On the other hand, our data support Diessel and
 Tomasello () and suggest that it is the two-word relativizer that
-contributes to the diﬃculty associated with oblique structures in languages
+contributes to the difficulty associated with oblique structures in languages
 such as English and German. The fact that in our Study  the children
 comprehended oblique relatives as well as they did subject, object, and
 oblique relatives indicates that the children’s poor performance with
 oblique relatives in the sentence repetition task did not derive from the
-children not understanding who is doing what
-the
+children not understanding who is doing what to whom, but the
 production of the more complex sentence structure relative to the other
-structures created the diﬃculty. It seems that, if oblique relatives and their
+structures created the difficulty. It seems that, if oblique relatives and their
 relativizers are structurally similar to subject and object relatives, no
-apparent diﬃculty is associated with oblique relatives. Future experimental
+apparent difficulty is associated with oblique relatives. Future experimental
 research investigating children’s performance with oblique and oblique
 RCs in other languages would help to assess the role of relativizer
-complexity in the diﬃculty associated with oblique RCs.
-
-to whom, but
-
-factors
-
-There are some other
-
-that are likely to aﬀect children’s
-performance with oblique RCs. First,
-if a speaker has two or more
+complexity in the difficulty associated with oblique RCs.
+There are some other factors that are likely to affect children’s
+performance with oblique RCs. First, if a speaker has two or more
 constructions to choose from to express similar meanings (e.g. oblique vs.
 oblique), these constructions might compete for production, and the
-stronger variant
-is selected (e.g. Bates & MacWhinney, , ).
+stronger variant is selected (e.g. Bates & MacWhinney, , ).
 Factors such as frequency, complexity, and semantic predictability can be
-assumed to contribute to the strength of a given variant. The ﬁnding
+assumed to contribute to the strength of a given variant. The finding
 (Study ) that our children commonly replaced the two-word relativizers
 with one-word relativizers can be taken as support for this suggestion.
 Second, when producing oblique RCs, children have to engage in
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-inﬂection and sequencing within the sentence of two relativizer words. This
+inflection and sequencing within the sentence of two relativizer words. This
 is likely to put more pressure on the processing system – in particular during
 production – relative to relative clauses with a one-word relativizer. Third,
 most two-word relativizers (in English, German, and Finnish) are much
-less
-frequently represented in naturalistic interaction than one-word
-relativizers, which is likely to contribute to speakers’ proﬁciency with
+less frequently represented in naturalistic interaction than one-word
+relativizers, which is likely to contribute to speakers’ proficiency with
 oblique and oblique constructions, in the favour of the latter.
-
-than subject/object
-
-relatives
-
-Two results did not reﬂect our corpus analysis and hence require some
+Two results did not reflect our corpus analysis and hence require some
 consideration. First, we found that oblique relatives were the most
 frequent (%) RC type in our corpus analysis, but our children did not
-perform better with oblique
-in our
+perform better with oblique than subject/object relatives in our
 experiments. In fact, they performed worse with animate oblique and
 animate and inanimate oblique RCs in our Study . At face value, this
 could be taken as evidence against the usage-based account. However, the
 usage-based account does not assume a complete input–output mirroring.
-Even though language-speciﬁc distributional
-features are expected to
+Even though language-specific distributional features are expected to
 mould children’s language, other factors also contribute to patterns of
 acquisition. Such factors include (a) the degree with which a construction
 resembles other constructions the child already knows (e.g. Abbot-Smith
@@ -2261,42 +1169,28 @@ resembles other constructions the child already knows (e.g. Abbot-Smith
 memorize chunks of varying lengths and combine these to create longer
 and more complex utterances (e.g. Ellis, ; Pine & Lieven, ).
 Furthermore, it is not only the frequency of the syntactic constructions
-that aﬀects the acquisition, but the frequency of key lexical items within
+that affects the acquisition, but the frequency of key lexical items within
 those constructions, and in other (related or unrelated) constructions. The
 fact that our animate oblique relativizer and animate and inanimate
 oblique relativizers occur in Finnish naturalistic language less frequently
 than our other relativizers is likely to explain at least partly why the
-children found these
-the
+children found these sentence types difficult. Furthermore, the
 usage-based account does not assume that children acquire the oblique (or
 any other) relative clause structure as one single category, but that initially
-diﬀerent locative cases are learned one by one. This means that the
+different locative cases are learned one by one. This means that the
 acquisition trajectory of one instantiation of a construction (e.g. oblique
 with the relativizer missä) could be acquired more quickly than another
 instantiation of that same syntactic construction (e.g. oblique with the
 relativizer kenelle). Last, our corpus analysis found only a handful of
 oblique relatives in the input (and none in the corpus child’s output).
 Consequently, the usage-based account would predict that oblique RCs
-are more diﬃcult and learned later in development than many subject,
+are more difficult and learned later in development than many subject,
 object, and oblique RCs.
-
-types diﬃcult. Furthermore,
-
-sentence
-
 Second, we found that both animate object and animate oblique RCs
 were infrequent in our corpus analysis. If we assume that usage patterns
-have a major eﬀect on children’s language development, both of these
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-sentence types should be diﬃcult for children in experimental contexts.
-However, the children performed signiﬁcantly better with animate object
+have a major effect on children’s language development, both of these
+sentence types should be difficult for children in experimental contexts.
+However, the children performed significantly better with animate object
 than animate oblique RCs. One might suggest that animate objects make
 bad head referents for oblique RCs, resulting in a poor performance with
 those items, but there is no clear perceptual reason to assume that locative
@@ -2306,523 +1200,24 @@ However, some locative cases may be perceptually more compatible with
 animate than inanimate head referents and vice versa. For instance, the
 inessive case (in X) could be more likely to occur with inanimate heads
 (e.g. ‘the cup in which’ vs. ‘the man in whom’).
-
-An alternative reason for the animate object–oblique asymmetry is diﬀerences
+Analternative reason for the animate object–oblique asymmetry is differences
 in lexical frequencies of the relativizers. Even though Finnish children are not
 likely to experience the animate object relativizer used in our test sentences in
-animate object constructions frequently,
-they do relatively frequently
+animate object constructions frequently, they do relatively frequently
 experience it as a relativizer in inanimate object RCs and as a question word in
-interrogative constructions. On the other hand,
-the animate oblique
+interrogative constructions. On the other hand, the animate oblique
 relativizer is infrequent in animate oblique structures, as well as in other
 constructions. We suggest that the fact that the children were more familiar
 with the animate object than oblique relativizer resulted in children having a
 sound understanding of the meaning of the former lexical item, which helped
 them to comprehend and produce RCs with that relativizer.
-
-Conclusion
+Conclusion.
 Our results suggest that (a) the frequency of a given RC construction as well as
 the frequency of a given relativizer within RC (and, importantly, also in
-non-RC) constructions contributes to children’s proﬁciency of diﬀerent RC
+non-RC) constructions contributes to children’s proficiency of different RC
 structures, and (b) the syntactic function of the relativized element alone does
-not determine the diﬃculty associated with comprehending and repeating
+not determine the difficulty associated with comprehending and repeating
 those structures. It seems to be that, in Finnish, subject, object, and oblique
-RCs are more or less equally easy/diﬃcult to comprehend and produce, but
-that the diﬃculty associated with some structures seems to be created largely
+RCs are more or less equally easy/difficult to comprehend and produce, but
+that the difficulty associated with some structures seems to be created largely
 by the syntactic/lexical frequency and the complexity of the relativizer.
-
-S U P P L E M E N T A R Y M A T E R I A L S
-
-For supplementary material for this paper, please visit http://dx.doi.org/.
-/S.
-
-R E F E R E N C E S
-
-Abbot-Smith, K. & Behrens, H. (). How known constructions inﬂuence the acquisition
-of other constructions: the German passive and future constructions. Cognitive Science ,
-–.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-Adani, F. (). Rethinking the acquisition of relative clauses in Italian: towards a
-
-grammatically based account. Journal of Child Language , –.
-
-Arnon, I. (). Rethinking child diﬃculty: the eﬀect of NP type on children’s processing of
-
-relative clauses in Hebrew. Journal of Child Language , –.
-
-Baayen, H. (). Analyzing linguistic data: a practical introduction to statistics using R.
-
-Cambridge: Cambridge University Press.
-
-Baayen, R. H., Davidson, D. J. & Bates, D. M. (). Mixed-eﬀects modeling with crossed
-
-random eﬀects for subjects and items. Journal of Memory and Language , –.
-
-Bates, E. & MacWhinney, B. (). Competition, variation, and language learning. In
-language acquisition, –. Hillsdale, NJ:
-
-B. MacWhinney (ed.), Mechanisms of
-Lawrence Erlbaum.
-
-Bates, E. & MacWhinney, B. (). Functionalism and the competition model. In
-B. MacWhinney & E. Bates (eds), The crosslinguistic study of sentence processing, –.
-Cambridge: Cambridge University Press.
-
-Bates, D. M. & Maechler, M. (). lme: linear mixed-eﬀects models using S classes. R
-
-package version –, online: <http://lme.r-forge.r-project.org>.
-
-Boyle, W., Lindell., A. K. & Kidd, E. (). Investigating the role of verbal working
-
-memory in young children’s sentence comprehension. Language Learning , –.
-
-Brandt, S., Diessel, H. & Tomasello, M. (). Acquisition of German relative clauses: a case
-
-study. Journal of Child Language , –.
-
-Brandt, S., Kidd, E., Lieven, E. & Tomasello, M. (). The discourse bases of
-relativization: an investigation of young German- and English-speaking children’s
-comprehension of relative clauses. Cognitive Linguistics , –.
-
-Cameron-Faulkner, T., Lieven, E. V. M. & Theakston, A. L. (). What part of no do
-children not understand? A usage-based account of multiword negation. Journal of Child
-Language , –.
-
-Carreiras, M., Duñabeitia, J. A., Vergara, M., de la Cruz-Pavía, I. & Laka, I. (). Subject
-relative clauses are not universally easier to process: evidence from Basque. Cognition ,
-–.
-
-Chan, A., Matthews, S. & Yip, V. (). The acquisition of relative clauses in Cantonese and
-Mandarin. In E. Kidd (ed.), Acquisition of relative clauses: processing, typology, and function,
-–. Amsterdam: John Benjamins.
-
-Chen, J. & Shirai, Y. (). The acquisition of relative clauses in spontaneous child speech in
-
-Mandarin Chinese. Journal of Child Language , –.
-
-Comrie, B. (). Rethinking the typology of relative clauses. Language Design , –.
-Courtney, E. H. (). Adult and child production of Quechua relative clauses. First
-
-Language , –.
-
-de Villiers, J. G., Tager Flusberg, H. B., Hakuta, K. & Cohen, M. (). Children’s
-
-comprehension of relative clauses. Journal of Psycholinguistic Research , –.
-
-Diessel, H. (). The acquisition of complex sentences. Cambridge: Cambridge University
-
-Press.
-
-Diessel, H. (). On the role of frequency and similarity in the acquisition of subject and
-non-subject relative clauses. In T. Givón & M. Shibatani (eds), Syntactic complexity,
-–. Amsterdam: John Benjamins.
-
-Diessel, H. & Tomasello, M. (). The development of relative clauses in spontaneous child
-
-speech. Cognitive Linguistics (/), –.
-
-Diessel, H. & Tomasello, M. (). A new look at the acquisition of relative clauses.
-
-Language , –.
-
-Ellis, N. C. (). Constructions, chunking, and connectionism: the emergence of second
-language structure. In C. Doughty & M. H. Long (eds), Handbook of second language
-acquisition, –. Oxford: Blackwell.
-
-Fox, B. A. & Thompson, S. A. (). A discourse explanation of the grammar of relative
-
-clauses in English conversation. Language , –.
-
-Friedmann, N., Belletti, A. & Rizzi, L. (). Relativized relatives: types of intervention in
-
-the acquisition of A-bar dependencies. Lingua , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-Goodluck, H. (). Object extraction is not suitable to Child Relativized Minimality.
-
-Lingua , –.
-
-Gordon, P. C., Hendrick, R. & Johnson, M. (). Memory interference during language
-processing. Journal of Experimental Psychology: Learning, Memory, and Cognition ,
-–.
-
-Gordon, P. C., Hendrick, R. & Johnson, M. (). Eﬀects of noun phrase type on sentence
-
-complexity. Journal of Memory and Language , –.
-
-Guasti, M. T., Stavrakaki, S. & Arosio, F. (). Crosslinguistic diﬀerences and similarities
-in the acquisition of relative clauses: evidence from Greek and Italian. Lingua , –.
-Gutierrez-Mangado, M. J. (). Children’s comprehension of relative clauses in an ergative
-
-language: the case of Basque. Language Acquisition , –.
-
-Hakulinen, A., Vilkuna, M., Korhonen, R., Koivisto, V., Heinonen, T. R. & Alho, I. ().
-Iso suomen kielioppi [The large grammar of Finnish]. Helsinki: Suomalaisen Kirjallisuuden
-Seura.
-
-Huttenlocher, J., Vasilyeva, M., Cymerman, E. & Levine., S. (). Language input and
-
-child syntax. Cognitive Psychology , –.
-
-Jaeger, T. F. (). Categorical data analysis: away from ANOVAs (transformation of not)
-
-and towards logit mixed models. Journal of Memory and Language , –.
-
-Kas, B. & Lukács, Á. (). Processing relative clauses by Hungarian typically developing
-
-children. Language and Cognitive Processes , –.
-
-Kauppinen, A. (). Mikon kielioppia:  vuoden  kuukauden ikäisen pojan kielestä ja sen
-kehittymisestä vuoden aikana [Mikko’s grammar: one  year and  month old boy’s
-language and its development over a one year period]. Unpublished licentiate thesis,
-University of Helsinki, Department of Finnish Language.
-
-Keenan, E. & Comrie, B. (). Noun phrase accessibility and universal grammar. Linguistic
-
-Inquiry , –.
-
-Kidd, E. (ed.) (). The acquisition of relative clauses: processing, typology, and function.
-
-Amsterdam: John Benjamins.
-
-Kidd, E., Brandt, S., Lieven, E. & Tomasello, M. (). Object relatives made easy: a
-cross-linguistic comparison of the constraints inﬂuencing young children’s processing of
-relative clauses. Language and Cognitive Processes , –.
-
-Kidd, E., Lieven, E. V. M. & Tomasello, M. (). Examining the role of lexical frequency
-in the acquisition and processing of sentential complements. Cognitive Development ,
-–.
-
-Kirjavainen, M. & Lieven, E. (). The acquisition of relative clauses in Finnish; the eﬀect
-of input. In E. Kidd (ed.), Acquisition of relative clauses: processing, typology, and function,
-–. Amsterdam: John Benjamins.
-
-Kirjavainen, M., Theakston, A. & Lieven, E. (). Can input explain children’s me-for-I
-
-errors? Journal of Child Language , –.
-
-Krajewski, G., Lieven, E. V. M. & Theakston, A. L. (). Productivity of a Polish child’s
-
-inﬂectional noun morphology: a naturalistic study. Morphology , –.
-
-Krajewski, G., Theakston, A. L., Lieven, E. V. M. & Tomasello, M. (). How Polish
-children switch from one case to another when using novel nouns: challenges for models
-of inﬂectional morphology. Language and Cognitive Processes , –.
-
-Laaksonen, K. & Lieko, A. (). Suomen kielen äänne- ja muoto-oppi [Finnish language
-
-phonology and morphology]. Helsinki: Oy Finn Lectura Ab.
-
-Lieko, A. (). The development of complex sentences: a case study of Finnish. Helsinki:
-
-Suomalaisen Kirjallisuuden Seura.
-
-Lust, B., Flynn, S. & Foley, C. (). What children know about what they say: elicited
-imitation as a research method for assessing children’s syntax. In D. McDaniel,
-C. McKee & H. Smith Cairns (eds), Methods for assessing children’s syntax, –.
-London: MIT Press.
-
-Lyytinen, P. (). Varhaisen kommunikaation ja kielenkehityksen arviointimenetelmä [Early
-communication and language development assessment method]. Jyväskylä: Niilo Mäki
-Instituutti & Jyväskylän Yliopiston Lapsitutimuskeskus.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-K I R J AVA I N E N E T A L.
-
-MacWhinney, B. (). The CHILDES project. Hillsdale, NJ: Erlbaum.
-Mak, W. M., Vonk, W. & Schriefers, H. (). The inﬂuence of animacy on relative clause
-
-processing. Journal of Memory and Language , –.
-
-Mak, M. M., Vonk, W. & Schriefers, H. (). Animacy in processing relative clauses: the
-
-hikers that rocks crush. Journal of Memory and Languagem , –.
-
-O’Grady, W. (). Syntactic carpentry: an emergentist approach to syntax. Mahwah, NJ:
-
-Erlbaum.
-
-O’Grady, W. (). Relative clauses: processing and acquisition. In E. Kidd (ed.),
-Acquisition of relative clauses: processing, typology, and function, –. Amsterdam: John
-Benjamins.
-
-Ozeki, H. & Shirai, Y. (). The consequences of variation in the acquisition of relative
-clauses: an analysis of longitudinal production data from ﬁve Japanese children. In
-Y. Matsumoto, D. Oshima, O. Robinson & P. Sells (eds), Diversity in language:
-perspectives and implications, –. Stanford, CA: CSLI Publications.
-
-Pine, J. & Lieven, E. (). Slot and frame patterns and the development of the determiner
-
-category. Applied Psycholinguistics , –.
-
-R Core Development Team (). R: A language and environment for statistical computing.
-R Foundation for Statistical Computing, Vienna, Austria. ISBN ---, online:
-<http://www.R-project.org/>.
-
-Rahmany, R., Marefat, H. & Kidd, E. (). Persian-speaking children’s acquisition of
-
-relative clauses. European Journal of Developmental Psychology , –.
-
-Rizzi, L. (). Relativized minimality. Cambridge, MA: MIT Press.
-Rowland, C. (). Explaining errors in children’s questions. Cognition  –.
-Slobin, D. I. & Bever., T. G. (). A crosslinguistic study of word order and inﬂections.
-
-Cognition , –.
-
-Suzuki, T. (). A case-marking cue for ﬁller–gap dependencies in children’s relative
-
-clauses in Japanese. Journal of Child Language , –.
-
-Toivanen, J. (). The acquisition of Finnish. In D. Slobin (ed.), The crosslinguistic study of
-language acquisition, vol. , –. Mahwah, NJ: Lawrence Erlbaum Associates Inc.
-Publishers.
-
-Tomasello, M. (). Constructing a language; a usage-based theory of language acquisition.
-
-London: Harvard University Press.
-
-Warren, T. & Gibson, E. (). The inﬂuence of referential processing on sentence
-
-complexity. Cognition , –.
-
-APPENDIX
-
-TABLE B.
-Please see http://dx.doi.org/./S.
-TABLE C.
-Please see http://dx.doi.org/./S.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-R E L A T I V E C L A U S E A C Q U I S I T I O N I N F I N N I S H
-
-TA B L E A. Frequencies of the relative pronouns in our corpus child’s data that
-
-were used in our experimental materials
-
-Pronoun
-
-Function Animacy
-
-Overall
-freq
-
-% of all word
-tokens
-
-% of all
-relativizer use
-
-kuka
-mikä
-mitä
-mitä
-kenelle
-missä
-kenen
-kanssa
-minkä
-sisään
-
-SUBJ
-SUBJ
-OBJ
-OBJ
-OBL
-OBL
-OBL
-
-OBL
-
-animate
-inanimate
-animate
-inanimate
-animate
-inanimate
-animate
-
-inanimate
-
-
-
-
-
-
-
-
-
-
-
-·%
-·%
-·%
-·%
-<·%
-·%
-·%
-
-·%
-
-%
-%
-%
-%
-%
-%
-%
-
-%
-
-TA B L E D. The frequency of head nouns used in Study  relative to all word
-
-tokens in the Kirjavainen-Max Planck corpus
-
-SUBJ-ani
-
-SUBJ-inani
-
-OBJ-ani
-
-OBJ-inani
-
-OBL-ani
-
-OBL-inani
-
-OBL-ani
-
-OBL-inani
-
-Noun
-
-Täti
-Setä
-Poika
-Mummo
-Laiva
-Kynä
-Mehu
-Auto
-Kana
-Lintu
-Koira
-Pupu
-Kakku
-Auto
-Ruoka
-Talo
-Tyttö
-Lapsi
-Pappa
-Vauva
-Talo
-Kauppa
-Sänky
-Kuppi
-Kissa
-Pöllö
-Possu
-Ankka
-Paita
-Sukka
-Kauppa
-Kaappi
-
-Gloss
-
-Lady
-Man
-Boy
-Granny
-Ship
-Pen
-Juice
-Car
-Chicken
-Bird
-Dog
-Rabbit
-Cake
-Car
-Food
-House
-Girl
-Child
-Granddad
-Baby
-House
-Shop
-Bed
-Cup
-Cat
-Owl
-Pig
-Duck
-Shirt
-Sock
-Shop
-Cupboard
-
-
-
-Frequency
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000768
-
-

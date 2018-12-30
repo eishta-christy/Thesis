@@ -1,40 +1,3 @@
-Applied Psycholinguistics 38 (2017), 1071–1094
-doi:10.1017/S0142716417000042
-
-Simple morphological spelling rules
-are not always used: Individual
-differences in children and adults
-
-NENAGH KEMP
-University of Tasmania
-
-PAUL MITCHELL
-Nottingham Trent University
-
-PETER BRYANT
-University of Oxford
-
-Received: December 3, 2015
-
-Accepted for publication: December 18, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Nenagh Kemp, Division of Psychology, School of Medicine, University of Tasmania,
-Locked Bag 30, Hobart 7001, Tasmania, Australia. E-mail: nenagh.kemp@utas.edu.au
-
-ABSTRACT
-The English spelling system has a variety of rules and exceptions, but both theoretical and empirical
-accounts have generally concluded that by about age 9 or 10, children master the morphological rule
-that regular plural nouns (e.g., socks) and third-person singular present verbs (e.g., lacks) are spelled
-with the inﬂectional ending –s. In three experiments, however, we found that when forced to rely
-exclusively on morphological cues, only a minority of primary school children, secondary school
-children, and even adults performed signiﬁcantly above chance at choosing the appropriate spelling for
-novel words presented as inﬂected or uninﬂected nouns and verbs. Further, signiﬁcantly above-chance
-performance was more common in adults who had attended school until age 18, compared to age
-16. We conclude that many spellers, especially those who do not go on to tertiary education, never
-learn some simple morphological spelling rules, and instead rely on a store of individual word-speciﬁc
-spellings.
-
 The English spelling system is notoriously difﬁcult to master, because as well as
 having regular relationships between sounds and spelling (e.g., the sound [z] is
 written as z, as in zoo or quiz), it also has numerous inconsistent and irregular
@@ -45,14 +8,6 @@ can be conditioned by their position in a word, and/or by their adjacent letters
 (e.g., word-initial [kh] is usually written c before a, o, and u, but k before e and
 i). In other cases, a word’s morphological structure can inﬂuence its spelling. For
 example, a word’s inﬂectional ending can determine the spelling of its last few
-
-© Cambridge University Press 2017 0142-7164/17
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1072
-
 letters, regardless of its pronunciation. This can lead to different spellings for the
 endings for words such as purest (a superlative) and purist (a person), but the
 same spellings for the endings for words such as laughed and smiled (both regular
@@ -75,8 +30,7 @@ differences in the application of two seemingly simple morphological spelling
 rules, by participants in primary school, secondary school, and adulthood.
 
 CONVENTIONAL ASSUMPTIONS ABOUT THE ACQUISITION
-OF INFLECTIONAL ENDINGS
-
+OF INFLECTIONAL ENDINGS.
 Conventional stage-based models of English spelling development hold that chil-
 dren learn to spell simple inﬂectional endings such as –s, –ed, –er, and –ing by
 about the age of 9 to 10 years (Ehri, 1986, 1992, 1997; Frith, 1985; Gentry, 1982;
@@ -102,12 +56,6 @@ fourth-grade participants spelled plural noun inﬂections correctly, and Sterli
 from children’s store of rote-learned orthographic forms. It is therefore important
 also to test the spelling of novel words, whose orthographic representation cannot
 be retrieved from memory. For example, Beers and Beers (1992) asked children
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1073
-
 in school Grades 1 to 6 to spell inﬂected pseudowords such as guds, and found
 that the correct use of the plural inﬂection –s was very similar across grade levels,
 but not at ceiling (approximately 80%).
@@ -127,8 +75,7 @@ acquisition was also shown to occur in the spelling of pseudowords (Nunes, Bryan
 ﬁndings suggest that without directly contrasting uninﬂected and inﬂected word
 forms, the ability to spell inﬂected endings correctly can be easily overestimated.
 
-LEARNING TO SPELL THE INFLECTIONAL ENDING –s
-
+LEARNING TO SPELL THE INFLECTIONAL ENDING –s.
 The –s endings of regular plural nouns and third-person singular verbs constitute
 two of the simplest spelling rules in English (especially when applied to one-
 syllable words, as in most of the research). To reiterate, regular plural (inﬂected)
@@ -157,12 +104,6 @@ wrong. There is now robust evidence that humans can, and do, learn all kinds of
 patterns from their environment without direct instruction, including the spellings
 for certain sounds (e.g., Thompson, Fletcher-Flinn, & Cottrell, 1999), but also
 quite complex statistical patterns of letter co-occurrence (e.g., Hayes, Treiman, &
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1074
-
 Kessler, 2006; Pollo, Treiman, & Kessler, 2009; Treiman & Kessler, 2006). Thus,
 such words could conceivably be spelled correctly with a ﬁnal –s on the basis of
 people’s sensitivity to the frequency with which letters co-occur, without a thought
@@ -188,8 +129,7 @@ that child and adult spellers do not consistently use the morphology-based plura
 rule when confronted with new words, and instead may rely on statistical patterns
 of letter co-occurrence.
 
-EDUCATIONAL LEVEL DIFFERENCES
-
+EDUCATIONAL LEVEL DIFFERENCES.
 One unexpected ﬁnding from Kemp and Bryant’s (2003) was that the adult par-
 ticipants who had been to university performed signiﬁcantly better than adults
 who had not. It is not unsurprising that those who go on to tertiary education
@@ -212,12 +152,6 @@ students did so.
 It is difﬁcult to compare these ﬁndings to those of previous studies, as there
 is a dearth of research on spelling and morphological knowledge in adults who
 are not reading disabled, but who are also not at university. Numerous researchers
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1075
-
 have investigated various aspects of spelling (e.g., Coleman, Gregg, McLain, &
 Bellair, 2009; Greenberg, Ehri, & Perin, 2002; Kemp, Parrila, & Kirby, 2009) and
 morphological processing (e.g., Leikin & Hagit, 2006; Raveh & Schiff, 2008) in
@@ -236,8 +170,7 @@ It is therefore essential to test the spelling and morphological knowledge of th
 majority group, not just from those at university, if we are to draw conclusions
 that are relevant to a wider range of adults.
 
-THE PRESENT STUDIES
-
+THE PRESENT STUDIES.
 The aim of the studies presented here was to assess knowledge of the rules about
 spelling plural noun and third-person singular verb –s in children at primary
 school, secondary school, and in a group of young adults who had not been to
@@ -264,17 +197,10 @@ perform above chance at choosing the correct type of spelling. We predicted that
 in each age group tested, there would be a group of participants who knew and
 used the rules under study, and a group who did not. In general, those who know
 the rule should perform consistently above chance on the pseudowords whose
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1076
-
 spelling they are asked to choose. Those who do not know the rule should perform
 around chance level.
-
-EXPERIMENT 1: PRIMARY SCHOOL CHILDREN
-
+<Middle>
+EXPERIMENT 1: PRIMARY SCHOOL CHILDREN.
 In this ﬁrst experiment, we looked at the ability to choose the morphologically
 appropriate spelling for pseudowords presented as inﬂected and uninﬂected verbs
 and nouns, in children in British school years 4 to 6 (aged 8–11 years). According
@@ -290,8 +216,7 @@ the ﬁndings of research conducted with British teachers around the same time,
 which revealed that the vast majority had no explicit knowledge of morphology
 themselves (Hurry, Curno, Parker, & Pretzlik, 2006; Hurry et al., 2005).
 
-Method
-
+Method.
 Participants. Participants were 317 British children (162 boys, 155 girls) in
 school years 4 to 6, at four government-funded primary schools in a middle-class
 area of Southeast England. The children had a mean age of 9.8 years, and a range of
@@ -299,7 +224,6 @@ area of Southeast England. The children had a mean age of 9.8 years, and a range
 to English.
 
 Materials.
-
 GENERAL SPELLING. General spelling ability was measured by asking children
 to spell to dictation the ﬁrst 15 words of the spelling subtest of the Wide Range
 Achievement Test—Third Version (WRAT-3; Wilkinson, 1993), which increase
@@ -317,12 +241,6 @@ as described below. Each real word appeared twice in a sentence; once in inﬂec
 form (as a plural noun, e.g., boxes, or a third-person singular verb, e.g., sacks),
 and once in uninﬂected form (as a singular noun, e.g., box, or ﬁrst-person singular
 verb, e.g., sack). Each form could occur ﬁrst or second in the sentence. These
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1077
-
 sentences were read aloud by the researcher (e.g., We need some large boxes.
 Have you got a spare box? or Here is another sack. Can you carry two sacks?).
 For each target form, participants saw two possible spellings, one correct (e.g.,
@@ -370,70 +288,6 @@ young children to each make spelling decisions about all 120 pseudoword pairs,
 and so each child was administered just 30 pairs, consisting of 30 [ks] nouns, or
 30 [ks] verbs, or 30 [z] nouns, or 30 [z] verbs (counterbalanced across schools
 and year groups). The presentation order of the 30 pseudoword pairs, combined
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1078
-
-Table 1. Means (standard deviations) for primary school children’s general spelling
-(raw scores), and real word and VC[z] pseudoword orthographic choice (proportions)
-
-[ks] Noun
-Group
-(n = 80)
-
-[ks] Verb
-Group
-(n = 80)
-
-[z] Noun
-Group
-(n = 85)
-
-[z] Verb
-Group
-(n = 72)
-
-Overall
-(n = 317)
-
-11.01 (3.87) 11.61 (2.94) 12.18 (2.85) 12.53 (2.63) 11.82 (3.15)
-
-0.84 (0.19)
-
-0.80 (0.18)
-
-0.91 (0.11)
-
-0.84 (0.20)
-
-0.85 (0.18)
-
-0.75 (0.22)
-
-0.64 (0.28)
-
-0.87 (0.15)
-
-0.79 (0.19)
-
-0.76 (0.23)
-
-General spelling
-
-(15 items)
-
-Real word orth
-
-choice (10 items)
-
-VC[z] orth choice
-
-(10 items)
-
-Note: General spelling score out of 15.
-
 with the 10 real-word pairs and the 10 VC[z] pseudoword pairs, was randomized
 to generate four separate 50-item sequences. The experimenter explained, “We
 are going to do some work with made-up words. We call these made-up words
@@ -457,8 +311,7 @@ response sheet was counterbalanced. An example item is given below.
 (Seen) Choose spelling: glox (cid:2)
 glocks (cid:2)
 
-Results and discussion
-
+Results and discussion.
 Group means. To gain an overall view of children’s performance, we ﬁrst con-
 sidered the group means for the test of general spelling, and for the orthographic
 choice tests of the real words and the VC[z] pseudowords, shown in Table 1. Over-
@@ -467,118 +320,6 @@ that as a group, participants grasped the task requirement of selecting the corr
 one of two spellings for a single heard word. When presented with a choice of
 spellings for the VC[z] pseudowords, children performed quite well overall, which
 suggests that they, like children in previous studies, were sensitive to the fact that
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1079
-
-Table 2. Mean proportions (standard deviations) of primary school children’s correct
-pseudoword orthographic choices across age groups
-
-Age
-
-8
-9
-10
-
-Overall
-
-n
-
-73
-103
-141
-317
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Overall
-
-0.69 (0.14)
-0.69 (0.14)
-0.69 (0.16)
-0.69 (0.15)
-
-0.67 (0.19)
-0.62 (0.11)
-0.64 (0.14)
-0.64 (0.14)
-
-0.57 (0.11)
-0.63 (0.14)
-0.66 (0.17)
-0.63 (0.15)
-
-0.52 (0.14)
-0.61 (0.14)
-0.61 (0.17)
-0.59 (0.17)
-
-0.62 (0.16)
-0.64 (0.14)
-0.65 (0.16)
-0.64 (0.16)
-
-Note: Each child completed 30 items of one sound/word type combination.
-
-Table 3. Percentage (number) of primary school children in each age group who
-performed signiﬁcantly above chance on pseudoword orthographic choice
-
-Age
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Overall [5% CIs]
-
-8
-9
-10
-
-Overall
-
-40.0 (8)
-48.0 (12)
-45.7 (16)
-
-45.0
-
-33.3 (7)
-33.3 (9)
-34.4 (11)
-
-33.8
-
-23.5 (4)
-34.4 (11)
-47.2 (17)
-
-37.6
-
-0.0 (0)
-21.1 (4)
-26.3 (10)
-
-19.4
-
-26.0 [16.0–36.0]
-35.0 [25.8–44.2]
-38.3 [30.3–46.3]
-
-34.4
-
 [z] after a voiced consonant is virtually always spelled –s. The 55 children who
 knew an additional language to English did not differ signiﬁcantly from the rest
 on any of these initial tasks (all ps > .05). Their data were therefore retained for
@@ -603,12 +344,6 @@ who scored ࣙ21 out of 30 on their pseudoword category ([ks] nouns, [ks] verbs,
 for that category. Table 3 presents the percentage and number of participants of
 each age group who performed signiﬁcantly above chance for each category. We
 also checked for potential sex differences, but saw very little difference between
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1080
-
 the percentage of boys (38.3%) and girls (36.8%) who performed signiﬁcantly
 above chance.
 
@@ -660,12 +395,6 @@ spelling models, which suggest that simple inﬂectional endings should be large
 mastered by this stage. Previous research has shown an improvement in spelling
 pseudowords’ inﬂectional endings from the primary school years to adulthood
 (Kemp & Bryant, 2003). In the present study, the likelihood of above-chance
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1081
-
 performance did not improve signiﬁcantly with age, but it did improve with
 general spelling ability. This was unexpected, as age and spelling ability are
 correlated. In this sample, however, the variation in spelling skill with age must
@@ -674,8 +403,7 @@ held only with spelling ability. In our second experiment, we asked secondary
 school students, who were both older and more experienced with spelling, to
 complete the same tasks.
 
-EXPERIMENT 2: SECONDARY SCHOOL CHILDREN
-
+EXPERIMENT 2: SECONDARY SCHOOL CHILDREN.
 Conventional models of spelling development, as well as empirical data, suggest
 that knowledge of morphology-based spelling patterns, like knowledge of other
 aspects of written language, develops with age and with exposure to written text.
@@ -685,8 +413,7 @@ of the spellings of inﬂected and uninﬂected endings of pseudoword nouns and
 verbs. Like the children in Experiment 1, they had received no explicit instruction
 in morphology or morphology-based spelling patterns.
 
-Method
-
+Method.
 Participants. Participants were 190 British children (98 boys, 92 girls) in school
 years 7 to 9, with a mean age of 12.9 years, and a range of 11.4 to 14.7 years.
 Because there were relatively few 11-year-olds (n = 23) and 14-year-olds (n =
@@ -697,7 +424,6 @@ expectations, in the same area as the primary schools visited for Experiment 1.
 Forty-two (22%) of these children spoke an additional language to English.
 
 Materials.
-
 GENERAL SPELLING. General spelling ability was measured by asking children
 to spell to dictation the ﬁrst 25 words of the WRAT-3 (Wilkinson, 1995), which
 increase in difﬁculty. Again, time constraints on testing prevented the test being
@@ -713,33 +439,6 @@ administered.
 
 MAIN PSEUDOWORD ORTHOGRAPHIC CHOICE TASK. The set of 120 pseu-
 doword pairs and sentences from Experiment 1 was used in this study.
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1082
-
-Table 4. Means (standard deviations) for secondary school children’s general spelling
-(raw scores out of 25) and real word spelling (proportions)
-
-General spelling (25 items)
-Real word orth choice (20 items)
-
-Noun Group
-(n = 92)
-19.79 (3.63)
-0.92 (0.13)
-
-Verb Group
-(n = 98)
-20.23 (3.81)
-0.92 (0.11)
-
-Overall
-(n = 190)
-19.98 (3.70)
-0.92 (0.12)
-
 Procedure. Participants were tested at their school, with two classes from each
 school year tested together, in groups of 60–65. They completed the 25-word
 general spelling test to dictation. Because these older children were capable of
@@ -752,8 +451,7 @@ generate four separate 80-item sequences. Children were asked to tick the box th
 they thought corresponded to the more suitable spelling of the second form of the
 target, with instructions as in Experiment 1.
 
-Results and discussion
-
+Results and discussion.
 Group means. Children’s scores for the test of general spelling, and of their
 spelling of the experimental real words, are shown in Table 4. As half the children
 were presented with orthographic choices about nouns, and half about verbs, the
@@ -778,103 +476,6 @@ quite low.
 Individual performance. Our main aim was to consider individual performance.
 The number of participants who had performed above chance (at least 21 out of
 30) on each of the pseudoword categories was calculated, as shown in Table 6.
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1083
-
-Table 5. Means (standard deviations) for secondary school children’s spelling
-of pseudowords across age groups
-
-Age
-
-11–12
-13–14
-Total
-
-n
-
-97
-93
-190
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Total
-
-0.74 (0.16)
-0.69 (0.15)
-0.72 (0.18)
-
-0.59 (0.14)
-0.71 (0.19)
-0.65 (0.18)
-
-0.69 (0.16)
-0.65 (0.16)
-0.67 (0.16)
-
-0.61 (0.13)
-0.70 (0.16)
-0.65 (0.15)
-
-0.65 (0.15)
-0.69 (0.15)
-0.67 (0.15)
-
-Note: Each child completed 60 nouns or 60 verbs.
-
-Table 6. Percentage (numbers) of secondary school children in each age group who
-performed signiﬁcantly above chance on pseudoword orthographic choice
-
-Age
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Overall [5% CIs]
-
-11–12
-13–14
-Total
-
-53.2 (25)
-64.4 (29)
-
-58.7
-
-24.0 (12)
-58.3 (28)
-
-40.8
-
-44.7 (21)
-44.4 (20)
-
-44.6
-
-22.0 (11)
-47.9 (23)
-
-34.7
-
-35.6 [26.1–45.1]
-53.8 [43.7–63.9]
-
-44.7
-
 For each pseudoword type, we identiﬁed a group who had performed signiﬁcantly
 above chance. In most cases, the above-chance group constituted the minority of
 the sample, and the overall percentage of children who performed above chance
@@ -902,11 +503,6 @@ word type (p = .031), and word ending (p = .012), but not by sex or age group
 ically, children improved signiﬁcantly with each extra word spelled correctly on
 the general spelling task (OR = 1.35), and were nearly twice as likely to perform
 above chance on pseudowords presented as nouns than as verbs (OR = 1.75) and
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1084
 on pseudowords ending in [ks] than in [z] (OR = 1.89). As in Experiment 1, these
 variations across pseudoword types and ending sounds suggest that participants
 were not simply applying morphological rules when making spelling choices.
@@ -921,8 +517,7 @@ with relatively high academic standards, and might have shown better performance
 than would be seen in other schools. Nevertheless, we would expect to see further
 improvement in an adult sample. This was the focus of our ﬁnal experiment.
 
-EXPERIMENT 3: ADULTS
-
+EXPERIMENT 3: ADULTS.
 In this third experiment, we presented the same set of pseudowords to an adult
 sample. Previous evidence suggests that the ability to correctly spell these kinds of
 pseudoword is nearly ubiquitous in undergraduates but substantially rarer in those
@@ -948,51 +543,18 @@ to have much higher academic and literacy skills than their nonuniversity peers.
 Thus, we felt that at least some generalizations could be made from Experiment
 3’s participants to the general population.
 
-Method
-
+Method.
 Participants. Participants were 95 young adults (84 male, 11 female) with a
 mean age of 21.5 years, and a range of 17 to 32 years. All had recently joined the
 British Armed Services as new recruits and were beginning training in a variety
 of skilled and semiskilled occupations. The participants had completed school up
 until at least the age of 16 years; all had completed their General Certiﬁcate of
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1085
-
-Table 7. Means (standard deviations) for adults’ general spelling (raw scores out of 40),
-and real word and VC[z] pseudoword orthographic choice (proportions)
-
-General spelling (40 items)
-Real word orth choice (20 items)
-VC[z] pseudoword orth choice (20 items)
-
-GCSE
-(n = 73)
-23.44 (5.44)
-0.91 (0.12)
-0.57 (0.13)
-
-A-Level
-(n = 22)
-26.91 (4.77)
-0.94 (0.07)
-0.61 (0.18)
-
-Overall
-(n = 95)
-24.24 (5.47)
-0.92 (0.16)
-0.58 (0.14)
-
 Secondary Education (GCSE, completed during the ages of 14–16 years), and 22
 had also taken A-level exams (General Certiﬁcate of Education Advanced Level,
 taken during the ages of 16–18 years), but none had attended university. English
 was the ﬁrst language for all but 3 participants in the sample.
 
 Materials.
-
 GENERAL SPELLING ABILITY. General spelling ability was measured by ad-
 ministering, to dictation, all 40 words of the WRAT-3, with raw scores reported
 here.
@@ -1015,107 +577,10 @@ verbs. The combination of sentences and pseudowords was systematically varied
 to control for any word-level effects. The sequence of presentation of the 20 real-
 word pairs, 16 VC[z] pseudoword pairs, and 120 [z] and [ks] pseudoword pairs
 was randomized to generate four separate 156-item sequences.
-
-Results and discussion
-
+Results and discussion.
 The mean numbers of correct spellings on the general spelling test, of correctly
 selected spellings of real words and of VC[z] pseudowords, for participants of
 the two education levels, are shown in Table 7. Participants did relatively well,
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1086
-
-Table 8. Means (standard deviations) for adults’ spelling of pseudowords (proportions)
-across education groups
-
-Education
-
-GCSE
-A-level
-Overall
-
-n
-
-73
-22
-95
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Overall
-
-0.64 (0.15)
-0.68 (0.17)
-0.65 (0.15)
-
-0.61 (0.13)
-0.70 (0.17)
-0.63 (0.14)
-
-0.59 (0.15)
-0.63 (0.19)
-0.60 (0.16)
-
-0.56 (0.13)
-0.63 (0.19)
-0.58 (0.15)
-
-0.60 (0.11)
-0.66 (0.16)
-0.62 (0.13)
-
-Note: All participants completed all 30 of each pseudoword type.
-
-Table 9. Percentage (numbers) of adults of each education level who performed
-signiﬁcantly above chance on pseudoword orthographic choice
-
-Education
-
-[ks] Noun
-
-[ks] Verb
-
-[z] Noun
-
-[z] Verb
-
-Overall [5% CIs]
-
-GCSE
-A-level
-Overall
-
-39.7 (29)
-63.6 (14)
-
-45.3
-
-24.7 (18)
-54.5 (12)
-
-31.6
-
-26.0 (19)
-31.8 (7)
-27.4
-
-21.9 (16)
-36.4 (8)
-25.3
-
-28.1 [17.8–38.4]
-46.6 [25.8–67.4]
-
-37.3
-
 although certainly not at ceiling, at choosing the appropriate spelling for the real
 words, which suggests that they understood the task requirements. On the VC[z]
 pseudowords, however, performance was quite low, suggesting that participants
@@ -1143,12 +608,6 @@ at around chance level, which suggests that they were not consistently following
 morphological rules. Their mean scores across pseudoword types were 16.7, 16.5,
 15.7, and 15.5, respectively. In contrast to the child samples, a greater percentage
 of women (36.4%) performed above chance than men (28.3%). However, this
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1087
-
 difference seems to be driven by the smaller group with A-levels (men 41.6%,
 women 56.3%), rather than the larger group with GCSEs (men 24.6%, women
 25.0%).
@@ -1188,21 +647,14 @@ choice tasks, across the three experiments: 34.4% of primary students, 44.7% of
 secondary students, and 37.3% of adults, as shown in Tables 3, 6, and 9. It con-
 ﬁrmed that the differences across the three groups did not reach signiﬁcance, χ2
 (2) = 5.47, p = .07.
-
-GENERAL DISCUSSION
-
+<Conclusion>
+GENERAL DISCUSSION.
 We examined the ability of primary school children, secondary school children,
 and adults of two different education levels to choose spellings for pseudowords
 presented as inﬂected and uninﬂected nouns and verbs. The rules about using
 –s for the inﬂected forms, and other spellings for the uninﬂected forms, are
 among the simplest in the English orthography. The sentence contexts highlighted
 the morphology of the target pseudowords by presenting them in both inﬂected
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1088
-
 and uninﬂected forms. However, we found that across the age groups tested,
 participants chose the morphologically appropriate spelling only about two-thirds
 of the time.
@@ -1254,12 +706,6 @@ use of the plural –s inﬂection than those without (Kemp & Bryant, 2003), and
 speciﬁcally, that the vast majority of university-educated adults perform above
 chance on this kind of pseudoword spelling task, while the vast majority of non-
 university-educated adults do not (Mitchell et al., 2011). We do not wish to imply
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1089
-
 that a longer education is what teaches people to understand and use simple
 morphological rules. Instead, we suggest that individuals who are more interested
 and skilled in the structure of written language are probably those who pick up on
@@ -1308,12 +754,6 @@ spellings that exist for real words ending in [ks]: they can be spelled with –
 with –s preceded by a representation of [k]. Real words ending in [z], however,
 can be spelled with –z, –zz, –ze, –se, or –s, and this range of possibilities may have
 made it more difﬁcult to choose the correct one of the two presented in the task.
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1090
-
 There was also a difference for pseudoword type. Both the primary and sec-
 ondary school children were more likely to perform above chance when choosing
 the endings for nouns than for verbs (a difference not seen in the adult sample).
@@ -1363,12 +803,6 @@ sentative of those of the general population than the responses of a traditional
 undergraduate sample would be. Future research in this area should aim to
 test an even greater variety of participants, to allow broader generalizations to
 be made.
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1091
-
 In sum, the present studies add to the ﬁndings that suggest that children, and
 even adults, may not know and apply apparently simple morphology-based rules in
 their spelling. On a practical level, the results emphasize the importance of testing
@@ -1383,238 +817,3 @@ need to consider individual, as well as overall, performance, and of the importa
 of looking beyond the university classroom, before drawing general conclusions
 about spelling ability, and particularly about the use of morphemes in spelling, in
 adults.
-
-APPENDIX A
-Real-word spelling pairs
-
-In Experiment 1, primary school children saw 10 [ks] or 10 [z] word pairs; in Experiments
-2 and 3, secondary school children and adults saw 10 [ks] and 10 [z] word pairs: fox/focks,
-bocks/box, hoax/hoacks, ﬁcks/ﬁx, wax/wacks, sacks/sax, lox/locks, trucks/trux, packs/pax,
-kicks/kix; breeze/brees, cheese/chees, blays/blaze, maze/mays, wheeze/whees, seaze/seas,
-zooze/zoos, beeze/bees, plays/plaze, and sways/swaze. (Note that in several cases the “incor-
-rect” choice did represent a possible word (e.g., sax, lox), but these words were nonsensical
-as well as morphologically inappropriate in the contexts given, and of much lower fre-
-quency than the correct choice, and thus it was considered unlikely that any participants
-would be confused by the potential alternative spellings.)
-
-VC[Z] [seudoword pairs
-
-In Experiment 1, primary school children saw a subset of 10 of these pseudoword
-pairs; in Experiment 3, adults saw all 16 pseudoword pairs: credze/creds, pleenze/pleens,
-stogs/stogze, broogze/broogs, clavs/clavze, troms/tromze, crunze/cruns, nargs/nargze, vinze/
-vins, veets/veetze, stoogze/stoogs, truds/trudze, lomze/loms, noogs/noogze, foomze/fooms,
-and chabs/chabze.
-
-Main pseudoword pairs
-
-In Experiment 1, primary school children saw 30 pseudoword pairs: all [ks] nouns, all
-[ks] verbs, all [z] nouns, or all [z] verbs; in Experiment 2, secondary school children
-saw 60 pseudoword pairs: either all [ks] and [z] nouns or all [ks] and [z] verbs; in
-Experiment 3, adults saw all 120 pseudoword pairs. Half the time the pseudowords were
-presented as nouns and verbs as listed here; half the time they were counterbalanced and pre-
-sented as verbs and nouns: [z] nouns: vaze/vays, moize/moys, droze/droes, heeze/hees, gruze/
-grues, preeze/prees, kaze/kays, fooze/foos, kroize/kroys, phoze/phoes, troze/troes, fruze/frues,
-skaze/skays, klaze/klays, vruze/vrues, stroze/stroes, zaze/zays, creeze/crees, greeze/grees,
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1092
-
-blize/blies, stuze/stues, cleeze/clees, taze/tays, pruze/prues, thaze/thays, veeze/vees, and
-pluze/plues. [z] verbs: skoize/skoys, smuze/smoos, dwaize/dways, kize/kies, deeze/dees, voze/
-voes, stoze/stoes, sreeze/srees, queeze/quees, smoize/smoys, kleeze/klees, druze/drues, dooze/
-doos, keeze/kees, speeze/spees, moze/moes, swuze/swues, veeze/vees, voize/voys, fruze/frues,
-dreeze/drees, glize/glise, broze/broes, blooze/bloos, steeze/stees, vuze/voos, gooze/goos,
-vraze/vrays, streeze/strees, and snaze/snays. [ks] nouns: snox/snocks, crex/crecks, drax/
-dracks, thex/thecks, frix/fricks, krux/krucks, drex/drecks, zix/zicks, glix/glicks, slox/slocks,
-thax/thacks, yox/yocks, grax/gracks, brux/brucks, blex/blecks, jex/jecks, grix/gricks, vox/
-vocks, quox/quocks, plax/placks, blux/blucks, plix/plicks, bix/bicks, frax/fracks, zax/zacks,
-jix/jicks, and swex/swecks. [ks] verbs: drux/drucks,
-prex/precks,
-glox/glocks, yax/yacks, trex/trecks, dax/dacks, yex/yecks, brox/brocks, dox/docks, blix/blicks,
-gax/gacks, crix/cricks, prex/precks, drox/drocks, prox/procks, grex/grecks, srix/sricks, prax/
-pracks, frex/frecks, srex/srecks, brax/bracks, yix/yicks, grux/grucks, plex/plecks, drix/dricks,
-swox/swocks, plox/plocks, strix/stricks, tex/tecks, skax/skacks, and trox/trocks.
-
-tox/tocks, gox/gocks,
-
-ACKNOWLEDGMENTS
-We thank the school students and the new recruits to the British military services who took
-part in these studies. We are also grateful to the school staff and parents, and to the military
-services, for allowing us to administer our tasks to these participants.
-
-REFERENCES
-Beers, C. S., & Beers, J. W. (1992). Children’s spelling of English inﬂectional morphology. In S. Tem-
-pleton & D. R. Bear (Eds.), Development of orthographic knowledge and the foundations
-of literacy: A memorial Festschrift for Edmund H. Henderson (pp. 231–252). Hillsdale, NJ:
-Erlbaum.
-
-Bourassa, D. C., Beaupre, J., & MacGregor, K. (2011). Fourth graders’ sensitivity to morphological
-context in spelling. Canadian Journal of Experimental Psychology, 65, 109–114. doi:10.1037/
-a0021852
-
-Brown, R. (1973). A ﬁrst language. Cambridge, MA: Harvard University Press.
-Bryant, P., & Nunes, T. (2008). Morphemes, spelling, and development: Comments on “The timing
-and mechanisms of children’s use of morphological information in spelling” by S. Pacton and
-H. Deacon. Cognitive Development, 23, 360–369. doi:10.1016/j.cogdev.2007.11.003
-
-Burt, J. S., Salzgeber, A., & Carroll, M. F. (2013). Spelling recognition after exposure to misspellings:
-Implications for abstractionist vs. episodic theories of orthographic representations. Acta Psy-
-chologica, 142, 383–393. doi:10.1016/j.actpsy.2013.01.015
-
-Coleman, C., Gregg, N., McLain, L., & Bellair, L. W. (2009). A comparison of spelling performance
-across young adults with and without dyslexia. Assessment for Effective Intervention, 34,
-94–105. doi:10.1177/1534508408318808
-
-Coltheart, M. (1981). The MRC psycholinguistic database. Quarterly Journal of Experimental Psy-
-
-chology, 33, 497–505. doi:10.1080/14640748108400805
-
-de Villiers, J. G., & de Villiers, P. A. (1973). A cross-sectional study of the acquisition of grammatical
-morphemes in child speech. Journal of Psycholinguistic Research, 2, 267–278. doi:10.1007/
-BF01067106
-
-Ehri, L. C. (1986). Sources of difﬁculty in learning to read and spell. In M. L. Wolraich & D. Routh
-(Eds.), Advances in developmental and behavioural pediatrics (Vol. 7, pp. 121–195). Green-
-wich, CT: JAI.
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1093
-
-Ehri, L. C. (1992). Review and commentary: Stages of spelling development. In S. Templeton &
-D. R. Bear (Eds.), Development of orthographic knowledge and the foundations of literacy: A
-memorial Festschrift for Edmund H. Henderson (pp. 307–332). Hillsdale, NJ: Erlbaum.
-
-Ehri, L. C. (1997). Learning to read and learning to spell are one and the same, almost. In C. A. Per-
-fetti, L. Rieben, & M. Fayol (Eds.), Learning to spell: Research, theory, and practice across
-languages (pp. 237–269). Mahwah, NJ: Erlbaum.
-
-Frith, U. (1985). Beneath the surface of developmental dyslexia. In K. Patterson, M. Coltheart, &
-
-J. Marshall (Eds.), Surface dyslexia (pp. 301–330). London: Erlbaum.
-
-Gentry, J. R. (1982). An analysis of developmental spelling in GYNS AT WRK. Reading Teacher, 36,
-
-192–200.
-
-Gentry, J. R., & Gillet, J. W. (1993). Teaching kids to spell. Portsmouth, NH: Heinemann.
-Green, L., McCutchen, D., Schwiebert, C., Quinlan, T., Eva-Wood, A., & Juelis, J. (2003). Morpho-
-logical development in children’s writing. Journal of Educational Psychology, 95, 752–764.
-doi:10.1037/0022-0663.95.4.752
-
-Greenberg, D., Ehri, L. C., & Perin, D. (2002). Do adult literacy students make the same word-reading
-and spelling errors as children matched for word-reading age? Scientiﬁc Studies of Reading, 6,
-221–244. doi:10.1207/S1532799XSSR0603 2
-
-Hayes, H., Treiman, R., & Kessler, B. (2006). Children use vowels to help them spell consonants.
-
-Journal of Experimental Child Psychology, 94, 27–42. doi:10.1016/j.jecp.2005.11.001
-
-Henderson, E. H., & Templeton, S. (1986). A developmental perspective of formal spelling instruction
-through alphabet, pattern, and meaning. Elementary School Journal, 86, 305–316. doi:10.1086/
-461451
-
-Holmes, V. M., & Malone, N. (2004). Adult spelling strategies. Reading and Writing, 17, 537–566.
-
-doi:10.1023/B:READ.0000044368.17444.7d
-
-Hurry, J., Curno, T., Parker, M., & Pretzlik, U. (2006). An intervention program for classroom teaching
-about morphemes: Effects on the children’s vocabulary. In T. Nunes & P. Bryant (Eds.),
-Improving literacy by teaching morphemes (pp. 134–154). London: Routledge.
-
-Hurry, J., Nunes, T., Bryant, P., Pretzlik, U., Parker, M., Curno, T., & Midgely, L. (2005). Transforming
-
-research on morphology into teacher practice. Research Papers in Education, 20, 187–206.
-
-Kemp, N., & Bryant, P. (2003). Do beez buzz? Rule-based and frequency-based knowledge in learning
-
-to spell the plural -s. Child Development, 74, 63–74. doi:10.1111/1467-8624.00521
-
-Kemp, N., Parrila, R., & Kirby, J. (2009). Phonological and orthographic spelling in high-functioning
-
-adult dyslexics. Dyslexia, 15, 105–128. doi:10.1002/dys.364
-
-Kessler, B., & Treiman, R. (2003). Is English spelling chaotic? Misconceptions concerning its irregu-
-
-larity. Reading Psychology, 24, 267–289. doi:10.1080/02702710390227228
-
-Leikin, M., & Hagit, E. Z. (2006). Morphological processing in adult dyslexia. Journal of Psycholin-
-
-guistic Research, 35, 471–490. doi:10.1007/s10936-006-9025-8
-
-Leong, C. K. (2009). The role of inﬂectional morphology in Canadian children’s word reading and
-
-spelling. Elementary School Journal, 4, 343–358. doi:10.1086/593937
-
-Mitchell, P., Kemp, N., & Bryant, P. (2011). Variations among adults in their use of morphemic
-spelling rules and of word-speciﬁc knowledge when spelling. Reading Research Quarterly, 46,
-119–133. doi:10.1598/RRQ.46.2.2
-
-Nunes, T., Bryant, P., & Bindman, M. (1997a). Morphological spelling strategies: Developmental
-stages and processes. Developmental Psychology, 33, 637–649. doi:10.1037/0012-1649.33.4.
-637
-
-Nunes, T., Bryant, P., & Bindman, M. (1997b). Learning to spell regular and irregular verbs. Reading
-
-and Writing, 9, 427–449. doi:10.1023/A:1007951213624
-
-Pollo, T. C., Kessler, T., & Treiman, R. (2009). Statistical patterns in children’s early writing. Journal
-
-of Experimental Child Psychology, 104, 410–426. doi:10.1016/j.jecp.2009.07.003
-
-Rastle, K., Harrington, J., & Coltheart, M. (2002). 358,534 nonwords: The ARC nonword
-database. Quarterly Journal of Experimental Psychology, 55, 1339–1362. doi:10.1080/
-02724980244000099
-
-Applied Psycholinguistics 38:5
-Kemp et al.: Morphological spelling rules
-
-1094
-
-Raveh, M., & Schiff, R. (2008). Visual and auditory morphological priming in adults with develop-
-mental dyslexia. Scientiﬁc Studies of Reading, 12, 221–252. doi:10.1080/10888430801917068
-
-Read, C. (1986). Children’s creative spelling. London: Routledge and Kegan Paul.
-Rueckl, J. G., & Aicher, K. A. (2008). Are CORNER and BROTHER morphologically com-
-plex? Not in the long term. Language and Cognitive Processes, 23, 972–1001. doi:10.1080/
-01690960802211027
-
-S´anchez-Guti´errez, C., & Rastle, K. (2013). Letter transpositions within and across morphemic bound-
-aries: Is there a cross-language difference? Psychonomic Bulletin & Review. Advance online
-publication. doi:10.3758/s13423-013-0425-0
-
-Sterling, C. M. (1983). Spelling errors in context. British Journal of Psychology, 74, 353–364.
-Thompson, G. B., Fletcher-Flinn, C. M., & Cottrell, D. S. (1999). Learning correspondences between
-
-letters and phonemes without explicit instruction. Applied Psycholinguistics, 20, 21–50.
-
-Treiman, R. (1993). Beginning to spell: A study of ﬁrst-grade children. New York: Oxford University
-
-Press.
-
-Treiman, R., & Kessler, B. (2006). Spelling as statistical learning: Using consonantal context to spell
-
-vowels. Journal of Educational Psychology, 98, 642–652. doi:10.1037/0022-0663.98.3.642
-
-Turnbull, K., Deacon, S. H., & Kay-Raining Bird, E. (2011). Mastering inﬂectional sufﬁxes: A longi-
-tudinal study of beginning writers’ spellings. Journal of Child Language, 38, 533–553. doi:10.
-1017/S030500091000022X
-
-UK Government, Department for Business, Innovation, and Skills. (2014). Participation rates in
-higher education. Retrieved from https://www.gov.uk/government/uploads/system/uploads/
-attachment_data/ﬁle/458034/HEIPR_PUBLICATION_2013-14.pdf
-
-Varnhagen, C. K., McCallum, M., & Burstow, M. (1997). Is children’s spelling naturally stage-like?
-
-Reading and Writing, 9, 451–481. doi:10.1023/A:1007903330463
-
-Walker, J., & Hauerwas, L. (2006). Development of phonological, morphological, and orthographic
-knowledge in young spellers: The case of inﬂected verbs. Reading and Writing, 19, 819–843.
-doi:10.1007/s11145-006-9006-1
-
-Wilkinson, G. S. (1993). Wide Range Achievement Test (version 3). Wilmington, DE: Wide Range.
-
-

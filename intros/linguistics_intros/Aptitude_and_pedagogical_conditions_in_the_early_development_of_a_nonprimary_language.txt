@@ -1,33 +1,3 @@
-Applied Psycholinguistics 38 (2017), 679–701
-doi:10.1017/S0142716416000394
-
-Aptitude and pedagogical conditions
-in the early development of a
-nonprimary language
-
-BEATRIZ LADO
-City University of New York Lehman College and The Graduate Center
-
-Received: October 28, 2015
-
-Accepted for publication: September 24, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Beatriz Lado, Lehman College, City University of New York, Carman Hall, Room 257, 250 Bedford
-Park Boulevard West, Bronx, NY 10468–1589. E-mail: beatriz.lado@lehman.cuny.edu
-
-ABSTRACT
-The article summarizes results from a study investigating the role of aptitude on initial learning of
-Latin morphosyntax. The study includes two different computerized conditions: with or without meta-
-linguistic information, provided during input-based practice with right/wrong feedback. Four aptitude
-measures were included: linguistic analytic ability, rote memory, working memory, and phonolog-
-ical short-term memory. The results revealed that linguistic analytic ability gave learners an ad-
-vantage under the metalinguistic information condition when processing sentences for meaning, al-
-though only working memory (and rote memory to a lesser extent) had a role in development of
-grammatical sensitivity to the form. In contrast, except rote memory in immediate aural interpre-
-tation, none of the aptitude measures predicted learning under the nonmetalinguistic information
-condition.
-
 The ﬁeld of second language acquisition has always tried to understand the con-
 struct of aptitude, which has often been used to refer to cognitive abilities im-
 plicated in language learning (e.g., Robinson, 2005a). This interest stems from
@@ -45,14 +15,6 @@ predictors of language learning, both in instructional contexts (Ehrman & Oxford
 1995; Erlam, 2005; Harley & Hart, 1997; Winke, 2013) and in laboratory studies
 (DeGraaff, 1997; Robinson, 1997). Nevertheless, and in order to account for the
 multicomponential view of the construct, current research prefers to report results
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-680
-
 on speciﬁc subtests of the MLAT rather than a composite score. Two subtests
 that have been found to be good predictors of language learning are the paired
 associates subtest (e.g., Hummel, 2009; Robinson, 1997), which measures rote
@@ -105,14 +67,6 @@ aptitude and to provide a broader picture of the cognitive skills that play a ro
 language learning. The following section provides an overview of relevant stud-
 ies that have investigated ATI and include at least one of the aptitude measures
 proposed in the present study.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-APTITUDE AND LEARNING CONDITIONS
-
-681
-
 Although Krashen (1981, 1982) claimed that aptitude inﬂuences language learning
 only in conditions that promote explicit learning (see Robinson, 2002, 2005a, for
 a discussion on this issue), other researchers such as Skehan (1998, 2002) argue
@@ -160,12 +114,6 @@ rule-search, and instructed conditions, but not in the incidental condition. The
 strongest correlations were obtained for the implicit condition. No correlations
 were found for this condition between RM and language learning. Therefore, it
 was LAA (and not memory) that seemed to be playing a role in language learning
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-682
-
 in the implicit condition. Moreover, results revealed correlations between the most
 explicit condition and RM, not only for the easy rule but also for the hard rule. In
 addition, the scores of the participants in the rule-search condition, which could be
@@ -213,12 +161,6 @@ Learning was measured by a GJ posttest that included items not previously seen
 (60 semantically plausible and 60 implausible). WM capacity was measured by an
 operation–word span task and a letter–number ordering task. The results indicated
 that the intentional group outperformed the incidental group and that both groups
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-683
-
 outperformed the control. A positive correlation between performance and WM
 was found only for the intentional group on grammatical items.
 
@@ -270,12 +212,6 @@ the words in sentences component of the MLAT, the sound discrimination test
 of the Pimsleur Language Aptitude Battery, and a PSTM test. Analyses between
 gain scores and aptitude scores for each treatment revealed correlations between
 the words in sentences and the listening comprehension immediate gain for the
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-684
-
 inductive group, and between the same aptitude measure and the written production
 for both the inductive (delayed gain) and the structured input group (immediate
 and delayed gain). Finally, PSTM also correlated with the immediate and delayed
@@ -326,12 +262,6 @@ written or oral utterance rejection, written or oral unenhanced recasts, and wri
 (with bold and capitalized font) or oral (with stress) enhanced recasts. Partici-
 pants were required to complete a computerized ﬁll-in-the-blank activity with the
 correct form of the adjective. WM was found to be related to written and oral
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-685
-
 accuracy as well as to production in a face-to-face interactional posttest for the
 enhanced and unenhanced oral recasts. Sagarra and Abbuhl (2013b) completed a
 follow-up study where feedback was provided in four groups as follows: written
@@ -382,12 +312,6 @@ in Robinson, 2002).
 More research is needed in order to fully understand the nature of the role
 of aptitude in different pedagogical approaches to language learning. Especially
 relevant for L2 researchers and practitioners is research that incorporates different
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-686
-
 types of feedback as it resembles pedagogical approaches adopted not only in
 traditional classrooms but also in hybrid and online courses. In computer-assisted
 language learning, computers provide feedback that is usually “immediate, pro-
@@ -421,9 +345,8 @@ measure (composite score of the MLAT in DeGraaff, 1997, and WM in Sagarra
 & Abbuhl, 2013a, and Sanz et al., 2014). However, no studies have looked at
 the role of different aptitude abilities in the effects of computer-delivered reactive
 feedback (with or without metalinguistic information) provided during practice.
-
-METHODS
-
+<Middle>
+METHODS.
 The present study is part of the Latin Project (Lado, Bowden, Stafford, & Sanz,
 2014; Lenet, Sanz, Lado, Howard, & Howard, 2010; Sanz, Lin, Lado, Bowden,
 & Stafford, 2009; Sanz et al., 2014; Stafford, Bowden, & Sanz, 2012), which
@@ -431,17 +354,11 @@ adopts an interactive perspective to the study of individual differences and lea
 contexts. The following section follows similar methodology as that of previous
 studies conducted under this paradigm.
 
-Participants
+Participants.
 Participants were 58 college-level native speakers of English whose ages ranged
 from 18 to 22 years old and who were randomly assigned to the +MF (n = 33) or
 –MF (n = 25) groups. In an attempt to control for previous language experience,
 participants were all in a second-year Spanish program and had no knowledge of
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-687
-
 Latin or any other case-marking language. Participants with one or two semesters
 in a noncase language were accepted. Therefore, in some cases, Latin was the
 fourth language rather than the third language. In addition, participants scoring
@@ -451,8 +368,7 @@ tences were presented in subject–verb–object (SVO) word order, which may hav
 aided educated guessing on the pretest, thereby inﬂating scores. All participants
 were compensated for their participation with extra credit.
 
-Target structure
-
+Target structure.
 The linguistic target of the study was the assignment of thematic agent/patient roles
 to nouns in Latin via case morphology. The theoretical framework that guided the
 design of our materials was the competition model (CM), developed by Bates and
@@ -490,14 +406,7 @@ the fact that practice could not be performed successfully by relying solely on 
 lexical meaning of the nouns and verbs, on word order, or on verbal morphology,
 participants were led to process both noun and verb morphology as a means of
 successful task completion.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-Experimental design
-
-688
-
+Experimental design.
 The experiment consisted of three sessions over 4 weeks; all took place in an
 Apple laboratory, where participants interacted with an application that combined
 ColdFusion and Flash programming to deliver audiovisual treatments and capture
@@ -546,14 +455,6 @@ ten, 2003), both aural and written comprehension-based tasks were included. Task
 1 presented a written Latin sentence and two English translation choices. Task 2
 presented a written sentence and two picture choices. Task 3 presented a picture
 and two written Latin sentence choices. Task 4 presented an aural sentence and two
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-689
-
-Figure 1. (Color online) Example of negative feedback during practice.
-
 English translation choices. Task 5 presented an aural sentence and two picture
 choices. Task 6 presented a picture and an aural sentence, and participants had to
 decide whether or not the picture shown matched the sentence heard. Although
@@ -586,12 +487,6 @@ jects, actions, and objects), so that items could be answered using only vocabul
 knowledge, without attention to form and meaning of the target structures. On the
 GJT, participants read a sentence and indicated whether it was grammatical or not
 (or “I don’t know”) via key press. Like the interpretation tests, this test included
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-690
-
 20 items, 12 critical (4 trained, 8 untrained) and 8 distractors. Of the 12 critical
 items, 6 were grammatical and 6 were ungrammatical. Of the 6 ungrammatical
 items, 2 had incorrect case endings, 2 had incorrect subject–verb agreement, and 2
@@ -601,8 +496,7 @@ one point was awarded for each correct answer to the 12 critical items, making 1
 the maximum score on each of these three tests. According to Cronbach α values
 (min = 0.671 to max = 0.870), test reliability was medium to high across all tests.
 
-Aptitude tests design, scoring, and analyses
-
+Aptitude tests design, scoring, and analyses.
 In order to determine participants’ WM capacity, a sentence span test
 WM.
 (adapted from Daneman & Carpenter, 1980) similar to the one used in other studies
@@ -641,12 +535,6 @@ each of the tests, there were 4 sets of 3 pairs of words (with 3, 4, 5, and 6 sy
 and two sets of 2 pairs of words (with 7 and 8 syllables). In other words, the num-
 ber of syllables increased by 1 every 3 pairs in the ﬁrst four sets, and every 2 pairs
 in the last two sets. The 32 items in each test were presented aurally in pairs, and
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-691
-
 participants had to repeat the two nonwords after a tone, which was presented with
 a 2-s delay. The total amount of time spent on the tests was 10 min (5 min each).
 One point was assigned for each nonword correctly recalled or for each nonword
@@ -667,8 +555,7 @@ exercise, but not during the 24 questions in the subsequent test. One point was
 assigned for each correct item on each subtest, so that a ﬁnal score was obtained
 for the two tests separately.
 
-ANALYSES AND RESULTS
-
+ANALYSES AND RESULTS.
 A one-way analysis of variance (ANOVA) was used to compare cognitive scores
 from the two groups. The analyses indicated that there was no difference between
 groups for any of the cognitive measures: LAA, F (1, 54) = 2.77, p = .10; RM, F
@@ -696,103 +583,6 @@ between treatments.
 
 Next, we looked at estimated marginal means to determine the nature of
 the interaction. Pairwise comparisons revealed signiﬁcant differences between
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-692
-
-Table 1. Descriptive statistics for language test scores by treatment
-
-Pretest
-
-Posttest
-
-Delayed Test
-
-Test
-
-WI
-
-AI
-
-GJT
-
-Group
-+MF
-–MF
-+MF
-–MF
-+MF
-–MF
-
-n
-
-33
-23
-31
-24
-30
-25
-
-Mean
-
-4.86
-5.22
-5.00
-5.17
-4.20
-4.03
-
-SD
-
-2.06
-1.17
-2.00
-1.58
-2.02
-2.03
-
-Mean
-
-10.08
-6.76
-9.35
-6.79
-6.58
-5.24
-
-SD
-
-1.68
-2.28
-2.30
-2.09
-3.10
-2.08
-
-Mean
-
-8.67
-7.50
-7.76
-6.71
-5.58
-6.02
-
-SD
-
-2.85
-1.93
-3.02
-2.28
-3.05
-1.87
-
-Note: WI, Written interpretation; AI, aural interpretation; GJT, grammaticality judgment
-test. The number of participants was different for each test due to technical problems
-(some computers froze during post or delayed tests).
-
 treatments for the WI and AI posttests, but not for the GJ posttest. In delayed test
 results, however, there were no signiﬁcant differences between groups for any of
 the tests (see Table 2)
@@ -823,264 +613,13 @@ R2 = 29.7%, F (2, 29) = 7.54, p < .01, and signiﬁcantly predicted test scores
 conducted on the GJ delayed test revealed that WM explained 30% of the variance,
 R2 = 30.4%, F (1, 30) = 14.53, p < .01, and signiﬁcantly predicted test scores
 (β = 0.17, p < .05).
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-693
-
-Table 2. Pairwise comparisons between treatments for each language measure
-and test
-
-Measure
-
-Mean
-
-Difference
-
-95% CI for Difference
-
-Lower
-Bound
-
-Upper
-Bound
-
-SE
-
-0.52
-0.52
-
-0.56
-0.56
-
-0.72
-0.72
-
-0.52
-0.52
-
-0.63
-0.63
-
-0.77
-0.77
-
-0.58
-0.58
-
-0.78
-0.78
-
-0.74
-1.33
-
-4.43
-−2.16
-
-2.67
-0.24
-
-0.87
-1.23
-
-3.83
-−1.27
-
-2.72
-0.40
-
-1.37
-0.96
-
-2.94
-0.18
-
-−1.33
-−0.74
-
-2.16
-−4.43
-−0.24
-−2.67
-
-−1.23
-−0.87
-
-1.27
-−3.83
-−0.40
-−2.72
-
-−0.96
-−1.37
-−0.18
-−2.94
-−1.99
-−1.19
-
-WI
-Pre+MF, –MF
-–MF, +MF
-Post+MF, –MF
-–MF, +MF
-Del,+MF, –MF
-–MF, +MF
-AI
-Pre+MF, –MF
-–MF, +MF
-Post+MF, –MF
-–MF, +MF
-Del+MF, –MF
-–MF, +MF
-GJT
-Pre+MF, –MF
-–MF, +MF
-Post+MF, –MF
-–MF, +MF
-Del+MF, –MF
-–MF, +MF
-
-−0.29
-0.29
-
-3.29*
-−3.29*
-
-1.21
-−1.21
-
-−0.18
-0.18
-
-2.55*
-−2.55*
-
-1.16
-−1.16
-
-0.21
-−0.21
-
-1.38
-−1.38
-−0.40
-0.40
-
-1.19
-1.99
-Note: WI, Written interpretation; +MF, With metalinguistic feedback; –MF, with-
-out metalinguistic feedback; AI, aural interpretation; GJT, grammaticality judg-
-ment test.
-*p < .05.
-
-0.79
-0.79
-
-Signiﬁcant results for the –MF treatment
-
+Signiﬁcant results for the –MF treatment.
 The only signiﬁcant result for the –MF treatment appeared when conducting
 regression analyses on the AI posttest, which revealed that RM explained 13% of
 the variance, R2 = 13%, F (1, 22) = 4.45, p < .05, and signiﬁcantly predicted test
 scores (β = 0.14, p < .05).
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-Table 3. Pearson correlations between scores of cognitive tests
-
-LAA
-
-RM
-
-WM
-
-L1 PSTM
-
-L2 PSTM
-
-LAA
-(p)
-
-1
-
-.332*
-(.013)
-.047
-(.755)
-.160
-(.257)
-−.021
-(.887)
-
-RM
-(p)
-
-.332*
-(.013)
-
-1
-
-.058
-(.696)
-.192
-(.173)
-.168
-(.243)
-
-WM
-(p)
-
-.047
-(.755)
-.058
-(.696)
-
-1
-
-.346*
-(.022)
-.351*
-(.021)
-
-L1 PSTM
-
-(p)
-
-.160
-(.257)
-.192
-(.173)
-.346*
-(.022)
-
-1
-
-.625**
-(.00)
-
-694
-
-L2 PSTM
-
-(p)
-−.021
-(.887)
-.168
-(.243)
-.351*
-(.021)
-.625**
-(.000)
-
-1
-
-Note: LAA, Linguistic analytical ability; RM, rote memory; WM, working memory; L1,
-ﬁrst language; PSTM, phonological short-term memory; L2, second language.
-*p = .05. **p = .01.
-
-DISCUSSION
-
+<Conclusion>
+DISCUSSION.
 The current study investigated the role of different aptitude abilities (RM, LAA,
 WM capacity, and PSTM) in the development of a new language under two
 learning conditions that differed in the presence or absence of metalinguistic
@@ -1107,12 +646,6 @@ measures tend to correlate with explicit learning conditions (Robinson, 2002,
 2005b). Moreover, the present results seem to indicate that learners with high
 LAA beneﬁt from an explicit approach that provides metalinguistic feedback.
 LAA, though, is not relevant across tests. Speciﬁcally, it works as a predictor
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-695
-
 when the new realignment in strategy is used to interpret written sentences. In
 addition, its capacity to predict interpretation of written sentences holds 2 weeks
 after treatment. The lack of relationship between LAA and aural interpretation right
@@ -1162,12 +695,6 @@ metalinguistic feedback is provided.
 
 It was surprising that PSTM did not play a role in predicting positive perfor-
 mance in any of the tests proposed. Conversely, it seemed that learners with high
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-696
-
 L2 PSTM were at a disadvantage when completing the WI posttest, although this
 disadvantage did not appear in the long term. These ﬁndings run against Tagarelli
 et al. (2016), who found that PSTM predicted performance in their instructional
@@ -1217,12 +744,6 @@ grammar rules, is then compatible with Reber’s (1989, 1993) claim that implici
 processes are less susceptible to individual differences as evidenced by the lack
 of relationship between three of the four aptitude measures and language learning
 measures.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-697
-
 Results from this study with evidence produced by previous literature in ped-
 agogically motivated research suggest that aptitude is a predictor of language
 development under explicit (when rules are provided during the lesson3) or im-
@@ -1240,8 +761,7 @@ teaching, which relies heavily on computerized practice not only in online and
 hybrid classes but also in regular face-to-face classroom contexts with an online
 component.
 
-Limitations
-
+Limitations.
 These results are obviously limited to the pedagogical conditions proposed and
 when learners are ﬁrst exposed to Latin morphosyntax. In addition, it needs to
 be noted that the –MF group had fewer participants than the +MF group. This
@@ -1251,8 +771,7 @@ needed in order to fully understand the nature of the role of the different subs
 aptitude in learning pedagogical treatments with different degrees of explicitness
 and at different levels of acquisition.
 
-Conclusions
-
+Conclusions.
 In line with previous studies investigating ATI, the results in the present study sug-
 gest that the role of aptitude in predicting success at language learning varies with
 the pedagogical conditions, which, in our case, differ in the degree of explicitness
@@ -1271,252 +790,9 @@ alternative strategies that do not involve the use of metalinguistic explanation
 hypothesized that those learners with high LAA and WM capacity will still make
 use of these abilities while trying to come up with the rules by themselves. The
 more implicit conditions, however, may allow learners with low LAA and WM
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
 capacity to use other successful strategies that are less focused on rules.5 Given
 that the tests forced learners to focus on the form to understand the meaning,
 we conclude that learners in the less explicit condition are equally successful in
 learning the form as those in the more explicit condition, but using an approach
 that is less focused on conscious processing of rules and where aptitude skills such
 as LAA or WM may be less relevant.
-
-698
-
-ACKNOWLEDGMENTS
-The study is part of the Latin Project, developed by Cristina Sanz, with Catherine Stafford
-and Harriet Bowden, and with support from Georgetown’s Graduate School of Arts and
-Sciences and Spencer Foundation grants to Cristina Sanz. I acknowledge the three anony-
-mous reviewers and the journal editor for their constructive comments. In addition, I thank
-Cristina Sanz and Janire Zaldibea for their insightful feedback on earlier versions of this
-paper. Any remaining errors are mine.
-
-NOTES
-1. The noun endings present in the study were as follows: subject masculine singular
-(–us) and plural (–i), object masculine singular (–um) and plural (–os), subject feminine
-singular (–a) and plural (–ae), object feminine singular (–am), and plural (–as). The
-verb endings were –t for the singular and –nt for the plural. The number of sentences
-with each possible word order combination (SOV, SVO, VOS, VSO, OVS, and OSV)
-was balanced; therefore, learners were not able to use word order (and English’s strong
-SVO order cue in particular) as a reliable cue to assigning thematic roles. In addition,
-noun–verb agreement was a reliable cue only when one of the two nouns in a sentence
-was singular and the other was plural (so that only one noun, the subject, agreed
-with the verb). Again, items resulting from the different combinations were balanced.
-Finally, animacy, a potentially informative cue to agency, was controlled by including
-only animate nouns in the treatment.
-
-2. Note that these results can only be considered partially contrary, as their predictions
-
-appeared on the aural and WI test, but not on GJT.
-
-3. This is not the case when grammar explanations are provided both before and during
-
-the lesson (Erlam, 2005; Sanz, 2014).
-
-4. Although counterevidence exists due to possible role of feedback mode (aural vs.
-written, see Sagarra & Abbuhl, 2013b), the role of aural vs. written feedback is
-beyond the scope of this study.
-
-5. As noted by an anonymous reviewer, it is possible that the type of explicit feedback
-provided was not enough or the right type for learners with low LAA and WM capacity
-to beneﬁt from metalinguistic feedback. Future research should continue investigating
-the role of aptitude on treatments with different types of explicit feedback.
-
-REFERENCES
-Atkinson, R. C., & Shiffrin, R. M. (1968). Human memory: A proposed system and its control
-processes. In K. W. Spence & J. T. Spence (Eds.), The psychology of learning and motivation:
-Advances in research and theory (Vol. 2, pp. 89–195). New York: Academic Press.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-699
-
-Baddeley, A. (2000). The episodic buffer: A new component of working memory? Trends in Cognitive
-
-Sciences, 4, 417–423.
-
-Baddeley, A., & Hitch, G. (1974). Working memory. In G. H. Bower (Ed.), The psychology of learning
-and motivation: Vol. 8. Advances in research and theory (pp. 47–90). San Diego, CA: Academic
-Press.
-
-Baddeley, A., & Logie, R. H. (1999). Working memory: The multiple-component model. In A. Miyake
-& P. Shah (Eds.), Models of working memory: Mechanisms of active maintenance and executive
-control. New York: Cambridge University Press.
-
-Bates, E., & MacWhinney, B. (1989). Functionalism and the competition model. In B. MacWhinney
-& E. Bates (Eds.), The cross-linguistic study of sentence processing (pp. 3–13). New York:
-Cambridge University Press.
-
-Carroll, J. B., & Sapon, S. M. (1959). Modern Language Aptitude Test. New York: Psychological
-
-Corporation/Harcourt Brace Jovanovich.
-
-Daneman, M., & Carpenter, P. A. (1980). Individual differences in working memory and reading.
-
-Journal of Individual Learning and Verbal Behavior, 19, 450–466.
-
-DeGraaff, R. (1997). The eXperanto experiment: Effects of explicit instruction on second language
-
-acquisition. Studies in Second Language Acquisition, 19, 249–276.
-
-Ehrman, M., & Oxford, R. (1995). Cognition plus: Correlates of language learning success. Modern
-
-Language Journal, 79, 67–89.
-
-Erlam, R. (2005). Language aptitude and its relationship to instructional effectiveness in second
-
-language acquisition. Language Teaching Research, 9, 147–171.
-
-Goo, J. (2012). Corrective feedback and working memory capacity in interaction-driven L2 learning.
-
-Studies in Second Language Acquisition, 34, 445–474.
-
-Grey, S., Cox, J. G., Seraﬁni, E. J., & Sanz, C. (2015). The role of individual differences in the study
-abroad context: Cognitive capacity and language development during short-term intensive
-language exposure. Modern Language Journal, 99, 137–157.
-
-Grey, S., Williams, J. N., & Rebuschat, P. (2014). Incidental exposure and L3 learning of morphosyntax.
-
-Studies in Second Language Acquisition, 36, 611–645.
-
-Harley, B., & Hart, D. (1997). Language aptitude and second language proﬁciency in classroom
-
-learners of different starting ages. Studies in Second Language Acquisition, 19, 379–400.
-
-Hummel, K. (2009). Aptitude, phonological memory, and second language proﬁciency in nonnovice
-
-adult learners. Applied Psycholinguistics, 30, 225–249.
-
-Krashen, S. D. (1981). Aptitude and attitude in relation to second language acquisition and learning. In
-K. C. Diller (Ed.), Individual differences and universals in language learning (pp. 155–175).
-Rowley, MA: Newbury House.
-
-Krashen, S. D. (1982). Principles and practice in second language acquisition. New York: Prentice-
-
-Hall.
-
-Lado, B., Bowden, H., Stafford, C., & Sanz, C. (2014). A ﬁne-grained analysis of the effects of negative
-evidence with and without metalinguistic information in language development. Language
-Teaching Research, 18, 320–344.
-
-Lee, J., & VanPatten, B. (2003). Making communicative language happen. New York: McGraw-Hill.
-Lenet, A. E., Sanz, C., Lado, B., Howard, J. H., Jr., & Howard, D. V. (2010). Aging, pedagogical
-conditions, and differential success in SLA: An empirical study. In C. Sanz & R. P. Leow
-(Eds.), Implicit and explicit language learning: Conditions, processes, and knowledge in SLA
-and bilingualism (pp. 73–84). Washington, DC: Georgetown University Press.
-
-Li, S. (2013). The differential roles of two aptitude components in mediating the effects of two types
-of feedback on the acquisition of an opaque linguistic structure. In C. Sanz & B. Lado (Eds.),
-Individual differences, L2 development and language program administration: From theory to
-application (pp. 32–52). Boston: Cengage Learning.
-
-Li, S. (2015). The associations between language aptitude and second language grammar acquisition:
-
-A meta-analytic review of ﬁve decades of research. Applied Linguistics, 36, 385–408.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-700
-
-Mackey, A., Philp, J., Fujii, A., Egi, T., & Tatsumi, T. (2002). Individual differences in working
-memory, noticing of interactional feedback, and L2 development. In P. Robinson & P. Skehan
-(Eds.), Individual differences in L2 learning (pp. 181–208). Amsterdam: Benjamins.
-
-Reber, A. S. (1989). Implicit learning and tacit knowledge. Journal of Experimental Psychology, 118,
-
-219–235.
-
-Reber, A. S. (1993). Implicit learning and tacit knowledge: An essay on the cognitive unconscious
-
-(Vol. 19). New York: Oxford University Press.
-
-Robinson, P. (1997). Individual differences and the fundamental similarity of implicit and explicit
-
-adult second language learning. Language Learning, 47, 45–99.
-
-Robinson, P. (2002). Effects of individual differences in intelligence, aptitude and working memory
-on incidental SLA: A replication and extension of Reber, Walkenﬁeld and Hernstadt (1991).
-In P. Robinson (Ed.), Individual differences and instructed language learning (pp. 211–266).
-Philadelphia, PA: John Benjamins.
-
-Robinson, P. (2005a). Aptitude and second language acquisition. Annual Review of Applied Linguistics,
-
-25, 45–73.
-
-Robinson, P. (2005b). Cognitive abilities, chunk-strength, and frequency effects in implicit artiﬁcial
-grammar and incidental L2 learning: Replications of Reber, Walkenfeld, and Hernstadt (1991)
-and Knowlton and Squire (1996) and their relevance for SLA. Studies in Second Language
-Acquisition, 27, 235–268.
-
-Sagarra, N., & Abbuhl, R. (2013a). Optimizing the noticing of recasts vis computer-delivered feedback:
-Evidence that oral input enhancement and working memory help second language learning.
-Modern Language Journal, 97, 196–216.
-
-Sagarra, N., & Abbuhl, R. (2013b). Computer-delivered feedback and L2 development: The role of
-explicitness and working memory. In C. Sanz & B. Lado (Eds.), Individual differences, L2
-development, and language program administration: From theory to application (pp. 53–70).
-Boston: Cengage Learning.
-
-Sanz, C. (2004). Computer delivered implicit vs. explicit feedback in processing instruction. In B. Van-
-Patten (Ed.), Processing instruction: Theory, research, and commentary (pp. 241–255). Mah-
-wah, NJ: Erlbaum.
-
-Sanz, C., Lin, H.-J., Lado, B., Bowden, H. W., & Stafford, C. A. (2009). Concurrent verbaliza-
-tions, pedagogical conditions, and reactivity: Two CALL studies. Language Learning, 59, 33–
-71.
-
-Sanz, C., Lin, H., Lado, B., Bowden, H. B., & Stafford, C. A. (2014). One size ﬁts all? Learning con-
-ditions and working memory capacity in ab initio language development. Applied Linguistics.
-Advance online publication. doi:10.1093/applin/amu058
-
-Skehan, P. (1998). A cognitive approach to language learning. Oxford: Oxford University Press.
-Skehan, P. (2002). Theorising and updating aptitude. In P. Robinson (Ed.), Individual differences in
-
-instructed language learning (pp. 69–93). Philadelphia, PA: John Benjamins.
-
-Skehan, P. (2012). Language aptitude. In S. Gass & A. Mackey (Eds.), Handbook of second language
-
-acquisition (pp. 381–395). New York: Routledge.
-
-Skehan, P. (2015). Foreign language aptitude and its relationship with grammar: A critical overview.
-
-Applied Linguistics, 36, 367–384.
-
-Stafford, C. A., Bowden, H. W., & Sanz, C. (2012). Optimizing language instruction: Matters of
-
-explicitness, practice, and cue learning. Language Learning, 62, 741–768.
-
-Tagarelli, K. M., Borges Mota, M., & Rebuschat, P. (2014). Working memory, learning conditions, and
-the acquisition of L2 syntax. In W. Zhisheng, M. Borges Mota, & A. McNeill (Eds.), Working
-memory in second language acquisition and processing: Theory, research and commentary.
-Bristol: Multilingual Matters.
-
-Tagarelli, K. M., Ruiz, S., Moreno, J. L., & Rebuschat, P. (2016). Variability in second language
-learning: The roles of individual differences, learning conditions, and linguistic complexity.
-Studies in Second Language Acquisition, 38, 293–316.
-
-Applied Psycholinguistics 38:3
-Lado: Aptitude and pedagogical conditions
-
-701
-
-VanPatten, B. (2005). Processing instruction. In C. Sanz (Ed.), Mind and context in adult second lan-
-guage acquisition: Methods, theory, and practice (pp. 267–281). Washington, DC: Georgetown
-University Press.
-
-Vatz, K., Tare, M., Jackson, S., & Doughty, C. (2013). Aptitude-treatment interaction studies in
-second language acquisition: Findings and methodology. In G. Granena & M. H. Long (Eds.),
-Sensitive periods, language aptitude, and ultimate L2 attainment (pp. 273–292). Amsterdam:
-John Benjamin.
-
-Williams, J. N. (2012). Working memory and SLA. In S. Gass & A. Mackey (Eds.), Handbook of
-
-second language acquisition (pp. 427–441). New York: Routledge.
-
-Winke, P. (2013). An investigation into second language aptitude for advanced Chinese language
-
-learning. Modern Language Journal, 97, 109–130.
-
-

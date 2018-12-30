@@ -92,4 +92,4 @@ def calculate_nouns_per_doc_per_part(rootdirectory, df_file_from_pos):
 
 	df_into_csv(df, "df_nouns_and_all_words_counts_whole_corpus_part_2.csv")
 
-calculate_nouns_per_doc_per_part("C:/Users/kole021/git/CNC/intros/", "C:/Users/kole021/git/CNC/biology_parts/df_biology nicht kaputt - Kopie.tsv")
+calculate_nouns_per_doc_per_part("C:/Users/kole021/git/Thesis/intros/", "C:/Users/kole021/git/Thesis/biology_parts/df_biology nicht kaputt - Kopie.tsv")

@@ -1,36 +1,3 @@
-Applied Psycholinguistics 38 (2017), 601–631
-doi:10.1017/S0142716416000345
-
-Visual salience effects on speaker
-choices: Direct or indirect inﬂuences
-on linguistic processing?
-
-IN ´ES ANT ´ON-M ´ENDEZ
-University of New England, Australia
-
-Received: November 22, 2015
-
-Accepted for publication: August 7, 2016
-
-ADDRESS FOR CORRESPONDENCE
-In´es Ant´on-M´endez, Linguistics (E11), University of New England, Armidale, New South Wales
-2351, Australia. E-mail: iantonm2@une.edu.au
-
-ABSTRACT
-The effect of visual salience on speakers’ choices is investigated by contrasting the effects of both
-visual and linguistic manipulations on picture descriptions and eye movements. Two-character pictures
-were used, which can be described in one of two complementary ways (e.g., a cop chasing a robber
-can be described either from a chasing or from a ﬂeeing perspective), and using simple actives or
-other alternative syntactic structures (e.g., “a robber is being chased by a cop”). The pictures were
-preceded by a verb priming one of the two perspectives and/or a preview of one of the two characters.
-The results show that the visual manipulation affects looks to the characters regardless of which
-perspective had been linguistically primed, but it only affects verbal descriptions in the absence of a
-linguistic prime. Linguistically priming one of the perspectives, in contrast, has a reliable effect on
-both looks to the characters and verbal descriptions. These results suggest that visual salience does not
-inﬂuence linguistic choices directly.
-
-Language is the means of getting an idea from my brain into yours without surgery.
-Mark Amidon
 
 When speakers talk, they are normally trying to give linguistic form to a notion
 they have in their heads that they wish to implant in their interlocutors’ heads.
@@ -43,14 +10,6 @@ inﬂuence language in many ways. For example, a character who is looked at
 January, Nappa, & Trueswell, 2007; Myachykov, Garrod, & Scheepers, 2012;
 Myachykov, Thompson, Garrod, & Scheepers, 2011); looks to characters in an
 image have been consistently found to predict mention of the ﬁxated characters
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-602
-
 (e.g., Coco & Keller, 2012; Coco, Malcolm, & Keller, 2014; Grifﬁn, 2001) and
 their properties (Haskell, 2005; Meyer, van der Meulen, & Brooks, 2004; van
 der Meulen, 2001); and visual content inﬂuences choice of referring expression
@@ -101,12 +60,6 @@ investigation. In their Experiments 1 and 2, the researchers looked at the propo
 of active descriptions of depicted transitive events (e.g., a cowboy punching a
 boxer) after a linguistic prime consisting of either a matching or a nonmatching
 verb (e.g., punch vs. kiss), and a visual prime in the form of a dot directing
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-603
-
 attention to the location of one of the two characters prior to the image appearing
 on screen. They found that visually cueing the agent of the event (e.g., the cowboy)
 increased the proportion of active descriptions but only when the linguistic prime
@@ -139,9 +92,8 @@ priming consisted of a preview of one of the two characters involved in the even
 (e.g., the robber or the cop in a chase scene being shown ahead of the full scene),
 which draws the eyes to ﬁrst land on the intended character when the complete
 scene appears.
-
-PREDICTIONS
-
+<Middle>
+PREDICTIONS.
 A scene depicting a cop chasing a robber who is ﬂeeing (see Figure 1) can be
 described in one of two main ways: as a regular active sentence from a chasing
 perspective (e.g., “the cop is chasing the robber”) or from a ﬂeeing perspective
@@ -155,14 +107,6 @@ one of the two verbs. Assuming incremental sentence production (see review of
 lexicalist frameworks in Bock et al., 2004; Kempen & Hoenkamp, 1987; Levelt,
 1989), characters who are more visually salient and therefore are made more
 accessible should tend to dictate how to describe the scene in which they appear
-
-Figure 1. Outline of the experimental procedure for both experiments.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-605
-
 by being processed earlier and, thus, determining the sentence’s starting point, as
 has been found (e.g., Gleitman et al., 2007; Prat-Sala & Branigan, 2000).
 
@@ -214,12 +158,6 @@ An effect of visual salience on lexical accessibility could also affect the form
 the description instead of (or in addition to) how long it takes to start talking. For
 example, if the linguistic prime induces a construal of chasing while the lexical
 item for “robber” is more accessible, the speaker could take advantage of the
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-606
-
 increased accessibility of this lexical item by fronting the object (e.g., “the robber,
 the cop is chasing him”), or uttering a passive sentence (i.e., “the robber is being
 chased by a cop”). In this case, visually priming the robber should result in more
@@ -258,7 +196,7 @@ linguistic cue priming a certain perspective (e.g., “chase” primes a chasing
 spective) could result in a verbal description that indicates a compatible construal
 of the scene (i.e., as a chasing event; e.g., “the robber is being pursued”).
 
-EXPERIMENT 1
+EXPERIMENT 1.
 
 The total number of conditions (nine) that would have resulted from crossing
 three levels (no priming plus priming one of the two alternatives) of two different
@@ -270,19 +208,13 @@ Experiment 1 included the simple, uncrossed, linguistic and visual conditions
 to determine the effect of each type of manipulation, linguistic and visual, on
 their own. Based on previous studies, the prediction was that both linguistic and
 visual manipulations would have an effect on looks to the characters and choice of
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-607
-
 verbal description. However, there is no empirical or logical reason to believe that
 priming one character instead of another, or priming one verb instead of another,
 will have an effect on sentence preparation times. In addition, Experiment 1 also
 included a nonverbal baseline condition for eye-movement data to rule out visual
 biases unrelated to the manipulations.
 
-Method
+Method.
 Participants. Participants in this experiment were 44 English-speaking students
 (M age = 21.3, SD = 4.60; 42.5% male) from the University of California, San
 Diego, and 45 Spanish-speaking students (M age = 23.8, SD = 5.54; 22.5% male)
@@ -325,11 +257,6 @@ indicated a subordinate construal of the event). Only one of the items had an ev
 distribution of preferences in English and relatively even in Spanish (the construal
 preferentially shown in Spanish was considered the dominant construal in this
 case). Paired t tests conﬁrmed the differences between dominant and subordinate
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-608
 construals in both languages (in English, t = 11.26, p = .000; in Spanish, t =
 12.65, p = .000), and the similarities of dominant-to-subordinate ratios across
 languages (t = –1.79, p = .084).
@@ -380,12 +307,6 @@ inverted versions of the same drawing) × 5 conditions (nonverbal baseline, or
 paired with either one of the linguistic primes or one of the visual primes). Each
 condition was represented by six experimental items in each list. All participants
 saw all drawings only once in an individually randomized order (except that
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-609
-
 the stimuli in the nonverbal baseline were always presented at the beginning, as
 explained).
 
@@ -434,12 +355,6 @@ of the law”); could be a regular “passive” (e.g., “the white-collar crim
 chased by a policeman”); contain an object placed in a more prominent position by
 dislocation or altered word order (“prominent object”; e.g., “a robber it is that the
 cop is chasing”); or be coded as “something else” if it did not describe the scene
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-610
-
 as a perspective predicate (e.g., “a crime has been committed”), did not contain a
 verb (e.g., “a chase”), or the participant misinterpreted the scene.
 
@@ -492,12 +407,6 @@ and English = –0.5.
 
 A maximal random effect structure including random intercepts and slopes
 over subjects and items was always attempted ﬁrst (Barr, Levy, Scheepers, & Tily,
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-611
-
 2013). However, nonconvergence issues usually forced a gradual simpliﬁcation
 of the random effects, which was implemented by ﬁrst eliminating the higher
 order factors and then the random slopes of language and priming as required
@@ -534,9 +443,7 @@ the target. As with the analyses of verbal descriptions, a procedure of systemat
 ﬁxed effect reduction was followed to arrive at the simplest model with the best
 ﬁt. In order to make the Results section easier to follow, only the simplest models
 with the best ﬁt are reported.
-
-Results and discussion
-
+Results and discussion.
 Verbal descriptions. Figure 2 shows the number of verbal descriptions reﬂecting
 the dominant or subordinate construal for each priming condition, with the domi-
 nant construal responses broken down into actives (e.g., “the cop is running after
@@ -548,15 +455,6 @@ descriptions were regular actives as expected (see Data coding section).
 
 The simplest model accounting for choice of dominant construal (e.g., a chase
 description such as “the cop is pursuing a robber”) with the best ﬁt included
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-612
-
-Figure 2. Percentage of verbal descriptions of different types in Experiment 1, according to
-language and priming condition. Maximum number of responses per condition = 240.
-
 the ﬁxed effects of linguistic and visual priming. Linguistically priming the dis-
 preferred perspective (e.g., “ﬂee” was the prime) resulted in signiﬁcantly fewer
 dominant construal descriptions (estimate = 2.26, SE = 0.32, p < .001) and visu-
@@ -577,11 +475,6 @@ priming conditions (N = 226, see Figure 2), while dominant construal description
 could amount to 93% of valid descriptions in the preferred linguistic priming con-
 ditions (N = 220). Furthermore, a count of cases where the description contained
 the exact verb used in the prime revealed that this was the case in 25% of the
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-613
 responses in the dispreferred linguistic priming condition (N = 480) and 60% of
 the responses in the preferred linguistic priming condition (N = 480). This sug-
 gests that, as predicted, the linguistic primes are shaping the linguistic intention
@@ -631,15 +524,6 @@ either character. In both intervals of interest, the simplest models with the be
 preparing for a verbal description, participants did not have a preference for any
 of the characters, and that speakers of both languages behaved similarly during
 these two time intervals. Although this result appears to contrast with the clear
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-614
-
-Figure 3. Voice onset times (s) and standard errors for each language and priming condition
-in Experiment 1.
-
 preference to look at the patient in Grifﬁn and Bock’s (2000) study, it should be
 borne in mind that, unlike in the Grifﬁn and Bock’s study, the events depicted here
 did not have a unique, unambiguous agent or patient.
@@ -659,96 +543,6 @@ the preferred agent, that is, the target, signiﬁcantly increased total looks t
 character (by subjects’ intercept: estimate = 0.80, SE = 0.05, p < .001; by items’
 intercept: estimate = 0.84, SE = 0.06, p < .001), with looks to target increasing
 when it was primed and decreasing when the dispreferred agent was primed (by
-
-Figure 4. Proportion of looks to target (the preferred agent) in Experiment 1 as a function of time (ms) and priming condition. Only
-trials where the verbal description was an active valid response are included. The vertical line marks the average voice onset time.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-616
-
-Table 1. Parameter estimates and signiﬁcance values from the growth curve analysis of
-looks to target in Experiment 1
-
-Subjects
-
-Est.
-
-SE
-
-p
-
-Est.
-
-0.22
-0.04
-−0.25
-−0.11
-0.36
-0.10
-
-0.04
-0.07
-0.05
-
-0.04
-0.08
-0.06
-
-<.001
-.556
-<.001
-
-.014
-<.001
-.114
-
-0.24
-0.04
-−0.28
-−0.14
-0.41
-0.09
-
-Items
-
-SE
-
-0.05
-0.08
-0.07
-
-0.05
-0.09
-0.06
-
-p
-
-<.001
-.578
-<.001
-
-.004
-<.001
-.138
-
-Linguistic priming
-
-Intercept
-Linear term
-Quadratic
-
-Visual priming
-
-Intercept
-Linear term
-Quadratic
-
-Note: The analyses were done on the agent of the preferred perspective according to
-linguistic priming and visual priming independently as a function of time in the second
-interval of interest (400–1200 ms after stimulus onset).
-
 subjects’ linear term: estimate = –0.26, SE = 0.05, p < .001; by items’ linear
 term: estimate = –0.24, SE = 0.07, p < .001; by subjects’ quadratic term: estimate
 = –0.99, SE = 0.04, p < .001; by items’ quadratic term: estimate = –1.00, SE =
@@ -779,12 +573,6 @@ more likely to look for the right agent in the scene and produce a description
 from this character’s point of view. The visual manipulation was very successful
 in driving looks to the primed character right after picture onset, and also had
 an effect on verbal descriptions in terms of event construal (replicating previous
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-617
-
 ﬁndings; Gleitman et al., 2007) and syntactic structure. Nevertheless, although the
 visual primes had a more marked effect on looks to target, their effect on event
 construal was smaller than that of the linguistic manipulation. In addition, the early
@@ -794,8 +582,7 @@ the inhibition of return effect (Klein, 2000). This is a tendency to shift atten
 toward novel visual areas after gazes had been directed to a particular point in the
 visual ﬁeld.
 
-EXPERIMENT 2
-
+EXPERIMENT 2.
 Experiment 2 addressed the research question directly: can visual salience interact
 with a linguistic intention and inﬂuence speciﬁc aspects of sentence preparation
 such as lexical accessibility, order of mention, or syntactic function assignment?
@@ -806,7 +593,7 @@ whether the description is made from a chase or ﬂee perspective), and that, if
 visual priming inﬂuences lexical accessibility, it will affect VOTs and/or syntactic
 choice (i.e., use of passive voice or prominent object constructions).
 
-Method
+Method.
 Participants. Forty-three English-speaking students (M age = 21.0, SD = 4.25;
 32.5% male) from University of California, San Diego, and 49 Spanish-speaking
 students (M age = 22.5, SD = 5.10; 30.0% male) from either the University
@@ -830,11 +617,6 @@ experimental drawings (see Appendix A for a full list). For the ﬁller items, i
 case, one-ﬁfth was presented with no primes as in the baseline condition, and the
 other four-ﬁfths were paired with a verb that described the depicted event and
 preceded by a preview of the character.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-618
 
 Design and procedure. There were four conditions resulting from crossing the
 preferred linguistic prime with the preferred and dispreferred visual primes, and
@@ -884,17 +666,7 @@ of inﬂection in the data. The ﬁrst interval of interest was the same here as
 Experiment 1, from picture onset to 400 ms, but the second one was longer, from
 400 to 1500 ms. Again, in order to make the Results section easier to follow, only
 the simplest models with the best ﬁt are reported.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-619
-
-Figure 5. Percentage of verbal descriptions of different types in Experiment 2, according to
-language and priming condition. Maximum number of responses per condition = 240.
-
-Results and discussion
-
+Results and discussion.
 Verbal descriptions. Figure 5 shows the number of verbal descriptions reﬂecting
 the dominant or subordinate construal for each priming condition, with the dom-
 inant construal responses broken down into actives and passives (no prominent
@@ -910,15 +682,6 @@ linguistic priming was, thus, also inﬂuencing construal choice. However, while
 visual priming did have an effect on construal choice in the absence of linguistic
 primes in Experiment 1, this effect appears not to be powerful enough to overcome
 the effect induced by an accompanying linguistic prime.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-620
-
-Figure 6. Voice onset times (s) and standard errors for each language and priming condition
-in Experiment 2.
-
 As in Experiment 1, it was not the case that participants were merely repeating
 the verb token presented as the linguistic prime as the exact primes were used
 on average in 42% of the descriptions in dispreferred linguistic conditions and in
@@ -937,8 +700,12 @@ linguistic priming resulted in shorter VOTs than no priming (estimate = –19.87
 SE = 5.81, p = .002).
 Eye movements. As with Experiment 1, given that there were no differences
 between the languages regarding verbal behavior, the eye movement data for the
-
-For the ﬁrst interval of interest, the simplest model that best explained looks to
+two speaker populations were merged for the following analyses.6 Figure 7 shows
+proportions of looks to the target (when a valid active response was produced) in
+the different conditions as a function of time. For convenience, the graphs plot
+proportion of looks to the target, but the analyses are done on elogit transformed
+data, as explained above.
+For the ﬁrst interval of interest, the simplest model that best explained looks to
 the target contained only the ﬁxed effect of visual priming. Visually priming one
 of the characters had a clear effect on how and how much participants looked at the
 primed character: a preview of the preferred agent resulted in more looks to this
@@ -960,16 +727,6 @@ Experiment 2 in particular, in the conditions with primes in contrast with the v
 baseline condition. The best ﬁt model for this interval was the full model including
 the ﬁxed effects of linguistic and visual priming. The coefﬁcients associated with
 it can be seen in Table 2.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-two speaker populations were merged for the following analyses.6 Figure 7 shows
-proportions of looks to the target (when a valid active response was produced) in
-the different conditions as a function of time. For convenience, the graphs plot
-proportion of looks to the target, but the analyses are done on elogit transformed
-data, as explained above.
-
-621
 
 Priming the preferred perspective linguistically resulted in more looks to the
 target than priming the dispreferred perspective, with the former increasing and
@@ -993,109 +750,7 @@ affected by linguistic priming in terms of construal of the event and sentence
 preparation times. To this, it should be added that, unlike in Experiment 1, visual
 priming did not inﬂuence syntactic choice in Experiment 2, where the speaker had
 a prior linguistic expectation/intention.
-
-Figure 7. Proportion of looks to target (the preferred agent) in Experiment 2 as a function of time (ms) and priming condition. Only
-trials where the verbal description was an active valid response are included. The vertical line marks the average voice onset time.
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-623
-
-Table 2. Parameter estimates and signiﬁcance values from the growth curve analysis of
-looks to targets in Experiment 2
-
-Linguistic priming
-
-Intercept
-Linear term
-Quadratic
-
-Visual priming
-
-Linguistic Priming× Visual Priming
-
-Intercept
-Linear term
-Quadratic
-
-Intercept
-Linear term
-Quadratic
-
-Subjects
-
-Items
-
-Est.
-
-SE
-
-p
-
-Est.
-
-SE
-
-p
-
-0.27
-−0.20
-−0.41
-−0.22
-0.17
-0.14
-−0.01
-0.04
-0.01
-
-0.03 <.001
-0.27
-.003 −0.18
-0.07
-0.06 <.001 −0.37
-0.03 <.001 −0.21
-0.14
-0.07
-0.17
-0.05
-
-.017
-.013
-
-0.04 <.001
-0.08
-.023
-0.08 <.001
-
-0.04 <.001
-0.08
-.096
-.015
-0.07
-
-0.02
-0.07
-0.07
-
-.520
-0.02
-.559
-0.12
-.873 −0.05
-
-0.02
-0.08
-0.08
-
-.480
-.137
-.543
-
-Note: The analyses were done on the agent of the preferred perspective according to
-linguistic and visual priming conditions as a function of time in the second interval of
-interest (400–1500 ms after stimulus onset).
-
+<Conclusion>
 GENERAL DISCUSSION
 
 Experiment 1 showed that both types of manipulations, linguistic and visual, were
@@ -1122,20 +777,13 @@ visual priming on either VOTs or syntactic choice when there is a linguistic pri
 present is incompatible with the predictions based on the visual cue affecting
 lexical accessibility or argument assignment. It appears as if the inﬂuence of
 visual priming could not overcome the effect on event conceptualization of the
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-624
-
 linguistic cue. In contrast, for eye movements, the independent linguistic and
 visual inﬂuences seen in Experiment 1 were replicated in Experiment 2 without
 signs of an interaction: when the two inﬂuences were present simultaneously, the
 ﬁnal looks appeared to be the result of accommodating both of them in an additive
 manner.
 
-The effects of perceptual salience on sentence production
-
+The effects of perceptual salience on sentence production.
 Perceptual salience has been generally assumed to induce a lexical starting point
 by facilitating lexical access and, as a consequence, order of mention and even syn-
 tactic function assignment (Gleitman et al., 2007; Kuchinsky, 2009; Myachykov
@@ -1177,12 +825,6 @@ The interpretation of perceptual cues as serving to promote a particular concep-
 tualization of the scene rather than to provide a lexical starting point is supported
 by the ﬁndings of Coco and Keller (2009) and Vogels et al. (2013). Coco and Keller
 report effects of visual manipulations (clutter and number of animate characters in
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-625
-
 the scene) on time to start a description even when a lexical starting point (a cue
 naming an animate character in the picture) had been provided that could readily
 be used to initiate a description; speakers were slower to initiate their descrip-
@@ -1226,17 +868,11 @@ visual priming. This suggests that eye movements can be, but are not necessarily
 guided by, linguistic factors even when describing what is in front of our eyes
 (Coco et al., 2014).
 
-The effect of native language
+The effect of native language.
 
 The results of the two experiments show that there is no difference between speak-
 ers of English and Spanish regarding description choice, production of sentence
 structures other than regular actives, or sentence preparation times. With respect to
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-626
-
 choice of syntactic structure, Spanish greater word-order ﬂexibility was expected
 to allow speakers to accommodate competing inﬂuences more easily than English
 if an accessible lexical entry was more likely to inﬂuence order of mention than
@@ -1270,7 +906,7 @@ given the right conditions. It would thus be useful to continue the investigatio
 into the effects of visual characteristics on linguistic processing by inverting the
 order of the primes.
 
-Conclusions
+Conclusions.
 
 To conclude, the results of the present experiments strongly suggest that perceptual
 characteristics affect the content rather than the speciﬁc form of utterances, which
@@ -1284,12 +920,6 @@ What inﬂuences have been found of visual attention capture on linguistic choic
 during scene descriptions (Coco & Keller, 2009; Gleitman et al., 2007; Montag
 & MacDonald, 2013; Myachykov et al., 2012; Myachykov, Garrod, et al., 2011;
 Myachykov, Thompson, Garrod, et al., 2011; Tomlin, 1997) are unlikely to be
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-627
-
 the result of a direct inﬂuence on linguistic processing. They are most likely due
 to the effect of those inﬂuences on event conceptualization. As Coco and Keller
 put it, “scene understanding has to happen before constraints supplied by visual
@@ -1297,511 +927,3 @@ attention are applied to sentence production” (Coco & Keller, 2015, p. 147). T
 present results support accounts of sentence production being based on a general
 sentence plan rather than being lexically incremental (i.e., Bock, Irwin, Davidson,
 & Levelt, 2003; Grifﬁn & Bock, 2000; Kuchinsky, Bock, & Irwin, 2011).
-
-APPENDIX A
-
-Primes used in the study
-
-Linguistic Primes
-
-English
-
-Spanish
-
-Visual Primes
-
-Item
-
-Pref.
-
-Perspec.
-
-Dispreff.
-Perspec.
-
-Pref.
-
-Perspec.
-
-Dispref.
-Perspec.
-
-Pref.
-Agent
-
-Dispref.
-Agent
-
-feed
-101
-feed
-102
-chase
-103
-give
-104
-feed
-105
-give
-106
-interview
-107
-buy
-108
-give
-109
-feed
-110
-breastfeed
-111
-chase
-112
-pay
-113
-114
-give
-115 win
-116 win
-feed
-117
-118
-lend
-indicate
-119
-give
-120
-listen
-121
-speak
-122
-123
-talk
-preach
-124
-teach
-125
-buy
-126
-play
-127
-128
-send
-throw
-129
-130
-kick
-
-eat
-eat
-ﬂee
-take
-eat
-beg
-answer
-sell
-get
-eat
-suck
-ﬂee
-give
-receive
-lose
-lose
-suck
-borrow
-ask
-receive
-play
-listen
-listen
-listen
-learn
-sell
-listen
-receive
-catch
-stop
-
-comer
-alimentar
-comer
-alimentar
-huir
-perseguir
-tomar
-dar
-comer
-alimentar
-recibir
-dar
-responder
-entrevistar
-atender
-comprar
-recibir
-regalar
-dar
-comer
-amamantar mamar
-huir
-perseguir
-cobrar
-pagar
-recibir
-dar
-perder
-ganar
-ganar
-perder
-amamantar mamar
-prestar
-indicar
-entregar
-escuchar
-hablar
-hablar
-pregonar
-ense˜nar
-comprar
-tocar
-enviar
-lanzar
-chutar
-
-pedir
-preguntar
-recibir
-tocar
-escuchar
-escuchar
-escuchar
-aprender
-vender
-escuchar
-recibir
-coger
-parar
-
-cat
-man
-man
-woman
-robber
-policeman
-child
-nurse
-chick
-bird
-man
-woman
-woman
-journalist
-man
-girl
-woman
-man
-child
-mother
-baby
-mother
-man
-dog
-man
-woman
-girl
-boy
-black boxer
-white boxer
-black runner white runner
-dog
-boy
-boy
-doctor
-man
-man
-woman
-man
-teacher
-woman
-cellist
-boy
-boy
-player
-
-puppies
-girl
-girl
-father
-musician
-spectators
-man
-spectators
-student
-man
-man
-girl
-dog
-keeper
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-628
-
-ACKNOWLEDGMENTS
-I thank the many people who helped me with various aspects of the research: Lila Gleitman
-and John Trueswell, who kindly shared their stimulus set with me; Fernando Cuetos, Jos´e
-Manuel Igoa, Tamar Gollan, and Vic Ferreira, who welcomed me to their labs and gave
-me space to work and the means to recruit participants; Noem´ı Arce, Beatriz Berm´udez,
-Mar´ıa Gonz´alez Nosti, and Mayra Murillo, who went out of their way to help me ﬁnd
-enough participants; Cecilia Salcedo, who helped me run the experiments; Vicky Knox,
-who assisted me with transcription and coding of the data; and Alma Geesink-Anton, who
-so very graciously spent hours painstakingly measuring VOTs for her mother. I also thank
-Lucia Pozzan for her helpful comments on a previous draft of this manuscript.
-
-NOTES
-1.
-
-It may be that a linguistic cue primes the associated lemma as well as shaping the
-speaker’s intention. However, as this lexical item being a verb cannot appear at the
-beginning of the sentence, this should not signiﬁcantly affect sentence preparation
-times because the activated lemma would have to be buffered until it could be inserted
-in the sentence (Wheeldon et al., 2013). Therefore, the most noticeable contribution
-of the linguistic cue should be on scene construal and promoting one description
-perspective over another.
-
-2. Of these, nine were based on stimuli used in Gleitman et al. (2007), which were kindly
-provided to the author. They were redrawn by the author in the same style as the others.
-
-3. Of these, 10 were based on stimuli used in Gleitman et al. (2007).
-4.
-
-It should be stressed that, in Experiment 1, the primes were not crossed and items
-could be preceded by no primes (nonverbal baseline), or either a linguistic or a visual
-prime, but not both. Figure 1 presents the procedure including both primes, but in
-Experiment 1, the reader should assume that the screens for one or the other (or both
-in the case of the baseline conditions) were blank.
-
-5. A parallel set of analyses of eye movement data where the models included a ﬁxed
-effect of language failed to identify any major effects of language on eye movements.
-The patterns for the two speaker populations were remarkably similar in shape and
-timing. Language did interact with the priming manipulations, showing some inﬂuence
-on the temporal dynamics of the eye movements, but not one that was relevant for the
-issues at hand in this study.
-
-6. As in Experiment 1, the shape and timing of eye movements were very similar for
-the two speaker populations. A parallel set of analyses including the ﬁxed effect of
-language in the models failed to identify any effects of language that had any relevance
-for the focus of the current paper.
-
-REFERENCES
-Ant´on-M´endez, I., Gerfen, C., & Ramos, M. (2016). Salience effects: L2 sentence production
-as a window on L1 speech planning. Journal of Psycholinguistic Research, 45, 537–552.
-doi:10.1007/s10936-015-9361-7
-
-Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for conﬁrma-
-tory hypothesis testing: Keep it maximal. Journal of Memory and Language, 68, 255–278.
-doi:10.1016/j.jml.2012.11.001
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-629
-
-Bates, D., Maechler, M., Bolker, B., & Walker, S. (2014). lme4: Linear mixed-effects models using
-
-Eigen and S4. Journal of Statistical Software, 67.
-
-Bock, K., & Ferreira, V. S. (2014). Syntactically speaking. In M. Goldrick, V. Ferreira, & M. Miozzo
-(Eds.), The Oxford handbook of language production (pp. 21–46). Oxford: Oxford University
-Press.
-
-Bock, K., Irwin, D. E., & Davidson, D. J. (2004). Putting ﬁrst things ﬁrst. In J. M. Henderson &
-F. Ferreira (Eds.), The interface of language, vision and action: Eye movements and the visual
-world. New York: Psychology Press.
-
-Bock, K., Irwin, D. E., Davidson, D. J., & Levelt, W. J. M. (2003). Minding the clock. Journal of
-
-Memory and Language, 48, 653–685.
-
-Branigan, H. P., Pickering, M. J., & Tanaka, M. N. (2008). Contributions of animacy to grammatical
-function assignment and word order during production. Lingua, 118, 172–189. doi:10.1016/
-j.lingua.2007.02.003
-
-Brawley, H. (2012). What informs event descriptions: Language, salience, and discourse in En-
-glish and Japanese. Unpubished manuscript, Ohio State University. Retrieved from https://etd.
-ohiolink.edu/ap/10?0::NO:10:P10_ACCESSION_NUM:osu1338275303
-
-Bunger, A., Papafragou, A., & Trueswell, J. C. (2013). Event structure inﬂuences language produc-
-tion: Evidence from structural priming in motion event description. Journal of Memory and
-Language, 69, 299–323. doi:10.1016/j.jml.2013.04.002
-
-Coco, M. I., & Keller, F. (2009). The impact of visual information on reference assignment in sentence
-production. Paper presented at the 31st Annual Conference of the Cognitive Science Society,
-Amsterdam.
-
-Coco, M. I., & Keller, F. (2012). Scan patterns predict sentence production in the cross-modal process-
-ing of visual scenes. Cognitive Science, 36, 1204–1223. doi:10.1111/j.1551-6709.2012.01246.x
-Coco, M. I., & Keller, F. (2015). Integrating mechanisms of visual guidance in naturalistic language
-
-production. Cognitive Processing, 16, 131–150. doi:10.1007/s10339-014-0642-0
-
-Coco, M. I., Malcolm, G. L., & Keller, F. (2014). The interplay of bottom-up and top-down mechanisms
-in visual guidance during object naming. Quarterly Journal of Experimental Psychology, 67,
-1096–1200. doi:10.1080/17470218.2013.844843
-
-Ferreira, F., & Swets, B. (2002). How incremental is language production? Evidence from the pro-
-duction of utterances requiring the computation of arithmetic sums. Journal of Memory and
-Language, 46, 57–84. doi.org/10.1006/jmla.2001.2797
-
-Fischer, B., & Ramsperger, E. (1984). Human express saccades: Extremely short reaction times of
-
-goal directed eye movements. Experimental Brain Research, 57. doi:10.1007/BF0023114
-
-Fukumura, K., van Gompel, R. P. G., & Pickering, M. J. (2010). The use of visual context during
-the production of referring expressions. Quarterly Journal of Experimental Psychology, 63,
-1700–1715. doi:10.1080/17470210903490969
-
-Gleitman, L. R., January, D., Nappa, R., & Trueswell, J. C. (2007). On the give and take between
-event apprehension and utterance formulation. Journal of Memory and Language, 57, 544–569.
-doi:10.1016/j.jml.2007.01.007
-
-Grifﬁn, Z. M. (2001). Gaze durations during speech reﬂect word selection and phonological encoding.
-
-Cognition, 82, B1–B14. doi:10.1016/S0010-0277(01)00138-X
-
-Grifﬁn, Z. M., & Bock, K. (2000). What the eyes say about speaking. Psychological Science, 11,
-
-274–279. doi:10.1111/1467-9280.00255
-
-Haskell, T. R. (2005). Speaker’s eye movements during the production of adjectives. Paper presented
-
-at the 18th Annual CUNY Sentence Processing Conference, Tucson, AZ.
-
-Hickmann, M., Taranne, P., & Bonnet, P. (2009). Motion in ﬁrst language acquisition: Manner and path
-in French and English child language. Journal of Child Language, 36, 705–741. doi:10.1017/
-S0305000908009215
-
-Ibbotson, P., Lieven, E. V. M., & Tomasello, M. (2013). The attention–grammar interface: Eye-gaze
-cues structural choice in children and adults. Cognitive Linguistics, 24. doi:10.1515/cog-2013-
-0020
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-630
-
-Jackendoff, R. (1987). On beyond zebra: The relation of linguistic and visual information. Cognition,
-
-26, 89–114.
-
-Jaeger, T. F. (2008). Categorical data analysis: Away from ANOVAs (transformational or not) and
-towards logit mixed models. Journal of Memory and Language, 59, 434–446. doi:10.1016/
-j.jml.2007.11.007
-
-Kempen, G., & Hoenkamp, E. (1987). An incremental procedural grammar for sentence formulation.
-
-Cognitive Science, 11, 173–218.
-
-Klein, R. M. (2000). Inhibition of return. Trends in Cognitive Sciences, 4, 138–147. doi:10.1016/S1364-
-
-Kuchinsky, S. E. (2009). From seeing to saying: Perceiving, planning, producing. Ann Arbor, MI:
-
-6613(00)01452-2
-ProQuest. Retrieved from http://eric.ed.gov/?id=ED526717
-
-Kuchinsky, S. E., & Bock, K. (2010). From seeing to saying: Perceiving, planning, producing. Paper
-
-presented at the CUNY Sentence Processing Conference, New York.
-
-Kuchinsky, S. E., Bock, K., & Irwin, D. E. (2011). Reversing the hands of time: Changing the mapping
-from seeing to saying. Journal of Experimental Psychology: Learning, Memory, and Cognition,
-37, 1–16. doi:10.1037/a0022637.
-
-Kutas, M., & Hillyard, S. A. (1980). Reading senseless sentences: Brain potentials reﬂect semantic
-
-incongruity. Science, 207, 203–205.
-
-Kuznetsova, A., Brockhoff, P. B., & Christensen, R. H. B. (2014). lmerTest: Tests for random and
-ﬁxed effects for linear mixed effect models (lmer objects of lme4 package). Retrieved from
-http://CRAN.R-project.org/package=lmerTest
-
-Levelt, W. J. M. (1989). Speaking: From intention to articulation. Cambridge, MA: MIT Press.
-Meyer, A., van der Meulen, F., & Brooks, A. (2004). Eye movements during speech planning:
-Talking about present and remembered objects. Visual Cognition, 11, 553–576. doi:10.1080/
-13506280344000248
-
-Mirman, D., Dixon, J. A., & Magnuson, J. S. (2008). Statistical and computational models of the visual
-world paradigm: Growth curves and individual differences. Journal of Memory and Language,
-59, 475–494. doi:10.1016/j.jml.2007.11.006
-
-Montag, J. L., & MacDonald, M. C. (2013). Visual salience modulates structure choice in relative
-
-clause production. Language and Speech, 57, 163–180. doi:10.1177/0023830913495656
-
-Myachykov, A., & Garrod, S. (2008). Perception and word order in Russian and Finnish sentence
-production. In W. Ramm & C. Fabricius-Jansen (Eds.), Linearisation and segmentation in
-discourse: Multidisciplinary approaches to discourse 2008 (pp. 87–97). Oslo: University of
-Oslo.
-
-Myachykov, A., Garrod, S., & Scheepers, C. (2011). Perceptual priming of structural choice during
-English and Finnish sentence production. In R. K. Mishra & N. Srinivasan (Eds.), Language
-and cognition: State of the art (pp. 53–71). Munich: Lincom Europa.
-
-Myachykov, A., Garrod, S., & Scheepers, C. (2012). Determinants of structural choice in visually situ-
-ated sentence production. Acta Psychologica, 141, 304–315. doi:10.1016/j.actpsy.2012.09.006
-Myachykov, A., Posner, M. I., & Tomlin, R. S. (2007). A parallel interface for language and cognition
-in sentence production: Theory, method, and experimental evidence. Linguistic Review, 24,
-457–474. doi:10.1515/TLR.2007.020
-
-Myachykov, A., Thompson, D., Garrod, S., & Scheepers, C. (2011). Referential and visual cues to
-structural choice in visually situated sentence production. Frontiers in Psychology, 2, 1–9.
-doi:10.3389/fpsyg.2011.00396
-
-Myachykov, A., Thompson, D., Scheepers, C., & Garrod, S. (2011). Visual attention and structural
-choice in sentence production across languages. Language and Linguistics Compass, 5, 95–107.
-doi:10.1111/j.1749-818X.2010.00265.x
-
-Prat-Sala, M., & Branigan, H. P. (2000). Discourse constraints on syntactic processing in language
-production: A cross-linguistic study in English and Spanish. Journal of Memory and Language,
-42, 168–182. doi:10.1006/jmla.1999.2668
-
-Applied Psycholinguistics 38:3
-Ant´on-M´endez: Visual salience effects on speaker choice
-
-631
-
-Qualtrics LLC. (2005). Qualtrics [Computer software]. Retrieved from http://www.qualtrics.com/
-R Core Team. (2015). R: A language and environment for statistical computing. Vienna: R Foundation
-
-for Statistical Computing.
-
-Smith, M., & Wheeldon, L. R. (1999). High level processing scope in spoken sentence production.
-
-Cognition, 73, 205–246. doi:10.1016/S0010-0277(99)00053-0
-
-Tanaka, M. N., Branigan, H. P., McLean, J. F., & Pickering, M. J. (2011). Conceptual inﬂuences on
-word order and voice in sentence production: Evidence from Japanese. Journal of Memory and
-Language, 65, 318–330. doi:10.1016/j.jml.2011.04.009
-
-Tomlin, R. S. (1997). Mapping conceptual representations into linguistic representations: The role
-of attention in grammar. In J. Nuyts & E. Pederson (Eds.), Language and conceptualization
-(pp. 162–189). Cambridge: Cambridge University Press.
-
-van der Meulen, F. F. (2001). Moving eyes and naming objects. Retrieved from http://repository.
-
-ubn.ru.nl/handle/2066/19013
-
-van de Velde, M., Meyer, A. S., & Konopka, A. E. (2014). Message formulation and structural assembly:
-Describing “easy” and “hard” events with preferred and dispreferred syntactic structures.
-Journal of Memory and Language, 71, 124–144. doi:10.1016/j.jml.2013.11.001
-
-Vogels, J., Krahmer, E., & Maes, A. (2013). Who is where referred to how, and why? The inﬂuence
-of visual saliency on referent accessibility in spoken language production. Language and
-Cognitive Processes, 28, 1323–1349. doi:10.1080/01690965.2012.682072
-
-Wheeldon, L. R., Ohlson, N., Ashby, A., & Gator, S. (2013). Lexical availability and grammati-
-cal encoding scope during spoken sentence production. Quarterly Journal of Experimental
-Psychology, 66, 37–41. doi:10.1080/17470218.2012.754913
-
-

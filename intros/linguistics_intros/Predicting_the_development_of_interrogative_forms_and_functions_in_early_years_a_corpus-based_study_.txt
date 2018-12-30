@@ -1,187 +1,74 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-doi:./S
-
-Predicting the development of interrogative forms and
-
-functions in early years: a corpus-based study of
-
-Mandarin-speaking young children*
-
-HUI LI, MENGGUO JING A N D EILEEN CHIN MEI WONG
-
-The University of Hong Kong, PRC
-
-(Received  May  – Revised  October  – Accepted  January  –
-
-First published online  February )
-
-A B S T R A C T
-
-This study examined the development of and possible predictors of
-interrogative forms and functions in early childhood Mandarin. All
-the interrogatives drawn from the Early Child Mandarin Corpus (
-children ;, ;, ;, and ;) were analyzed. The main results
-indicated that (i) there were signiﬁcant age eﬀects in interrogative
-forms and functions, with the periods between the ages of ; and ;
-and between the ages of ; and ; being critical
-in the early
-acquisition of interrogative forms and functions, respectively; (ii) the
-form–function preference was veriﬁed, with wh-questions being
-primarily used to seek information (RfI), and intonation/echo and
-rhetorical questions being used to request action (RfA); (iii) more
-than half (·%) of the Mandarin interrogatives were used for RfI,
-whereas only ·% of them were used for RfA; and (iv) age, TV
-viewing time, and parent–child conversation time were the signiﬁcant
-predictors of interrogative development.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 A large volume of research has been conducted over the last century to
 understand fully the development of interrogative forms and functions in
 English-speaking children (see Chouinard, , for a review). However,
-Mandarin Chinese,
-the most widely spoken language in the world
+Mandarin Chinese, the most widely spoken language in the world
 (Graddol, ), has not been equally empirically explored. Recently,
-there have been Chinese
-examining the development of
+there have been Chinese studies examining the development of
 interrogative forms in L children (Fahn, ; Zhou, ), and forms
-
-studies
-
-[*] This paper is based on a project (RGC Ref No. ) funded to the ﬁrst author by the
-Research Grants Council of the Government of the Hong Kong SAR. Thanks are given to
-all the participating children and their parents, Professor A. H. Liu, Dr Eva Chen, and the
-student research assistants. Address for correspondence: Dr Hui Li, Men Wah Complex
-Room , Faculty of Education, The University of Hong Kong, Hong Kong. tel: ()
-; fax: () -; e-mail:huili@hku.hk
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-lexicon,
-
-syntax,
-
-in terms of
-
 (Ding, ; Gao, ; Yuan, ) and functions (Wang, ; Yuan,
-; Zhu & Wu, )
-in L learners. However, very few were
+; Zhu & Wu, ) in L learners. However, very few were
 conducted with representative samples to establish the developmental
-norms or patterns of
-interrogative form and function in Mandarin
+norms or patterns of interrogative form and function in Mandarin
 Chinese. We have already conducted a corpus-based study on early
 question acquisition in Cantonese-speaking young children in Hong Kong
 (Li, Tse, Wong, Wong & Leung, ). Mandarin Chinese, however,
-diﬀers greatly from Cantonese
-and
+differs greatly from Cantonese in terms of lexicon, syntax, and
 pronunciation (Tse & Li, ) and therefore deserves a similar study. In
 addition, the Mandarin-speaking children in the present study have a
 monolingual language environment in Beijing, whereas their counterparts
 in Hong Kong thrive in a ‘trilingual and biliterate’ society (Li & Rao,
 ). Comparing their acquisition of interrogative forms and functions
-can provide some cross-linguistic evidence for the eﬀects of language
-environments. This study is thus aimed at ﬁlling the gap in the literature.
+can provide some cross-linguistic evidence for the effects of language
+environments. This study is thus aimed at filling the gap in the literature.
 Another objective of this study is to examine further the cross-linguistic
 universality of the Information Requesting Mechanism (IRM) proposed
-by Chouinard (). Having reviewed all
-the studies on the early
+by Chouinard (). Having reviewed all the studies on the early
 acquisition of English questions, Chouinard hypothesized that request for
-information (RfI) might be the universal and dominant
-function of
+information (RfI) might be the universal and dominant function of
 children’s question. This hypothesis, however, was challenged by our
 previous study on early child Cantonese in  children aged , , and
  months (Li et al., ), which found that request for action (RfA)
-rather than RfI might be the dominant
-interrogative function. This
-inconsistent ﬁnding was regarded as the result of the cultural diﬀerence
+rather than RfI might be the dominant interrogative function. This
+inconsistent finding was regarded as the result of the cultural difference
 between Cantonese- and English-speaking young children (Li et al., ).
-But it might also be caused by the age diﬀerences in samples or the
-linguistic diﬀerences between English and Cantonese. To verify this
-cultural
-inﬂuence, we need to conduct a similar study on Mandarin
-Chinese using samples
-and
-the
-communication task but speak diﬀerent
-in this
+But it might also be caused by the age differences in samples or the
+linguistic differences between English and Cantonese. To verify this
+cultural influence, we need to conduct a similar study on Mandarin
+Chinese using samples that share the same Chinese culture and
+communication task but speak different languages. Therefore, in this
 study, we thoroughly examine the interrogatives elicited from a similar
-early child Mandarin corpus
-factors
-inﬂuencing the early acquisition of interrogatives in order to determine
+early child Mandarin corpus and empirically explore the factors
+influencing the early acquisition of interrogatives in order to determine
 whether the IRM is applicable to Mandarin Chinese.
-
-and empirically explore
-
-languages. Therefore,
-
-same Chinese
-
-culture
-
-that
-
-share
-
-the
-
-Development of interrogative forms in Mandarin Chinese
+Development of interrogative forms in Mandarin Chinese.
 Mandarin Chinese has a very complex interrogative system, which is
-‘what’,
-composed of a large number of members: question words (i.e.
+composed of a large number of members: question words (i.e. ‘what’,
 ‘who’), question forms (i.e. the ‘A-not-A’ construction), question mood
 particle (i.e. ma), and intonation (Gao, ). The various combinations of
 these members could make a question ambiguous and even controversial
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-the degree
-
-the scope of
-for Chinese speakers, and even linguists,
-questioning,
-of
+for Chinese speakers, and even linguists, in terms of the scope of
+questioning, the degree of question mood, and the degree of
 grammaticalization of various question forms. This could easily lead to
 misunderstanding and miscommunication (Gao, ) and make the
 acquisition of interrogative forms a really challenging task (Gao, ) for
 young Mandarin-speaking children.
-
-of question mood,
-
-in terms of
-
-and the degree
-
 The Chinese interrogative form is challenging not only for young children
 but also for linguists, who have not achieved any consensus on a typology
 (Gao, ; Matthews & Yip, ; Ross & Ma, ; Tse & Li, ).
-Liing () identiﬁed four major interrogative forms: particle questions,
+Liing () identified four major interrogative forms: particle questions,
 ‘háishì’ questions, ‘A-not-A’ questions, and wh-questions. Also, Chinese
-linguists have explored A-not-A questions in diﬀerent syntactic contexts
+linguists have explored A-not-A questions in different syntactic contexts
 (Cheng, ), and their modularity and forms (Huang, ; Hsieh,
 ). In this study, we adopted the most comprehensive and systematic
 typology, which was proposed by Matthews and Yip (), as it has been
-veriﬁed by our previous corpus-based studies on early child Cantonese
+verified by our previous corpus-based studies on early child Cantonese
 (Tse & Li, ; Li et al., ). As Cantonese has many more
 interrogative forms than Mandarin Chinese (Li et al., ; Li, Wong,
 Tse, Leung, & Ye, ), we used the eight forms commonly shared by
-Cantonese
-cross-linguistic
+Cantonese and Mandarin interrogatives to allow a cross-linguistic
 comparison between Cantonese and Mandarin interrogatives (for details,
 please see ‘Coding of the interrogatives’ below).
-
-and Mandarin interrogatives
-
-to allow a
-
 Currently, the most common topic for early interrogative studies concerns
 wh-questions in Mandarin Chinese. Fahn () studied the acquisition of
 monoclausal wh-questions and found that subject wh-questions were much
@@ -193,152 +80,75 @@ children with autism spectrum disorder (ASD) could understand the
 question readings rather than the statement readings of wh-words. Also,
 there have been other wh-question studies on L–L transfer and
 comparison among Japanese speakers (Yuan, ) and English speakers
-(Yuan, ), and on diﬀerent strategies for the acquisition of diﬀerent
+(Yuan, ), and on different strategies for the acquisition of different
 interrogative forms (Gao, ).
-
 Another common topic is the sequence of question acquisition in Chinese
 children. Ding () found that the sequence of yes/no question acquisition
 was ma question > tag question and ba question > rhetorical question, and
 this sequence was roughly similar for L and L Chinese learners. Wong
-and Ingram ()
-the sequence of Cantonese question
+and Ingram () found that the sequence of Cantonese question
 acquisition between one and three years of age was particle/intonation
 questions > wh-questions > A-not-A questions. They tended to believe that
 syntactic complexity, cognitive complexity, and personal/social factors, as
-
-found that
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-than boys,
-
 well as their interactions, could have determined the sequence of question
 acquisition. In addition, our previous Cantonese studies (Li et al., ;
 Tse & Li, ) found that girls produced more types of interrogative
-form–function
-forms
+forms than boys, and that there was a significant form–function
 preference, with wh- and multiple questions being primarily used to seek
 information. Is the same pattern found in the interrogative development of
 Mandarin-speaking young children? This study addresses this question by
-examining the development of
-interrogative forms with a large-scale
+examining the development of interrogative forms with a large-scale
 sample of Mandarin-speaking young children.
-
-there was
-
-signiﬁcant
-
-and that
-
-a
-
-()
-
-functions
-
-since Sully
-
-identiﬁed two major
-
-Development of interrogative functions in Mandarin Chinese
+Development of interrogative functions in Mandarin Chinese.
 Interrogative function refers to the pragmatic function of questioning (Li
 et al., ), and it has been widely and repeatedly studied in the past two
-centuries
-of
+centuries since Sully () identified two major functions of
 interrogatives: asking for information (‘what’, ‘how old’, ‘where’, ‘who’)
-and asking for reasons and causes. Piaget
-() created a complete
+and asking for reasons and causes. Piaget () created a complete
 typology of interrogative functions: causality, reality and history, action
-and intention, classiﬁcation and evaluation, and calculation. Later on,
+and intention, classification and evaluation, and calculation. Later on,
 Smith (), Holzman (), and Sachs and Devin () further
 categorized child questions into eight categories: external world, internal
-state, request, imperative, attention getting, instruction, conﬁrmation, and
+state, request, imperative, attention getting, instruction, confirmation, and
 repetition. Since the s, a corpus approach has been employed to
-investigate the development of
-(Freed, ;
+investigate the development of interrogative functions (Freed, ;
 Sinclair & Gessel, ). It is important to note that half of those
-functions identiﬁed in previous studies (Freed, ; Holzman, ;
+functions identified in previous studies (Freed, ; Holzman, ;
 Piaget, ; Sinclair & Gessel, ; Sully, ) are asking for
 information (RfI), indicating that interrogatives often serve the function of
 information seeking.
-
-interrogative functions
-
-separate studies on early interrogative development
-
 Recently, Chouinard () conducted a systematic literature review and
-four
-in young
+four separate studies on early interrogative development in young
 American children. Together, the results of her four studies supported the
 existence of the IRM as a way for children to learn about the world. As
-function (%) of American children’s
-RfI was the most dominant
+RfI was the most dominant function (%) of American children’s
 questions in her studies, she hypothesized that RfI might be “a universal
 function of children’s interrogatives”. Tse and Li () used Chouinard’s
 framework to test data drawn from their Early Child Cantonese Corpus,
 and developed a typology of Cantonese interrogative functions: (i) request
 for information (RfI) about names, locations, descriptions, and so forth;
 (ii) request for action (RfA), such as to draw attention to themselves, to
-declare something,
-to generate
-conversation,
-to suggest certain
+declare something, to ask permission to do something, to generate
+conversation, to seek confirmation or verification, to suggest certain
 actions, and to prohibit some actions that they dislike; (iii) emotional
-
-to ask permission to do something,
-
-to seek conﬁrmation or veriﬁcation,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-convey
-
-their
-
-annoyance
-
-(anger)
-
-for action (RfA)
-
-expression to
-or disappointment
+expression to convey their annoyance (anger) or disappointment
 (dissatisfaction); and (iv) egocentric speech, which is directed to no one
 but themselves. Using this typology, our previous study (Li et al., )
 challenged the generality and applicability of Chouinard’s IRM hypothesis
-and found that request
-(rather than RfI) was the
-dominant function of early childhood Cantonese. This contrary ﬁnding,
-however, needs to be veriﬁed further with empirical evidence from an
+and found that request for action (RfA) (rather than RfI) was the
+dominant function of early childhood Cantonese. This contrary finding,
+however, needs to be verified further with empirical evidence from an
 early Mandarin corpus that shares the same culture and communication
-task as in the Cantonese study but
-languages. If
+task as in the Cantonese study but involves different languages. If
 Cantonese- and Mandarin-speaking young children share the same pattern,
-which is diﬀerent
-this
-inconsistent ﬁnding to cultural inﬂuences. If not, the factor of language
+which is different from that of English, we could attribute this
+inconsistent finding to cultural influences. If not, the factor of language
 (instead of culture) should be highlighted.
-
-from that of English, we could attribute
-
-involves diﬀerent
-
 Furthermore, previous studies have found cross-linguistic evidence to
 support the form–function preference in early childhood interrogatives.
 James and Seebach () found that yes/no questions were primarily used
 as directives, whereas wh-questions were employed to initiate and maintain
-conversations. A similar pattern was
-and
+conversations. A similar pattern was found by Shatz () and
 Celce-Murcia and Larsen-Freeman () with English-speaking children.
 A previous study on early Cantonese questions (Li et al., ) also found
 similar patterns: wh-questions were primarily used to request information,
@@ -346,15 +156,10 @@ and intonation/echo and the rhetorical questions were used to request
 action. The present study further explores whether this preference is
 cross-linguistic, based on the evidence from a corpus-based study of
 Mandarin-speaking young children.
-
-found by Shatz
-
-()
-
-Predictors of early language development
+Predictors of early language development.
 Many family, preschool, and environmental factors are known to have an
-inﬂuence on early language acquisition. Family socioeconomic status
-(SES) has been identiﬁed as one of these factors (Hart & Risley, ,
+influence on early language acquisition. Family socioeconomic status
+(SES) has been identified as one of these factors (Hart & Risley, ,
 ; McLoyd, ). Home language input such as parental support has
 been found to be another predictor of young children’s acquisition of
 wh-questions (Gullo, a, b). Other factors such as a supportive
@@ -365,55 +170,38 @@ Fivush, ; Roberts, Jurgens & Burchinal, ). For example, 
 Pine, Lieven, and Theakston () found that the acquisition order of
 wh-questions could be predicted by the frequency with which the mother
 used particular wh-words and verbs in conversations with the child.
-
 Another important predictor of early language acquisition is TV viewing
 time. Recent studies have repeatedly documented a negative association
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
 between early TV exposure and language development (Barr, Lauricella,
 Zack & Calvert, ; Hudon, Fennell & Hoftyzer, ; Pempek,
 Kirkorian & Anderson, ; Tomopoulos, Dreyer, Berkule, Fierman,
 Brockmeyer & Mendelsohn, ). Nathanson and Rasmussen ()
-found that mother–child communication was less
-frequent and less
+found that mother–child communication was less frequent and less
 verbally responsive when dyads viewed TV. Duch et al. () found that
 children who watched more than  hours of television a day had lower
 communication scores. A very recent neuroimaging study (Takeuchi et al.,
-) also conﬁrmed the negative eﬀect of TV viewing on a child’s verbal
+) also confirmed the negative effect of TV viewing on a child’s verbal
 intelligence quotient (VIQ). However, Takeuchi et al.’s study also found
-some positive eﬀects of TV viewing on the regional gray/white matter
+some positive effects of TV viewing on the regional gray/white matter
 volume of the frontopolar and medial prefrontal areas, visual cortex,
 hypothalamus/septum, and sensorimotor areas in young children. All these
 brain areas are associated with cognitive and intellectual abilities. Does TV
-viewing have any negative or positive eﬀects on early interrogative
+viewing have any negative or positive effects on early interrogative
 development? Another aim of the present study is to determine whether
-TV viewing has any negative or positive eﬀects on early interrogative
-development
-following
+TV viewing has any negative or positive effects on early interrogative
+development in Mandarin-speaking young children. The following
 research questions were set up to guide this study:
-
-in Mandarin-speaking young children. The
-
 . What are the interrogative forms produced by a representative sample of
 Mandarin-speaking young children? Are there any age and gender
-diﬀerences in the development of interrogative forms?
-
+differences in the development of interrogative forms?
 . What interrogative functions are present in early childhood Mandarin?
-Are there any age and gender diﬀerences in the development of
+Are there any age and gender differences in the development of
 interrogative functions?
-
 . What are the predictors of early interrogative development in Mandarin
-
 Chinese?
-
-M E T H O D
-Participants
+<Middle>
+METHOD.
+Participants.
 The Early Childhood Mandarin Corpus used in this study consisted of the
 utterances produced by  Mandarin-speaking preschoolers randomly
 sampled from eight preschools located in the four major districts of
@@ -422,147 +210,15 @@ represented children from four age groups (ages ;, ;, ;, and �
 with twenty-one boys and twenty-one girls in each age group. As shown
 in Table , the average age of each group was very close to their target
 age, except for group  whose average age was ;. This is because the
-sampling was carried out very early in the ﬁrst semester, so most of the
+sampling was carried out very early in the first semester, so most of the
 kindergarteners had not achieved the target age. All the participants were
 native speakers of Mandarin, and their parents and teachers also spoke
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-TA B L E . Basic information for the samples in Beijing (N = )
-
-L I E T A L.
-
-Age ·
-(n = )
-
-· (·)
-
-· (·)
-Average age (SD)
-· (·)
-Preschooling experience (month)
-·%
-Maternal degree holders (%)
-·%
-Paternal degree holders (%)
-Private tutoring / extra curriculum ·%
-·%
-Whether have a bookshelf
-Update the bookshelf every 
-%
-month
-Time mother staying with kid
-(hour/day)
-Time father staying with kid
-(hour/day)
-Average number of Chinese books
-(SD)
-Average number of English books
-(SD)
-Parent’s TV viewing time (hour/
-day)
-Child’s TV viewing time (hour/
-day)
-Parent–child conversation time
-(hour/day)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-Age ·
-(n = )
-
-· (·)
-· (·)
-·%
-·%
-·%
-·%
-·%
-
-Age ·
-(n = )
-
-· (·)
-· (·)
-·%
-·%
-·%
-·%
-·%
-
-Age ·
-(n = )
-
-· (·)
-· (·)
-%
-·%
-%
-·%
-·%
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
-· (·)
-
 Mandarin at home and at preschool, respectively. Most of the parents were
 degree holders, and some children had taken extracurricular activities and
 private tutoring in the early years (see Table ). The average TV viewing
 time ranged between · to · hours per day, and the parent–child
 conversation time ranged between · to · hours per day.
-
-Communication task
+Communication task.
 Participants of the same age were paired randomly (boy/girl, boy/boy, or
 girl/girl) and were left in the play corner to play for  minutes. A set of
 regular toys, including cooking materials, faux food and fruit, furniture
@@ -572,98 +228,67 @@ and engaged in any type(s) of play they wished. They were encouraged to
 talk while they were playing, and their conversation was videotaped with a
 digital video camera. The assistant researcher observed but did not
 intervene during the sessions, and there were no other children in the corner.
-
-Transcription
+Transcription.
 All the videotaped conversations were transcribed by trained research
 assistants to a level of detail that captured all words and word fragments
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-(including overlapping speech) audible to the ear, and non-lexical ﬁllers (e.g.
+(including overlapping speech) audible to the ear, and non-lexical fillers (e.g.
 ah), as well as other vocalizations (e.g. laughter). Next, other research
 assistants double-checked the transcripts against the video clips to ensure
 accuracy of transcription. Then, the Chinese script was segmented into
 utterances by the trained research assistants.
-
 Coding of the interrogatives
-Questions and interrogatives were judged according to the standards given in Li
-et al.’s () early childhood Cantonese study. A question was deﬁned as a
-linguistic expression of enquiry that
-invites or calls for a reply. An
-interrogative was deﬁned as the linguistic form of a question and could be a
+Questions and interrogativeswere judged according to the standards given in Li
+et al.’s () early childhood Cantonese study. A question was defined as a
+linguistic expression of enquiry that invites or calls for a reply. An
+interrogative was defined as the linguistic form of a question and could be a
 word, a phrase, or a sentence. All the interrogatives were analyzed and coded
 based on the coding systems as follows. Two authors of this paper coded %
 of the interrogatives elicited from the corpus, and their mutual agreement
 was more than %, indicating excellent inter-coder reliability. Then, one of
-the co-authors coded the rest of the data (SFP = sentence-ﬁnal particle).
-
-()
-
-Intonation and echo questions: raising the intonation of a declarative or
+the co-authors coded the rest of the data (SFP = sentence-final particle).
+() Intonation and echo questions: raising the intonation of a declarative or
 echoing others’ declaratives to construct an interrogative form:
-皮球 不见 了？
+皮球不见了？
 Piqiu bujian le?
 Ball disappeared SFP
 ‘The ball disappeared?’
-
 () Yes/no questions: adding a particle like ma (吗), ba (吧), aa (呀) to a
-
 declarative sentence to ask for yes or no answers:
-你 想 喝水 吗?
+你想喝水吗?
 Ni xiang heshui ma?
 You want drink water SFP
 ‘Do you want to drink water’
-
 () Wh- questions: using wh-words such as shenme (what) (什么), shui
 (who) (谁), wei shenme (why) (为什么), and so on to produce an
 interrogative:
-这是什么 呀？
+这是什么呀？
 Zheshi shenmo ya?
 This is what SFP
 ‘What is this?’
-
 () A-Not-A questions: repeating (or reduplicating) the verb or adjective
 with the negative marker bu (不) in between to deliver an interrogative:
 你认不认识他？
 Ni ren bu renshi ta?
 You know not know him
 ‘Do you know him or not?’
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
 () Alternative question: conjoining two phrases with the conjunction
-haishi (还是) or huozhe (或者) to oﬀer a choice between two alternatives:
+haishi (还是) or huozhe (或者) to offer a choice between two alternatives:
 今天是星期一还是星期二?
 Jintian shi xinqiyi haishi xinqier?
 Today is Monday or Tuesday
 ‘Is today Monday or Tuesday?’
-
 () Rhetorical question: an interrogative expressing negative meaning with
-
-()
-
 positive form or vice versa, which is not supposed to be answered:
 我怎么知道呢？
 Wo zenmo zhidao ne?
 I how to know SFP
 ‘How should I know?’ (I don’t know, indeed)
-Indirect questions: using a clause beginning with wh-words to report a
+() Indirect questions: using a clause beginning with wh-words to report a
 question, which is normally called a reported question:
 你知道谁要这本书吗？
 Ni zhidao shui yao zheben shu ma?
 You know who want this book SFP
 ‘Do you know who wants to have this book?’
-
 () Multiple questions: two or more question words appearing in a
 statement to request more information, as in the English “Where and
 when are we going to meet?”:
@@ -671,858 +296,256 @@ when are we going to meet?”:
 Women jidianzhong zai nani jianmian?
 We when at where meet up
 ‘When and where should we meet up?’
-
 Parental report
 One parent of each participating child was invited to complete the Home
 Language Environment Survey (HLES), which was developed from the
 Home Literacy Environment Index (HLEI) (Li & Rao, ). The HLES
 consists of twenty-nine questions that tap parental beliefs and practices
-about
-input, parental
+about the home language environment, language input, parental
 involvement, language resources, and learning strategies. The HLEI has
 been developed and validated for use in Beijing, Hong Kong, and
 Singapore (Li & Rao, ).
-
-environment,
-
-language
-
-the home
-
-language
-
-R E S U L T S
+RESULTS
 Altogether, , instances of Mandarin interrogative were elicited from
-the corpus, which included all
-the utterances produced by the 
+the corpus, which included all the utterances produced by the 
 children. On average, each participant uttered · interrogative types
 during the half-hour period of communication. Some , (·%) of the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
 interrogatives were produced by the boys, and the remaining , (·%)
 by the girls. The interrogative types produced by the ;, ;, ;, and ;
 age groups were  (·%),  (·%),  (·%), and  (·%),
 respectively. The following analyses were executed to explore the
 developmental trends in interrogative form and function, possible form–
 function preferences, and the predictors of interrogative development.
-
 The development of interrogative forms
 First, a descriptive analysis was conducted to examine the occurrence of all
 the interrogative forms proposed in this study. As shown in Table , the
-four age groups produced ﬁve types of Mandarin interrogative forms:
+four age groups produced five types of Mandarin interrogative forms:
 ‘intonation/echo’, ‘yes/no question’, ‘wh-question’, ‘A-not-A’, and ‘rhetorical
 question’. However, ‘alternative question’, ‘indirect question’, and ‘multiple
 question’ were not found or were very rarely produced. In particular,
-wh-questions
-followed by
+wh-questions (·%) were very frequently produced, followed by
 intonation/echo (·%) and yes/no question (·%).
-
-(·%) were very frequently produced,
-
 Next, a set of ANOVAs with ages by sex as the independent variables was
 applied to the three dependent variables: the total number of interrogative
-types, forms, and functions. Signiﬁcant Age eﬀects were found in the total
+types, forms, and functions. Significant Age effects were found in the total
 number of interrogative types (F(,) = ·, p < ·, η = ·), forms
 (F(,) = ·, p < ·, η = ·), and functions (F(,) = ·,
-p < ·, η = ·). There was no signiﬁcant Gender eﬀect in the total
+p < ·, η = ·). There was no significant Gender effect in the total
 number of interrogative types (F(,) = ·, p > ·, η = ·), forms
 (F(,) = ·, p > ·, η = ·), and functions (F(,) = ·, p > ·,
-η = ·). In addition, there was no Age × Gender eﬀect in the total
+η = ·). In addition, there was no Age × Gender effect in the total
 number of interrogative types, forms, and functions (ps > ·). A set of
-post-hoc Tukey (HSD)
-in
+post-hoc Tukey (HSD) tests found no significant differences in
 interrogative forms between the ; and ; age groups (ps > ·), whereas
-signiﬁcant diﬀerences were found between the ; age group and the ;/
-; age groups (ps < ·). The older children produced signiﬁcantly more
+significant differences were found between the ; age group and the ;/
+; age groups (ps < ·). The older children produced significantly more
 types of interrogative form than the children under age :. This indicated
 that between the ages of ; and ; might be the critical period in the
 early development of interrogative forms.
-
-found no signiﬁcant diﬀerences
-
-tests
-
 Third, follow-up one-way ANOVAs were conducted to explore age
-diﬀerences in the ﬁve interrogative forms found in this study. Signiﬁcant
-age diﬀerences were found in the distribution of wh-questions (F(,) =
-·, p < ·), with post-hoc Tukey tests showing a statistically signiﬁcant
-diﬀerence between the ; and ; age groups (p < ·), and between the
-; and ; age groups (p < ·). The older children produced signiﬁcantly
+differences in the five interrogative forms found in this study. Significant
+age differences were found in the distribution of wh-questions (F(,) =
+·, p < ·), with post-hoc Tukey tests showing a statistically significant
+difference between the ; and ; age groups (p < ·), and between the
+; and ; age groups (p < ·). The older children produced significantly
 more types of wh-questions than the children under age ;. In addition,
-signiﬁcant age diﬀerences were also found in the distribution of rhetorical
+significant age differences were also found in the distribution of rhetorical
 questions (F(,) = ·, p < ·), with post-hoc Tukey tests showing a
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-TA B L E . Age diﬀerences in interrogative form and function
-
-Age ·
-Mean (%)
-(n = )
-
-Age ·
-Mean (%)
-(n = )
-
-Age ·
-Mean (%)
-(n = )
-
-Age ·
-Mean (%)
-(n = )
-
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
- (·%)
- (%)
- (%)
- (·%)
-
- (·%)
- (%)
- (%)
- (·%)
- (·%)
-
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
- (·%)
- (%)
- (%)
- (·%)
-
- (·%)
- (·%)
-
- (%)
- (·%)
- (·%)
-
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
- (%)
- (·%)
-
- (·%)
- (%)
- (·%)
- (·%)
- (·%)
-
- (%)
- (·%)
- (·%)
- (·%)
- (·)
- (·%)
- (%)
- (%)
- (%)
-
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
-
-Form
-Intonation / echo
-Yes/No Question
-Wh-Question
-A-Not-A
-Alternative question
-Rhetorical question
-Indirect question
-Multiple questions
-Wrong use / unclassiﬁed
-Function
-Request for information
-Request for action
-Emotional expression
-Egocentric speech
-Wrong use / unclassiﬁed
-
-NOTE: The percentages in brackets were calculated just for each age group.
-
-statistically signiﬁcant diﬀerence between the ; and ; age groups
-(p < ·). The ; age group produced signiﬁcantly more types of
-rhetorical questions
-further
+statistically significant difference between the ; and ; age groups
+(p < ·). The ; age group produced significantly more types of
+rhetorical questions than the : age group These results further
 supported the conclusion that there is a dramatic growth in interrogative
 forms between the ages of ; and ; in Mandarin-speaking children.
-
-than the : age group These results
-
-Last, gender diﬀerences were explored with a set of one-way ANVOAs.
-All
-the interrogative forms appeared to be quite evenly distributed
-between girls and boys, except for the wh-questions. A signiﬁcant gender
-diﬀerence was found in the distribution of wh-questions (F(,) = ·,
+Last, gender differences were explored with a set of one-way ANVOAs.
+All the interrogative forms appeared to be quite evenly distributed
+between girls and boys, except for the wh-questions. A significant gender
+difference was found in the distribution of wh-questions (F(,) = ·,
 p < ·), with the girls (%) tending to ask a greater proportion of
-wh-questions than the boys (·%)
-(see Table ). In summary, a
-signiﬁcant age eﬀect was found in interrogative forms, and the period
-between the ages of ; and ; was identiﬁed as critical
-in the early
+wh-questions than the boys (·%) (see Table ). In summary, a
+significant age effect was found in interrogative forms, and the period
+between the ages of ; and ; was identified as critical in the early
 acquisition of interrogative forms.
-
-The development of interrogative functions
+The development of interrogative functions.
 As can be seen in Table , all the interrogative functions produced by the
 participants could be placed into the three major categories suggested by
 Chouinard (): (i) information-seeking (request for information, RfI),
-(ii) action-beseeching (request for action, RfA), and (iii) non-information-
-seeking. It was found that the interrogatives in early childhood Mandarin
+(ii) action-beseeching (request for action, RfA), and (iii) non-informationseeking.
+It was found that the interrogatives in early childhood Mandarin
 served the function of soliciting information (·%) more often than the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-TA B L E . Gender diﬀerences in interrogative form and function
-
-Form
-Intonation / echo
-Yes/No Question
-Wh-Question
-A-Not-A
-Alternative question
-Rhetorical question
-Indirect question
-Multiple questions
-Wrong use / unclassiﬁed
-Function
-Request for information
-Request for action
-Emotional expression
-Egocentric speech
-Wrong use / unclassiﬁed
-
-Boy
-Mean (%)
-(n = )
-
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
- (%)
- (·%)
-
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
-
-Girl
-Mean (%)
-(n = )
-
- (%)
- (·%)
- (%)
- (·%)
- (·%)
- (·%)
- (%)
- (%)
- (·%)
-
- (·%)
- (·%)
- (·%)
- (·%)
- (·%)
-
-NOTE: The percentages in brackets were calculated just for each gender group.
-
 function of seeking action (·%) and other functions (·%). Two-way
-ANOVA analysis results indicated strongly signiﬁcant age eﬀects in
-interrogative function (F(,) = ·, p < ·, η = ·). No signiﬁcant
-gender eﬀects were found (F(,) = ·, p > ·, η = ·), and no
-signiﬁcant Age × Gender eﬀects were found. Further analyses indicated a
-signiﬁcant age diﬀerence in the distribution of RfI (F(,) = ·,
-p < ·), with post-hoc Tukey tests showing a statistically signiﬁcant
-diﬀerence between the ; age group and the three other age groups
-(ps < ·). A signiﬁcant age diﬀerence was also found in the distribution
+ANOVA analysis results indicated strongly significant age effects in
+interrogative function (F(,) = ·, p < ·, η = ·). No significant
+gender effects were found (F(,) = ·, p > ·, η = ·), and no
+significant Age × Gender effects were found. Further analyses indicated a
+significant age difference in the distribution of RfI (F(,) = ·,
+p < ·), with post-hoc Tukey tests showing a statistically significant
+difference between the ; age group and the three other age groups
+(ps < ·). A significant age difference was also found in the distribution
 of RfA (F(,) = ·, p < ·), with post-hoc Tukey tests showing a
-statistically signiﬁcant diﬀerence between the ; age group and the three
+statistically significant difference between the ; age group and the three
 other age groups (ps < ·). All these results consistently indicated that
 between the ages of ; and ; might be a critical period in the
 acquisition of interrogative functions in Mandarin-speaking children.
-
-Next, gender diﬀerences in interrogative functions were explored with a
-one-way ANOVA. A signiﬁcant gender diﬀerence was found in the
-distribution of RfI (F(,) = ·, p < ·), with the girls
-(·%)
+Next, gender differences in interrogative functions were explored with a
+one-way ANOVA. A significant gender difference was found in the
+distribution of RfI (F(,) = ·, p < ·), with the girls (·%)
 tending to make more requests for information than the boys (·%). As
 shown in Figure , older children tended to make more requests for action
 by asking questions, but fewer requests for information. In summary, a
-signiﬁcant age eﬀect was found in interrogative functions, and a signiﬁcant
-gender diﬀerence was only found in the distribution of RfI. Also, between
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-Fig. . Age diﬀerences in interrogative function: RfI versus RfA.
-
+significant age effect was found in interrogative functions, and a significant
+gender difference was only found in the distribution of RfI. Also, between
 the ages of ; and ; seemed to be the critical developmental period for
 interrogative functions.
-
-The form–function preference in Mandarin interrogatives
+The form–function preference in Mandarin interrogatives.
 As shown in Table , a form–function preference was found in the
 production of interrogatives: the wh-questions (·%) were primarily used
-information, whereas the intonation/echo (·%) and the
-to request
-(·%) questions were employed to request action. These
-rhetorical
-outcomes, as shown in Table ,
-indicated that the Mandarin-speaking
-young children tended (i)
-to seek information more frequently with
+to request information, whereas the intonation/echo (·%) and the
+rhetorical (·%) questions were employed to request action. These
+outcomes, as shown in Table , indicated that the Mandarin-speaking
+young children tended (i) to seek information more frequently with
 wh-questions (·%); (ii) to request action more frequently with rising
 tone (·%) and rhetorical questions (·%); (iii) to be less likely to use
 wh-questions to request action (·%); and (iv) to reduce their use of
 rhetorical questions (·%) and a rising tone (·%) to elicit information.
-
-Predictors of Chinese interrogative development
+Predictors of Chinese interrogative development.
 To explore the variables associated with early interrogative development, we
 conducted a correlation analysis on the variables involved. The correlation
-matrix indicated that the following factors were signiﬁcantly correlated
-with individual production of question types,
-interrogative forms, and
+matrix indicated that the following factors were significantly correlated
+with individual production of question types, interrogative forms, and
 functions: preschooling experience, extracurricular experience, private
 tutoring in Chinese, early Chinese literacy, and TV viewing time (hours).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-TA B L E . Distribution of diﬀerent interrogative functions over the forms (N =
-
-)
-
-Function
-
-Form
-
-Intonation / echo
-Yes/No Question
-Wh-Question
-A-Not-A
-Alternative
-question
-Rhetorical
-question
-
-Request for
-information
-
-Request for
-action
-
-Non-information
-seeking
-
- (·%)
- (·%)
- (·%)
- (·%)
- (%)
-
- (·%)
-
- (·%)
- (%)
- (·%)
- (·%)
- (%)
-
- (·%)
-
- (·%)
- (·%)
- (·%)
-
-
-
-
-
-
-Total
-
-
-
-
-
-
-
-
-
-NOTE: The percentages in brackets were calculated for each type of interrogative form.
-
 Next, to determine the relative contribution of these correlated factors, we
-conducted four-step hierarchical
-regression analyses with individual
+conducted four-step hierarchical regression analyses with individual
 production of question types, interrogative forms, and functions as the
 dependent variables. Results are shown in Table . In Step , we entered
-age and gender to control for their eﬀects. In Step , preschooling
+age and gender to control for their effects. In Step , preschooling
 experience and curriculum type were entered. In Step , extracurricular
 experience and private tutoring in Chinese were entered. In Step , early
 Chinese literacy, parent–child conversation time, and TV watching time
 were entered.
-
-interrogative types,
-
 The change in R between the four steps indicated that: (i) the age and
 gender of the children could jointly explain ·%, %, and ·% of the
-variation in individual production of
-forms, and
-functions, respectively. In addition, age turned out
-to be the most
-signiﬁcant predictor of the production of interrogatives; (ii) preschooling
+variation in individual production of interrogative types, forms, and
+functions, respectively. In addition, age turned out to be the most
+significant predictor of the production of interrogatives; (ii) preschooling
 experience and curriculum type, extracurricular experience, and private
 tutoring in Chinese could jointly explain ·%, ·%, and ·% of the
-individual diﬀerences
-and functions,
-respectively. However, none of them was a signiﬁcant predictor; and (ii)
+individual differences in interrogative types, forms, and functions,
+respectively. However, none of them was a significant predictor; and (ii)
 early Chinese literacy learning, TV viewing time, and parent–child
 conversation time could jointly explain %, %, and ·% of the variation
 in individual production of interrogative types, forms, and functions,
-respectively. In particular, TV viewing time turned out
-to be the
-signiﬁcant predictor of question production and interrogative functions:
-the greater the viewing time,
-the more the types of questions and
-functions produced by the children. However, it had no signiﬁcant eﬀect
+respectively. In particular, TV viewing time turned out to be the
+significant predictor of question production and interrogative functions:
+the greater the viewing time, the more the types of questions and
+functions produced by the children. However, it had no significant effect
 on the production of interrogative forms. It was very interesting to note
-that parent–child conversation time became a signiﬁcant predictor of
-
-forms,
-
-in interrogative
-
-types,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-TA B L E . Summary of hierarchical regression analyses for home variables
-
-predicting Chinese interrogative development
-
-Variable
-
-Beta
-
-Predicting question production
-Step 
-Age
-Gender
-
-Step 
-
-Schooling experience
-Curriculum type
-
-Step 
-
-Extracurricular experience
-Private tutoring in Chinese
-
-Step 
-
-Early Chinese literacy learning
-TV watching time
-Parent–child conversation time
-
-Predicting form types
-Step 
-Age
-Gender
-
-Step 
-
-Schooling experience
-Curriculum type
-
-Step 
-
-Extracurricular experience
-Private tutoring in Chinese
-
-Step 
-
-Early Chinese literacy learning
-TV watching time
-Parent–child conversation time
-
-Predicting function types
-Step 
-Age
-Gender
-
-Step 
-
-Schooling experience
-Curriculum type
-
-Step 
-
-Extracurricular experience
-Private tutoring in Chinese
-
-Step 
-
-Early Chinese literacy learning
-TV watching time
-Parent–child conversation time
-
-·***
-·
-
-·
-·
-
-·
-–·
-
-·
-·**
-–·*
-
-·***
-·
-
-·
-·
-
-·
-–·
-
-·
-·
-·
-
-·***
-–·
-
-·
-·
-
-·
-–·
-
-·
-·*
-–·
-
-R
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-ΔR
-
-–
-
-·
-
-·
-
-·
-
-F
-
-·***
-
-·***
-
-·***
-
-·***
-
-–
-
-·***
-
-·
-
-·
-
-·
-
-·***
-
-·***
-
-·***
-
-–
-
-·***
-
-·
-
-·
-
-·
-
-·***
-
-·***
-
-·***
-
-NOTES: * p < ·; ** p < ·; *** p < ·.
-
+that parent–child conversation time became a significant predictor of
 question production, although the correlation between them was negative.
 This result indicated that the longer the parent–child conversation time,
 the fewer the questions produced by the child. In summary, this set of
 hierarchical regression analyses found that age, TV viewing time, and
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-parent–child conversation time were signiﬁcant predictors of interrogative
+parent–child conversation time were significant predictors of interrogative
 development in Mandarin-speaking young children.
-
-D I S C U S S I O N
-As the largest
-investigation ever made so far into early Mandarin
+<Conclusion>
+DISCUSSION
+As the largest investigation ever made so far into early Mandarin
 interrogatives, this study set out to examine rich corpus data in an attempt
 to ascertain the trends and predictors with respect to early interrogative
-development. Signiﬁcant age diﬀerences were found for both interrogative
-forms and functions, whereas signiﬁcant gender diﬀerences were found
+development. Significant age differences were found for both interrogative
+forms and functions, whereas significant gender differences were found
 only in the distribution of wh-questions and RfI. The widely reported
-form–function preference was veriﬁed, and the following predicators
-were also identiﬁed: age, TV viewing time (hours), and parent–child
-conversation time (hours). This section discusses these ﬁndings and their
+form–function preference was verified, and the following predicators
+were also identified: age, TV viewing time (hours), and parent–child
+conversation time (hours). This section discusses these findings and their
 implications for early language learning and teaching.
-
-forms
-
-and functions,
-
-respectively. All
-
-Age diﬀerences in interrogative development
-The present study found that the Mandarin-speaking children produced ﬁve
+Age differences in interrogative development
+The present study found that the Mandarin-speaking children produced five
 types of Mandarin interrogative forms, but not the three complicated forms.
-In addition, the study found a signiﬁcant age eﬀect in interrogative forms
-and functions, and identiﬁed the periods between the ages of ; and ;
+In addition, the study found a significant age effect in interrogative forms
+and functions, and identified the periods between the ages of ; and ;
 and between the ages of ; and ; as critical in the early acquisition of
-interrogative
-these ﬁndings,
+interrogative forms and functions, respectively. All these findings,
 however, were inconsistent with those of our previous study on early
 Cantonese interrogatives (Li et al., ), in which all eight interrogative
 forms and functions were produced by the ;–; age groups, and no age
-diﬀerence was found. These inconsistent ﬁndings reﬂect the two diﬀerent
-developmental
-trajectories that the young Mandarin-speaking and the
+difference was found. These inconsistent findings reflect the two different
+developmental trajectories that the young Mandarin-speaking and the
 young Cantonese-speaking children followed in acquiring interrogative
 forms: in Beijing, the young children did not acquire all the interrogative
 forms and functions until age ;, and the periods between ; and ;
 and between ; and ; witnessed a rapid growth in interrogative forms
 and functions. In Hong Kong, on the other hand, the young children
 acquired all the interrogative forms and functions by the age of three, so
-there was no age diﬀerence.
-
-in Beijing. In addition to the diﬀerences
-
+there was no age difference.
 This contrast indicated that the Cantonese-speaking young children
 developed interrogative forms and functions much earlier than their
-in language
-counterparts
-(Cantonese versus Mandarin),
-in
+counterparts in Beijing. In addition to the differences in language
+(Cantonese versus Mandarin), there were significant differences in
 language environment: Beijing is a monolingual society, whereas Hong
 Kong is a typical ‘biliterate and trilingual’ society (Li & Rao, ). The
 Hong Kong children were immersed in Cantonese, English, and Mandarin
 environments (home, school, community, and media) in the early years
-
-signiﬁcant diﬀerences
-
-there were
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-and might have beneﬁted from this experience. However, this inconsistent
-ﬁnding is empirically supported by the ﬁndings of Li and Chen’s ()
+and might have benefited from this experience. However, this inconsistent
+finding is empirically supported by the findings of Li and Chen’s ()
 longitudinal study on Mandarin-speaking children’s question acquisition.
-In their case study, a child was followed from age one to age ﬁve, and her
+In their case study, a child was followed from age one to age five, and her
 interrogative utterances were analyzed. The results indicated that the child
 could produce all the interrogative forms listed in the case study around
 ;. Although their study and our study did not share exactly the same
-typology of
-they both indicated that Mandarin-
-speaking young children tended to acquire some new interrogative forms
-three. This diﬀerence between early Cantonese and
-after the age of
-Mandarin interrogative
-associated with the
-diﬀerences in languages, samples, and language environments. Also, we
-tend to believe
-aﬀect question
+typology of interrogative forms, they both indicated that Mandarinspeaking
+young children tended to acquire some new interrogative forms
+after the age of three. This difference between early Cantonese and
+Mandarin interrogative acquisition might be associated with the
+differences in languages, samples, and language environments. Also, we
+tend to believe that early language environments affect question
 acquisition, which deserves further comparative investigations.
-
-acquisition might be
-
-interrogative forms,
-
-early language
-
-environments
-
-that
-
-Another notable ﬁnding was that the  Mandarin-speaking children
-produced altogether , types of
-interrogative during the half-
-hour communication sessions, generating a questioning rate of ·
-per child per hour. This is signiﬁcantly more than the questioning rates
-(· questions per hour) in Li et al.’s () study with Cantonese-
-speaking children, and the questioning rates ( questions per hour) in
-Tizard and Hughes’s () study with English children. This ﬁnding
+Another notable finding was that the  Mandarin-speaking children
+produced altogether , types of interrogative during the halfhour
+communication sessions, generating a questioning rate of ·
+per child per hour. This is significantly more than the questioning rates
+(· questions per hour) in Li et al.’s () study with Cantonesespeaking
+children, and the questioning rates ( questions per hour) in
+Tizard and Hughes’s () study with English children. This finding
 indicated that the young Beijing children might be more talkative with
 their peers and tend to raise more questions than their Hong Kong
-counterparts. This diﬀerence might also reﬂect
-their diﬀerent early
+counterparts. This difference might also reflect their different early
 language and learning experiences at home and in school. This, again,
 deserves further studies.
-
-Gender diﬀerences in interrogative development
-Very few signiﬁcant gender diﬀerences were found in early Mandarin
+Gender differences in interrogative development.
+Very few significant gender differences were found in early Mandarin
 interrogative development. First, regarding the early interrogative forms, it
-the girls produced relatively more wh-questions (in
-was found that
-percentages) than did the boys. This ﬁnding is not very consistent with
-the ﬁndings of previous studies, which found that boys utilized more
+was found that the girls produced relatively more wh-questions (in
+percentages) than did the boys. This finding is not very consistent with
+the findings of previous studies, which found that boys utilized more
 wh-questions (Davis, ; Li et al., ; Smith, ). As our studies
 on early childhood Cantonese (Li et al., ) and Mandarin shared the
-same research design and communication task, this inconsistent ﬁnding,
-again, might have been caused by the diﬀerences in samples (diﬀerent age
-groups),
-language
+same research design and communication task, this inconsistent finding,
+again, might have been caused by the differences in samples (different age
+groups), languages (Cantonese versus Mandarin), and language
 environments between Beijing and Hong Kong. This study, for instance,
 found that the ; age group produced many more wh-questions (·%)
 than the other age groups (ranging between ·% and ·%). More
 studies, however, are also needed to identify the real causes.
-
-versus Mandarin),
-
-(Cantonese
-
-languages
-
-and
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
 Second, the present study found that girls tended to make more requests
-for information (RfI) than the boys. This ﬁnding is inconsistent with that
-of our previous study, which found no signiﬁcant gender diﬀerence in the
+for information (RfI) than the boys. This finding is inconsistent with that
+of our previous study, which found no significant gender difference in the
 interrogative functions produced by the Cantonese-speaking preschoolers
 (Li et al., ). As the two studies share the same culture, design, and
-task, this inconsistent ﬁnding indicated that the gender diﬀerence in
-interrogative
-from Mandarin to Cantonese.
-Although Chouinard () did not
-report any signiﬁcant gender
-diﬀerence in her four studies, other studies on English-speaking children
+task, this inconsistent finding indicated that the gender difference in
+interrogative functions might differ from Mandarin to Cantonese.
+Although Chouinard () did not report any significant gender
+difference in her four studies, other studies on English-speaking children
 (Davis, ; Smith, ) have found that boys tend to ask more causal
 questions using wh-questions than girls. So far, three types of results have
 been reported concerning the early development of RfI functions: boys >
 girls (Davis, ; Smith, ), boys = girls (Chouinard, ; Li et al.,
-), and boys < girls
-the only
-conclusion might be that gender diﬀerence in early interrogative functions
+), and boys < girls (this study). In this connection, the only
+conclusion might be that gender difference in early interrogative functions
 could vary across languages, communication tasks, and social contexts.
 This casts some doubt on the cross-linguistic universality of gender
-diﬀerences in interrogative functions.
-
-study). In this connection,
-
-functions might diﬀer
-
-(this
-
-Universality of the IRM hypothesis
+differences in interrogative functions.
+Universality of the IRM hypothesis.
 The second objective of this study was to examine the cross-linguistic
 universality of the Information Requesting Mechanism (IRM) proposed
 by Chouinard (), which has been challenged by our previous study on
@@ -1532,28 +555,19 @@ were requests for information (RfI), whereas only ·% of them were
 requests for action (RfA). This large-scale study has provided very solid
 cross-linguistic evidence to support Chouinard’s IRM, indicating that the
 IRM mechanism might be applicable across languages and circumstances.
-This ﬁnding, however, is inconsistent with that of our previous study on
+This finding, however, is inconsistent with that of our previous study on
 early Cantonese interrogatives (Li et al., ). The two studies were
 conducted by the same team and with the same research design and
-communication task, and the only diﬀerence is that the current study
+communication task, and the only difference is that the current study
 included a ; age group. Also, the present study found that the ; age
 group produced relatively more information-seeking interrogatives (%)
-and signiﬁcantly boosted the overall percentage of RfI interrogatives. This
-ﬁnding indicated that the young Mandarin-speaking children tended to
+and significantly boosted the overall percentage of RfI interrogatives. This
+finding indicated that the young Mandarin-speaking children tended to
 make more requests for information (RfI) before the age of three, and that
 the dramatic changes occurred during the period between the ages of ;
 and ;.
-
 Coincidently, Chouinard’s four studies () mainly focused on younger
 children, under age three or four, and her samples were relatively younger
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
 than the samples in our early Cantonese corpus. Cantonese-speaking children
 under age three might also produce more RfI in their interrogative functions.
 Therefore, we tend to integrate our studies on early Cantonese and Mandarin
@@ -1561,70 +575,46 @@ with Chouinard’s study on early English, and modify the IRM hypothesis as
 follows: RfI predominates before age ;, while RfA predominates in the
 post-; years, as the dominance of RfI versus RfA might change over the
 course of a child’s development. However, further empirical studies are
-needed to verify this modiﬁed hypothesis.
-
-Last, the present study has further veriﬁed the form–function preference
+needed to verify this modified hypothesis.
+Last, the present study has further verified the form–function preference
 in early Mandarin interrogatives. The young children tended to use
 wh-questions to request information, and intonation/echo questions to seek
 action. In contrast, intonation/echo questions were less frequently used to
 elicit information, and wh-questions were rarely used to request action.
-This has veriﬁed the patterns
-study on
+This has verified the patterns found in our previous study on
 Cantonese-speaking children (Li et al., ) and in Celce-Murcia and
 Larsen-Freeman’s () study on English-speaking children.
-
-found in our previous
-
-The predictors of Mandarin interrogative development
+The predictors of Mandarin interrogative development.
 The present study found that, in addition to the age of the children – the
-most signiﬁcant contributor – TV viewing time was a signiﬁcant predictor
-of interrogative types and functions. This ﬁnding implied that the greater
+most significant contributor – TV viewing time was a significant predictor
+of interrogative types and functions. This finding implied that the greater
 the TV viewing time, the more interrogative types and functions produced
-by the children. This ﬁnding is not very consistent with recent studies,
+by the children. This finding is not very consistent with recent studies,
 which have consistently documented a negative association between early
 TV exposure and language development (Barr et al., ; Hudon et al.,
 ; Pempek et al., ; Tomopoulos et al., ). However, none of
 these studies used interrogatives as the language performance indicator. A
-possible explanation for these ‘inconsistent’ ﬁndings is that TV viewing
+possible explanation for these ‘inconsistent’ findings is that TV viewing
 could have triggered the young children’s curiosity about the outside
 world, and accordingly generated more questions. Furthermore, as soon as
 the young children had learnt more about the world through watching
 TV, they would ask more questions with more pragmatic functions. And
 further studies will be done to understand which interrogative functions
-are directly aﬀected by TV viewing time. Questions, however, do not
+are directly affected by TV viewing time. Questions, however, do not
 necessarily correlate with other language performance indicators. For
-instance, we did not ﬁnd any correlations between MLU and interrogative
+instance, we did not find any correlations between MLU and interrogative
 development in our previous study on Cantonese-speaking children (Li
-et al., ). Therefore, we would not regard this ﬁnding as inconsistent
-with others;
-instead, we tend to conclude that TV viewing has both
-positive and negative eﬀects on various domains of early language
-development. Thus,
-to a
-balanced view of TV viewing eﬀects.
-
-this study tends to lend empirical support
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-Second,
-
-and questions,
-
-the present study found that
-
-the more the parent–child
+et al., ). Therefore, we would not regard this finding as inconsistent
+with others; instead, we tend to conclude that TV viewing has both
+positive and negative effects on various domains of early language
+development. Thus, this study tends to lend empirical support to a
+balanced view of TV viewing effects.
+Second, the present study found that the more the parent–child
 conversation time, the fewer the interrogative types produced by the child.
 In early childhood years, parents are the primary ‘important others’ of
 children, and family is the most important environment. In parent–child
 shared book reading and communication, children respond to the story or
-adults with comments
-and parents maintain their
+adults with comments and questions, and parents maintain their
 interaction with children by proposing and answering questions. In this
 mutual process, children acquire the ability to make questions. In Chinese
 culture, however, parents do not converse on equal grounds with children
@@ -1632,24 +622,15 @@ so routinely, and the latter are not encouraged to question authoritative
 adults, such as parents and teachers (Li et al., ). Moreover, Chinese
 children are expected to follow their parents’ or teachers’ instructions to
 the letter. Therefore, the more the parent–child conversation, the fewer
-the questions
-another possible
-interpretation might be that parent–child conversation could have satisﬁed
+the questions raised by the child. Nevertheless, another possible
+interpretation might be that parent–child conversation could have satisfied
 children’s curiosity to a large extent, so the latter would have fewer
 questions. This assumption also needs further examination.
-
-child. Nevertheless,
-
-raised by the
-
-limitation of
-
-This is the ﬁrst corpus-based psycholinguistic study on the development
+This is the first corpus-based psycholinguistic study on the development
 of interrogative forms and functions and their predictors among Beijing
 children. Using a corpus as a primary source of evidence allowed us to
 establish the norms and to test the cross-linguistic generality of Choinard’s
-IRM hypothesis. However, a major
-this corpus-based
+IRM hypothesis. However, a major limitation of this corpus-based
 research is that the data only represented a sample of the entire language,
 and not the target language in its totality (Tse & Li, ). Therefore, it
 should be borne in mind that this corpus might not contain all the
@@ -1661,246 +642,11 @@ than longitudinal, and the age range examined should have extended
 downwards in order to elicit a more complete picture of the development
 of interrogatives in the very early years, such as from age one to age two.
 Nevertheless, the typology and pattern established in the present study
-contributes
-the development of
+contributes to furthering the understanding of the development of
 interrogative forms and functions in childhood Mandarin Chinese and to
-broadening the database of
-in diﬀerent
+broadening the database of interrogative development in different
 languages. Furthermore, this study has provided some cross-linguistic
 evidence to support the IRM hypothesis and has cast new light on the
 importance of cross-cultural and cross-linguistic comparison of early child
 interrogatives. In this connection, this study has raised more questions
 than answers about early child interrogatives.
-
-to furthering the understanding of
-
-interrogative development
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-R E F E R E N C E S
-
-Barr, R., Lauricella, A., Zack, E. & Calvert, S. L. (). Infant and early childhood exposure
-to adult-directed and child-directed television programming: relations with cognitive skills
-at age four. Merrill-Palmer Quarterly , –.
-
-Celce-Murcia, M. & Larsen-Freeman, D. (). The grammar book: an ESL/EFL teacher’s
-
-course, nd ed. Boston, MA: Heinle & Heinle.
-
-Cheng, R. L. (). Chinese question forms and their meanings. Journal of Chinese
-
-Linguistics , –.
-
-Chouinard, M. (). Children’s questions: a mechanism for cognitive development.
-
-Monographs of the Society for Research in Child Development,  (, Serial No. ).
-
-Davis, E. (). The form and function of children’s questions. Child Development , –.
-DeJong, P. F. & Leseman, P. P. M. (). Lasting eﬀects of home literacy on reading
-
-achievement in school. Journal of School Psychology , –.
-
-Ding, X. H. (). The distributional features and developing of Chinese yes-no questions
-used by elementary and intermediate foreign learners. Chinese Teaching in the World ,
-–.
-
-Duch, H., Fisher, E. M., Ensari, I., Font, M., Harrington, A., Taromino, C., Yip, J. &
-Rodriguez, C. (). Association of screen time use and language development in
-Hispanic toddlers: a cross-sectional and longitudinal study. Clinical Pediatrics , –.
-Fahn, R. L. S. (). Chinese-speaking children’s production of wh-questions. Studies in
-
-Linguistics , –.
-
-Freed, A. F. (). The form and function of questions in informal dyadic conversation.
-
-Journal of Pragmatics , –.
-
-Gao, B. N. (). L acquisition of Chinese wh-questions by English-speaking learners.
-
-Unpublished doctoral dissertation, University of Iowa, USA.
-
-Gao, H. (). A cognitive-functional investigation of questions in Chinese. Unpublished
-
-doctoral dissertation, University of Hong Kong, Hong Kong.
-
-Gao, M. C. F. (). Mandarin Chinese: an introduction. New York: Oxford University
-
-Press.
-
-Graddol, D. (). The future of language. Science , –.
-Gullo, D. F. (a). A developmental study of low-and middle-class children’s responses to
-
-wh-questions. First Language , –.
-
-Gullo, D. F. (b). Facilitating children’s understanding of questions through pictures:
-
-implications for social class language diﬀerences. First Language , –.
-
-Haden, C. A., Reese, E. & Fivush, R. (). Mothers’ extratextual comments during
-storybook reading: stylistic diﬀerences over time and across texts. Discourse Processes ,
-–.
-
-Hart, B. & Risley, T. R. (). American parenting of language-learning children: persisting
-in family–child interactions observed in natural home environments.
-
-diﬀerences
-Developmental Psychology , –.
-
-Hart, B. & Risley, T. R. (). Meaningful diﬀerences in the everyday experience of young
-
-American children. Baltimore, MD: Paul H. Brookes.
-
-Holzman, M. (). The use of interrogative forms in the verbal interaction of three mothers
-
-and their children. Journal of Psycholinguistic Research , –.
-
-Hsieh, M. L. (). Form and meaning: negation and question in Chinese. Unpublished
-
-Doctoral dissertation, University of Southern California.
-
-Huang, C. T. J. (). Modularity and Chinese A-not-A questions. In Interdisciplinary
-
-approaches to language (pp. –). Dordrecht: Springer Netherlands.
-
-Hudon, T. M., Fennell, C. T. & Hoftyzer, M. (). Quality not quantity of television
-viewing is associated with bilingual toddlers’ vocabulary scores. Infant Behaviour and
-Development , –.
-
-James, S. L. & Seebach, M. A. (). The pragmatic function of children’s questions.
-
-Journal of Speech, Language, and Hearing Research , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-E A R L Y I N T E R R O G A T I V E D E V E L O P M E N T I N M A N D A R I N
-
-Li, H. & Rao, N. (). Parental inﬂuences on Chinese literacy development: a comparison
-of preschoolers in Beijing, Hong Kong, and Singapore. International Journal of Behavioural
-Development , –.
-
-Li, H., Tse, S. K., Wong, J. M. S., Wong, E. C. M. & Leung, S. O. (). The development
-of interrogative forms and functions in early childhood Cantonese. First Language ,
-–.
-
-Li, H., Wong, E. C. M., Tse, S. K., Leung, S. O. & Ye, Q. (). Asking for action or
-in early child
-
-interrogative functions
-
-information? Crosslinguistic comparison of
-Cantonese and Mandarin. First Language , –.
-
-Li, Y. M. & Chen, Q. R. () The comprehension and generation of question systems by
-
-children: a comparative study [in Chinese]. Chinese Teaching in the World , –.
-
-Liing, W. J. (). How to ask questions in Mandarin Chinese. Unpublished doctoral
-
-dissertation, City University of New York, USA.
-
-Matthews, S. & Yip, V. (). Cantonese: a comprehensive grammar. London: Routledge.
-McLoyd, V. C. (). Socioeconomic disadvantage and child development. American
-
-Psychologist , –.
-
-Nathanson, A. I. & Rasmussen, E. E. (). TV viewing compared to book reading and toy
-playing reduces responsive maternal communication with toddlers and preschoolers.
-Human Communication Research , –.
-
-Pempek, T. A., Kirkorian, H. L. & Anderson, D. R. (). The eﬀects of background
-television on the quantity and quality of child-directed speech by parents. Journal of
-Children and Media , –.
-
-Piaget, J. (). The language and thought of the child. New York: Harcourt, Brace and Co.
-Roberts, J., Jurgens, J. & Burchinal, M. (). The role of home literacy practices in
-preschool children’s language and emergent literacy skills. Journal of Speech, Language,
-and Hearing Research , –.
-
-Ross, C. & Ma, J. H. S. (). Modern Mandarin Chinese grammar. London / New York:
-
-Routledge.
-
-Rowland, C. F., Pine, J. M., Lieven, E. V. & Theakston, A. L. (). Determinants of
-acquisition order in wh-questions: re-evaluating the role of caregiver speech. Journal of
-Child Language , –.
-
-Sachs, J. & Devin, J. (). Young children’s use of age-appropriate speech styles in social
-
-interaction and role-playing. Journal of Child Language , –.
-
-Shatz, M. (). How to do things by asking: form–function pairings in mothers’ questions
-
-and their relation to children’s responses. Child Development , –.
-
-Sinclair, A. & Gessel, R. V. (). The form and function of questions in children’s
-
-conversations. Journal of Pragmatics , –.
-
-Smith, M. E. (). The Inﬂuence of age, sex, and situation on the frequency, form and
-
-function of questions asked by preschool children. Child Development , –.
-
-Su, Y. E., Jin, Y., Wan, G. B., Zhang, J. S. & Su, L. Y. (). Interpretation of wh-words in
-Mandarin-speaking high-functioning children with autism spectrum disorders. Research in
-Autism Spectrum Disorders , –.
-
-Sully, J. (). Studies of childhood. New York: D. Appleton and Co.
-Takeuchi, H., Taki, Y., Hashizume, H., Asano, K., Asano, M., Sassa, Y., . . . & Kawashima,
-R. (). The impact of television viewing on brain structures: cross-sectional and
-longitudinal analyses. Cerebral Cortex, bht.
-
-Tizard, B. & Hughes, M. (). Young children learning. London: Fontana.
-Tomopoulos, S., Dreyer, B. P., Berkule, S., Fierman, A. H., Brockmeyer, C. & Mendelsohn,
-A. L. (). Infant media exposure and toddler development. Archives of Pediatrics &
-Adolescent Medicine , –.
-
-Tse, S. K. & Li, H. (). Early child Cantonese: facts and implications (Studies on Language
-
-Acquisition [SOLA] Series, ). Berlin: Gruyter Mouton.
-
-Wang, Y. (). A cross-linguistic study of yes-no questions in Japanese and Chinese
-conversational discourse. Unpublished doctoral dissertation, University of Wisconsin-
-Madison, USA.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-L I E T A L.
-
-Wong, W. & Ingram, D. (). Question acquisition by Cantonese speaking children.
-
-Journal of Multilingual Communication Disorders , –.
-
-Yuan, B. P. (). Japanese speakers’ second language Chinese wh-questions: a lexical
-
-morphological feature deﬁcit account. Second Language Research , –.
-
-Yuan, B. P. (). Is Chinese ‘daodi’ ‘the hell’ in English speakers’ L acquisition of Chinese
-daodi . . . wh . . . questions? Eﬀects and recoverability of L transfer at L interfaces.
-International Journal of Bilingualism , –.
-
-Zhou, P. (). Children’s knowledge of wh-quantiﬁcation in Mandarin Chinese. Applied
-
-Psycholinguistics , –.
-
-Zhu, C. & Wu, X. (). A study of yes/no questions in English and Chinese: with special
-reference to Chinese EFL learners’ understanding of their forms and functions. Journal of
-Pragmatics , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000088
-
-

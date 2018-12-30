@@ -1,106 +1,4 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-doi:./S
-
-The development of categorical perception of
-
-Mandarin tones in four- to seven-year-old children*
-
-Key Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen
-Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen,
-
-FEI CHEN
-
-China
-
-GANG PENG
-
-Key Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen
-Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen,
-China, and Department of Chinese and Bilingual Studies, The Hong Kong
-
-Polytechnic University, Hong Kong SAR
-
-Key Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen
-Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen,
-
-NAN YAN
-
-China
-
-A N D
-
-LAN WANG
-
-Key Laboratory of Human-Machine Intelligence-Synergy Systems, Shenzhen
-Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen,
-
-China
-
-(Received  December  – Revised  July  – Accepted  October  –
-
-First published online  December )
-
-Laboratory,
-
-and
-
-Shenzhen
-
-[*] This work was partially supported by grants from National Natural Science Foundation
-of China (NSFC: , , ), Shenzhen Speech Rehabilitation
-Program
-Technology
-JCYJ. We thank all
-from Guangming
-Central Kindergarten, Taoyuan Secondary Kindergarten, and Taoyuan Zhuoya
-Primary School, and their parents, for their participation and cooperation. Addresses
-for correspondence: Gang Peng, Department of Chinese and Bilingual Studies, The
-Hong Kong Polytechnic University, Hong Kong SAR, China. tel: (+)  ;
-fax: (+)  ; e-mail: gpengjack@gmail.com. Nan Yan, Key Laboratory of
-Human-Machine Intelligence-Synergy Systems, Shenzhen Institutes of Advanced
-Technology, Chinese Academy of Sciences, Shenzhen, China. tel: (+) ;
-fax: (+) ; e-mail: nan.yan@siat.ac.cn
-
-the child participants,
-
-Fundamental
-
-Research
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-A B S T R A C T
-
-C H E N E T A L.
-
-aligned with the
-
-and they were well
-
-in children’s ﬁne-grained
-To track the course of development
-perception of Mandarin tones,
-the present study explored how
-categorical perception (CP) of Mandarin tones emerges along age
-among  four- to seven-year-old children and  adults. Prominent
-discrimination peaks were found for both the child and the adult
-groups,
-corresponding
-identiﬁcation crossovers. Moreover, six-year-olds showed a much
-narrower width (i.e. a sharper slope) compared to younger children,
-and have already acquired adult-like identiﬁcation competence of
-Mandarin high-level and mid-rising tones. Although the ability to
-discriminate within-category tone pairs did not change, the between-
-category discrimination accuracies were positively correlated with
-chronological ages among child participants. We assume that the
-perceptual reﬁnement of Mandarin tones in young children may be
-driven by an accumulation of perceptual development from the tonal
-information of the ambient sound input.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 Detailed research into the biological foundations of language in the context of
 growth and maturation – including babbling around six months of age to the
 production of full meaningful sentences by the age of three years (e.g. Kuhl,
@@ -126,14 +24,6 @@ and using this information to tune into native phonological categories (Best
 
 Such phonological contrasts of diﬀerent spoken languages can be divided
 into segmental units, including consonants and vowels, and suprasegmental
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
 units, such as stresses and tones. Almost –% of the world’s languages are
 tone languages (Yip, ), and over half of the world’s people speak a tone
 language (Fromkin, ). Many studies on infant tone perception have
@@ -146,41 +36,26 @@ indicated that English-exposed infants demonstrated attenuation in tone
 sensitivity between  and  months, while Chinese-learning infants
 exhibited a sustained sensitivity to Thai tones over this period. Moreover,
 developmental changes in tone perception were systematically explored by
-Yeung, Chen, and Werker
-results demonstrated that
-language experience might aﬀect the perception of lexical tones as early as
+Yeung, Chen, and Werker (). Their results demonstrated that
+language experience might affect the perception of lexical tones as early as
  months: English-, Cantonese-, and Mandarin-exposed infants each
-demonstrated diﬀerent discrimination abilities that accorded with the
+demonstrated different discrimination abilities that accorded with the
 properties of their native language at this stage. This study suggests that
 the formation of tone categories evolves earlier than that for vowels and
 consonants. What was previously regarded as a language-general stage of
 phonological development (from birth to  months) appears not to be so
 for infants with tone languages as their mother tongue.
-
-(). Their
-
-are
-
-optional
-
-(Wang,
-
-). Hua
-
 Modern Mandarin is a tone language with relatively simple syllable
 structure (see Figure ). Each syllable must be attached with one of the
-four lexical tones distinguishing diﬀerent meanings (Tone : high-level
+four lexical tones distinguishing different meanings (Tone : high-level
 tone; Tone : mid-rising tone; Tone : low-falling-rising tone; and Tone
 : high-falling tone). Lexical tones and nuclear vowels are compulsory
 elements for Mandarin syllables, whereas the onsets and the ending
-and Dodd ()
-consonants
-systematically studied the production of Mandarin among one-
-to
-four-year-old children,
-reporting that children acquired phonological
-elements in the following order: tones were acquired ﬁrst, followed by
-vowels and syllable-ﬁnal consonants, which were then followed by
+consonants are optional (Wang, ). Hua and Dodd ()
+systematically studied the production of Mandarin among one- to
+four-year-old children, reporting that children acquired phonological
+elements in the following order: tones were acquired first, followed by
+vowels and syllable-final consonants, which were then followed by
 syllable-initial consonants. The phonological saliency hypothesis (Hua &
 Dodd, ) might account for the order of phonological production in
 Mandarin, with Mandarin tones being the most salient. Moreover, in a
@@ -192,67 +67,44 @@ Earlier studies (e.g. Chao, ; Clumeck, ; Hua, �
 early, with considerable accuracy before age three. Judgments of tone
 errors in these studies were typically made by native adult observers in a
 categorical fashion (correct or incorrect). However, it is important to note
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Fig. . Diagram of modern Mandarin syllable (elements in the parentheses are optional).
-
 that the aforementioned early production of tones in children before three
 years of age does not mean that these children have the same abilities of
 tonal production as do adults. Innovations in speech analysis tools have
-aﬀorded greater precision in the evaluation of early tone productions. A
+afforded greater precision in the evaluation of early tone productions. A
 series of studies (Wong, , ; Wong, Schwartz & Jenkins, )
-have reported that three- to ﬁve-year-old preschoolers have not yet fully
+have reported that three- to five-year-old preschoolers have not yet fully
 mastered the production of Mandarin tones. None of the Mandarin tones
-produced by the three-
-to ﬁve-year-old children reached adult-like
+produced by the three- to five-year-old children reached adult-like
 accuracy, suggesting a protracted course of development extending beyond
-age ﬁve. Moreover, Yang, Diehl, and Davis ()
-investigated the
-duration of Mandarin tones produced by ﬁve-, eight-, and twelve-year-old
+age five. Moreover, Yang, Diehl, and Davis () investigated the
+duration of Mandarin tones produced by five-, eight-, and twelve-year-old
 monolingual Mandarin-speaking children and young adults. Although
-ﬁve- and eight-year-olds have already established lexical contrasts of
+five- and eight-year-olds have already established lexical contrasts of
 Mandarin tones, adult-like tone production is still developing, with tone
 duration approximating adult values only in twelve-year-old children.
-These ﬁndings stood in contrast to earlier studies that claim very early
+These findings stood in contrast to earlier studies that claim very early
 acquisition of stable tone productions (Chao, ; Clumeck, ; Hua,
 ; Hua & Dodd, ; Li & Tompson, ). Furthermore, Wong’s
 studies suggested that tones did not necessarily mature in advance of
 vowels and consonants in production (Wong, , ).
-
-For Mandarin tone perception, although the study of three-year-old children
+ForMandarin tone perception, although the study of three-year-old children
 suggests they already show relatively high perceptual accuracy (around %) of
 all four Mandarin tones (Wong et al., ), research on the developmental
 course of categorical perception (CP) of Mandarin tones is still lacking. The
-study of CP is useful because it oﬀers a much more reﬁned perceptual
+study of CP is useful because it offers a much more refined perceptual
 method to track the course of maturation and stabilization in children’s
-ﬁne-grained perception of Mandarin tones beyond age three.
-
+fine-grained perception of Mandarin tones beyond age three.
 CP is one of the most extensively studied phenomena in speech perception
-over the past ﬁfty years. It is important in cognitive science because it reﬂects
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
+over the past fifty years. It is important in cognitive science because it reflects
 the adaptation of the perceptual system to facilitate categorization among
 complicated variants that an organism needs to make in its environment
 (Goldstone & Hendrickson, ). In the auditory modality of speech
 perception, CP refers to the fact that listeners rapidly map continuous
 acoustic signals onto discrete phonological categories, resulting in better
 discrimination of stimuli across the category boundary than of equivalently
-separated stimuli within the same category (Liberman, Harris, Hoﬀman &
-Griﬃth, ). While the great bulk of literature on CP deals with the
-segmental
-(e.g. Fry, Abramson,
+separated stimuli within the same category (Liberman, Harris, Hoffman &
+Griffith, ). While the great bulk of literature on CP deals with the
+segmental features (i.e. consonants and vowels) (e.g. Fry, Abramson,
 Eimas & Liberman, ; Harnad, ; Johnson & Ralston, ;
 Liberman, Harris, Kinney & Lane, ; Miller & Eimas, ; Nenonen,
 Shestakova, Huotilainen & Näätänen, ), there has been a recent surge
@@ -262,151 +114,107 @@ lexical tone contrasts in tone languages (e.g. Bent, Bradlow & Wright,
 Gandour, Wong & Hutchins, ; Hallé, Chang & Best, ; Peng,
 Deutsch, Henthorn, Su & Wang, ; Peng, Zheng, Gong, Yang, Kong
 & Wang, ; Wang, ; Xu, Gandour & Francis, ).
-
-features (i.e. consonants and vowels)
-
 On the whole, studies on the CP of lexical tones in adults have mainly
-focused on two aspects: the inﬂuence of language experience (cross-language
-or cross-dialect), and diﬀerent domains (music vs. speech vs. non-speech).
-Speciﬁcally, for Mandarin tone perception, there is ample evidence that
+focused on two aspects: the influence of language experience (cross-language
+or cross-dialect), and different domains (music vs. speech vs. non-speech).
+Specifically, for Mandarin tone perception, there is ample evidence that
 adult Mandarin listeners not only show a sharp boundary (or a steep
-transition slope) between the level
-tone and the rising tone in the
-identiﬁcation function, but they also exhibit a prominent discrimination
+transition slope) between the level tone and the rising tone in the
+identification function, but they also exhibit a prominent discrimination
 peak around the categorical boundary position, indicating a typical CP of
 these Mandarin tones (e.g. Peng et al., ; Wang, ; Xu et al., ).
-
 Compared to the extensive research on CP in adults, the progressive
 development of CP of Mandarin tones from infancy into childhood has
 received relatively little attention (but see Xi, Jiang, Zhang & Shu, ;
 Yang & Liu, ; Zhang et al., ). In a behavioral study by Xi et al.
-(), healthy ﬁve- to seven-year-old children and adults were tested on
-the identiﬁcation of a tone continuum ranging from Mandarin Tone  to
-Tone . Their results showed that six-year-old ﬁrst-graders have already
-acquired adult-like identiﬁcation competence for these Mandarin tones.
+(), healthy five- to seven-year-old children and adults were tested on
+the identification of a tone continuum ranging from Mandarin Tone  to
+Tone . Their results showed that six-year-old first-graders have already
+acquired adult-like identification competence for these Mandarin tones.
 However, due to the lack of an explicit discrimination test, their results
 may not be conclusive. In another behavioral study (Yang & Liu, ),
 eight Mandarin monolingual children aged from six to eight years (mean
-= ·) participated in both tone identiﬁcation and tone discrimination tasks
+= ·) participated in both tone identification and tone discrimination tasks
 for tone continua between Tone  and Tone , and between Tone  and
-Tone . Mandarin monolingual
-children showed sharp categorical
-boundaries in the tone identiﬁcation task. However, they did not show
-prominent discrimination peaks
-around the observed identiﬁcation
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-to compare
-
+Tone . Mandarin monolingual children showed sharp categorical
+boundaries in the tone identification task. However, they did not show
+prominent discrimination peaks around the observed identification
 boundaries, implying that the discrimination ability of Mandarin tones in
-six- to eight-year-old children was not as proﬁcient as it was in adults.
+six- to eight-year-old children was not as proficient as it was in adults.
 Zhang et al. () made use of both behavioral and electrophysiological
-measures
-children with
+measures to compare ten-year-old Chinese dyslexic children with
 age-matched healthy controls. Zhang et al.’s results demonstrated that the
 perception of Mandarin high-rising Tone  and falling Tone  was already
 categorical among the healthy ten-year-old Chinese children. All in all, the
 general course of the development of CP of Mandarin tones in young
 children, who are still developing their ability for Mandarin tone
 perception, is not yet clear.
-
-ten-year-old Chinese dyslexic
-
 Behavioral tests for CP often require overt responses and sustained
-concentrations, which are relatively diﬃcult for young children. This may
+concentrations, which are relatively difficult for young children. This may
 be one of the reasons why behavioral research of CP in children is often
 limited and inconclusive. In the current study, a picture-pointing method
-was adopted to study young children’s responses in both the identiﬁcation
+was adopted to study young children’s responses in both the identification
 and the discrimination tasks (see ‘Procedure’).
-
-Furthermore, in Mainland China, children normally attend the ﬁrst grade
+Furthermore, in Mainland China, children normally attend the first grade
 of primary school at the age of six or seven, where they begin to receive
-systematic training in phonological coding (i.e. Pinyin),
-including tone
+systematic training in phonological coding (i.e. Pinyin), including tone
 instruction. In other words, under normal conditions, six-year-olds in
 kindergarten have little metalinguistic knowledge of Mandarin tones, while
-children of the same age who happen to be in the ﬁrst grade typically do
+children of the same age who happen to be in the first grade typically do
 have knowledge of the tone concept. In the study by Xi et al. (),
-six-year-olds in ﬁrst grade showed a signiﬁcant enhancement in the tone
-identiﬁcation task, which could be potentially attributed to two factors:
+six-year-olds in first grade showed a significant enhancement in the tone
+identification task, which could be potentially attributed to two factors:
 physiological maturation at the age of six and/or explicit instruction of
-Mandarin tone categories in ﬁrst grade. However, which of these factors
-(if either) plays the more important role for the identiﬁcation improvement
+Mandarin tone categories in first grade. However, which of these factors
+(if either) plays the more important role for the identification improvement
 has not yet been determined. To shed light on this issue, in the current
-study, young children were divided into ﬁve groups: four-, ﬁve-, and
-six-year-olds in kindergarten, and six- and seven-year-olds in ﬁrst grade.
+study, young children were divided into five groups: four-, five-, and
+six-year-olds in kindergarten, and six- and seven-year-olds in first grade.
 Additionally, a control group of Mandarin-speaking young adults was
 recruited. It is important to investigate the developmental trajectory of
 Mandarin tone perception in the context of physiological growth and tone
-education, and,
-in particular, the earliest time-point at which children
+education, and, in particular, the earliest time-point at which children
 typically begin to perceive Mandarin tones categorically in the same way
-as adults, in both identiﬁcation and discrimination tasks.
-
-M E T H O D
-Participants
-Seventy-ﬁve young children aged four to seven years with Mandarin as their
+as adults, in both identification and discrimination tasks.
+<Middle>
+METHOD.
+Participants.
+Seventy-five young children aged four to seven years with Mandarin as their
 native language were recruited for this study. However, two from the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-and children. The
-
-children were
-
-four-year-old group and one from the ﬁve-year-old group failed to meet the
+four-year-old group and one from the five-year-old group failed to meet the
 criteria on the training trials. Moreover, two children, one each from the
-four-year-old group and the seven-year-old group, were reluctant
-to
+four-year-old group and the seven-year-old group, were reluctant to
 cooperate during the process of testing and failed to complete the tasks.
-All the above-mentioned ﬁve child subjects were excluded and are not
+All the above-mentioned five child subjects were excluded and are not
 further shown in the current study. Additionally, a control group was
 recruited that consisted of sixteen young adults ( females; mean age =
 ·, SD = · years) from the northern part of China. All participants
 were free of self-reported neurological diseases, psychiatric disorders, or
-(using a form approved by the
-hearing deﬁcits. Informed consent
-Behavioral Research Ethics Committee of
-the Shenzhen Institutes of
+hearing deficits. Informed consent (using a form approved by the
+Behavioral Research Ethics Committee of the Shenzhen Institutes of
 Advanced Technology, Chinese Academy of Sciences) was obtained from
-all parents
-recruited from two
+all parents and children. The children were recruited from two
 kindergartens and one primary school, which had students from roughly
 equivalent family backgrounds in terms of both socioeconomic status and
-the parents’ education levels. Of these,  children were in the four-
-year-old group from kindergarten ( girls),  were in the ﬁve-year-old
+the parents’ education levels. Of these,  children were in the fouryear-
+old group from kindergarten ( girls),  were in the five-year-old
 group from kindergarten ( girls), and  were in the six-year-old group
 from kindergarten ( girls). Another  children were also in the
-six-year-old group but from a primary school in ﬁrst grade ( girls), and
- were in the seven-year-old group also in ﬁrst grade ( girls). We refer
-to these ﬁve groups as: four yr, ﬁve yr, six yr (K), six yr (P), and seven yr
+six-year-old group but from a primary school in first grade ( girls), and
+ were in the seven-year-old group also in first grade ( girls). We refer
+to these five groups as: four yr, five yr, six yr (K), six yr (P), and seven yr
 throughout this paper. The non-verbal intelligence of the children had
 been assessed by a local administrant hospital before children went to
 school, using Raven’s Standard Progressive Matrices (Raven, ). All
 child participants showed normal non-verbal intelligence. Moreover, since
-Gathercole and Baddeley () argued that children with speciﬁc
+Gathercole and Baddeley () argued that children with specific
 language impairments (SLI) have reduced phonological storage in their
 working memory, every child’s language ability (LA) was screened with
 the Test of Language Ability in Preschoolers (Ning, ), which consists
-of ﬁve subtests (including grammatical competence, basic vocabulary, and
+of five subtests (including grammatical competence, basic vocabulary, and
 semantic application). Results indicated all child participants showed
-normal
-the tested
+normal language development. The basic information of the tested
 children is shown in Table .
-
-language development. The basic information of
-
 Materials
 The syllable /i/ with high-level tone (around  Hz) produced by a female
 native Mandarin speaker was recorded ( Hz sampling rate, -bit
@@ -414,63 +222,6 @@ resolution). This female speaker was chosen because her F range was
 close to that of the average female voice (Peng, Zhang, Zheng, Minett &
 Wang, ). Based on the natural speech template with Tone , all tone
 stimuli were re-synthesized by applying the pitch-synchronous overlap and
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-TA B L E . Characteristics of children in ﬁve age groups
-
-　
-
-Four yr
-
-Five yr
-
-Six yr (K)
-
-Six yr (P)
-
-Seven yr
-
-Number
-Age (year; month)
-Mean age (year)
-Accuracy of LA (%)
-
-
-
-
-
-
-
-;–;
-· ± ·
-· ± ·
-
-;–;
-· ± ·
-· ± ·
-
-;–;
-· ± ·
-· ± ·
-
-
-
-;–;
-· ± ·
-· ± ·
-
-
-
-;–;
-· ± ·
-· ± ·
-
 add method (Moulines & Laroche, ) implemented in Praat (Boersma &
 Weenink, ). Since the pitch pattern (i.e. fundamental frequency as its
 acoustic correlate) plays the primary role in tone perception in Mandarin
@@ -482,20 +233,18 @@ pitch contours of the eleven stimuli along the tone continuum (following
 Peng et al., ; Wang, ). The F onsets of the target stimuli were
 determined by the formula ‘ Hz +  Hz × (Stimulus Number – )’. In
 Mandarin, the syllable /i/, when produced with the high-level tone, is a
-homophone with ﬁfteen diﬀerent meanings such as ‘clothes’, and is coded
+homophone with fifteen different meanings such as ‘clothes’, and is coded
 as the typical stimulus #; when /i/ is spoken with the mid-rising tone, it
-is another homophone with twenty-four diﬀerent meanings such as ‘aunt’,
+is another homophone with twenty-four different meanings such as ‘aunt’,
 which is coded as the typical stimulus #. All the -ms tone stimuli
 were presented binaurally at  dB sound pressure level.
-
 Procedure
 To help ensure young children would be able to accomplish the whole
-identiﬁcation task and discrimination task (lasting  minutes and 
-minutes, respectively), the experimental designs were modiﬁed to make
+identification task and discrimination task (lasting  minutes and 
+minutes, respectively), the experimental designs were modified to make
 these tasks more manageable for our child participants, and the two tasks
 were separately conducted on two successive days.
-
-The identiﬁcation task was conducted on the ﬁrst day. Before the
+The identification task was conducted on the first day. Before the
 experiment, a training session was provided to ensure that all the children
 could follow the instructions. The experimenter taught them to point at
 the left picture on a computer screen (a car driving on a level road) after
@@ -505,17 +254,7 @@ Only after the children succeeded in pointing at the matched picture each
 time they heard stimulus # or # would they progress to the next step.
 There was one practice block (including stimuli #, #, #, #, #, #,
 #, repeating twice randomly) before the two test blocks to familiarize
-children with the identiﬁcation procedure. An identiﬁcation accuracy of
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-Fig. . Schematic diagram of the pitch contours.
-
+children with the identification procedure. An identification accuracy of
 more than % for the practice stimuli close to the two ends of the
 continuum (i.e. #, #, #, #) was required to continue to the test
 blocks. The eleven stimuli were randomly presented four times each in
@@ -523,112 +262,66 @@ each test block. There were two test blocks for a total of eighty-eight test
 trials. The entire practice and test blocks were controlled by E-prime. The
 experimenter logged the child’s pointing responses by pressing key ‘’ (for
 ‘Tone ’) on the keyboard when children pointed at the left picture and
-key ‘’
-the right picture
+key ‘’ (for ‘Tone ’) when children pointed at the right picture
 (two-alternative forced choice, AFC). No feedback was given to the
 participants during the practice and test blocks.
-
-(for ‘Tone ’) when children pointed at
-
 The discrimination task was conducted on the following day. During the
 training session, the experimenter instructed them to point at the left picture
 (a happy face with two identical eyes) representing the same pairs after
 playing sound pairs (– or –) several times, and to point at the right
-picture (a sad face with two diﬀerent eyes) representing the diﬀerent pairs
+picture (a sad face with two different eyes) representing the different pairs
 after playing the sound pairs (– or –) several times. Only after the
 children succeeded in pointing at the matched picture each time they
 heard the training sound pairs (–; –; –; –) would they
 progress to the experiment. The practice block contained twelve pairs
-(–, –, –, –, –, –,
-randomly). No
+(–, –, –, –, –, –, repeating twice randomly). No
 discrimination accuracy was requested for the practice block. For the
 testing part, twenty-nine pairs were presented in a random order, with a
- ms
-(ISI). Among the twenty-nine pairs,
-eighteen pairs consisted of two diﬀerent stimuli (diﬀerent pairs) separated
+ ms inter-stimulus interval (ISI). Among the twenty-nine pairs,
+eighteen pairs consisted of two different stimuli (different pairs) separated
 by two steps (i.e.  Hz), in either forward (–, –, – . . . –, –)
 or reverse order (–, –, – . . . –, –), and eleven pairs consisted
 of all the eleven stimuli on the continuum each paired with itself (same
-
-repeating twice
-
-inter-stimulus
-
-interval
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-pairs). The above twenty-nine pairs were repeated ﬁve times, resulting in 
+pairs). The above twenty-nine pairs were repeated five times, resulting in 
 testing pairs in total. The experimenter pressed ‘v’ (for ‘same’) on the
 keyboard when children pointed at the smiling picture and pressed ‘n’ (for
-‘diﬀerent’) when children pointed at the sad picture. The next sound pair
+‘different’) when children pointed at the sad picture. The next sound pair
 would be presented  ms later, after the experimenter pressed the space
 bar, and children were free to have a rest whenever they wanted. No
 feedback was given to the participants during the practice and test blocks.
-For the adult participants, the training session was excluded, and the materials
-in the practice and test blocks were exactly the same as for the child participants.
-The identiﬁcation and discrimination tasks were conducted within one day.
-During the identiﬁcation task, the adult participants were asked to press key
+For the adult participants, the training sessionwas excluded, and thematerials
+in the practice and test blockswere exactly the same as for the child participants.
+The identification and discrimination tasks were conducted within one day.
+During the identification task, the adult participants were asked to press key
 ‘’ on the keyboard when they heard a ‘Tone ’ sound and to press key ‘’
 when they heard a ‘Tone ’ sound. In the discrimination task, they were
-instructed to judge whether the two stimuli were the same or diﬀerent, and to
-respond by pressing a key (‘v’ for ‘same’, and ‘n’ for ‘diﬀerent’).
-
+instructed to judge whether the two stimuli were the same or different, and to
+respond by pressing a key (‘v’ for ‘same’, and ‘n’ for ‘different’).
 Data analyses
-To investigate the developmental
-the identiﬁcation and
+To investigate the developmental trajectory of the identification and
 discrimination performance, three key parameters of CP were calculated:
 position of category boundary, width of category boundary, and discrimination
 accuracy.
-
-trajectory of
-
-For each stimulus, the identiﬁcation score was computed as the average
+For each stimulus, the identification score was computed as the average
 percentage of level (Tone ) or rising tone (Tone ) responses. Boundary
 position and boundary width were assessed using Probit analyses (Finney,
-). The boundary position (deﬁned as the % cross-over point) and
-the boundary width (deﬁned as the linear distance between the th and
+). The boundary position (defined as the % cross-over point) and
+the boundary width (defined as the linear distance between the th and
 th percentiles) were analyzed according to the procedures described in
 Peng et al. ().
-
 To calculate the discrimination scores, we divided the  discrimination
 trials into nine comparison units, each consisting of all pairs in four types of
 pairwise comparisons (AB, BA, AA, and BB) (cf. Xu et al., ). Adjacent
-comparison units contained the overlapping AA or BB pairs (e.g. the ﬁve –
+comparison units contained the overlapping AA or BB pairs (e.g. the five –
 pairs were included in both – and – units). The discrimination accuracy
 (P) for each comparison unit was calculated with the formula described in Xu
 et al. ():
-
-(cid:1)
-
-P = P ‘S’/S
-
-(cid:3) × P S( ) + P ‘D’/D
-
-(cid:1)
-
-(cid:3) × P D(
-
-)
-
-where the percentages of ‘same’ (‘S’) and ‘diﬀerent’ (‘D’) responses to all the
-same (S) and diﬀerent (D) trials (i.e. the correct responses) were represented
+P = P‘S’/S × P(S) + P‘D’/D × P(D)
+where the percentages of ‘same’ (‘S’) and ‘different’ (‘D’) responses to all the
+same (S) and different (D) trials (i.e. the correct responses) were represented
 by P (‘S’/S) and P (‘D’/D), respectively. P(S) and P(D) were the
 probabilities of S (AA or BB) and D (AB or BA) trials in each unit, which
 were both equal to · (Peng et al., ).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
 In addition, we calculated the discrimination accuracy of between-category
 comparisons (Pbc) and within-category comparisons (Pwc) for each subject
 based on the position of category boundary as follows (cf. Jiang, Hamm,
@@ -640,258 +333,114 @@ accuracy for between-category comparisons, while the within-category
 discrimination accuracy for that subject was obtained from the mean of the
 discrimination scores for the remaining seven comparison units.
 
-R E S U L T S
-Identiﬁcation and discrimination curves
+R E S U L T S.
+Identiﬁcation and discrimination curves.
 Identiﬁcation and discrimination curves among diﬀerent age groups are
 shown in Figure . Similar to adult Mandarin listeners, categorical
 boundaries and corresponding discrimination peaks were found for all
 child participants, indicating a typical CP of Mandarin Tone  and Tone .
 
-Position and width of categorical boundary
+Position and width of categorical boundary.
 The estimated boundary position and boundary width values are shown in
 Table . In addition, the distribution of boundary width among diﬀerent
 groups is shown in Figure .
-
-The mean boundary positions for the groups are as follows: four yr: ·, ﬁve
+Themean boundary positions for the groups are as follows: four yr: ·, five
 yr: ·, six yr (K): ·, six yr (P): ·, seven yr: ·, adults: ·. Results of
 one-way ANOVA revealed that the perceptual boundary positions were not
-signiﬁcantly diﬀerent among diﬀerent age groups [F(,) = ·; p = ·].
-The average boundary widths for the groups are as follows: four yr: ·, ﬁve
+significantly different among different age groups [F(,) = ·; p = ·].
+The average boundary widths for the groups are as follows: four yr: ·, five
 yr: ·, six yr (K): ·, six yr (P): ·, seven yr: ·, and adults: ·.
 Three outliers (shown in Figure ) were removed from the statistical
 analyses, with one in six yr (P) and two in seven yr. One-way ANOVA
-showed that the identiﬁcation widths among diﬀerent age groups were
-signiﬁcantly diﬀerent [F(,) = ·; p < ·]. Tukey’s HSD post-hoc
+showed that the identification widths among different age groups were
+significantly different [F(,) = ·; p < ·]. Tukey’s HSD post-hoc
 pairwise comparisons of the six groups indicated that the groups of six yr
-(K), six yr (P), seven yr, and adults had signiﬁcantly narrower boundary
-widths than the four-year-old group (all ps < ·) and ﬁve-year-old group
-(all ps < ·). However,
-the boundary widths between the four- and
-ﬁve-year-old groups were not signiﬁcantly diﬀerent (p = ·), and the
+(K), six yr (P), seven yr, and adults had significantly narrower boundary
+widths than the four-year-old group (all ps < ·) and five-year-old group
+(all ps < ·). However, the boundary widths between the four- and
+five-year-old groups were not significantly different (p = ·), and the
 boundary widths between any two groups of six yr (K), six yr (P), seven yr,
-and adults were not signiﬁcantly diﬀerent either (all ps > ·).
-
+and adults were not significantly different either (all ps > ·).
 To investigate the correlation between boundary widths and chronological
 ages, we conducted a Pearson correlation analysis and found a negative
 correlation between boundary widths and chronological ages (r = –·,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Fig. . The identiﬁcation curves (solid lines, with round dots representing Tone  response
-and square dots representing Tone  response) and discrimination curves (dashed lines
-with triangle dots). The left y-axis indicates the percentage score of Tone  or Tone 
-response, while the right y-axis indicates the overall discrimination accuracy.
-
 p < ·). We have further divided the child participants into two subgroups:
-one group contained four yr and ﬁve yr, the other group contained six yr (K),
-six yr (P) and seven yr. However, for the  four- to ﬁve-year-old children,
+one group contained four yr and five yr, the other group contained six yr (K),
+six yr (P) and seven yr. However, for the  four- to five-year-old children,
 Pearson correlation analysis indicated that there was no correlation between
 the boundary widths and ages (r = –·, p = ·), and for the  six- to
-seven-year-old children, no signiﬁcant correlation between the boundary
+seven-year-old children, no significant correlation between the boundary
 widths and ages was found either (r = –·, p = ·). Results indicated
-that the development of identiﬁcation acuity was not continuous as a
-function of chronological age for children aged four to ﬁve, and for those
+that the development of identification acuity was not continuous as a
+function of chronological age for children aged four to five, and for those
 aged six to seven.
-
-Discrimination accuracy
+Discrimination accuracy.
 The overall discrimination accuracies of the nine comparison units among
 the six groups are shown in Figure . For the four-year-old children, the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-TA B L E . Derived categorical boundary position and width for each group
-
-Group
-
-Four yr
-Five yr
-Six yr (K)
-Six yr (P)
-Seven yr
-Adult
-
-Position
-
-Width
-
-Mean
-
-·
-·
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-·
-·
-
-Mean
-
-·
-·
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-·
-·
-
-Fig. . Box plots of boundary widths within each age group, where the bold black line
-inside the boxes marks the median, and the upper and lower boundaries of the box
-correspond to its upper and lower quartiles.
-
 discrimination peak was ·% at the comparison unit – straddling the
-boundary position at ·. For the children from groups of ﬁve yr, six yr
+boundary position at ·. For the children from groups of five yr, six yr
 (K), six yr (P), and seven yr, the discrimination accuracies all reached
 their maxima at the unit – (straddling the boundary position ·–·),
-to ·%, ·%, ·%, ·%, and ·%,
-which were equal
+which were equal to ·%, ·%, ·%, ·%, and ·%,
 respectively.
-
 A two-way  (comparison unit) ×  (age group) analysis of variance
 (ANOVA) was conducted to examine whether the six age groups showed
-diﬀerent overall discrimination accuracy, with comparison unit as the
+different overall discrimination accuracy, with comparison unit as the
 within-subject factor and the age group as the between-subject factor.
 Where appropriate, the Greenhouse–Geisser adjustment method was used
-to correct violations of sphericity. The analysis conﬁrmed a signiﬁcant
-main eﬀect for comparison unit [F(,) = ·; p < ·], and group
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Fig. . The discrimination accuracy of nine comparison units across six groups.
-
-[F(,) = ·; p < ·]. There was a signiﬁcant interaction between
+to correct violations of sphericity. The analysis confirmed a significant
+main effect for comparison unit [F(,) = ·; p < ·], and group
+[F(,) = ·; p < ·]. There was a significant interaction between
 comparison unit and group [F(,) = ·; p < ·]. Post-hoc analysis
 indicated that the overall discrimination accuracy in the adult group was
-signiﬁcantly higher than the child groups (all ps < ·), while the overall
-discrimination accuracies between any two of the ﬁve child groups were
-not signiﬁcantly diﬀerent (all ps > ·).
-
-and adults:
-
-·%. One-way ANOVA showed that
-
+significantly higher than the child groups (all ps < ·), while the overall
+discrimination accuracies between any two of the five child groups were
+not significantly different (all ps > ·).
 The overall discrimination accuracies of nine comparison units were further
-and within-category
-divided into between-category comparison (Pbc)
+divided into between-category comparison (Pbc) and within-category
 comparison (Pwc) as shown in Figure . The average between-category
-discrimination accuracy (Pbc) for diﬀerent age groups are as follows: four yr:
-·%, ﬁve yr: ·%, six yr (K): ·%, six yr (P): ·%, seven yr:
-·%,
-the
-between-category discrimination accuracy among diﬀerent age groups were
-[F(,) = ·; p < ·]. However, Tukey’s HSD
-signiﬁcantly diﬀerent
-post-hoc
-comparisons
-between-category
-discrimination accuracy was not diﬀerent between any adjacent two child
+discrimination accuracy (Pbc) for different age groups are as follows: four yr:
+·%, five yr: ·%, six yr (K): ·%, six yr (P): ·%, seven yr:
+·%, and adults: ·%. One-way ANOVA showed that the
+between-category discrimination accuracy among different age groups were
+significantly different [F(,) = ·; p < ·]. However, Tukey’s HSD
+post-hoc pairwise comparisons showed that the between-category
+discrimination accuracy was not different between any adjacent two child
 groups (all ps > ·). Moreover, the mean within-category discrimination
-accuracy (Pwc) for the groups of four yr, ﬁve yr, six yr (K), six yr (P), seven
+accuracy (Pwc) for the groups of four yr, five yr, six yr (K), six yr (P), seven
 yr, and adults were ·%, ·%, ·%, ·%, ·%, and ·%,
 respectively. Results of a one-way ANOVA revealed that the within-category
-discrimination accuracy was also signiﬁcantly diﬀerent among diﬀerent age
-[F(,) = ·; p < ·]. However, Tukey’s HSD post-hoc
-groups
-pairwise
-comparisons
-the within-category discrimination
+discrimination accuracy was also significantly different among different age
+groups [F(,) = ·; p < ·]. However, Tukey’s HSD post-hoc
+pairwise comparisons showed that the within-category discrimination
 accuracy was similar between any two adjacent child groups (all ps > ·).
-
-showed that
-
-pairwise
-
-showed
-
-that
-
-the
-
 To investigate the correlation between between-category discrimination
 accuracies (Pbc) and chronological ages, a Pearson correlation analysis
 was further conducted between Pbc and chronological ages, and the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-Fig. . Between-category and within-category discrimination accuracy pooled across
-
-diﬀerent age groups.
-
 corresponding scatterplot is shown in Figure . A positive correlation
 between Pbc and chronological ages (r = ·, p < ·) was found.
 However, for the within-category discrimination accuracy (Pwc), there was
-no signiﬁcant correlation between within-category discrimination accuracies
+no significant correlation between within-category discrimination accuracies
 and ages (r = ·, p = ·).
-
-In conclusion, from the identiﬁcation curves and the distribution of boundary
-widths, we could see clearly that changes from high-level to mid-rising tone were
+In conclusion, fromthe identification curves and the distribution of boundary
+widths,we could see clearly that changes fromhigh-level tomid-rising tonewere
 more abrupt from six-year-olds. For the tone discrimination, the sensitivity to
 between-category discrimination showed a rising trend as children get older.
 However, the within-category discrimination accuracies did not change
-signiﬁcantly among all the child participants. Moreover, children as early as
+significantly among all the child participants. Moreover, children as early as
 four years of age, with plenty of exposure to Mandarin as their mother
 tongue, could perceive Mandarin Tone  and Tone  categorically.
-
-D I S C U S S I O N
+<Conclusion>
+DISCUSSION.
 The current study examined CP of Mandarin Tone  and Tone  in typically
-developing four- to seven-year-old children. As deﬁned by Liberman et al.
+developing four- to seven-year-old children. As defined by Liberman et al.
 (), typical CP should be signaled by a sharp boundary between two
-categories
-corresponding discrimination peak straddling the
-identiﬁcation boundary. In this study, prominent discrimination peaks
-were well aligned with the corresponding identiﬁcation cross-overs for all
+categories and a corresponding discrimination peak straddling the
+identification boundary. In this study, prominent discrimination peaks
+were well aligned with the corresponding identification cross-overs for all
 child participants, indicating that tone perception was highly categorical
 (see Figure ). These Mandarin-speaking young children have formed
-their perceptual ability to process lexical tones as diﬀerent categories, even
-
-and a
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Fig. . Correlations between chronological age and between-category discrimination
-
-accuracy.
-
+their perceptual ability to process lexical tones as different categories, even
 without knowing the metalinguistic concept of tones at all. In stark contrast,
 six- to eight-year-old English monolingual children who have not yet been
 exposed to a tone language showed no categorical boundaries or
@@ -899,527 +448,144 @@ discrimination peaks for the continuum between Mandarin Tone  and
 Tone  (Yang & Liu, ). Therefore, it is reasonable to conclude that
 tone language exposure is critical for learning to perceive lexical tones
 categorically.
-
-Tone contrasts of diﬀerent categories may emerge very early in perception,
+Tone contrasts of different categories may emerge very early in perception,
 but the process actually takes a relatively long time to fully mature. The
 development of CP of Mandarin Tone  and Tone  in young children
-with respect to both identiﬁcation and discrimination performance was
-observed in the current study. In the present identiﬁcation test, diﬀerent
-age groups did not
-show signiﬁcantly diﬀerent boundary positions
+with respect to both identification and discrimination performance was
+observed in the current study. In the present identification test, different
+age groups did not show significantly different boundary positions
 (ranging from · to ·; see Table ). Similarly, adults with tone or
-non-tone language experiences yielded similar identiﬁcation boundaries
+non-tone language experiences yielded similar identification boundaries
 near the middle of the tone continuum (e.g. Peng et al., ; Xu et al.,
-). These ﬁndings seem to decrease the eﬃcacy of boundary position in
+). These findings seem to decrease the efficacy of boundary position in
 assessing the degree of CP. However, the boundary width was much
 narrower (i.e. a sharper boundary or steeper transition slope) for tone
 language listeners than for non-tone language listeners (Hallé et al., ;
 Peng et al., ; Wang, ; Xu et al., ). Likewise, the current
 experimental data showed that child groups of six yr, seven yr, and the
 adult group exhibited much narrower boundary widths than those of the
-four- and ﬁve-year-old groups (see Table  and Figure ), indicating that
-six-year-olds have already acquired adult-like identiﬁcation competence of
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-in tone identiﬁcation of
-
+four- and five-year-old groups (see Table  and Figure ), indicating that
+six-year-olds have already acquired adult-like identification competence of
 Mandarin high-level and mid-rising tones. The narrower boundary width
-from age six was due to higher identiﬁcation acuity of
-the middle
-ambiguous stimuli, as reﬂected by a sharper boundary. Our conclusion is a
-supplement to another identiﬁcation study by Xi et al. (), in which a
-signiﬁcant enhancement
-the tone continuum
-between Tone  and Tone  was found for six-year-olds in ﬁrst grade who
+from age six was due to higher identification acuity of the middle
+ambiguous stimuli, as reflected by a sharper boundary. Our conclusion is a
+supplement to another identification study by Xi et al. (), in which a
+significant enhancement in tone identification of the tone continuum
+between Tone  and Tone  was found for six-year-olds in first grade who
 had already received tone instruction. What we would like to emphasize
 here is that none of the four- to six-year-old preschoolers in our study had
 received explicit education concerning the concept of Mandarin tones,
-and, in the identiﬁcation task, they were simply asked to judge the sound
+and, in the identification task, they were simply asked to judge the sound
 stimulus like a level sound or a rising one. Consequently, it is reasonable
-to conclude that the adult-like identiﬁcation competence of Mandarin
+to conclude that the adult-like identification competence of Mandarin
 Tone  and Tone  appears around age six, regardless of explicit
 education in tone categories.
-
-for
-
-that
-
-In addition to the identiﬁcation improvement at age six, there was also a
+In addition to the identification improvement at age six, there was also a
 performance increment with age for the Mandarin-speaking children’s
-between-category discriminability, but not
-the within-category
-discriminability. These ﬁndings are consistent with the dual-process model
+between-category discriminability, but not for the within-category
+discriminability. These findings are consistent with the dual-process model
 (Fujisaki & Kawashima, ), which proposes two separate pathways for
-the discrimination of speech stimuli. Fujisaki and Kawashima assume ﬁrst
-and foremost
-identiﬁcation is inevitable, even in discrimination
-experiments where identiﬁcation is not a part of the subject’s task. In this
+the discrimination of speech stimuli. Fujisaki and Kawashima assume first
+and foremost that identification is inevitable, even in discrimination
+experiments where identification is not a part of the subject’s task. In this
 model, two separate pathways in the discrimination task are involved in
 the decision mechanism. One pathway is used when the two stimuli of the
-comparison pair receive diﬀerent phoneme labels. The labeling process
-along this ﬁrst pathway is based on the information of phoneme
+comparison pair receive different phoneme labels. The labeling process
+along this first pathway is based on the information of phoneme
 boundaries stored in long-term memory (i.e. phonetic memory code). If
 the two stimuli that have to be discriminated instead receive the same
 label, then, and only then, the other pathway is used, and the information
 about the spectral composition of the two stimuli (based on short-term
-auditory memory code) leads to the ﬁnal decision. Both auditory and
+auditory memory code) leads to the final decision. Both auditory and
 phonetic modes co-exist during the discrimination task, but subjects
-operate exclusively in long-term phonetic mode during the identiﬁcation
-task. Consequently, according to this model, both the identiﬁcation and
+operate exclusively in long-term phonetic mode during the identification
+task. Consequently, according to this model, both the identification and
 between-category discrimination abilities undergo a developmental pattern
 when children are exposed to a tonal environment consistently, and
 further store the tone category information in their long-term phonetic
 memory.
-
 On the other hand, from the perspective of Fujisaki and Kawashima’s
 () model, if children identify the two-tone stimuli as being in the
 same category, the second pathway then kicks in. Children would make
-their decision on the basis of the physical F diﬀerence between the two
+their decision on the basis of the physical F difference between the two
 stimuli, which is based on short-term auditory memory code. Our results
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-revealed no signiﬁcant improvement in the performance of within-category
+revealed no significant improvement in the performance of within-category
 discrimination in four- to seven-year-old children, with each stimulus pair
 separated by  Hz at the onset F. As suggested in a recent study (Liu,
-) exploring the just noticeable diﬀerence (JND) of the F contour,
+) exploring the just noticeable difference (JND) of the F contour,
 Mandarin adult listeners required nearly  Hz to detect a tonal pitch
 change. Given that young children generally require greater JND in F
 discrimination than adult listeners (Elliot, Hammer, School & Wasowicz,
-; Jensen & Neﬀ, ), children may require a F diﬀerence of more
+; Jensen & Neff, ), children may require a F difference of more
 than the  Hz used in the current study, even at age seven, to perform
 the within-category discrimination task more reliably.
-
-signal-detection model
-
-in experimental context
-
-the diﬀerent variants of
-
 In addition to the dual-process model, there is another approach called the
 ‘signal-detection model’ (Durlach & Braida, ), with two modes of
 memory operation included: a trace mode and a context-coding mode.
-Applying this
-to CP successfully explains the
-discrepancy between ﬁxed/roving discrimination and identiﬁcation sensitivity
-regarding diﬀerences
-(Macmillan, Kaplan &
+Applying this signal-detection model to CP successfully explains the
+discrepancy between fixed/roving discrimination and identification sensitivity
+regarding differences in experimental context (Macmillan, Kaplan &
 Creelman, ). However, the primary drawbacks of the signal-detection
-model lie in that it does not diﬀerentiate short-term and long-term memory
+model lie in that it does not differentiate short-term and long-term memory
 components in the context-coding mode (Macmillan, Goldberg & Braida,
-), and this model only considers
-the
+), and this model only considers the different variants of the
 experimental context. Consequently, the signal-detection model could not
-explain any experience-driven eﬀects on CP. For
-example, many
+explain any experience-driven effects on CP. For example, many
 cross-language CP studies (Hallé et al., ; Peng et al., ; Wang, ;
 Xu et al., ) indicated that tonal language listeners demonstrated a much
-sharper identiﬁcation boundary and a more prominent discrimination peak
-around the boundary than non-tonal
-language listeners. Cross-language
-diﬀerences can only be explained with regard to diﬀerences in the two
-groups’
-long-term experience with their respective native languages, and
-not due to diﬀerences in experimental context (that was identical for the
+sharper identification boundary and a more prominent discrimination peak
+around the boundary than non-tonal language listeners. Cross-language
+differences can only be explained with regard to differences in the two
+groups’ long-term experience with their respective native languages, and
+not due to differences in experimental context (that was identical for the
 tonal language and non-tonal language listeners). Similarly, in the present
-study, age-related enhancement of both identiﬁcation and between-category
+study, age-related enhancement of both identification and between-category
 discrimination ability in children can be attributed to long-term accumulation
-of tone language experience, and not to the diﬀerences in the experimental
+of tone language experience, and not to the differences in the experimental
 context that was identical for all the child participants. Therefore, the results
-of the present study ﬁt in with previous cross-language research and provide
+of the present study fit in with previous cross-language research and provide
 empirical evidence for the dual-process model from the development of CP of
 tones in native Mandarin-speaking children.
-
-language input. Therefore, we assumed that
-
 As proposed by Wang (), the language that children use changes as a
-function of ambient
-the
+function of ambient language input. Therefore, we assumed that the
 perceptual progress of Mandarin tones could be driven by perceptual
 accumulation in the form of ‘distributional learning’. Maye et al. ()
-familiarized infants with speech sounds
-from a phonetic continuum,
+familiarized infants with speech sounds from a phonetic continuum,
 exhibiting either a bimodal or a unimodal frequency distribution. During
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-learning mechanism through which infants
-
 the test phase, only infants exposed to the bimodal condition discriminated
 tokens from the endpoints of the continuum, suggesting that there might be
-a distributional
-track the
+a distributional learning mechanism through which infants track the
 regularities of the sounds in the ambient language. Moreover, sensitivity to
 the distributional patterns in the input is not restricted to infancy, but
-contributes to learning throughout one’s lifetime (Maye, ; Saﬀran,
+contributes to learning throughout one’s lifetime (Maye, ; Saffran,
 ). While growing up, Mandarin-speaking children may be able to use
-the bimodal
-the
+the bimodal frequency distribution from the tonal information of the
 ambient sound input to develop the perceptual ability to identify and
-discriminate diﬀerent tonal categories.
-
-frequency distribution from the tonal
-
-information of
-
+discriminate different tonal categories.
 Consequently, the development of CP from infancy into childhood is
-presumably inﬂuenced by accumulated exposure to a tone language, which
-causes the between-category diﬀerences to become more salient,
-thus
-enhancing the discriminability of pitch variations across diﬀerent tone
-categories with diﬀerent
-the
-maturation and stabilization of tone categories, the identiﬁcation acuity
+presumably influenced by accumulated exposure to a tone language, which
+causes the between-category differences to become more salient, thus
+enhancing the discriminability of pitch variations across different tone
+categories with different lexical meanings. Moreover, during the
+maturation and stabilization of tone categories, the identification acuity
 around the category boundary of Mandarin Tone  and Tone  reached
-adult-like performance
-facilitating Mandarin-speaking
-tone categories around boundary more
-children to identify diﬀerent
-conﬁdently,
-the many-to-one mapping
-between acoustic patterns
-and
+adult-like performance from age six, facilitating Mandarin-speaking
+children to identify different tone categories around boundary more
+confidently, so they could better master the many-to-one mapping
+between acoustic patterns and phonological tone categories, and
 accordingly enhance spoken communication.
-
-lexical meanings. Moreover, during
-
-so they could better master
-
-and phonological
-
-from age
-
-six,
-
-tone
-
-categories,
-
-C O N C L U S I O N
+CONCLUSION.
 Using the classic paradigm of CP, the current study sought to explore the
 development of Mandarin tone perception in four- to seven-year-old
 children. Mandarin-speaking children, with exposure to native tone
 language, can perceive Mandarin Tone  and Tone  categorically. The
-positions of
-the identiﬁcation boundaries did not diﬀer signiﬁcantly
+positions of the identification boundaries did not differ significantly
 between children and adults, but the boundary widths between Tone 
-and Tone  did diﬀer signiﬁcantly, with much narrower boundary widths
-(i.e. sharper boundaries) occurring in six-year-olds than ﬁve-year-olds.
-Moreover, with age, the ability to discriminate more ﬁne-grained tonal
-diﬀerences of between-category pairs was enhanced gradually due to
-perceptual accumulation. These ﬁndings contribute to the work in
+and Tone  did differ significantly, with much narrower boundary widths
+(i.e. sharper boundaries) occurring in six-year-olds than five-year-olds.
+Moreover, with age, the ability to discriminate more fine-grained tonal
+differences of between-category pairs was enhanced gradually due to
+perceptual accumulation. These findings contribute to the work in
 discovering the general developmental course of CP during the maturation
 and stabilization of tone perception in young children.
 
-R E F E R E N C E S
-
-Bent, T., Bradlow, A. R. & Wright, B. A. (). The inﬂuence of linguistic experience on the
-cognitive processing of pitch in speech and nonspeech sounds. Journal of Experimental
-Psychology: Human Perception and Performance , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Best, C. C. & McRoberts, G. W. (). Infant perception of non-native consonant contrasts
-
-that adults assimilate in diﬀerent ways. Language and Speech , –.
-
-Best, C. T., McRoberts, G. W., LaFleur, R. & Silver-Isenstadt, J. (). Divergent
-developmental patterns for infants’ perception of two non-native consonant contrasts.
-Infant Behavior and Development , –.
-
-Best, C. T. & Tyler, M. D. (). Nonnative and second language speech perception:
-commonalities and complementarities. In O.-S. Bohn & M. J. Munro (eds), Language
-experience in second language speech learning: in honor of James Emil Flege, –.
-Amsterdam: John Benjamins.
-
-Bidelman, G. M., Gandour, J. T. & Krishnan, A. (). Cross-domain eﬀects of music and
-language experience on the representation of pitch in the human auditory brainstem.
-Journal of Cognitive Neuroscience , –.
-
-Boersma, P. & Weenink, D. (). Praat: Doing phonetics by computer. Online: <http://
-
-www.fon.hum.uva.nl/praat/>.
-
-Chao, Y. R. (). The Cantian idiolect: an analysis of the Chinese spoken by a
-twenty-eight-months-old child. In W. J. Fischel (ed.), Semitic and oriental studies
-(pp. –). Berkeley, CA: University of California Press.
-
-Clumeck, H. (). The acquisition of tone. In G. H. Yeni-Komshian, J. F. Kavanaugh &
-C. A. Ferguson (eds), Child phonology: Vol. . Production, –. New York: Academic Press.
-Durlach, N. I. & Braida, L. D. (). Intensity perception. I. Preliminary theory of intensity
-
-resolution. Journal of the Acoustical Society of America , –.
-
-Eimas, P. D., Siqueland, E. R., Jusczyk, P. W. & Vigorito, J. (). Speech perception in
-
-infants. Science , –.
-
-Elliot, L. L., Hammer, M. A., School, M. E. & Wasowicz, J. M. (). Age diﬀerences in
-frequency transitions. Perception and
-
-simulated single-formant
-
-discrimination of
-Psychophysics , –.
-
-Finney, D. J. (). Probit analysis, rd ed. Cambridge: Cambridge University Press.
-Francis, A. L., Ciocca, V. & Ng, B. K. C. (). On the (non) categorical perception of
-
-lexical tones. Perception & Psychophysics , –.
-
-Fromkin, V. (). Tone: a linguistic survey. New York: Academic Press.
-Fry, D. B., Abramson, A. S., Eimas, P. D. & Liberman, A. M. (). The identiﬁcation and
-
-discrimination of synthetic vowels. Language and Speech , –.
-
-Fujisaki, H. & Kawashima, T.
-
-speech
-perception-quantitative analysis of categorical eﬀects in discrimination. Annual Report of
-the Engineering Research Institute, Faculty of Engineering, University of Tokyo , –.
-Gandour, J. T., Wong, D. & Hutchins, G. (). Pitch processing in the human brain is
-
-(). A model of
-
-the mechanisms
-
-for
-
-inﬂuenced by language experience. NeuroReport , –.
-
-Gathercole, S. E. & Baddeley, A. D. (). Phonological memory deﬁcits in language
-disordered children: Is there a causal connection? Journal of Memory and Language ,
-–.
-
-Goldstone, R. L. & Hendrickson, A. T.
-
-(). Categorical perception. Wiley
-
-Interdisciplinary Reviews: Cognitive Science (), –.
-
-Hallé, P. A., Chang, Y.-C. & Best, C. T. (). Identiﬁcation and discrimination of Mandarin
-Chinese tones by Mandarin Chinese vs. French listeners. Journal of Phonetics , –.
-Harnad, S. (ed.) (). Categorical perception: the groundwork of cognition. New York, NY:
-
-Cambridge University Press.
-
-Hua, Z. (). Phonological development in speciﬁc contexts: studies of Chinese-speaking
-
-children. Clevedon: Multilingual Matters.
-
-Hua, Z. & Dodd, B. (). The phonological acquisition of Putonghua (Modern Standard
-
-Chinese). Journal of Child Language , –.
-
-Jensen, J. K. & Neﬀ, D. L. (). Development of basic auditory discrimination in preschool
-
-children. Psychological Science , –.
-
-Jiang, C., Hamm, J. P., Lim, V. K., Kirk, I. J. & Yang, Y. (). Impaired categorical
-tones in Mandarin-speaking congenital amusics. Memory &
-
-lexical
-perception of
-Cognition , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-T H E D E V E L O P M E N T O F C P O F M A N D A R I N T O N E S
-
-Johnson, K. & Ralston, J. V. (). Automaticity in speech perception: some speech/
-
-nonspeech comparisons. Phonetica , –.
-
-Kuhl, P. K. (). Early language acquisition: cracking the speech code. Nature Reviews
-
-Neuroscience , –.
-
-Kuhl, P. K. (). Early language acquisition: neural substrates and theoretical models. In
-M. S. Gazzaniga (ed.), The Cognitive Neurosciences IV, –. Cambridge, MA: MIT
-Press.
-
-Kuhl, P. K., Stevens, E., Hayashi, A., Deguchi, T., Kiritani, S. & Iverson, P. (). Infants
-show a facilitation eﬀect for native language phonetic perception between  and  months.
-Developmental Science , F–.
-
-Kuo, Y. C., Rosen, S. & Faulkner, A. (). Acoustic cues to tonal contrasts in Mandarin:
-implications for cochlear implants. Journal of the Acoustical Society of America ,
-–.
-
-Lenneberg, E. H. (). The biological foundations of language. New York: Wiley.
-Li, C. N. & Tompson, S. A. (). The acquisition of tone in Mandarin-speaking children.
-
-Journal of Child Language , –.
-
-Liberman, A. M., Harris, K. S., Hoﬀman, H. S. & Griﬃth, B. C. (). The discrimination
-of speech sounds within and across phoneme boundaries. Journal of Experimental
-Psychology , –.
-
-Liberman, A. M., Harris, K. S., Kinney, J. A. & Lane, H. (). The discrimination of
-relative onset-time of the components of certain speech and nonspeech patterns. Journal
-of Experimental Psychology , –.
-
-Liu, C. (). Just noticeable diﬀerence of tonal pitch changes in speech and nonspeech
-stimuli for Chinese- and English-native speakers. Journal of the Acoustical Society of
-America , –.
-
-Macmillan, N. A., Goldberg, R. F. & Braida, L. D. (). Resolution for speech sounds:
-basic sensitivity and context memory on vowel and consonant continua. Journal of the
-Acoustical Society of America , –.
-
-Macmillan, N. A., Kaplan, H. L. & Creelman, C. D. (). The psychophysics of categorical
-
-perception. Psychological Review , –.
-
-Mattock, K. & Burnham, D. (). Chinese and English infants’ tone perception: evidence
-
-for perceptual reorganization. Infancy , –.
-
-Maye, J. (). Learning speech sound categories on the basis of distributional information.
-
-Unpublished doctoral dissertation, University of Arizona, Tucson.
-
-Maye, J., Werker, J. F. & Gerken, L. (). Infant sensitivity to distributional information
-
-can aﬀect phonetic discrimination. Cognition , B–.
-
-Miller, J. L. & Eimas, P. D. (). Studies on the perception of place and manner of
-articulation: a comparison of the labial–alveolar and nasal–stop distinctions. Journal of the
-Acoustical Society of America , –.
-
-Moulines, E. & Laroche, J. (). Non-parametric techniques for pitch-scale and time-scale
-
-modiﬁcation of speech. Speech Communication , –.
-
-Nenonen, S., Shestakova, A., Huotilainen, M. & Näätänen, R. (). Linguistic relevance of
-duration within the native language determines the accuracy of speech-sound duration
-processing. Cognitive Brain Research , –.
-
-Ning, C. Y. (). Test of Language Ability in Preschoolers. Institute of Linguistics, Tianjin
-
-Normal University: Tianjin University Press [in Chinese].
-
-Peng, G., Deutsch, D., Henthorn, T., Su, D.-J. & Wang, W. S.-Y. (). Language
-experience inﬂuences non-linguistic pitch perception. Journal of Chinese Linguistics ,
-–.
-
-Peng, G., Zhang, C. C., Zheng, H. Y., Minett, J. M. & Wang, W. S.-Y. (). The eﬀect of
-inter-talker variations on acoustic-perceptual mapping in Cantonese and Mandarin tone
-systems. Journal of Speech, Language, and Hearing Research , –.
-
-Peng, G., Zheng, H.-Y., Gong, T., Yang, R.-X., Kong, J.-P. & Wang, W. S.-Y. (). The
-inﬂuence of language experience on categorical perception of pitch contours. Journal of
-Phonetics , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-C H E N E T A L.
-
-Polka, L. & Werker, J. F. (). Developmental changes in perception of nonnative vowel
-contrasts. Journal of Experimental Psychology: Human Perception and Performance ,
-–.
-
-Raven, J. C. (). Standard progressive matrices. Oxford: Oxford Psychologists Press.
-Saﬀran, J. R. (). The use of predictive dependencies in language learning. Journal of
-
-Memory and Language , –.
-
-Saﬀran, J. R., Werker, J. F. & Werner, L. A. (). The infant’s auditory world: hearing,
-speech, and the beginnings of language. In R. Siegler & D. Kuhn (eds), Handbook of child
-psychology: Volume , Cognition, perception and language VI, –. New York: Wiley.
-
-Streeter, L. A. (). Language experience of two-month-old infants shows eﬀects of both
-
-innate mechanisms and experience. Nature , –.
-
-To, C. K. S., Cheung, P. S. P. & McLeod, S. (). A population study of children’s
-acquisition of Hong Kong Cantonese consonants, vowels, and tones. Journal of Speech,
-Language, and Hearing Research , –.
-
-Tse, J. K.-P. (). Tone acquisition in Cantonese: a longitudinal case study. Journal of
-
-Child Language , –.
-
-Wang, W. S.-Y. (). The Chinese language. Scientiﬁc American , –.
-Wang, W. S.-Y. (). Language change. In S. R. Harnad (ed.), Origins and evolution of
-
-language and speech, Vol. , –. New York, NY: New York Academy of Sciences.
-
-Wang, W. S.-Y. (). The three scales of diachrony. In B. B. Kachru (ed.), Linguistics in the
-
-seventies, –. Urbana, IL: Department of Linguistics, University of Illinois.
-
-Werker, J. F. & Tees, R. C. (). Cross-language speech perception: evidence for perceptual
-
-reorganization during the ﬁrst year of life. Infant Behavior and Development , –.
-
-Wong, P. S. (). Acoustic characteristics of three-year-olds’ correct and incorrect
-
-monosyllabic Mandarin lexical tone productions. Journal of Phonetics , –.
-
-Wong, P. S. (). Perceptual evidence for protracted development in monosyllabic
-Mandarin lexical tone production in preschool children in Taiwan. Journal of the
-Acoustical Society of America , –.
-
-Wong, P., Schwartz, R. G. & Jenkins, J. J. (). Perception and production of lexical tones
-by -year-old, Mandarin-speaking children. Journal of Speech, Language, and Hearing
-Research , –.
-
-Xi, J., Jiang, W., Zhang, L J. & Shu, H. (). Categorical perception of VOT and lexical
-
-tones in Chinese and the developmental course. Acta Psychologia Sinica , –.
-
-Xu, Y., Gandour, J. T. & Francis, A. L. (). Eﬀects of language experience and stimulus
-complexity on the categorical perception of pitch direction. Journal of the Acoustical Society
-of America , –.
-
-Yang, J., Diehl, R. & Davis, B. L. (). The development of tonal duration in
-
-Mandarin-speaking children. Journal of the Acoustical Society of America ,  (A).
-
-Yang, J. & Liu, C. (). Categorical perception of lexical tone in - to -year-old
-monolingual and bilingual children. International Journal of Asian Language Processing
-, –.
-
-Yeung, H. H., Chen, K. H. & Werker, J. F. (). When does native language input aﬀect
-phonetic perception? The precocious case of lexical tone. Journal of Memory and Language
-, –.
-
-Yip, M. (). Tone. Cambridge: Cambridge University Press.
-Zhang, Y., Zhang, L., Shu, H., Xi, J., Wu, H., Zhang, Y. & Li, P. (). Universality of
-categorical perception deﬁcit in developmental dyslexia: an investigation of Mandarin
-Chinese tones. Journal of Child Psychology and Psychiatry , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000581
-
-

@@ -1,33 +1,3 @@
-Applied Psycholinguistics 38 (2017), 657–678
-doi:10.1017/S0142716416000382
-
-Structural priming during sentence
-comprehension in Chinese–English
-bilinguals
-
-YUFEN HSIEH
-National Taiwan University of Science and Technology
-
-Received: October 23, 2015
-
-Accepted for publication: August 30, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Yufen Hsieh, Department of Applied Foreign Languages, National Taiwan University of Science and
-Technology, 43 Section 4, Keelung Road, Taipei 106, Taiwan. E-mail: yfhsieh@mail.ntust.edu.tw
-
-ABSTRACT
-Cross-linguistic priming in comprehension is understudied, and it remains unclear whether bilinguals
-have shared abstract syntactic representations during sentence comprehension. This article reports a
-self-paced reading experiment investigating the inﬂuence of Chinese passive relative clauses on the
-interpretation of English sentences that are temporarily ambiguous between an active main clause and
-a passive reduced relative (dispreferred) structure. The results showed that reading Chinese passive
-relative primes reduced processing difﬁculty in English targets at the dispreferred disambiguation.
-Chinese-to-English priming in comprehension occurred without lexical and word-order equivalence
-between primes and targets. In addition, translation-equivalent verbs did not boost cross-linguistic
-structural priming. The ﬁndings support an account under which bilingual sentence processing involves
-abstract, unordered syntactic representations that are integrated between languages.
-
 An important topic in psycholinguistic research is the nature of sentence repre-
 sentations during language comprehension. Information from several sources is
 used to yield an interpretation of a sentence. Syntactic processing is usually con-
@@ -45,14 +15,6 @@ tics, he or she could bypass a full syntactic analysis when faced with complex o
 temporarily ambiguous structures. Under the good-enough account of processing,
 the comprehender may settle for an interpretation of a temporarily ambiguous
 sentence based on heuristics rather than on elaborate syntactic algorithms. The
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-658
-
 good-enough representation of a sentence may be incomplete and incompatible
 with the actual input, as supported by the misinterpretation of garden-path and
 passive sentences.
@@ -103,12 +65,6 @@ sion and production in a bilingual context (Bernolet, Hartsuiker, & Pickering,
 2007; Chen, Jia, Wang, Dunlap, & Shin, 2013; Desmet & Declercq, 2006; Hart-
 suiker, Pickering, & Veltkamp, 2004; Kidd, Tennant, & Nitschke, 2015; Loebell
 & Bock, 2003; Salamoura & Williams, 2006, 2007; Schoonbaert, Hartsuiker, &
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-659
-
 Pickering, 2007; Shin & Christianson, 2009; Weber & Indefrey, 2009). These stud-
 ies address the question of how bilinguals represent syntax in their two languages.
 By examining cross-linguistic structural priming, inferences can be drawn about
@@ -158,12 +114,6 @@ gardless of word order. In contrast, a one-stage account of syntactic constructi
 between constituents are computed simultaneously at a single level. The posi-
 tional information of constituent structures is encoded along with the functional
 level of syntactic representation. From this viewpoint, structures that differ in
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-660
-
 word order across languages are represented separately (De Bot, 1992; Ullman,
 2001). Bilingual research has yielded inconsistent ﬁndings supporting either a
 one-stage (e.g., Bernolet et al., 2007; Kidd et al., 2015; Loebell & Bock, 2003;
@@ -214,15 +164,6 @@ linguistic structural priming during sentence comprehension, which could inform
 a model of bilingual representation. Then, we describe the experiment and draw
 predictions about cross-linguistic structural priming based on Hartsuiker et al.’s
 (2004) model.
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-661
-
-LEXICAL EFFECTS ON STRUCTURAL PRIMING DURING
-COMPREHENSION
-
 Previous studies indicated that structural priming affected online comprehension
 of ambiguous sentences, such as those involving reduced relative/main clause,
 double object/prepositional object, or early/late closure ambiguity. These studies
@@ -269,12 +210,6 @@ abstract syntactic conﬁgurations that are not associated with lexical items (B
 of a speciﬁc mapping between syntactic constituents and thematic roles. The
 processing system then tends to compute the same message-to-syntax mapping
 subsequently. Unlike Arai et al. (2007), Thothathiri and Snedeker (2008) found
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-662
-
 comprehension priming in dative structures without verb overlap between primes
 and targets. In order to boost the priming effect, two primes were presented before
 a target, and a between-participant design was adopted, in which participants were
@@ -316,20 +251,13 @@ is needed in order to better understand the representation of lexical–syntacti
 information in bilingual memory.
 
 WORD-ORDER EFFECTS ON CROSS-LINGUISTIC STRUCTURAL
-PRIMING DURING COMPREHENSION
-
+PRIMING DURING COMPREHENSION.
 Experimental evidence for the impact of word order on comprehension priming
 is scarce. Cross-linguistic priming studies have mostly focused on sentence pro-
 duction. As the ﬁrst demonstration of abstract cross-linguistic priming in compre-
 hension, Kidd et al. (2015) pointed out that word-order equivalence supported
 the construction of integrated syntactic representations in bilinguals. English
 object relative clauses (RCs; e.g., the woman that the man kisses) primed the
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-663
-
 corresponding interpretation of a German subject/object RC ambiguity (e.g., die
 Frau, die das M¨adchen k¨usst “the woman[Subj/Obj] that the girl[Subj/Obj] kisses”),
 but English subject RC primes (e.g., the woman that kisses the man) did not
@@ -379,12 +307,6 @@ tence (e.g., The farmer fed the calves of the cow that were . . . ) to the ﬁrs
 noun phrase following a Dutch high-attachment prime than following a low-
 attachment prime. These ﬁndings can be best accounted for by a two-stage
 model of syntactic processing, where bilinguals have a shared representation
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-664
-
 for similar syntactic constructions in their two languages, regardless of word
 order.
 
@@ -398,9 +320,8 @@ and word-order equivalence and whether the priming effect would be affected by a
 lexical boost. Cross-linguistic priming in comprehension is potentially informative
 about the extent to which bilinguals make use of abstract integrated syntactic
 knowledge to interpret sentences.
-
-THE EXPERIMENT
-
+<Middle>
+THE EXPERIMENT.
 The present study tested Hartsuiker et al.’s (2004) shared-syntax account through
 cross-linguistic structural priming. A self-paced reading paradigm was utilized to
 investigate the inﬂuence of previous reading experience on bilinguals’ compre-
@@ -434,12 +355,6 @@ The student praised by the principal received good grades.
 Except for the word-order difference, Chinese and English passive RC structures
 are identical with respect to functional relations between constituents. They involve
 the same mapping between grammatical and thematic roles. In both structures, the
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-665
-
 extracted subject noun xu´esh¯eng “student” receives a role of patient; the internal
 noun xi`aozhˇang “principal” is the object of the preposition bei “by” and bears an
 agent role.
@@ -489,12 +404,6 @@ and a patient) and syntactic constituents. There is a common representation for 
 passive relative structures at the functional level, which involves mappings from the
 patient to the extracted subject position and the agent to the internal object position.
 Functional-level priming (i.e., a tendency to repeat the same mappings) would
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-666
-
 increase the accessibility of the dispreferred English reduced relative structure
 in subsequent processing. Thus, the English target sentences should incur less
 processing difﬁculty at the disambiguating by-phrase in the prime conditions than
@@ -505,10 +414,8 @@ to occur, the two structures would not prime each other. The absence of priming
 would argue against the existence of constituent structure representations that are
 unspeciﬁed for word order.
 
-METHOD
-
-Participants
-
+METHOD.
+Participants.
 The participants were 54 native speakers of Mandarin Chinese with the age ranging
 from 19 to 22 years. They had learned English at school as their L2 for at least
 8 years starting from around the age of 11. The participants’ Test of English for
@@ -538,17 +445,10 @@ identical verbs as targets; another one-third received passive relative primes t
 did not overlap with targets; and the rest of the participants only saw sentences
 with an active structure before targets.
 
-Materials
-
+Materials.
 The experiment had a total of 20 sets of critical items. All critical items consisted
 of four sentences. In the prime with verb repetition and the prime without verb
 repetition conditions, the ﬁrst two sentences were Chinese passive relative primes,
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-667
-
 and the last was an English target. Two primes were utilized because priming
 effects might be reinforced with a structure occurring across multiple verbs (Pick-
 ering & Branigan, 1998; Thothathiri & Snedeker, 2008). The Chinese passive
@@ -580,8 +480,7 @@ between every two experimental trials. One third of the ﬁllers contained synta
 violations at different points in the sentences. All the sentences were displayed in
 one line on the computer screen.
 
-Procedure
-
+Procedure.
 The experiment employed the noncumulative self-paced reading paradigm (Just,
 Carpenter, & Woolley, 1982) via E-Prime experimental software. Sentences ap-
 peared on a computer screen one word at a time in a moving window display.
@@ -593,92 +492,10 @@ participants had to judge whether the sentence was grammatical or not. A prac-
 tice session of six trials preceded the experimental session. The entire experiment
 lasted approximately 25 min.
 
-RESULTS
-
+RESULTS.
 Reading times and grammaticality judgments of the target sentences were ana-
 lyzed. The target sentences were divided into ﬁve analysis regions. The disam-
 biguating region was located at the by-phrase, which resolved the ambiguous
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-Table 1. Mean reading time (ms) by sentence region
-
-668
-
-Condition
-
-Det + Noun Verb By-Phrase Main Verb Main Verb + 1
-
-Prime
-
-With verb repetition
-Without verb repetition
-
-No prime
-
-1260
-1272
-1257
-
-1419
-1443
-1381
-
-2351
-2320
-2688
-
-988
-802
-1252
-
-705
-720
-745
-
-Table 2. Analyses of reading times by sentence region
-
-Reading Times Analysis
-
-F1 (df)
-
-Det + noun
-Verb
-By-phrase
-Main verb
-Main verb + 1
-
-0.01 (2.51)
-0.11 (2.51)
-4.15 (2.51)
-6.20 (2.51)
-0.24 (2.51)
-
-p
-
->.10
->.10
-<.05
-<.01
->.10
-
-F2 (df)
-
-0.10 (2.38)
-0.25 (2.38)
-10.72 (2.38)
-17.65 (2.38)
-0.35 (2.38)
-
-p
-
->.10
->.10
-<.001
-<.001
->.10
-
 sentences to a passive reduced relative interpretation. Table 1 presents reading
 times for the ﬁve analysis regions. Reading times reﬂect processing difﬁculty such
 that the longer the reading time, the more difﬁcult the processing.
@@ -707,17 +524,10 @@ that were judged grammatical. The average percentage of correct responses was
 verb repetition condition, and 75.28% for the no-prime condition. A one-way
 ANOVA yielded no signiﬁcant difference between the three conditions in the
 accuracy of judgment (ps > .1). In other words, the presence and the type of
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-669
-
 primes did not affect the participants’ judgments, though the target sentences were
 read slower at the by-phrase and the main verb region without primes.
-
-DISCUSSION
-
+<Conclusion>
+DISCUSSION.
 Structural priming has been less consistently demonstrated in comprehension
 than in production, as comprehension priming is subject to the impact of lexical
 and word-order difference between primes and targets. Using two primes and a
@@ -761,12 +571,6 @@ when relevant cues are available. If a syntactic representation were not constru
 for a structurally ambiguous sentence and interpretation was entirely based on
 nonsyntactic sources such as lexical knowledge and thematic role order, structural
 priming should not have occurred in the prime without verb repetition condition,
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-670
-
 where the Chinese primes and the English targets had different verbs and word
 orders.
 
@@ -816,15 +620,6 @@ for the presence of priming in the current study and Thothathiri and Snedeker.
 Priming might grow in strength over trials in an implicit learning process and
 becomes a more effective cue in subsequent processing within or across lan-
 guages. In other words, readers can adapt their expectations to speciﬁc linguistic
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-671
-
-Figure 1. Illustration of the shared syntactic representation of Chinese and English passive
-relative clause structure at the functional level.
-
 environments through repeated experiences, leading to decease in processing dif-
 ﬁculty associated with garden-path effects.
 
@@ -864,12 +659,6 @@ representation (Bock & Levelt, 1994; Garrett, 1980; Hartsuiker et al., 1999; Har
 suiker & Westenberg, 2000). Although Chinese and English differ in word order,
 both structures contain an extracted subject noun phrase, which receives a patient
 role, and a modifying RC in passive voice, where the internal object bears an
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-672
-
 agent role. The cross-linguistic priming arose from the syntactic representation
 shared between Chinese and English passive relative constructions and did not
 require identical word order. Thus, the experience with the Chinese passive rel-
@@ -919,12 +708,6 @@ tain translation equivalents of these function words during the ambiguous region
 study must rest on the activation of an abstract syntactic representation rather
 than pure lexical access. For another, structural priming occurs independently of
 function words, such as prepositions (Bock, 1989; Fox Tree & Meijer, 1999) or
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-673
-
 complementizers (Desmet & Declercq, 2006; V. S. Ferreira, 2003). In the no-prime
 condition the sentences preceding the targets also contained de between an attribu-
 tive adjective and a head noun, but it did not prime the reduced RC interpretation
@@ -974,14 +757,7 @@ the syntactic level. A switch in structure, in this case from the passive reduce
 RC to the active main clause analysis, requires a remapping process. In short,
 structural priming is based on the mapping between conceptual elements and
 syntactic constituents.
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-674
-
-Conclusion
-
+Conclusion.
 This study is the ﬁrst to demonstrate that cross-linguistic priming occurs in com-
 prehension without word–order and lexical repetition between primes and targets.
 Prior exposure to Chinese passive relative primes facilitated the corresponding
@@ -1004,331 +780,3 @@ opment or are they initially represented separately and then merged together as
 the learner becomes more proﬁcient in an L2? These ﬁndings are informative
 about the mechanisms that underlie language use at different stages of bilingual
 development.
-
-APPENDIX A
-
-EXAMPLE ITEM USED IN THE STUDY
-
-Prime with verb repetition condition
-
-Chinese prime 1:
-n`ag`e b`ei xi`aozhˇang ch¯engz`an de xu´esh¯eng d´ed`ao hˇao ch´engj`ı
-the PASSIVE principal praise RC student receive good grade
-The student praised by the principal received good grades.
-
-Chinese prime 2:
-n`ag`e b`ei lˇaopˇan ch¯engz`an de zh´ıyu´an hˇen nˇul`ı g¯ongzu`o
-the PASSIVE boss praise RC employee very hard work
-The employee praised by the boss worked very hard.
-
-Chinese/English ﬁller:
-n`ag`e xuˇanshˇou su¯ır´an ni´anj`ı q¯ıng d`ansh`ı j¯ıngy`an hˇen f¯engf`u
-the player though age young but experience very much
-Although the player was at a young age, he was very experienced.
-
-English target:
-The designer praised by the client was very creative.
-
-675
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-Prime without verb repetition condition
-
-Chinese prime 1:
-n`ag`e b`ei jˇıngch´a dˇaizh`u de xiˇaot¯ou gˇand`ao hˇen xi¯uku`ı
-the PASSIVE policeman arrest RC thief feel very ashamed
-The thief arrested by the policeman felt ashamed.
-
-Chinese prime 2:
-n`ag`e b`ei nˇainˇai chˇonghu`ai de xiˇaoh´ai zu`osh`ı b`u f`uz´e
-the PASSIVE grandmother spoil RC child do something not responsibly
-The child spoiled by the grandmother did something irresponsibly.
-
-Chinese/English ﬁller:
-n`ag`e xuˇanshˇou su¯ır´an ni´anj`ı q¯ıng d`ansh`ı j¯ıngy`an hˇen f¯engf`u
-the player though age young but experience very much
-Although the player was at a young age, he was very experienced.
-
-English target:
-The designer praised by the client was very creative.
-
-No-prime condition
-
-Chinese prime 1:
-n`ag`e r`enzh¯en f`uz´e de jˇıngch´a zu´oti¯an dˇaibˇu le xiˇaot¯ou
-the earnest responsible ATT policeman yesterday arrest ASP thief
-The earnest, responsible policeman arrested the thief yesterday.
-
-Chinese prime 2:
-n`ag`e c´ıxi´ang h´eˇai de nˇainˇai yˇıj¯ıng chˇonghu`ai le h´aizˇı
-the kind amiable ATT grandmother already spoil ASP child
-The kind, amiable grandmother already spoiled the child.
-
-Chinese/English ﬁller:
-n`ag`e xuˇanshˇou su¯ır´an ni´anj`ı q¯ıng d`ansh`ı j¯ıngy`an hˇen f¯engf`u
-the player though age young but experience very much
-Although the player was at a young age, he was very experienced.
-
-English target:
-The designer praised by the client was very creative.
-
-ACKNOWLEDGMENT
-Preparation of this manuscript was supported by Grant 103-2410-H-011-035 from the
-Ministry of Science and Technology of Taiwan.
-
-REFERENCES
-Altmann, G. (1998). Ambiguity in sentence processing. Trends in Cognitive Sciences, 2, 146–152.
-Arai, M., van Gompel, R. P. G., & Scheepers, C. (2007). Priming ditransitive structures in comprehen-
-
-sion. Cognitive Psychology, 54, 218–250.
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-676
-
-Bernolet, S., Hartsuiker, R. J., & Pickering, M. J. (2007). Shared syntactic representations in bilinguals:
-Evidence for the role of word-order repetition. Journal of Experimental Psychology: Learning,
-Memory, and Cognition, 33, 931–949.
-
-Bock, J. K. (1986). Syntactic persistence in language production. Cognitive Psychology, 8, 355–387.
-Bock, J. K. (1989). Closed class immanence in sentence production. Cognition, 31, 163–186.
-Bock, J. K., Dell, G. S., Chang, F., & Onishi, K. H. (2007). Persistent structural priming from language
-
-comprehension to language production. Cognition, 104, 437–458.
-
-Bock, J. K., & Grifﬁn, Z. M. (2000). The persistence of structural priming: Transient activation or
-
-implicit learning? Journal of Experimental Psychology: General, 129, 177–192.
-
-Bock, J. K., & Levelt, W. J. M. (1994). Language production: Grammatical encoding. In M. A. Gerns-
-bacher (Ed.), Handbook of psycholinguistics (pp. 945–984). San Diego, CA: Academic Press.
-
-Bock, J. K., & Loebell, H. (1990). Framing sentences. Cognition, 35, 1–39.
-Bock, J. K., Loebell, H., & Morey, R. (1992). From conceptual roles to structural relations: Bridging
-
-the syntactic cleft. Psychological Review, 99, 150–171.
-
-Borer, H. (1994). The projection of arguments. In E. Benedicto & J. Runner (Eds.), Functional
-projections (University of Massachusetts Occasional Papers in Linguistics 17, pp. 19–47).
-Amherst, MA: GLSA.
-
-Carminati, M. N., van Gompel, R. P. G., Scheepers, C., & Arai, M. (2008). Syntactic priming in
-comprehension: The role of argument order and animacy. Journal of Experimental Psychology:
-Learning, Memory, and Cognition, 34, 1098–1110.
-
-Chang, F., Bock, K., & Goldberg, A. E. (2003). Can thematic roles leave traces of their places?
-
-Cognition, 90, 29–49.
-
-Chen, B., Jia, Y., Wang, Z., Dunlap, S., & Shin, J.-A. (2013). Is word-order similarity necessary for
-
-cross-linguistic structural priming? Second Language Research, 29, 375–389.
-
-Clahsen, H., & Felser, C. (2006). Grammatical processing in language learners. Applied Psycholin-
-
-guistics, 27, 3–42.
-
-Cleland, A. A., & Pickering, M. J. (2003). The use of lexical and syntactic information in language
-production: Evidence from the priming of noun-phrase structure. Journal of Memory and
-Language, 49, 214–230.
-
-De Bot, K. (1992). A bilingual production model: Levelt’s “speaking” model adapted. Applied Lin-
-
-guistics, 41, 365–397.
-
-Desmet, T., & Declercq, M. (2006). Cross-linguistic priming of syntactic hierarchical conﬁguration
-
-information. Journal of Memory and Language, 54, 610–632.
-
-Felser, C., Roberts, L., Gross, R., & Marinis, T. (2003). The processing of ambiguous sentences by
-
-ﬁrst and second language learners of English. Applied Psycholinguistics, 24, 453–489.
-
-Ferreira, F. (2003). The misinterpretation of noncanonical sentences. Cognitive Psychology, 47, 164–
-
-203.
-
-Ferreira, F., Bailey, K. G. D., & Ferraro, V. (2002). Good-enough representations in language compre-
-
-hension. Current Directions in Psychological Science, 11, 11–15.
-
-Ferreira, V. S. (2003). The persistence of optional complementizer production: Why saying “that” is
-
-not saying “that” at all. Journal of Memory and Language, 48, 379–398.
-
-Fox Tree, J. E., & Meijer, P. J. A. (1999). Building syntactic structure in speaking. Journal of Psy-
-
-cholinguistic Research, 28, 71–92.
-
-Frazier, L., & Clifton, C. (1998). Sentence reanalysis and visibility. In J. D. Fodor & F. Ferreira (Eds.),
-
-Reanalysis in sentence processing (pp. 143–176). Dordrecht: Kluwer.
-
-Garrett, M. (1980). Levels of processing in speech production. In B. Butterworth (Ed.), Language
-
-production (Vol. 1, pp. 177–220). London: Academic Press.
-
-Grifﬁn, Z. M., & Weinstein-Tull, J. (2003). Conceptual structure modulates structural priming in the
-
-production of complex sentences. Journal of Memory and Language, 49, 537–555.
-
-Hartsuiker, R. J., Kolk, H. H. J., & Huiskamp, P. (1999). Priming word order in sentence production.
-
-Quarterly Journal of Experimental Psychology, 52A, 129–147.
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-677
-
-Hartsuiker, R. J., & Pickering, M. J. (2008). Language integration in bilingual sentence production.
-
-Acta Psychologica, 128, 479–489.
-
-Hartsuiker, R. J., Pickering, M. J., & Veltkamp, E. (2004). Is syntax separate or shared between
-languages? Cross-linguistic syntactic priming in Spanish/English bilinguals. Psychological
-Science, 15, 409–414.
-
-Hartsuiker, R. J., & Westenberg, C. (2000). Word order priming in written and spoken sentence
-
-production. Cognition, 75, B27–B39.
-
-Just, M. A., Carpenter, P. A., & Woolley, J. D. (1982). Paradigms and processes in reading compre-
-
-hension. Journal of Experimental Psychology: General, 111, 228–238.
-
-Kidd, E., Tennant, E., & Nitschke, S. (2015). Shared abstract representation of linguistic structure in
-
-bilingual sentence comprehension. Psychonomic Bulletin & Review, 22, 1062–1067.
-
-Levelt, W. J. M., Roelofs, A., & Meyer, A. S. (1999). A theory of lexical access in speech production.
-
-Behavioral and Brain Sciences, 22, 1–75.
-
-Levin, B., & Rappaport-Hovav, M. (1995). Unaccusativity at the syntax-lexical semantics Interface.
-
-Cambridge, MA: MIT Press.
-
-Li, C. N., & Thompson, S. A. (1981). Mandarin Chinese: a functional reference grammar. Berkeley,
-
-CA: University of California Press.
-
-Loebell, H., & Bock, K. (2003). Structural priming across languages. Linguistics, 41, 791–824.
-MacDonald, M. C., Pearlmutter, N. J., & Seidenberg, M. S. (1994). Lexical nature of syntactic
-
-ambiguity resolution. Psychological Review, 101, 676–703.
-
-McRae, K., Spivey-Knowlton, M. J., & Tanenhaus, M. K. (1998). Modeling the inﬂuence of thematic
-ﬁt (and other constraints) in online sentence comprehension. Journal of Memory & Language,
-38, 283–312.
-
-Melinger, A., & Dobel, C. (2005). Lexically driven syntactic priming. Cognition, 98, 11–20.
-Mitchell, D. C. (2004). On-line methods in language processing: Introduction and historical review. In
-M. Carreiras & C. E. Clifton (Eds.), The on-line study of sentence comprehension: Eyetracking,
-ERP and beyond (pp. 15–32). New York: Psychology Press.
-
-Pickering, M. J., & Branigan, H. P. (1998). The representation of verbs: Evidence from syntactic
-
-priming in language production. Journal of Memory & Language, 39, 633–651.
-
-Pickering, M. J., Branigan, H. P., & McLean, J. F. (2002). Constituent structure is formulated in one
-
-stage. Journal of Memory and Language, 46, 586–605.
-
-Pickering, M. J., & Ferreira, V. S. (2008). Structural priming: A critical review. Psychological Bulletin,
-
-134, 427–459.
-
-Pickering, M. J., McLean, J. F., & Branigan, H. P. (2013). Persistent structural priming and frequency
-effects during comprehension. Journal of Experimental Psychology: Learning, Memory, and
-Cognition, 39, 890–897.
-
-Roelofs, A. (1992). A spreading-activation theory of lemma retrieval in speaking. Cognition, 42,
-
-107–142.
-
-Salamoura, A., & Williams, J. N. (2006). Lexical activation of cross-language syntactic priming.
-
-Bilingualism: Language and Cognition, 9, 299–307.
-
-Salamoura, A., & Williams, J. N. (2007). Processing verb argument structure across languages: Ev-
-idence for shared representations in the bilingual mental lexicon. Applied Psycholinguistics,
-28, 627–660.
-
-Savage, C., Lieven, E., Theakston, A., & Tomasello, M. (2006). Structural priming in language
-acquisition: The persistence of lexical and structural priming in 4-year-olds. Language Learning
-and Development, 2, 27–49.
-
-Schoonbaert, S., Hartsuiker, R. J., & Pickering, M. J. (2007). The representation of lexical and syntactic
-information in bilinguals: Evidence from syntactic priming. Journal of Memory and Language,
-56, 153–171.
-
-Shin, J.-A., & Christianson, K. (2009). Syntactic processing in Korean–English bilinguals: Evidence
-
-from cross-linguistic structural priming. Cognition, 112, 175–180.
-
-Applied Psycholinguistics 38:3
-Hsieh: Sentence comprehension in Chinese–English bilinguals
-
-678
-
-Tannenbaum, R. J., & Wylie, E. C. (2013). Mapping TOEIC and TOEIC Bridge Test Scores to the
-Common European Framework of Reference. In D. E. Powers (Ed.), The Research Foundation
-for the TOEIC Tests: A compendium of studies (Vol. 2, pp. 6.1–6.10). Princeton, NJ: Educational
-Testing Service.
-
-Thothathiri, M., & Snedeker, J. (2008). Give and take: Syntactic priming during spoken language
-
-comprehension. Cognition, 108, 51–68.
-
-Tooley, K. M., & Traxler, M. J. (2010). Syntactic priming effects in comprehension: A critical review.
-
-Language and Linguistics Compass, 4, 925–937.
-
-Tooley, K. M., Traxler, M. J., & Swaab, T. Y. (2009). Electrophysiological and behavioral evidence of
-syntactic priming in sentence comprehension. Journal of Experimental Psychology: Learning,
-Memory, and Cognition, 35, 19–45.
-
-Traxler, M. J. (2008). Lexically independent priming in online sentence comprehension. Psychonomic
-
-Bulletin & Review, 15, 149–155.
-
-Traxler, M. J. (2015). Priming of early closure: Evidence for the lexical boost. Language, Cognition,
-
-and Neuroscience, 30, 47–490.
-
-Traxler, M. J., & Tooley, K. M. (2008). Priming in sentence comprehension: Strategic or syntactic?
-
-Language and Cognitive Processes, 23, 609–645.
-
-Traxler, M. J., Tooley, K. M., & Pickering, M. J. (2014). Syntactic priming during sentence comprehen-
-sion: Evidence for the lexical boost. Journal of Experimental Psychology: Learning, Memory,
-and Cognition, 40, 905–918.
-
-Trueswell, J. C. (1996). The role of lexical frequency in syntactic ambiguity resolution. Journal of
-
-Memory & Language, 35, 566–585.
-
-Trueswell, J. C., & Tanenhaus, M. K. (1991). Tense, temporal context and syntactic ambiguity resolu-
-
-tion. Language and Cognitive Processes, 6, 303–338.
-
-Trueswell, J. C., Tanenhaus, M. K., & Garnsey, S. M. (1994). Semantic inﬂuences on parsing: Use of
-thematic role information in syntactic ambiguity resolution. Journal of Memory and Language,
-33, 285–318.
-
-Ullman, T. (2001). The neural basis of lexicon and grammar in ﬁrst and second language: The
-
-declarative/procedural model. Bilingualism: Language and Cognition, 4, 105–122.
-
-Weber, K., & Indefrey, P. (2009). Shared syntactic information in German-English bilinguals: An fMRI
-
-repetition suppression study. NeuroImage, 46, 1164–1172.
-
-Yang, P., & Shih, S. (2013). A reading-time study of the main verb versus reduced relative clause
-ambiguity resolution by English learners in Taiwan. Applied Psycholinguistics, 34, 1109–1133.
-
-

@@ -1,77 +1,4 @@
-Journal of Sociolinguistics 21/4, 2017: 547–575
-
-THEME
-SERIES
-
-Interaction: Talk and beyond
-Edited by Devyani Sharma
-
-This is the ﬁfth and last article in the Theme Series entitled ‘Interaction: Talk and
-Beyond’, which explores non-verbal dimensions of talk in interaction. A full Series
-introduction can be found in issue 20/3 (2016).
-
-Gender, electrodermal activity, and
-
-videogames: Adding a psychophysiological
-
-dimension to sociolinguistic methods1
-
-Norma Mendoza-Denton,
-
-Scarlett Eisenhauer,
-
-Wesley Wilson and Cory Flores
-
-University of California, Los Angeles, U.S.A
-
-User experience research on the affective dimensions of videogame players’
-interactions has looked to psychophysiological measures as proxies for
-emotional states. We add to the growing body of literature on this topic and
-offer our research as a novel application to the methodological toolbox of
-sociolinguistics. We present a case study of an interaction occurring in a
-mixed-gender group (3m/1f) playing a video game that has a potentially
-sexualized component in gameplay, using a Nintendo Wii-mote joystick as
-a mimetic penis in the game Mario Party 8. Through a detailed analysis of
-(1) gameplay interaction,
-(2)
-participants’
-activity (EDA), and (3) a post-game
-electrodermal
-debrieﬁng, we track the varied engagements of the players in-game and
-with each other, showing how the design of the game itself and the
-entanglement of hardware and software design with gendered gameplay
-serve to marginalize and exclude the female participant.
-
-laughter and gesture,
-
-including talk,
-
-Investigaciones sobre la dimension afectiva de la experiencia de usuarios de
-videojuegos se han concentrado en medidas psicoﬁsiologicas utilizadas
-como indicadores indirectos de estados emocionales. El presente artıculo se
-suma a esta literatura y a~nade una metodologia psicoﬁsiologica a las
-herramientas de la socioling€uıstica. Presentamos un caso de estudio de una
-interaccion ocurrida en un grupo de genero mixto. En esta sesion, los
-participantes juegan utilizando la palanca de mando Nintendo Wii para
-Mario Party 8, que tiene un componente potencialmente sexualizado pues
-se asemeja a un pene. A traves de un analisis detallado de (1) la interaccion
-durante el juego, (2) la actividad electrodermica de los participantes (EDA),
-y (3) una sesion recapitulativa, trazamos las relaciones de los jugadores
-
-© 2017 John Wiley & Sons Ltd
-
-548
-
-MENDOZA-DENTON ET AL.
-
-dentro del juego y entre sı. Mostramos como el dise~no ambig€uamente
-sexista del juego y el entrelazamiento de dise~no, equipos, y aplicaciones
-informaticas sirven para marginar a la participante. [Spanish]
-
-KEYWORDS: Laughter, embodiment, gender, videogames, electrodermal
-activity, entanglement
-
-1. INTRODUCTION
+1. INTRODUCTION.
 
 This article seeks to put a spotlight on the roles of the body and materiality in
 language and gender socialization, a process that sociolinguists and linguistic
@@ -80,62 +7,33 @@ in interaction. In keeping with this article’s appearance in the themed series
 ‘Interaction: Talk and Beyond,’ we present an analytic innovation: the use of
 psychophysiological measures that represent the interaction between the
 physical and psychological aspects of brain and behavior.
-
-The
-
-ﬁelds
-
-of
-
-sociolinguistics,
-
-anthropology,
-in the role of
-
-and
-visual
-linguistic
-the body in
-anthropology have a longstanding interest
+The fields of sociolinguistics, linguistic anthropology, and visual
+anthropology have a longstanding interest in the role of the body in
 interaction. Discourse and conversation analysis have long been concerned
-with the ﬁne-grained texture of interaction itself (Gumperz 1982; Erickson
+with the fine-grained texture of interaction itself (Gumperz 1982; Erickson
 1985; Tannen1984) and the delicate choreographing of physical components
 of the body with aspects of language such as intonation (Mendoza-Denton and
 Jannedy 2011). However, we know relatively little in sociolinguistics about the
 psychophysiological facets of interaction. Lab-bound research such as that
 with Event-Related Potentials (ERPs, small voltage events that occur in the
-brain in response
-stimuli and are measured with an
+brain in response to specific stimuli and are measured with an
 electroencephalograph) has long been taking place in psychology and
 psycholinguistics. Sociolinguistics has only recently explored ERPs and eye
-tracking techniques to understand how socio-indexical information inﬂuences
+tracking techniques to understand how socio-indexical information influences
 phoneme recognition as well as sentence and text comprehension (Beddor
 et al. 2013; D’Onofrio 2015; Pickering et al. 2004); while other areas of
 linguistics are using MRI (Magnetic Resonance Imaging) and ultrasound to
 understand, for example, articulation and its relation to phonological structure
 (Mielke, Baker and Archangeli 2010).
-
-to speciﬁc
-
 Sympathetic nervous system responses such as increasing heart rate,
 temperature, blood pressure, and electrodermal activity (EDA) are not
 currently exploited for what they might tell us in sociolinguistics, linguistic
 anthropology or conversation analysis, and we believe this lacuna arises in part
-because of the perceived divide between ﬁeld research and lab research that
-predominates in these disciplines, with most ﬁeld sociolinguists considering
+because of the perceived divide between field research and lab research that
+predominates in these disciplines, with most field sociolinguists considering
 psychophysiological measurement protocols to be too cumbersome and
-inhibitory of
-situations preferred for ﬁeldwork and
+inhibitory of the naturalistic situations preferred for fieldwork and
 interviewing. Here, we must recognize some exceptions in the reading and ESL
-
-the naturalistic
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-549
-
 ﬁelds which take advantage of the relative immobility of reading tasks to
 measure, for instance, the greater EDA response to ﬁrst vs. second-language
 swearing and reprimands (Harris 2004).
@@ -169,71 +67,38 @@ et al. 2008);
 
 interactivity between users and their own biological output; and
 3. evaluate and implement design choices (Kivikangas et al. 2011).
-
 With regard to product evaluation, the insights resulting from studies of users’
 physiological reactions can be employed by videogame developers seeking to
 quantify aspects of subjective dimensions such as fun, challenge, enjoyment,
-and boredom (Mandryk,
-Inkpen and Calvert 2006). Video game user
+and boredom (Mandryk, Inkpen and Calvert 2006). Video game user
 experience data can additionally elucidate not only individual responses, but
-also co-participants’
-in
+also co-participants’ reactions to each other. Despite difficulties in
 interpretation (i.e. do increased heart rate, breathing or sweating have
 positive or negative valence?), gaming researchers and engineers assert that
-psychophysiological measurement provides an ‘objective, continuous, real-
-time, non-invasive, precise, and sensitive way to assess the game experience’
+psychophysiological measurement provides an ‘objective, continuous, realtime,
+non-invasive, precise, and sensitive way to assess the game experience’
 (Kivikangas et al. 2011: 181).
-
-to each other. Despite difﬁculties
-
-reactions
-
-Meanwhile in the ﬁeld of quantitative sociolinguistics, the real-time tracking
+Meanwhile in the field of quantitative sociolinguistics, the real-time tracking
 of linguistic consequences of discrete interactional events has enjoyed a surge
-of
-interest, particularly in so-called third-wave variationist studies (Eckert
-2012). Such studies often beneﬁt from an ethnographic perspective (Podesva
+of interest, particularly in so-called third-wave variationist studies (Eckert
+2012). Such studies often benefit from an ethnographic perspective (Podesva
 2006; Mendoza-Denton 2008; see also Schilling-Estes 2004), providing rich
-
-© 2017 John Wiley & Sons Ltd
-
-550
-
-MENDOZA-DENTON ET AL.
-
 context that aids in the interpretation of the effects of linguistic variables as
 they unfold in conversation. But quantitative sociolinguists are not the only
 ones who have examined interaction as it unfolds: in sociology, anthropology,
 language and communication departments, conversation and discourse
 analysts have a long history of being centrally concerned with the mutually
-constitutive nature of
-talk and action. As Devyani Sharma observes,
-‘interaction
-inescapably
+constitutive nature of talk and action. As Devyani Sharma observes,
+‘interaction is at once fundamentally linguistic and inescapably
 interdisciplinary [. . .] it creates momentary alliances of bodies, strategies,
 geographies, and various other signals and positionings’ (2016: 335).
-
-fundamentally
-
-linguistic
-
-and
-
-is
-
-at
-
-once
-
 Some of the questions we seek to investigate in this paper include:
-(cid:129) How does materiality of the environment, and especially culturally
+• How does materiality of the environment, and especially culturally
 sedimented features of material objects, serve to structure the interactions
 of speakers in the world?
-(cid:129) How does gender ideology as materialized in objects affect interaction?
-(cid:129) How are these effects reﬂected not only at the interactional level but also
-
+• How does gender ideology as materialized in objects affect interaction?
+• How are these effects reflected not only at the interactional level but also
 in physiology?
-
 Answers to these questions can help us to better understand the building blocks
 not only in talk and at the interactional level, but of gendered marginalization,
 building on analyses of face-to-face interactional literature such as Goodwin
@@ -256,26 +121,16 @@ We Dare (a critically underwhelming [Gibson 2011] banned-in-the-U.K.
 swinger-avatar game that somehow achieved a 12+ age rating). Even the
 current and much-hyped portable console Nintendo Switch has built-in games
 that earn ‘sexually suggestive’ ratings from review sites (IGN.com 2017).
-
-2. THEORETICAL BACKGROUND
-
-In this section, we brieﬂy summarize four relevant strands of literature needed
+2. THEORETICAL BACKGROUND.
+In this section, we briefly summarize four relevant strands of literature needed
 in order to make sense of the data we will present. The literature on gaming
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-551
-
 environments for women and girls gives us a glimpse of settings encountered
 by female gamers. The second section examines some of the conversation
 analytic claims about laughter (one of the main features we examine in the
 interactions we collected), and ﬁnally we discuss psychophysiology and
 electrodermal activity.
 
-2.1 Gaming and gender
-
+2.1 Gaming and gender.
 In her anthropological account as a participant observer in the World of
 Warcraft MMORPG (Massively Multiplayer Online Role-Playing Game), Bonnie
 Nardi (2010) provides an analysis of the gendered dynamics of video games, as
@@ -283,15 +138,13 @@ well as a sobering review of the literature on women and video games. She
 notes that many games include elements that are unappealing to women, such
 as ‘kombat lingerie [. . .] hypersexualized female body types . . .’ (2010: 166)
 and even off-putting scenarios where players must ‘run around ﬁnding gear to
-cover their nakedness’ (2010: 166) or operate in environments of
-‘surly
+cover their nakedness’ (2010: 166) or operate in environments of ‘surly
 masculinity’ like the brothels in the game Neverwinter Nights (Mortensen and
 Corneliussen 2005, as cited in Nardi 2010: 165). To further her analysis,
 Nardi relies on the use of the ‘boys’ tree house’ metaphor originally employed
 by Williams et al. (2006), referring to a space that is assumed to be a boys-only
 safe space, where girls are by deﬁnition excluded, and which in some sense
 describes areas of gamer culture as a whole.
-
 Much of our inspiration in thinking about gender is consonant with thinkers
 such as Michel Foucault and Judith Butler. For our purposes, Butler (1988)
 contributes the notion of performativity, a stance in which gender is not ﬁxed,
@@ -308,55 +161,35 @@ resulted in a disciplining of the body, as well as an interpellation, a hailing
 (Althusser 1971) of women in video games as always/already constituted in
 degrading ways (Dietz 1998; Fron et al. 2007).
 
-To give a brief
-
-illustration, a recent Python developer conference was
+To give a brief illustration, a recent Python developer conference was
 plagued by scandal when two male developers were ﬁred for openly making
 jokes about ‘forking’ and ‘big dongles’ within earshot of a female developer
 who chose to speak up and posted their picture online (‘forking’ refers
 ambiguously to both a sexual act and to the development of a new program
 from open source software, while a ‘dongle’ can be either a hardware
 connector or a slang word for penis). The male developers denied interpellating
-
-© 2017 John Wiley & Sons Ltd
-
-552
-
-MENDOZA-DENTON ET AL.
-
-the woman, claimed that they only meant ‘forking’ and ‘dongles’
-in the
+the woman, claimed that they only meant ‘forking’ and ‘dongles’ in the
 technical sense, and apologized. As most gender-related matters in the world of
-gaming though, the controversy was far from over: the ﬁrings were followed by
+gaming though, the controversy was far from over: the firings were followed by
 vengeance from Anonymous resulting in multiple DDoS (Distributed Denial of
 Service – an evil-minded attempt to make a server unavailable) attacks on the
 server hosting the woman’s blog (Brodkin 2013).
-
 Yes, by now the terms ‘forking’ and ‘dongle’ have technical meanings.
 Inescapable, however, is the sexist background from which these terms spring,
 and the double-entendre that the terms create and which can be covered up in
 plausible deniability. The terms and the objects to which they refer are always
 already entangled with the history of their social naming.
-
-through post-mass-media networks. And yet
-
 Elsewhere (Mendoza-Denton 2016) we discuss the enregisterment of this
 gaming interpretation, and its circulation through social media. The
 phenomenon of enregisterment, the emergence of recurrent patterns across
 registers, would be an example of an ideology in the making, an interpretant
-taking ﬂight
-the
+taking flight through post-mass-media networks. And yet it is the
 entanglement between the game designers of Mario Party 8 (mostly male),
 the iconic function of the Wii-mote, and its use in a (purportedly family-rated)
 videogame that constitutes an in-group joke, a type of Easter Egg (a secret
 subroutine found in a video game that, if found, is meant to reward ingenuity
 on the part of the player), sent across time and space from the male designers of
 the game to the male players at the other end.
-
-it
-
-is
-
 What is the point of the minigame under study then? The object of the
 minigame ‘Shake it Up’ within Mario Party 8 is to shake the can (the Wii-mote)
 as hard as possible, at which point ‘soda’ appears to spurt out from the can.
@@ -368,10 +201,8 @@ laughter and action proved revealing for what it shows about gender relations
 in the game, and we will see how the emotional and interactional commitment
 signaled by this joke in the ‘boys’ tree house’ is embodied in participants’
 electrodermal responses.
-
-2.2 Laughter in conversation
-
-From its earliest writings, the ﬁeld of conversation analysis has investigated the
+2.2 Laughter in conversation.
+From its earliest writings, the field of conversation analysis has investigated the
 micro-coordination of interactional patterns of laughter in conversation. Like
 all other types of interaction, laughter exhibits ‘order at all points’ (Sacks 1984:
 22). Contrary to popular perceptions of laughter as interrupting normal speech
@@ -379,59 +210,41 @@ or bursting through in a disorderly way, conversational data supports the idea
 that, even in what may seem like the abandon of merriment, speakers place
 laughter precisely (Jefferson 1979; Glenn 1995). The occurrence of laughter is
 projected by both speakers and hearers, and governed by principles more
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-553
-
 broadly applicable to conversation, such as preference for positive assessments
 and agreement, commonly exhibited through sharing and joining of laughter
 (Kangasharju 1996; Gordon 2003). Laughter can be thought of as an
 invitation for joint attention which can be accepted or declined (Jefferson
-1979). Laughing together
-then a joint accomplishment,
+1979). Laughing together (or not) is then a joint accomplishment,
 systematically produced and socially organized (Jefferson, Sacks and Schegloff
 1987: 152), whether laughter is accompanying talk about troubles – in which
 case laughter-joining is dispreferred (Jefferson 1984) – or whether the laughter
 invites the positive evaluation of a nominated laughable (Glenn 1995).
-
-(or not)
-
-is
-
 The gendered pattern of laughter-joining has also aroused the curiosity of
-researchers. How, muses Gail Jefferson (2004: 117), is it possible to make sense of
+researchers. How, muses Gail Jefferson (2004: 117), is it possible tomake sense of
 generalizations such as ‘in male-female interaction, if the male laughed, the
 female would join in, and if the female laughed, the male would not join’? The
-cases she presents in that analysis are further abstracted as instances of ‘laugh-
-receptiveness’ and ‘laugh-resistance,’ and it is precisely that receptiveness and
+cases she presents in that analysis are further abstracted as instances of ‘laughreceptiveness’
+and ‘laugh-resistance,’ and it is precisely that receptiveness and
 resistance that varies by the type of joke and the gendered career of the recipient.
-
-2.3 Physiology and electrodermal activity
-
+2.3 Physiology and electrodermal activity.
 Physiological reactivity is constantly being regulated by our bodies through
-our autonomic nervous system. The system has two components:
-the
+our autonomic nervous system. The system has two components: the
 parasympathetic and sympathetic. The parasympathetic nervous system
 serves to calm down the body while the sympathetic nervous system
 stimulates physiological responses. As individuals engage and interact with
 their environment, the sympathetic nervous system causes their bodies to
 react, elevating heart rates, quickening breath or increasing sweat production
 (Sapolsky 2004; Dawson, Schell and Filion 2007). Importantly, the same
-physiological reactivity also occurs due to psychological
-factors (Coenen,
+physiological reactivity also occurs due to psychological factors (Coenen,
 Coorevits and Lievens 2015; M€uller and Fritz 2015). That is, even in the
 absence of physical activity, cognitive processes can result in physiological
 reactions just as movement does.
-
 The physiological response we have chosen to examine is called electrodermal
 activity (EDA) and is the regulation of skin conductance through sweat levels in
 sweat gland pores. Increased moisture in sweat ducts lowers resistance for
-electric currents, increasing the amount of electricity that can ﬂow through the
+electric currents, increasing the amount of electricity that can flow through the
 skin (Dawson, Schell and Filion 2007; Fowles 2008). EDA is measured in
-microsiemens (ls), which is a standard measurement of electrical conductance. A
+microsiemens (ls), which is a standardmeasurement of electrical conductance. A
 rise in EDA levels is also controlled by the sympathetic nervous system. While
 EDA does react to physical stimuli – i.e. doing exercise – it is sensitive enough to
 document reactivity due to psychological stimuli as well. These include positive
@@ -439,18 +252,10 @@ and negative emotions, engagement, and intense focus (Dawson, Schell and
 Filion 2007; Coenen, Coorevits and Lievens 2015; M€uller and Fritz 2015). While
 EDA on its own cannot inform researchers of the reason or valence for the
 response – observations or interviews are needed for that – it indicates time
-
-© 2017 John Wiley & Sons Ltd
-
-554
-
-MENDOZA-DENTON ET AL.
-
 periods when there were sustained high or low levels of reactivity. We are
 hypothesizing that the commitment to the joke in the video game – the emotional
-investment – will be reﬂected in the body and recordable in the form of the
+investment – will be reflected in the body and recordable in the form of the
 impedance and conductance that make up EDA.
-
 EDA can be examined in two main ways: tonic levels and phasic responses.
 Tonic levels refer to the long-term trends in EDA over a longer period of time
 (Fowles 2008; Empatica 2016). According to Benedek and Kaernbach (2010),
@@ -459,30 +264,21 @@ activity that can be attributed to sudomotor nerve responses within a 1–3
 second window following the stimulus, depending on individual reactivity. A
 phasic response would be expected to return to its tonic baseline, and can be
 succeeded by other fast-varying phasic responses.
-
 For example, a phasic response is what one would see in a traditional lab
 setting where an at-rest participant is exposed to a loud audio stimulus. Within
 one to three seconds following the stimulus the EDA data would show a
-discrete spike indicating reactivity to that speciﬁc stimulus.
-
-is
-
-interactions
-
+discrete spike indicating reactivity to that specific stimulus.
 What makes EDA a useful physiological measure for research looking at
-multimodal
-the new wearable technology that allows
+multimodal interactions is the new wearable technology that allows
 physiological data to be collected in ecologically plausible situations. To
 measure EDA, we used the Empatica E4 wristband (Empatica 2016) which
 allows participants to move around freely without being hindered by wired
 technology, facilitating the capture of real-time streaming EDA data, which
 can then be usefully combined with observations, video, and comments
-collected in interviews and debrieﬁngs.
-
+collected in interviews and debriefings.
 Only recently has EDA begun to be used in conjunction with ongoing
 qualitative research in naturalistic environments. Eisenhauer (2016) indicates
-the potential
-for EDA and ethnographic data to inform each other. She
+the potential for EDA and ethnographic data to inform each other. She
 compiles data into graphic representations called CSP (Context, Subjectivity,
 Physiology) timelines. These are images that superimpose ongoing activities
 and individual subjective commentary on the EDA data (Eisenhauer 2016). As
@@ -490,8 +286,7 @@ part of this process, EDA can be used as a participatory visual research tool
 that can be used to probe participants’ perspectives. Researchers can review
 EDA outputs with participants, allowing them to generate their subjective
 interpretation of moments of heightened physiological activity. Eisenhauer
-found that having children and youth view their own EDA output
-in
+found that having children and youth view their own EDA output in
 conjunction with video footage of their participation in activities made for a
 powerful visualization. She found that youth were prompted to engage in more
 in-depth descriptions of what they understood to have been happening and
@@ -500,49 +295,39 @@ participation that ran counter to what may have been concluded based on
 observations or lengthier interview commentary alone. Although these
 methods have been longstanding in sociolinguistics (Gumperz [1982] and
 Tannen [1984] both showed participants videotapes of their interactions),
-Eisenhauer is the ﬁrst to pioneer them with EDA outputs.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-555
-
-3. METHODS
-
+Eisenhauer is the first to pioneer them with EDA outputs.
+<Middle>
+3. METHODS.
 The larger dataset for this study was collected over the course of a year, and over
-the span of ﬁve gaming sessions. The ﬁrst three sessions were conducted from
+the span of five gaming sessions. The first three sessions were conducted from
 November 2015 to January 2016, and were composed of two unacquainted
 friendship dyads (four participants in total) playing at any given time. The last two
 sessions were conducted from October to November 2016, and were composed
-solely of dyads. For the purposes of this article, we focus on the third session, which
+solely of dyads. For the purposes of this article, we focus on the third session,which
 took place in January 2016. The sessions were conducted with the initial
 expectation that they would last one to one and half hours, but during sessions 3,
 4, and 5, all participants wished to continue past the expected timeframe.
-
 We attempted to control for gender in the interactions, and invited two male
 friendship dyads to the session under discussion. As often happens in the
 course of research, one of our participants, Joey, did something unexpected:
 instead of bringing the male friend that he had said he would bring, he brought
 a woman named Ruth. We recorded the interaction anyway, and what was at
-ﬁrst an accident of data collection has become the focus of our research: an
+first an accident of data collection has become the focus of our research: an
 interaction skewed numerically by gender (three male subjects and one female
 subject joined by two male researchers), and, as it turns out, technologically
 and culturally gender-skewed as well. The larger interaction under analysis
-took place over the course of
-four and half hours, over three rounds of
+took place over the course of four and half hours, over three rounds of
 gameplay separated by two intermission periods. We focus on rounds one and
 two, lasting around three hours total, and played on Mario Party 8 (Hudson
 Soft 2007), which, as mentioned above, is a party (co-present multiplayer)
-game on the Nintendo Wii console that emphasizes group-oriented, motion-
-controlled gameplay. The close interaction analysis of turn-by-turn play and
+game on the Nintendo Wii console that emphasizes group-oriented, motioncontrolled
+gameplay. The close interaction analysis of turn-by-turn play and
 laughter takes place over a segment approximately two minutes in length.
-
 Both friendship dyads were aware that they were going to play with strangers,
 but they were not introduced until the time of the session. Each individual player
 was close friends with one other player (the one in their dyad) and one of the two
 researchers present, but initial strangers to the other two game participants and
-the other researcher. Two of the co-authors of this study, Wilson and Flores, both
+the other researcher. Two of the co-authors of this study,Wilson and Flores, both
 male, recruited the subjects, ran the study and were present in the room without
 participating directly in gameplay. The composition of the players was 75 percent
 male, and 25 percent female (three men and one woman). During the session,
@@ -551,272 +336,152 @@ wristband device (we were limited in how many devices we could use by their
 cost, around US$3,000 at the time of purchase, though we expect they have
 come down in price). Although the only woman present was not wearing an
 Empatica E4 wristband, she later agreed to meet with a female member of the
-research team (not initially present at the recording session) to recall and reﬂect
+research team (not initially present at the recording session) to recall and reflect
 on her experiences from playing while looking at the video data that we had
 compiled from the session. The insights gained from the post-game interview will
 round out the presentation of our conversational data.
-
-© 2017 John Wiley & Sons Ltd
-
-556
-
-3.1 Equipment
-
-MENDOZA-DENTON ET AL.
-
+3.1 Equipment.
 The Empatica E4 wristband is a wireless, real-time monitor that measures a
 wide range of physiological signals. In addition to the EDA sensor, it has a skin
 temperature monitor and a photoplethysmograph (PPG) that measures Blood
 Volume Pulse (BVP), from which heart rate, heart rate variability, and other
 cardiovascular measures are derived. The E4 also has an Event Mark Button
 that allows users to intentionally ‘tag events and correlate them with
-physiological signals’
-(Empatica 2016), and an application feature that
+physiological signals’ (Empatica 2016), and an application feature that
 provides a live-streaming feed for researchers to monitor activity in real-time
 and for up-to-date measurements that are synchronized to a secured, online
 database.
-
-3.2 Data setting
-
+3.2 Data setting.
 Data collection took place in a ‘game room’ located within a redesigned faculty
-ofﬁce on the UCLA Campus. This was to closely simulate an environment of
+office on the UCLA Campus. This was to closely simulate an environment of
 familiarity and comfort (as opposed to a more impersonal laboratory setting)
 while effectively eliminating the chance of passing visitors. Our redesign
-consisted of separating one side of the ofﬁce (used for its intended academic
+consisted of separating one side of the office (used for its intended academic
 purposes) from the game room section by high drapes, while furniture was
 rearranged to evoke a cozy college dorm room (comfy couch, large TV screen,
 pizza provided) in order for participants to experience minimal distraction
 during gameplay. Participants sat on a couch on one side of the wall facing a
-series of 32” ﬂat-screen televisions, accompanied by an atomic clock and a
+series of 32” flat-screen televisions, accompanied by an atomic clock and a
 wide-angle lens camera (Figure 1).
-
-Figure 1: Game room setup [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-557
-
 The ‘front’ camera was designed to capture and record the movements of
 the participants during gameplay, while a ‘back’ camera, placed behind the
 players facing the television, would simultaneously capture all gameplay
-footage. As per the ﬁndings of Mendoza-Denton et al. (2009), we did not place
+footage. As per the findings of Mendoza-Denton et al. (2009), we did not place
 posters on the wall that might exhibit gender prejudice and thus affect our
 interactions.
-
-3.3 The participants
-
+3.3 The participants.
 Participants were recruited according to the following criteria:
-
 1. They were native English speakers, friends, and willing to come together
-
 as a friendship-pair.
-
 2. They had some prior experience in playing, understanding basic game
 controls and game mechanics. It was not necessary for them to have
 previously played any of the games presented in the study.
-
 3. They were interested in playing in a study environment. This included
-
 having two researchers in the room during the session.
-
 4. The pairs were amenable to playing with a pair of strangers for the
-
 duration of the session.
-
 Participants consented to the use of their undoctored video footage, but agreed
-to the modiﬁcation of their names. Participants were not compensated save for
+to the modification of their names. Participants were not compensated save for
 food and drinks provided during the study to further simulate dorm-room play.
 Before the session began, players were asked a series of background
 questions, including their history of videogame playing; their relationship to
-communities oriented around playing videogames – online or ofﬂine gaming
+communities oriented around playing videogames – online or offline gaming
 forums; frequency of play, and history of playing with their accompanying
 friend. At the end of the session, players were asked some basic questions
-about their overall
-the gaming sessions, any particular
+about their overall impressions of the gaming sessions, any particular
 moments that they felt emotionally responsive to, and how this may have
-been inﬂuenced by the presence of other participants. During the session,
+been influenced by the presence of other participants. During the session,
 players were encouraged to stop at any point if they wished to ask any
 questions or to address any concerns that they may have experienced while
 participating.
-
-impressions of
-
 A brief description of each participant is necessary to provide context.
-
 1. Ruth (Group 1), 20, is a Latina student at UCLA, from South Central Los
 Angeles; she is the only female participant present during the gaming
 session. She considers herself a casual gamer during school, but plays
 more frequently when on break. She has limited experience with Mario
-Party, and has traditionally disliked ﬁrst-person shooter games. She is
+Party, and has traditionally disliked first-person shooter games. She is
 not involved in online gaming communities beyond looking up general
 information.
-
 2. Joey (Group 1) is a 20-year-old African-American male, from Inglewood,
 California, who is a student at UCLA. He considers himself a semi-avid
-
-© 2017 John Wiley & Sons Ltd
-
-558
-
-MENDOZA-DENTON ET AL.
-
 player; although his playtime also varies depending on school. He prefers
 to play local games with friends, but occasionally plays online against
 strangers. He is familiar with the Mario Party franchise, and not involved
 in online communities beyond looking up general information.
-
 3. Bob (Group 2) is a 23-year-old Egyptian-American male, from California,
 living locally. He considers himself an avid player, familiar with both the
 Mario Party and Call of Duty franchise. He participates in online
 videogame communities through social media. Although he plays with
 strangers regularly online, he prefers to play with close friends.
-
 4. Ross (Group 2) is a 30-year-old Native-American male from California,
 living locally. Like his friend Bob, Ross considers himself an avid player,
 familiar with the Mario Party franchise. He also participates in online
 communities, but tends to play games with close friends only.
-
 After the groups were introduced to one another and were asked the initial
-interview questions, participants began the ﬁrst round on Mario Party. Round
-1 was a standard, two-versus-two game on medium difﬁculty. The teams were
+interview questions, participants began the first round on Mario Party. Round
+1 was a standard, two-versus-two game on medium difficulty. The teams were
 Ruth and Joey on team 1, and Bob and Ross on team 2. Without instruction
-from the research team, the participants sat next to each other for the ﬁrst
+from the research team, the participants sat next to each other for the first
 round, with Ross on the far left, Bob at the center left, Joey at center right, and
 Ruth on the far right (Figure 2).
-
-After the ﬁrst intermission period, the teams were switched, and round 2
+After the first intermission period, the teams were switched, and round 2
 began. In this round we asked that Ruth pair up with Bob, and that Joey pair
 up with Ross. As we will see in the discussion of the EDA later in the paper, the
 separation of Ruth from her friend Joey had consequences for Joey’s
-
-Figure 2: Participants during Shake it Up gameplay [Colour ﬁgure can be viewed at
-wileyonlinelibrary.com]
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-559
-
-physiology. But ﬁrst let us analyze an approximately one-minute interaction
+physiology. But first let us analyze an approximately one-minute interaction
 where speakers ‘shake it up.’
-
 4. TRIANGULATING OUR DATA
-
 In order to make our argument, we will be presenting three different kinds of
 related data in this section:
-
 1. conversation analytic data;
-2. post-game debrieﬁng interview data; and
+2. post-game debriefing interview data; and
 3. electrodermal activity (EDA) data.
-
 The conversation analytic transcription and video data come from the section in
 which much of the initial Shake it Up gameplay occurred. We selected these
 segments for their remarkable display of the theoretical ‘boys’ tree house’
 arrangement described in the literature. We selected those incidents before
 identifying the EDA data following those segments for further analysis. The
 electrodermal activity data comes from portions immediately following that
-brief ﬁrst game-play and following the reshufﬂing of the seating of the subjects
-(recall that although EDA has a relatively ﬁne granularity, it is still not exactly
+brief first game-play and following the reshuffling of the seating of the subjects
+(recall that although EDA has a relatively fine granularity, it is still not exactly
 time-aligned to the stimuli: it has a latency response of 1–3 seconds, variable in
 time and magnitude for each speaker, so as far as possible we try to compare
-speakers to themselves). The post-game debrieﬁng interview occurred two
+speakers to themselves). The post-game debriefing interview occurred two
 weeks after the event, and only one speaker (Ruth) was available for that.
-
-4.1 Analyzing laughter
-
-Our ﬁrst data set involves analyzing interaction among the participants
+4.1 Analyzing laughter.
+Our first data set involves analyzing interaction among the participants
 playing the Mario Party 8 game ‘Shake it Up’. We produced a conversation
 analytic transcript of the event, along with the short periods leading up to it
 and following it, and we analyzed it for interactional clues that might allow us
 to understand Ruth’s participation in this sexualized interaction. Our analysis
 will be focused on laughter, utilizing transcription conventions as per Jefferson
-(1984; see the Appendix). Consider the following excerpt, from the ﬁrst time
+(1984; see the Appendix). Consider the following excerpt, from the first time
 the participants play the mini-game:
-
 Excerpt 1: Shake it Up
-
 Players are playing Mario Party 8. The randomized mini-game lands on ‘Shake
 It Up.’ See the bottom of Figure 3 for an image of what participants see on-screen.
 The players in this excerpt respond to game selection and discuss the game controls.
-
-1.
-2.
-3.
-
-Joey:
-Ruth:
-Joey:
-
-↑O:::H I li[ke this::]
-
-[°Shake it uh:hp°]
-
-= oh yah you’d jus[ (.) da shake th- jus (.) shake]=
-
-© 2017 John Wiley & Sons Ltd
-
-560
-
-4.
-
-5.
-6.
-7.
-8.
-9.
-
-Ruth:
-
-Ruth:
-Joey:
-Ruth:
-Joey:
-Ross:
-
-MENDOZA-DENTON ET AL.
-
->°[Shake it uhp shake it uhp↑]°< ((continued
-
+1. Joey: ↑O:::H I li[ke this::]
+2. Ruth: [°Shake it uh:hp°]
+3. Joey: = oh yah you’d jus[ (.) da shake th- jus (.) shake]=
+4. Ruth: >°[Shake it uhp shake it uhp↑]°< ((continued
 melodic intonation))
->which one?< ((Mario mimes up and down motion within game))
-= (0.5) >as fast as-< jus- shake da-
-you gotta jerk it? ((to Joey with smiling voice))
-yeah:: (.) I- I mean (.) tsh [ha-] ha ((smiling voice))
-
-[if] you want to SAY it [like THATL*+H
-
+5. Ruth: >which one?< ((Mario mimes up and down motion within game))
+6. Joey: = (0.5) >as fast as-< jus- shake da-
+7. Ruth: you gotta jerk it? ((to Joey with smiling voice))
+8. Joey: yeah:: (.) I- I mean (.) tsh [ha-] ha ((smiling voice))
+9. Ross: [if] you want to SAY it [like THATL*+H
 GO aheadL-L%]
-10. Ruth:
-I- I didn’t mean it like that ((serious voice))
+10. Ruth: I- I didn’t mean it like that ((serious voice))
 11. Ruth: You’re the one who took into connotation
-12.
-13. Ross:
-Bob:
-14.
-
-Joey: WELL HACTUA.HHHLLY [↑I said shake]
-
-[°<Yeah> I am°]
-
-I me::.hhhan-uh (.) there’s a bunch of
+12. Joey: WELL HACTUA.HHHLLY [↑I said shake]
+13. Ross: [°<Yeah> I am°]
+14. Bob: I me::.hhhan-uh (.) there’s a bunch of [[.hhhdifferent wa]]ys:
 [you’d could]: have. . . .hhh
-[[inaudible laughter?, mouth in shirt]]
-[[inaudible laughter? cough?, covering mouth]]
-
-15.
-16.
-
-Joey:
-Bob:
-
-[[.hhhdifferent wa]]ys:
-
+15. Joey: [[inaudible laughter?, mouth in shirt]]
+16. Bob: [[inaudible laughter? cough?, covering mouth]]
 In this excerpt, Joey and Ruth, who are best friends and sitting next to each
-other, assess the possibility that
-they will be playing this potentially
+other, assess the possibility that they will be playing this potentially
 embarrassing game together. When Joey’s speech starts to slow down and
 he exhibits pausing hesitation in line 3, Ruth invites Joey to laugh with her,
 teasing him by pretending not to know the game, and in the end making overt
@@ -830,101 +495,46 @@ ahead.’ The intonation in this utterance is salient, and we’ve transcribed i
 the ToBI system as a L*+H contour that Pierrehumbert and Hirschberg (1990)
 have analyzed as indicating a lack of commitment to a scale, while Calhoun
 and Schweitzer (2012) have analyzed it as a downplayer when a speaker offers
-a controversial opinion, all of which ﬁts with our interpretation of Ross inviting
-himself
-into Ruth and Joey’s joke. Ruth, however, rejects Ross’s joking
-intervention with a serious voice in lines 10–11, ﬁrmly declining to laugh. Joey
+a controversial opinion, all of which fits with our interpretation of Ross inviting
+himself into Ruth and Joey’s joke. Ruth, however, rejects Ross’s joking
+intervention with a serious voice in lines 10–11, firmly declining to laugh. Joey
 tries in line 12 to repair the face-threat to Ross implied by Ruth’s dispreferred
 decline of his volunteered alignment, while Ross responds curtly to Ruth in line
 13. After the attempted joke short circuits, both Joey and Bob cover their faces,
 possibly laughing or coughing (Figure 3). We understand this temporary
-stepping away from the interaction as signiﬁcant in that it gives speakers a
+stepping away from the interaction as significant in that it gives speakers a
 chance to restart what may have been an unsuccessful bid for mutual
 alignment. After this point, the game begins and the participants play. We pick
 the transcript back up after the game has declared Bob the winner.
-
 Note that in the lower half, Mario is holding a Wii-mote, shaking it up and
-
 down.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-561
-
-Figure 3: Excerpt 1, lines 15 and 16 – attempted alignment fails [Colour ﬁgure can
-be viewed at wileyonlinelibrary.com]
-
-Excerpt 2: After the minigame is ﬁnished, and Bob has won . . .
-
-109. Ross:
-110. Ruth:
-111. Ross:
-112. Ruth:
-
-113. Ross:
-114. Ruth:
-115. Bob:
-
-[TH .hhh ERE was] no way anyone was gonna beat =
-[What?]
-=him in that [[game (.) OK?]] hhh .hhh=
-
-[[what? ((slight smiling towards Ross, then
-
+Excerpt 2: After the minigame is finished, and Bob has won . . .
+109. Ross: [TH .hhh ERE was] no way anyone was gonna beat =
+110. Ruth: [What?]
+111. Ross: =him in that [[game (.) OK?]] hhh .hhh=
+112. Ruth: [[what? ((slight smiling towards Ross, then
 shaking her head side-to-side while mouthing words)) ]]
-= for L[IFE] ha ha ha
-
-[°my god°] ((mouthing out words))
-[HE HA HA] ha ha .hhh .hhh hu.ugh ((covers mouth
-
+113. Ross: = for L[IFE] ha ha ha
+114. Ruth: [°my god°] ((mouthing out words))
+115. Bob: [HE HA HA] ha ha .hhh .hhh hu.ugh ((covers mouth
 with shirt to cough))
-
-© 2017 John Wiley & Sons Ltd
-
-562
-
-MENDOZA-DENTON ET AL.
-
-Joey:
-Bob:
-Cory:
-
-116.
-117.
-118.
-119. Wesley:
-120. Ross:
-121.
-Bob:
-
-(inaudible) ((smiles while looking down))
-.hhh .hhh .hhh HA .hhh guh- hu ((coughing))
-(inaudible laughter) ((researcher: laughter))
-dhe [ha aha ha ha ha ha ha [[eha]= ((researcher: laughter))
-= ((response to Cory, pointing at him and laughing))
-
-[ha ha [[ha ha]] ha hah ha .hhh] ((laughter responding to
-
+116. Joey: (inaudible) ((smiles while looking down))
+117. Bob: .hhh .hhh .hhh HA .hhh guh- hu ((coughing))
+118. Cory: (inaudible laughter) ((researcher: laughter))
+119. Wesley: dhe [ha aha ha ha ha ha ha [[eha]= ((researcher: laughter))
+120. Ross: = ((response to Cory, pointing at him and laughing))
+121. Bob: [ha ha [[ha ha]] ha hah ha .hhh] ((laughter responding to
 Ross and Cory, then Bob turns refocuses attention to the game.))
-
-122. Ruth:
-123. Ross:
-124.
-Joey:
-
-[[(inaudible)]] ((mouthing words))
-[.hhh]
-[It] said we need ﬁfty?
-
+122. Ruth: [[(inaudible)]] ((mouthing words))
+123. Ross: [.hhh]
+124. Joey: [It] said we need fifty?
 From lines 109–124, after Bob’s win, there would appear to be generalized
 laughter all around, with even the male researchers joining in the merriment.
 Looking more closely though, and as annotated in parentheses, we can see that
 despite Ross’ proffered jokes (110, 111) invitations to laugh (115, 117, 119,
 121), and opportunities to jointly assess volunteered laughables (113), Ruth
 has repeatedly declined to join laughter (lines 114, 122). Ruth looks straight
-ahead at the screen. All the while, Bob’s laughter spawns a coughing ﬁt, Ross
+ahead at the screen. All the while, Bob’s laughter spawns a coughing fit, Ross
 laughs so hard he begins to cry, and that friendship pair pull researchers Cory
 and Wesley into the sequence by physically pointing at them. Between lines
 112 and 121, their loud laughing is co-produced and jointly patterned, while
@@ -938,33 +548,17 @@ right, when everyone was ‘game’ and playing along with the joke. Now that th
 joke has gone too far for his best friend, Joey resists the joke, declines potential
 laughter invites, and mirrors Ruth’s gesture and affect. The sequence ends with
 Joey nominating a new topic and the group moves on for the moment.
-
-4.2 Ruth’s post-game interview
-
-the game ‘Shake it Up,’ and the sexual
-
+4.2 Ruth’s post-game interview.
 The second type of data we now present consists of excerpts from a post-game
-debrieﬁng. After reviewing the data, we speciﬁcally wanted to get participant
-opinions about
-joking in the
+debriefing. After reviewing the data, we specifically wanted to get participant
+opinions about the game ‘Shake it Up,’ and the sexual joking in the
 interaction. Only Ruth was interviewed because the male participants were
 unavailable. Here are some excerpts from her interview, which took place
-approximately two weeks after the initial
-interaction. The interview was
+approximately two weeks after the initial interaction. The interview was
 conducted by Scarlett Eisenhauer, a female graduate student who is one of
 the co-authors of this study. Scarlett was not present at the initial interaction
 but had been briefed by the research team. Ruth viewed the video clip and
 made the following remarks:
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-563
-
-Figure 4: Ross and Bob laughing while Joey and Ruth decline to join [Colour ﬁgure
-can be viewed at wileyonlinelibrary.com]
-
 Um, I thought what was really, really, funny was that immediately, as soon as
 we saw the motions, uh, that were on the screen there was a sexual connotation
 to it. And so, uh, I think it’s just funny, like, masturbation is supposed to be
@@ -973,369 +567,51 @@ than the three of them, because I noticed that the two on the other side were
 talking about- competing between each other like ‘oh’ um, like ‘you should- you
 should be really good at this game’ or whatever. So maybe as a fe- as a girl without
 a penis maybe I just didn’t get it as much. But I was still competitive in the end.
-
 In discussing the interaction, we see that Ruth felt that, as a woman, she was
-less ‘in on the joke’ than the other participants. Her pointing speciﬁcally to the
+less ‘in on the joke’ than the other participants. Her pointing specifically to the
 phallic nature of the joke is the key to our interpretation of this excerpt as
 being conditioned by the gendered nature of the game. At an earlier point in
 the interview, she talks gamely about enjoying competitiveness (unexpected,
-
-© 2017 John Wiley & Sons Ltd
-
-564
-
-MENDOZA-DENTON ET AL.
-
 she says, because she’s a girl) and wanting to display it, but in this portion of it
 she explicitly disavows competitiveness in the arena of sexual banter and
 innuendo. She continues:
-
 I felt a little uncomfortable and I tried to play it off as ignoring the sexual
 connotation too, ‘cause I kept- I kept repeating ‘oh it’s like a soda can,’ because I
 kinda wanted the joke to be over at that point. Because I just- I don’t feel
-comfortable. I mean, masturbation is normal and that’s ﬁne, but I just- I don’t
+comfortable. I mean, masturbation is normal and that’s fine, but I just- I don’t
 like the idea of like someone else um, talking badly about another person’s like
 sexual- sexuality or like how much- their sexual role I guess. [. . .] I feel like it
-makes it worse that like the Wii-mote is kind of like a phallic symbol or at least-
-so. [. . .] that’s why I felt like I didn’t want to participate with the other two,
+makes it worse that like the Wii-mote is kind of like a phallic symbol or at leastso.
+[. . .] that’s why I felt like I didn’t want to participate with the other two,
 because I felt like some of their language, like, I just wasn’t invested in it. Like, I
 know all the guys would laugh at certain jokes and I wouldn’t, because it was
 kind of- not that I was left out- but it’s just that I kind of- I don’t like the idea of
 sexualizing things as a joke.
-
 In this portion of the interview Ruth draws an explicit link between the phallic
 shape of the technological object (the Wii-mote controller) and how that shape
 allows it to lend itself to sexualized types of interactions. This interplay between
 technology, embodiment, and interaction, is an instantiation of the concept of
-entanglement. Hodder (2012) identiﬁes the following sets of relationships:
-(cid:129) things depending on humans (T-H: Wii-mote depends on designers);
-(cid:129) humans depending on things (H-T: players depend on Wii-mote);
-(cid:129) things depending on other things (T-T: Wii-mote depends on larger game
-(cid:129) humans depending on other humans (H-H: players interacting with one
+entanglement. Hodder (2012) identifies the following sets of relationships:
+• things depending on humans (T-H: Wii-mote depends on designers);
+• humans depending on things (H-T: players depend on Wii-mote);
+• things depending on other things (T-T: Wii-mote depends on larger game
+architectures); and
+• humans depending on other humans (H-H: players interacting with one
 another, and in a physically and temporally remote way with hardware
 and software designers).
-
-architectures); and
-
 While all of these take place synchronically in the one interaction we have
 analyzed, an accretion of these interactions might give rise to a diachronic
 pattern of gendered marginalization in games like ‘Shake it Up.’ Regarding
 possible age effects, and keeping in mind that Ross is ten years older than her
 and Joey, Ruth did not mention age in her comments about the other players
-during her interview. While she was not speciﬁcally asked about this, she also
+during her interview. While she was not specifically asked about this, she also
 did not mention it as an issue when describing and discussing the other
 players.
-
-4.3 Electrodermal activity data
-
+4.3 Electrodermal activity data.
 The third type of data we show is the EDA data for two of the male participants,
 Bob and Joey. We aim to show a contrast in EDA between the time that Joey
 was sitting next to Ruth and the period that saw Joey was sitting between the
 two other men.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-565
-
-s
-p
-m
-a
-t
-s
-e
-m
-
-i
-t
-
-e
-h
-T
-
-.
-)
-y
-e
-o
-J
-
-=
-
-e
-n
-
-i
-l
-
-d
-e
-t
-t
-o
-d
-
-;
-b
-o
-B
-
-=
-
-e
-n
-
-i
-l
-
-d
-i
-l
-o
-s
-(
-
-y
-a
-l
-p
-e
-m
-a
-g
-
-f
-o
-
-i
-
-s
-e
-t
-u
-n
-m
-n
-e
-e
-t
-h
-g
-i
-e
-
-y
-l
-e
-t
-a
-m
-i
-x
-o
-r
-p
-p
-a
-m
-o
-r
-f
-
-e
-r
-u
-t
-p
-a
-c
-
-a
-t
-a
-D
-
-:
-
-5
-
-e
-r
-u
-g
-i
-F
-
-f
-o
-
-s
-n
-o
-i
-t
-p
-i
-r
-c
-s
-e
-d
-
-d
-n
-a
-h
--
-t
-r
-o
-h
-s
-
-h
-t
-i
-
-w
-s
-r
-e
-h
-c
-r
-a
-e
-s
-e
-r
-
-y
-b
-
-d
-e
-l
-e
-b
-a
-l
-
-e
-r
-e
-w
-s
-n
-o
-i
-t
-c
-e
-s
-
-;
-s
-e
-v
-l
-e
-s
-m
-e
-h
-t
-
-s
-t
-n
-a
-p
-i
-c
-i
-t
-r
-a
-p
-
-e
-h
-t
-
-y
-b
-
-d
-e
-c
-u
-d
-o
-r
-p
-
-e
-r
-e
-w
-
-)
-s
-e
-n
-
-i
-l
-
-l
-a
-c
-i
-t
-r
-e
-v
-(
-
-.
-g
-o
-l
-a
-i
-d
-
-d
-e
-d
-d
-e
-b
-m
-e
-
-d
-n
-a
-
-y
-a
-l
-p
-e
-m
-a
-g
-
-© 2017 John Wiley & Sons Ltd
-
-566
-
-MENDOZA-DENTON ET AL.
-
 Figure 5, where the x-axis displays time and the y-axis displays the measure
 of conductance in microsiemens (lS), shows the full EDA output for the entire
 sequence where participants were playing ‘Shake it Up.’ The solid line tracks
@@ -1347,7 +623,6 @@ And how much reactivity do they exhibit for a given stimulus? Do they return
 to the tonic baseline quickly? Recall that focal EDA data comes from the devices
 on Bob and Joey. From the data output in Figure 5 we can infer that Bob (solid
 line) is much more reactive than Joey (represented by the dotted line).
-
 In Figure 5, we aim to give the reader an overall view of the output from the
 EDA devices. The devices are aligned to the video, so the 18:34 visible in the
 nuclear clock on the table in Figure 4 corresponds above to the time that is
@@ -1361,64 +636,36 @@ the best comparisons are within a single individual. We focus here on Joey,
 Ruth’s friend. Let’s zoom into a segment immediately after gameplay. We call
 this portion of gameplay the ‘Friend Zone’ because at that point in the
 transcript Ross remarks that they have left the friend zone, a designation for a
-
-Figure 6: EDA response levels differ between Bob (solid) and Joey (dotted line)
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-567
-
 situation where one party has an unreciprocated sexual interest in another.
 Ross says they have left the friend zone, meaning they are now intimate,
 because the game put them in a situation where they feel like they have
 masturbated together.
-
 Figure 6 shows that right after the conclusion of game play, Bob has not
 only general elevation and but also some continuing phasic responses, since
 he’s been joking and laughing. At the same time, Joey has very little response
 and his EDA actually shows some decline. Note here that the right y-axis is
 scaled for Joey and the left y-axis is scaled for Bob since they have different
 levels of reactivity.
-
 In our video (not shown here for reasons of space), Joey has visibly turned
 toward Ruth. During the interview, Ruth talks about how she disengages with
 the joke and mentions that she is talking to Joey directly rather than engaging
 with the other two male players. Effectively, she has provided an alternate
 focus of attention for Joey, and this pulls him out of the male-only gaming
 space of the ‘boys’ treehouse.’
-
 Figure 7 comes from the second time the randomized mini-game lands on
 Shake It Up, almost an hour later. Once again, Joey’s microsiemens scale is on
 the right and Bob’s scale is on the left. By this time, the players have changed
 seats, and Joey is sitting in between the two other men and Ruth is sitting in
 the same place.
-
 The second time they play Shake it Up, the sexualized comments and jokes
 re-emerge in full force: ‘My form is perfect!’ exclaims Bob, and this time all
-
-Figure 7: Both Bob (solid line) and Joey (dotted line) show phasic responses
-
-© 2017 John Wiley & Sons Ltd
-
-568
-
-MENDOZA-DENTON ET AL.
-
 three male participants laugh. In this case both Bob and Joey show phasic
 responses, as above. While Joey is still not as reactive as Bob, his EDA line is no
-longer ﬂat. Now sitting in the middle of
-Joey is
+longer flat. Now sitting in the middle of the boys’ treehouse, Joey is
 interactionally positioned to participate more fully in their jokes, while Ruth
 completely loses interest. While we do not have Ruth’s EDA data, we do have
 her post-game interview. Ruth later commented:
-
-treehouse,
-
-the boys’
-
-And so, I was deﬁnitely feeling the adrenalin when we were playing the game
+And so, I was definitely feeling the adrenalin when we were playing the game
 again and like, I wanted to win, and so I knew he [Joey] was good at the game.
 And I was like ‘oh you’re good at this game, we got this.’ But the joke- I felt like
 the joke was ok and then I think I started quitting down [. . .] because you know I
@@ -1426,73 +673,56 @@ think it’s harmless when he references to masturbation, that’s ok. I just th
 don’t like the idea of like using it as a kind of derogatory- using it in a derogatory
 form. . .nah. I think I was just completely disinterested at that point, I wanted to
 focus on the game. [Int: You were over it?] Yeah I was just over that joke. I mean
-it’s ﬁne, everyone can engage in what they want, I won’t say anything.
-
+it’s fine, everyone can engage in what they want, I won’t say anything.
 The game session still went on for a couple of hours after this. Participants
 had pizza, and moved on to another videogame. Weeks later, both Ross and
 Bob were still joking with the male researchers about the great time they
 had ‘shaking the can,’ wondering if they could come back and play again.
-
-5. DISCUSSION
-
+<Conclusion>
+5. DISCUSSION.
 We understand the present study as tapping into unexplored facets of the
 study of multimodality. We have tracked the engagement and arrangement of
 bodies in gesture, laughter, speech and physiology. We are also attempting to
 understand how a normatively male-oriented joke is both contingent on
 locally-produced sense-making and entangled with material objects. The joke
 is transmitted from the designers through the realm of objects interacting
-with the body, and those in-game objects in turn constrain bodies to ﬁt into
+with the body, and those in-game objects in turn constrain bodies to fit into
 ideological frames. According to Haddington, Mondada and Nevile (2013:
 45),
-
 In [virtual worlds] mobile actions are organized, coordinated and controlled by
 immobile participants who sit in front of computer screens and identify partially
 or totally with the movements of their avatars, in and even out of the game.
-
 We observed that both in and out of the game, the Wii-mote’s Mario-avatar
 actions translated into Ruth taking real-life offence, as evidenced in her
 interview, and into the other players joking that their real selves had moved
 past the ‘Friend Zone’ by virtue of their actions as instructed within the game.
 According to Mondada, participants orient toward ‘“normative mobile orders”,
 where in the lived course of instructed actions the participants claim and
-disclaim, attribute and refuse the responsibility for game conﬁgurations that
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-569
-
+disclaim, attribute and refuse the responsibility for game configurations that
 are morally assessed as blamable, [. . .] complainable [. . .] or dangerous and
 risky . . .’ (2013: 336).
-
 Much current research now addresses social dominance in video games
-(Gonzalez-Gonzalez 2011; Gray 2012; O’Leary 2012; Fox and Tang 2014). We
+(Gonzalez-Gonzalez 2011; Gray 2012; O’Leary 2012; Fox and Tang 2014). We
 hold that locally produced assessments and invitations such as laughter, by
 virtue of the way they are linguistically and physiologically responded to by
 participants, highlight asymmetries in gender, power, and alignment.
-
-6. CONCLUSIONS
-
+6. CONCLUSIONS.
 We hope to continue this line of research in several different directions. First,
 we are interested in seeing how all-female groups with female research
 assistants might react to the videogame in question. Do mixed-gender groups
 with these kinds of sexually ambiguous gameplay play out differently with
-women? Would female groups playing this game even ﬁnd it
-funny?
+women? Would female groups playing this game even find it funny?
 Preliminary research suggests they don’t. Under what circumstances would
 women develop these kinds of in-group jokes that would result in reciprocal
 coordination of laughter and physiology?
-
 We also would like to further explore context in gameplay, and for example,
 EDA reactivity and activation differences in a speaker playing against the
 computer, and against co-located and remote co-participants (for example, in
 online gaming or MMORPGs, which are famously plagued by sexism, possibly
 due to the anonymity of participation; Lea and Spears 1991).
-
 At this point readers may be asking themselves, what does EDA offer to the
-ﬁeld of sociolinguistics? How does EDA differ from plainly observable behavior
-as is reﬂected in videorecordings of action, or in transcriptions of talk? In this
+field of sociolinguistics? How does EDA differ from plainly observable behavior
+as is reflected in videorecordings of action, or in transcriptions of talk? In this
 study we have shown that physiological processes below the level of
 consciousness can shed light on interactional events. We suggest that being
 in close proximity to someone who is suffering through a sexist interaction is
@@ -1501,7 +731,7 @@ if you will. Even though Joey didn’t say anything overtly oppositional to Bob 
 Ross at the time of the onanistic sequence, he was still internally affected by the
 experiences of his female friend. In other words, sexism and exclusion are felt
 not only by the target, but also physiologically by aligned bystanders/
-overhearers, a reﬂection of the sort of processes that Bell (1984) identiﬁed as
+overhearers, a reflection of the sort of processes that Bell (1984) identified as
 overhearer effects. We might call this ‘second-hand sexism,’ along the analogy
 of ‘second-hand smoke,’ in that it is sexism that has a deleterious effect on the
 bystander. It cannot be ruled out that our observation of Joey’s lack of
@@ -1511,478 +741,23 @@ that in the case of psychophysiology, subjective reports of emotions through
 interviews and questionnaires have been widely normed and are also known to
 correlate psychophysiological measures to stress-related health states and
 outcomes vicariously (Drachen et al. 2010; Ruiz-Robledillo and Moya-Albiol
-
-© 2017 John Wiley & Sons Ltd
-
-570
-
-MENDOZA-DENTON ET AL.
-
 2015). In this way, we wish to suggest that the vicarious experience of
 discrimination and sexism may have long-term outcomes. Prior research
 suggests that we may be able to combine psychophysiological measures with
-the chronic stressors around sexism and racism. Both
-our analyses of
-divergence as shown here and entrainment (see,
-for instance, Hirschberg
+our analyses of the chronic stressors around sexism and racism. Both
+divergence as shown here and entrainment (see, for instance, Hirschberg
 2011) stand to be productively studied with the multifaceted methodology
 offered here.
-
 Finally, we recognize that video gameplay has the potential to provide a rich
 source of relatively controlled data so that we may understand how EDA
 measurement might apply to a naturalistic situation before taking such
-measurements out into the ﬁeld. Playing video console games in our contrived
+measurements out into the field. Playing video console games in our contrived
 game room affords a familiar replica of a naturally occurring environment for
 this type of interaction: players can hear and see each other well, have assured
 co-presence and mutual orientation, as well as a lack of competing demands,
 extraneous movements and outside stimuli. We suggest that new, portable and
 noninvasive technologies for measuring breathing, heart rate, and EDA are
-ready to be taken into sociolinguistic situations beyond the conﬁnes of our labs
-and set-up living rooms and game rooms. We hope this exploratory, proof-of-
-concept study provides some ﬁrst steps and lays the groundwork for future
+ready to be taken into sociolinguistic situations beyond the confines of our labs
+and set-up living rooms and game rooms. We hope this exploratory, proof-ofconcept
+study provides some first steps and lays the groundwork for future
 research in psychophysiology and sociolinguistics.
-
-NOTE
-
-1. We would like to give our deepest thanks to Devyani Sharma and Allan Bell for
-their editorial comments, and to two anonymous reviewers who were incisive in
-critique and generous with their time. Many thanks also to the CLIC/LISO group,
-to audiences at UCLA, UC Santa Barbara, Oxford University, San Diego State
-University, and University of Texas at Austin. Thanks also to our gaming
-participants, and to Aomar Boum, Maggie Boum-Mendoza, Brendan O’Connor,
-Mark Dingemanse, Miriam Meyerhoff, and Daniel Bowden for their time,
-invaluable inspiration, help and feedback. The question of what to call ‘second-
-hand sexism’ was crowdsourced to friends on Facebook; helpful in the discussion
-were Gerry Howley, Kathryn Campbell-Kibler, Barnet Pavao-Zuckerman, Peter
-Haney and Laura Miller. Our research was funded by a Faculty Seed Grant to
-Mendoza-Denton from the Academic Senate at UCLA. Research was conducted
-under UCLA IRB#15-001735-AM-00002. We have no conﬂicts of interest to
-report and all faults remain our own.
-
-REFERENCES
-
-Althusser, Louis. 1971.
-
-Ideology and ideological state apparatuses (notes toward an
-investigation). In Lenin and Philosophy and Other Essays. Ben Brewster trans. New York:
-Monthly Review Press. 127–186.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-571
-
-Ballard, Mary and J. Rose Wiest. 1996. Mortal Kombat (tm): The effects of violent videogame
-play on males’ hostility and cardiovascular responding. Journal of Applied Social Psychology
-26: 717–730.
-
-Beddor, Patrice Speeter, Kevin B. McGowan, Julie E. Boland, Andries W. Coetzee and Anthony
-Brasher. 2013. The time course of perception of coarticulation. The Journal of the Acoustical
-Society of America 133: 2350–2366.
-
-Bell, Allan. 1984. Language style as audience design. Language in Society 13: 145–204.
-Benedek, Mathias and Christian Kaernbach. 2010. A continuous measure of phasic
-
-electrodermal activity. Journal of Neuroscience Methods 190: 80–91.
-
-Brodkin, Jon. 2013. How ‘dongle’ jokes got two people ﬁred – and led to DDoS attacks. Last
-accessed 25 February 2016 at https://arstechnica.com/tech-policy/2013/03/how-dongle-
-jokes-got-two-people-ﬁred-and-led-to-ddos-attacks/
-
-Butler, Judith. 1988. Performative acts and gender constitution: An essay in phenomenology
-
-and feminist theory. Theatre Journal 40: 519–531.
-
-Calhoun, Sasha and Antje Schweitzer. 2012. Can intonation contours be lexicalized?:
-Implications for discourse meanings. In Gorka Elordieta and Pilar Prieto (eds.) Prosody and
-Meaning. Berlin, Germany: De Gruyter Mouton. 271–328.
-
-Coenen, Tanguy, Lynn Coorevits and Bram Lievens. 2015. The wearable Living Lab: How
-wearables could support Living Lab projects. Paper presented to the Open Living Lab Days,
-25–28 August, Istanbul, Turkey.
-
-Dawson, Michael E., Anne Schell and Diane Filion. 2007. The electrodermal system. In John T.
-Cacioppo, Louis G. Tassinary and Gary G. Berntson (eds.) Handbook of Psychophysiology.
-Cambridge, U.K.: Cambridge University Press. 159–181.
-
-Dietz, Tracy L. 1998. An examination of violence and gender role portrayals in video games:
-
-Implications for gender socialization and aggressive behavior. Sex Roles 38: 425–442.
-
-D’Onofrio, Annette. 2015. Persona-based information shapes linguistic perception: Valley
-
-Girls and California vowels. Journal of Sociolinguistics 19: 241–256.
-
-dorkly.com. 2017. 20 video game ads that got weirdly sexual. Last accessed 2 August 2017 at
-
-http://www.dorkly.com/post/79732/20-videogame-ads-that-got-weirdly-sexual
-
-Drachen, Anders, Lennart E. Nacke, Georgios Yannakakis and Anja Lee Pedersen. 2010.
-Correlation between heart rate, electrodermal activity and player experience in ﬁrst-person
-shooter games. In Stephen N. Spencer (ed.) Proceedings of the 5th ACM SIGGRAPH
-Symposium on Video Games. New York: ACM. 49–54.
-
-Eckert, Penelope. 2012. Three waves of variation study: The emergence of meaning in the
-
-study of variation. Annual Review of Anthropology 41: 87–100.
-
-Eisenhauer, Scarlett F. 2016. Reconciling the individual and the group: A new ethnographic
-method using electrodermal activity to understand subjective experience. Paper presented
-to 115th American Anthropological Association Annual Meeting, 16–20 November,
-Minneapolis, Minnesota.
-
-Empatica. 2016. What should I know to use EDA data in my experiment? Last accessed 2
-February 2017 at https://support.empatica.com/hc/en-us/articles/203621955-What-
-should-I-know-to-use-EDA-data-in-my-experiment
-
-Erickson, Frederick. 1985. Qualitative methods in research on teaching. Occasional Paper No.
-
-81. East Lansing, Michigan: Michigan State University.
-
-Ferrin, Nino and Michalis Kontopodis. 2017. Playing sports with Nintendo Wii in Berlin:
-In Michalis Kontopodis, Christos
-(eds.) Global Youth in Digital Trajectories. London:
-
-interactivity, and imagination.
-
-Technography,
-Varvantakis and Christoph Wulf
-Routledge. 39–52.
-
-© 2017 John Wiley & Sons Ltd
-
-572
-
-MENDOZA-DENTON ET AL.
-
-Foucault, Michel. 2010 [1978]. Naissance de la Biopolitique: Cours Au College de France, 1978–
-
-1979 (Vol. 5). New York: Picador.
-
-Fowles, Don C. 2008. The measurement of electrodermal activity in children. In Louis A.
-Schmidt and Sidney J. Segalowitz (eds.) Developmental Psychophysiology: Theory, Systems, and
-Methods. Cambridge, U.K.: Cambridge University Press. 286–316.
-
-Fox, Jesse and Wai Yen Tang. 2014. Sexism in online video games: The role of conformity to
-masculine norms and social dominance orientation. Computers in Human Behavior 33: 314–
-320.
-
-Fron, Janine, Tracy Fullerton, Jacquelyn Ford Morie and Celia Pearce. 2007. The hegemony of
-play. In Akira Baba (ed.) Situated Play: Proceedings of the Third International Conference of the
-Digital Games Research Association (DiGRA). Tokyo, Japan: DIGRA. 1–10.
-
-Gibson, Ellie. 2011. We dare: SwingStar (Eurogamer Reviews, Wii platform). Last accessed 12
-
-January 2017 at http://www.eurogamer.net/articles/2011-04-08-we-dare-review
-
-Glenn, Phillip. 1995. Laughter in Interaction. Cambridge, U.K.: Cambridge University Press.
-Gonzalez-Gonzalez, Carina S. 2011. Interaction, gender and videogames. Paper presented at
-the First International Symposium Communicability, Computer Graphics and Innovative
-Design for Interactive Systems (CCGIDIS), 28–29 June, Cordoba, Spain.
-
-Goodwin, Charles. 2000. Action and embodiment within situated human interaction. Journal
-
-of Pragmatics 32: 1489–1522.
-
-Goodwin, Marjorie Harness. 2006. The Hidden Life of Girls: Games of Stance, Status, and
-
-Exclusion (Blackwell Studies in Discourse and Culture). Oxford, U.K.: Blackwell.
-
-Gordon, Cynthia. 2003. Aligning as a team: Forms of conjoined participation in (stepfamily)
-
-interaction. Research on Language and Social Interaction 36: 395–431.
-
-Gray, K. L. 2012. Deviant bodies, stigmatized identities, and racist acts: Examining the
-experiences of African–American gamers in Xbox Live. New Review of Hypermedia and
-Multimedia 18: 261–276.
-
-Gumperz, John J. 1982. Discourse Strategies (Vol. 1). Cambridge, U.K.: Cambridge University
-
-Press.
-
-Haddington, Pentti, Lorenza Mondada and Maurice Nevile (eds.). 2013. Interaction and
-Mobility: Language and the Body in Motion. Berlin, Germany/Boston, Massachusetts: De
-Gruyter.
-
-Harris, C. L. 2004. Bilingual speakers in the lab: Psychophysiological measures of emotional
-
-reactivity. Journal of Multilingual and Multicultural Development 25: 223–247.
-
-Hirschberg, Julia. 2011. Speaking more like you: Entrainment in conversational speech. Paper
-presented at the Twelfth Annual Conference of the International Speech Communication
-Association, 28–31 August, Florence, Italy.
-
-Hixon, Thomas J. and Jeannette Dee Hoit. 2005. Evaluation and Management of Speech Breathing
-
-Disorders: Principles and Methods. New York: Redington Brown LLC.
-
-Hodder, Ian. 2012. Entangled: An Archaeology of the Relationships between Humans and Things.
-
-Malden, Massachusetts: John Wiley and Sons.
-
-Hudson, Soft. 2007. Mario Party 8 [video game for Wii Nintendo console]. Tokyo, Japan:
-
-Hudson Soft.
-
-IGN.com. 2017. Is the Switch Nintendo’s most sexually suggestive video game console? Last
-accessed 2 August 2017 at http://www.ign.com/videos/2017/03/20/is-the-switch-nintend
-os-most-sexually-suggestive-console
-
-Jefferson, Gail. 1979. A technique for inviting laughter and its subsequent acceptance and
-declination. In George Psathas (ed.) Everyday Language: Studies in Ethnomethodology. New
-York: Irvington. 79–96.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-573
-
-Jefferson, Gail. 1984. On the organization of laughter in talk about troubles. In J. Maxwell
-Atkinson and John C. Heritage (eds.) Structures of Social Action: Studies in Conversation
-Analysis. Cambridge, U.K.: Cambridge University Press. 346–369.
-
-Jefferson, Gail. 2004. A note on laughter in male-female interaction. Discourse Studies 6: 117–133.
-Jefferson, Gail, Harvey Sacks and Emanuel Schegloff. 1987. Notes on laughter in the pursuit of
-intimacy. In Graham Button and John R.E. Lee (eds.) Talk and Social Organisation. Clevedon,
-U.K.: Multilingual Matters. 152–205.
-
-Kangasharju, Helena. 1996. Aligning as a team in multiparty conversation. Journal of
-
-Pragmatics 26: 291–319.
-
-Kendon, Adam. 1985. Behavioural
-
-frame attunement in
-face-to-face interaction.
-In Gerald P. Ginsburg, Marylin Brenner and Mario von
-Cranach (eds.) Discovery Strategies in the Psychology of Action. London: Academic Press.
-229–253.
-
-foundations for the process of
-
-Kivikangas, J. Matias, Guillaume Chanel, Ben Cowley, Inger Ekman, Mikko Salminen, Simo
-J€arvel€a and Niklas Ravaja. 2011. A review of the use of psychophysiological methods in
-game research. Journal of Gaming and Virtual Worlds 3: 181–199.
-
-Lea, Martin and Russell Spears. 1991. Computer-mediated communication, de-individuation
-
-and group decision-making. International Journal of Man-Machine Studies 34: 283–301.
-
-Mandryk, Regan L., Kori M. Inkpen and Thomas W. Calvert. 2006. Using psychophysiological
-techniques to measure user experience with entertainment technologies. Behaviour and
-Information Technology 25: 141–158.
-
-Mauss, Marcel. 1973 Techniques of the body. Economy and Society 2: 70–88.
-Mendoza-Denton, Norma. 2008. Homegirls: Language and Practice among Latina Girls in Gangs.
-
-London: Wiley Blackwell.
-
-Mendoza-Denton, Norma. 2016. By boys for boys: Entanglement and enregisterment in
-videogame play. Paper presented at the Oxford Language, Identity, and Place conference,
-April 2016, Oxford, U.K.
-
-Mendoza-Denton, Norma and Stefanie Jannedy. 2011. Semiotic layering through gesture and
-intonation: A case study of complementary and supplementary multimodality in political
-speech. Journal of English Linguistics 39: 265–299.
-
-Mendoza-Denton, Rodolfo, Lindsay Shaw-Taylor, Serena Chen and Eugene Chang. 2009.
-Journal of
-
-Ironic effects of explicit gender prejudice on women’s test performance.
-Experimental Social Psychology 45: 275–278.
-
-Mielke, Jeff, Adam Baker and Diana Archangeli. 2010. Variability and homogeneity in
-American English /ɹ/ allophony and /s/ retraction. In Cecile Fougeron, Barbara Kuehnert,
-Mariapaola d’Imperio and Nathalie Vallee (eds.) Laboratory Phonology 10. Amsterdam, The
-Netherlands: Walter de Gruyter. 699–730.
-
-Mondada, Lorenza. 2013. Coordinating mobile action in real time: The timely organization of
-directives in video games. In Pentti Haddington, Lorenza Mondada and Maurice Nevile
-(eds.) Interaction and Mobility: Language and the Body in Motion. Berlin, Germany/Boston,
-Massachusetts: De Gruyter. 300–344.
-
-Mondada, Lorenza. 2016. Challenges of multimodality: Language and the body in social
-
-interaction. Journal of Sociolinguistics 20: 336–366.
-
-Mortensen, Torill and Hilda Corneliussen. 2005. The non-sense of gender in Neverwinter
-Nights. Paper presented at Women in Games 2005 conference, 8–10 August, University of
-Abertay, Dundee, Scotland.
-
-© 2017 John Wiley & Sons Ltd
-
-574
-
-MENDOZA-DENTON ET AL.
-
-M€uller, Sebastian and Thomas Fritz. 2015. Stuck and frustrated or in ﬂow and happy: Sensing
-developers’ emotions and progress. Paper presented at the 37th International Conference
-on Software Engineering, 16–24 May, Florence, Italy.
-
-Nardi, Bonnie. 2010. My Life as a Night Elf Priest: An Anthropological Account of World of
-
-Warcraft. Ann Arbor, Michigan: University of Michigan Press.
-
-O’Leary, Amy. 2012. In virtual play, sex harassment is all too real. The New York Times. Last
-accessed 12 January 2017 at http://www.nytimes.com/2012/08/02/us/sexual-harassme
-nt-in-online-gaming-stirs-anger.html
-
-Pickering, Martin J., Steven Frisson, Brian McElree and Matthew Traxler. 2004. Eye
-movements and semantic composition. In Manuel Carreiras and Charles Clifton, Jr. (eds.)
-The On-Line Study of Sentence Comprehension: Eyetracking, ERPs, and Beyond. Hove, U.K.:
-Psychology Press.
-
-Pierrehumbert, Janet and Julia Hirschberg. 1990. The meaning of intonational contours in the
-interpretation of discourse. In Philip Cohen, Jerry Morgan and Martha Pollack (eds.)
-Intentions in Communication. Cambridge, Massachusetts: MIT Press. 271–311.
-
-Podesva, Robert. 2006. Phonetic detail and sociolinguistic variation: Its signiﬁcance and role
-in the construction of social meaning. Unpublished PhD dissertation. Stanford, California:
-Stanford University.
-
-Ramachandran, Vilayanur S. and Eric L. Altschuler. 2009. The use of visual feedback, in
-
-particular mirror visual feedback, in restoring brain function. Brain 132: 1693–1710.
-
-Ravaja, Niklas, Marko Turpeinen, Timo Saari, Sampsa Puttonen and Liisa Keltikangas-
-J€arvinen. 2008. The psychophysiology of James Bond: Phasic emotional responses to
-violent video game events. Emotion 8: 114–120.
-
-Ruiz-Robledillo, Nicolas and Luis Moya-Albiol. 2015. Lower electrodermal activity to acute
-stress in caregivers of people with autism spectrum disorder: An adaptive habituation to
-stress. Journal of Autism and Developmental Disorders 45: 576–588.
-
-Sacks, Harvey. 1984. Notes on methodology. In J. Maxwell Atkinson and John Heritage (eds.)
-Structures of Social Action: Studies in Conversation Analysis. Cambridge, U.K.: Cambridge
-University Press. 21–27.
-
-Sapolsky, Robert M. 2004. Why Zebras Don’t Get Ulcers (3rd edition). New York: St. Martin’s
-
-Grifﬁn.
-
-Schilling-Estes, Natalie. 2004. Constructing ethnicity in interaction. Journal of Sociolinguistics
-
-8: 163–195.
-
-Shankar, Shalini and Jillian R. Cavanaugh. 2012. Language and materiality in global
-
-capitalism. Annual Review of Anthropology 41: 355–369.
-
-Sharma, Devyani. 2016. Series introduction. Journal of Sociolinguistics 20: 335.
-Stern, Robert Morris, William J. Ray and Karen S. Quigley. 2001. Psychophysiological
-
-Recording. Oxford, U.K.: Oxford University Press.
-
-Tannen, Deborah. 1984. Conversational Style: Analyzing Talk among Friends. Oxford, U.K.:
-
-Oxford University Press.
-
-Voigt, Rob, Penelope Eckert, Dan Jurafsky and Robert J. Podesva. 2016. Cans and cants:
-Computational potentials for multimodality with a case study in head position. Journal of
-Sociolinguistics 20: 677–711.
-
-Williams, Dmitri, Nicolas Ducheneaut, Li Xiong, Yuanyang Zhang, Nick Yee and Eric Nickell.
-2006. From tree house to barracks: The social life of guilds in World of Warcraft. Games and
-Culture 1: 338–361.
-
-Wysocki, Matthew and Evan Lauteria. 2015. Rated M for Mature: Sex and Sexuality in Video
-
-Games. New York: Bloomsbury.
-
-© 2017 John Wiley & Sons Ltd
-
-THEME SERIES: INTERACTION
-
-575
-
-APPENDIX: Transcription conventions (based on Jefferson 1984)
-
-Symbol
-
-[ ]
-
-↑↓
-
-CAPITALS
-
-°Soft and whispering°
-
-(0.4) (.)
-
-lo::ng sound
-
->fast speech<
-
-((smiling voice))
-ha-
-stohhhp
-.hhh
-
-Explanation
-
-Square brackets mark the start and end
-
-of overlapping speech.
-
-Vertical arrows precede marked pitch movement.
-
-Other pitch notation is shown in the ToBi system.
-Capital letters are used to signal loudness relative to
-
-surrounding speech.
-
-So-called ‘degree signs’ are used when the speech inside
-
-them is heard as softer than the surrounding speech,
-also used for whispered speech.
-
-Numbers enclosed in parentheses indicate tenths of a
-
-second of a pause. A single period enclosed in
-parentheses indicates a noticeable micropause.
-
-Colons show degree of elongation of a sound.
-
-The more colons, the more elongated the sound.
-
-More than and less than signs enclose talk that
-
-is ‘speeded up’ relative to its surrounding context.
-
-Additional contextual comments from transcriber.
-Truncated speech.
-Extra h’s indicate laughter in voice.
-Laughter in-breaths are shown with h’s preceded
-
-by a period.
-
-heh huh hii
-
-Voiced laughter with predominant vowel represented
-
-full stop.
-
-right,
-
-orthographically.
-
-A period at the end of a turn signals a falling intonation
-
-or ﬁnal contour.
-
-A comma signals a rising intonation.
-
-Address for Correspondence:
-
-Norma Mendoza-Denton
-2355 Westwood Blvd. #1113
-Los Angeles, CA 90064
-U.S.A.
-
-n.mendozadenton@gmail.com
-
-© 2017 John Wiley & Sons Ltd
-
-

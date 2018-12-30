@@ -1,33 +1,3 @@
-Applied Psycholinguistics 38 (2017), 509–539
-doi:10.1017/S014271641600031X
-
-Utilization of prosodic and linguistic
-cues during perceptions of
-nonunderstandings in radio
-communication
-
-JAIME C. AUTON, MARK W. WIGGINS, BEN J. SEARLE,
-and NAN XU RATTANASONE
-Macquarie University
-
-Received: September 14, 2015
-
-Accepted for publication: July 11, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Jaime Auton, Department of Psychology, Macquarie University, Sydney, New South Wales 2109,
-Australia. E-mail: jaime.auton@mq.edu.au
-
-ABSTRACT
-The readback/hearback loop is a communicative protocol used in many high-risk environments to
-ensure that a verbal instruction has been heard correctly by a receiver. However, it does not neces-
-sarily ensure that an instruction has been understood. Using an international sample of hydroelectric
-power generation controllers, this study examined whether particular linguistic (complete and partial
-readbacks) and prosodic (ﬁnal intonation, ﬁller, and interturn delay) cues contained within a readback
-response could signal to listeners the extent to which speakers had understood an instruction. The
-results indicated that different prosodic cues are used to detect nonunderstandings, depending upon
-the linguistic content of the readback. The results have implications for training and system design in
-distributed environments.
 
 Many high-risk, high-consequence technical environments, including air trafﬁc
 control, hydroelectric power generation, and emergency services, are character-
@@ -43,14 +13,6 @@ Models of dialogue structure, such as the collaborative model (Clark, 1994;
 Clark & Brennan, 1991; Clark & Schaefer, 1987, 1989; Clark & Wilkes-Gibbs,
 1986), emphasize that both communicative partners have a shared responsibility
 to ensure that information exchanged has been appropriately heard and understood
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-510
-
 before the conversation proceeds. A communicative exchange involves two distinct
 stages: the presentation of information and the grounding of that information
 (Clark & Schaefer, 1987).
@@ -65,8 +27,7 @@ the process of grounding is successful, the utterance from the sender is referre
 to as “common ground” between the two communicative participants (Clark &
 Schaefer, 1987, p. 19).
 
-MISCOMMUNICATION
-
+MISCOMMUNICATION.
 Although the objective of any communicative transaction is to ensure mutual un-
 derstanding between all participants (Dascal & Berenstein, 1987), communication
 has been identiﬁed as a contributing factor in a signiﬁcant proportion of errors
@@ -95,18 +56,11 @@ the message has not been understood. In contrast, a concealed nonunderstanding
 occurs when the receiver fails to understand a message, but deceptively conceals
 this state of nonunderstanding from the sender (Weigand, 1999).
 
-THE READBACK/HEARBACK COMMUNICATIVE PROTOCOL
-
+THE READBACK/HEARBACK COMMUNICATIVE PROTOCOL.
 While nonunderstandings can occur in many different types of communicative
 exchanges, they can also threaten the effectiveness of the readback/hearback pro-
 tocol. This is a communications procedure that speciﬁes how verbal instructions
 are to be delivered and conﬁrmed over the radio/telephone (Prinzo & Britton,
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-511
-
 1993). Used in many different high-risk operational environments, including avi-
 ation, electricity transmission control, hydroelectric power generation, and more
 recently, in some healthcare settings, this protocol is used to reduce operator error
@@ -138,8 +92,7 @@ disclosed nonunderstanding), allowing the information to be recommunicated until
 the instruction becomes common ground between the communicative participants
 (Streitenberger, Breen-Reid, & Harris, 2006).
 
-Readback/hearback protocol limitation
-
+Readback/hearback protocol limitation.
 Although the readback/hearback protocol is an effective strategy for the identiﬁca-
 tion of misunderstandings and disclosed nonunderstandings, it does not necessarily
 protect against concealed nonunderstandings, because a nonunderstanding can be
@@ -157,20 +110,13 @@ There is also an explicit expectation in many high-risk environments, including
 aviation, that the receipt of an accurate readback provides evidence to the sender
 that the message has been understood by the receiver (Federal Aviation Adminis-
 tration, 2014; Morrow, Rodvold, & Lee, 1994). Nevertheless, nonunderstandings,
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-512
-
 in spite of an accurate readback, do occur (Air Accidents Investigation Branch,
 2008; Billings & Cheaney, 1981; Morrow et al., 1994). This suggests that the
 delivery of an accurate readback from a receiver does not necessarily provide
 the sender with adequate evidence during the grounding process to indicate that
 mutual understanding has taken place.
 
-Reliance on auditory cues to gauge understanding
-
+Reliance on auditory cues to gauge understanding.
 The identiﬁcation of effective strategies that could improve the detection of nonun-
 derstandings during the grounding process of readback/hearback exchanges is
 an important step in improving the integrity of this communication system. For
@@ -212,12 +158,6 @@ in pitch (i.e., falling intonation) and those rising in pitch (i.e., rising into
 Bolinger, 1985; Cruttenden, 1981; Denes & Milton-William, 1962; Hunter, 2004;
 O’Connor & Arnold, 1961). Interturn delay refers to the duration of silence be-
 tween the end of one speaker’s utterance and the beginning of the other speaker’s
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-513
-
 response (Roberts, Francis, & Morgan, 2006). An unﬁlled interturn delay refers
 to a delay that only contains silence, whereas a ﬁlled interturn delay refers to a
 delay that contains a ﬁller (a speech interjection, such as uh or um; Clark & Fox
@@ -236,8 +176,7 @@ perceptions of uncertainty (Brennan & Williams, 1995), no association between
 perceptions of nonunderstanding and the duration of interturn delays was evident.
 
 Utility of the linguistic content of the readback response to gauge
-understanding
-
+understanding.
 Although Auton et al. (2013) demonstrated that particular prosodic cues were
 useful to network operators in detecting varying levels of understanding on the
 part of the receiver when a full readback was articulated, they did not consider
@@ -268,12 +207,6 @@ readback responses).
 
 In addition to examining the potential interaction between prosodic cues and the
 linguistic content within a readback response during judgements of understanding,
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-514
-
 it is also important to assess whether the contrast between full and partial readback
 responses to an instruction affects perceptions of understanding. Within many
 technical environments, there is an assumption that the receipt of a full readback
@@ -311,8 +244,7 @@ evident that a full readback does not provide a listener with evidence that the
 receiver has understood the instruction, additional supporting evidence may need
 to be considered in particular circumstances.
 
-THE PRESENT STUDY
-
+THE PRESENT STUDY.
 This study extended the relatively limited literature examining the relation-
 ship between auditory cues and perceptions of nonunderstanding within a read-
 back/hearback context. Speciﬁcally, it capitalized on Auton et al. (2013) in three
@@ -324,12 +256,6 @@ water is used to generate electricity.
 
 This study also differed from Auton et al. (2013) by including an examination of
 the association between the amount of linguistic information contained within the
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-515
-
 readback response (full vs. partial readback) and perceptions of nonunderstanding.
 Of perhaps more theoretical and practical importance, the utility of prosodic
 cues during assessments of nonunderstanding was examined contingent upon the
@@ -343,8 +269,7 @@ digit span recall task, it was designed to impose a cognitive demand on partici-
 pants, thereby restricting the cognitive resources available during assessments of
 nonunderstanding.
 
-Research aim and hypotheses
-
+Research aim and hypotheses.
 The aim of the present study was to examine how both linguistic and prosodic cues
 embodied within a receiver’s response to an instruction inﬂuenced perceptions of
 the extent to which a receiver had understood an instruction. It was hypothesized
@@ -381,19 +306,12 @@ available (i.e., during partial readback responses). Therefore, it was hypothesi
 that full readback responses that commenced after a longer (1200 ms) interturn
 delay would attract lower ratings of understanding of the instruction compared to
 full readback responses that commenced after a shorter (600 ms) interturn delay
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-516
-
 (H4a). Finally, it was predicted that partial readback responses that commenced
 after a longer (1200 ms) inteturn delay would attract lower ratings of understand-
 ing of the instruction compared to partial readback responses commencing after a
 shorter (600 ms) interturn delay (H4b).
 
-Overview of methodology
-
+Overview of methodology.
 This study was undertaken within the domain of hydroelectric power genera-
 tion. The participants comprised hydroelectric power generation operators whose
 role is to monitor and diagnose system events through supervisory control and
@@ -420,11 +338,10 @@ commencement of the response, and the duration of the interturn delay between
 speakers. After listening to each exchange, participants were asked to indicate the
 extent to which they perceived that the receiver (who delivered the full or partial
 readback) had understood the instruction.
+<Middle>
+METHOD.
 
-METHOD
-
-Participants
-
+Participants.
 The participants were recruited from either online advertisements within a major
 US power generation magazine that has subscribers worldwide or through direct
 contact using a major hydroelectric power generation company in New Zealand. A
@@ -437,12 +354,6 @@ demographic data was provided via self-report.
 Twenty-eight hydroelectric power generation operators from companies world-
 wide participated in the study. Overall, an equal proportion of participants were
 from the United States (35.7%) and New Zealand (35.7%), with the remaining
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-517
-
 participants residing in various countries including England, Australia, Italy, and
 Croatia. The sample was predominantly male (92.9%), ranged in age from 29 to
 74 years (M = 51.96, SD = 8.89), and had accumulated between 4 and 44 years
@@ -461,8 +372,7 @@ experienced nonnative English speaker had been speaking English for 75.47% of
 his life. Participants received a US $25 Amazon eVoucher in exchange for their
 completion of the study.
 
-Materials
-
+Materials.
 The auditory readback task, incorporating the numeric digit span recall task,
 was created to assess the extent to which particular prosodic and linguistic cues
 inﬂuenced participants’ perceptions of nonunderstandings while listening to a
@@ -491,66 +401,6 @@ ensure a more robust design. Each communicative exchange consisted of a sender
 delivering an operational instruction to a receiver and a receiver responding to the
 instruction. These two communicative exchanges differed in the type of operational
 tasks that the sender requested the receiver to execute.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-Table 1. Semantic content of the communicative exchanges
-
-518
-
-Communicative
-
-Exchange
-
-Instruction Response Type
-
-Instruction
-
-Full Readback
-
-Partial Readback
-
-1
-
-2
-
-Hi Steve, Can you go
-to Rangipo Station
-and check the status
-of the bypass valves
-on the two
-generators and give
-me a call?
-
-Hey Steve, we’ve just
-had a tripping down
-at Tekapo B station.
-Can you do a
-manual reset on
-Unit 2?
-
-Thanks Pete. I’m on
-
-my way to Rangipo
-right now and will
-check the status of
-the bypass valves
-and give you a call.
-
-Thanks Pete. I’ll go
-
-ahead and reset
-Unit 2 trips.
-
-Thanks Pete. I’ll do
-
-that now.
-
-Thanks Pete. I’ll go
-
-ahead with that.
-
 “Instruction response type” referred to the nature of the response to the opera-
 tional instruction in each of the two communicative exchanges, where the receiver
 responded with either a full readback (i.e., the entire message was repeated back
@@ -577,12 +427,6 @@ sender, who delivered the instruction in both exchanges, and the other speaker a
 sumed the role of the receiver, who delivered the instruction responses associated
 with both exchanges. Speakers maintained their allocated roles as either sender
 or receiver across both exchanges to prevent differences in voice timbre from
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-519
-
 inﬂuencing perceptions of nonunderstanding. The duration of the communicative
 exchanges (including both the instruction and response) ranged from 10 to 13 s.
 
@@ -631,12 +475,6 @@ cues reportedly perceived as useful during perceptions of uncertainty by Brennan
 and Williams (1995) were also useful during perceptions of nonunderstanding in a
 readback context, they did not incorporate the same interturn delay durations used
 by Brennan and Williams. While Brennan and Williams used delays of 1000 ms
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-520
-
 (“short” delay) and 5000 ms (“long” delay) between speakers, Auton et al. argued
 that these durations would be perceptually unrealistic within technical domains
 and threaten the ecological validity of their study. Instead, Auton et al. examined
@@ -681,18 +519,11 @@ artiﬁcial silences of the two durations were electronically inserted, using th
 audio editor program GarageBand, between the offset of the sender delivering the
 instruction and the onset of the receiver’s response.
 
-Numeric digit span recall task
-
+Numeric digit span recall task.
 The auditory readback task was designed to assess associations that operators
 have developed between auditory cues and the extent to which they perceive
 that a speaker has understood an instruction. Operators who have developed re-
 ﬁned associations between auditory cues and instances of nonunderstanding are
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-521
-
 presumed to access these associations, even when cognitive resources are limited.
 In contrast, operators who have not developed such associations in long-term mem-
 ory rely more heavily on working-memory processing to determine the meaning
@@ -723,8 +554,7 @@ total, the auditory readback task required participants to listen and respond to
 communicative exchanges presented in randomized order: 2 practice items and 32
 communicative exchanges.
 
-Procedure
-
+Procedure.
 The participants were invited to take part in the study either by E-mail to oper-
 ators within the New Zealand power generation company or through an online
 advertisement published in a major US power generation magazine. Through both
@@ -734,24 +564,13 @@ ascertained their years of experience within the domain as well as the extent to
 which they give/receive instructions over the telephone/radio in their position. The
 auditory readback task took approximately 20 min to complete.
 
-RESULTS
-
-Data reduction
+RESULTS.
+Data reduction.
 
 For the auditory readback task, participants recorded a single rating of their as-
 sessment of the receiver’s level of understanding of the instruction for each of
 the 32 communicative exchanges along a 7-point Likert scale, from 1 (did not
 understand at all) to 7 (understood completely).
-
-Figure 1. (Color online) The visual presentation of the auditory readback task and the numeric digit span recall task.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-Numeric digit span recall task manipulation
-
-523
-
 Immediately prior to rating the receiver’s level of understanding, the numeric digit
 span recall task required participants to type in the eight, single digits that were
 visible on the screen for the duration of auditory communicative exchange. As the
@@ -767,8 +586,7 @@ of the numeric digits associated with a communicative exchange. Rather than
 removing these data points, the grand mean across participants for that particular
 auditory variable was substituted.
 
-Native language as a covariate
-
+Native language as a covariate.
 Prior to testing differences in perceptions of nonunderstanding at a cohort level, it
 was important to establish whether participants’ native language inﬂuenced their
 responses to the dependent variables. Independent samples t tests were undertaken
@@ -779,7 +597,7 @@ native English speakers and nonnative English speakers’ ratings of prosodic an
 linguistic cues for levels of understanding (p > .05), native language was not
 included as a covariate in subsequent analyses.
 
-Analyses of hypotheses
+Analyses of hypotheses.
 The data were analyzed using a 2×2×2×2×2 (Communicative Exchange [1, 2]
 × Instruction Response Type [full readback, partial readback] × Final Intonation
 [rising, falling] × Filler [present, absent] × Interturn Delay [shorter, longer])
@@ -797,71 +615,6 @@ Communicative exchange was included as a variable in the design of this study
 as a manipulation check to ensure that auditory cue use was not contingent on the
 semantic content of a particular communicative exchange. Although the two-level
 variable of communicative exchange (Exchange 1, Exchange 2) was not formally
-
-Table 2. Mean (standard deviation) ratings of understanding as a function of auditory cue condition
-
-Rising Intonation
-
-Falling Intonation
-
-Filler Present
-
-Filler Absent
-
-Filler Present
-
-Filler Absent
-
-Communicative
-
-Exchange
-
-Instruction
-
-Response Type
-
-n
-
-Shorter
-Delay
-
-Longer
-Delay
-
-Shorter
-Delay
-
-Longer
-Delay
-
-Shorter
-Delay
-
-Longer
-Delay
-
-Shorter
-Delay
-
-Longer
-Delay
-
-Exchange 1
-
-Exchange 2
-
-Full readback
-28 6.56 (0.69) 6.21 (0.96) 6.61 (0.61) 6.73 (0.44) 6.33 (0.82) 6.74 (0.44) 6.61 (0.61) 6.63 (0.62)
-Partial readback 28 3.82 (1.63) 3.68 (1.44) 4.21 (1.34) 4.29 (1.36) 4.11 (1.57) 4.07 (1.46) 4.71 (1.49) 4.39 (1.52)
-Full readback
-28 5.04 (1.55) 5.54 (1.37) 5.75 (1.40) 6.00 (1.02) 5.29 (1.36) 5.36 (1.28) 5.96 (1.00) 5.00 (1.49)
-Partial readback 28 3.64 (1.64) 3.43 (1.53) 4.25 (1.69) 3.68 (1.49) 3.86 (1.56) 4.18 (1.36) 4.39 (1.42) 3.96 (1.55)
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-525
-
 predicted to have an effect on ratings of understanding, a main effect was evident,
 F (1, 27) = 55.47, p < .001, ηp
 2 = 0.67. This indicates that when participants
@@ -918,21 +671,6 @@ was a statistically signiﬁcant difference in ratings of understanding for the 
 of intonation used at the end of partial readback responses (p = .001), where
 this effect was not evident for full readback responses (p = .459). This suggests
 that partial readbacks that ended with rising intonation attracted a lower mean
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-526
-
-Figure 2. (Color online) This boxplot illustrates the signiﬁcant two-way interaction between
-instruction response type and communicative exchange on ratings of understanding. The ﬁrst
-and second box clusters display a signiﬁcant simple main effect of instruction response type
-for Exchange 1 and Exchange 2 for ratings of understanding. Each box contains the middle
-50% of scores for that variable, where the relatively thicker horizontal line within each box
-represents the median value. The upper and lower whisker speciﬁes the top and bottom 25% of
-scores, respectively, excluding outliers. The short horizontal lines at the end of each whisker
-represent the maximum and minimum observation for each variable.
-
 rating of understanding (M = 3.88, SE = 0.25) compared to partial readbacks that
 ended with falling intonation (M = 4.21, SE = 0.23), providing support for H2b.
 In contrast, regardless of whether a full readback ended with rising (M = 6.05,
@@ -947,21 +685,6 @@ response type, ﬁller, and interturn delay using a Bonferroni adjustment, and t
 speciﬁc comparisons relating to the hypotheses were inspected. See Table 3 for
 the means, standard errors, and p values for the simple main effects analysis. For
 readback responses that were preceded by a shorter delay, lower ratings were
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-527
-
-Figure 3. (Color online) This boxplot illustrates the signiﬁcant two-way interaction between
-instruction response type and ﬁnal intonation on ratings of understanding. The second box
-cluster displays a signiﬁcant simple main effect of intonation within partial readback responses
-for ratings of understanding. Each box contains the middle 50% of scores for that variable,
-where the relatively thicker horizontal line within each box represents the median value. The
-upper and lower whisker speciﬁes the top and bottom 25% of scores, respectively, excluding
-outliers. The short horizontal lines at the end of each whisker represent the maximum and
-minimum observation for each variable.
-
 ascribed when the receiver used a ﬁller (M = 5.80, SE = 0.14), compared to
 statements where no ﬁller was used (M = 6.23, SE = 0.12; p < .001). This
 outcome provides support for H3a. For readback responses that were preceded by
@@ -978,87 +701,6 @@ provide support for H3d. See Figure 5 for the pictorial representation of H3c an
 H3d. Overall, ﬁllers were useful during perceptions of understanding when they
 preceded both full and partial readbacks, but only when contained within a shorter
 interturn delay of 600 ms.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-528
-
-Table 3. Summary of the mean (standard error) ratings of understanding and signiﬁcance
-values for the interactions among instruction response type, ﬁller, and interturn delay
-
-Instruction
-
-Response Type
-
-Interturn
-Delay
-
-Filler
-
-Present
-
-Absent
-
-Full readback
-
-Partial readback
-
-Shorter
-Longer
-Shorter
-Longer
-
-<.001
-.238
-<.001
-.159
-*p = .05. The mean difference is signiﬁcant at this level with Bonferroni adjustments for
-multiple comparisons.
-
-5.80 (0.14)
-5.96 (0.14)
-3.86 (0.27)
-3.84 (0.26)
-
-6.23 (0.12)
-6.10 (0.11)
-4.39 (0.23)
-4.08 (0.24)
-
-p
-
-Mean
-
-Difference
-−0.432*
-−0.128
-−0.536*
-−0.241
-
-Figure 4. (Color online) This boxplot represents the relationship between interturn delay and
-ﬁller contained within full readback responses. The ﬁrst box cluster displays a signiﬁcant
-simple main effect for ﬁller on ratings of understanding when contained within a shorter
-interturn delay. Each box contains the middle 50% of scores for that variable, where the
-relatively thicker horizontal line within each box represents the median value. The upper and
-lower whisker speciﬁes the top and bottom 25% of scores, respectively, excluding outliers.
-The short horizontal lines at the end of each whisker represent the maximum and minimum
-observation for each variable.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-529
-
-Figure 5. (Color online) This boxplot represents the relationship between interturn delay and
-ﬁller contained within partial readback responses. The ﬁrst box cluster displays a signiﬁcant
-simple main effect for ﬁller on ratings of understanding when contained within a shorter
-interturn delay. Each box contains the middle 50% of scores for that variable, where the
-relatively thicker horizontal line within each box represents the median value. The upper and
-lower whisker speciﬁes the top and bottom 25% of scores, respectively, excluding outliers.
-The short horizontal lines at the end of each whisker represent the maximum and minimum
-observation for each variable.
-
 For the fourth set of hypotheses, the simple main effects analysis of the three-
 way interaction between instruction response type, ﬁller, and interturn delay was
 also inspected, using a Bonferroni adjustment for multiple comparisons. The
@@ -1073,16 +715,9 @@ H4a. In contrast, when a longer interturn delay preceded a partial readback, the
 receiver was rated with a relatively lower level of understanding of the instruction
 (M = 4.39, SE = 0.23), compared to a shorter interturn delay preceded a partial
 readback (M= 4.08, SE= 0.24; p= .033). This outcome provides support for H4b.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-530
-
-DISCUSSION
-
-Summary of ﬁndings
-
+<Conclusion>
+DISCUSSION.
+Summary of ﬁndings.
 The overall aim of the present study was to investigate the role of linguistic
 (namely, a full or partial readback) and prosodic (namely, ﬁnal intonation, ﬁller,
 and interturn delay) cues in hydroelectric power generation operators’ perceptions
@@ -1127,112 +762,9 @@ terturn delay, in comparison to the shorter delay (consistent with H4b). No effe
 was evident for interturn delay when it preceded a full readback (inconsistent with
 H4a). See Table 4 for a summary of ﬁndings.
 
-Salience of auditory cues during perceptions of nonunderstanding
-
+Salience of auditory cues during perceptions of nonunderstanding.
 Overall, the pattern of results from this study suggest that not all auditory cues
 are assigned the same level of importance when listeners are making judgments
-
-Table 4. Summary of results with accompanying hypotheses
-
-Linguistic
-
-Cues
-
-Full readback
-
-Partial readback
-
-Hypotheses
-
-H1
-H2a
-H3a
-H3c
-H4a
-H1
-H2b
-H3b
-H3d
-H4b
-
-Auditory Cues
-
-Semantic Cues
-
-Prosodic Cues
-
-Exchange 1
-
-Exchange 2
-
-Rising
-
-Intonation
-
-Falling
-
-Intonation
-
-600 ms
-Filled
-
-600 ms
-Unﬁlled
-
-1200 ms
-Filled
-
-1200 ms
-Unﬁlled
-
-✔a
-
-✔a
-
-✔b
-
-✔b
-
-✗
-
-✔
-
-✗
-
-✔
-
-✔
-
-✔
-
-✔
-
-✗
-
-✔
-
-✔
-
-✗
-
-✗
-
-✗
-✗
-
-✗
-✔
-
-Note: The presence of two adjacent checkmarks indicates that the mean difference between the two variables was signiﬁcant and therefore provided
-support for the corresponding hypothesis. The presence of two adjacent cross symbols indicates that the mean difference between the two variables
-was not signiﬁcant and therefore did not support the corresponding hypothesis. For H1 only, the checkmarks with corresponding subscripts represent
-the mean differences being compared.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-532
-
 about speakers’ levels of understanding. In some circumstances, it was only in the
 absence of one cue that the presence of another cue became perceptually important
 to listeners. In other circumstances, the presence of one cue enhanced the salience
@@ -1285,12 +817,6 @@ examination of over 50 hr of air trafﬁc control and pilot exchanges from ﬁve
 airports in the United States, Prinzo et al. (2006) noted that, as the complexity
 and message length of controller’s instruction increased, so did the frequency of
 readback errors made by pilots. The instruction contained within the ﬁrst exchange
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-533
-
 in this study was more complex (based on the number of elements it contained;
 Prinzo et al., 2006) compared to the instruction within the second exchange,
 which may have led listeners to perceive that speakers were less likely to have
@@ -1299,8 +825,7 @@ evidence to conﬁrm understanding. Although it is important to note that there 
 no relationship between semantic content and prosodic cues in this study, future
 research will need to consider this relationship more closely.
 
-Implications for practice
-
+Implications for practice.
 One of the notable ﬁndings of this study was how the amount linguistic information
 contained within a readback response was used to establish common ground. This
 suggests that in practice, operators who have heard an instruction correctly but
@@ -1341,12 +866,6 @@ did they have full readbacks to contrast against partial readbacks. This prevent
 any investigation as to whether the use of prosodic cues differed according to
 the amount of linguistic information available. The results of the present study
 suggest that participants use ﬁnal intonation and interturn delay as an important
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-534
-
 cue during perceptions of understanding, but only when linguistic information
 from a full readback is unavailable.
 
@@ -1372,8 +891,7 @@ this evidence is absent (i.e., during partial readbacks), an interturn delay dur
 of over 1 s becomes indicative of trouble in communication, which is consistent
 with the threshold of delay in everyday social communicative exchanges.
 
-Limitations and future research
-
+Limitations and future research.
 There were three main limitations in this study. First, perceptions of nonunder-
 standing were not made by a participant within the communicative exchange,
 but rather, by a third-party participant listening to the exchange. This process is
@@ -1398,12 +916,6 @@ to instructions.
 Second, there was no investigation as to whether linguistic and prosodic cues
 incorporated within an instruction response were sufﬁciently salient to moti-
 vate operators to ensure that the instruction had been properly understood. It is
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-535
-
 important for future research to establish the practical relevance of these audi-
 tory cues to determine whether these critical semantic, linguistic, and prosodic
 cues inﬂuence not only operators’ perceptions of nonunderstanding on the part of
@@ -1450,16 +962,9 @@ occurrences each year in the United States. Therefore, future research should
 address the cues associated with the identiﬁcation of misunderstandings during
 readback exchanges.
 
-Conclusion
-
+Conclusion.
 Using an international sample of hydroelectric power generation operators, it was
 established that a shorter ﬁlled delay preceding a full readback response, and a
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-536
-
 shorter ﬁlled delay, ﬁnal intonation, and interturn delay, when contained within
 partial readback responses, are important prosodic cues used during perceptions
 of nonunderstanding. The semantic content of the communicative exchange also
@@ -1467,308 +972,3 @@ affected perceptions of nonunderstanding and inﬂuenced the extent to which a
 full or partial readback response affected ratings of nonunderstanding. The out-
 comes of this study have implications for training and system design in technical
 environments.
-
-REFERENCES
-Air Accidents Investigation Branch. (2008). Boeing 737-500, SP-LKA (Report No. EW/C2007/06/02).
-Retrieved from http://www.aaib.gov.uk/publications/bulletins/june_2008/boeing_737_500__
-sp_lka.cfm
-
-Australian Transport Safety Bureau. (2007). Radiotelephony readback compliance and its relationship
-to surface movement control frequency congestion (Investigation Report No. B2006/0053).
-Retrieved from http://www.atsb.gov.au/media/29962/b20060053.pdf
-
-Auton, J. C., Wiggins, M. W., Searle, B. J., Loveday, T., & Xu Rattanasone, N. (2013). Prosodic cues
-used during perceptions of nonunderstandings in radio communication. Journal of Communi-
-cation, 63, 600–616. doi:10.1111/jcom.12033
-
-Baggaley, A. R., & Hull, A. L. (1983). The effect of nonlinear transformation on a Likert scale.
-
-Evaluation & Health Professions, 6, 483–491.
-
-Barshi, I., & Farris, C. (2013). Misunderstandings in ATC communication: Lanugage, cognition, and
-
-experimental methodolgy. Burlington, VT: Ashgate.
-
-Billings, C. E., & Cheaney, E. S. (1981). The information transfer problem: Summary and comments.
-In C. E. Billings & E. S. Cheaney (Eds.), Information transfer problems in the aviation system
-(Report No. NASA TP-1875). Washington, DC: National Aeronautics and Space Administra-
-tion.
-
-Billings, C. E., & Reynard, W. D. (1981). Dimensions of the information transfer problem. In
-C. E. Billings & E. S. Cheaney (Eds.), Information transfer problems in the aviation system
-(Report No. NASA TP-1875). Washington, DC: National Aeronautics and Space Administra-
-tion.
-
-Bolinger, D. (1985). Intonation and its parts. London: Edward Arnold.
-Brennan, S. E., & Williams, M. (1995). The feeling of another’s knowing: Prosody and ﬁlled pauses as
-cues to listeners about the metacognitive states of speakers. Journal of Memory and Language,
-34, 383–398. doi:10.1006/jmla.1995.1017
-
-Cardosi, K. M. (1993). An analysis of en route controller–pilot voice communications (Report No.
-DOT/FAA/RD-93/11). Washington, DC: Research and Development Administration Trans-
-portation Systems Center.
-
-Cariﬁo, J., & Perla, R. J. (2007). Ten common misunderstandings, misconceptions, persistent myths
-and urban legends about Likert scales and Likert response formats and their antidotes. Journal
-of Social Sciences, 3, 106–116. doi:10.3844/jssp.2007.106.116
-
-Chiang, H.-Y., & Pepper, G. A. (2006). Barriers to nurses’ reporting of medication administra-
-tion errors in Taiwan. Journal of Nursing Scholarship, 38, 392–399. doi:10.1111/j.1547-
-5069.2006.00133.x
-
-Clark, H. H. (1994). Managing problems in speaking. Speech Communication, 15, 243–250.
-
-doi:10.1016/0167-6393(94)90075-2
-
-Clark, H. H., & Brennan, S. E. (1991). Grounding in communication. In L. B. Resnick, J. M. Levine,
-& S. D. Teasley (Eds.), Perspectives on socially shared cognition (pp. 127–149). Washington,
-DC: American Psychological Association.
-
-Clark, H. H., & Fox Tree, J. E. (2002). Using uh and um in spontaneous speaking. Cognition, 84,
-
-73–111. doi:10.1016/S0010-0277(02)00017-3
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-537
-
-Clark, H. H., & Schaefer, E. F. (1987). Collaborating on contributions to conversations. Language and
-
-Cognitive Processes, 2, 19–41. doi:10.1080/01690968708406350
-
-Clark, H. H., & Schaefer, E. F. (1989). Contributing to discourse. Cognitive Science, 13, 259–294.
-
-doi:10.1207/s15516709cog1302_7
-
-Clark, H. H., & Wilkes-Gibbs, D. (1986). Referring as a collaborative process. Cognition, 22, 1–39.
-
-doi:10.1016/0010-0277(86)90010-7
-
-Coderre, S., Mandin, H., Harasym, P. H., & Fick, G. H. (2003). Diagnostic reasoning strategies and
-diagnostic success. Medical Education, 37, 695–703. doi:10.1046/j.1365-2923.2003.01577.x
-Cruttenden, A. (1981). Falls and rises: Meanings and universals. Journal of Linguistics, 17, 77–91.
-
-doi:10.1017/S0022226700006782
-
-Cushing, S. (1994). Fatal words: Communication clashes and aircraft crashes. Chicago: University of
-
-Chicago Press.
-
-Cushing, S. (1995). Pilot–air trafﬁc control communications: It’s not (only) what you say, it’s how you
-
-say it. Flight Safety Digeset, 14, 1–10.
-
-Dascal, M., & Berenstein, I. (1987). Two modes of understanding: Comprehending and grasping.
-
-Language and Communication, 7, 139–151. doi:10.1016/0271-5309(87)90004-8
-
-Davidson, J. (1984). Subsequent versions of invitations, offers, requests, and proposals dealing with
-potential or actual rejection. In J. M. Atkinson & J. Heritage (Eds.), Structures of social action:
-Studies in conversation analysis (pp. 102–128). Cambridge: Cambridge University Press.
-
-Denes, P., & Milton-William, J. (1962). Further studies in intonation. Language and Speech, 5, 1–14.
-
-doi:10.1177/002383096200500101
-
-Drummond, K., & Hopper, R. (1991). Misunderstanding and its remedies: Telephone miscommuni-
-cation. In N. Coupland, H. Giles, & J. Wiemann (Eds.), “Miscomunication” and problematic
-talk (pp. 301–314). Newbury Park, CA: Sage.
-
-Fay, N., Page, A. C., & Serfaty, C. (2010). Listeners inﬂuence speakers’ perceived communica-
-tion effectiveness. Journal of Experimental Social Psychology, 46, 689–692. doi:10.1016/
-j.jesp.2010.02.012
-
-Federal Aviation Administration. (2014). Aeronautical
-
-information manual. Washington, DC:
-Government Printing Ofﬁce. Retrieved from http://www.faa.gov/air_trafﬁc/publications/
-atpubs/aim/index.htm
-
-Federal Aviation Administration. (2015). Air trafﬁc organization policy (Report No. JO 7110.65W).
-
-Retrieved from https://www.faa.gov/documentLibrary/media/Order/ATC.pdf
-
-Gary, M. S., & Wood, R. E. (2011). Mental models, decision rules and performance heterogeneity.
-
-Strategic Management Journal, 594, 569–594. doi:10.1002/smj.899
-
-Goldman-Eisler, F. (1961). A comparative study of two hesitation phenomena. Language and Speech,
-
-4, 18–26. doi:10.1177/002383096100400102
-
-Greenberg, C. C., Regenbogen, S. E., Studdert, D. M., Lipsitz, S. R., Rogers, S. O., Zinner, M. J.,
-& Gawande, A. A. (2007). Patterns of communication breakdowns resulting in injury to
-surgical patients. Journal of the American College of Surgeons, 204, 533–540. doi:10.1016/j.
-jamcollsurg.2007.01.010
-
-Hirst, G., McRoy, S., Heeman, P., Edmonds, P., & Horton, D. (1994). Repairing conversational mis-
-understandings and non-understandings. Speech Communication, 15, 213–229. doi:10.1016/
-0167-6393(94)90073-6
-
-Hunter, M. (2004). The music is the message: Prosody in aviation discourse. In M. A. Turney (Ed.),
-Tapping diverse talent in aviation: Culture, gender, and diversity (pp. 129–151). Hampshire:
-Ashgate.
-
-International Civil Aviation Organization. (2007). Manual of radiotelephony (Report No. Doc 9432
-AN/925). Retreived from http://www.aeroclubvercelli.it/download/Manual%20of%20RT%
-20DOC%209432%20-%204%20ed.%202007.pdf
-
-Jefferson, G. (1989). Preliminary notes on a possible metric which provides for a “standard maximum”
-silence of approximately one second in conversation. In D. Roger & P. Bull (Eds.), Conversa-
-tion: An interdisciplinary perspective (pp. 166–196). Clevedon: Multilingual Matters.
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-538
-
-Jones, R. K. (2003). Miscommunication between pilots and air trafﬁc control. Language Problems and
-
-Language Planning, 27, 233–248. doi:10.1075/lplp.27.3.03jon
-
-Kanki, B. G., & Smith, G. M. (2001). Training aviation communication skills. In E. Salas, C. A. Bow-
-ers, & E. Edens (Eds.), Improving teamwork in organizations (pp. 31–54). Mahwah, NJ:
-Erlbaum.
-
-Kendrick, K. H., & Torreira, F. (2015). The timing and construction of preference: A quantitative
-
-study. Discourse Processes, 52, 255–289. doi:10.1080/0163853X.2014.955997
-
-Keysar, B., & Henly, A. S. (2002). Speakers’ overestimation of their effectiveness. Psychological
-
-Science, 13, 207–212. doi:10.1111/1467-9280.00439
-
-Kim, H. (2002). The form and function of next-turn repetition in English conversation. Language
-
-Research, 38, 51–81.
-
-Kim, S., Park, J., Han, S., & Kim, H. (2010). Development of extended speech act coding scheme
-to observe communication characteristics of human operators of nuclear power plants under
-abnormal conditions. Journal of Loss Prevention in the Process Industries, 23, 539–548.
-doi:10.1016/j.jlp.2010.04.005
-
-Litchﬁeld, D., Ball, L. J., Donovan, T., Manning, D. J., & Crawford, T. (2010). Viewing another person’s
-eye movements improves identiﬁcation of pulmonary nodules in chest x-ray inspection. Journal
-of Experimental Psychology: Applied, 16, 251–262. doi:10.1037/a0020082
-
-Maurer, T. J., & Pierce, H. R. (1998). A comparison of Likert scale and traditional measures of
-
-self-efﬁcacy. Journal of Applied Psychology, 83, 324–329.
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for
-
-processing information. Psychological Review, 63, 81–97. doi:10.1037/h0043158
-
-Morrow, D., Lee, A., & Rodvold, M. (1993). Analysis of problems in routine controller–pilot
-communication. International Journal of Aviation Psychology, 3, 285–302. doi:10.1207/
-s15327108ijap0304_3
-
-Morrow, D., Rodvold, M., & Lee, A. (1994). Nonroutine transactions in controller–pilot communica-
-
-tion. Discourse Processes, 17, 235–258. doi:10.1080/01638539409544868
-
-Nevile, M., & Walker, M. B. (2005). Analysis of crew conversations provides for accident investigation.
-
-Flight Safety Digest, 24, 1–32.
-
-Norrick, N. (1987). Functions of repetition in conversation. Text, 7, 245–264.
-Nygaard, L. C., Herold, D. S., & Namy, L. L. (2009). The semantics of prosody: Acoustic and
-perceptual evidence of prosodic correlates to word meaning. Cognitive Science, 33, 127–146.
-doi:10.1111/j.1551-6709.2008.01007.x
-
-O’Connor, J. D., & Arnold, G. F. (1961). Intonation of colloquial English. London: Longman.
-Orasanu, J., & Connolly, T. (1993). The reinvention of decision making. In G. A. Klein, J. Orasanu,
-R. Calderwood, & C. E. Zsambok (Eds.), Decision making in action: Models and methods (pp.
-3–20). Norwood, NJ: Ablex.
-
-Prabhakar, H., Cooper, J. B., Sabel, A., Weckbach, S., Mehler, P. S., & Stahel, P. F. (2012). Introducing
-standardized “readbacks” to improve patient safety in surgery: A prospective survey in 92
-providers at a public safety-net hospital. BMC Surgery, 12, 1–8. doi:10.1186/1471-2482-12-8
-Prinzo, O. V., & Britton, T. W. (1993). ATC/pilot voice communications: A survey of the literature
-
-(Report No. DOT/FAA/AM-93/20). Washington, DC: Ofﬁce of Aviation Medicine.
-
-Prinzo, O. V., Hendrix, A. M., & Hendrix, R. (2006). The outcome of ATC message complexity on pilot
-readback performance (Report No. DOT/FAA/AM-06/25). Oklahoma City, OK: FAA Civil
-Aerospace Medical Institute.
-
-Roberts, F., & Francis, A. L. (2013). Identifying a temporal threshold of tolerance for silent
-gaps after requests. Journal of the Acoustical Society of America, 133, EL471–EL477.
-doi:10.1121/1.4802900
-
-Roberts, F., Francis, A. L., & Morgan, M. (2006). The interaction of inter-turn silence with prosodic
-cues in listener perceptions of “trouble” in conversation. Speech Communication, 48, 1079–
-1093. doi:10.1016/j.specom.2006.02.001
-
-Applied Psycholinguistics 38:3
-Auton et al.: Auditory cues and perceptions of nonunderstandings
-
-539
-
-Roberts, F., Margutti, P., & Takano, S. (2011). Judgments concerning the valence of inter-turn silence
-across speakers of American English, Italian, and Japanese. Discourse Processes, 48, 331–354.
-doi:10.1080/0163853X.2011.558002
-
-Robinson, J. D. (2013). Epistemics, action formation, and other-initiation of repair: The case of partial
-questioning repeats. In M. Hayashi, G. Raymond, & J. Sidnell (Eds.), Conversational repair
-and human understanding (pp. 261–292). New York: Cambridge University Press.
-
-Schegloff, E. A. (1987). Recycled turn beginnings: A precise repair mechanism in conversation’s
-turn-taking organisation. In G. Button & J. R. E. Lee (Eds.), Talk and social organisation
-(pp. 70–85). Clevedon: Multilingual Matters.
-
-Schegloff, E. A. (1997). Practice and actions: Boundary cases of other-initiated repairs. Discourse
-
-Processes, 23, 499–545. doi:10.1080/01638539709545001
-
-Schegloff, E. A. (2000). When “others” initiate repair. Applied Linguistics, 21, 205–243. doi:10.1093/
-
-applin/21.2.205
-
-Schegloff, E. A. (2007). Sequence organization in interaction: A primer in conversation analysis. New
-
-York: Cambridge University Press.
-
-Schegloff, E. A., Jefferson, G., & Sacks, H. (1977). The preference for self-correction in the organiza-
-
-tion of repair in conversation. Language, 53, 361–382. doi:10.1353/lan.1977.0041
-
-Schneider, V. I., Healy, A. F., & Barshi, I. (2004). Effects of instruction modality and readback on
-accuracy in following navigation commands. Journal of Experimental Psychology: Applied,
-10, 245–257. doi:10.1037/1076-898X.10.4.245
-
-Shimojima, A., Katagiri, Y., Koiso, H., & Swerts, M. (2002). Informational and dialogue-coordinating
-functions of prosodic features of Japanese echoic responses. Speech Communication, 36, 113–
-132. doi:10.1016/S0167-6393(01)00029-2
-
-Skantze, G. (2005). Exploring human error recovery strategies: Implications for spoken dialogue
-
-systems. Speech Communication, 45, 325–341. doi:10.1016/j.specom.2004.11.005
-
-Smeeton, N. J., Williams, A. M., Hodges, N. J., & Ward, P. (2005). The relative effectiveness of various
-instructional approaches in developing anticipation skill. Journal of Experimental Psychology:
-Applied, 11, 98–110. doi:10.1037/1076-898X.11.2.98
-
-Soskin, W. F. (1953). Symposium: Communication in the counselling situation. American Psychologist,
-
-8, 272.
-
-Streitenberger, K., Breen-Reid, K., & Harris, C. (2006). Handoffs in care—Can we make them safer?
-Pediatric Clinics of North Americalinics of North America, 53, 1185–1195. doi:10.1016/
-j.pcl.2006.09.010
-
-Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. Cognitive Science, 12,
-
-257–285. doi:10.1016/0364-0213(88)90023-7
-
-Tannen, D. (l987). Repetition in conversation: Toward a poetics of talk. Language, 63, 574–605.
-Weigand, E. (1999). Misunderstanding: The standard case. Journal of Pragmatics, 31, 763–785.
-
-doi:10.1016/S0378-2166(98)00068-X
-
-Wiggins, M. W., & O’Hare, D. (2003). Weatherwise: Evaluation of a cue-based training approach for
-the recognition of deteriorating weather conditions during ﬂight. Human Factors, 45, 337–345.
-doi:10.1518/hfes.45.2.337.27246
-
-

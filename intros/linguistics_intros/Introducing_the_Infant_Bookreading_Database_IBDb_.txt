@@ -1,125 +1,45 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-This is an Open Access article, distributed under the terms of the Creative Commons
-Attribution licence (http://creativecommons.org/licenses/by/./), which permits
-unrestricted re-use, distribution, and reproduction in any medium, provided the
-original work is properly cited.
-doi:./S
-
-Introducing the Infant Bookreading Database (IBDb)*
-
-CARLA L. HUDSON KAM A N D LISA MATTHEWSON
-
-Department of Linguistics, University of British Columbia
-
-(Received  February  – Revised  July  – Accepted  September  –
-
-First published online  November )
-
-A B S T R A C T
-
-Studies on the relationship between bookreading and language
-development typically lack data about which books are actually read
-to children. This paper reports on an Internet survey designed to
-address this data gap. The resulting dataset (the Infant Bookreading
-Database or IBDb)
-includes responses from , caregivers of
-children aged – months who answered questions about
-the
-English-language books they most commonly read to their children.
-The inclusion of demographic information enables analysis of subsets
-of data based on age, sex, or caregivers’ education level. A comparison
-between our dataset and those used in previous analyses reveals that
-there is relatively little overlap between booklists gathered from proxies
-such as bestseller lists and the books caregivers reported reading to
-children in our survey. The IBDb is available for download for use by
-researchers at <http://linguistics.ubc.ca/ubc-ibdb/>.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 Books have long been recognized as a source of input for children learning
 language in cultures with widespread literacy. Investigations into the
 relationship between books and language development have typically been
 of two types. One is research showing a relationship between frequency of
 children’s book experiences and broad measures of language development
 such as literacy or preliteracy skills (see Bus, van IJzendoorn & Pellegrini,
-
-[*] This research was supported in part by a grant from the UBC Oﬃce of the Vice-President
-Research and International SSHRC Reapplication Assistance Fund. We thank Macaela
-MacWilliams and Alannah Turner for their assistance in compiling and cleaning the
-dataset. Address
-correspondence: Carla L. Hudson Kam, Department of
-Linguistics,  West Mall, The University of British Columbia, V T Z. e-mail:
-Carla.HudsonKam@ubc.ca
-
-for
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
 , for a review) or vocabulary size (e.g. Lyytinen, Laasko & Poikkeus,
 ; Raikes et al., ; see Fletcher & Reese, , for a review).
-Second are studies examining the occurrence of speciﬁc linguistic elements
-in children’s books,
-for
+Second are studies examining the occurrence of specific linguistic elements
+in children’s books, trying to link them directly to knowledge; for
 instance, there are recent studies showing that children’s books contain
-more
-spoken input
+more complex sentence structures than naturalistic spoken input
 (Cameron-Faulkner & Noble, ), and that there exists a correlation
 between text exposure and the production of more complex syntactic
 structures (Montag & MacDonald, ).
-
-trying to link them directly to knowledge;
-
-complex sentence
-
-than naturalistic
-
-structures
-
 This latter kind of investigation ultimately relies on knowing the actual
 books children are being read. However, examinations of children’s books
 have not typically been done with access to this information. Instead,
 proxies for this information have been used in selecting the books for
 examination. Cameron-Faulkner and Noble (), for instance, used sales
-information to select books
-examination, while Montag and
-MacDonald () analyzed corpus data (speciﬁcally,
-the Corpus of
+information to select books for examination, while Montag and
+MacDonald () analyzed corpus data (specifically, the Corpus of
 Contemporary American English, Davies, –). Although this way of
 selecting text for analysis can tell us a great deal about the overall nature
-of the language that is generally contained in children’s books,
-it is
-diﬃcult to make any more speciﬁc claims, given that the books that
+of the language that is generally contained in children’s books, it is
+difficult to make any more specific claims, given that the books that
 children have are not necessarily the books that they are read. One must
 also take into account the fact that children’s books, even ones targeted to
-the same age range, can diﬀer in the amount and nature of text they
+the same age range, can differ in the amount and nature of text they
 contain, sometimes in ways which are predictable due to genre. For
 instance, storybooks contain complete sentences, whereas word books are
 often pictures accompanied by single words labelling the pictures, and
 storybooks expose children to culturally normative narrative structures
-whereas information books may not. Moreover, genre diﬀerences carry
-with them interactional
-input
+whereas information books may not. Moreover, genre differences carry
+with them interactional implications that can further affect input
 (Nyhout & O’Neill, ; cf. Leech & Rowe, ). For instance, there is
 evidence that there is more variability in what parents say when reading
 vocabulary-focused books as compared to storybooks (Price, Van Kleeck &
 Huberty, ). Thus, having a more accurate picture of the books
 children are being read would be useful for researchers interested in the
 potential role of bookreading activities in language development.
-
-can further
-
-implications
-
-aﬀect
-
-for
-
-that
-
 To this end we conducted an Internet survey of parents and caregivers,
 asking about the English-language books they frequently read to their
 children. Because of the linguistic features we are ultimately interested in
@@ -128,110 +48,70 @@ survey targeted people reading to children aged – months, an age
 group we know relatively little about in terms of bookreading (Fletcher &
 Reese, ). This short notice is a description of the resulting dataset,
 which is available to researchers in multiple formats at the following
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
-web-address: <http://linguistics.ubc.ca/ubc-ibdb/>, or by request
-from
-the ﬁrst author. It is hosted by the Department of Linguistics at the
+web-address: <http://linguistics.ubc.ca/ubc-ibdb/>, or by request from
+the first author. It is hosted by the Department of Linguistics at the
 University of British Columbia and there is a commitment to retain
 the link permanently. We ask that people cite this report when using the
 database.
-
-D E S C R I P T I O N O F T H E D A T A B A S E
-Data collection
+<Middle>
+DESCRIPTION OF THE DATABASE.
+Data collection.
 The survey was conducted beginning in January of  through to June of
 . The invitation to participate was posted on a lab website, which
-described the study brieﬂy and contained a link to the actual survey at
+described the study briefly and contained a link to the actual survey at
 FluidSurveys.com. (FluidSurveys is a Canadian company, and all their
 data are hosted at a site in Canada, in accordance with the requirements of
 our IRB.) The study was described as being about children’s books in
 English for parents and caregivers of children ages – months. It did
-not speciﬁcally mention picture books. The link to the lab webpage was
+not specifically mention picture books. The link to the lab webpage was
 circulated via the lab’s Twitter account, and from there it was recirculated
 via Twitter and Facebook by other Twitter and Facebook users. Although
 many of the initial recirculaters were friends and family, the invitation was
-also recirculated by people we did not know,
-including more generic
-Twitter accounts (i.e. accounts not associated with a speciﬁc person’s name).
-
-Overview of survey questions
-The survey ﬁrst asked participants to list the ﬁve books they currently most
+also recirculated by people we did not know, including more generic
+Twitter accounts (i.e. accounts not associated with a specific person’s name).
+Overview of survey questions.
+The survey first asked participants to list the five books they currently most
 frequently read to their child. There was another place where the respondent
 could list any other books they frequently read to their child. Then the
-information about
-frequently read books was used to
+information about the five most frequently read books was used to
 populate further questions asking about their reading habits for each book.
-Speciﬁcally, participants were asked how much they stick to the text on
+Specifically, participants were asked how much they stick to the text on
 the page versus say things not written in the book. They provided this
-additional information (about reading habits) for each of the ﬁve most
+additional information (about reading habits) for each of the five most
 frequently read books individually. They did not provide this additional
 information for any extra books they listed.
-
-the ﬁve most
-
 Participants were also asked questions about the child’s age (in -month
-increments), sex, gestational status (full-term or not), and about
-the
+increments), sex, gestational status (full-term or not), and about the
 occurrence of any hearing, language, or cognitive diagnoses. (We use the
 term sex here as a child’s primary sexual characteristics are more apparent
 than their gender at this age.) We also asked about the child’s language
-production (which might be expected to inﬂuence book choices) to get a
-very general
-language development.
-Speciﬁcally we asked whether the child was (i) producing any words,
+production (which might be expected to influence book choices) to get a
+very general sense of the child’s level of language development.
+Specifically we asked whether the child was (i) producing any words,
 (ii) producing more than ten understandable words, (iii) producing any
-
-sense of
-
-level of
-
-the
-
-child’s
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
 two-word sequences, and (iv) producing any sequences of more than three
 words. The four language production questions were in a Y/N format.
-
 We also asked questions about the respondent: their gender, age, and level
-of education. The speciﬁc wording of each question appears in Appendix A.
-
-Responses
+of education. The specific wording of each question appears in Appendix A.
+Responses.
 The database that is posted on-line contains , responses. , of these
 are fully complete (meaning they answered the questions about the child and
 the respondent, and entered at least one English book title). Thirty-four
-responses were missing some or all of
-the
+responses were missing some or all of the information about the
 respondent, but had complete information on the child. Four were missing
 some information about both the child and the respondent. All in all,
 there are , responses with complete information about the child and at
 least one book.
-
-the information about
-
 We did not restrict the questionnaire to respondents who were in any
-speciﬁc geographic location, but it was clear that we were interested in
+specific geographic location, but it was clear that we were interested in
 books in English. IP information (not included in the database) indicates
 that most of the responses came from North America, although there were
 numerous responses from people in other countries as well, mostly
 predominantly English-speaking countries (e.g. Australia, New Zealand),
 but not entirely. Some respondents included non-English book titles in
-their ﬁve most frequently read books. Those titles are not included in the
+their five most frequently read books. Those titles are not included in the
 released data.
-
-Brief overview of the data
+Brief overview of the data.
 The data were not collected from a random sample; rather, respondents
 tended to be people we knew, people who knew the people we knew,
 people who knew those people, etc., in addition to being people who read
@@ -243,167 +123,50 @@ family were possibly more likely to complete and recirculate the survey
 invitation and link, at least initially, and given the nature of our immediate
 circle of friends and family (e.g. high SES), it is important to understand
 the distributional properties of the data.
-
 Children. Five hundred and ninety-one of the responses were from
 caregivers of boys and  responses were from caregivers of girls. Table 
 shows the age distribution by child sex. Age information was not provided
 for two children: one boy and one girl. The other questions about the
 child are incomplete for three boys – one aged – months, one aged
-– months, and one aged – months – and ﬁve girls – two aged
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
-TA B L E . Number of children in each age category (in months) by sex
-
-Age category
-
-Sex of child
-Boy
-Girl
-
-Boy
-Girl
-
-Boy
-Girl
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
-–
-
-
-
+– months, and one aged – months – and five girls – two aged
 – months, one aged – months, one aged – months, and one aged
 – months.
-
 Sex information was not supplied for four children. One was in the –
 months age group, one was in the – months group, one was in the
 – months group, and the fourth was in the – months age group.
-These children are not
-the child
+These children are not included in Table . The rest of the child
 information is complete for these four children.
-
-included in Table . The rest of
-
-One thousand and thirty-six of the children were born full-term. Twenty-
-six had been identiﬁed as having a diagnosed hearing, language, or cognitive
+One thousand and thirty-six of the children were born full-term. Twentysix
+had been identified as having a diagnosed hearing, language, or cognitive
 delay. This information was not provided for two of the children (both girls).
 Eight hundred and forty-eight of the children were producing at least some
 words, with  producing more than ten understandable words. Two
-hundred and ﬁfty-seven children were not yet producing any words. Five
-hundred and eighty-three of
-the children were producing two-word
-sequences at
-the children were
+hundred and fifty-seven children were not yet producing any words. Five
+hundred and eighty-three of the children were producing two-word
+sequences at the time of the survey, and  of the children were
 producing sequences of more than three words. Some of the language
 development information was missing for seven of the children (three
 boys, four girls).
-
-the survey, and  of
-
-the time of
-
 Parents/caregivers. This is the biggest source of missing information,
 although most of the parents/caregivers did provide this information; some
 or all of the information about the respondent is missing for only eighteen
 of the boys and nineteen of the girls, and one child whose sex was not
-speciﬁed. One thousand and seventy-three parents/caregivers provided
-information about their gender; , identiﬁed themselves as female, 
+specified. One thousand and seventy-three parents/caregivers provided
+information about their gender; , identified themselves as female, 
 as male, and one selected other. Thus, there are not enough non-female
 respondents in the dataset to be able to carry out meaningful comparisons
-based on parent/caregiver gender. The ages of
-the respondents who
+based on parent/caregiver gender. The ages of the respondents who
 answered the age question are as follows:  parents/caregivers were under
 ,  were – years of age,  were –,  were –,  were
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
 –,  were –,  were –, and one was over . The educational
 level of the sample was highly non-representative of the general population
 in North America – % of our respondents who answered the question
 about education had completed a bachelor’s degree or higher, which
 contrasts with a rate of % for the population in Canada (Statistics
 Canada, ) and around % for the United States (United States
-Census Bureau, ),
-the two countries from which most of our
+Census Bureau, ), the two countries from which most of our
 responses came. Note that the ages included in the data from the two
-countries are slightly diﬀerent, both from each other, and from the age
+countries are slightly different, both from each other, and from the age
 categories we used in our questionnaire. The Canadian data only include
 adults aged – from  (Statistics Canada, ), while the US data
 are for adults aged  years and above (United States Census Bureau,
@@ -411,25 +174,23 @@ are for adults aged  years and above (United States Census Bureau,
  years of age. (We do not know the location of all respondents. We did
 not ask about location; however, the program sometimes, but not always,
 automatically supplied it, presumably on the basis of the IP address. As
-we did not ask any questions about location, it is not part of the oﬃcial
-dataset, and so information about respondents’
-locations is not being
+we did not ask any questions about location, it is not part of the official
+dataset, and so information about respondents’ locations is not being
 shared.) No respondent had only completed elementary school. For 
 respondents the highest level of education completed was high school. One
-hundred and ﬁfty-four respondents had completed some higher education
+hundred and fifty-four respondents had completed some higher education
 and  had completed a Bachelor’s degree. Three hundred and seven
 respondents had completed a Master’s degree of some kind, while  had
 a PhD. A further  had completed a professional post-graduate degree.
-
 Books. The book responses appearing in the posted dataset are the result of
 some data cleaning and organization. First, research assistants went through
 the survey, looking for book titles that appeared to be the same despite being
-entered in the survey diﬀerently by diﬀerent respondents. When such
+entered in the survey differently by different respondents. When such
 examples were found the titles were adjusted to be consistent. An example:
 some respondents typed “The Very Hungry Caterpillar” and others typed
 “Very Hungry Caterpillar”. Instances of Very Hungry Caterpillar were
 adjusted to read The Very Hungry Caterpillar. Then authors’ names were
-entered into the dataset. Some titles are too generic to deﬁnitively associate
+entered into the dataset. Some titles are too generic to definitively associate
 with an author – there are numerous children’s books available with that
 title and none are common, or there is no title that is a complete match.
 In such cases, no author name was entered. Occasionally respondents
@@ -438,77 +199,53 @@ rule. When they did so, this information was retained. In several instances
 respondents provided authors for titles that would otherwise have been too
 generic to assign an author to. The result of this is that books with the
 same title appear in the dataset with and without authors. (In one instance
-only, these rules resulted in a title being associated with two diﬀerent
+only, these rules resulted in a title being associated with two different
 authors; it was a well-known children’s title and so all instances of the title
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
 reported without an author were associated with the well-known version of
 the title, but the one instance where an author’s name was provided was
 retained. Presumably the respondent provided the author’s name because
 it was not the more common book of the same name.) Sometimes the
 author information is actually publisher/series information that is part of
 the title rather than true authorship, e.g. “Usborne” or “Scholastic”, as
-this was sometimes enough to deﬁnitively identify the book. Sometimes
+this was sometimes enough to definitively identify the book. Sometimes
 respondents entered series names rather than individual book titles. That
 information is retained, and whenever possible author/publisher names are
 provided for series. Books entirely in languages other than English were
-removed from the dataset, as the survey speciﬁcally asked about books in
+removed from the dataset, as the survey specifically asked about books in
 English; bilingual books were not removed.
-
-things
-
-thirteen are
-
 There are , unique entries, , of which are either titles of or
 references to a single book or a series title. (Not every respondent listed
-like “library book”,
-ﬁve books.) The other
+five books.) The other thirteen are things like “library book”,
 “newspaper”, or “custom made book”. One thousand six hundred and
-seventeen of the titles are uniquely identiﬁable, at least in terms of their
+seventeen of the titles are uniquely identifiable, at least in terms of their
 text. A small number of the titles in the dataset do not have accompanying
 author or publisher information; sometimes their unique identity was clear
 from the title (e.g. National Geographic’s Special Dinosaur Issue), or
-author/publisher information was diﬃcult to discern but its lack did not
+author/publisher information was difficult to discern but its lack did not
 make the identity of the book unclear (e.g. Goodnight My Sweet Pea).
-Within these , titles, , are also identiﬁable as to their likely
+Within these , titles, , are also identifiable as to their likely
 version, while  are not: Cars Look and Find by Disney, Twas the Night
-before Christmas, and Baby Beluga. This is relevant
-for researchers
+before Christmas, and Baby Beluga. This is relevant for researchers
 interested in illustrations rather than / in addition to text. There are an
-additional  titles that are not identiﬁable. These include very generic
+additional  titles that are not identifiable. These include very generic
 titles like “Planes” as well as titles like “Peek-a-boo Elmo: Puppies” that
-we could not ﬁnd a match for. There are seventy-ﬁve series or periodicals
+we could not find a match for. There are seventy-five series or periodicals
 listed, many accompanied by author information. These range from things
 like “Little Golden books”, which encompasses a range of stories, and
 “Touch and feel books”, which again covers a number of books by the
 same publisher but this time united by a theme, to things like “Maisy
 book series” and “Sandra Boynton books”, where the author is the same
-for all books in the series, even though the stories diﬀer. Note that entries
-are not coded as unidentiﬁed or series in the dataset; entries that we are
+for all books in the series, even though the stories differ. Note that entries
+are not coded as unidentified or series in the dataset; entries that we are
 counting as series or periodicals in this description are plural (e.g. “Sandra
-Boynton books”), and entries that are not identiﬁed have no accompanying
+Boynton books”), and entries that are not identified have no accompanying
 author or publisher information. Thus, we left the information provided
 by respondents in the dataset even when it did not refer to a uniquely
-identiﬁable title.
-
+identifiable title.
 While we will not provide much in the way of in-depth analysis of the data
 here (as our intention is instead to provide the dataset to people who might
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
 be interested in doing just that), we did do some exploration of the data to get
-a sense of broad trends. One of the most striking things about the identiﬁable
+a sense of broad trends. One of the most striking things about the identifiable
 titles is how much variation there is in which books children are hearing.
 Only one book was listed by more than  respondents; Goodnight Moon
 by M. Wise Brown was listed  times (·% of respondents). Two
@@ -519,26 +256,24 @@ do you See? by B. Martin and E. Carle (). Only four books were listed
 mentioned – times, and  books were listed – times. (No books
 were listed more than  but less than  times). Note that  responses
 equals just under % of our sample. The overwhelming majority of
-titles – , of the , uniquely identiﬁable book titles – were only
+titles – , of the , uniquely identifiable book titles – were only
 listed by one respondent. Figure  shows the number of books by the
 number of times the book was reported in the survey. Note that the x-axis
-treats numerosities as ordered categories with bins of diﬀering sizes; the
+treats numerosities as ordered categories with bins of differing sizes; the
 intention is to convey the variation without taking up too much space;
 were it to contain all numerosities from – as individual bins it would
 be too large (due to the number of empty categories).
-
 Continuing with an exploration at a database-wide level, we created a “top
 ” list. These are the  most frequently listed books. It turns out that, to
 be included in this list, a book only needed to be listed seven or more times.
 That means that books listed by less than % of the respondents are on this
 list, which appears in ‘Appendix B’. Note that this list is actually the 
-most frequent, since there was no way to non-artiﬁcially cap the list at 
+most frequent, since there was no way to non-artificially cap the list at 
 given the number of books – ten – listed seven times.
-
-The top  list only considers speciﬁc individual books, but there are
+The top  list only considers specific individual books, but there are
 series or sets of books that are also popular. For instance, fourteen
-respondents listed speciﬁc identiﬁable (but diﬀerent) Elmo books, and one
-listed “Elmo books”, which is counted as a series. Thus, while ﬁfteen
+respondents listed specific identifiable (but different) Elmo books, and one
+listed “Elmo books”, which is counted as a series. Thus, while fifteen
 children represented in the survey were being read Elmo books at the
 time, there was some variety in which Elmo book(s) they were hearing.
 There are several series that show the same pattern; any individual book is
@@ -549,22 +284,11 @@ one were interested in books as input, it would be reasonable to include a
 representative book from a series that is listed frequently even though no
 single book in the series is listed frequently enough to be included in a
 ‘most-frequently listed’ list.
-
-The questionnaire was designed to allow for more ﬁne-grained analysis,
+The questionnaire was designed to allow for more fine-grained analysis,
 for instance, by age and sex, and it may be the case that the high degree of
 variation in books being read is at least partially a function of changes in
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
-Fig. . Number of books by the number of times reported in the survey.
-
 what children are being read by age. As pointed out by one reviewer,
-children often get ﬁxated on a set of books, with this set of books shifting
+children often get fixated on a set of books, with this set of books shifting
 over time. (However, if all children are selecting their current favourites
 from the same larger set of books, which may or may not be the case, we
 would expect to see more similarity than we do, suggesting this isn’t
@@ -572,43 +296,28 @@ necessarily what is driving the variation.) Moreover, the degree to which
 the child her- or himself can select the books being read changes over the
 age range examined: a -month-old is read whatever books the parent
 selects, but a one-year old can be quite insistent about their choices.
-
 To look at this, we examined the percentage of children in each age group
 being read (i) one of the three most popular books (books listed more than
  times) and (ii) any book listed  or more times (or by at least ∼% of
 the sample), shown in Figure . (Of course, the second number subsumes
-the ﬁrst: if a child is being read a book listed more than  times they are
-by deﬁnition being read a book listed more than  times.) On the ﬁrst
-metric there do appear to be some diﬀerences in books by age; % of the
+the first: if a child is being read a book listed more than  times they are
+by definition being read a book listed more than  times.) On the first
+metric there do appear to be some differences in books by age; % of the
 children in the youngest age group are being read one of the three most
-in contrast to just over % of children aged –
-popular books,
-months. The diﬀerences are not as large when we consider all the books
+popular books, in contrast to just over % of children aged –
+months. The differences are not as large when we consider all the books
 listed  or more times, in contrast. These are quite popular with parents
 of the youngest children (almost % of the youngest children are being
 read a book listed more than  times) and remain quite popular even
 with the older children (·% of the children aged – months are
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
-Fig. . Percentage of children at each age being read a book reported more than
-
- times / more than  times.
-
 being read a book listed more than  times), who presumably have more
 personal choice over the books they are being read.
-
 Although the percentage of children being read books listed more than 
-times is fairly constant, there could of course be a lot of diﬀerences in which
+times is fairly constant, there could of course be a lot of differences in which
 particular books in that set children are hearing across the age groups. As this
 paper is not intended as an in-depth discussion of books by age, we will not
-break this down too ﬁnely, but we did look at how much of the ‘over ’
-children are the same or diﬀerent from the ‘over ’ children at the two
+break this down too finely, but we did look at how much of the ‘over ’
+children are the same or different from the ‘over ’ children at the two
 youngest and two oldest age groups. (We grouped two ages together at the
 youngest and the oldest ranges just to get a larger sample.) Considering
 the children aged – months of age, ·% of all the children in that age
@@ -625,47 +334,33 @@ What does this mean for analyses of children’s books? It suggests that any
 analysis that focuses on only the highly frequently reported books (i.e. those
 reported + times in this survey) will do a middling job at capturing the
 younger children’s input, as ·% of the youngest children in our survey
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
 were being read one of those three very frequently reported books. And it
 will do a poor job at capturing the older children’s input, as fewer than
 % of the children in this age group were being read one of the three
 books listed + times. However, an analysis of the books listed less
 frequently (i.e. more than  but less than  times) will capture the
 input children at all age ranges are receiving. This brief breakout analysis
-shows that the choice of books to analyze will aﬀect the generalizability of
-ﬁndings in diﬀerent ways for diﬀerent ages.
-
-A C O M P A R I S O N B E T W E E N O U R D A T A S E T A N D P R E V I O U S S E T S O F B O O K S
-
-A N A L Y Z E D
+shows that the choice of books to analyze will affect the generalizability of
+findings in different ways for different ages.
+<Conclusion>
+A COMPARISON BETWEEN OUR DATASET AND PREVIOUS SETS OF BOOKS
+ANALYZED.
 This leads to the question of how our dataset compares to lists that have been
 analyzed by recently published work interested in the link between books
 and language development. Previous lists of books did not include as
 many titles as we have in our list. Thus, we will present comparisons
-between their
-list overall, but we will also present
+between their lists and our list overall, but we will also present
 comparisons between the other lists and the most frequently provided
 books on our list at a level that makes sense given the number of books on
 the other list.
-
-lists and our
-
 Cameron-Faulkner and Noble () compiled a database of twenty books
 from the Amazon UK website bestsellers list to compare sentence types in
 child directed speech (CDS) and book text. Only two of the titles they
 analyzed appear in our top  titles: One Fish, Two Fish, Red Fish, Blue
 Fish by Dr Seuss (listed  times in our dataset) and Hug by J. Alborough
-(mentioned  times), and only six of
-their twenty books appeared
+(mentioned  times), and only six of their twenty books appeared
 anywhere in our dataset. One of the books they list is actually a collection
-of fairy tales and they note which speciﬁc ones they analyzed for their
+of fairy tales and they note which specific ones they analyzed for their
 study. Of those fairy tales, one is listed as a separate item eight times in
 our data (Three Little Pigs), another occurred six times in various forms in
 our dataset (Cinderella), another is listed three times (Little Red Riding
@@ -677,33 +372,18 @@ the books Cameron-Faulkner and Noble analyzed are not very popular
 with children aged – months or their caregivers, and so may not be the
 best books to analyze if one cares about the input children are actually
 hearing.
-
 One possible reason for the large discrepancy is the fact that Cameron-
 Faulkner and Noble () were using sales data from the UK Amazon
 site, whereas most of our respondents came from North America: it is
 entirely possible that the books which are popular in the two places are
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
-diﬀerent. As mentioned previously, although we did not ask for geographic
+different. As mentioned previously, although we did not ask for geographic
 information, sometimes the survey provider recorded it. Thus, it is possible
 to examine just the responses of respondents who were known to be in the
-UK. Keeping in mind that our conﬁrmed UK sample was quite small (N
-= ),
-the books analyzed by
+UK. Keeping in mind that our confirmed UK sample was quite small (N
+= ), it is interesting to note that none of the books analyzed by
 Cameron-Faulkner and Noble were listed by these respondents. Although
 people are clearly buying those books for children, they may not be ones
 children are hearing.
-
-is interesting to note that none of
-
-it
-
 Montag, Jones, and Smith () compared lexical diversity in CDS and
 children’s books. They selected  children’s books for analysis (p. )
 “from lists of librarian-recommended picture books, amazon.com best
@@ -713,7 +393,6 @@ method used by Cameron-Faulkner and Noble (), this seems to be a
 reasonable method for selecting a sample of books young children are
 hearing. However, we again see some mismatches between the books
 appearing in the IBDb and their sample.
-
 Montag et al.’s () database is larger than Cameron-Faulkner and
 Noble’s (), including  titles, and the overlap between our two
 datasets is greater. Sixty-two of their  books appear in our dataset, but
@@ -725,7 +404,6 @@ survey, only / of their books are even relatively frequent in our data
  of the books in their sample were mentioned once in our survey, a
 further  were mentioned twice,  were mentioned three times, and  titles
 were listed by four respondents.
-
 Another way to compare the lists is to start with our list and see whether
 the books that are listed most frequently by our respondents are on the lists
 of books other researchers have analyzed. The previous paragraphs provide
@@ -734,30 +412,20 @@ the top . These are books listed  or more times by our respondents.
 Twelve of our top  books were also in the Montag et al. () list; only
 one was in the list of books analyzed by Cameron-Faulkner and Noble
 ().
-
 We should point out that our survey targeted parents and caregivers of
 children aged – months. Cameron-Faulkner and Noble () state
 they were looking at books for two-year-olds, and Montag et al. ()
 were targeting books for children aged – months. So the three datasets
-are targeted at diﬀerent aged children. However, there is enough overlap
-that we do not think it likely that the diﬀering age targets are solely
-responsible for the diﬀerences in books included in the three datasets (e.g.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
+are targeted at different aged children. However, there is enough overlap
+that we do not think it likely that the differing age targets are solely
+responsible for the differences in books included in the three datasets (e.g.
 almost  of the children represented in our dataset are aged – months,
 i.e. more-or-less two-year-olds, and the entire age range is within the age
 range Montag et al., are concerned with). Note that we cannot look just at
 the number of two-year-olds given the age ranges in our age categories.
-The earliest two-year-old category is – months, including both one-
-and two-year-olds, and the oldest is – months, so including new
+The earliest two-year-old category is – months, including both oneand
+two-year-olds, and the oldest is – months, so including new
 three-year-olds as well.
-
 It is clear, then, that there is not a tremendous amount of overlap between
 the books in our dataset and those that have been used for previous analyses.
 Whether or not this is a problem is a separate question, and one we are not
@@ -767,54 +435,42 @@ the same type, the books in our dataset and those used in previous analyses
 may present children with fairly equivalent input, in terms of sentence
 complexity or lexical diversity, the variables the previous researchers were
 interested in.
-
 However, we know that children are read other kinds of books, especially
 word books. Importantly, these other kinds of books do show up in our
 dataset, in contrast to the other datasets; they are just either not in the top
  (and so weren’t mentioned in the comparisons just reported) or are
-not uniquely identiﬁed. For example, there were eight diﬀerent identiﬁed
+not uniquely identified. For example, there were eight different identified
 color/colour books mentioned (accounting for  responses in total) and
-ten diﬀerent identiﬁed word books (accounting for  responses in total)
+ten different identified word books (accounting for  responses in total)
 (e.g. Richard Scarry’s Best Word Book Ever). There were also twenty-eight
-mentions of colour/color books that could not be identiﬁed, and thirty-
-four non-identiﬁable mentions of word books (e.g. “First words”). Thus,
+mentions of colour/color books that could not be identified, and thirtyfour
+non-identifiable mentions of word books (e.g. “First words”). Thus,
 our dataset can provide a broader picture of what children are hearing in
 the books they are being read.
-
 Additionally, recall that we also asked parents whether and how much they
-stick to the text in the book for each of the ﬁve books they listed, something
-that clearly aﬀects the input children are receiving in bookreading sessions. It
+stick to the text in the book for each of the five books they listed, something
+that clearly affects the input children are receiving in bookreading sessions. It
 not clear how reliable this information is, as it was asking people to recall
 how they typically read a book, something they may not be very good at.
 In addition, this information was not provided by all respondents, or for
 every book each person listed. However, it is part of the dataset and so
-available to researchers interested in how reading practices might diﬀer by
+available to researchers interested in how reading practices might differ by
 age, language development, or book genre.
-
 Another advantage of our dataset is that it is possible to analyze subsets of
 the data, for example, books being read to preverbal versus verbal children,
 or boys versus girls. Or one can look at books being read to children at
-diﬀerent ages, or by parents with diﬀerent levels of education. It is these
+different ages, or by parents with different levels of education. It is these
 latter possibilities that we feel make the dataset so useful. The brief
 analysis we conducted above looking at the distribution of ‘popular’ or
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
 (somewhat) frequently listed books across age is an example of the potential
 of this kind of break-out analysis.
-
 One issue raised by the comparisons (and an anonymous reviewer) is the
 question of representativeness. That is, what does it mean for a sample of
 children’s books to be representative of books children are actually being
 exposed to? Previous researchers have taken pains to construct what
 seemed to be reasonable samples of books to analyze, yet their samples do
 not overlap much with the books listed frequently in our survey, even
-when ‘frequent’ was deﬁned very minimally (i.e. reported by less than %
+when ‘frequent’ was defined very minimally (i.e. reported by less than %
 of our sample). But is a book being read by less than % of our sample
 really any more representative than the books in the other lists analyzed?
 It’s not entirely clear how to answer that question other than to say that
@@ -830,7 +486,7 @@ out of the library (i.e. those included in the other analyses) are ones that
 are read once or twice to children but then not much thereafter. Thus,
 they would be books that children would receive less exposure to. Whether
 the books analyzed by Cameron-Faulkner and Noble and Montag et al.,
-are diﬀerent in any notable or input-relevant ways from the books listed
+are different in any notable or input-relevant ways from the books listed
 frequently (or at all) in our data is an empirical question but, going
 forward, it would seem to us to be more prudent to analyze books that we
 know for certain that at least some children are being read. Although we
@@ -844,673 +500,10 @@ children can exert some agency over the books they hear, this distinction
 becomes increasingly important. Therefore, any analysis concerned with
 books read to older children needs to consider the nature of the sampling
 technique more carefully than one looking at books read to younger children.
-
-C O N C L U S I O N
+CONCLUSION.
 Although we initially created this dataset to conduct our own research on a
-speciﬁc aspect of input and children’s books, we quickly realized the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
+specific aspect of input and children’s books, we quickly realized the
 potential the dataset had, and so decided to share it with the wider research
 community. It is our hope that this database (the Infant Bookreading
 Database or IBDb) will help researchers interested in children’s books,
 language acquisition, and input for many years to come.
-
-R E F E R E N C E S
-
-Bus, A. G., van IJzendoorn, M. H. & Pellegrini, A. D. (). Joint book reading makes for
-success in learning to read: a meta-Analysis on intergenerational transmission of literacy.
-Review of Educational Research , –.
-
-Cameron-Faulkner, T. & Noble, C. (). A comparison of book text and Child Directed
-
-Speech. First Language , –.
-
-Davies, M. (–). The Corpus of Contemporary American English:  million words, –
-
-Present. Online: <http://corpus.byu.edu/coca/>.
-
-Fletcher, K. L. & Reese, E. (). Picture book reading with young children: a conceptual
-
-framework. Developmental Review , –.
-
-Leech, K. A. & Rowe, M. L. (). A comparison of preschool children’s discussions with
-
-parents during picture book and chapter book reading. First Language , –.
-
-Lyytinen, P., Laasko, M. & Poikkeus, A. (). Parental contributions to child’s early
-language and interest in books. European Journal of Psychology of Education , –.
-Montag, J. L., Jones, M. N. & Smith, L. B. (). The words children hear: picture books
-
-and the statistics for language learning. Psychological Science , –.
-
-Montag, J. L. & MacDonald, M. C. (). Text exposure predicts spoken production of
-complex sentences in eight and twelve year old children and adults. Journal of
-Experimental Psychology: General , –.
-
-Nyhout, A. & O’Neill, D. (). Mothers’ complex talk when sharing books with their
-
-toddlers: book genre matters. First Language , –.
-
-Price, L. H., Van Kleeck, A. & Huberty, C. J. (). Talk during book sharing between
-parents and preschool children: a comparison between storybook and expository book
-conditions. Reading Research Quarterly , –.
-
-Raikes, H., Pan, B. A., Luze, G., Tamis-LeMonda, C. S., Brooks-Gunn, J., Constantine, J.,
-Tarullo, L. B., Raikes, H. A. & Rodriguez, E. T. (). Mother–child bookreading in low-
-income families: correlates and outcomes during the ﬁrst three years of life. Child
-Development , –.
-
-Statistics Canada (). Data table for Chart : population aged  to  with university
-education and their employment rate, Canada, provinces and territories, and selected OECD
-countries,
-. Online: <http://www.statcan.gc.ca/pub/--x//c-g/desc/
-desc-eng.htm> (last accessed  November ).
-
-United States Census Bureau (). Educational attainment table . Detailed years of school
-completed by people  years and over by sex, age groups, race and Hispanic origin: 
-[Data File]. Online: <https://www.census.gov/hhes/socdemo/education/data/cps//
-tables.html> (last accessed  November ).
-
-Appendix A
-
-The survey questions and response possibilities are listed here in order. They
-are numbered here for convenience, but note that not all questions were
-numbered in the survey. The actual survey was separated into six diﬀerent
-pages plus the initial consent page (not copied here).
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
-. What is your child’s age?
-
-To answer this, the respondent clicked on one of the following choices:
-– months, – months, – months, – months, – months, –
-months, – months, – months, – months, – months,
-– months, – months, – months, – months, –
-months, – months, – months, – months.
-
-. Is your child a: girl/boy? (each response had its own circle that the
-
-respondent clicked on)
-
-. Was your child born full-term (at  weeks or more)? Yes/No (For this
-and all other Y/N questions, Yes and No selections (circles to click on)
-were placed under the question. Yes was always on top of No.)
-
-. Does your child have any diagnosed hearing, language, or cognitive
-
-delays? Yes/No
-
-. Does your child produce any words yet? Yes/No
-. Does your child say more than  words that you can understand? Yes/
-
-No
-
-. Does your child produce any two-word sequences yet? Yes/No
-. Does your child produce any sequences of more than three words yet?
-
-Yes/No
-
-. List the ﬁve books that you currently read most often to your child. Put
-your child’s favorite (or the one you read most often) ﬁrst, the next
-favorite (the one you read second most often) second, etc.
-For this question there were ﬁve empty text boxes labeled Book One,
-Book Two, Book Three, Book Four, and Book Five. The boxes were
-arranged vertically, with Book One at the top and Book Five at the
-bottom. The respondent typed their responses into each box.
-
-. Are there any other books that your child hears frequently? If so, please
-
-enter their titles into the spaces below.
-
-. Next we have a question about how you read the books that you listed.
-Speciﬁcally, we are interested in whether you stick to reading the words
-in the book or do you say things not written in the book. Do you just
-read the words, or do you do things like point out other parts of
-pictures, mention other features of the objects in the book not listed,
-or use diﬀerent words than those written in the book?
-Thinking about “Book One” (ﬁeld populated by participant’s earlier
-response), do you:
-
-– always just read the words printed in the book
-– mostly just read the words printed in the book but sometimes say
-
-other things
-
-– read the words in the book and say other things about equally often
-– sometimes read the words in the book/mostly say other things
-– never read the words in the book/always say other things.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
-This was repeated for books –. Each of the options was preceded by a
-circle that the respondent could click on to make their selection. They
-could only select one option.
-And ﬁnally, some questions about you.
-
-. Your gender (male/female/other)
-. Your age (under , –, –, –, –, –, –, over )
-. Your highest level of education completed: elementary school, HS, some
-higher education (e.g. trade certiﬁcate, some university or college),
-Bachelors degree, Masters degree, PhD, Professional Postgraduate
-degree
-For these ﬁnal three questions, each of the options listed after the
-question was a possible response that the respondent could select.
-
-Appendix B
-
-Top  most frequently listed books
-
-Title
-
-Author
-
-Times reported
-
-Goodnight moon
-The very hungry caterpillar
-Brown bear, brown bear, what
-do you see?
-Little blue truck
-Moo, baa, la la la!
-The going to bed book
-The gruﬀalo
-Guess how much I love you
-Chicka chicka boom boom
-Love you forever
-Go dog. Go!
-Are you my mother?
-Barnyard dance!
-Dr. Seuss’s ABC
-Green eggs and ham
-On the night you were born
-The cat in the hat
-I love you through and through
-Goodnight, goodnight construction
-site
-Hand, hand, ﬁngers, thumb
-Hop on pop
-
-M. Wise Brown
-E. Carle
-B. Martin & E. Carle
-
-A. Schertle
-S. Boynton
-S. Boynton
-J. Donaldson
-S. McBratney
-B. Martin & J. Archambault
-R. Munsch
-P. D. Eastman
-P. D. Eastman
-S. Boynton
-Dr. Seuss
-Dr. Seuss
-N. Tillman
-Dr. Seuss
-B. Rossetti-Shustak
-S. Rinker
-
-A. Perkins
-Dr. Seuss
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
-Title
-
-(cont.)
-
-Author
-
-Times reported
-
-H. A. Rey
-P. Rathman
-Dr. Seuss
-P. Zelinsky
-Raﬃ
-M. Fox
-S. Boynton
-S. Boynton
-M. Sendak
-Dr. Seuss
-R. Campbell
-J. & A. Ahlberg
-S. Boynton
-R. Munsch
-S. Boynton
-M. Wise Brown
-E. Hill
-D. Kunhardt
-M. Wise Brown
-G. Andreae
-M. Rosen
-K. Katz
-R. Scarry
-
-Ten little ﬁngers and ten little toes M. Fox
-Curious George
-Good night, gorilla
-Mr. Brown can moo! Can you?
-The wheels on the bus
-Baby beluga
-Time for bed
-But not the hippopotamus
-Pajama time!
-Where the wild things are
-One ﬁsh two ﬁsh red ﬁsh blue ﬁsh
-Dear zoo
-Each peach pear plum
-Hippos go berserk!
-Mortimer
-Snuggle puppy!
-The runaway bunny
-Where’s Spot?
-Pat the bunny
-Big red barn
-Giraﬀes can’t dance
-We’re going on a bear hunt
-Where is baby’s belly button?
-I am a bunny
-Sometimes I like to curl up in a ball V. Churchill
-The paper bag princess
-There’s a wocket in my pocket!
-Little blue truck leads the way
-Oh, the thinks you can think!
-Blue hat, green hat
-Llama llama red pajama
-The foot book
-The very cranky bear
-Belly button book!
-Busytown: cars and trucks & things
-that go
-Good night Vancouver
-I love you, stinky face
-
-R. Munsch
-Dr. Seuss
-A. Schertle
-Dr. Seuss
-S. Boynton
-A. Dewdney
-Dr. Seuss
-N. Bland
-S. Boynton
-R. Scarry
-
-D. Adams
-L. McCourt
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-T H E I N F A N T B O O K R E A D I N G D A T A B A S E
-
-Title
-
-(cont.)
-
-Author
-
-Times reported
-
-O. Jeﬀers
-S. Boynton
-B. Martin & E. Carle
-
-K. Wilson
-D. Cronin
-E. Carle
-S. Boynton
-B. Degen
-L. Bemelman
-Dr. Seuss
-I. Falconer
-B. Potter
-N. Tillman
-
-Lost and found
-Are you a cow?
-Baby bear, baby bear, what do
-you see?
-Bear snores on
-Click, clack, moo: cows that type
-From head to toe
-Horns to toes and in between
-Jamberry
-Madeline
-Oh, the places you’ll go!
-Olivia
-The tale of Peter Rabbit
-Wherever you are my love will ﬁnd
-you
-R. Priddy
-B is for bear
-K. Lewis
-Chugga-chugga choo-choo
-Cliﬀord the big red dog
-N. Bridwell
-Don’t let the pigeon drive the bus! M. Willems
-Fox in socks
-Hug
-I want my hat back
-If you give a mouse a cookie
-Knuﬄe bunny
-Llama llama nighty-night
-Night-night, little pookie
-Oh my oh my oh dinosaurs!
-Pete the cat: I love my white shoes
-Polar bear, polar bear, what do you
-hear?
-Tails
-M. van Fleet
-The gruﬀalo’s child
-J. Donaldson
-The little engine that could
-W. Piper
-The monster at the end of this book J. Stone
-Corduroy
-Doggies
-Grumpy bird
-Peepo!
-
-Dr. Seuss
-J. Alborough
-J. Klassen
-L. Numeroﬀ
-M. Willems
-A. Dewdney
-S. Boynton
-S. Boynton
-J. Dean
-B. Martin & E. Carle
-
-D. Freeman
-S. Boynton
-J. Tankard
-J. & A. Ahlberg
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-H U D S O N K A M A N D M A T T H E W S O N
-
-Title
-
-Thomas & friends: Thomas the tank
-engine
-Tickle time!
-Dogs
-Harry the dirty dog
-How to catch a star
-Ten little ladybugs
-The lorax
-The many adventures of Winnie the
-Pooh
-The pout-pout ﬁsh
-The snowy day
-Thomas and friends: go, train, go!
-Where is the green sheep?
-
-(cont.)
-
-Author
-
-Reverend Awdry
-
-S. Boynton
-E. Gravett
-G. Zion
-O. Jeﬀers
-M. Gerth
-Dr. Seuss
-A. A. Milne
-
-D. Diesen
-E. Keats
-Reverend Awdry
-M. Fox
-
-Times reported
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000490
-
-

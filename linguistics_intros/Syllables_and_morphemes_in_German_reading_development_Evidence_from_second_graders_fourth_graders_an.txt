@@ -1,35 +1,3 @@
-Applied Psycholinguistics 38 (2017), 733–753
-doi:10.1017/S0142716416000412
-
-Syllables and morphemes in German
-reading development: Evidence from
-second graders, fourth graders, and
-adults
-
-JANA HASEN ¨ACKER and SASCHA SCHROEDER
-Max Planck Institute for Human Development, Berlin
-
-Received: November 23, 2015
-
-Accepted for publication: August 30, 2016
-
-ADDRESS FOR CORRESPONDENCE
-Jana Hasen¨acker, MPRG Reading Education and Development (REaD), Max Planck Institute for
-Human Development, Lentzeallee 94, Berlin 14195, Germany. E-mail: hasenaecker@mpib-berlin.
-mpg.de
-
-ABSTRACT
-Children have been found to use units such as syllables and morphemes in ﬁne-grained reading
-processes, before they transition to a coarse-grained, holistic route. Which units they prefer at dif-
-ferent stages in reading development is unresolved. The present study compares the use of syllables
-and morphemes. Second graders, fourth graders, and adults performed a lexical decision task on
-multimorphemic and monomorphemic words and pseudowords that were visually disrupted either
-syllable-congruent or syllable-incongruent (i.e., morpheme-congruent in multimorphemic items). Syl-
-lables turned out to be the preferred unit of ﬁne-grained processing for second graders, while fourth
-graders also used morphemes when morphemes were emphasized by the presentation format. More-
-over, the study supports the assumption that children rely more on ﬁne-grained processing, while adults
-have more coarse-grained processing.
-
 A central assumption of most models of reading acquisition is that children start
 out by decoding words on a letter-by-letter basis at ﬁrst (Ehri, 1995; Grainger
 & Ziegler, 2011; Seymour, 2005; Share, 1995). They learn grapheme–phoneme
@@ -44,14 +12,6 @@ and morphemes. Equally, the multiple-route model of orthographic processing
 (Grainger & Ziegler, 2011) assumes that beginning readers start out by decod-
 ing words on a phonology-driven letter-by-letter basis (cf. Share, 1995) that leads
 them to two routes of orthographic processing: a ﬁne-grained and a coarse-grained
-
-© Cambridge University Press 2016 0142-7164/16
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-734
-
 route. The main difference between the ﬁne-grained and coarse-grained routes is
 the coding of letter positions: the ﬁne-grained route is sensitive to ordered letter
 sequences, whereas letter coding in the coarse-grained route is position invariant.
@@ -101,12 +61,6 @@ There is also vast evidence that children use morphemes in word recogni-
 tion. In lexical decision and naming tasks in a variety of languages, elementary
 school children have been found to respond faster and more accurately to mul-
 timorphemic compared to matched monomorphemic words (Italian: Marcolini,
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-735
-
 Traﬁcante, Zocolotti, & Burani, 2011; French: Col´e, Bouton, Leuwers, Casalis, &
 Sprenger-Charolles, 2011; Qu´emart, Casalis, & Duncan, 2012; English: Carlisle
 & Stone, 2003, 2005). Conversely, more false alarms and prolonged response
@@ -156,12 +110,6 @@ Ziegler and Goswami (2005) emphasize in their psycholinguistic grain size
 theory that language-speciﬁc characteristics determine preferences for the use
 of certain units as linguistic characteristics of a language and its orthography
 may pose different demands on learners. Cross-linguistic differences in reading
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-736
-
 development have been attributed to orthographic transparency (Katz & Frost,
 1992), syllable structure (Seymour, Aro, & Erskine, 2003), and morphological
 richness (Perfetti & Harris, 2013). Learners of opaque orthographies (e.g., En-
@@ -210,12 +158,6 @@ leads to even faster responses as it does not simultaneously destroy a morphemic
 structure. Therefore, we further extended the study design to monomorphemic
 words and made some slight changes to the paradigm. We included multimor-
 phemic words with a syllabic segmentation (e.g., FAH:RER) and a morphological
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-737
-
 segmentation condition (FAHR:ER) in our study, just like Col´e et al. (2011). In
 order to examine the use of syllables in multimorphemic words in comparison
 to that in monomorphemic words, we also included monomorphemic words that
@@ -264,12 +206,6 @@ aging the use of syllables, might help to “read through” the pseudoword fast
 than a segmentation that destroys this unit when readers rely on a phonological
 decoding strategy. It might thus allow a faster rejection relative to a syllable-
 incongruent segmentation, as evidence from English and Serbo-Croatian (Katz
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-738
-
 & Feldman, 1981; Lima & Pollatsek, 1983) suggests. However, multimorphemic
 pseudowords have been found to be harder to reject (Burani, Marcolini, & Stella,
 2002; Qu´emart et al., 2012), because morphemes as lexical–semantic units sig-
@@ -306,11 +242,9 @@ letters: e.g., Forster, Davis, Schoknecht, & Carter, 1987; O’Connor & Forster,
 1981), this would be a more beneﬁcial strategy for the present task. It is therefore
 plausible that adults are able to adjust to this, being considerably less affected by
 the position of the disruption.
-
-METHOD
-
-Participants
-
+<Middle>
+METHOD.
+Participants.
 Fifty-seven second-grade children were recruited from 10 elementary schools in
 the Berlin area. At the time of testing, the children were at the beginning of
 second grade, meaning they had received approximately 1 year of formal read-
@@ -318,12 +252,6 @@ ing instruction. Permission for participation from the school administration and
 the children’s parents was acquired prior to the experiment. Moreover, 20 fourth
 graders were recruited at the after-school care of one Berlin school. Permis-
 sion from the after-school care and the children’s parents was acquired before
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-739
-
 testing. Every child received a small gift and candy for his or her participation.
 Finally, 24 university students from the Berlin area participated for monetary
 reimbursement.
@@ -345,8 +273,7 @@ their native language or second language acquired before the age of 6. As analys
 for monolinguals and early bilinguals showed no differences, all children were
 included in the analyses.
 
-Materials
-
+Materials.
 Twenty-four multimorphemic words, consisting of a stem and a sufﬁx, were se-
 lected from the childLex corpus (Schroeder, W¨urzner, Heister, Geyken, & Kliegl,
 2015). Crucially, sufﬁxes beginning with a vowel were chosen (–er, –in, –ung),
@@ -373,141 +300,6 @@ addition, 24 monomorphemic words were chosen and one letter was changed in
 order to create monomorphemic pseudowords, which were again segmented at the
 syllable boundary (e.g., DOS:TOR) or one letter to its right (DOST:OR). Mono-
 and multimorphemic pseudowords were matched on number of letters, number
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-740
-
-Table 1. Lexical statistics of the word and pseudoword items
-
-Monomorphemic
-
-Multimorphemic
-
-M
-
-SD
-
-Min
-
-Max
-
-M
-
-SD
-
-Min
-
-Max
-
-Words
-
-Letters
-Syllables
-Frequencya
-Neighborsb
-Bigram frequencyc
-
-6.79
-2.29
-24.13
-2.24
-30.11
-
-1.25
-0.55
-28.07
-0.59
-5.21
-
-5.00
-2.00
-0.81
-1.10
-22.4
-
-10.00
-4.00
-121.92
-3.45
-43.17
-
-6.83
-2.25
-28.77
-2.11
-31.19
-
-1.09
-0.44
-50.72
-0.46
-4.63
-
-5.00
-2.00
-0.31
-1.15
-22.96
-
-10.00
-3.00
-217.95
-2.85
-41.23
-
-Pseudowords
-
-Letters
-Syllables
-Neighborsb
-Bigram frequencyc
-
-6.54
-2.25
-2.42
-29.18
-
-1.02
-0.53
-0.58
-4.35
-
-5.00
-2.00
-1.05
-22.20
-
-9.00
-4.00
-3.65
-39.45
-
-7.00
-2.29
-2.35
-32.02
-
-1.38
-0.46
-0.44
-5.95
-
-5.00
-2.00
-1.75
-22.22
-
-11.00
-3.00
-3.45
-48.91
-
-aNormalized type frequency (per million).
-bOrthographic Levenshtein Distance 20.
-cSummed bigram type frequency.
-
 of syllables, bigram frequency, and neighbors (all t < 1, p > .05, see Table 1
 for details). Finally, the pseudoword set and the word set were matched on these
 characteristics as well (all t < 1, p > .05, see Table 1).
@@ -517,8 +309,7 @@ such that each stimulus appeared both in the syllable-congruent and the syllable
 incongruent/morpheme-congruent condition across participants, but each partici-
 pant only saw each stimulus in one of the conditions.
 
-Procedure
-
+Procedure.
 The children were tested individually in a quiet room in their schools or in their
 after-school care. The adults were tested individually at the test center of the
 research institution. The experiment was run on a 15-in. laptop monitor with a
@@ -534,76 +325,7 @@ and green. Eight practice trials with feedback (right or wrong answer) were give
 prior to the 96 experimental items. After half of the items, the participants had a
 break that was timed by the experimenter.
 
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-741
-
-Table 2. Mean (standard error) response times (ms) and error rates (%) to words
-
-Monomorphemic
-
-Multimorphemic
-
-Syllable-
-Congruent
-
-Syllable-
-
-Incongruent
-
-Syllable-
-Congruent
-
-Syllable-Incongruent/
-Morpheme-Congruent
-
-Response Times
-
-Grade 2
-Grade 4
-Adults
-
-3150 (166)
-1563 (122)
-682 (52)
-
-3343 (177)
-1683 (131)
-688 (52)
-
-3411 (181)
-1556 (122)
-701 (53)
-
-3542 (188)
-1579 (123)
-680 (52)
-
-Error Rates
-
-Grade 2
-Grade 4
-Adults
-
-10.93 (1.97)
-12.47 (2.85)
-3.56 (1.06)
-
-19.76 (3.10)
-10.83 (2.55)
-3.20 (0.97)
-
-18.58 (2.96)
-10.80 (2.55)
-1.97 (0.69)
-
-19.71 (3.10)
-7.01 (1.82)
-1.96 (0.69)
-
-RESULTS
-
+RESULTS.
 Reaction times and error rates from the experiment were collected and analyzed
 separately for words and pseudowords. For the RT analysis, incorrect responses
 were removed from the analysis (15.80% for words, 15.80% for pseudowords), as
@@ -633,76 +355,7 @@ carried out using cell means coding, and single df contrasts using the glht func
 of the multcomp package (Hothorn, Bretz, & Westfall, 2008) were evaluated using
 a normal distribution.
 
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-742
-
-Table 3. Mean (standard error) response times (ms) and error rates (%) to pseudowords
-
-Monomorphemic
-
-Multimorphemic
-
-Syllable-
-Congruent
-
-Syllable-
-
-Incongruent
-
-Syllable-
-Congruent
-
-Syllable-Incongruent/
-Morpheme-Congruent
-
-Response Times
-
-Grade 2
-Grade 4
-Adults
-
-4079 (216)
-2208 (175)
-817 (63)
-
-4274 (226)
-2196 (174)
-844 (65)
-
-4242 (225)
-2239 (178)
-853 (66)
-
-4574 (243)
-2539 (202)
-861 (66)
-
-Error Rates
-
-Grade 2
-Grade 4
-Adults
-
-15.82 (2.39)
-10.24 (2.44)
-1.70 (0.62)
-
-14.12 (2.19)
-12.04 (2.76)
-2.62 (0.85)
-
-16.94 (2.51)
-13.76 (3.05)
-1.69 (0.61)
-
-20.22 (2.86)
-17.65 (3.69)
-0.83 (0.38)
-
-Words
-
+Words.
 The model ﬁtted to the word data revealed a signiﬁcant main effect of age group,
 indicating faster RTs with increasing age. Furthermore, age group interacted with
 morphological status as well as with disruption position. Decomposing the Age
@@ -731,117 +384,6 @@ outcome of the RT model with a signiﬁcant main effect of age group, indicating
 more accurate responses with increasing age. Age group also interacted with
 morphological status and with disruption position. Regarding the Age Group ×
 Morphological Status interaction, post hoc contrasts showed that the direction of
-
-Figure 1. Mean response times (ms) and error rates (%) to words in the different conditions by age group. Error bars indicate standard errors.
-
-Figure 2. Mean response times (ms) and error rates (%) to pseudowords in the different conditions by age group. Error bars indicate standard errors.
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-745
-
-Table 4. Results from mixed-effect models with morphological status, disruption
-position, and age group as ﬁxed effects and participant and item as random intercepts
-
-χ2
-
-Words
-
-Pseudowords
-
-RT
-
-Errors
-
-RT
-
-Errors
-
-Fixed effects (df)
-
-Intercept (1)
-Disruption position (3)
-Morphological status (1)
-Age group (2)
-Disruption Position× Morphological
-Disruption Position× Age Group (2)
-Morphological Status× Age Group (2)
-Disruption Position× Morphological
-
-Status (1)
-
-Status× Age Group (2)
-
-Random effects
-
-Participants
-Items
-
-8972.15*
-
-<1
-<1
-
-417.43*
-
-1.11
-7.37*
-20.34*
-
-<1
-
-6565*
-509*
-
-192.37*
-
-<1
-1.95
-60.76*
-
-<1
-10.03*
-11.80*
-
-1.35
-
-127*
-145*
-
-9157.91*
-1.37
-<1
-
-405.31*
-
-179.84*
-
-<1
-1.69
-59.83*
-
-<1
-3.54
-3.15
-
-8.23*
-
-6730*
-432*
-
-1.83
-1.11
-4.39
-
-3.03
-
-226*
-53*
-
-Note: Tests are based on Type III sum of squares and χ2 values with Kenward–Roger df.
-The numbers in parentheses are degrees of freedom. RT, Response time.
-
 the morphological status effect differed signiﬁcantly between second graders and
 fourth graders (t = 2.74, p < .01) and between second graders and adults (t =
 2.45, p = .01). All other contrasts were not signiﬁcant.
@@ -854,8 +396,7 @@ Taken together, children’s word recognition is impeded when syllables are vi-
 sually disrupted, while adults are not affected differentially by syllable-congruent
 and syllable-incongruent/morpheme-congruent visual disruptions.
 
-Pseudowords
-
+Pseudowords.
 RTs to pseudowords were analyzed as described above. A main effect of age group
 was found, indicating that RTs to pseudowords became faster with increasing age.
 This main effect was moderated by a three-way interaction of morphological
@@ -864,71 +405,53 @@ Post hoc contrasts showed that for second-grade children, there was no inter-
 action of morphological status and disruption position (t = 1.09, p = .28), nor
 a simple main effect of morphological status (t = 1.44, p = .15), but the sim-
 ple main effect of disruption position was signiﬁcant (t = 4.62, p < .01). This
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-746
-
-responses to syllable-incongruent compared to syllable-
-
-indicated slower
-congruent pseudowords (RT = 264 ms).
+indicated slower responses to syllable-incongruent compared to syllablecongruent
+pseudowords (RT = 264 ms).
 For fourth-grade children, there was an interaction effect of morphological
 status and disruption position (t = 3.23, p < .01). The effect of disruption position
-was only signiﬁcant for multimorphemic words (t = 4.29, p < .01); that is,
+was only significant for multimorphemic words (t = 4.29, p < .01); that is,
 RTs to pseudowords disrupted at the syllable-incongruent position were longer
-when the pseudoword contained an existing morpheme (RT = 298 ms) and the
+when the pseudoword contained an existing morpheme (RT = 298 ms) and the
 segmentation was therefore morpheme congruent. There were no prolonged RTs
 to monomorphemic syllable-incongruent pseudowords (t < 1, p = .85).
-Adults did not show a signiﬁcant effect of neither morphological status (t < 1,
+Adults did not show a significant effect of neither morphological status (t < 1,
 p = .42) nor disruption position (t = 1.17, p = .24), nor the interaction of those
 (t < 1, p = .52).
-
-Error rates to pseudowords were analyzed parallel to the RTs. The model yielded
-a signiﬁcant main effect of age group only, indicating that error rates decreased
+Error rates to pseudowordswere analyzed parallel to the RTs. Themodel yielded
+a significant main effect of age group only, indicating that error rates decreased
 with increasing age.
-
-In summary, second graders were slower in rejecting pseudowords when the dis-
-ruption was syllable incongruent, while fourth graders were only slowed down by
+In summary, second graderswere slower in rejecting pseudowordswhen the disruption
+was syllable incongruent, while fourth graders were only slowed down by
 syllable-incongruent (i.e., morpheme-congurent) disruptions of multimorphemic
 pseudowords, which were the morpheme-congruent cases. Adults were again not
-inﬂuenced by disruptions at all.
-
-DISCUSSION
-
+influenced by disruptions at all.
+<Conclusion>
+DISCUSSION.
 The present study examined second graders’, fourth graders’, and adults’ use of
 syllables and morphemes as functional units in word recognition by using a lexical
 decision task with monomorphemic and multimorphemic words and pseudowords
 that were visually disrupted either in a syllable-congruent or a syllable-incongruent
-way (being morpheme-congruent in the case of mulitmorphemic words). Begin-
-ning and skilled readers were impacted differently by this disruption, implying
+way (being morpheme-congruent in the case of mulitmorphemic words). Beginning
+and skilled readers were impacted differently by this disruption, implying
 that different units are preferred depending on the stage of reading development.
 Moreover, the effect of disruption position also differed for word recognition and
 pseudoword rejection in the different age groups. Second graders were faster when
 the disruption was syllable congruent in both word recognition and pseudoword
 rejection. For fourth graders, syllable-congruent disruptions were also faster in
-word recognition, but in pseudoword rejection, this was only the case for mul-
-timorphemic pseudowords. Together, this indicates that syllables facilitate word
+word recognition, but in pseudoword rejection, this was only the case for multimorphemic
+pseudowords. Together, this indicates that syllables facilitate word
 recognition for all children, while morphemes selectively impede the rejection of
-multimorphemic pseudowords in fourth graders. Adults were not affected differ-
-ently by syllable-congruent and syllable-incongruent disruptions, neither in word
+multimorphemic pseudowords in fourth graders. Adults were not affected differently
+by syllable-congruent and syllable-incongruent disruptions, neither in word
 recognition nor in pseudoword rejection.
-
 Second-grade children in the present study responded faster when disruptions
 were congruent with the syllables (SPI:NAT, FAH:RER) than if they were not
-(SPIN:AT, FAHR:ER), regardless of the morphological status. Moreover, this pat-
-tern emerged for both words and pseudowords. In addition, second graders made
+(SPIN:AT, FAHR:ER), regardless of the morphological status. Moreover, this pattern
+emerged for both words and pseudowords. In addition, second graders made
 fewer errors to words with syllable-congruent disruptions. Together, this shows
 that beginning readers of German can use syllables as units in reading. Moreover,
 the results indicate that word and pseudoword reading in young children is based
 on the same sublexical mechanism. This can be best interpreted as some kind of
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-747
-
 phonological restructuring into syllables prior to lexical access (Katz & Feldman,
 1981) that helps the ﬂow of reading, making it easier for beginning readers to “get
 through” the word or pseudoword. Taken together, the response pattern to words
@@ -979,12 +502,6 @@ of impreciseness (e.g., Forster et al., 1987; O’Connor & Forster, 1981). Third
 the accentuation of certain units through the disruptions was not always helpful
 (e.g., SPIN:AT, leaving no sensible subunits, or HELB:ER, drawing the attention
 to the misleading existing sufﬁx), adults might have ignored the manipulation
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-748
-
 altogether. Skilled readers thus showed less sensitivity to syllables and morphemes
 as sublexical units in the present study, which does not exclude their ability to
 rely on these grain sizes under task demands. However, in the present study, we
@@ -1034,12 +551,6 @@ model, which predicts the use of syllables to chronologically precede the use
 of morphemes in reading development. Nevertheless, comparing our ﬁndings
 to studies in other languages, especially the one by Col´e et al. (2001), supports
 the assumptions of the psycholinguistic grain size theory (Ziegler & Goswami,
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-749
-
 2005) that language-speciﬁc characteristics pose different demands on learners
 and determine cross-linguistic differences in the preference for certain reading
 units across reading development. This strongly suggests that cross-linguistic
@@ -1072,457 +583,3 @@ comparison to Col´e et al. (2011) demonstrates. Therefore, cross-linguistic dev
 opmental studies on that topic are highly desirable in order to further disentangle
 how language-speciﬁc characteristics inﬂuence the use of certain grain sizes at
 different stages in reading development.
-
-APPENDIX A
-
-Stimuli used in the experiment
-
-Monomorphemic
-
-Multimorphemic
-
-Syllable-
-Congruent
-
-Syllable-
-Inconguent
-
-Syllable-
-Congruent
-
-Syllable-
-
-Incongruent
-
-Words
-
-BAL:KON
-DIREK:TOR
-FA:SCHING
-
-BALK:ON
-DIREKT:OR
-FASCH:ING
-
-AH:NUNG
-AL:TER
-ARBEI:TER
-
-AHN:UNG
-ALT:ER
-ARBEIT:ER
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-750
-
-APPENDIX A (cont.)
-
-GAR:TEN
-HA:FEN
-KAPI:TEL
-KOM:PASS
-KOM:POTT
-MARZI:PAN
-MO:TOR
-PORZEL:LAN
-RE:GAL
-RE:KORD
-RE:ZEPT
-SCHAU:KEL
-SCHOKO:LADE
-SPIE:GEL
-SPI:NAT
-STU:DENT
-TA:LENT
-TELE:FON
-TRAK:TOR
-VUL:KAN
-ZIR:KUS
-
-AL:KORD
-BE:GEN
-DAU:SEN
-DOS:TOR
-EL:KASS
-FA:MOTT
-FRAL:MENT
-KA:DON
-KON:BERT
-KRI:KUS
-LEMI:KON
-MARKE:LADE
-MAR:ZOR
-MONA:TOR
-PE:KAL
-PELI:DAN
-PRI:GAT
-PUL:DING
-SCHAU:BEL
-STIE:PEL
-TANIS:MAN
-TUR:FAN
-ZE:PENT
-ZWIE:GEL
-
-Words
-
-GART:EN
-HAF:EN
-KAPIT:EL
-KOMP:ASS
-KOMP:OTT
-MARZIP:AN
-MOT:OR
-PORZELL:AN
-REG:AL
-REK:ORD
-REZ:EPT
-SCHAUK:EL
-SCHOKOL:ADE
-SPIEG:EL
-SPIN:AT
-STUD:ENT
-TAL:ENT
-TELEF:ON
-TRAKT:OR
-VULK:AN
-ZIRK:US
-
-B ¨A:RIN
-DIE:BIN
-ENKE:LIN
-FAH:RER
-FLIE:GER
-FREUN:DIN
-HEI:ZUNG
-HEL:DIN
-KELLNE:RIN
-KLEI:DUNG
-K ¨ONI:GIN
-KRIE:GER
-LAN:DUNG
-MA:LER
-PILO:TIN
-PLA:NUNG
-SIE:GER
-SPIE:LER
-WANDE:RUNG
-WOH:NUNG
-ZAH:LUNG
-
-Pseudowords
-
-ALK:ORD
-BEG:EN
-DAUS:EN
-DOST:OR
-ELK:ASS
-FAM:OTT
-FRALM:ENT
-KAD:ON
-KONB:ERT
-KRIK:US
-LEMIK:ON
-MARKEL:ADE
-MARZ:OR
-MONAT:OR
-PEK:AL
-PELID:AN
-PRIG:AT
-PULD:ING
-SCHAUB:EL
-STIEP:EL
-TANISM:AN
-TURF:AN
-ZEP:ENT
-ZWIEG:EL
-
-AUBO:RIN
-EDE:LIN
-FEIL:DIN
-HEI:GUNG
-HEL:BER
-JU:GER
-LAH:RER
-LEIRE:RIN
-LU:WIN
-PFLO:GER
-PINA:TIN
-RACH:TER
-REU:FUNG
-ROD:NER
-RUL:DUNG
-SCHIL:TUNG
-SCHOLDE:RUNG
-SCHREU:BER
-SONDA:TIN
-TE:GUNG
-TEI:NUNG
-WARDE:RER
-WUR:TIN
-ZIE:DUNG
-
-B ¨AR:IN
-DIEB:IN
-ENKEL:IN
-FAHR:ER
-FLIEG:ER
-FREUND:IN
-HEIZ:UNG
-HELD:IN
-KELLNER:IN
-KLEID:UNG
-K ¨ONIG:IN
-KRIEG:ER
-LAND:UNG
-MAL:ER
-PILOT:IN
-PLAN:UNG
-SIEG:ER
-SPIEL:ER
-WANDER:UNG
-WOHN:UNG
-ZAHL:UNG
-
-AUBOR:IN
-EDEL:IN
-FEILD:IN
-HEIG:UNG
-HELB:ER
-JUG:ER
-LAHR:ER
-LEIRER:IN
-LUW:IN
-PFLOG:ER
-PINAT:IN
-RACHT:ER
-REUF:UNG
-RODN:ER
-RULD:UNG
-SCHILT:UNG
-SCHOLDER:UNG
-SCHREUB:ER
-SONDAT:IN
-TEG:UNG
-TEIN:UNG
-WARDER:ER
-WURT:IN
-ZIED:UNG
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-751
-
-REFERENCES
-Amenta, S., & Crepaldi, D. (2012). Morphological processing as we know it: An analytical review of
-morphological effects in visual word identiﬁcation. Frontiers in Psychology, 3, doi:10.3389/fp-
-syg.2012.00232
-
-Anglin, J. M. (1993). Vocabulary development: A morphological analysis. Monographs of the Society
-
-for Research in Child Development, 58(Serial No. 238).
-
-Baayen, R. H. (2008). Analyzing linguistic data. Cambridge: Cambridge University Press.
-Baayen, R. H., & Milin, P. (2010). Analyzing reaction times. International Journal of Psychological
-
-Research, 3, 12–28.
-
-Baayen, R. H., Davidson, D. J., & Bates, D. M. (2008). Mixed-effects modeling with crossed random
-effects for subjects and items. Journal of Memory and Language, 53, 390–412. doi:10.1016/
-j.jml.2007.12.005
-
-Bertram, R., Laine, M., & Virkkala, M. M. (2000). The role of derivational morphology in vocabulary
-acquisition: Get by with a little help from my friends. Scandinavian Journal of Psychology, 41,
-287–296. doi:10.1111/1467-9450.00201
-
-Beyersmann, E., Castles, A., & Coltheart, M. (2012). Morphological processing during visual word
-recognition in developing readers: Evidence from masked priming. Quarterly Journal of Ex-
-perimental Psychology, 65, 1306–1326. doi:10.1080/17470218.2012.656661
-
-Beyersmann, E., Grainger, J., Casalis, S., & Ziegler, J. C. (2015). Effects of reading proﬁciency on
-embedded stem priming in primary school children. Journal of Experimental Child Psychology,
-139, 115–126. doi:10.1016/j.jecp.2015.06.001
-
-Burani, C., Marcolini, S., & Stella, G. (2002). How early does morpholexical reading develop in readers
-
-of a shallow orthography? Brain and Language, 81, 568–586. doi:10.1006/brln.2001.2548
-
-Carlisle, J. F., & Stone, C. A.
-
-(2003). The effects of morphological structure on chil-
-dren’s reading of derived words in English. Neuropsychology and Cognition, 22, 27–52.
-doi:10.1007/978-1-4757-3720-2_2
-
-Carlisle, J. F., & Stone, C. A. (2005). Exploring the role of morphemes in word reading. Reading
-
-Research Quarterly, 40, 428–449. doi:10.1598/rrq.40.4.3
-
-Carreiras, M., ´Alvarez, C. J., & De Vega, M. (1993). Syllable-frequency and visual word recognition
-
-in Spanish. Journal of Memory and Language, 32, 766–780. doi:10.1006/jmla.1993.1038
-
-Casalis, S., Dusautoir, M., Col´e, P., & Ducrot, S. (2009). Morphological effects in children word
-reading: A priming study in fourth graders. British Journal of Developmental Psychology, 27,
-761–766. doi:10.1348/026151008x389575
-
-Chetail, F., & Mathey, S. (2008). The syllable frequency effect in visual recognition of French
-words: A study in skilled and beginning readers. Reading and Writing, 22, 955–973.
-doi:10.1007/s11145-008-9135-9
-
-Chetail, F., & Mathey, S. (2009). Activation of syllable units during visual recognition of French words
-
-in Grade 2. Journal of Child Language, 36, 883–894. doi:10.1017/s0305000908009197
-
-Chetail, F., & Mathey, S. (2012). Effect of syllable congruency in sixth graders in the lexical de-
-cision task with masked priming. Scientiﬁc Studies of Reading, 16, 537–549. doi:10.1080/
-10888438.2011.607480
-
-Col´e, P., Bouton, S., Leuwers, C., Casalis, S., & Sprenger-Charolles, L. (2011). Stem and derivational-
-sufﬁx processing during reading by French second- and third-graders. Applied Psycholinguis-
-tics, 33, 97–120. doi:10.1017/s0142716411000282
-
-Col´e, P., Magnan, A., & Grainger, J. (1999). Syllable-sized units in visual word recognition: Evidence
-from skilled and beginning readers. Applied Psycholinguistics, 20, 507–532. doi:10.1017/
-s0142716499004038
-
-Conrad, M., & Jacobs, A. (2004). Replicating syllable frequency effects in Spanish in German: One
-more challenge to computational models of visual word recognition. Language and Cognitive
-Processes, 19, 369–390. doi:10.1080/01690960344000224
-
-Ehri, L. C. (1995). Phases of development in learning to read words by sight. Journal of Research in
-
-Reading, 18, 116–125. doi:10.1111/j.1467-9817.1995.tb00077.x
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-752
-
-Forster, K. I., Davis, C., Schoknecht, C., & Carter, R. (1987). Masked priming with graphemically
-related forms: Repetition or partial activation? Quarterly Journal of Experimental Psychology,
-39, 211–251. doi:10.1080/14640748708401785
-
-Grainger, J., & Ziegler, J. C. (2011). A dual-route approach to orthographic processing. Frontiers in
-
-Psychology, 2, 1–12. doi:10.3389/fpsyg.2011.00054
-
-H¨aiki¨o, T., Bertram, R., & Hy¨on¨a, J. (2011). The development of whole-word representations in
-compound word processing: Evidence from eye ﬁxation patterns of elementary school children.
-Applied Psycholinguistics, 32, 533–551. doi:10.1017/S0142716411000208
-
-H¨aiki¨o, T., Bertram, R., & Hy¨on¨a, J. (2016). The hyphen as a syllabiﬁcation cue in reading bisyllabic
-and multisyllabic words among Finnish 1st and 2nd graders. Reading and Writing, 29, 159–182.
-doi:10.1007/s11145-015-9584-x
-
-H¨aiki¨o, T., Hy¨on¨a, J., & Bertram, R. (2015). The role of syllables in word recognition among be-
-ginning Finnish readers: Evidence from eye movements during reading. Journal of Cognitive
-Psychology, 27, 562–577. doi:10.1080/20445911.2014.982126
-
-Hautala, J., Aro, M., Eklund, K., Lerkkanen, M.-K., & Lyytinen, H. (2012). The role of letters and
-syllables in typical and dysﬂuent reading in a transparent orthography. Reading and Writing,
-26, 845–864. doi:10.1007/s11145-012-9394-3
-
-Hothorn, T., Bretz, F., & Westfall, P. (2008). Simultaneous inference in general parametric models.
-
-Biometrical Journal, 50, 346–363. doi:10.1002/bimj.200810425
-
-Katz, L., & Baldasare, J. (1983). Syllable coding in printed-word recognition by children and adults.
-
-Journal of Educational Psychology, 75, 245–256. doi:10.1037/0022-0663.75.2.245
-
-Katz, L., & Feldman, L. B. (1981). Linguistic coding in word recognition: Comparisons between a
-deep and a shallow orthography. In A. Lesgold & C. Perfetti (Eds.), Interactive processes in
-reading. Hillsdale. NJ: Erlbaum.
-
-Katz, L., & Frost, R. (1992). The reading process is different for different orthographies: The ortho-
-graphic depth hypothesis. In R. Frost & L. Katz (Eds.), Orthography, phonology, morphology,
-and meaning (pp. 67–84). Amsterdam: Elsevier North Holland Press.
-
-Lima, S. D., & Pollatsek, A. (1983). Lexical access via an orthographic code? The Basic Orthographic
-Syllabic Structure (BOSS) reconsidered. Journal of Verbal Learning and Verbal Behavior, 22,
-310–332. doi:10.1016/s0022-5371(83)90215-3
-
-Ma¨ıonchi-Pino, N., Magnan, A., & ´Ecalle, J. (2010). Syllable frequency effects in visual word recog-
-nition: Developmental approach in French children. Journal of Applied Developmental Psy-
-chology, 31, 70–82. doi:10.1016/j.appdev.2009.08.003
-
-Marcolini, S., Traﬁcante, D., Zoccolotti, P., & Burani, C. (2011). Word frequency modulates morpheme-
-based reading in poor and skilled Italian readers. Applied Psycholinguistics, 32, 513–532.
-doi:10.1017/s0142716411000191
-
-Moll, K., & Landerl, K. (2010). SLRT-II: Lese- und Rechtschreibtest: Weiterentwicklung der Salzburger
-
-Lese- und Rechtschreibtests (SLRT): Manual. Bern, Switzerland: Verlag Hans Huber.
-
-O’Connor, R. E., & Forster, K. I. (1981). Criterion bias and search sequence bias in word recognition.
-
-Memory & Cognition, 9, 78–92. doi:10.3758/bf03196953
-
-Perfetti, C. A., & Harris, L. N. (2013). Universal reading processes are modulated by lan-
-guage and writing system. Language Learning and Development, 9, 296–316. doi:10.1080/
-15475441.1013.813828
-
-Prinzmetal, W., Hofmann, H., & Vest, K. (1991). Automatic processes in word perception: An anal-
-ysis from illusory conjunctions. Journal of Experimental Psychology: Human Perception and
-Performance, 17, 902–923. doi:10.1037/0096-1523.17.4.902
-
-Qu´emart, P., Casalis, S., & Col´e, P. (2011). The role of form and meaning in the processing of written
-morphology: A priming study in French developing readers. Journal of Experimental Child
-Psychology, 109, 478–496. doi:10.1016/j.jecp.2011.02.008
-
-Qu´emart, P., Casalis, S., & Duncan, L. G. (2012). Exploring the role of bases and sufﬁxes when
-reading familiar and unfamiliar words: Evidence from French young readers. Scientiﬁc Studies
-of Reading, 16, 424–442. doi:10.1080/10888438.2011.584333
-
-Applied Psycholinguistics 38:3
-Hasen¨acker & Schroeder: Syllables and morphemes in reading development
-
-753
-
-Schroeder, S., W¨urzner, K.-M., Heister, J., Geyken, A., & Kliegl, R. (2015). childLex: A lexical
-
-database for German read by children. Manuscript submitted for publication.
-
-Segbers, J., & Schroeder, S. (2016). How many words do children know? A corpus-based estimation of
-children’s total vocabulary size. Language Testing. Advance online publication. doi:10.1177/
-0265532216641152
-
-Seidenberg, M. (2011). Reading in different writing systems: One architecture, multiple solutions.
-In P. McCardle, J. Ren, & O. Tzeng (Eds.), Dyslexia across languages: Orthography and the
-brain–gene–behavior link. Baltimore, MD: Paul Brookes.
-
-Seymour, P. H. K. (2005). Early reading development in European orthographies. In M. J. Snowling
-
-& C. Hulme (Eds.), The science of reading: A handbook (pp. 296–315). London: Blackwell.
-
-Seymour, P. H. K., Aro, M., & Erskine, J. M. (2003). Foundation literacy acquisition in European
-orthographies. British Journal of Psychology, 94, 143–174. doi:10.1348/000712603321661859
-Share, D. L. (1995). Phonological recoding and self-teaching: Sine qua non of reading acquisition.
-
-Cognition, 55, 151–218. doi:10.1016/0010-0277(94)00645-2
-
-Spencer, A. (1996). Phonology. Oxford: Blackwell.
-Taft, M. (1979). Recognition of afﬁxed words and the word frequency effect. Memory & Cognition, 7,
-
-263–272. doi:10.3758/bf03197599
-
-Taft, M. (1986). Lexical access codes in visual and auditory word recognition. Language and Cognitive
-
-Processes, 1, 297–308. doi:10.1080/01690968608404679
-
-Wagner, R. K., & Torgesen, J. K. (1987). The nature of phonological processing and its
-causal role in the acquisition of reading skills. Psychological Bulletin, 101, 192–212.
-doi:10.1037/0033-2909.101.2.192
-
-Wimmer, H., & Goswami, U. (1994). The inﬂuence of orthographic consistency on reading develop-
-ment: Word recognition in English and German children. Cognition, 51, 91–103. doi:10.1016/
-0010-0277(94)90010-8
-
-Ziegler, J. C., & Goswami, U. (2005). Reading acquisition, developmental dyslexia, and skilled
-reading across languages: A psycholinguistic grain size theory. Psychological Bulletin, 131,
-3–29. doi:10.1037/0033-2909.131.1.3
-
-

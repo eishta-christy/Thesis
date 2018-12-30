@@ -1,74 +1,4 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-doi:./S
-
-“The moustache sits down ﬁrst”: on the acquisition
-
-of metonymy*
-
-INGRID L. FALKUM
-
-University of Oslo
-
-A N D
-
-MARTA RECASENS A N D EVE V. CLARK
-
-Stanford University
-
-(Received  September  – Revised  October  – Accepted  November  –
-
-First published online  January )
-
-A B S T R A C T
-
-This study investigates preschoolers’ ability to understand and produce
-novel metonyms. We gave forty-seven children (aged ;–;) and
-twenty-seven adults one comprehension task and two elicitation tasks.
-The ﬁrst elicitation task investigated their ability to use metonyms as
-referential shorthands, and the second their willingness to name
-animates metonymically on the basis of a salient property. Although
-children were outperformed by adults, even three-year-olds could
-understand and produce metonyms in certain circumstances. Our
-results suggest that young children may ﬁnd it easier to produce a
-metonym than a more elaborate referential description in certain
-contexts, and that metonymy may serve as a useful strategy in
-referring to entities
-label. However,
-metonymy comprehension appeared to decrease with age, with older
-children tending to choose literal interpretations of some metonyms.
-
-conventional
-
-that
-
-lack a
-
-[*] This research was supported by a postdoctoral fellowship from the Research Council of
-Norway (project no. ), awarded to the ﬁrst author, and by a Beatriu de Pinós
-postdoctoral fellowship from Generalitat de Catalunya ( BP-A ), awarded to
-the second author. We would like to thank the children and staﬀ (especially Chia-wa
-Yeh and Jennifer Winters) at Bing Nursery School, Stanford; this research would not
-have been possible without them. We thank Megan O’Neil and Marisa Casillas for all
-help with the data collection. Also special thanks to Petter Laake and Ewart Thomas
-for statistical advice, and to Robyn Carston, Eduard Hovy, Georg Kjøll, Brian
-MacWhinney, Agustín Vicente, and in particular Deirdre Wilson for insightful
-comments and discussion on earlier drafts. We would also like to thank two anonymous
-reviewers whose helpful comments on previous drafts substantially improved the paper.
-Marta Recasens is currently at Google Inc. Address for correspondence: Ingrid
-L. Falkum, Centre for the Study of Mind in Nature, University of Oslo, PO Box 
-Blindern, N- Oslo, Norway. e-mail: i.l.falkum@iﬁkk.uio.no
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-This could be a result of growing metalinguistic awareness, which leads
-children to overemphasize literal meanings.
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 Although speakers and addressees have a large repertoire of conventional
 lexical meanings, they can go beyond these to communicate a seemingly
 indeﬁnite number of context-dependent meanings. Metonymy is one case of
@@ -78,13 +8,9 @@ conventional denotation and the contextually determined, metonymic one.
 Consider Nunberg’s () classic example in ():
 
 () The ham sandwich left without paying.
-
-the immediate accessibility (or
-
 Uttered by one waiter to another in a restaurant, the expression the ham
 sandwich refers to the customer who ordered the ham sandwich, and
-exploits
-the associative
+exploits the immediate accessibility (or salience) of the associative
 relation between the customer and his order. Another common case
 is the use of names of artists or authors to refer to their works, as in
 Woolf is on the top shelf. While such metonymic uses by adults are
@@ -92,9 +18,6 @@ common, little is known about how metonymy is understood or used by
 children. Do young children understand the pragmatics of metonymy, and
 do they use metonyms themselves? If so, when does this ability emerge in
 development?
-
-salience) of
-
 Children rely early on their pragmatic abilities in word learning, and are
 sensitive to speaker intentions (Bloom, ), discourse status (Akhtar,
 Carpenter & Tomasello, ), and speakers’ word choices (Clark, ).
@@ -114,17 +37,7 @@ naming animates based on a salient property. Evidence that young
 children can manage metonymic meanings would support the view that
 preschool children start to use ﬁgurative language early, along with some
 of the relevant pragmatic inferences.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-referential metonymy is usually taken to be
-
-The pragmatics of metonymy
+The pragmatics of metonymy.
 We can distinguish between two kinds of metonymy: referential metonymy,
 which relates one entity with another (e.g. The ham sandwich for ‘The
 customer who ordered the ham sandwich’, as
@@ -132,8 +45,7 @@ in () above), and
 propositional metonymy, which relates two propositions (e.g. The athlete
 made it to the podium for ‘The athlete won a medal’) (Warren, ). In
 this study, we focus on referential metonymy. The primary communicative
-function of
-that of
+function of referential metonymy is usually taken to be that of
 economizing on processing eﬀort in making a reference. On this view, a
 metonym is a shorthand for a more elaborate expression, and the aim is
 quick and easy referent identiﬁcation (Lakoﬀ & Johnson, ; Nunberg,
@@ -153,16 +65,14 @@ metonymic expressions instantiate underlying patterns, either in the form
 of stable conceptual associations (so-called ‘conceptual metonymy’; cf.
 Lakoﬀ & Johnson, ; Radden & Kövecses, ) or even as the result
 of some kind of (lexical) rule (Apresjan, ; Copestake & Briscoe, ;
-Frisson & Pickering, ). For example,
-the metonymic relation
+Frisson & Pickering, ). For example, the metonymic relation
 PRODUCER FOR PRODUCT is productive and makes it possible to understand
 the utterance John likes to read Needham as referring to books written by
 the author Needham, even though we might have never heard of this
 author before (Frisson & Pickering, ). How are such metonymic
 patterns acquired? And are children as sensitive to them as adults? Our
 preliminary analyses of conversational interactions between children and
-their caregivers
-from the CHILDES database (MacWhinney, )
+their caregivers from the CHILDES database (MacWhinney, )
 suggested that one productive metonymic pattern available to young
 children is COMPONENT FOR GAME, linguistically realized as play NP, as in
 Let’s play (the) zebras (‘the game that has zebras as a salient component’).
@@ -170,17 +80,8 @@ Metonymy, then, could well serve early on as a productive referential
 strategy for young children.
 
 While much has been said about metonymy as a shorthand referential
-literature, another communicative function of
-device in the theoretical
+device in the theoretical literature, another communicative function of
 referential metonymy has received less attention, namely its use to
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 highlight a particular property of the referent, thereby giving rise to a slight
 (sometimes witty or playful) deprecation of the referent (e.g. The big mouth is
 coming to the meeting). In these cases, referential metonymy serves as a
@@ -192,27 +93,17 @@ children (Crozier & Dimmock, ), little is known about its use among
 preschoolers. Use of metonyms with a naming function might require
 more metalinguistic ability than simple shorthand uses, since the speaker
 replaces a conventional term with a new one to achieve a certain eﬀect.
-
-smacking lips
-
-for
-
-(Rosch, Mervis, Gray,
-
-Children’s metonymic skills
+Children’s metonymic skills.
 In metonymy, salient associative relations (typically, relations of contiguity)
 are exploited for the purpose of communication. The ability to identify such
 relations is present early on. Categorization studies show that hierarchical
 classiﬁcation and identiﬁcation of (part–whole) contiguity relations emerge
-early in the preschool years
-Johnson &
+early in the preschool years (Rosch, Mervis, Gray, Johnson &
 Boyes-Braem, ). Also, many of children’s early referential strategies
-exploit
-salient associative relations, and thus have an aﬃnity with
+exploit salient associative relations, and thus have an aﬃnity with
 metonymy. Some iconic gestures made by infants bear a part–whole,
 ‘metonymic’ relation to the meaning represented, e.g. clapping hands for
-‘baseball game’,
-‘food’, and so on (Acredolo &
+‘baseball game’, smacking lips for ‘food’, and so on (Acredolo &
 Goodwyn, ; Kendon, ; Mittelberg, ). This is also true of
 some early referring expressions, e.g. onomatopoeias such as bow-wow for
 ‘dog’, and vroom-vroom for ‘vehicle’, and some strategies young children
@@ -230,38 +121,18 @@ process, or activity associated with that object (Clark & Clark, ;
 Schönefeld, ). Another productive operation for coining nouns is
 compounding, and young English-speaking children frequently construct
 novel root compounds for subcategories (Clark, Gelman & Lane, ;
-see also Konieczna & Kleparski, ),
-some of which could be
+see also Konieczna & Kleparski, ), some of which could be
 metonymically motivated (e.g. clown-boy for ‘the boy who is a clown’,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 daddy-seed for ‘the seed that is a daddy’), highlighting a salient characteristic
 of the entity in question. In short, since even very young children exploit
 salient associative relations for the purpose of communication, the main
 prerequisite for metonymy use appears to be present early on. Does
-metonymy serve
-early
+metonymy serve acommunicative function similar to other early
 referential strategies attested in compensating for vocabulary gaps and/or
 limited expressive ability?
-
-function similar
-
-to other
-
-a
-
-communicative
-
 Note that the notion of metonymy used throughout this paper is broader
 than the one assumed by classical rhetoric, where the speaker is seen as
-consciously ‘replacing’ a conventional,
-literal expression with a related
+consciously ‘replacing’ a conventional, literal expression with a related
 metonymic one. Instead, we follow contemporary pragmatic theory which,
 drawing on theoretical arguments and evidence from psycholinguistic
 studies, rejects such a sharp distinction between ﬁgurative and literal
@@ -275,15 +146,13 @@ associative links in identifying a referent, but would not necessarily have
 to involve knowledge of the conventional term for the intended referent
 (though this would typically be the case in more sophisticated uses).
 
-Figurative language development: metaphor and metonymy
+Figurative language development: metaphor and metonymy.
 Most research on ﬁgurative language development has focused on children’s
 ability to produce and understand metaphor (e.g. John is a lion), a matter of
 debate for several decades (see Gibbs, , for a review). Earlier studies
-observed that children tended to interpret metaphors
-literally, and
+observed that children tended to interpret metaphors literally, and
 concluded that metaphor comprehension was a complex skill that did not
-emerge until
-late in development (e.g. Asch & Nerlove, ; Billow,
+emerge until late in development (e.g. Asch & Nerlove, ; Billow,
 ; Winner, Rosenstiel & Gardner, ). Some researchers also
 proposed that there is a ‘literal stage’ in ﬁgurative language development,
 characterized by a tendency towards literal interpretations, before children
@@ -298,14 +167,6 @@ during the preschool years
 
 Few studies have explored children’s metonymic skill directly, and, to the
 best of our knowledge, none has investigated preschoolers’ ability to produce
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 metonyms. In one comprehension study with a forced-choice task, Nerlich
 et al. () found that four- and ﬁve-year-olds outperformed two- and
 three-year-olds, but both groups did better when they received ‘clues’ that
@@ -317,32 +178,24 @@ from age ﬁve to thirty-seven years
 comprehension developed more slowly for metaphors than for metonyms.
 This was interpreted as supporting the view that metonymy is more basic,
 cognitively, than metaphor.
-
-These studies
-
+<Middle>
+These studies.
 raise a general methodological question: Were the
 researchers in fact measuring vocabulary the children had already acquired
 or their pragmatic skill with metonyms? When children acquire lexicalized
 metonyms (e.g. Lego, where the name of the brand is used to refer to
 the toy bricks), they do not necessarily make the association that renders
 the metonym transparent; rather, the metonym could be acquired as a
-conventional
-they
+conventional term for the referent in question – only later willthey
 learn that Lego is a brand name. While understanding a novel metonym
 requires pragmatic skill and relies on contextual knowledge to license the
 metonymic association, comprehension of a lexicalized metonym may
 simply depend on whether the child has already acquired its conventional
 meaning.
-
-in question – only later will
-
-term for the referent
-
 A recent study investigated novel metonym and metaphor comprehension
 and found that comprehension increased with age, with some metonyms and
 metaphors understood even by the youngest participants, aged three (Van
-Herwegen, Dimitriou & Rundblad,
-an
+Herwegen, Dimitriou & Rundblad, ). This suggests an
 early-emerging pragmatic capacity for dealing with novel ﬁgurative
 meanings, thus supporting recent results on metaphors. While providing
 some insight into the metonymic ability of preschoolers, this study mainly
@@ -351,33 +204,14 @@ metonym and metaphor understanding in typically developing individuals
 and individuals with Williams syndrome. To gain a clearer picture of
 metonymic ability, we need research on preschoolers’ comprehension and
 production of metonyms.
-
-). This
-
-suggests
-
-Hypotheses
+Hypotheses.
 We began this research with the following expectations:
 
 . Given the evidence of some early ﬁgurative language ability in young
-if children were presented with novel
-children, we expected that,
-the underlying association was
-metonyms
+children, we expected that, if children were presented with novel
+metonyms in a context where the underlying association was
 perceptually available and primed by the linguistic context, they should
 be able to understand some novel metonyms. We also expected children
-
-context where
-
-in a
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 to get better at interpreting and explaining metonymic meanings with age
 (Task ).
 
@@ -399,7 +233,7 @@ referential metonymy would be acquired later. In this task, we also
 looked at whether children were helped by exposure to examples of
 common metonymic uses (e.g. PROPERTY FOR INDIVIDUAL).
 
-E X P E R I M E N T A L T A S K S
+E X P E R I M E N T A L T A S K S.
 We collected data with three diﬀerent tasks from forty-seven children and
 twenty-seven adults: the ﬁrst task tested metonymy comprehension, and
 the second and third tested metonymy production. Each task was
@@ -423,54 +257,33 @@ The goal of the ﬁrst task was to ﬁnd out whether three-, four-, and
 ﬁve-year-olds understand novel metonyms, and whether they can reason
 verbally about their meanings. Unlike earlier studies (Nerlich et al., ;
 Rundblad & Annaz, ; but cf. Van Herwegen, et al., ), we relied
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-avoided the problem of determining whether
-
 on novel metonyms based on part–whole relations, with a salient physical
 property used to make reference to a person. By using novel metonyms,
-we
-a metonymic
+we avoided the problem of determining whether a metonymic
 interpretation signalled actual understanding or simply prior acquisition of
 a conventional meaning. We used a forced-choice story task with pictures,
-where the metonyms were all
-in that they depended on
+where the metonyms were all transparent in that they depended on
 perceptually available information. The contextual information needed to
 make a correct metonymic interpretation was immediately accessible, so
 comprehension did not require activation of any background knowledge.
 We therefore expected some metonyms to be understood by even the
 youngest children, and a general increase in metonymic skill with age.
-
-transparent
-
 We also asked children to explain their choices. We expected that the
 ability to reason about metonymic meanings would improve with age, but
 that this kind of reﬂection might emerge later than comprehension itself,
 as has been shown for children’s explanations of metaphorical meanings
 (Özçalışkan, ).
 
-M E T H O D
-Materials
+M E T H O D.
+Materials.
 The stimuli consisted of ten sets of four pictures, each set presented in two
 steps. First, the experimenter showed a large picture (see Figure ) that
 introduced a scenario involving two or more people, one of whom had
 a salient characteristic, e.g. a pair of giant ears, a brightly coloured hat, a
 bicycle helmet, etc. While showing the picture, the experimenter told a
-short
-sentence
+short story, the last part of which contained the target sentence
 mentioning the salient property. In the metonymic condition, the target
 referred metonymically to the bearer of the property, as in ():
-
-the last part of which contained the target
-
-story,
-
 () This story is about these two girls. They are standing outside talking
 before going home from work. After they have been talking for a
 while, the helmet gets on her bike and rides home.
@@ -479,36 +292,17 @@ In the literal condition, the target referred directly to the property itself,
 as in ():
 
 () This story is about these two women. They are doing the dishes. It gets
-
 very hot in the kitchen, so the bright jacket is placed on a chair.
 
 The linguistic context of the stories supported the intended – metonymic or
-literal – reading. Next,
-the experimenter showed three small pictures,
+literal – reading. Next, the experimenter showed three small pictures,
 close-ups of each individual in the story and the salient property by itself
 (see Figure ), and children had to choose the matching picture from this set.
 The pictures were taken by the ﬁrst two authors, colour printed, and
 plasticized. One set was used in a warm-up trial, and the remaining nine
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-Fig. . Sample stimuli for Task : introductory picture for ‘the helmet’ story.
-
-Fig. . Sample stimuli for Task : answer set for ‘the helmet’ story.
-
-sets in experimental
+sets in experimental trials. The experimental items consisted of six
 metonymic stories and three literal stories.
-
-trials. The experimental
-
-items consisted of six
-
-Procedure
+Procedure.
 The task was presented as a game and took about  minutes to complete.
 The child was ﬁrst shown the warm-up picture set, followed by the other
 nine. Order of presentation was randomized across subjects and ages. For
@@ -552,7 +346,7 @@ Figure  presents the percentages of METONYMIC and LITERAL readings in
 
 the two conditions by age (three, four, ﬁve, and adult).
 
-Metonymic and literal conditions
+Metonymic and literal conditions.
 Using SPSS, we analyzed the data using logistic regression, which is more
 appropriate for categorical data than ANOVA (see Jaeger, ). Adults
 were not included in the logistic regression analyses given their ceiling
@@ -563,52 +357,29 @@ We examined comprehension of the target items as a function of the
 predictor variables age (three vs. four vs. ﬁve, with three as the baseline)
 and condition (metonymic vs. literal, with metonymic as the baseline).
 To examine age diﬀerences in comprehension in the two conditions, we
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 included an interaction term between age and condition. The analysis
 revealed a signiﬁcant main eﬀect of age (p = ·) and a signiﬁcant
 interaction between age and condition (p < ·). First, in measuring the
 eﬀect of age at baseline, we observed that, compared with three-year-olds,
-four-year-olds were
-likely to choose METONYMIC readings of
+four-year-olds were less likely to choose METONYMIC readings of
 metonymic targets (B = –·, OR = ·, p = ·, % CI [·, ·]), and
 ﬁve-year-olds even less so (B = –·, OR = ·, p = ·, % CI [·,
 ·]), In other words, there was a decrease in the number of correct
 METONYMIC readings, and an increase in the number of wrong LITERAL
 readings, from age three to ﬁve.
-
-less
-
 Second, to examine age diﬀerences within the literal condition, we ran an
-additional
-logistic regression with the same dependent and predictor
+additional logistic regression with the same dependent and predictor
 variables as before but with literal as the baseline for condition. This
 analysis also showed a signiﬁcant main eﬀect of age on comprehension
 (p = ·). Compared with three-year-olds, both four-year-olds (B = ·,
 OR = ·, p = ·, % CI [·, ·]) and ﬁve-year-olds (B = ·, OR
 = ·, p = ·, % CI [·, ·]) were more likely to provide a
 correct interpretation for a literal target (although the eﬀect was only
-marginally
-and comprehension
+marginally significant for the four-year-olds), and comprehension
 improved with age. This trend is the inverse of that observed in the
 metonymic condition, where the youngest children outperformed the
 older ones.
-
-four-year-olds),
-
-signiﬁcant
-
-the
-
-for
-
-Comparison of the two conditions
+Comparison of the two conditions.
 A simple logistic regression analysis of the eﬀect of condition (metonymic vs.
 literal) on the dependent variable type of reading (METONYMIC vs. LITERAL)
 showed a clear eﬀect of condition on type of reading (p < ·), with
@@ -623,31 +394,14 @@ which suggests that they did not ﬁnd the metonyms harder than the literal
 items. Second, the interaction analysis showed a clear eﬀect of condition
 for four-year-olds (Interaction odds ratio (IOR) = ·/· = ·), who
 were about ﬁve times as likely to give correct answers in the literal than in
-on ﬁve-year-olds’
-the metonymic
+the metonymic condition, and a large effect on ﬁve-year-olds’
 comprehension in the two conditions (IOR = ·/· = ·). This
 group was about seventeen times more likely to provide a correct answer
 in the literal condition compared to the metonymic condition. Thus,
-
-condition,
-
-and a
-
-eﬀect
-
-large
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 children appeared to have more diﬃculty with novel metonyms as they
 got older.
 
-Explaining their answers
+Explaining their answers.
 Next, we examined the explanations children gave for their choices in the
 metonymic condition. Adults were excluded from this analysis as well,
 given their ceiling performance. Children’s explanations of their correct
@@ -655,31 +409,20 @@ interpretations of novel metonyms fell into three categories:
 . A RELEVANT explanation demonstrated clear understanding. This could
 involve making the association between person and property explicit
 (e.g. Because the girl has a helmet), substituting the metonymic for the
-literal
-the child had made the relevant
+literal referent, suggesting that the child had made the relevant
 association (e.g. Cause she’s about to ride home), or rejecting the literal
 content of the target sentence (e.g. Cause the moustache is sitting down
 ﬁrst. [Pointing to the literal referent]: Not this one, where the moustache is
 sitting down alone.).
-
-suggesting that
-
 . A SEMI-RELEVANT explanation involved repetition of the metonym (e.g.
-
-referent,
-
 Cause that’s the big beard) or a paraphrase of the target sentence.
-
 . An IRRELEVANT explanation was uninformative as to whether the child had
 understood the metonym (e.g. Cause it’s pretty). We also included in this
 category cases in which children provided no answer.
 
-Where children had given a wrong literal
+Where children had given a wrong literal interpretation of the novel
 metonym, we divided their explanations into three additional categories:
 . ACCEPTANCE included what seemed to be straightforward acceptance of the
-
-interpretation of the novel
-
 literal meaning (e.g. Cause the helmet is on the bike riding home).
 
 . EXPLICIT COMMENT was for cases where the child chose the literal
@@ -700,131 +443,11 @@ almost perfect agreement.
 
 The percentages of children’s explanation types are presented in Tables 
 and . Table  shows that for metonymic interpretations, all ages tended to
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-TA B L E . Percentages and standard deviations of explanation types for metonymic
-
-readings of metonymic items in Task , by age
-
-Age
-
-Three-year-olds
-(n = )
-
-Four-year-olds
-(n = )
-
-Five-year-olds
-(n = )
-
-RELEVANT
-SEMI-RELEVANT
-IRRELEVANT
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-TA B L E . Percentages and standard deviations of explanation types for literal
-
-readings of metonymic items in Task , by age
-
-Age
-
-Three-year-olds
-(n = )
-
-Four-year-olds
-(n = )
-
-Five-year-olds
-(n = )
-
-ACCEPTANCE
-EXPLICIT COMMENT
-IRRELEVANT
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-M
-
-
-
-
-
-SD
-
-·
-·
-·
-
-three-year-olds, both four-year-olds
-
 oﬀer RELEVANT explanations. A simple logistic regression analysis of the
 eﬀect of age (three-year-olds vs. four-year-olds and ﬁve-year-olds) on the
 production of RELEVANT explanations was signiﬁcant (p < ·). Compared
 (B = ·, OR = ·,
-with the
+with the three-year-olds, both four-year-olds
 p < ·, % CI [·, ·]) and ﬁve-year-olds (B = ·, OR = ·,
 p < ·, % CI [·, ·]) were more likely to produce explanations
 of this type. However, an additional simple logistic regression analysis,
@@ -832,47 +455,18 @@ with the same predictor and dependent variables but using ﬁve-year-olds
 as the baseline category for age, showed that the diﬀerence between the
 four-year-olds and the ﬁve-year-olds was not signiﬁcant (p = ·).
 
-interpretations. A simple
+
 
 Inversely, there was a decrease in IRRELEVANT explanations with age
-for correct metonymic
-logistic regression
+for correct metonymic interpretations. A simple logistic regression
 showed a signiﬁcant eﬀect of age on this explanation type (p < ·), with
 four-year-olds (B = –·, OR = ·, p = ·, % CI [·,
-·]) and
-·])
-ﬁve-year-olds
-signiﬁcantly
-than
-three-year-olds. A similar
-IRRELEVANT
+·]) and ﬁve-year-olds (B = –·, OR = ·, p = ·, % CI·])
+signiﬁcantly less likely to provide IRRELEVANT explanations than
+three-year-olds. A similar age eﬀect was found for IRRELEVANT
 explanations of literal interpretations (see Table ), with three-year-olds
 more likely than the other two age groups to provide such explanations
 (three-year-olds vs. four-year-olds: B = –·, OR = ·, p = ·, % CI
-
-(B = –·, OR = ·, p = ·, % CI
-less
-
-[·,
-IRRELEVANT explanations
-
-age
-
-eﬀect was
-
-found for
-
-likely
-
-to provide
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 [·, ·], three-year-olds vs. ﬁve-year-olds: B = –·, OR = ·, p = ·,
 % CI [·, ·]).
 
@@ -890,25 +484,14 @@ transparent, but that, contrary to expectation, children did less well as
 they got older. Our results also show that their reasoning about metonymy
 improves with age, although only for those children within each group
 who interpreted the metonyms correctly.
-
-contextually
-
 All the children had some way to go to attain adult levels of understanding.
 Compared with adults, always correct in both conditions, children overall
-provided
-only
+provided contextually appropriate metonymic interpretations only
 about half the time. Still, they provided signiﬁcantly more metonymic
 interpretations for metonyms than for literal items. And their explanations
-in most cases, their answers did
-for correct interpretations show that,
-indeed signal understanding. However,
-the four- and ﬁve-year-olds
+for correct interpretations show that, in most cases, their answers did
+indeed signal understanding. However, the four- and ﬁve-year-olds
 appeared to ﬁnd literal items easier to understand than metonyms.
-
-appropriate metonymic
-
-interpretations
-
 Children’s growing preference for literal interpretations appeared, at ﬁrst,
 quite puzzling. What could cause three-year-olds’ performance to be closer
 to that of adults than to that of children only a year or two older? A
@@ -917,8 +500,7 @@ to that of adults than to that of children only a year or two older? A
 acquisition of morphology, where children use correct irregular forms,
 then over-regularize them, and ﬁnally produce the correct forms, as in the
 verb went > goed > went in English (Bowerman, ; Ervin, ). This
-has been hypothesized to be part of
-the process of developing the
+has been hypothesized to be part of the process of developing the
 underlying cognitive representational systems involved, so that, despite
 adult-like performance, the youngest children rely on strategies diﬀerent
 from those of adults. Let’s suppose that in metonymy comprehension,
@@ -926,21 +508,8 @@ three-year-olds are using a pragmatic interpretive strategy that is ‘naively
 optimistic’ (Sperber, ) in the sense that they take the ﬁrst appropriate
 interpretation that comes to mind in context to be the one intended by the
 speaker. This might involve seizing on anything that allows identiﬁcation
-of a referent
-the moustache, etc.), based on the
+of a referent (e.g. the helmet, the moustache, etc.), based on the
 contextually available associative link between the property and its bearer.
-
-the helmet,
-
-(e.g.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 This interpretation would be the most accessible, least eﬀortful one that, at
 the same time, brings about a satisfactory result (i.e. it is ‘relevant’ in
 Sperber and Wilson’s terms, /): in the present case, it would
@@ -948,8 +517,7 @@ match the story, be compatible with what children know about the world,
 allow further inferences about what will happen next, and so on. Children
 who use such a naively optimistic strategy will accept the outcome as a
 good enough interpretation of the speaker’s intended meaning. In the
-metonymic condition, where the context
-supported the metonymic
+metonymic condition, where the context supported the metonymic
 interpretation, there would often be overlap between the meaning arrived
 at via a naive interpretation strategy and the one intended by the speaker.
 Our data provide some evidence that the youngest children were indeed
@@ -972,17 +540,12 @@ by default, so they always chose a person as the intended referent. But
 notice that most children picked the person with (not the one without) the
 salient property, which shows that something more than a person-
 as-default-agent strategy must be in play. It is possible that the property-
-for-person pattern could be one of
-forms of metonymy
+for-person pattern could be one of the earliest forms of metonymy
 proper to emerge in young children because of the prototypical mapping
 of people and agents. This also underlies adult uses of this metonymic
 pattern.
-
-the earliest
-
 As an explanation of the older children’s tendency to choose literal
-interpretations of novel metonyms, we propose that
-it could be a
+interpretations of novel metonyms, we propose that it could be a
 by-product of their growing metalinguistic awareness – their ability to
 reﬂect on language and its use (Gombert, ; Karmiloﬀ-Smith, ;
 Tunmer, Pratt & Herriman, ). Metalinguistic awareness is clearly
@@ -991,20 +554,7 @@ words are objects in themselves, and have meanings that can be abstracted
 from contexts. For instance, it is at age four to ﬁve that children show
 some delight in responding to indirect requests like Can you open the
 window? with Yes and a smile. This metalinguistic awareness could play a
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-is
-
-said (literal) and what
-
-role in distinguishing between what
-is
+role in distinguishing between what is said (literal) and what is
 communicated (pragmatic), an ability that has been found to emerge
 around the same age (Vosniadou & Orthony, ). This might lead
 children to overemphasize literal meanings, and so result in the literal
@@ -1023,14 +573,11 @@ The literal bias shown by older children, then, could be due, not to an
 inability to understand novel metonyms, but to a conﬂict between two
 highly activated interpretations, one focused on linguistic meaning, the
 other on speaker meaning – a conﬂict that will eventually be resolved as
-children’s
-linguistic and pragmatic abilities mature further. So the
+children’s linguistic and pragmatic abilities mature further. So the
 outcome here, where children’s metalinguistic reﬂection leads to a wrong
 result, gives the impression of poorer metonymic skill
-in the older
-children, while they are in reality attending to a larger picture than the
-younger children. Note also that
-the
+in the older children, while they are in reality attending to a larger picture than the
+younger children. Note also that in the metonymic condition,
 metonymic interpretation should be easier to derive than the literal one: in
 context, the perceptually available association between the property and its
 bearer, combined with children’s knowledge of the world, should make it
@@ -1041,30 +588,16 @@ account that the speaker might have misjudged what would be most
 accessible or relevant to them. At the same time, their reﬂections on literal
 sentence meaning might have caused them to lose track of what the
 speaker might plausibly have intended to convey by her utterance.
-
-in the metonymic condition,
-
 It is tempting to ask whether this possible conﬂict between literal and
 speaker meanings is what earlier studies of metaphor comprehension
 tapped into, concluding that children are unable to understand metaphors
 (e.g. Asch & Nerlove, ; Billow, ; Winner et al., ), and
 whether their results might have been diﬀerent had they tested children
 under age four.
-
-Another factor that might have inﬂuenced the ﬁve-year-olds’
-
-literal
+Another factor that might have inﬂuenced the ﬁve-year-olds’ literal
 answers is their ability to work with story worlds. By age ﬁve, children
 have usually seen many cartoons (e.g. Dora the Explorer) and are willing to
 accept that characteristics of the world they know can be violated. How
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 this story world ability might interact with ﬁgurative language skills in
 forming hypotheses about speaker-intended meanings, though, remains an
 issue for further investigation.
@@ -1072,19 +605,14 @@ issue for further investigation.
 Our ﬁnding that children’s explanations of novel metonymic meanings
 improved with age for those children who provided correct metonymic
 interpretations, with four- and ﬁve-year-olds demonstrating metonymic
-understanding in their
-signiﬁcantly more often than
+understanding in their explanations signiﬁcantly more often than
 three-year-olds, is consistent with previous ﬁndings on children’s ability to
 put metaphorical meanings into words (Keil, ; Özçalışkan, ;
 Stites & Özçalışkan, ). Although the older children chose metonymic
 interpretations less often than the younger ones, they demonstrated more
 explicit understanding of metonymy.
-
-explanations
-
 There was also a decrease with age in irrelevant explanations for correct
-interpretations of
-the metonyms. However, an irrelevant explanation
+interpretations of  the metonyms. However, an irrelevant explanation
 should not be seen as evidence for a lack of understanding, given that
 understanding usually precedes the ability to paraphrase or explain
 (Özçalışkan, ; Vosniadou, ; Winner, Engel & Gardner, ). We
@@ -1095,22 +623,17 @@ linguistic and communicated meanings overall.
 
 TASK 
 
-Our second and third tasks focused on whether three- to ﬁve-year-olds
-can produce referential metonyms, and,
-if so, whether these include
+Our second and third tasks focused on whether three- to five-year-olds
+can produce referential metonyms, and, if so, whether these include
 metonyms with both shorthand and naming functions. Task  focused on
-referential metonyms used as
-and looked at whether
-metonymy oﬀers a useful referential strategy for children in place of fuller
+referential metonyms used as shorthands, and looked at whether
+metonymy offers a useful referential strategy for children in place of fuller
 referring expressions that might be more demanding syntactically and/or
 conceptually.
-
-shorthands,
-
 As our analysis of the CHILDES corpus revealed, play NP (giving rise to
 the metonymic relation COMPONENT FOR GAME) appears as a productive
 pattern by age three, e.g. “I was playing cherry” (;, CHILDES,
-Eng-USA/Weist/emi.cha). We ﬁnd the play NP pattern both in
+Eng-USA/Weist/emi.cha). We find the play NP pattern both in
 children’s speech and adults’ child-directed speech, e.g. “You like to play
 zebras?” (;, CHILDES, Eng-USA/Weist/ben.cha). We made use of
 this pattern to test whether preschoolers could produce a metonym as
@@ -1118,23 +641,14 @@ shorthand to refer to a game for which they did not know the name
 (play-context), or whether they would prefer to use a fuller, more ‘literal’,
 descriptive phrase. As before, we were concerned with whether children
 could come up with novel metonyms given an appropriate context.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 We expected younger children to produce more metonyms and fewer
 descriptions than older children and adults. Since their expressive abilities
 are less developed, use of metonyms as shorthands might be particularly
 useful as a communicative strategy early on.
 
-M E T H O D
-Materials
+M E T H O D.
+Materials.
 We designed two pairs of simple games using familiar objects:
-
 Set : Straws. The player had to put one straw inside a plastic glass, then
 two straws inside a second glass, and so on, and ﬁll as many glasses as
 possible in  seconds. Marbles. The player had  seconds to iteratively
@@ -1145,8 +659,7 @@ black magnet board, and had  seconds to stick as many magnets on
 the board as possible. Stickers. The player was given several small
 stickers and a sheet of paper, and had  seconds to place as many
 stickers on the paper as possible.
-
-Procedure
+Procedure.
 The task, presented as a game, took about  minutes to complete. The
 experimenter started by saying Now you get to choose which game we play.
 I have two games for you to choose from. Let me show you what they are.
@@ -1169,15 +682,7 @@ The same procedure was followed for the second pair of games.
 The same procedure was followed with adults, but they were told that the
 task was aimed at children and that they did not have to actually play the
 games if they did not want to.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-R E S U L T S
+R E S U L T S.
 We classiﬁed the four referring expressions produced by each participant
 into one of the following types:
 
@@ -1199,183 +704,57 @@ that this age group had more diﬃculty than the others. Some of the
 youngest children seemed to ﬁnd it hard to remember the game presented
 as the ﬁrst of the two in each set, especially after playing the other
 (second) game.
-
-referential
-
 The dependent variable of answer type was treated in two ways in the
 analyses. In order to investigate our hypothesis that metonymy might be a
-particularly useful
-strategy for children, as well as our
+particularly useful referential strategy for children, as well as our
 expectation that younger children would produce more metonyms and
-fewer descriptions than the older children and adults, we ﬁrst treated each
+fewer descriptions than the older children and adults, we first treated each
 individual answer type (METONYM, COMPOUND, and DESCRIPTION) as a
-dichotomous variable,
-and analyses were performed using logistic
+dichotomous variable, and analyses were performed using logistic
 regression. Then, in order to compare the production of answer types
-(METONYM, COMPOUND, and DESCRIPTION) between ages (three, four, ﬁve,
+(METONYM, COMPOUND, and DESCRIPTION) between ages (three, four, five,
 plus adults), we treated answer type as a multilevel categorical variable,
 with analyses performed using multinomial regression.
-
-In the ﬁrst, logistic regression analyses we examined the diﬀerences in age
+In the first, logistic regression analyses we examined the differences in age
 for each answer type (see Table ). We started by investigating production of
-METONYMS as a function of age (three,
-four, ﬁve, and adults), with
-three-year-olds as the baseline for age. The analysis revealed no signiﬁcant
-diﬀerences between three-year-olds and the other age groups (p = ·).
-For COMPOUNDS, there was a signiﬁcant eﬀect of age (p = ·), with
-ﬁve-year-olds less likely to produce COMPOUNDS than three-year-olds (B = –
+METONYMS as a function of age (three, four, five, and adults), with
+three-year-olds as the baseline for age. The analysis revealed no significant
+differences between three-year-olds and the other age groups (p = ·).
+For COMPOUNDS, there was a significant effect of age (p = ·), with
+five-year-olds less likely to produce COMPOUNDS than three-year-olds (B = –
 ·, OR = ·, p = ·, % CI [·, ·]). However, four-year-olds (p
-= ·) and adults (p = ·) did not diﬀer from three-year-olds. Finally,
-for DESCRIPTIONS, we found a signiﬁcant eﬀect of age (p = ·), with
-ﬁve-year-olds (B = ·, OR = ·, p = ·, % CI [·, ·]) and
+= ·) and adults (p = ·) did not differ from three-year-olds. Finally,
+for DESCRIPTIONS, we found a significant effect of age (p = ·), with
+five-year-olds (B = ·, OR = ·, p = ·, % CI [·, ·]) and
 adults (B = ·, OR = ·, p = ·, % CI [·, ·]) more likely to
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-TA B L E . Percentages and standard deviations of answer types elicited in Task ,
-
-by age
-
-Age
-
-Three-year-olds
-(n = )
-
-Four-year-olds
-(n = )
-
-Five-year-olds
-(n = )
-
-Adults
-(n = )
-
-METONYM
-COMPOUND
-DESCRIPTION
-OTHER
-
-M
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-
 produce DESCRIPTIONS than three-year-olds. Four-year-olds, however, did
 not diﬀer signiﬁcantly from three-year-olds (p = ·).
-
-and adults
-
-against
-
-those of
-
-four-year-olds, ﬁve-year-olds,
-
-In the second, multinomial regression analysis, we investigated the eﬀect
-of age on the dependent variable of answer type (METONYM, COMPOUND,
+age on the dependent variable of answer type (METONYM, COMPOUND,
 and DESCRIPTION), with METONYM as the baseline, and the productions
-of
-the
+of four-year-olds, five-year-olds, and adults against those of the
 three-year-olds (METONYMS: %, COMPOUNDS: %, and DESCRIPTIONS:
 %). (OTHER answers were removed due to the zero values for adults,
-four-year-olds, and ﬁve-year-olds.) For COMPOUNDS vs. METONYMS, there
-were no signiﬁcant diﬀerences at any age, although ﬁve-year-olds tended
-to
-compared with
+four-year-olds, and five-year-olds.) For COMPOUNDS vs. METONYMS, there
+were no significant differences at any age, although five-year-olds tended
+to produce fewer COMPOUNDS than METONYMS compared with
 three-year-olds (B = –·, OR = ·, p = , % CI [·, ·]). For
 DESCRIPTIONS vs. METONYMS, adults were about three times as likely to
 produce DESCRIPTIONS over METONYMS compared with three-year-olds (B =
 ·, OR = ·, p = ·, % CI [·, ·]), but the comparisons
-between three- and four-year-olds (p = ·) and three- and ﬁve-year-olds
-(p = ·) were not signiﬁcant.
-
-than METONYMS
-
-produce
-
-fewer
-
-COMPOUNDS
-
-D I S C U S S I O N
+between three- and four-year-olds (p = ·) and three- and five-year-olds
+(p = ·) were not significant.
+DISCUSSION.
 These results support use of the form play NP as a productive metonymic
 pattern for both children and adults. More generally, the results support
 the view that preschoolers (and adults) use metonyms, that is, shorthand
 referential expressions based on associative conceptual links, in referring to
 things in the world around them.
-
 Children’s reliance on metonyms rather than compound nouns or
-descriptions in the play-context suggests that
-this pattern might be
+descriptions in the play-context suggests that this pattern might be
 particularly useful to them as a referential strategy, compared to adults,
 who showed no preference for any one strategy over another. While there
-were no age diﬀerences in children’s preference for metonyms, our results
-support
-the expectation that younger children would produce fewer
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
+were no age differences in children’s preference for metonyms, our results
+support the expectation that younger children would produce fewer
 descriptions than the older children and adults. Could it be that metonymy is
 more important as a referential strategy in the earlier stages of language
 acquisition, when children’s vocabulary and expressive abilities are more
@@ -1391,27 +770,21 @@ But even if play NP were stored as a linguistic unit in the child’s memory
 (cf. Arnon & Snider, ), its use still requires the ability to pick out a
 salient feature of a game and use that to identify the game as a whole – in
 other words, it requires some metonymic ability.
-
-The ﬁnding that the younger children produced more compounds to name
+The finding that the younger children produced more compounds to name
 the games is consistent with previous work on children’s use of novel root
 compounds (e.g. Clark et al., ). In the play-context, their noun–noun
 compounds could also be analyzed as metonymic (cf. Konieczna &
-Kleparski, ), since the children used, as the referent of the modiﬁer
+Kleparski, ), since the children used, as the referent of the modifier
 noun in the compound, a part of the game that they found salient or that
 they could remember easily (e.g. the sticker game). Our results reveal for
-the ﬁrst
-in addition to the well-documented process of
-compounding, metonymy oﬀers young children another option for
+the first time that in addition to the well-documented process of
+compounding, metonymy offers young children another option for
 referring to entities for which they lack a conventional term. This also
 shows the close relationship that exists between metonymy and noun–noun
 compounding: both processes are based on the exploitation of salient
 associative relations and may serve similar communicative functions
 (Wilson & Falkum, ).
-
-time that
-
 TASK 
-
 Our third task was designed to further explore children’s ability to produce
 metonyms. This time we used an open naming task and focused on
 metonyms with a naming function. Our goal was to see whether children
@@ -1424,14 +797,6 @@ The regularity of metonymy, claimed to derive from such metonymic
 patterns, has been taken to be one of its distinctive features (Apresjan,
 ). While some have appealed to patterns of underlying conceptual
 associations, so-called ‘conceptual metonymies’ (Lakoﬀ & Johnson, ;
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 Radden & Kövecses, ), others have appealed to (lexical) rules of sense
 extension (Copestake & Briscoe, ; Frisson & Pickering, ).
 Regardless of whether such metonymic patterns are seen as part of the
@@ -1450,8 +815,8 @@ shown unfamiliar types, namely fantasy creatures, for which they lacked a
 conventional label, than when they were presented with familiar types,
 namely people and real animals.
 
-M E T H O D
-Materials
+M E T H O D.
+Materials.
 We selected a total of eighteen digital pictures from the Web. Each one
 depicted an individual (a person, a real animal, or fantasy creature) with a
 distinctive property. The individuals were of either familiar (persons, real
@@ -1461,8 +826,7 @@ PROPERTY FOR INDIVIDUAL (a cat with a hat, a horse with its mane on ﬁre,
 and a man with a large moustache). The experimenter called them The
 Winter Hat, The Fire, and The Moustache, respectively. The pictures were
 presented on an Apple MacBook computer screen.
-
-Procedure
+Procedure.
 Just as before, the task was presented to the children in the form of a game
 that took around  minutes to complete. The children were divided into two
 even groups. Subjects in the ﬁrst group were shown one of the pictures on
@@ -1475,15 +839,7 @@ they were ﬁrst given three examples of possible names that exempliﬁed
 the metonymic pattern PROPERTY FOR INDIVIDUAL (e.g. The Moustache).
 The order of presentation of the pictures was randomized across subjects
 and ages. The same procedure was followed for the adults.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-R E S U L T S
+R E S U L T S.
 We classiﬁed the names produced by the children and adults into one of the
 following types:
 
@@ -1502,141 +858,32 @@ by age. Both children’s and adults’ metonymic names were creative and
 diverse (e.g. “Yellow Eyes”, “Fat Moustache”, “Black Lips”, “The
 Hotdog Hat”, “The Snow-Scarf”, etc.). The NA cases, % of the sample,
 were treated as missing data and excluded from the overall analysis.
-
 As in Task , the dependent variable of answer type was treated in two
-ways in the analyses. In order to investigate any age diﬀerences in
-metonymic namings, we ﬁrst focused only on the participants’ METONYM
+ways in the analyses. In order to investigate any age differences in
+metonymic namings, we first focused only on the participants’ METONYM
 answers, which we treated as a dichotomous variable and analyzed using
-logistic regression. Then,
-to compare the production of
+logistic regression. Then, in order to compare the production of
 metonymic names against that of other answer types, we treated answer
 type as a multilevel categorical variable, which we analysed using
 multinomial regression.
-
-in order
-
-In the ﬁrst,
-
-interaction between age
-
-logistic regression analysis, we examined the dependent
+In the first, logistic regression analysis, we examined the dependent
 variable of METONYM production as a function of the predictor variables
 age (with three-year-olds as the baseline), examples (yes vs. no), and
 familiarity of the individual depicted (familiar vs. unfamiliar). To compare
 children’s sensitivity to the metonymic pattern with that of adults, we
 included an interaction term between age and examples in the analysis.
-The analysis revealed a signiﬁcant main eﬀect of age (p < ·) and a
-(p < ·). First,
-signiﬁcant
-measuring the eﬀect of age in the no-example condition, we observed a
-developmental
-trend in the children towards a higher production of
+The analysis revealed a significant main effect of age (p < ·) and a
+significant interaction between age and examples (p < ·). First,
+measuring the effect of age in the no-example condition, we observed a
+developmental trend in the children towards a higher production of
 METONYMS with age, with four-year-olds about four times (B = ·, OR =
-·, p < ·, % CI [·,·]) and ﬁve-year-olds about ﬁve times (B =
+·, p < ·, % CI [·,·]) and five-year-olds about five times (B =
 ·, OR = ·, p < ·, % CI [·, ·]) more likely to produce
 METONYMS than three-year-olds. However, the production of METONYMS
-among adults in this condition did not diﬀer signiﬁcantly from that of the
-three-year-olds (p = ·). Second, we observed a clear eﬀect of examples
+among adults in this condition did not differ significantly from that of the
+three-year-olds (p = ·). Second, we observed a clear effect of examples
 on three-year-olds’ METONYM productions (B = ·, OR = ·, p < ·,
-% CI [·, ·]). The interaction analysis further showed a large eﬀect
-
-and examples
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-TA B L E . Percentages and standard deviations of answer types elicited in Task ,
-
-by age
-
-Age
-
-Three-year-olds
-(n = )
-
-Four-year-olds
-(n = )
-
-Five-year-olds
-(n = )
-
-Adults
-(n = )
-
-METONYM
-COMPOUND
-DESCRIPTION
-PROPER NAME
-OTHER
-
-M
-
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-·
-
-M
-
-
-
-
-
-
-
-SD
-
-·
-·
-·
-·
-·
-
+% CI [·, ·]). The interaction analysis further showed a large effect
 of examples on adult’s METONYM production (IOR = ·/· = ·), but
 no eﬀect on either four- (IOR = ·/· = ·) or ﬁve-year-olds (IOR =
 ·/· = ·). Finally, the analysis revealed a signiﬁcant main eﬀect of
@@ -1651,356 +898,110 @@ PROPER NAME, OTHER), with METONYM as the baseline category. The
 baselines for the predictors were identical to those in the logistic regression
 analysis. The answers for each age group were compared against those of
 three-year-olds (cf. Table ). Table  summarizes the results.
-
-Not surprisingly, whether the participant was given examples ﬁrst
-signiﬁcantly aﬀected their production of all answer types (except OTHER:
-p = ·), with the largest eﬀect observed for PROPER NAMES (OR = ·),
+Not surprisingly, whether the participant was given examples first
+significantly affected their production of all answer types (except OTHER:
+p = ·), with the largest effect observed for PROPER NAMES (OR = ·),
 with an increase in OR of · in the absence of exposure to examples.
-Table  also shows signiﬁcant age eﬀects on some answer types. For
-COMPOUNDS, we observed a tendency for ﬁve-year-olds to produce more
-than three-year-olds did (OR = ·, p = ·), but
-there were no
-signiﬁcant diﬀerences by age groups. Three-year-olds were signiﬁcantly
-more likely to produce DESCRIPTIONS than ﬁve-year-olds (OR = ·) and
-adults (OR = ·), but did not diﬀer signiﬁcantly from four-year-olds
-(p = ·). Similarly, ﬁve-year-olds (OR = ·) and adults (OR = ·)
+Table  also shows significant age effects on some answer types. For
+COMPOUNDS, we observed a tendency for five-year-olds to produce more
+than three-year-olds did (OR = ·, p = ·), but there were no
+significant differences by age groups. Three-year-olds were significantly
+more likely to produce DESCRIPTIONS than five-year-olds (OR = ·) and
+adults (OR = ·), but did not differ significantly from four-year-olds
+(p = ·). Similarly, five-year-olds (OR = ·) and adults (OR = ·)
 produced fewer proper names than three-year-olds, but there were no
-signiﬁcant diﬀerences between three- and four-year-olds (p = ·). The
-familiarity of
-the depicted individual predicted the production of
+significant differences between three- and four-year-olds (p = ·). The
+familiarity of the depicted individual predicted the production of
 COMPOUNDS and DESCRIPTIONS, with participants being less likely to
-produce COMPOUNDS
-than
+produce COMPOUNDS (OR = ·) or DESCRIPTIONS (OR = ·) than
 METONYMS when the referents were familiar types.
-
-(OR = ·) or DESCRIPTIONS
-
-(OR = ·)
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-TA B L E . Multinomial logistic regression analysis for the production of answer
-types
-in Task  with the predictors Age(three), Example(no) and
-Familiarity(unfamiliar) (N = )*
-
-B
-
-Odds Ratio
-
-p-value
-
-Lower
-
-Upper
-
-% CI for Odds Ratio
-
-COMPOUND vs. METONYM
-
-Age(three)
-Age(four)
-Age(ﬁve)
-Age(adults)
-Example
-Familiarity
-Constant
-
-·
-·
-−·
-−·
-−·
-−·
-
-DESCRIPTION vs. METONYM
-
-Age(three)
-Age(four)
-Age(ﬁve)
-Age(adults)
-Example
-Familiarity
-Constant
-
-−·
-−·
-−·
-−·
-−·
-·
-
-PROPER NAME vs. METONYM
-
-Age(three)
-Age(four)
-Age(ﬁve)
-Age(adults)
-Example
-Familiarity
-Constant
-
-OTHER vs. METONYM
-
-Age(three)
-Age(four)
-Age(ﬁve)
-Age(adults)
-Example
-Familiarity
-Constant
-
-·
-−·
-−·
-−·
-−·
-·
-
-−·
-−·
-·
-−·
-−·
-−·
-
-NOTE: * Baselines in parentheses.
-
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-<·
-·
-
-·
-<·
-·
-<·
-<·
-<·
-
-·
-·
-·
-<·
-·
-·
-
-·
-·
-<·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
 It should be noted that, due to the division of each age group, the number
-of subjects was quite small
-in this task. However, we had repeated
+of subjects was quite small in this task. However, we had repeated
 observations and the number of valid observations was large (n =  in
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 the no-example condition, n =  in the example condition). Since our
 p-values were generally small (<·) for the majority of the statistically
 signiﬁcant predictor variables, the conclusions drawn are likely to be well
 founded, but our ﬁndings should be viewed as preliminary.
 
-D I S C U S S I O N
-The results from Task  provide further support
-for the view that
+D I S C U S S I O N.
+The results from Task  provide further support for the view that
 preschoolers can produce referential metonyms, in this case metonymic
 names based on salient properties for animate beings. The results also
-show that prior exposure to examples of a metonymic pattern aﬀects the
-number of metonyms adults produce. For children,
-though, only
-the three-year-olds, but not the four- or ﬁve-year-olds, appeared to be
-inﬂuenced by the examples given. Also, contrary to our expectations,
+show that prior exposure to examples of a metonymic pattern affects the
+number of metonyms adults produce. For children, though, only
+the three-year-olds, but not the four- or five-year-olds, appeared to be
+influenced by the examples given. Also, contrary to our expectations,
 unfamiliar types of referents did not increase metonym production. In
 fact, familiar types proved more likely to elicit metonyms than unfamiliar
-ones, which were in turn associated with a greater
-likelihood of
+ones, which were in turn associated with a greater likelihood of
 compounds and descriptions.
-
 Overall, participants produced metonyms about one-third of the time in
 Task . This number needs to be considered in the light of the variety of
 possible terms that could apply to any one type of individual, and the fact
 that this was an open-ended task, especially in the no-example condition.
 Metonymy, then, is clearly available as a productive labelling strategy for
 both preschoolers and adults.
-
-In this task, age was a signiﬁcant predictor of metonym production, with
+In this task, age was a significant predictor of metonym production, with
 older children producing more metonymic names. Unlike the shorthands
 elicited in Task , which required the ability to represent and exploit a
-part-for-whole relation in making a reference,
-the metonymic names
+part-for-whole relation in making a reference, the metonymic names
 produced here required a higher degree of metalinguistic ability, taking a
 familiar term as a new name for an individual. The greater production of
-metonymic names by four- and ﬁve-year-olds
-compared with the
+metonymic names by four- and five-year-olds compared with the
 three-year-olds when given no examples is consonant with the emergence
 of certain metalinguistic skills around age four (Doherty & Perner, ).
-
-Exposure to examples of a metonymic pattern had an eﬀect only on
+Exposure to examples of a metonymic pattern had an effect only on
 three-year-olds (and adults), but not on the older children: this was
-unexpected. But note that the age diﬀerences found for the interaction
+unexpected. But note that the age differences found for the interaction
 between age and examples pattern with those found in Task , where
 three-year-olds also looked more like adults than did the older children.
-One explanation could be that the three-year-olds chose the ﬁrst terms
-that came to mind, without reﬂection, so the examples they heard could
+One explanation could be that the three-year-olds chose the first terms
+that came to mind, without reflection, so the examples they heard could
 have made metonym production more accessible. Although three-year-olds
-rarely produced metonymic nicknames spontaneously, our ﬁndings suggest
+rarely produced metonymic nicknames spontaneously, our findings suggest
 that they could already extract some metonymic patterns. The older
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 children, however, may have used a more reﬂective strategy in which they
 focused on coming up with names that would ﬁt the individuals in the
 pictures. This could have outweighed any eﬀect of prior exposure to
 examples of metonymic names.
-
-We also found age diﬀerences for other answer types in this task, not just for
-metonyms. Unlike in Task , the youngest children were more likely to produce
+We also found age differences for other answer types in this task, not just for
+metonyms.Unlike inTask , the youngest childrenwere more likely to produce
 descriptions than other ages. Using descriptions may have been easier in this
 task than in referring to the games in Task , since children did not have to
 remember any earlier instructions. In addition, metonymic naming could be
 more demanding in the metalinguistic skill required. This could explain the
-relatively low number of metonyms produced by three-year-olds
-in
+relatively low number of metonyms produced by three-year-olds in
 the no-example condition. Ease of production could then explain reliance on
-other answer types,
-in particular descriptions and proper names, from
-three-year-olds compared with ﬁve-year-olds and adults.
-
-Finally, the ﬁnding that pictures of people and familiar animal types
+other answer types, in particular descriptions and proper names, from
+three-year-olds compared with five-year-olds and adults.
+Finally, the finding that pictures of people and familiar animal types
 elicited more metonyms than compounds or descriptions suggests that
 referential metonymy of this kind serves mainly to create additional names
 for individual types already known to children.
-
-G E N E R A L D I S C U S S I O N
+<Conclusion>
+GENERAL DISCUSSION.
 The goal of this study was to investigate preschoolers’ skill in interpreting
 and producing novel metonyms. Our focus was on whether young children
 could cope pragmatically with metonymic meanings, and, if so, whether
 we could identify a stage at which this skill emerged, and whether this
-corresponded to the emergence of other kinds of ﬁgurative language. We
-considered two issues: ﬁrst, whether children could understand novel
+corresponded to the emergence of other kinds of figurative language. We
+considered two issues: first, whether children could understand novel
 metonyms in contexts where the metonymic association was available
 perceptually and linguistically; and second, whether the same children
 could produce referential metonyms, both with a shorthand and a naming
 function. However, since metonymic names appear to be more complex
 than metonymic shorthands, we proposed that the ability to produce
 metonymic names might be a later acquisition.
-
 We found some support for both proposals. First, the results of Task 
 suggested that, by age three, children are pragmatically skilled enough to
 understand some novel metonyms in context, although they have some
 way to go before they reach an adult level of understanding. Children also
 became better able to explain metonymic meanings between age three and
-age ﬁve. Surprisingly, performance on the comprehension task appeared to
+age five. Surprisingly, performance on the comprehension task appeared to
 decrease with age, with older children more likely to choose literal than
-ﬁgurative interpretations of novel metonyms.
-
+figurative interpretations of novel metonyms.
 Second, the results of Task  suggested that preschoolers can use
 metonymy as a shorthand referential strategy. This form of metonymy was
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 equally prevalent in three-, four-, and ﬁve-year-olds. The results also
 showed that three-year-olds produced fewer descriptions than the older
 children in the play-context, suggesting that they found it easier to use a
@@ -2009,8 +1010,7 @@ complex syntactically and conceptually. Finally, the results of Task 
 suggested that the ability to produce metonymic names for individuals
 based on salient properties also emerges in the preschool years, but
 slightly later than metonymic shorthands.
-
-The metonymic skill of preschoolers
+The metonymic skill of preschoolers.
 Based on these results, what picture can we draw of preschoolers’ metonymic
 skill? Our ﬁndings suggest that three-year-olds are already pragmatically
 skilled enough to understand some novel metonymic expressions in
@@ -2031,8 +1031,7 @@ comprehension task? Notice that most of them did not seem able to reﬂect
 on their meanings, that is, reﬂect on what the speaker could have ‘meant’,
 although such meta-reﬂection is not required for proper understanding.
 Indeed, three-year-olds could be ‘naive’ interpreters in this task in the
-sense
-in constructing an
+sense they follow a path of least eﬀort in constructing an
 interpretation of the speaker’s utterance, which could have involved seizing
 on anything (e.g. the helmet, the moustache, etc.) that allowed them to
 identify the referent. As Sperber () pointed out, a naive interpretation
@@ -2040,26 +1039,10 @@ strategy could yield adequate comprehension whenever the speaker is
 benevolent and skilled enough to realize what is relevant and salient for
 the addressee at that instant. In the comprehension task, we tried to
 achieve this by giving practice trials for metonymic interpretations ﬁrst,
-and making sure that
-the metonymic association was perceptually
+and making sure that the metonymic association was perceptually
 available, even salient, in context. However, older children may have been
-following a more ‘cautious’
-interpretation strategy, one that takes into
+following a more ‘cautious’ interpretation strategy, one that takes into
 account the possibility that the speaker could have misjudged what would
-
-they follow a path of
-
-that
-
-least eﬀort
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
 be most accessible and relevant on that occasion. Older children’s frequent
 hesitations between metonymic and literal interpretations give support to
 the possibility that they were relying on a more advanced comprehension
@@ -2086,45 +1069,25 @@ Even if this were the case, it remains to be explained why three-year-olds were
 sensitive to, and able to extract the metonymic pattern PROPERTY FOR
 INDIVIDUAL from the examples provided, while the four-and ﬁve-year-olds
 apparently did not.
-
-reﬂects
-
-that
-
-is
-
-another option, one
-
-Referential strategies
+Referential strategies.
 The two production tasks provide some insight into the strategies young
 children can use in referring to things that lack a ready-made category label
 (Task ) or proper name (Task ). The morphologically simplest strategy is to
 use simple noun phrases in the form of metonymic shorthands (the straws, the
 moustache). The use of novel compound nouns (the straw game, the moustache
-man)
-complex
-morphologically. The third, most complex type, with modiﬁed noun phrases
+man) reflects another option, one that is slightly more complex
+morphologically. The third, most complex type, with modified noun phrases
 for the target referents (the game with the straws, the man with the big
-moustache), oﬀers yet another means of referring where there is no ready-made
-term. Each referential strategy the children employed reﬂects a path into the
-kinds of uses adults make of these devices. One common context for the ﬁrst
+moustache), offers yet another means of referring where there is no ready-made
+term. Each referential strategy the children employed reflects a path into the
+kinds of uses adults make of these devices. One common context for the first
 two strategies is news headlines, e.g. “Syria and Iraq can’t be solved by
 western boots on the ground” (The Guardian, ..), “Ruling in death
 of Ferrari woman” (referring to a woman who wanted to be buried in her
 Ferrari; cf. Clark & Clark, , p. ), etc., both exploiting salient
 associations in making shorthand reference.
-
-slightly more
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
 In Task , three-year-olds’ frequent use of simple noun phrases in the
-form of metonymic shorthands, and relatively rare use of modiﬁed noun
+form of metonymic shorthands, and relatively rare use of modified noun
 phrases, suggests that morphological complexity may play some role in
 choices of referential expression. It also suggests that the production of a
 metonym – at least in this task – may actually be conceptually easier than
@@ -2132,326 +1095,48 @@ production of a more elaborate, ‘literal’ description. Further support for
 this comes from possible precursors to metonymy: overextensions, early
 symbolic gestures, onomatopoeias, even denominal verbs, produced by
 very young children to compensate for gaps in their current vocabulary.
-In Task , however, the youngest children’s preference for modiﬁed
+In Task , however, the youngest children’s preference for modified
 noun phrases over simple ones in the naming of animate beings, suggests
-that
-the demands of metonymic naming can sometimes outweigh
+that the demands of metonymic naming can sometimes outweigh
 morphological complexity.
-
-Taken together, the ﬁndings from Tasks  and  show for the ﬁrst time
+Taken together, the findings from Tasks  and  show for the first time
 that for children, metonymy may serve a function similar to compounding,
 as a productive option for referring to entities that lack a conventional
-label or proper name. Interestingly, the ﬁndings from Task  also suggest
+label or proper name. Interestingly, the findings from Task  also suggest
 that the referential functions of metonymy and compounding may to some
-extent be
-familiar
+extent be complementary, with metonyms used to name familiar
 individual types and compounds unfamiliar ones.
-
-complementary, with metonyms used to name
-
 Metonymy vs. metaphor
-Our ﬁndings suggest that children’s ability to deal with metonymy starts to
+Our findings suggest that children’s ability to deal with metonymy starts to
 emerge early on, with some ability to understand, produce, and explain
 metonyms already established by age three. This is a year or two earlier
 than has been suggested for metaphor (cf. Özçalışkan, ; Stites &
 Özçalışkan, ), and adds support to the view that metonymy may be
 conceptually simpler than metaphor (Rundblad & Annaz, ; but cf.
 Van Herwegen et al., ). It also suggests that metonymy and metaphor
-may be rather diﬀerent processes, as some pragmatic theories have
+may be rather different processes, as some pragmatic theories have
 proposed (e.g. Papafragou, ; Wilson & Carston, ). However, the
 literal preference in comprehension among older children patterns with
-similar ﬁndings from studies of metaphor (e.g. Asch & Nerlove, ;
+similar findings from studies of metaphor (e.g. Asch & Nerlove, ;
 Billow, ; Winner, /; Winner et al., ), and suggests that
 both abilities interact with and depend on the development of more
-general metalinguistic and pragmatic skills. A crucial point
-is what
+general metalinguistic and pragmatic skills. A crucial point is what
 underlies the notion of a ‘literal preference’. Some researchers have taken
 it to involve a primitive form of comprehension, prevalent until school
 age, in which linguistic input is processed piece-by-piece without taking
-context
-that
-production does not seem to be aﬀected, and that ﬁve-year-olds, for all
+context into account (Levorato & Cacciari, ). But the fact that
+production does not seem to be affected, and that five-year-olds, for all
 their literal-mindedness, show signs of employing a more sophisticated
-
-(Levorato & Cacciari, ). But
-
-into account
-
-the fact
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-comprehension strategy where they reﬂect explicitly on what the speaker
+comprehension strategy where they reflect explicitly on what the speaker
 might have meant by the choice of linguistic expression, leads us to treat
-these ﬁndings as more compatible with a view that takes the literal
+these findings as more compatible with a view that takes the literal
 preference to involve no more than a tendency to choose literal over
-ﬁgurative interpretations at a certain stage in development, due to some
+figurative interpretations at a certain stage in development, due to some
 form of competition between the two. The parallel development of the
 child’s metalinguistic and pragmatic skills may simply give a false
 impression of primitive understanding.
-
-Finally, these ﬁndings suggest that a key next step is to explore how the
-acquisition of ﬁgurative devices such as metonymy interacts with the
+Finally, these findings suggest that a key next step is to explore how the
+acquisition of figurative devices such as metonymy interacts with the
 development of other communication-relevant abilities – one being
-metalinguistic awareness – which plausibly inﬂuence children’s ﬁgurative
+metalinguistic awareness – which plausibly influence children’s figurative
 language competence.
-
-Acredolo, L. & Goodwyn, S.
-
-Development , –.
-
-(). Symbolic gesturing in normal
-
-infants. Child
-
-R E F E R E N C E S
-
-Akhtar, N., Carpenter, M. & Tomasello, M. (). The role of discourse novelty in early
-
-word learning. Child Development , –.
-
-Apresjan, J. D. (). Regular polysemy. Linguistics (), –.
-Arnon, I. & Snider, N. (). More than words: frequency eﬀects for multi-word phrases.
-
-Journal of Memory and Language (), –.
-
-Asch, S. & Nerlove, H. (). The development of double function terms in children: an
-exploratory investigation. In B. Kaplan & S. Wapner (eds), Perspectives in psychological
-theory: essays in honor of Heinz Werner, –. New York: International Universities Press.
-Billow, R. M. (). A cognitive developmental study of metaphor comprehension.
-
-Developmental Psychology (), –.
-
-Bloom, P. (). Mindreading, communication and the learning of names for things. Mind
-
-& Language /, –.
-
-Bowerman, M. (). Starting to talk worse: clues to language acquisition from children’s
-late speech errors. In R. Stavy & S. Strauss (eds), U-shaped behavioural growth, –.
-New York: Academic Press.
-
-Bushnell, E. W. & Maratsos, M. P. (). ‘Spooning’ and ‘basketing’: children’s dealing with
-
-accidental gaps in the lexicon. Child Development , –.
-
-Clark, E. V. (). The young word maker: a case study of innovation in the child’s lexicon.
-In E. Wanner & L. Gleitman (eds), Language acquisition: the state of the art, –.
-Cambridge: Cambridge University Press.
-
-Clark, E. V. (). Conceptual perspective and lexical choice in acquisition. Cognition ,
-
-–.
-
-Clark, E. V. & Clark, H. H. (). When nouns surface as verbs. Language (), –.
-Clark, E. V., Gelman, S. A. & Lane, N. M. (). Compound nouns and category structure
-
-in young children. Child Development (), –.
-
-Copestake, A. & Briscoe, T. (). Semi-productive polysemy and sense extension. Journal
-
-of Semantics (), –.
-
-Crozier, W. R. & Dimmock, P. S. (). Name-calling and nicknames in a sample of primary
-
-school children. British Journal of Educational Psychology (), –.
-
-Deamer, F. (). An investigation into the processes and mechanisms underlying the
-and hyperbole. Unpublished doctoral dissertation,
-
-comprehension of metaphor
-University College London.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-F A L K U M E T A L.
-
-Doherty, M. & Perner, J. (). Metalinguistic awareness and theory of mind: Just two
-
-words for the same thing? Cognitive Development (), –.
-
-Ervin, S. (). Imitation and structural change in children’s language. In E. H. Lenneberg
-
-(ed.), New directions in the study of language, –. Cambridge, MA: MIT Press.
-
-Fleiss, J. L. (). Measuring nominal scale agreement among many raters. Psychological
-
-Bulletin (), –.
-
-Frisson, S. & Pickering, M. J. (). The processing of familiar and novel senses of a word:
-why reading Dickens is easy but reading Needham can be hard. Language and Cognitive
-Processes (), –.
-
-Gibbs, R. W. (). The poetics of mind. Cambridge: Cambridge University Press.
-Gombert, J. E. (). Metalinguistic development. New York: Harvester Wheatsheaf.
-Gottfried, G. M. (). Using metaphors as modiﬁers: children’s production of metaphoric
-
-compounds. Journal of Child Language , –.
-
-Huttenlocher, J. & Smiley, P. (). Early word meanings: the case of object names.
-
-Cognitive Psychology , –.
-
-Jaeger, T. F. (). Categorical data analysis: away from ANOVAs (transformation or not)
-
-and towards logit mixed models. Journal of Memory and Language , –.
-
-Karmiloﬀ-Smith, A. (). Beyond modularity: a developmental perspective on cognitive
-
-science. Cambridge, MA: MIT Press.
-
-Keil, F. C.
-
-(). Conceptual domains and the acquisition of metaphor. Cognitive
-
-Kendon, A. (). Gesture: visible action as utterance. Cambridge: Cambridge University
-
-Development , –.
-
-Press.
-
-Konieczna, E. & Kleparski, G. A. (). Motivation in language: the case of metonymically
-
-motivated innovative nouns in children’s speech. Odisea , –.
-
-Lakoﬀ, G. & Johnson, M. (). Metaphors we live by. Chicago, IL: University of Chicago
-
-Press.
-
-Landis, J. R. & Koch, G. G. (). The measurement of observer agreement for categorical
-
-data. Biometrics , –.
-
-Levorato, M. C. & Cacciari, C. (). The creation of new ﬁgurative expressions:
-psycholinguistic evidence in Italian children, adolescents and adults. Journal of Child
-Language , –.
-
-MacWhinney, B. (). The CHILDES Project: tools for analyzing talk. Mahwah, NJ:
-
-Lawrence Erlbaum Associates.
-
-Mittelberg, I. (). Metaphor and metonymy in language and gesture: discourse evidence
-for multimodal models of grammar. Unpublished doctoral dissertation, Cornell
-University, Ithaca, NY.
-
-Nerlich, B. & Clarke, D. D.
-
-(). Serial metonymy: a study of reference-based
-
-polysemisation. Journal of Historical Pragmatics (), –.
-
-Nerlich, B., Clarke, D. D. & Todd, Z. (). ‘Mummy, I like being a sandwich.’ Metonymy
-in language acquisition. In K. Panther & G. Radden (eds), Metonymy in language and
-thought, –. Amsterdam: John Benjamins.
-
-Noveck, I. (). When children are more logical than adults: experimental investigations of
-
-scalar implicature. Cognition , –.
-
-Nunberg, G. (). The non-uniqueness of semantic solutions: polysemy. Linguistics and
-
-Philosophy (), –.
-
-Özçalışkan, Ş. (). On learning how to draw the distinction between physical and
-metaphorical motion: Is metaphor an early emerging cognitive and linguistic capacity?
-Journal of Child Language , –.
-
-Papafragou, A. (). On metonymy. Lingua , –.
-Papafragou, A. & Musolino, J. (). Scalar implicatures: experiments at the semantics–
-
-pragmatics interface. Cognition , –.
-
-Pouscolous, N. (). Metaphor: For adults only? Belgian Journal of Linguistics , –.
-Rabagliati, H., Marcus, G. F. & Pylkkänen, L. (). Shifting senses in lexical semantic
-
-development. Cognition , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-T H E A C Q U I S I T I O N O F M E T O N Y M Y
-
-Radden, G. & Kövecses, Z. (). Towards a theory of metonymy. In K.-U. Panther &
-G. Radden (eds), Metonymy in language and thought, –. Amsterdam: John
-Benjamins Publishing.
-
-Rosch, E., Mervis, C., Gray, W. D., Johnson, D. M. & Boyes-Braem, P. (). Basic objects
-
-in natural categories. Cognitive Psychology , –.
-
-Rundblad, G. & Annaz, D. (). Development of metaphor and metonymy comprehension:
-receptive vocabulary and conceptual knowledge. British Journal of Developmental
-Psychology , –.
-
-Schönefeld, D. (). Zero-derivation – functional change – metonymy. In L. Bauer &
-S. Valera (eds), Approaches to conversion/zero-derivation, –. Münster: Waxmann
-Verlag.
-
-Sperber, D. (). Understanding verbal understanding. In J. Khalfa (ed.), What is
-
-intelligence? –. Cambridge: Cambridge University Press.
-
-Sperber, D. & Wilson, D. (/). Relevance: communication and cognition. Oxford:
-
-Blackwell.
-
-Stites, L. & Özçalışkan, Ş. (). Developmental changes in children’s comprehension and
-
-explanation of spatial metaphors for time. Journal of Child Language , –.
-
-Tunmer, W. E., Pratt, C. & Herriman, M. L. (eds) (). Metalinguistic awareness in
-
-children. Berlin: Springer-Verlag.
-
-Van Herwegen, J., Dimitriou, D. & Rundblad, G. (). Development of novel metaphor
-and metonymy comprehension in typically developing children and Williams syndrome.
-Research in Developmental Disabilities (), –.
-
-Vosniadou, S. (). Children and metaphors. Child Development (), –.
-Vosniadou, S. & Orthony, A. (). The emergence of the literal–metaphorical–anomalous
-
-distinction in young children. Child Development , –.
-
-Warren, B. (). Referential metonymy. Lund: Publications of the Royal Society of Letters
-
-at Lund.
-
-Wilson, D. & Carston, R. (). A unitary approach to lexical pragmatics: relevance,
-inference and ad hoc concepts. In N. Burton-Roberts (ed.), Pragmatics, –. London:
-Palgrave.
-
-Wilson, D. & Falkum, I. L. (). Metonymy and relevance. Paper presented at the
-
-Workshop on Relevance, Literariness and Style, Middlesex University, London.
-
-Wilson, D. & Sperber, D. (). Meaning and relevance. Cambridge: Cambridge University
-
-Press.
-
-Winner, E. (/). The point of words: children’s understanding of metaphor and irony.
-
-Cambridge, MA: Harvard University Press.
-
-Winner, E., Engel, M. & Gardner, H. (). Misunderstanding metaphor: What’s the
-
-problem. Journal of Experimental Child Psychology , –.
-
-Winner, E., Rosenstiel, A. K. & Gardner, H. (). The development of metaphoric
-
-understanding. Developmental Psychology (), –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:26:29, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000915000720
-
-

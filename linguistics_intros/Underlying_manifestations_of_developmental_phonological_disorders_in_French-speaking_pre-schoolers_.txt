@@ -1,146 +1,42 @@
-J. Child Lang.  (), –. © Cambridge University Press 
-doi:./S
-
-Underlying manifestations of developmental
-phonological disorders in French-speaking
-
-pre-schoolers*
-
-FRANÇOISE BROSSEAU-LAPRÉ
-
-Department of Speech, Language, and Hearing Sciences, Purdue University,
-
-West Lafayette, Indiana, USA
-
-A N D
-
-SUSAN RVACHEW
-
-School of Communication Sciences and Disorders, McGill University,
-
-Montreal, Quebec, Canada and Center for Research on Brain, Language &
-
-Music, McGill University, Montreal, Quebec, Canada
-
-(Received  December  – Revised  July  – Accepted  September  –
-
-First published online  November )
-
-A B S T R A C T
-
-This study examined the psycholinguistic proﬁles of Quebec French-
-speaking children with developmental phonological disorders (DPD).
-The purpose was to determine whether the endophenotypes that have
-been identiﬁed in English-speaking children with DPD are similarly
-associated with speech impairment
-in French-speaking children.
-Seventy-two children with DPD and ten children with normally
-developing speech, aged four to six years, received a comprehensive
-assessment battery that included measures at the phenotype level (i.e.
-measures of overt speech production skills) and endophenotype level
-(i.e. measures of potential underlying core deﬁcits
-such as
-
-[*] We thank the children and their parents who generously agreed to participate in the study,
-as well as the research assistants, speech-language pathologists, and speech-language
-pathology students who were part of the project. We also wish to thank Dr Lawrence
-Shriberg for providing the stimuli for the Syllable Repetition Task and for his
-assistance with the SRT data analysis. This research was supported by a Standard
-Research Grant from the Social Sciences and Humanities Research Council of Canada
-to the second author and a Bourse de formation de doctorat from the Fonds de
-recherche en santé du Québec to the ﬁrst author. The Centre for Research on Brain,
-Language & Music is funded by the Government of Quebec via the Fonds de
-Recherche Nature et Technologies and Société et Culture. The research consists of a
-portion of the ﬁrst author’s PhD, supervised by the second author. Address for
-correspondence: Françoise Brosseau-Lapré, Purdue University – Speech, Language, and
-Hearing Sciences,  Clinic Drive, West Lafayette, Indiana , United States.
-e-mail: fbrossea@purdue.edu
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-phonological processing or oral motor impairments). The majority of
-the children with DPD presented with a psycholinguistic proﬁle
-indicative of diﬃculties with phonological processing. Phonological
-processing skills also explained unique variance in speech production
-accuracy, indicating that French-speaking children with DPD, who
-produce diﬀerent surface speech errors than English-speaking children
-with DPD, are nonetheless very similar with regards
-to their
-underlying psycholinguistic proﬁle.
-
-the underlying nature of
-
-I N T R O D U C T I O N
+I N T R O D U C T I O N.
 The remediation of misarticulations in children’s speech has been a core part
-of speech-language pathology practice since the earliest days of
-the
+of speech-language pathology practice since the earliest days of the
 profession (Van Riper,  []), and the treatment of unintelligible
 speech remains a prominent function of the speech-language pathologist
-(Schooling, ). However, treatment approaches are more eﬃcient now
-the problem is
-that we understand that
-considerably more
-faulty habits of
+(Schooling, ). However, treatment approaches are more efficient now
+that we understand that the underlying nature of the problem is
+considerably more complex than “persistence of faulty habits of
 articulation” (Morley, , p. ). Modern conceptualizations of speech
-sound disorders, such as the Speech Disorders Classiﬁcation System
+sound disorders, such as the Speech Disorders Classification System
 (Shriberg, ; Shriberg, Austin, Lewis, McSweeny & Wilson, ;
 Shriberg et al., ; Shriberg, Lewis, Tomblin, McSweeny, Karlsson &
 Scheer, ; Shriberg, Lohmeier, Strand & Jakielski, ) recognize
-multiple distal
-observed
-heterogeneity in clinical typology. Speciﬁcally, speech characteristics vary
+multiple distal and proximal causes that explain the observed
+heterogeneity in clinical typology. Specifically, speech characteristics vary
 greatly between children with speech sound disorders as well as within
 children across developmental time.
-
-complex than “persistence of
-
-and proximal
-
-causes
-
-that
-
-explain the
-
 In terms of distal causes, environmental risk and protective factors interact
 with the genotype, to produce varying trajectories of speech development.
 The heritability of speech disorders is now well established (Lewis et al.,
-), and some speciﬁc genetic causes have been identiﬁed. For example,
+), and some specific genetic causes have been identified. For example,
 polymorphisms in the FOXP gene are associated with apraxia of speech,
 a motor speech disorder characterized by poor voluntary control of speech
 movements. However, these polymorphisms and apraxia of speech as a
 subtype of speech disorder are both rare. More commonly, speech
-diﬃculties in children are phonological in nature and the underlying distal
+difficulties in children are phonological in nature and the underlying distal
 cause conforms to the common disease / common variant model described
 by Bishop (). Accordingly, the etiology is multifactorial, involving
 interactions among many genetic and environmental factors that combine
 to explain the full range of variance in speech intelligibility. The large
-number of genes involved, each having small eﬀects, accounts for the
+number of genes involved, each having small effects, accounts for the
 heterogeneity observed within the general population and within
 diagnostic subgroups. Therefore, advances in our understanding of the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
 genetic underpinnings of speech sound disorders have limited direct clinical
 application despite hope for the future (Morgan, ).
-
-causes map roughly on to the
-
 More promising as a guide to individualizing treatment approaches is an
 understanding of the more proximal causes of the child’s speech problem.
-These proximal
-the
-endophenotype – the network of structural mechanisms and neurolinguistic
+These proximal causes map roughly on to the
+concept of the endophenotype – the network of structural mechanisms and neurolinguistic
 processes responsible for speech development. As a core feature of the
 disorder, the processes that are associated with the child’s speech deﬁcit
 should be measurable even as the child matures or when there are changes
@@ -149,56 +45,31 @@ expected even as the phenotype is changing with development and
 environmental inputs such as speech therapy. Oral motor functioning and
 phonological processing will be considered here as possible proximal
 causes of a primary developmental speech sound disorder.
-
-concept of
-
 Several approaches to speech therapy are based on the view that
 unintelligible or misarticulated speech is caused by diﬃculties with speech
 motor control (Lof & Watson, ) especially when the child’s speech
 contains inconsistent speech errors or distortion errors (Betz & Stoel-
 Gammon, ; Broomﬁeld & Dodd, ; Forrest, ). However,
 motor speech disorders are actually very rare, perhaps –% of
-the
-population of children with primary developmental speech impairments
+the population of children with primary developmental speech impairments
 (e.g. Bradford & Dodd, ; Shriberg, ). Some children with speech
 errors demonstrate signiﬁcant diﬃculties with strength, rate, or patterns of
-articulator movement when assessed with appropriate
-technologies
+articulator movement when assessed with appropriate technologies
 (Gibbon, ; Goozée, Murdoch, Ozanne, Cheng, Hill & Gibbon, ).
 However, these diﬃculties cannot be discerned from the characteristics of
 the children’s speech errors, as is sometimes assumed as in the case of so-
 called phonetic disorder, i.e. distortion errors are thought to be motoric in
-nature but
-are often associated with cognitive-linguistic
+nature but in fact are often associated with cognitive-linguistic
 endophenotypes and may not be associated with underlying phonetic
 instability (Preston & Edwards, ; Preston & Koenig, ). Therefore,
-more direct measures of
-such as maximum
-performance
-(Thoonen,
+more direct measures of speech motor control, such as maximum
+performance tasks, are more diagnostically informative (Thoonen,
 Maassen, Gabreels & Schreuder, ; Murray, McCabe, Heard &
 Ballard, ).
-
-are more diagnostically informative
-
-speech motor control,
-
-in fact
-
-tasks,
-
-tasks
-
-that
-
-involve encoding,
-
 Children with speech sound disorders have been observed to struggle with
-storing, and manipulating
-a range of
+a range of tasks that involve encoding, storing, and manipulating 
 phonological representations as measured by tests of speech perception
-(Edwards, Fox & Rogers,
-),
+(Edwards, Fox & Rogers,),
 phonological memory (Munson, Edwards & Beckman, ; Sahlén,
 Reuterskiöld-Wagner, Nettelbladt & Radeborg, ; Shriberg et al.,
 ),
@@ -207,82 +78,49 @@ Dunkelberger, Anthony, Williams & Zhang, ; Bird, Bishop &
 
 ; Rvachew & Grawburg,
 
-and phonological
-
-awareness
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-Freeman, ; Larrivee & Catts, ). Phonological processing
+and phonological awareness (Freeman, ; Larrivee & Catts, ).Phonological processing
 impairments are particularly well established as an endophenotype for
 speech sound disorder, especially since children with a history of
 unintelligible speech who no longer present with surface speech errors
-nonetheless
-to present with long-standing phonological
-processing deﬁcits (Raitano, Pennington, Tunick, Boada & Shriberg,
-). Furthermore,
-in phonological processing are
+nonetheless continue to present with long-standing phonological
+processing deficits (Raitano, Pennington, Tunick, Boada & Shriberg,
+). Furthermore, these deficits in phonological processing are
 associated with concomitant reading disability, and this conjoint risk for
 speech and reading disability is associated with common genetic risk
 factors (Smith, Pennington, Boada & Shriberg, ).
-
-these deﬁcits
-
-continue
-
-the links
-
 Although research at the endophenotype level leads to a sense of consensus
-(the majority of children with a speech sound disorder have diﬃculties with
-phonological processing),
-from the endophenotype to the
+(the majority of children with a speech sound disorder have difficulties with
+phonological processing), the links from the endophenotype to the
 phenotype level of description are not straightforward. As previously
-mentioned,
-the clinical presentation of children with speech sound
+mentioned, the clinical presentation of children with speech sound
 disorders is heterogeneous, and various schemas have been proposed to
-group the population into subtypes based on proﬁles of speech errors. In
+group the population into subtypes based on profiles of speech errors. In
 particular, Dodd () has proposed that distortion errors, inconsistent
 errors, typical phonological process errors, and atypical error patterns
-diﬀerentiate subtypes that also map onto discrete proximal causes. In
+differentiate subtypes that also map onto discrete proximal causes. In
 particular, children with atypical patterns of phonological error were
 expected to have a family history of speech errors and underlying
-diﬃculties with phonological processing, but in fact these characteristics
+difficulties with phonological processing, but in fact these characteristics
 were found to be commonly occurring among samples of English-speaking
 children with a speech sound disorder, regardless of their patterns of speech
-errors. Rather, the error type proﬁles identiﬁed by Dodd may reﬂect
-developmental and severity gradients rather than qualitative diﬀerences
+errors. Rather, the error type profiles identified by Dodd may reflect
+developmental and severity gradients rather than qualitative differences
 between subgroups of children (Rvachew & Brosseau-Lapré, ).
-
 Heterogeneity in the pattern of speech errors produced by children with
-speech sound disorders might also reﬂect environmental factors rather than
-diﬀerences in the underlying phenotype. This can be seen by comparing
-the speech errors produced by children learning diﬀerent
-languages.
+speech sound disorders might also reflect environmental factors rather than
+differences in the underlying phenotype. This can be seen by comparing
+the speech errors produced by children learning different languages.
 Recently, we compared the types of speech sound errors produced by
 twenty-four Quebec French-speaking children to those produced by
 twenty-four Canadian English-speaking children, with both groups
 recruited from speech therapy caseloads (Brosseau-Lapré & Rvachew,
-). The groups were carefully matched for age
-and receptive
+). The groups were carefully matched for age and receptive
 vocabulary skills; furthermore, they were matched for percent consonants
 correct in their spontaneous speech to ensure equivalent severity of the
 speech impairment across the two groups. One might expect similarity in
 the kinds of error patterns observed because the consonant inventory is
 largely overlapping in French and English /p, b, t, d, k, ɡ, m, n, f, v, s, z,
 ʃ, ʒ, l, w, j/; for a description of the French phonological system we refer
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
 the reader to Walker (). Despite the fact that a few segments are unique
 to French (/ɲ, ʁ, ɥ/), and several English segments are absent from the
 French inventory (/ɹ, tʃ, dʒ, θ, ð, h/; /ŋ/ being absent except in a few
@@ -290,664 +128,131 @@ instances such as /kãpiŋkaʁ/), it is possible to describe error patterns in
 both languages according to phonological processes (Bishop & Minor-
 Corriveau, ) or delinking features (Bérubé, Bernhardt & Stemberger,
 ) that are common to both languages.
-
-inventory,
-
-Notwithstanding these similarities in consonant
-
-striking
-diﬀerences in the frequencies of occurrence for consonants (Crystal, )
+Notwithstanding these similarities in consonant inventory, striking
+differences in the frequencies of occurrence for consonants (Crystal, )
 and syllables shapes (Adda-Decker, Boula de Mareüil, Adda & Lamel,
 ) must be considered. In particular, the core syllable shape in French
 is a simple CV, in comparison to English which uses proportionally more
 closed syllables (Stokes, Kern & Dos Santos, ). Another important
-diﬀerence between these two languages is the absence of lexical stress in
+difference between these two languages is the absence of lexical stress in
 French, which organizes prosody around the phrase as the accentual unit.
 In conversational French, stress placement falls on the last full syllable of
 a group, such as the utterance or a syntactic or semantic phrase, with a
-counter-accent on the ﬁrst syllable of
-the group (Di Cristo, ).
+counter-accent on the first syllable of the group (Di Cristo, ).
 Therefore, the last syllable of an isolated word would be stressed, as in
 jambon ‘ham’ [ˌʒãˈbɔ̃]; when the word is placed in a phrase such as le
-jambon chaud ‘the hot ham’ [ˌlə ʒãbɔ̃
-ˈʃo], no syllables in the word are
+jambon chaud ‘the hot ham’ [ˌlə ʒãbɔ̃ ˈʃo], no syllables in the word are
 stressed as the accent and counter-accent shift to the edges of the phrase.
-Brosseau-Lapré and Rvachew () concluded that these diﬀerences in
+Brosseau-Lapré and Rvachew () concluded that these differences in
 prosody combined with the longer word lengths in French compared to
-English accounted for a signiﬁcant diﬀerence in the patterns of speech
+English accounted for a significant difference in the patterns of speech
 error that we observed between groups of children with speech sound
-speaking these two languages. Speciﬁcally, French-speaking
-disorder
-children produced signiﬁcantly more
-than
-English-speaking
-children
+disorder speaking these two languages. Specifically, French-speaking
+children produced significantly more syllable structure errors than
+English-speaking children. In contrast, English-speaking children
 produced more errors involving segments, while leaving the syllable
-structure of the word intact. Other ﬁndings are consistent with this
+structure of the word intact. Other findings are consistent with this
 conclusion, such as the very early age of consonant mastery observed for
 Quebec French-speaking children by MacLeod, Sutton, Trudeau, and
-Thordardottir (). Diﬀering patterns of cluster errors by Quebec
+Thordardottir (). Differing patterns of cluster errors by Quebec
 French-speaking children, relative to Canadian English-speaking children,
-also appear to reﬂect these trade-oﬀs between word shape and prosody
+also appear to reflect these trade-offs between word shape and prosody
 between the two languages (Rvachew & Brosseau-Lapré, ; Rvachew,
 Leroux & Brosseau-Lapré, ).
-
-contrast, English-speaking
-
-syllable
-
-structure
-
-errors
-
-children.
-
-In
-
-Purpose of the study
-To our knowledge, no study has described the psycholinguistic proﬁles of
+<Middle>
+Purpose of the study.
+To our knowledge, no study has described the psycholinguistic profiles of
 French-speaking children with a speech disorder. Endophenotypes, being
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-in French-speaking
-
-describe
-
 core determinants of a disorder, are expected to remain stable despite
 environmental variation, such as the characteristics of the child’s ambient
 language. We believe it is important to determine whether the same
-endophenotypes that have been identiﬁed in English-speaking children
+endophenotypes that have been identified in English-speaking children
 (measures of phonological processing and oral motor skills) are also
-involved
-the
+involved in French-speaking children. Here we describe the
 endophenotypic characteristics of seventy-two French-speaking children
 recruited from speech therapy caseloads in Quebec. The children were
-diagnosed with a trouble phonologique,
-that will be referred to as
+diagnosed with a trouble phonologique, that will be referred to as
 DEVELOPMENTAL PHONOLOGICAL DISORDER (DPD), for the remainder of this
 paper. This diagnostic term describes a primary and developmental speech
 sound disorder that is characterized by the production of many more
 speech sound errors than would be expected given the child’s age, with a
 concomitant impact on the intelligibility of the child’s speech.
-
-children. Here we
-
 The primary hypothesis is that these Quebec French-speaking children
-with DPD will present with an endophenotypic proﬁle consistent with
+with DPD will present with an endophenotypic profile consistent with
 that observed in English-speaking children with a primary developmental
-speech sound disorder: speciﬁcally, most of the children are expected to
-have diﬃculties with phonological processing, and only a very small
+speech sound disorder: specifically, most of the children are expected to
+have difficulties with phonological processing, and only a very small
 proportion of children are expected to present with a motor speech
 disorder. A secondary hypothesis is that articulation accuracy will be
-predicted by vocabulary and phonological processing skills, with oral-
-motor function not explaining speech deﬁcits in Quebec French-speaking
-children. Conﬁrmation of a similar endophenotype for speech sound
-disorder cross-linguistically, despite diﬀerences in the phenotypic proﬁle,
+predicted by vocabulary and phonological processing skills, with oralmotor
+function not explaining speech deficits in Quebec French-speaking
+children. Confirmation of a similar endophenotype for speech sound
+disorder cross-linguistically, despite differences in the phenotypic profile,
 will have theoretical and clinical implications for our understanding of this
 commonly occurring developmental disorder.
-
-(SLPs) at
-
-M E T H O D S
+METHODS
 Participants
 The children with DPD were recruited in six cohorts and were referred to
-the study by speech-language pathologists
-the Montreal
-Children’s Hospital. Each child was assessed by the ﬁrst author, a certiﬁed
+the study by speech-language pathologists (SLPs) at the Montreal
+Children’s Hospital. Each child was assessed by the first author, a certified
 SLP, or by graduate students in speech-language pathology under the
-supervision of the ﬁrst author. The assessments were conducted in a
-the Montreal Children’s Hospital or in a research
-testing room at
+supervision of the first author. The assessments were conducted in a
+testing room at the Montreal Children’s Hospital or in a research
 laboratory at McGill University. A total of seventy-two eligible children
 completed the intake assessment over one visit of – minutes. During
-their child’s
-this time, most parents completed questionnaires about
+this time, most parents completed questionnaires about their child’s
 development, and medical and family history; a few families asked to
 complete the questionnaires at home with their spouse. The percentage of
 exposure to French was established by questionnaire: parents were asked
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-speech perception and syllable
-
 about language use from each household member to the child; from each
-the child’s language
-caregiver to the child in daycare or preschool;
+caregiver to the child in daycare or preschool; the child’s language
 exposure through media and organized activities; and the child’s language
 exposure through playmates. The total number of hours of exposure to
 each language during a child’s typical week was calculated. One to six
 weeks later, the children were seen for a second assessment visit lasting
 – minutes, during which time a language sample was collected and
-measures of
-repetition skills were
+measures of speech perception and syllable repetition skills were
 administered. The selection criteria were: native and dominant speaker of
 French (at least % exposure to French as reported by the parents); age
-; to ; on the ﬁrst planned day of intervention; primary diagnosis of
+; to ; on the first planned day of intervention; primary diagnosis of
 DPD; hearing within normal limits as documented before referral to the
-study; and standard score of at
-least  on measures of receptive
+study; and standard score of at least  on measures of receptive
 vocabulary and non-verbal intelligence. Children were excluded from the
-study if their DPD was secondary to other conditions, such as sensory-
-neural hearing loss, cerebral palsy, cleft palate, global developmental delay,
+study if their DPD was secondary to other conditions, such as sensoryneural
+hearing loss, cerebral palsy, cleft palate, global developmental delay,
 or autism spectrum disorder. Concomitant receptive and/or expressive
 language impairment and suspected childhood apraxia of speech were not
 exclusionary criteria. Two identical twins and two siblings participated in
 the study; one child from each pair was removed from certain analyses, as
 described below.
-
 Ten typically developing (TD) children also participated in the study and
-were assessed at their house by the ﬁrst author. Parents of the TD children
+were assessed at their house by the first author. Parents of the TD children
 completed the same questionnaires about their child’s development, medical
 and family history, and language exposure. In addition, four measures which
 will be described below were administered to these children: receptive
 vocabulary, phonological awareness, articulation accuracy in single words,
 and syllable repetition.
-
-Table  presents descriptive information for
-
-the two groups of
-participants. With regards to the children with DPD, there were ﬁfty-two
+Table  presents descriptive information for the two groups of
+participants. With regards to the children with DPD, there were fifty-two
 males and twenty females, a · male:female ratio which is very similar to
 the ·: ratio reported for English-speaking children with speech sound
 disorders by Shriberg (). In terms of past or current family history of
-speech, language, or reading diﬃculties, the data are presented for sixty-
-ﬁve of the seventy-two children with DPD, since two children had been
+speech, language, or reading difficulties, the data are presented for sixtyfive
+of the seventy-two children with DPD, since two children had been
 adopted, the parents of three additional children did not complete the
 questionnaires, and one member of each sibling pair was randomly
 removed from the family history analyses. The parents of ·% of the
 children with DPD reported no family history of speech, language, or
-reading diﬃculties, compared to % of the TD children. Twenty-one
+reading difficulties, compared to % of the TD children. Twenty-one
 percent of the children with DPD had one biological and nuclear family
 member with a history of current or past speech, language, or reading
-diﬃculties, while only one of the TD children reportedly had a nuclear
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
- 
-
-C
-a
-m
-b
-r
-i
-d
-g
-e
-C
-o
-r
-e
- 
-t
-e
-r
-m
-s
- 
-o
-f
- 
-u
-s
-e
-
-,
- 
-
-a
-v
-a
-
-i
-l
-
-l
-
- 
-
-a
-b
-e
-a
-t
- 
-h
-t
-t
-p
-s
-:
-/
-/
-
-.
-
-w
-w
-w
-.
-c
-a
-m
-b
-r
-i
-d
-g
-e
-o
-r
-g
-/
-c
-o
-r
-e
-/
-t
-e
-r
-m
-s
-.
- 
-
-h
-t
-t
-p
-s
-:
-/
-/
-d
-o
-
-i
-.
-
-.
-
-o
-r
-g
-/
-1
-0
-1
-0
-1
-7
-/
-S
-0
-3
-0
-5
-0
-0
-0
-9
-1
-6
-0
-0
-0
-5
-5
-6
-
-l
-
-D
-o
-w
-n
-o
-a
-d
-e
-d
- 
-f
-r
-o
-m
-h
-t
-t
-p
-s
-:
-/
-/
-
- 
-
-w
-w
-w
-.
-c
-a
-m
-b
-r
-i
-d
-g
-e
-o
-r
-g
-/
-c
-o
-r
-e
-
-.
-
-.
- 
-
-U
-n
-i
-v
-e
-r
-s
-i
-t
-a
-e
-t
-s
-b
-b
-
-i
-
-l
-i
-
- 
-
-o
-t
-h
-e
-k
-K
-a
-i
-s
-e
-r
-s
-l
-a
-u
-t
-e
-r
-n
-
-,
- 
-
- 
-
- 
-
-o
-n
-2
-2
-D
-e
-c
- 
-2
-0
-1
-8
-a
-t
- 
-1
-4
-2
-5
-3
-1
-
-:
-
-:
-
- 
-
-j
-
-,
- 
-s
-u
-b
-e
-c
-t
- 
-t
-o
- 
-t
-h
-e
-
-TA B L E . Demographic data and test scores of the children with DPD and the TD children
-
-Measure
-
-Age (months)
-Gender
-
-Family history
-
-
-
-
-
-
-n girls
-n boys
-n negative
-n  nuclear
-n + nuclear
-n extended
-
-Maternal education (years)
-Receptive vocabulary (SS)
-Non-verbal IQ (SS)
-Single-word artic (PCC)
-
-DPD (n = )
-
-TD (n = )
-
-M
-
-·
-
-SD
-
-·
-
-Range
-
-–
-
-M
-
-·
-
-SD
-
-·
-
-Range
-
-–
-
-t
-
-df
-
-p
-
-d
-
-·
-
-·
-
-·
-
-·
-
-
-
-
-
-
-
-
-·
-·
-·
-·
-
-
-
-
-
-
-
-
-·
-·
-
-—
-
-·
-
-·
-·
-·
-·
-
-–
-–
-–
-
-·–·
-
-·
-·
-—
-·
-
-–
-
-–
-
-—
-
-·–·
-
-·
-·
-—
-
-·
-
-·
-·
-
-—
-
-·
-
-·
-·
-—
-·
-
-·
-·
-—
-·
-
-NOTES: SS = standard score; PCC = percentage of consonants correct. Receptive vocabulary measured by the Échelle de vocabulaire en images
-Peabody (Dunn, Theriault-Whalen & Dunn, ); non-verbal IQ by the non-verbal matrices subtest of the Kaufmann Brief Intelligence
-Test- (Kaufman & Kaufman, ); and single-word articulation by the Test Francophone de Phonologie (Paul & Rvachew, ).
-
-B
-R
-O
-S
-S
-E
-A
-U
--
-L
-A
-P
-R
-É
-
-A
-N
-D
-
-R
-V
-A
-C
-H
-E
-W
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-two aﬀected nuclear family members. Thirteen percent of
-
-family member with attention and language diﬃculties. Twenty-three
+difficulties, while only one of the TD children reportedly had a nuclear
+family member with attention and language difficulties. Twenty-three
 percent of the children with DPD and none of the TD children had at
-least
-the
+least two affected nuclear family members. Thirteen percent of the
 children with DPD reportedly had a positive family history for at least one
 extended family member, and % of the TD children had one extended
-family member who presented with language diﬃculties.
-
+family member who presented with language difficulties.
 French is the majority language of the approximately · million residents
 of the province of Quebec, Canada. While ·% of the population of Quebec
 is monolingual French, only % of the residents of the city of Montreal and
@@ -956,20 +261,17 @@ English, and the most common mother tongues in this city, following
 French and English, are Arabic, Spanish, Italian, Creole, and Greek
 (Statistics Canada, ). Table  presents the linguistic environments of
 the participants.
-
 Procedures
 EVIP. The Échelle de Vocabulaire en Images Peabody (Dunn, Theriault-
 Whalen & Dunn, ) is a Canadian-French adaptation of the Peabody
 Picture Vocabulary Test-Revised (Dunn & Dunn, ). The practice and
 test items were administered as instructed in the test manual.
-
 K-BIT-. The Matrices subtest of the Kaufman Brief Intelligence Test,
 nd Edition (Kaufman & Kaufman, ) measures non-verbal intelligence.
 Children were presented with color plates with a target picture at the top,
 and six pictures at the bottom. They were asked to point to the picture
 among the six choices that went with the target. The practice and test items
 were administered according to the instructions in the test manual.
-
 TFP. The Test Francophone de Phonologie (Paul & Rvachew, ) is a
 test of articulation accuracy that mirrors the phoneme distribution, syllable
 shapes, and word length characteristics of Quebec French, as described in
@@ -977,134 +279,44 @@ Paul (). In brief, a total of  words are elicited using 
 photographs, targeting  consonants and  vowels. Examiners used
 carrier phrases to elicit spontaneous productions of the target words; if the
 child did not answer, delayed imitation techniques such as asking a choice
-question with the target as the ﬁrst choice was used. Immediate imitation
+question with the target as the first choice was used. Immediate imitation
 was used as a last resort to ensure datasets that were as complete as
-possible for each child. Nonetheless,
-three children each refused to
+possible for each child. Nonetheless, three children each refused to
 produce one target word, and one child did not produce two target words.
 The percentage of consonants correct (PCC) was calculated based on the
 number of consonants each child attempted to produce on this test.
 Administration of the TFP was video-recorded using a Sony Handycam
-HDR-XR or a JVC Everio GZ-MG video camera. The audio ﬁles
-were extracted and saved as .wav ﬁles.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-TA B L E . Language exposure of the children with DPD and TD children at
-
-home and at daycare
-
-Home language
-
-Daycare language
-
-French
-
-%
-%
-–%
-–%
-–%
-%
-
-Other
-
-–%
-–%
-–%
-%
-
-French
-
-%
-–%
-%
-%
-–%
-%
-
-Other
-
-–%
-
-–%
-
-TD
-n = 
-
-
-
-
-
-DPD
-n = 
-
-
-
-
-
-
-
-
-NOTES: ‘Other’ language at home usually refers to English, although ﬁve children with DPD
-were exposed to one of these languages at home, in addition to French: Spanish, Arabic,
-Albanian, Lingala, or Bulgarian. ‘Other’ language at daycare was always English.
-
-(DDK)
-
-and diadochokinesis
-
+HDR-XR or a JVC Everio GZ-MG video camera. The audio files
+were extracted and saved as .wav files.
 OSMSE-. The Oral Speech Mechanism Screening Examination, Third
 Edition (St Louis & Ruscello, ) evaluates the structure and function
 of the lips, tongue, jaw, teeth, palate, pharynx, velopharyngeal mechanism,
-breathing,
-and alternate motion rates
+breathing, and diadochokinesis (DDK) and alternate motion rates
 (AMRs). The screening tool was administered according to the manual
 and was video-recorded. Repetition rates were calculated from waveform
 displays of the children’s responses. Many of the children who participated
-in this study were younger than ;,
-the minimum age to use the
-OSMSE- norms. Younger children had more diﬃculty completing the
+in this study were younger than ;, the minimum age to use the
+OSMSE- norms. Younger children had more difficulty completing the
 required number of repetitions ( for single syllables,  for [pata], and 
 for [pataka]) but age was not correlated with performance with regard to
 repetition rates in syllable/seconds for any of the isolated syllables or
 syllable sequences. We therefore calculated the repetitions/second for each
-child, and prorated the pass criteria for
-the required number of
+child, and prorated the pass criteria for the required number of
 repetitions. Pass standards were ·, ·, ·, ·, and · repetitions/
 second for [pa], [ta], [ka], [pata], and [pataka], respectively, for children
 up to the age of  months, and ·, ·, ·, ·, and · for children
 aged  to  months.
-
 TCP. The Test de Conscience Phonologique (Brosseau-Lapré &
 Rvachew, , unpublished), is a French adaptation of the Phonological
 Awareness Test developed by Bird et al. (). While the number of
 practice and trial items remained the same for the rime matching, onset
-matching, and onset segmentation and matching subtests,
-the target
-phonemes and syllable structures of the words were modiﬁed to better
+matching, and onset segmentation and matching subtests, the target
+phonemes and syllable structures of the words were modified to better
 represent the phonology of Quebec French. A laptop was used to present
 the pictures and audio stimuli, although the examiner pointed to each
-picture and named them live-voice. The test
-items, and
-
-stimuli,
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
+picture and named them live-voice. The test stimuli, items, and
 instructions are available under “Clinical tools” at <http://www.medicine.
 mcgill.ca/srvachew>.
-
 SRT. The Syllable Repetition Task was administered using a PowerPoint
 audio presentation and scored according to the instructions provided by
 Shriberg and Lohmeier (). A competence score as well as three speech
@@ -1124,76 +336,52 @@ using the formula *( + natural log of the ratio); values above �
 below  are truncated. Finally, the transcoding score is the percentage of
 items containing one of more addition errors such as /bɑdɑ/ ? [bɑndɑ],
 subtracted from  so that higher scores denote higher competence in
-transcoding. Addition errors are considered to reﬂect motor planning and/
-or programming deﬁcits.
-
-transcriptions of
-
-author completed narrow phonetic
-
+transcoding. Addition errors are considered to reflect motor planning and/
+or programming deficits.
 Reliability
-The ﬁrst
-the
+The first author completed narrow phonetic transcriptions of the
 participants’ responses on the TFP based on the audio recordings. Audio
-ﬁles were reviewed at least three times for each child. In the case that a
+files were reviewed at least three times for each child. In the case that a
 child produced the same target word more than once, the clearer recording
-was transcribed; if the productions were equally clear, the ﬁrst one was
+was transcribed; if the productions were equally clear, the first one was
 used. Two research assistants (one graduate student in speech-language
 pathology and one undergraduate student in linguistics) independently
 transcribed % and % of the TFP samples. The mean transcription
-agreement with the ﬁrst author for narrow transcription of the target
-consonants was % (range = % to %). When the
-consonant
-transcriptions diﬀered, the two transcribers listened to the audio recording
-and reached consensus on the ﬁnal transcription.
-
-R E S U L T S
+agreement with the first author for narrow transcription of the target
+consonants was % (range = % to %). When the consonant
+transcriptions differed, the two transcribers listened to the audio recording
+and reached consensus on the final transcription.
+RESULTS
 Oral motor abilities
 The OSMSE- yielded perfect oral structure scores for nearly all children
 but highly variable oral function scores. Certain tongue movements proved
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-diﬃcult, in particular: elevate the tongue, move tongue along the palate, puﬀ
-out the cheeks. Table  shows that ·% of children passed all ﬁve syllable
-repetition tasks, which leaves a substantial proportion who had signiﬁcant
-diﬃculties with rate, rhythm, and/or accuracy for at least one task. The
-proportion of children failing more than three tasks, indicating diﬃculties
+difficult, in particular: elevate the tongue, move tongue along the palate, puff
+out the cheeks. Table  shows that ·% of children passed all five syllable
+repetition tasks, which leaves a substantial proportion who had significant
+difficulties with rate, rhythm, and/or accuracy for at least one task. The
+proportion of children failing more than three tasks, indicating difficulties
 with the repetition of both single- and multi-syllable sequences, was small
 (·%, or  children in total). Therefore, these data suggest that the
 proportion of children with an actual motor speech disorder was small in
-this group, as has been reported in other studies describing English-
-speaking children with speech impairments.
-
-(i.e.
-
-receptive vocabulary, non-verbal
-
+this group, as has been reported in other studies describing Englishspeaking
+children with speech impairments.
 The relationship between DDK and AMR performance and all other
-study measures
-intelligence,
+study measures (i.e. receptive vocabulary, non-verbal intelligence,
 consonant accuracy in single words, and phonological awareness) was
 examined using two strategies: Pearson correlations between measures and
-t-tests to examine diﬀerences between children who achieved below or
+t-tests to examine differences between children who achieved below or
 above average performance on the DDK and AMR measures. The
 analyses revealed no relationship between oral-motor performance and any
 other measure.
-
 Phonological awareness
 As shown in Table , the phonological awareness performance of the DPD
-group was signiﬁcantly poorer than that of the TD group with respect to
+group was significantly poorer than that of the TD group with respect to
 all four scores derived from the Test de Conscience Phonologique. This
-test proved so diﬃcult for the children with DPD that eleven children in
+test proved so difficult for the children with DPD that eleven children in
 this group did not respond correctly to any test items, whereas some
-children in the TD group achieved ceiling-level performance. The rime-
-matching subtest proved to be easier than onset matching or segmentation
+children in the TD group achieved ceiling-level performance. The rimematching
+subtest proved to be easier than onset matching or segmentation
 for both groups of children.
-
 Syllable repetition task
 SRT scores are shown in Table  by group and type of score (i.e.
 competence, encoding, memory, and transcoding scores). As expected, the
@@ -1202,108 +390,18 @@ groups, but the TD group achieved high scores at all word lengths. All
 TD children obtained scores of % for the -syllable target words,
 scores above % for the -syllable target words, and scores above % for
 the -syllable target words. We adopted a standard of one standard
-deviation below the mean to compare proﬁles of our Quebec French-
-speaking
-the
-psycholinguistic proﬁles of English-speaking children with speech sound
+deviation below the mean to compare profiles of our Quebec Frenchspeaking
+children with DPD to the literature regarding the
+psycholinguistic profiles of English-speaking children with speech sound
 disorders. Children with DPD scored more than a standard deviation
 below the TD mean on average at every word length. With regard to
-
-children with DPD to
-
-the
-
-literature
-
-regarding
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-TA B L E . Performance of  French-speaking preschoolers with DPD on tasks
-
-to assess DDK and AMR
-
-Task
-
-[pa]
-[ta]
-[ka]
-[pata]
-[pataka]
-
-Repetitions/sec
-
-M
-
-·
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-·
-
-Range
-
-·–·
-·–·
-·–·
-·–·
-·–·
-
-Rate
-Fail %
-
-·
-·
-·
-·
-·
-
-Rhythm
-Fail %
-
-Accuracy
-Fail %
-
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-
-NOTES: Data obtained from the Oral Speech Mechanism Screening Examination, Third
-Edition (St Louis & Ruscello, ). Data is available for  of the  children since we
-removed one child from each of the two pairs of siblings; three children refused to
-complete the repetition rate tasks; and the video recordings were missing for two additional
-children. The data for [pata] only includes  children as this speciﬁc task was not
-administered by mistake to eight of the children.
-
 encoding of auditory-perceptual representations, the mean score of the DPD
 group was also more than a standard deviation below the mean of the TD
 group, consistent with our hypothesis of phonological processing deﬁcits
 in this group. As further conﬁrmation, the phonological memory score was
 one-and-a-half standard deviations lower for the DPD group compared to
 the TD group. In contrast, the transcoding scores of the two groups were
-similar and essentially at ceiling,
-indicating that children were very
+similar and essentially at ceiling, indicating that children were very
 unlikely to make errors indicative of a motor speech disorder. Those few
 instances of consonant addition errors did occur within the DPD group,
 however: one child added a single consonant to one -syllable word; two
@@ -1319,703 +417,15 @@ memory score that is more than one standard deviation below the mean of
 the ten TD children. Eleven children (% of the  children for whom
 we have SRT data) passed all three speech processing tasks on the test.
 
-Predictors of articulation accuracy
+Predictors of articulation accuracy.
 As a further test of our hypotheses, Table  shows the results of a hierarchical
 multiple regression analysis that identiﬁes the contribution of phonological
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
- 
-
-C
-a
-m
-b
-r
-i
-d
-g
-e
-C
-o
-r
-e
- 
-t
-e
-r
-m
-s
- 
-o
-f
- 
-u
-s
-e
-
-,
- 
-
-a
-v
-a
-
-i
-l
-
-l
-
- 
-
-a
-b
-e
-a
-t
- 
-h
-t
-t
-p
-s
-:
-/
-/
-
-.
-
-w
-w
-w
-.
-c
-a
-m
-b
-r
-i
-d
-g
-e
-o
-r
-g
-/
-c
-o
-r
-e
-/
-t
-e
-r
-m
-s
-.
- 
-
-h
-t
-t
-p
-s
-:
-/
-/
-d
-o
-
-i
-.
-
-.
-
-o
-r
-g
-/
-1
-0
-1
-0
-1
-7
-/
-S
-0
-3
-0
-5
-0
-0
-0
-9
-1
-6
-0
-0
-0
-5
-5
-6
-
-l
-
-D
-o
-w
-n
-o
-a
-d
-e
-d
- 
-f
-r
-o
-m
-h
-t
-t
-p
-s
-:
-/
-/
-
- 
-
-w
-w
-w
-.
-c
-a
-m
-b
-r
-i
-d
-g
-e
-o
-r
-g
-/
-c
-o
-r
-e
-
-.
-
-.
- 
-
-U
-n
-i
-v
-e
-r
-s
-i
-t
-a
-e
-t
-s
-b
-b
-
-i
-
-l
-i
-
- 
-
-o
-t
-h
-e
-k
-K
-a
-i
-s
-e
-r
-s
-l
-a
-u
-t
-e
-r
-n
-
-,
- 
-
- 
-
- 
-
-o
-n
-2
-2
-D
-e
-c
- 
-2
-0
-1
-8
-a
-t
- 
-1
-4
-2
-5
-3
-1
-
-:
-
-:
-
- 
-
-j
-
-,
- 
-s
-u
-b
-e
-c
-t
- 
-t
-o
- 
-t
-h
-e
-
-TA B L E : Test de Conscience Phonologique scores obtained by the children with DPD and the TD children
-
-DPD Group n = 
-
-M
-
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-
-% passed
-
-·
-·
-·
-·
-
-TD Group
-
-n = 
-
-M
-
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-
-% conﬁdence interval
-
-Meana – Meanb
-
-±·
-±·
-±·
-±·
-
-t-test to compare means between
-groups
-
-t
-
-·
-·
-·
-·
-
-df
-
-·
-·
-·
-·
-
-p
-
-·
-·
-·
-·
-
-d
-
-·
-·
-·
-·
-
-
-
-
-
-
-PAT subtest
-
-PA test
-Rime matching
-Onset matching
-Onset segmentation
-and matching
-
-NOTE: % passed is the percentage of children with DPD who obtained a score less than  SD below the mean obtained by the group of TD
-children.
-
-B
-R
-O
-S
-S
-E
-A
-U
--
-L
-A
-P
-R
-É
-
-A
-N
-D
-
-R
-V
-A
-C
-H
-E
-W
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-TA B L E . Competence and processing scores derived from Syllable Repetition
-
-Task performance by  children with DPD and  TD children
-
-DPD group
-
-TD group
-
-t-test to compare means
-
-Score
-
-Item length M
-
-SD
-
-M
-
-Competence
-
-Encoding
-
-Memory
-
-Transcoding
-
- syllable
- syllable
- syllable
-Total
- syllable
- syllable
- syllable
-Total
-:
-:
-:
- syllable
- syllable
- syllable
-Total
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-SD
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-t
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-df
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-p
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-d
-
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-·
-
-Fig. . Percentages of children with DPD who failed at least one speech processing task on
-
-the SRT.
-
-processing skills to articulation accuracy after controlling for receptive
-vocabulary and maternal
-analysis, phonological
-processing was deﬁned as the aggregate of phonological awareness (TCP)
-the encoding and phonological
-and SRT performance (speciﬁcally,
-
-education.
-
-In this
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-TA B L E . Hierarchical multiple regression analysis to examine contribution of
-
-phonological processing to speech production accuracy
-
-Step
-
-Variable
-
-
-
-
-
-
-
-
-Receptive vocabulary
-Maternal education
-
-Phonological awareness
-Encoding
-Phonological memory
-
-Final β
-−·
-·
-
-·
-·
-·
-
-R
-
-ΔR
-
-ΔF
-
-df
-
-p
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-·
-
-NOTES: Receptive vocabulary was assessed with the Échelle de vocabulaire en images Peabody
-(see Table  for descriptive statistics); maternal education was assessed in years; phonological
-awareness was assessed with the Test de Conscience Phonologique (see text for details and
-Table  for descriptive statistics); encoding and phonological memory scores were derived
-from performance on the Syllable Repetition Task (see text for details and Table  for
-descriptive statistics).
-
 memory scores). As predicted, all three measures of phonological processing
 made a contribution to articulation accuracy, whereas DDK and AMR did
 not contribute to articulation accuracy beyond the contribution of
 phonological processing.
 
-Subgroups of children using cluster analysis
+Subgroups of children using cluster analysis.
 Finally, the K-means cluster function of SPSS for Windows was used to
 identify clusters within the DPD group on the basis of their articulation
 accuracy (PCC), receptive vocabulary (EVIP), and phonological awareness
@@ -2024,47 +434,18 @@ follows: Cluster  ( children; %) had the lowest PCC values along wit
 low EVIP and TCP scores. Cluster  ( children, %) obtained much
 higher PCC scores but low EVIP and TCP scores. Cluster  ( children,
 %) obtained relatively high scores on all three measures.
-
-good articulation accuracy given their higher
-
 The relationships between receptive vocabulary, phonological awareness
 skills, and speech accuracy found in these three clusters of children also
-to the important role of phonological processing in achieving
-point
-sense that Cluster  would achieve
-articulation accuracy. It makes
-relatively
-receptive
+point to the important role of phonological processing in achieving
+articulation accuracy. It makes sense that Cluster  would achieve
+relatively good articulation accuracy given their higher receptive
 vocabulary and good phonological awareness. However, the similarly good
 articulation accuracy of Cluster  must be explained: Why does this cluster
 overlap with Cluster  rather than Cluster  for articulation accuracy,
 given their relatively poor receptive vocabulary and phonological awareness
 performance? The explanation cannot be found in non-verbal intelligence
 or oral motor skills because comparison of the three clusters revealed that
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-Fig. . Cluster proﬁles of the  children with DPD.
-
-they did not diﬀer in terms KBIT- scores (F(,) = ·, p = ·) or
-function score of the OSMSE- (F(,) = ·, p = ·). Diﬀerences
-were found, however, on the competence score of the SRT (F(,) =
-·, p = ·). Signiﬁcantly higher competence scores on the SRT were
-found for Cluster  and Cluster  relative to Cluster , although no
-diﬀerences were seen for encoding, memory, or transcoding scores.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
+<Conclusion>
 D I S C U S S I O N
 Previously we have demonstrated that Quebec French-speaking preschool-
 age children with DPD diﬀer signiﬁcantly from their English-speaking
@@ -2098,8 +479,7 @@ and phonological memory; one child failed transcoding, phonological
 memory, and encoding; and one child failed transcoding only. As found in
 other studies, most children in our study who did present with motor
 speech diﬃculties also had deﬁcits in other endophenotypes related to
-phonological processing skills,
-language skills, and literacy skills (e.g.
+phonological processing skills, language skills, and literacy skills (e.g.
 Lewis, Freebairn, Hansen, Iyengar & Taylor, ; Shriberg et al., ).
 In contrast, the majority of children obtained signiﬁcantly low encoding and
 memory scores on the SRT, indexing deﬁcits in multiple areas of phonological
@@ -2109,118 +489,71 @@ virtually all of the children in the DPD group. Furthermore, phonological
 awareness, encoding, and memorial processes explained signiﬁcant unique
 variance in speech production accuracy even after controlling for individual
 diﬀerences in receptive language and maternal education.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-(e.g.
-
-rhyme
-
-representations
-
 Ramus, Marshall, Rosen, and van der Lely () recently attempted to
-explain the partial (incomplete) overlap of speciﬁc language impairment
+explain the partial (incomplete) overlap of specific language impairment
 with developmental dyslexia in a study in which three factors were found
-to explain variance in the language abilities of the participants: non-
+to explain variance in the language abilities of the participants: nonphonological
 language skills (e.g. vocabulary, grammar), phonological
-phonological
-processing skills
-and
-nonword
-phonological
+processing skills (e.g. rhyme awareness, rapid digit naming), and
+phonological representations (e.g. nonword repetition, nonword
 discrimination, articulation accuracy). The authors concluded that a
-multiple-component model of
-the
+multiple-component model of language abilities best explains the
 relationship between language and reading disabilities. Similarly, DPD
 overlaps with language impairment and dyslexia and this comorbidity may
 result from common endophenotypes as well as common genetic and
 environmental risk factors as outlined by Pennington () in reference
-to the multiple deﬁcit view of developmental disorders (see also Lewis
+to the multiple deficit view of developmental disorders (see also Lewis
 et al., ; Pennington & Bishop, ).
-
-awareness,
-(e.g.
-
-rapid digit naming),
-
-language
-
-abilities best
-
-explains
-
-nonword
-
-repetition,
-
 Some of our participants with DPD had poor articulation accuracy but
 relatively good phonological awareness, while some children had milder
-diﬃculties with articulation accuracy but poorer phonological awareness, as
+difficulties with articulation accuracy but poorer phonological awareness, as
 previously described for English-speaking children with DPD (e.g.
 Hesketh, ; Rvachew, Chiang & Evans, ). Examination of these
-variations in proﬁle between children can be helpful in illuminating the
+variations in profile between children can be helpful in illuminating the
 interactions that explain individual outcomes. Three clusters of children
-with DPD were found in our sample, with diﬀerent strengths and
-weaknesses with regard to phonological processing skills,
-receptive
+with DPD were found in our sample, with different strengths and
+weaknesses with regard to phonological processing skills, receptive
 vocabulary, and articulation accuracy. The children in Cluster  who had
-diﬃculties across all domains would likely need relatively intense speech
-therapy directed at improvement of speech accuracy, combined with speciﬁc
-eﬀorts to intensify environmental inputs to support language and emergent
+difficulties across all domains would likely need relatively intense speech
+therapy directed at improvement of speech accuracy, combined with specific
+efforts to intensify environmental inputs to support language and emergent
 literacy growth, using, for example, a ‘response to intervention approach’
 and an enriched preschool environment (e.g. Wilcox, Gray, Guimond &
-Laﬀerty, ). The children in Cluster  who presented with similarly low
+Lafferty, ). The children in Cluster  who presented with similarly low
 receptive vocabulary and PA scores, but on average achieved higher PCC
 values, might respond well to the comprehensive but somewhat less intense
 input-oriented approach to intervention described in Rvachew and
 Brosseau-Lapré (). The third cluster of children presented with
 relatively good albeit delayed articulation accuracy with above-average
 receptive vocabulary skills; these children would likely respond well to a
-stand-alone phonology therapy targeting their speciﬁc error patterns. The
+stand-alone phonology therapy targeting their specific error patterns. The
 outlier in this cluster obtained a PCC value below  despite exceptional
 vocabulary knowledge and average phonological awareness skills; closer
 inspection of the data for this child revealed that his non-verbal intelligence
 was in the higher average range and that his well-educated parents reported
 a high frequency of literacy activities such as reading books and going to the
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-library. Language input provided to the child is the most
-important
-environmental inﬂuence in terms of language development (Hart & Risley,
-). Strong vocabulary scores,
-combined with strong non-verbal
+library. Language input provided to the child is the most important
+environmental influence in terms of language development (Hart & Risley,
+). Strong vocabulary scores, combined with strong non-verbal
 intelligence and rich language input likely allowed this child to attain good
 phonological awareness despite the challenges associated with his severe DPD.
-
-Cross-linguistic diﬀerences
-Despite the ﬁnding that Quebec French- and Canadian English-speaking
+Cross-linguistic differences
+Despite the finding that Quebec French- and Canadian English-speaking
 children with DPD are similar at the level of the endophenotype, there
-was an interesting diﬀerence in our sample’s performance when repeating
+was an interesting difference in our sample’s performance when repeating
 the -syllable target words of the SRT relative to the published literature
 for English-speaking children. Few Quebec French-speaking children with
 DPD (%) obtained a score of % or less for the CVCV words, compared
 to % of the participants in Shriberg, Lohmeier, Campbell, Dollaghan,
-Green, and Moore (). One possible explanation for this diﬀerence is
+Green, and Moore (). One possible explanation for this difference is
 the age of the participants, as the Quebec French-speaking children were
 four to six years old, whereas the English-speaking children were three to
-ﬁve years old. Additionally, it is possible that French-speaking children
+five years old. Additionally, it is possible that French-speaking children
 with DPD repeat CVCV targets more accurately than English-speaking
 children, since French words tend to be longer than words in English
-(MacLeod et al., ). A similar ﬁnding was found by Dispaldro,
-Leonard, and Deevy () in Italian-speaking children with speciﬁc
-language impairment or
-typical development, using a nonword list
+(MacLeod et al., ). A similar finding was found by Dispaldro,
+Leonard, and Deevy () in Italian-speaking children with specific
+language impairment or typical development, using a nonword list
 composed of words with phonemes and syllable shapes that are mastered
 by young children. Italian words are also longer than English words, with
 most words in Italian being three and four syllables long (Mancini &
@@ -2229,393 +562,54 @@ longer words “might enable Italian-speaking children to gain greater
 command of longer linguistic material” (p. ). Further studies are
 required to determine whether the performance of children speaking
 languages with longer words than English on the -syllable targets of the
-SRT might
-indicate diﬃculties with encoding of acoustic-perceptual
+SRT might indicate difficulties with encoding of acoustic-perceptual
 information, similarly to how English-speaking children perform with the
 -syllable words of the SRT.
-
 Limitations
 An important limitation of this study was that speech perception was not
 measured directly in our participants. Initially we had planned to assess
-speech
-forced-choice word
-identiﬁcation task modeled on the procedure described in Rvachew and
-the children’s ability to
-Grawburg (). Therefore, assessment of
+speech perception using a two-alternative, forced-choice word
+identification task modeled on the procedure described in Rvachew and
+Grawburg (). Therefore, assessment of the children’s ability to
 identify single-syllable words with the initial consonant produced either
-
-two-alternative,
-
-perception
-
-using
-
-a
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
 correctly or incorrectly was piloted. However, we found that this measure
 was not a valid test of speech perception abilities for French-speaking
 children, given that their speech production error patterns are at the
 prosodic level of the phonological hierarchy. Thus, a stronger test of our
 hypothesis that the underlying speech process that explains the speech
-impairment in these children involves encoding of phonological
-input
+impairment in these children involves encoding of phonological input
 requires the development of a valid measure of speech perception that is
-better adapted to the French language, speciﬁcally involving multi-syllabic
+better adapted to the French language, specifically involving multi-syllabic
 words and the simulation of syllable structure error patterns (e.g. omission
-of word-internal coda consonants, misarticulation of consonants
-in
+of word-internal coda consonants, misarticulation of consonants in
 unstressed syllables within multi-syllabic words, and spreading of features
 within complex onsets).
-
 The total sample of this study is also a limitation because, while reasonably
 large at eighty-two children overall, we were unable to model the complex
 relationships among all the variables that we assessed. The matching of the
-samples was also problematic because the large diﬀerence in receptive
-vocabulary skills and the smaller diﬀerence in maternal education may
-explain some of the diﬀerence in phonological processing abilities between
+samples was also problematic because the large difference in receptive
+vocabulary skills and the smaller difference in maternal education may
+explain some of the difference in phonological processing abilities between
 the DPD and TD groups. However, during the course of the study we
 developed measures of speech accuracy and phonological awareness that
 proved to be valid and reliable for French-speaking children, and showed
 that the Syllable Repetition Task could be used with this population as
-well. Therefore, following modiﬁcation of the speech perception test to
-reﬂect our
-in
+well. Therefore, following modification of the speech perception test to
+reflect our improved understanding of phonological development in
 French, these new tools are in place for continued investigation of the
-underpinnings of DPD in French and the
-linkages between the
+underpinnings of DPD in French and the linkages between the
 phonological processing endophenotype and later literacy outcomes.
-
-improved understanding of phonological development
-
-C O N C L U S I O N
-This study represented the ﬁrst description of the speech characteristics of a
+CONCLUSION
+This study represented the first description of the speech characteristics of a
 large group of Quebec French-speaking children with DPD. The children
-presented with a primary underlying deﬁcit in the domain of phonological
+presented with a primary underlying deficit in the domain of phonological
 processing, as has been reported in many prior studies for English-speaking
-children with deﬁcits in speech accuracy and intelligibility. All children who
+children with deficits in speech accuracy and intelligibility. All children who
 are referred for a speech-language pathology assessment due to concerns with
-speech accuracy must be carefully examined for concomitant deﬁcits in the
+speech accuracy must be carefully examined for concomitant deficits in the
 language, phonological processing, and literacy domains so that interventions
-can be targeted at
-the surface characteristics and the psycholinguistic
-underpinnings of the child’s communication deﬁcit. The results of the
+can be targeted at the surface characteristics and the psycholinguistic
+underpinnings of the child’s communication deficit. The results of the
 current study add to a growing literature recommending that interventions
 for children with DPD focus on perceptual and phonological knowledge
 (e.g. Munson, Baylis, Krause & Yim, ), in addition to speech accuracy.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-R E F E R E N C E S
-
-Adda-Decker, M., Boula de Mareüil, P., Adda, G. & Lamel, L. (). Investigating syllabic
-
-structures and their variation in spontaneous French. Speech Communication , –.
-
-Anthony, J. L., Greenblatt Aghara, R., Dunkelberger, M. J., Anthony, T. I., Williams, J. M.
-& Zhang, Z. (). What factors place children with speech sound disorders at risk for
-reading problems? American Journal of Speech-Language Pathology , –.
-
-Bérubé, D., Bernhardt, B. M. & Stemberger, J. P. (). Un test de phonologie du français :
-
-construction et utilisation. Canadian Journal of Speech-Language Pathology , –.
-
-Betz, S. K. & Stoel-Gammon, C. (). Measuring articulatory error consistency in children
-
-with developmental apraxia of speech. Clinical Linguistics & Phonetics , –.
-
-Bird, J., Bishop, D. V. M. & Freeman, N. H. (). Phonological awareness and literacy
-development in children with expressive phonological impairments. Journal of Speech
-and Hearing Research , –.
-
-Bishop, D. V. M.
-
-(). Genes,
-
-cognition,
-
-and communication:
-
-insights
-
-from
-
-neurodevelopmental disorders. Annals of the New York Academy of Sciences , –.
-
-Bishop, K. & Minor-Corriveau, M. (). Les processus phonologiques impliquant les
-groupes consonantiques en position initiale et ﬁnale: une étude sur l’articulation et la
-phonologie chez des enfants francophones et bilingues du nord de l’Ontario. Actes de
-l’ACFAS, e Journée des sciences et savoir, Dir. Jaouad Alem et Abdelouahid Assaïdi,
-–.
-
-Bradford, A. & Dodd, B. (). Do all speech disordered children have motor deﬁcits?
-
-Clinical Linguistics & Phonetics , –.
-
-Broomﬁeld, J. & Dodd, B. (). The nature of referred subtypes of primary speech
-
-disability. Child Language and Teaching Therapy (), –.
-
-Brosseau-Lapré, F. & Rvachew, S. (). Test de Conscience Phonologique (Unpublished
-
-Test). Montreal: McGill University.
-
-Brosseau-Lapré, F. & Rvachew, S. (). Cross-linguistic comparison of speech errors
-produced by English- and French-speaking preschool-age children with developmental
-phonological disorders. International Journal of Speech-Language Pathology (), –.
-the English language. Cambridge:
-
-(). The Cambridge encyclopedia of
-
-Crystal, D.
-
-Cambridge University Press.
-
-Di Cristo, A. (). Le cadre accentuel du français contemporain: essai de modélisation
-
-partiel. Langues , –.
-
-Dispaldro, M., Leonard, L. B. & Deevy, P. (). Real-word and nonword repetition in
-Italian-speaking children with speciﬁc language impairment: a study of diagnostic
-accuracy. Journal of Speech, Language, and Hearing Research , –.
-
-Dodd, B. (). Procedures for classiﬁcation of subgroups of speech disorder. In B. Dodd
-(ed.), The diﬀerential diagnoses and treatment of children with speech disorder, –. San
-Diego, CA: Singular.
-
-Dunn, L. M. & Dunn, L. M. (). Peabody Picture Vocabulary Test-Revised. Circle Pines,
-
-Dunn, L. M., Theriault-Whalen, C. & Dunn, L. M. (). Échelle de vocabulaire en images
-
-MN: American Guidance Service.
-
-Peabody. Toronto: Psycan.
-
-Edwards, J., Fox, R. A. & Rogers, C. L. (). Final consonant discrimination in children:
-eﬀects of phonological disorder, vocabulary size, and articulatory accuracy. Journal of
-Speech, Language, and Hearing Research , –.
-
-Forrest, K. (). Diagnostic criteria of developmental apraxia of speech used by clinical
-speech-language pathologists. American Journal of Speech-Language Pathology , –.
-Gibbon, F. E. (). Undiﬀerentiated lingual gestures in children with articulation/
-
-phonological disorders. Journal of Speech, Language, and Hearing Research , –.
-
-Goozée, J. V., Murdoch, B., Ozanne, A., Cheng, Y., Hill, A. & Gibbon, F. (). Lingual
-kinematics and coordination in speech-disordered children exhibiting diﬀerentiated versus
-undiﬀerentiated lingual gestures. International Journal of Language and Communication
-Disorders , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-Hart, B. & Risley, T. (). American parenting of language-learning children: persisting
-in family–child interactions observed in natural home environments.
-
-diﬀerences
-Developmental Psychology , –.
-
-Hesketh, A. (). Early literacy achievement of children with a history of speech problems.
-
-International Journal of Language and Communication Disorders , –.
-
-Kaufman, A. S. & Kaufman, N. L. (). Kaufman Brief Intelligence Test, nd ed. San
-
-Antonio, TX: PsychCorp.
-
-Larrivee, L. S. & Catts, H. W. (). Early reading achievement in children with expressive
-
-phonological disorders. American Journal of Speech-Language Pathology , –.
-
-Lewis, B. A., Avrich, A. A., Freebairn, L. A., Hansen, A. J., Sucheston, L. E., Kuo, I., . . .
-Stein, C. M. (). Literacy outcomes of children with early childhood speech sound
-disorders: impact of endophenotypes. Journal of Speech, Language, and Hearing Research
-, –.
-
-Lewis, B. A., Freebairn, L. A., Hansen, A. J., Iyengar, S. K. & Taylor, H. G. (). School-
-age follow-up of children with childhood apraxia of speech. Language, Speech, and Hearing
-Services in Schools , –.
-
-Lewis, B. A., Shriberg, L. D., Freebairn, L. A., Hansen, A. J., Stein, C. M., Taylor, H. G. &
-Iyengar, S. K. (). The genetic bases of speech sound disorders: evidence from spoken
-and written language. Journal of Speech, Language, and Hearing Research , –.
-
-Lof, G. L. & Watson, M. W. (). A nationwide survey of nonspeech oral motor exercise
-use: implications for evidence-based practice. Language, Speech, and Hearing Services in
-Schools , –.
-
-MacLeod, A. A. N., Sutton, A., Trudeau, N. & Thordardottir, E. (). The acquisition of
-consonants in Québécois French: a cross-sectional study of pre-school-aged children.
-International Journal of Speech-Language Pathology , –.
-
-Mancini, F. & Voghera, M. (). Lunghezza, tipi di sillabe e accento in Italiano. In T. De
-Mauro (ed.), Come parlano gli Italiani [How Italians speak], –. Firenze: La Nuova
-Italia.
-
-Morgan, A. (). Speech-language pathology insights into genetics and neuroscience:
-beyond surface behavior. International Journal of Speech-Language Pathology , –.
-Morley, M. (). The development and disorders of speech in childhood. Edinburgh: Churchill
-
-Livingstone.
-
-Munson, B., Baylis, A. L., Krause, M. O. & Yim, D. (). Representation and access in
-phonological impairment. In C. Fougerón, B. Kühnert, M. Imperio & N. Vallée (eds),
-Laboratory phonology , –. Berlin: Mouton de Gruyter.
-
-Munson, B., Edwards, J. & Beckman, M. E. (). Relationships between nonword
-repetition accuracy and other measures of linguistic development in children with
-phonological disorders. Journal of Speech, Language, and Hearing Research , –.
-
-Murray, E., McCabe, P., Heard, R. & Ballard, K. J. (). Diﬀerential diagnosis of children
-with suspected childhood apraxia of speech. Journal of Speech, Language, and Hearing
-Research (), –.
-
-Paul, M. (). Predictors of consonant development and the development of a test of French
-
-phonology. Unpublished MSc thesis, McGill University, Montréal, Quebec.
-
-Paul, M. & Rvachew, S. (). Test Francophone de Phonologie (Unpublished Test).
-
-Montreal: McGill University.
-
-Pennington, B. F. (). From single to multiple deﬁcit models of developmental disorders.
-
-Cognition , –.
-
-Pennington, B. F. & Bishop, D. V. M. (). Relations among speech, language, and reading
-
-disorders. Annual Review of Psychology , –.
-
-Preston, J. L. & Edwards, M. L. (). Phonological processing skills of adolescents with
-residual speech sound errors. Language, Speech, and Hearing Services in Schools , –.
-Preston, J. L. & Koenig, L. (). Phonetic variability in residual speech sound disorders:
-
-exploration of subtypes. Topics in Language Disorders , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-B R O S S E A U- L A P R É A N D R VA C H E W
-
-Raitano, N. A., Pennington, B. F., Tunick, R. A., Boada, R. & Shriberg, L. D. (). Pre-
-literacy skills of subgroups of children with speech sound disorders. Journal of Child
-Psychology and Psychiatry , –.
-
-Ramus, F., Marshall, C. R., Rosen, S. & van der Lely, K. J. (). Phonological deﬁcits in
-speciﬁc language impairment and developmental dyslexia: towards a multidimensional
-model. Brain , –.
-
-Rvachew, S. & Brosseau-Lapré, F. (). Developmental phonological disorders: foundations of
-
-clinical practice. San Diego, CA: Plural Publishing, Co.
-
-Rvachew, S. & Brosseau-Lapré, F. (). A randomized trial of twelve week interventions for
-the treatment of developmental phonological disorder in francophone children. American
-Journal of Speech-Language Pathology (), –.
-
-Rvachew, S., Chiang, P. Y. & Evans, N. (). Characteristics of speech errors produced by
-children with and without delayed phonological awareness skills. Language, Speech, and
-Hearing Services in Schools , –.
-
-Rvachew, S. & Grawburg, M. (). Correlates of phonological awareness in preschoolers
-with speech sound disorders. Journal of Speech, Language, and Hearing Research , –.
-Rvachew, S., Leroux, É. & Brosseau-Lapré, F. (). Production of word-initial consonant
-sequences by francophone preschoolers with a developmental phonological disorder.
-Canadian Journal of Speech-Language Pathology and Audiology (), –.
-
-Sahlén, B., Reuterskiöld-Wagner, C., Nettelbladt, U. & Radeborg, K. (). Language
-comprehension and nonword repetition in children with language impairment. Clinical
-Linguistics and Phonetics (), –.
-
-Schooling, T. L. (). Lessons from the National Outcomes Measurement System
-
-(NOMS). Seminars in Speech and Language (), –.
-
-Shriberg, L. D. (). Five subtypes of developmental phonological disorders. Clinics in
-
-Communication Disorders , –.
-
-Shriberg, L. D., Austin, D., Lewis, B. A., McSweeny, J. L. & Wilson, D. L. (). The
-Speech Disorders Classiﬁcation System (SDCS): extensions and lifespan reference data.
-Journal of Speech, Language, and Hearing Research , –.
-
-Shriberg, L. D., Fourakis, M., Hall, S. D., Karlsson, H. B., Lohmeier, H. L., McSweeny, J.
-L., . . . Wilson, D. L. (). Extensions to the Speech Disorders Classiﬁcation System
-(SDSC). Clinical Linguistics & Phonetics , –.
-
-Shriberg, L. D., Lewis, B. A., Tomblin, J. B., McSweeny, J. L., Karlsson, H. B. & Scheer, A.
-R. (). Towards diagnostic and phenotype markers for genetically transmitted speech
-delay. Journal of Speech, Language, and Hearing Research , –.
-
-Shriberg, L. D. & Lohmeier, H. L. (). The Syllable Repetition Task (SRT) [Technical
-
-Report No. ]. Madison, WI: Waisman Center.
-
-Shriberg, L. D., Lohmeier, H. L., Campbell, T. F., Dollaghan, C. A., Green, J. R. & Moore,
-C. A. (). A nonword repetition task for speakers with misarticulations: the Syllable
-Repetition Task (SRT). Journal of Speech, Language, and Hearing Research , –.
-Shriberg, L. D., Lohmeier, H. L., Strand, E. A. & Jakielski, K. J. (). Encoding, memory,
-and transcoding deﬁcits in Childhood Apraxia of Speech. Clinical Linguistics & Phonetics
-, –.
-
-Smith, S. D., Pennington, B. F., Boada, R. & Shriberg, L. D. (). Linkage of speech
-sound disorder to reading disability loci. Journal of Child Psychology and Psychiatry ,
-–.
-
-Statistics Canada (). Visual Census.  Census. Ottawa. Released  October .
-<http://www.statcan.gc.ca/census-recensement//dp-pd/vc-rv/index.cfm?
-
-Online
-Lang=ENG&TOPIC_ID=&GEOCODE=> (last accessed  May ).
-
-St Louis, K. O. & Ruscello, D. (). Oral Speech Mechanism Screening Examination, rd ed.
-
-Austin, TX: Pro-Ed.
-
-Stokes, S. F., Kern, S. & Dos Santos, C. (). Extended Statistical Learning as an account
-
-for slow vocabulary growth. Journal of Child Language (), –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-E N D O P H E N O T Y P E S O F D P D I N F R E N C H
-
-Thoonen, G., Maassen, B., Gabreels, F. & Schreuder, R. (). Validity of maximum
-performance tasks to diagnose motor speech disorders in children. Clinical Linguistics &
-Phonetics , –.
-
-Van Riper, C. ( []). Speech correction: principles and methods, th ed. Upper Saddle
-
-River, NJ: Prentice-Hall.
-
-Walker, D. (). French sound structure. Calgary: University of Calgary Press.
-Wilcox, M. J., Gray, S. L., Guimond, A. B. & Laﬀerty, A. E. (). Eﬃcacy of the TELL
-language and literacy curriculum for preschoolers with developmental speech and/or
-language impairments. Early Childhood Research Quarterly , –.
-
-
-
-Downloaded from https://www.cambridge.org/core. Universitaetsbibliothek Kaiserslautern, on 22 Dec 2018 at 14:25:31, subject to the
-Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000916000556
-
-
