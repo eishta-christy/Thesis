@@ -265,7 +265,7 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 				Teile[teil][3]  = 0 
 			write_log(parts_directory, "words that contains CNCs(N>=3) in " + teil + " are " + str(Teile[teil][3]) + " \% of this teil")
 		write_log(parts_directory, "In this document CNCs >=3 are " + str(full_ratio) + "\% of the text.")
-	return df
+	return df, df2
 
 def get_CNCs_up_3_of_a_corpus(rootdirectory, parts_directory):
 	import pandas as pd
@@ -284,7 +284,7 @@ def get_CNCs_up_3_of_a_corpus(rootdirectory, parts_directory):
 			#print(subdir)
 			sub = re.sub(".*/", "", subdir)
 			filepath = subdir + os.sep + file #
-			df = get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory)
+			df, df2 = get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory)
 	df_into_csv(df, "linguistics_df1.csv")
 	df_into_csv(df2, "linguistics_df2.csv")
 
