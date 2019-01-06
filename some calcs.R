@@ -1,4 +1,4 @@
-setwd("C:/Users/kole021/git/CNC/")
+setwd("C:/Users/kole021/git/Thesis/")
 ps_lab_data <-read.table("df_nouns_and_all_words_counts_whole_corpus.csv", quote = "", fill = TRUE, header = TRUE, sep = "\t")
 #head(ps_lab_data)
 ps_lab_data$NounsToWords <- ps_lab_data$NounsN/ps_lab_data$WordsN
@@ -72,7 +72,7 @@ pivot <- ps_lab_data %>%
             MeanNounsN = mean(NounsN),
             MeanNounsToWords = mean(NounsToWords, na.rm = TRUE),
             MeanCNCtoNouns = mean(CNCtoNouns, na.rm = TRUE),
-            CNCstoWords = mean(WordsN,na.rm = TRUE)/mean(CNCsNounsN,na.rm = TRUE))
+            CNCstoWords = mean(CNCsNounsN,na.rm = TRUE)/mean(WordsN,na.rm = TRUE))
 
 #For normally distributed data the standard deviation has some extra information, namely the 68-95-99.7 rule which tells us the percentage of data lying within 1, 2 or 3 standard deviation from the mean.
 shapiro.test(ps_lab_data$NounsN)
