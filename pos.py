@@ -59,20 +59,22 @@ def prepare_full_doc(filepath):
 	#	t = re.split("Introduction", t)[1]
 	#except:
 	#	pass
-	try:
-		t = re.split("Acknowledgements", t)[0]
-	except:
-		pass
-	try:
-		t = re.split("References", t)[0]
-	except:
-		pass
+	#try:
+	#	t = re.split("Acknowledgements", t)[0]
+	#except:
+	#	pass
+	#try:
+	#	t = re.split("References", t)[0]
+	#except:
+	#	pass
 	replacements = [#('(Corresponding|Correspondence).*?Elsevier B.V. All rights reserved.', ''),
 					##('© 201\d Elsevier B.V. All rights reserved.', ''),
 					('(\n){2,}', '\n'),
 					('-\n', ''),
 					('- \n', ''),
 					('\n.{1,7}\n', ''),
+					('\n\r', ' '),
+					('\n', ' ')
 				    ##('et( |\n)al\.(?=( |\n)?([^A-Z]|[,\(\"]))', 'N') #Papageorgiou et al. (1998)
 				    ]
 	for old, new in replacements:
@@ -132,7 +134,7 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 		Teil2 = "<Middle>"
 		Teil3 = "<Conclusion>"
 		Ende  = "<Ending>"
-		Teile2 = {Teil1: [0, 0], Teil2: [0, 0], Teil3: [0, 0]} 
+		Teile2 = {Teil1: [0, 0, 0], Teil2: [0, 0, 0], Teil3: [0, 0, 0]} 
 		CNC_up_3_count = 0
 		words_for_CNCs = 0
 		print(sub)
@@ -141,7 +143,7 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 		write_log(parts_directory, "Processing " + file + " in " + sub)
 		t = prepare_full_doc(filepath)
 		sentences = re.split("\.|\?|:|;", t)
-		last_first_word = ""
+		
 		sent_number = 0
 		word_number = 0
 
@@ -157,7 +159,9 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 				write_log(parts_directory, "failed to tag the sentence: " + sent)
 			maxCNC = 0
 			maxCNCstring = ""
+			last_first_word = ""
 			other_word = False
+
 			for word in p:
 				#print(word)
 				word_number += 1
@@ -173,7 +177,7 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 						word_word = re.split("/",word_word)[0]
 					if other_word == True:
 						if last_first_word != "":
-							maxCNCstring = last_first_word + word_word
+							maxCNCstring = last_first_word + " " + word_word
 							last_first_word = ""
 							maxCNC = 2
 							other_word = False
@@ -184,7 +188,11 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 							maxCNCstring = word_word
 					else:
 						if ((word_word[len(word_word)-1]==")")|(word_word[len(word_word)-1]=="’")|(word_word[len(word_word)-1]=="’")|(word_word[len(word_word)-1]==",")|(word_word[len(word_word)-1]==";")|(word_word[len(word_word)-1]=="'")|(word_word[len(word_word)-1]=="'")|(word_word[len(word_word)-1]==":")):
+							
 							other_word  = True
+							maxCNC += 1
+							maxCNCstring += " " + word_word
+							last_first_word = ""
 						else:
 							try:
 								if re.search("[:\"\(\[]", word_word[0])!=None:
@@ -199,7 +207,8 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 					##	other_word  = True
 				else:
 					other_word  = True
-				if word[0] == Teil2:
+					last_first_word = ""
+				if re.search(Teil2, word[0])!=None:
 					write_log(parts_directory, "End of Introduction")
 					print("Teil 1", word_count, CNC_up_3_count, words_for_CNCs)
 					Teile[Teil1][0] = word_count
@@ -214,7 +223,7 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 					CNC_up_3_count = 0
 					words_for_CNCs = 0
 					Current_teil = Teil2
-				elif word[0] == Teil3:
+				elif re.search(Teil3, word[0])!=None:
 					write_log(parts_directory, "End of Middle")
 					print("Teil 2", word_count, CNC_up_3_count, words_for_CNCs)
 					Teile[Teil2][0] = word_count
@@ -229,32 +238,34 @@ def	get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory):
 					CNC_up_3_count = 0
 					words_for_CNCs = 0
 					Current_teil = Teil3
-				#elif word[0] == Ende:
-		print(word[0], " THIS IS WORD 0 BY ENDE")
-		print("Teil 3", word_count, CNC_up_3_count, words_for_CNCs)
-		write_log(parts_directory, "End of Conclusion")
-		Teile[Teil3][0] = word_count
-		Teile[Teil3][1] = CNC_up_3_count
-		Teile[Teil3][2] = words_for_CNCs
+				elif re.search(Ende, word[0])!=None:
+					print(word[0], " THIS IS WORD 0 BY ENDE")
+					print("Teil 3", word_count, CNC_up_3_count, words_for_CNCs)
+					write_log(parts_directory, "End of Conclusion")
+					Teile[Teil3][0] = word_count
+					Teile[Teil3][1] = CNC_up_3_count
+					Teile[Teil3][2] = words_for_CNCs
 
-		Teile2[Teil3][0] = word_count
-		Teile2[Teil3][1] = noun_count
-		word_count = 0
-		noun_count = 0
-		df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Intro>", 'WordsN': Teile2[Teil1][0], 'NounsN': Teile2[Teil1][1]}, ignore_index=True)
-		df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Middle>", 'WordsN': Teile2[Teil2][0], 'NounsN': Teile2[Teil2][1]}, ignore_index=True)
-		df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Conclusion>", 'WordsN': Teile2[Teil3][0], 'NounsN': Teile2[Teil3][1]}, ignore_index=True)
-		print("new line in df2:", df2)
+					Teile2[Teil3][0] = word_count
+					Teile2[Teil3][1] = noun_count
+					word_count = 0
+					noun_count = 0
+					df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Intro>", 'WordsN': Teile2[Teil1][0], 'NounsN': Teile2[Teil1][1], 'CNCsNounsN':Teile[Teil1][2]}, ignore_index=True)
+					df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Middle>", 'WordsN': Teile2[Teil2][0], 'NounsN': Teile2[Teil2][1], 'CNCsNounsN':Teile[Teil2][2]}, ignore_index=True)
+					df2 = df2.append({'Subcorpus': sub, 'Type of Article': "", 'Article': file, 'Teil': "<Conclusion>", 'WordsN': Teile2[Teil3][0], 'NounsN': Teile2[Teil3][1], 'CNCsNounsN':Teile[Teil3][2]}, ignore_index=True)
+					print("new line in df2:", df2)
 
 		CNC_up_3_count = 0
 		words_for_CNCs = 0
 		sum_CNCs = 0
 		sum_total = 0
+		word_count = 0
+		noun_count = 0
 		for teil in Teile.keys():
-			print("teil in Keys()", teil)
-			write_log(parts_directory, "words in the " + teil + str(Teile[teil][0]))
-			write_log(parts_directory, "CNCs up 3 in the " + teil + str(Teile[teil][1]))
-			write_log(parts_directory, "words that contains CNCs(N>=3) in " + teil + str(Teile[teil][2]))
+		# 	print("teil in Keys()", teil)
+		# 	write_log(parts_directory, "words in the " + teil + str(Teile[teil][0]))
+		# 	write_log(parts_directory, "CNCs up 3 in the " + teil + str(Teile[teil][1]))
+		# 	write_log(parts_directory, "words that contains CNCs(N>=3) in " + teil + str(Teile[teil][2]))
 			sum_CNCs += Teile[teil][2]
 			sum_total += Teile[teil][0]
 		full_ratio = sum_CNCs/sum_total
@@ -274,7 +285,7 @@ def get_CNCs_up_3_of_a_corpus(rootdirectory, parts_directory):
 	from log_creating import write_log, df_into_csv
 	""" This function lets you find all CNC of length 3 and longer 
 	and its sentences number. It goes through every txt in the directory. """
-	df2 = pd.DataFrame({'Subcorpus': [], 'Type of Article': [], 'Article': [], 'Teil': [], 'WordsN': [], 'NounsN': []})
+	df2 = pd.DataFrame({'Subcorpus': [], 'Type of Article': [], 'Article': [], 'Teil': [], 'WordsN': [], 'NounsN': [], 'CNCsNounsN': []})
 	print("df2 is created")
 	df = pd.DataFrame({'Subcorpus': [], 'Type of Article': [], 'Article': [], 'Teil': [], 'Sentence number': [], 'CNC String': [], 'CNC Length': []})
 	print("df is created", df)
@@ -285,8 +296,8 @@ def get_CNCs_up_3_of_a_corpus(rootdirectory, parts_directory):
 			sub = re.sub(".*/", "", subdir)
 			filepath = subdir + os.sep + file #
 			df, df2 = get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory)
-	df_into_csv(df, "linguistics_df1.csv")
-	df_into_csv(df2, "linguistics_df2.csv")
+	df_into_csv(df, "economics_df1.csv")
+	df_into_csv(df2, "economics_df2.csv")
 
 #########TODO:
 ## 4. Empty the parts output Verbessern
