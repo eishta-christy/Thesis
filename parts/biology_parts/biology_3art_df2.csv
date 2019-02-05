@@ -1,0 +1,10 @@
+	Subcorpus	Type of Article	Article	Teil	WordsN	NounsN	CNCsNounsN
+0	biology_intros		1-s2.0-S0301051116303179-main.txt	<Intro>	2159.0	561.0	44.0
+1	biology_intros		1-s2.0-S0301051116303179-main.txt	<Middle>	4620.0	1160.0	63.0
+2	biology_intros		1-s2.0-S0301051116303179-main.txt	<Conclusion>	1658.0	452.0	41.0
+3	biology_intros		1-s2.0-S030105111630360X-main.txt	<Intro>	2396.0	602.0	15.0
+4	biology_intros		1-s2.0-S030105111630360X-main.txt	<Middle>	5735.0	1425.0	39.0
+5	biology_intros		1-s2.0-S030105111630360X-main.txt	<Conclusion>	3057.0	805.0	32.0
+6	biology_intros		1-s2.0-S0301051116303611-main.txt	<Intro>	1394.0	359.0	18.0
+7	biology_intros		1-s2.0-S0301051116303611-main.txt	<Middle>	3376.0	821.0	33.0
+8	biology_intros		1-s2.0-S0301051116303611-main.txt	<Conclusion>	1359.0	389.0	9.0

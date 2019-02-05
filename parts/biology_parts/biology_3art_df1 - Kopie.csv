@@ -1,0 +1,96 @@
+	Subcorpus	Type of Article	Article	Teil	Sentence number	CNC String	CNC Length	Words before
+0	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	12.0	auditory intensity levels	3.0	157.0
+1	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	13.0	amplitude-intensity function slope AIF	4.0	175.0
+2	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	60.0	reinforcement sensitivity theory RST	4.0	613.0
+3	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	64.0	active approach behavior	3.0	679.0
+4	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	65.0	Fight-Flight-Freeze system FFFS	3.0	707.0
+5	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	97.0	mating food taking	3.0	1369.0
+6	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	104.0	incentive reward system	3.0	1540.0
+7	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	104.0	see Corr DeYoung	3.0	1569.0
+8	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	122.0	visual cue indicating	3.0	1838.0
+9	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	124.0	RST-PQ BAS subscales	3.0	1888.0
+10	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	129.0	signiﬁcant ERP differences	3.0	1985.0
+11	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	129.0	RST-PQ Impulsivity individuals	3.0	1989.0
+12	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	135.0	Electrical Tomography LORETA	3.0	2074.0
+13	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Intro>	139.0	ERP wave analysis	3.0	2123.0
+14	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	151.0	disease head trauma	3.0	2235.0
+15	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	151.0	consciousness substance dependence	3.0	2242.0
+16	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	188.0	present research Cronbach’s alpha values	5.0	2592.0
+17	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	193.0	total BAS T-BAS	3.0	2614.0
+18	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	224.0	ﬁnal picture set	3.0	2973.0
+19	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	231.0	negative images valence	3.0	3045.0
+20	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	251.0	auditory stimulus duration	3.0	3185.0
+21	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	263.0	white dot circle	3.0	3346.0
+22	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	265.0	time period ranging	3.0	3409.0
+23	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	266.0	picture presentation time	3.0	3425.0
+24	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	268.0	ﬁrst tone probe	3.0	3460.0
+25	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	290.0	eye movement artifacts	3.0	3744.0
+26	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	317.0	Cortical sources analysis	3.0	3977.0
+27	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	328.0	conventional EEG recordings	3.0	4058.0
+28	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	334.0	Recent LORETA software version	4.0	4130.0
+29	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	342.0	ERP components data	3.0	4275.0
+30	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	359.0	ERP localization algorithms	3.0	4626.0
+31	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	365.0	bias-corrected bootstrap method	3.0	4701.0
+32	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	402.0	BAS personality traits	3.0	5256.0
+33	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Middle>	499.0	second order interaction	3.0	6282.0
+34	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	574.0	high T-BAS participants	3.0	7181.0
+35	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	583.0	high T-BAS participants	3.0	7278.0
+36	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	587.0	Low T-BAS participants	3.0	7353.0
+37	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	589.0	present ERP results	3.0	7380.0
+38	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	592.0	higher startle reﬂex response	4.0	7434.0
+39	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	593.0	larger ERP amplitudes	3.0	7457.0
+40	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	594.0	“excitement pleasure attack”	3.0	7531.0
+41	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	595.0	RST-PQ T-BAS scale	3.0	7550.0
+42	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	602.0	sLORETA source localization method	4.0	7610.0
+43	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	607.0	substance use disorders	3.0	7801.0
+44	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	623.0	“the excitement attack	3.0	8183.0
+45	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	629.0	state emotionality measures	3.0	8315.0
+46	biology_intros	Quant/Qual	1-s2.0-S0301051116303179-main.txt	<Conclusion>	631.0	source localization ﬁndings	3.0	8373.0
+47	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Intro>	29.0	example stimulus categorization	3.0	332.0
+48	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Intro>	31.0	response times RTs	3.0	383.0
+49	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Intro>	60.0	Simple detection tasks	3.0	878.0
+50	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Intro>	75.0	single stimulus variant	3.0	1108.0
+51	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Intro>	132.0	basis reﬂecting variability	3.0	1930.0
+52	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	259.0	mode sense CMS	3.0	3193.0
+53	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	281.0	previous EEG study	3.0	3507.0
+54	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	315.0	theta bands Demiralp	3.0	3895.0
+55	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	346.0	scale parameter bk	3.0	4337.0
+56	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	351.0	tn stage durations	3.0	4431.0
+57	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	353.0	dynamic programming techniques	3.0	4465.0
+58	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	431.0	peak latency trends	3.0	5297.0
+59	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	541.0	two-tailed sign test	3.0	6504.0
+60	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	598.0	critical event trials	3.0	7360.0
+61	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	623.0	likelihood ratio test	3.0	7729.0
+62	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	625.0	likelihood ratio test	3.0	7770.0
+63	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	630.0	likelihood ratio test	3.0	7808.0
+64	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Middle>	641.0	template matching procedure	3.0	7908.0
+65	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	692.0	long standing theory	3.0	8291.0
+66	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	697.0	stimulus categorization delay	3.0	8366.0
+67	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	713.0	residue iteration decomposition RIDE	4.0	8618.0
+68	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	715.0	Central components bridge stimulus-	4.0	8656.0
+69	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	730.0	ﬁxed decision criterion	3.0	8884.0
+70	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	789.0	Single trial estimates	3.0	9561.0
+71	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	816.0	earlier simulation studies	3.0	9919.0
+72	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	856.0	phase realignment byThese	3.0	10702.0
+73	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	860.0	alpha frequency range	3.0	10760.0
+74	biology_intros	Quant/Qual	1-s2.0-S030105111630360X-main.txt	<Conclusion>	861.0	alpha frequency band	3.0	10790.0
+75	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	9.0	recognition memory tests	3.0	138.0
+76	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	12.0	cue TBR items	3.0	198.0
+77	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	18.0	attentional inhibition account	3.0	303.0
+78	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	19.0	few ERP studies	3.0	335.0
+79	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	56.0	following test phase	3.0	856.0
+80	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Intro>	70.0	word recognition Carreiras	3.0	1189.0
+81	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	99.0	mean valence ratings	3.0	1593.0
+82	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	127.0	elastic electrode cap	3.0	1860.0
+83	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	152.0	ERP recording EEG	3.0	2285.0
+84	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	152.0	silver/silver chloride electrodes	3.0	2303.0
+85	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	199.0	context R/F cues	3.0	2835.0
+86	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	222.0	mean trial numbers	3.0	3051.0
+87	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	230.0	Greenhouse-Geisser epsilon values	3.0	3206.0
+88	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	248.0	mean trial numbers	3.0	3390.0
+89	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	310.0	post cue presentation	3.0	4020.0
+90	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	372.0	R/F cue difference	3.0	4650.0
+91	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Middle>	381.0	subsequent memory effect	3.0	4736.0
+92	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Conclusion>	411.0	emotional context pictures	3.0	5240.0
+93	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Conclusion>	439.0	attentional mediation account	3.0	5770.0
+94	biology_intros	Quant/Qual	1-s2.0-S0301051116303611-main.txt	<Conclusion>	444.0	cue-related ERP evidence	3.0	5854.0

@@ -296,8 +296,8 @@ def get_CNCs_up_3_of_a_corpus(rootdirectory, parts_directory):
 			sub = re.sub(".*/", "", subdir)
 			filepath = subdir + os.sep + file #
 			df, df2 = get_CNCs_up_3_of_a_txt_file(df2, df, filepath, file, sub, parts_directory)
-	df_into_csv(df, "economics_df1.csv")
-	df_into_csv(df2, "economics_df2.csv")
+	df_into_csv(df, "biology_3art_df1.csv")
+	df_into_csv(df2, "biology_3art_df2.csv")
 
 #########TODO:
 ## 4. Empty the parts output Verbessern

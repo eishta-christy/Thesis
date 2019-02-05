@@ -1,0 +1,122 @@
+[2019-01-16 15:42:41.443116]Processing 1-s2.0-S0301051116303179-main.txt in biology_intros
+[2019-01-16 15:43:19.972744]auditory intensity levels in sent: 12 with maxCNC: 3
+[2019-01-16 15:43:25.271744]amplitude-intensity function slope AIF in sent: 13 with maxCNC: 4
+[2019-01-16 15:45:47.549825]reinforcement sensitivity theory RST in sent: 60 with maxCNC: 4
+[2019-01-16 15:45:59.315845]active approach behavior in sent: 64 with maxCNC: 3
+[2019-01-16 15:46:02.264381]Fight-Flight-Freeze system FFFS in sent: 65 with maxCNC: 3
+[2019-01-16 15:47:51.778554]mating food taking in sent: 97 with maxCNC: 3
+[2019-01-16 15:48:17.181241]incentive reward system in sent: 104 with maxCNC: 3
+[2019-01-16 15:48:17.193232]see Corr DeYoung in sent: 104 with maxCNC: 3
+[2019-01-16 15:49:11.566673]visual cue indicating in sent: 122 with maxCNC: 3
+[2019-01-16 15:49:20.677050]RST-PQ BAS subscales in sent: 124 with maxCNC: 3
+[2019-01-16 15:49:39.275307]signiﬁcant ERP differences in sent: 129 with maxCNC: 3
+[2019-01-16 15:49:39.285304]RST-PQ Impulsivity individuals in sent: 129 with maxCNC: 3
+[2019-01-16 15:49:59.284961]Electrical Tomography LORETA in sent: 135 with maxCNC: 3
+[2019-01-16 15:50:12.824902]ERP wave analysis in sent: 139 with maxCNC: 3
+[2019-01-16 15:50:19.170420]End of Introduction
+[2019-01-16 15:50:52.057073]disease head trauma in sent: 151 with maxCNC: 3
+[2019-01-16 15:50:52.057073]consciousness substance dependence in sent: 151 with maxCNC: 3
+[2019-01-16 15:52:51.564473]present research Cronbach’s alpha values in sent: 188 with maxCNC: 5
+[2019-01-16 15:53:06.769706]total BAS T-BAS in sent: 193 with maxCNC: 3
+[2019-01-16 15:54:58.737194]ﬁnal picture set in sent: 224 with maxCNC: 3
+[2019-01-16 15:55:27.095413]negative images valence in sent: 231 with maxCNC: 3
+[2019-01-16 15:56:42.402719]auditory stimulus duration in sent: 251 with maxCNC: 3
+[2019-01-16 15:57:22.312749]white dot circle in sent: 263 with maxCNC: 3
+[2019-01-16 15:57:29.141774]time period ranging in sent: 265 with maxCNC: 3
+[2019-01-16 15:57:32.819593]picture presentation time in sent: 266 with maxCNC: 3
+[2019-01-16 15:57:39.726466]ﬁrst tone probe in sent: 268 with maxCNC: 3
+[2019-01-16 15:59:18.728877]eye movement artifacts in sent: 290 with maxCNC: 3
+[2019-01-16 16:00:43.964743]Cortical sources analysis in sent: 317 with maxCNC: 3
+[2019-01-16 16:01:21.192072]conventional EEG recordings in sent: 328 with maxCNC: 3
+[2019-01-16 16:01:40.552018]Recent LORETA software version in sent: 334 with maxCNC: 4
+[2019-01-16 16:02:07.792220]ERP components data in sent: 342 with maxCNC: 3
+[2019-01-16 16:03:09.047721]ERP localization algorithms in sent: 359 with maxCNC: 3
+[2019-01-16 16:03:28.666961]bias-corrected bootstrap method in sent: 365 with maxCNC: 3
+[2019-01-16 16:05:32.857815]BAS personality traits in sent: 402 with maxCNC: 3
+[2019-01-16 16:10:53.842912]second order interaction in sent: 499 with maxCNC: 3
+[2019-01-16 16:13:41.216305]End of Middle
+[2019-01-16 16:15:13.616009]high T-BAS participants in sent: 574 with maxCNC: 3
+[2019-01-16 16:15:45.351624]high T-BAS participants in sent: 583 with maxCNC: 3
+[2019-01-16 16:15:58.035790]Low T-BAS participants in sent: 587 with maxCNC: 3
+[2019-01-16 16:16:05.459519]present ERP results in sent: 589 with maxCNC: 3
+[2019-01-16 16:16:14.361148]higher startle reﬂex response in sent: 592 with maxCNC: 4
+[2019-01-16 16:16:17.381995]larger ERP amplitudes in sent: 593 with maxCNC: 3
+[2019-01-16 16:16:21.647268]“excitement pleasure attack” in sent: 594 with maxCNC: 3
+[2019-01-16 16:16:25.303863]RST-PQ T-BAS scale in sent: 595 with maxCNC: 3
+[2019-01-16 16:16:47.701860]sLORETA source localization method in sent: 602 with maxCNC: 4
+[2019-01-16 16:17:07.529640]substance use disorders in sent: 607 with maxCNC: 3
+[2019-01-16 16:17:55.892981]“the excitement attack in sent: 623 with maxCNC: 3
+[2019-01-16 16:18:13.171729]state emotionality measures in sent: 629 with maxCNC: 3
+[2019-01-16 16:18:19.765522]source localization ﬁndings in sent: 631 with maxCNC: 3
+[2019-01-16 16:18:25.152190]End of Conclusion
+[2019-01-16 16:18:25.183436]words that contains CNCs(N>=3) in <Intro> are 0.020379805465493284 \% of this teil
+[2019-01-16 16:18:25.183436]words that contains CNCs(N>=3) in <Middle> are 0.013636363636363636 \% of this teil
+[2019-01-16 16:18:25.183436]words that contains CNCs(N>=3) in <Conclusion> are 0.024728588661037394 \% of this teil
+[2019-01-16 16:18:25.183436]In this document CNCs >=3 are 0.01754178025364466\% of the text.
+[2019-01-16 16:18:25.199060]Processing 1-s2.0-S030105111630360X-main.txt in biology_intros
+[2019-01-16 16:19:48.225362]example stimulus categorization in sent: 29 with maxCNC: 3
+[2019-01-16 16:19:54.599663]response times RTs in sent: 31 with maxCNC: 3
+[2019-01-16 16:21:22.544383]Simple detection tasks in sent: 60 with maxCNC: 3
+[2019-01-16 16:22:04.257815]single stimulus variant in sent: 75 with maxCNC: 3
+[2019-01-16 16:24:47.645559]basis reﬂecting variability in sent: 132 with maxCNC: 3
+[2019-01-16 16:26:35.138312]End of Introduction
+[2019-01-16 16:30:43.854580]mode sense CMS in sent: 259 with maxCNC: 3
+[2019-01-16 16:31:54.544393]previous EEG study in sent: 281 with maxCNC: 3
+[2019-01-16 16:33:30.707197]theta bands Demiralp in sent: 315 with maxCNC: 3
+[2019-01-16 16:34:58.208970]scale parameter bk in sent: 346 with maxCNC: 3
+[2019-01-16 16:35:12.651383]tn stage durations in sent: 351 with maxCNC: 3
+[2019-01-16 16:35:19.430633]dynamic programming techniques in sent: 353 with maxCNC: 3
+[2019-01-16 16:39:01.398966]peak latency trends in sent: 431 with maxCNC: 3
+[2019-01-16 16:44:09.257390]two-tailed sign test in sent: 541 with maxCNC: 3
+[2019-01-16 16:46:59.736926]critical event trials in sent: 598 with maxCNC: 3
+[2019-01-16 16:48:09.774691]likelihood ratio test in sent: 623 with maxCNC: 3
+[2019-01-16 16:48:15.643178]likelihood ratio test in sent: 625 with maxCNC: 3
+[2019-01-16 16:48:29.424054]likelihood ratio test in sent: 630 with maxCNC: 3
+[2019-01-16 16:48:59.927236]template matching procedure in sent: 641 with maxCNC: 3
+[2019-01-16 16:50:51.110837]End of Middle
+[2019-01-16 16:51:21.720543]long standing theory in sent: 692 with maxCNC: 3
+[2019-01-16 16:51:36.333229]stimulus categorization delay in sent: 697 with maxCNC: 3
+[2019-01-16 16:52:21.761711]residue iteration decomposition RIDE in sent: 713 with maxCNC: 4
+[2019-01-16 16:52:27.415395]Central components bridge stimulus- in sent: 715 with maxCNC: 4
+[2019-01-16 16:53:10.702546]ﬁxed decision criterion in sent: 730 with maxCNC: 3
+[2019-01-16 16:55:57.170102]Single trial estimates in sent: 789 with maxCNC: 3
+[2019-01-16 16:57:16.322131]earlier simulation studies in sent: 816 with maxCNC: 3
+[2019-01-16 16:59:10.895606]phase realignment byThese in sent: 856 with maxCNC: 3
+[2019-01-16 16:59:22.631754]alpha frequency range in sent: 860 with maxCNC: 3
+[2019-01-16 16:59:25.488019]alpha frequency band in sent: 861 with maxCNC: 3
+[2019-01-16 17:00:29.522836]End of Conclusion
+[2019-01-16 17:00:29.554086]words that contains CNCs(N>=3) in <Intro> are 0.006260434056761269 \% of this teil
+[2019-01-16 17:00:29.554086]words that contains CNCs(N>=3) in <Middle> are 0.006800348735832607 \% of this teil
+[2019-01-16 17:00:29.554086]words that contains CNCs(N>=3) in <Conclusion> are 0.01046777886817141 \% of this teil
+[2019-01-16 17:00:29.554086]In this document CNCs >=3 are 0.007686807293528781\% of the text.
+[2019-01-16 17:00:29.554086]Processing 1-s2.0-S0301051116303611-main.txt in biology_intros
+[2019-01-16 17:00:54.757473]recognition memory tests in sent: 9 with maxCNC: 3
+[2019-01-16 17:01:03.910837]cue TBR items in sent: 12 with maxCNC: 3
+[2019-01-16 17:01:21.832990]attentional inhibition account in sent: 18 with maxCNC: 3
+[2019-01-16 17:01:25.350950]few ERP studies in sent: 19 with maxCNC: 3
+[2019-01-16 17:03:10.683541]following test phase in sent: 56 with maxCNC: 3
+[2019-01-16 17:03:54.282632]word recognition Carreiras in sent: 70 with maxCNC: 3
+[2019-01-16 17:04:28.529640]End of Introduction
+[2019-01-16 17:05:18.162081]mean valence ratings in sent: 99 with maxCNC: 3
+[2019-01-16 17:06:35.023617]elastic electrode cap in sent: 127 with maxCNC: 3
+[2019-01-16 17:07:46.890675]ERP recording EEG in sent: 152 with maxCNC: 3
+[2019-01-16 17:07:46.890675]silver/silver chloride electrodes in sent: 152 with maxCNC: 3
+[2019-01-16 17:07:46.890675]cannot create fileC:/Users/kole021/git/Thesis/parts/biology_parts/biology_intros1-s2.0-S0301051116303611-main_152_silver/silver chloride electrodes.txt
+[2019-01-16 17:10:00.367076]context R/F cues in sent: 199 with maxCNC: 3
+[2019-01-16 17:10:00.367076]cannot create fileC:/Users/kole021/git/Thesis/parts/biology_parts/biology_intros1-s2.0-S0301051116303611-main_199_context R/F cues.txt
+[2019-01-16 17:11:08.931842]mean trial numbers in sent: 222 with maxCNC: 3
+[2019-01-16 17:11:43.528425]Greenhouse-Geisser epsilon values in sent: 230 with maxCNC: 3
+[2019-01-16 17:12:44.414250]mean trial numbers in sent: 248 with maxCNC: 3
+[2019-01-16 17:15:50.591586]post cue presentation in sent: 310 with maxCNC: 3
+[2019-01-16 17:18:52.835185]R/F cue difference in sent: 372 with maxCNC: 3
+[2019-01-16 17:18:52.835185]cannot create fileC:/Users/kole021/git/Thesis/parts/biology_parts/biology_intros1-s2.0-S0301051116303611-main_372_R/F cue difference.txt
+[2019-01-16 17:19:17.674491]subsequent memory effect in sent: 381 with maxCNC: 3
+[2019-01-16 17:19:29.350198]End of Middle
+[2019-01-16 17:20:44.816856]emotional context pictures in sent: 411 with maxCNC: 3
+[2019-01-16 17:22:03.335695]attentional mediation account in sent: 439 with maxCNC: 3
+[2019-01-16 17:22:16.870019]cue-related ERP evidence in sent: 444 with maxCNC: 3
+[2019-01-16 17:22:55.210277]End of Conclusion
+[2019-01-16 17:22:55.257150]words that contains CNCs(N>=3) in <Intro> are 0.01291248206599713 \% of this teil
+[2019-01-16 17:22:55.257150]words that contains CNCs(N>=3) in <Middle> are 0.009774881516587678 \% of this teil
+[2019-01-16 17:22:55.257150]words that contains CNCs(N>=3) in <Conclusion> are 0.006622516556291391 \% of this teil
+[2019-01-16 17:22:55.257150]In this document CNCs >=3 are 0.00978952520802741\% of the text.

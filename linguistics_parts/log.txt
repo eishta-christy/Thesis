@@ -1,0 +1,2095 @@
+[2019-01-05 13:47:32.964054]Processing Acquisition_of_nouns_and_verbs_in_Italian_pre-school_children_.txt in linguistics_intros
+[2019-01-05 13:48:16.607653]action naming skills in sent: 17 with maxCNC: 3
+[2019-01-05 13:52:15.079637]speech input patterns in sent: 101 with maxCNC: 3
+[2019-01-05 13:53:19.922613]picture naming task in sent: 126 with maxCNC: 3
+[2019-01-05 13:57:49.679392]object picture naming in sent: 210 with maxCNC: 3
+[2019-01-05 13:58:11.335058]End of Introduction
+[2019-01-05 13:58:45.355109]action naming tasks in sent: 226 with maxCNC: 3
+[2019-01-05 13:58:48.649080]original  objects in sent: 227 with maxCNC: 3
+[2019-01-05 13:59:08.817419]-point scale  in sent: 233 with maxCNC: 3
+[2019-01-05 14:02:23.538824]reaction times RTs in sent: 286 with maxCNC: 3
+[2019-01-05 14:04:14.419333]factor Age F in sent: 317 with maxCNC: 3
+[2019-01-05 14:04:22.139578]naming latencies F in sent: 319 with maxCNC: 3
+[2019-01-05 14:04:45.843904]cases AoA estimates in sent: 326 with maxCNC: 3
+[2019-01-05 14:04:59.323935]object– action differences in sent: 330 with maxCNC: 3
+[2019-01-05 14:07:26.642558]frequent error categories in sent: 373 with maxCNC: 3
+[2019-01-05 14:08:14.087388]‘swims’ galleggia ‘floats’ in sent: 387 with maxCNC: 3
+[2019-01-05 14:10:33.672379]End of Middle
+[2019-01-05 14:11:05.995021]words labelling concepts in sent: 446 with maxCNC: 3
+[2019-01-05 14:12:16.461854]picture naming task in sent: 473 with maxCNC: 3
+[2019-01-05 14:12:53.110764]child age groups in sent: 488 with maxCNC: 3
+[2019-01-05 14:12:58.402260]picture type differences in sent: 490 with maxCNC: 3
+[2019-01-05 14:13:44.676389]End of Conclusion
+[2019-01-05 14:13:44.707639]words that contains CNCs(N>=3) in <Intro> are 0.003298515667949423 \% of this teil
+[2019-01-05 14:13:44.707639]words that contains CNCs(N>=3) in <Middle> are 0.008047210300429184 \% of this teil
+[2019-01-05 14:13:44.707639]words that contains CNCs(N>=3) in <Conclusion> are 0.007957559681697613 \% of this teil
+[2019-01-05 14:13:44.707639]In this document CNCs >=3 are 0.006085192697768763\% of the text.
+[2019-01-05 14:13:44.707639]Processing Age_and_input_effects_in_the_acquisition_of_mood_in_Heritage_Portuguese_.txt in linguistics_intros
+[2019-01-05 14:13:57.571272]heritage language HL in sent: 5 with maxCNC: 3
+[2019-01-05 14:16:50.086089]minority language Welsh in sent: 69 with maxCNC: 3
+[2019-01-05 14:18:11.914530]complexity interface nature in sent: 99 with maxCNC: 3
+[2019-01-05 14:20:15.518364]fiction verbs d in sent: 142 with maxCNC: 3
+[2019-01-05 14:21:43.048062]sentence completion task in sent: 174 with maxCNC: 3
+[2019-01-05 14:22:05.516702]adult accuracy rate in sent: 182 with maxCNC: 3
+[2019-01-05 14:23:53.519666]matrix predicate Meinunger in sent: 222 with maxCNC: 3
+[2019-01-05 14:24:31.409121]Portuguese Romance languages in sent: 235 with maxCNC: 3
+[2019-01-05 14:24:52.519578]End of Introduction
+[2019-01-05 14:25:20.451018]youngest age groups in sent: 254 with maxCNC: 3
+[2019-01-05 14:25:31.184658]with mean age in sent: 258 with maxCNC: 3
+[2019-01-05 14:25:33.998344]parents’ migration background in sent: 259 with maxCNC: 3
+[2019-01-05 14:31:40.399614]second research question in sent: 398 with maxCNC: 3
+[2019-01-05 14:31:48.925940]case child HSs in sent: 401 with maxCNC: 3
+[2019-01-05 14:31:48.925940]with second-generation parents in sent: 401 with maxCNC: 3
+[2019-01-05 14:33:10.889796]same age span in sent: 433 with maxCNC: 3
+[2019-01-05 14:33:44.748763]youngest child group in sent: 445 with maxCNC: 3
+[2019-01-05 14:33:50.042009]second research question in sent: 447 with maxCNC: 3
+[2019-01-05 14:35:08.667254]age group –· in sent: 475 with maxCNC: 3
+[2019-01-05 14:36:34.157716]End of Middle
+[2019-01-05 14:36:39.043488]first research question in sent: 510 with maxCNC: 3
+[2019-01-05 14:36:47.503290]children child HSs in sent: 513 with maxCNC: 3
+[2019-01-05 14:37:05.441135]mood choice triggers in sent: 520 with maxCNC: 3
+[2019-01-05 14:37:10.799618]child HSs children in sent: 522 with maxCNC: 3
+[2019-01-05 14:37:29.504906]children heritage bilinguals in sent: 529 with maxCNC: 3
+[2019-01-05 14:38:24.965561]second research question in sent: 550 with maxCNC: 3
+[2019-01-05 14:38:37.907287]oldest age span in sent: 555 with maxCNC: 3
+[2019-01-05 14:39:35.449060]EP target knowledge in sent: 578 with maxCNC: 3
+[2019-01-05 14:39:43.155104]End of Conclusion
+[2019-01-05 14:39:43.170730]words that contains CNCs(N>=3) in <Intro> are 0.005866536299193351 \% of this teil
+[2019-01-05 14:39:43.170730]words that contains CNCs(N>=3) in <Middle> are 0.007103954534690978 \% of this teil
+[2019-01-05 14:39:43.170730]words that contains CNCs(N>=3) in <Conclusion> are 0.017467248908296942 \% of this teil
+[2019-01-05 14:39:43.170730]In this document CNCs >=3 are 0.00805119735755574\% of the text.
+[2019-01-05 14:39:43.170730]Processing Aptitude_and_pedagogical_conditions_in_the_early_development_of_a_nonprimary_language.txt in linguistics_intros
+[2019-01-05 14:40:00.675797]script spelling cues in sent: 7 with maxCNC: 3
+[2019-01-05 14:40:03.419538]rote learning ability in sent: 8 with maxCNC: 3
+[2019-01-05 14:40:59.695789]visuospatial sketch pad in sent: 29 with maxCNC: 3
+[2019-01-05 14:41:14.195978]sentence span tests in sent: 34 with maxCNC: 3
+[2019-01-05 14:41:23.260462]aptitude–treatment interaction ATI in sent: 37 with maxCNC: 3
+[2019-01-05 14:41:26.497041]present study attempts in sent: 38 with maxCNC: 3
+[2019-01-05 14:42:43.284032]grammaticality judgment posttest in sent: 66 with maxCNC: 3
+[2019-01-05 14:43:42.415922]listening grammaticality judgment GJ in sent: 88 with maxCNC: 4
+[2019-01-05 14:44:03.387317]operation–word span task in sent: 96 with maxCNC: 3
+[2019-01-05 14:44:47.203964]high school students in sent: 113 with maxCNC: 3
+[2019-01-05 14:44:52.879401]deductive instruction condition in sent: 115 with maxCNC: 3
+[2019-01-05 14:44:58.325717]inductive instruction group in sent: 117 with maxCNC: 3
+[2019-01-05 14:45:00.965155]input instruction treatment in sent: 118 with maxCNC: 3
+[2019-01-05 14:45:08.391258]reading comprehension tests in sent: 121 with maxCNC: 3
+[2019-01-05 14:45:27.356412]laboratory studies participants in sent: 128 with maxCNC: 3
+[2019-01-05 14:45:48.526532]information gap activities in sent: 136 with maxCNC: 3
+[2019-01-05 14:45:48.542156]judgment test GJT in sent: 136 with maxCNC: 3
+[2019-01-05 14:46:23.896553]oral utterance rejection in sent: 149 with maxCNC: 3
+[2019-01-05 14:48:53.153634]computer-assisted language learning in sent: 207 with maxCNC: 3
+[2019-01-05 14:49:39.762082]End of Introduction
+[2019-01-05 14:51:06.581080]instruction research VanPatten in sent: 257 with maxCNC: 3
+[2019-01-05 14:51:30.430200]SVO word order in sent: 266 with maxCNC: 3
+[2019-01-05 14:52:07.415519]noun morphology indicated in sent: 280 with maxCNC: 3
+[2019-01-05 14:52:32.753981]noun case morphology in sent: 290 with maxCNC: 3
+[2019-01-05 14:53:21.735791]test version presentation in sent: 310 with maxCNC: 3
+[2019-01-05 14:54:52.130744]listening span test in sent: 345 with maxCNC: 3
+[2019-01-05 14:55:51.991019]paired associates subtest in sent: 367 with maxCNC: 3
+[2019-01-05 14:58:08.379368]model selection procedure in sent: 419 with maxCNC: 3
+[2019-01-05 14:59:50.375822]End of Middle
+[2019-01-05 14:59:59.520077]grammar information provided in sent: 463 with maxCNC: 3
+[2019-01-05 15:02:04.458746]“utterance rejection” conditions in sent: 511 with maxCNC: 3
+[2019-01-05 15:03:22.634732]End of Conclusion
+[2019-01-05 15:03:22.665982]words that contains CNCs(N>=3) in <Intro> are 0.01517927244176917 \% of this teil
+[2019-01-05 15:03:22.665982]words that contains CNCs(N>=3) in <Middle> are 0.0077195239626889674 \% of this teil
+[2019-01-05 15:03:22.665982]words that contains CNCs(N>=3) in <Conclusion> are 0.002974714923153198 \% of this teil
+[2019-01-05 15:03:22.665982]In this document CNCs >=3 are 0.009835699117022466\% of the text.
+[2019-01-05 15:03:22.665982]Processing Assessing_understanding_of_relative_clauses_a_comparison_of_multiple-choice_comprehension_versus_sen.txt in linguistics_intros
+[2019-01-05 15:03:27.902802]language development children in sent: 2 with maxCNC: 3
+[2019-01-05 15:03:49.548276]toy manipulation paradigm in sent: 10 with maxCNC: 3
+[2019-01-05 15:05:52.739834]sentence repetition ability in sent: 56 with maxCNC: 3
+[2019-01-05 15:06:08.542057]sentence repetition tasks in sent: 62 with maxCNC: 3
+[2019-01-05 15:06:12.603999]sentence repetition error scores in sent: 63 with maxCNC: 4
+[2019-01-05 15:06:16.935551]sentence repetition task in sent: 64 with maxCNC: 3
+[2019-01-05 15:06:22.034645]children’s sentence repetition performance in sent: 66 with maxCNC: 4
+[2019-01-05 15:06:34.475424]language production systems in sent: 71 with maxCNC: 3
+[2019-01-05 15:06:42.365708]children’s sentence recall ability in sent: 74 with maxCNC: 4
+[2019-01-05 15:07:00.644270]immediate sentence recall might in sent: 81 with maxCNC: 4
+[2019-01-05 15:07:34.754981]End of Introduction
+[2019-01-05 15:07:39.846683]hearing screening test in sent: 97 with maxCNC: 3
+[2019-01-05 15:07:59.655557]typical language abilities in sent: 105 with maxCNC: 3
+[2019-01-05 15:08:16.340530]sentence–picture matching task in sent: 111 with maxCNC: 3
+[2019-01-05 15:09:36.760014]roles verb/object distractor in sent: 141 with maxCNC: 3
+[2019-01-05 15:09:36.775635]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsAssessing_understanding_of_relative_clauses_a_comparison_of_multiple-choice_comprehension_versus_sen_141_roles verb/object distractor.txt
+[2019-01-05 15:09:52.804068]sentence recall task in sent: 147 with maxCNC: 3
+[2019-01-05 15:10:35.841295]sentence repetition task in sent: 164 with maxCNC: 3
+[2019-01-05 15:10:51.420223]omissions noun transpositions in sent: 170 with maxCNC: 3
+[2019-01-05 15:12:55.461708]sentence repetition task in sent: 216 with maxCNC: 3
+[2019-01-05 15:14:41.473775]child language competence in sent: 255 with maxCNC: 3
+[2019-01-05 15:15:22.854363]End of Middle
+[2019-01-05 15:15:25.387315]child language research in sent: 272 with maxCNC: 3
+[2019-01-05 15:15:25.387315]sentence comprehension task in sent: 272 with maxCNC: 3
+[2019-01-05 15:15:57.954765]clause comprehension difficulty in sent: 285 with maxCNC: 3
+[2019-01-05 15:16:00.815473]current comprehension task in sent: 286 with maxCNC: 3
+[2019-01-05 15:16:42.277928]clause comprehension difficulty in sent: 302 with maxCNC: 3
+[2019-01-05 15:16:45.153492]current comprehension task in sent: 303 with maxCNC: 3
+[2019-01-05 15:17:01.478697]our head noun in sent: 309 with maxCNC: 3
+[2019-01-05 15:17:39.519471]matrix clause type in sent: 323 with maxCNC: 3
+[2019-01-05 15:18:14.620578]sentence repetition task in sent: 336 with maxCNC: 3
+[2019-01-05 15:18:58.686426]language development children in sent: 353 with maxCNC: 3
+[2019-01-05 15:19:04.083609]sentence comprehension task in sent: 355 with maxCNC: 3
+[2019-01-05 15:19:14.581885]End of Conclusion
+[2019-01-05 15:19:14.597514]words that contains CNCs(N>=3) in <Intro> are 0.0187018701870187 \% of this teil
+[2019-01-05 15:19:14.597514]words that contains CNCs(N>=3) in <Middle> are 0.008038106579339089 \% of this teil
+[2019-01-05 15:19:14.597514]words that contains CNCs(N>=3) in <Conclusion> are 0.014745308310991957 \% of this teil
+[2019-01-05 15:19:14.597514]In this document CNCs >=3 are 0.0126770060687795\% of the text.
+[2019-01-05 15:19:14.597514]Processing Auditory_perception_and_word_recognition_in_Cantonese-Chinese_speaking_children_with_and_without_Spe.txt in linguistics_intros
+[2019-01-05 15:19:20.148112]Language Impairment SLI in sent: 2 with maxCNC: 3
+[2019-01-05 15:19:54.581940]word recognition deficits in sent: 14 with maxCNC: 3
+[2019-01-05 15:20:00.435414]Spoken word recognition in sent: 16 with maxCNC: 3
+[2019-01-05 15:20:03.613803]Spoken word recognition in sent: 17 with maxCNC: 3
+[2019-01-05 15:20:15.240426]Spoken word recognition in sent: 21 with maxCNC: 3
+[2019-01-05 15:21:18.057791]neighborhood density effects in sent: 45 with maxCNC: 3
+[2019-01-05 15:22:03.795770]word recognition isolation points in sent: 62 with maxCNC: 4
+[2019-01-05 15:24:15.836614]auditory repetition task in sent: 112 with maxCNC: 3
+[2019-01-05 15:24:15.836614]frequency discrimination FD in sent: 112 with maxCNC: 3
+[2019-01-05 15:25:05.816208]Accurate speech processing in sent: 130 with maxCNC: 3
+[2019-01-05 15:25:08.864513]frequency modulation FM in sent: 131 with maxCNC: 3
+[2019-01-05 15:25:23.435424]End of Introduction
+[2019-01-05 15:25:28.527945]word recognition deficits in sent: 138 with maxCNC: 3
+[2019-01-05 15:25:39.027080]speech-gating frequency discrimination FD in sent: 142 with maxCNC: 4
+[2019-01-05 15:28:59.051741]staircase reversal procedure in sent: 217 with maxCNC: 3
+[2019-01-05 15:29:14.172032]Frequency Modulation detection in sent: 223 with maxCNC: 3
+[2019-01-05 15:29:24.157064]frequency modulation detection in sent: 226 with maxCNC: 3
+[2019-01-05 15:30:36.953823]Chinese logograph character in sent: 254 with maxCNC: 3
+[2019-01-05 15:32:36.256812]child-friendly computer game in sent: 298 with maxCNC: 3
+[2019-01-05 15:33:51.520929]oral language subtests in sent: 325 with maxCNC: 3
+[2019-01-05 15:36:12.258414]SLI word recognition times in sent: 378 with maxCNC: 4
+[2019-01-05 15:37:35.621298]potential mediation relations in sent: 409 with maxCNC: 3
+[2019-01-05 15:37:35.636920]processing path analyses in sent: 409 with maxCNC: 3
+[2019-01-05 15:38:22.502501]Akaike information criterion AIC in sent: 425 with maxCNC: 4
+[2019-01-05 15:38:22.518125]Browne–Cudeck criterion BCC in sent: 425 with maxCNC: 3
+[2019-01-05 15:38:55.371981]Spoken word recognition in sent: 437 with maxCNC: 3
+[2019-01-05 15:39:00.672972]End of Middle
+[2019-01-05 15:39:03.132047]speech-gating frequency modulation FM in sent: 440 with maxCNC: 4
+[2019-01-05 15:39:30.416233]poorer word recognition in sent: 450 with maxCNC: 3
+[2019-01-05 15:42:47.916040]voice onset time in sent: 526 with maxCNC: 3
+[2019-01-05 15:43:36.136925]comprehensive test battery in sent: 544 with maxCNC: 3
+[2019-01-05 15:43:59.005081]frequency modulation detection in sent: 553 with maxCNC: 3
+[2019-01-05 15:44:18.331243]lexical restructuring model in sent: 560 with maxCNC: 3
+[2019-01-05 15:44:29.606433]End of Conclusion
+[2019-01-05 15:44:29.622061]words that contains CNCs(N>=3) in <Intro> are 0.015560640732265447 \% of this teil
+[2019-01-05 15:44:29.622061]words that contains CNCs(N>=3) in <Middle> are 0.010085163603765128 \% of this teil
+[2019-01-05 15:44:29.622061]words that contains CNCs(N>=3) in <Conclusion> are 0.007636655948553055 \% of this teil
+[2019-01-05 15:44:29.622061]In this document CNCs >=3 are 0.010727969348659003\% of the text.
+[2019-01-05 15:44:29.622061]Processing A_cross-linguistic_study_of_the_development_of_gesture_and_speech_in_Zulu_and_French_oral_narratives.txt in linguistics_intros
+[2019-01-05 15:46:47.061399]polyvalence co-speech gestures in sent: 52 with maxCNC: 3
+[2019-01-05 15:47:28.210980]baby teacher teaching child in sent: 68 with maxCNC: 4
+[2019-01-05 15:47:28.210980]doctor nursing patient in sent: 68 with maxCNC: 3
+[2019-01-05 15:49:16.710229]noun class system in sent: 109 with maxCNC: 3
+[2019-01-05 15:50:36.513691]or PRO-DROP language in sent: 139 with maxCNC: 3
+[2019-01-05 15:51:08.538473]adults speech style in sent: 151 with maxCNC: 3
+[2019-01-05 15:51:44.023063]practices narrative production in sent: 165 with maxCNC: 3
+[2019-01-05 15:52:00.403574]End of Introduction
+[2019-01-05 15:52:32.217242]information gesture introduction in sent: 183 with maxCNC: 3
+[2019-01-05 15:52:57.980256]same video twice in sent: 192 with maxCNC: 3
+[2019-01-05 15:53:52.553790]French speech coding in sent: 213 with maxCNC: 3
+[2019-01-05 15:55:10.306749]“The mother bird in sent: 242 with maxCNC: 3
+[2019-01-05 15:57:09.837493]marks discourse cohesion in sent: 289 with maxCNC: 3
+[2019-01-05 15:57:55.535498]narrative elicitation task in sent: 307 with maxCNC: 3
+[2019-01-05 15:58:02.063671]speech act narration in sent: 309 with maxCNC: 3
+[2019-01-05 15:58:04.855380]performative word searching in sent: 310 with maxCNC: 3
+[2019-01-05 15:59:05.022018]narrative complexity measure in sent: 333 with maxCNC: 3
+[2019-01-05 15:59:09.482751]pragmatic speech acts in sent: 334 with maxCNC: 3
+[2019-01-05 16:02:32.538236]French gesture production in sent: 410 with maxCNC: 3
+[2019-01-05 16:02:35.712427]non-representational gesture rates in sent: 411 with maxCNC: 3
+[2019-01-05 16:02:38.868475]non-representational gesture rates in sent: 412 with maxCNC: 3
+[2019-01-05 16:02:38.884100]age effect F in sent: 412 with maxCNC: 3
+[2019-01-05 16:02:38.884100]language effect F in sent: 412 with maxCNC: 3
+[2019-01-05 16:02:46.842098]End of Middle
+[2019-01-05 16:03:47.150721]children’s gesture production in sent: 438 with maxCNC: 3
+[2019-01-05 16:04:22.097774]narrative production task in sent: 451 with maxCNC: 3
+[2019-01-05 16:05:16.414024]iconic gestures representative in sent: 472 with maxCNC: 3
+[2019-01-05 16:06:22.992400]End of Conclusion
+[2019-01-05 16:06:23.023651]words that contains CNCs(N>=3) in <Intro> are 0.008678500986193294 \% of this teil
+[2019-01-05 16:06:23.023651]words that contains CNCs(N>=3) in <Middle> are 0.011673151750972763 \% of this teil
+[2019-01-05 16:06:23.023651]words that contains CNCs(N>=3) in <Conclusion> are 0.005011135857461025 \% of this teil
+[2019-01-05 16:06:23.023651]In this document CNCs >=3 are 0.009284143659907158\% of the text.
+[2019-01-05 16:06:23.023651]Processing Bilingual_childrens_lexical_strategies_in_a_narrative_task_.txt in linguistics_intros
+[2019-01-05 16:08:43.842563]fewer word tokens in sent: 53 with maxCNC: 3
+[2019-01-05 16:10:29.399281]content event sequence in sent: 93 with maxCNC: 3
+[2019-01-05 16:11:24.917098]End of Introduction
+[2019-01-05 16:11:38.343132]average age was in sent: 120 with maxCNC: 3
+[2019-01-05 16:14:01.459848]word types t in sent: 174 with maxCNC: 3
+[2019-01-05 16:14:01.459848]word tokens t in sent: 174 with maxCNC: 3
+[2019-01-05 16:15:56.149252]Panther throwing flowers in sent: 218 with maxCNC: 3
+[2019-01-05 16:16:40.877944]word types t in sent: 235 with maxCNC: 3
+[2019-01-05 16:17:15.191140]Spearman’s correlation test in sent: 248 with maxCNC: 3
+[2019-01-05 16:19:01.384471]word tokens t in sent: 287 with maxCNC: 3
+[2019-01-05 16:19:09.501411]word tokens t in sent: 290 with maxCNC: 3
+[2019-01-05 16:20:47.533632]fewer target words in sent: 327 with maxCNC: 3
+[2019-01-05 16:21:32.861981]target words F in sent: 344 with maxCNC: 3
+[2019-01-05 16:23:07.952659]End of Middle
+[2019-01-05 16:23:50.845464]lexical strategies used in sent: 396 with maxCNC: 3
+[2019-01-05 16:23:53.752562]lexical choice delay in sent: 397 with maxCNC: 3
+[2019-01-05 16:24:21.527272]more target concepts in sent: 408 with maxCNC: 3
+[2019-01-05 16:24:29.787029]participants’ vocabulary scores in sent: 411 with maxCNC: 3
+[2019-01-05 16:25:07.471321]simply word meaning in sent: 425 with maxCNC: 3
+[2019-01-05 16:25:10.812923]bilingual children’s language development in sent: 426 with maxCNC: 4
+[2019-01-05 16:25:29.003853]lexical access difficulties in sent: 433 with maxCNC: 3
+[2019-01-05 16:26:25.849758]memory load measures in sent: 455 with maxCNC: 3
+[2019-01-05 16:26:34.274100]End of Conclusion
+[2019-01-05 16:26:34.336600]words that contains CNCs(N>=3) in <Intro> are 0.0032485110990795887 \% of this teil
+[2019-01-05 16:26:34.336600]words that contains CNCs(N>=3) in <Middle> are 0.006947660954145438 \% of this teil
+[2019-01-05 16:26:34.336600]words that contains CNCs(N>=3) in <Conclusion> are 0.018341892883345562 \% of this teil
+[2019-01-05 16:26:34.336600]In this document CNCs >=3 are 0.008103081827842721\% of the text.
+[2019-01-05 16:26:34.336600]Processing Borba-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 16:26:47.699075]sex reassignment surgeries in sent: 5 with maxCNC: 3
+[2019-01-05 16:26:53.432370]sex reassignment surgeries in sent: 7 with maxCNC: 3
+[2019-01-05 16:26:59.245860]gender identity clinics in sent: 9 with maxCNC: 3
+[2019-01-05 16:27:17.600886]Gender Identity Disorder in sent: 15 with maxCNC: 3
+[2019-01-05 16:27:20.853729]healthcare policies and in sent: 16 with maxCNC: 3
+[2019-01-05 16:27:20.869354]gender identity clinics in sent: 16 with maxCNC: 3
+[2019-01-05 16:29:23.865065]End of Introduction
+[2019-01-05 16:30:00.518436]such life experiences in sent: 72 with maxCNC: 3
+[2019-01-05 16:30:16.479140]desire disorder tellingly in sent: 78 with maxCNC: 3
+[2019-01-05 16:30:35.245924]new target consumers in sent: 85 with maxCNC: 3
+[2019-01-05 16:30:54.210478]sense medicalization is in sent: 91 with maxCNC: 3
+[2019-01-05 16:33:10.433679]gender reassignment clinics in sent: 140 with maxCNC: 3
+[2019-01-05 16:33:21.333117]Brazilian transfeminist activist in sent: 144 with maxCNC: 3
+[2019-01-05 16:33:29.394185]gender reassignment surgeries in sent: 147 with maxCNC: 3
+[2019-01-05 16:35:25.356695]sex reassignment surgeries in sent: 188 with maxCNC: 3
+[2019-01-05 16:36:02.479492]sex reassignment surgeries in sent: 201 with maxCNC: 3
+[2019-01-05 16:36:25.866067]Martınez-Guzman andI ~nıguez-Rueda in sent: 209 with maxCNC: 3
+[2019-01-05 16:36:25.866067]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsBorba-2017-Journal_of_Sociolinguistics_209_Martınez-Guzman andI ~nıguez-Rueda.txt
+[2019-01-05 16:36:39.001745]sex reassignment surgeries in sent: 214 with maxCNC: 3
+[2019-01-05 16:48:11.836445]standards blinds physicians in sent: 476 with maxCNC: 3
+[2019-01-05 17:00:05.522488]healthcare professionals aren’t in sent: 743 with maxCNC: 3
+[2019-01-05 17:01:37.472397]APA’s framework forces in sent: 777 with maxCNC: 3
+[2019-01-05 17:01:46.046390]End of Middle
+[2019-01-05 17:02:42.027580]‘alternative knowledge systems’ in sent: 801 with maxCNC: 3
+[2019-01-05 17:03:07.019481]help ‘decolonize power relations in sent: 810 with maxCNC: 4
+[2019-01-05 17:03:22.211711]End of Conclusion
+[2019-01-05 17:03:22.242962]words that contains CNCs(N>=3) in <Intro> are 0.015293118096856415 \% of this teil
+[2019-01-05 17:03:22.242962]words that contains CNCs(N>=3) in <Middle> are 0.00522128294380905 \% of this teil
+[2019-01-05 17:03:22.242962]words that contains CNCs(N>=3) in <Conclusion> are 0.010355029585798817 \% of this teil
+[2019-01-05 17:03:22.242962]In this document CNCs >=3 are 0.006769728200464787\% of the text.
+[2019-01-05 17:03:22.242962]Processing Carmichael-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 17:06:05.934063]second dialect acquisition research in sent: 63 with maxCNC: 4
+[2019-01-05 17:06:31.769688]participants’ place orientation in sent: 73 with maxCNC: 3
+[2019-01-05 17:07:08.752701]French colonial outpost in sent: 86 with maxCNC: 3
+[2019-01-05 17:09:01.429408]End of Introduction
+[2019-01-05 17:09:59.284328]Inter-coder reliability analysis in sent: 150 with maxCNC: 3
+[2019-01-05 17:10:54.637303]Post-Katrina location status in sent: 169 with maxCNC: 3
+[2019-01-05 17:11:10.849603]Extra-Chalmatian orientation scores in sent: 175 with maxCNC: 3
+[2019-01-05 17:11:19.528423]extra-Chalmatian orientation scores in sent: 178 with maxCNC: 3
+[2019-01-05 17:12:12.530295]effects regression model in sent: 198 with maxCNC: 3
+[2019-01-05 17:12:18.766511]vowel word type in sent: 200 with maxCNC: 3
+[2019-01-05 17:14:02.804782]End of Middle
+[2019-01-05 17:14:10.509935]post-Katrina location status in sent: 242 with maxCNC: 3
+[2019-01-05 17:14:56.426351]home dialect area in sent: 259 with maxCNC: 3
+[2019-01-05 17:15:43.230377]minor identity move in sent: 276 with maxCNC: 3
+[2019-01-05 17:17:04.281739]dialect spelling version in sent: 307 with maxCNC: 3
+[2019-01-05 17:17:37.036638]highest retention rates in sent: 318 with maxCNC: 3
+[2019-01-05 17:17:48.548435]reason postKatrina GNO in sent: 322 with maxCNC: 3
+[2019-01-05 17:17:57.077603]dialect acquisition research in sent: 325 with maxCNC: 3
+[2019-01-05 17:18:14.181255]Extra-Chalmatian orientation scores in sent: 331 with maxCNC: 3
+[2019-01-05 17:18:29.851128]End of Conclusion
+[2019-01-05 17:18:29.882378]words that contains CNCs(N>=3) in <Intro> are 0.004557885141294439 \% of this teil
+[2019-01-05 17:18:29.882378]words that contains CNCs(N>=3) in <Middle> are 0.008115419296663661 \% of this teil
+[2019-01-05 17:18:29.898001]words that contains CNCs(N>=3) in <Conclusion> are 0.011336797354747285 \% of this teil
+[2019-01-05 17:18:29.898001]In this document CNCs >=3 are 0.007964466227599939\% of the text.
+[2019-01-05 17:18:29.898001]Processing Case_assignment_in_English-speaking_children_a_paired_priming_paradigm.txt in linguistics_intros
+[2019-01-05 17:21:00.707676]child language productions in sent: 58 with maxCNC: 3
+[2019-01-05 17:21:03.526173]language production performance error in sent: 59 with maxCNC: 4
+[2019-01-05 17:22:33.188774]input ambiguity hypothesis in sent: 94 with maxCNC: 3
+[2019-01-05 17:22:36.565757]pronoun case errors in sent: 95 with maxCNC: 3
+[2019-01-05 17:22:36.581383]pronoun case errors in sent: 95 with maxCNC: 3
+[2019-01-05 17:24:15.190824]several ﬁller sentences in sent: 130 with maxCNC: 3
+[2019-01-05 17:24:21.005652]children’s memory skills in sent: 132 with maxCNC: 3
+[2019-01-05 17:24:37.540572]implicit learning perspective in sent: 138 with maxCNC: 3
+[2019-01-05 17:24:48.367272]input ambiguity hypothesis in sent: 142 with maxCNC: 3
+[2019-01-05 17:25:17.516032]End of Introduction
+[2019-01-05 17:26:08.571850]authors’ child language lab in sent: 171 with maxCNC: 4
+[2019-01-05 17:26:14.643949]recorder model PMD in sent: 173 with maxCNC: 3
+[2019-01-05 17:26:33.077793]paired priming task in sent: 180 with maxCNC: 3
+[2019-01-05 17:26:42.273007]spontaneous speech samples in sent: 183 with maxCNC: 3
+[2019-01-05 17:27:08.783602]interactive iPad application in sent: 192 with maxCNC: 3
+[2019-01-05 17:29:10.251126]different pronoun case types in sent: 239 with maxCNC: 4
+[2019-01-05 17:29:18.582001]elicited pronoun production measure in sent: 242 with maxCNC: 4
+[2019-01-05 17:29:21.411709]elicited pronoun error rate in sent: 243 with maxCNC: 4
+[2019-01-05 17:29:24.334575]pronoun error rate in sent: 244 with maxCNC: 3
+[2019-01-05 17:29:24.350195]pronoun case errors in sent: 244 with maxCNC: 3
+[2019-01-05 17:29:58.684644]pronoun use Rispoli in sent: 256 with maxCNC: 3
+[2019-01-05 17:30:02.152213]person pronoun productions in sent: 257 with maxCNC: 3
+[2019-01-05 17:30:13.817705]correct pronoun productions in sent: 261 with maxCNC: 3
+[2019-01-05 17:30:16.709055]spontaneous pronoun error rate in sent: 262 with maxCNC: 4
+[2019-01-05 17:30:16.724675]pronoun case errors in sent: 262 with maxCNC: 3
+[2019-01-05 17:30:26.451415]paired priming task in sent: 266 with maxCNC: 3
+[2019-01-05 17:30:31.932489]input ambiguity hypothesis in sent: 268 with maxCNC: 3
+[2019-01-05 17:31:00.671016]person plural pronoun in sent: 277 with maxCNC: 3
+[2019-01-05 17:36:45.608517]sentence completion opportunities in sent: 413 with maxCNC: 3
+[2019-01-05 17:37:07.355620]ambiguous pronoun condition in sent: 421 with maxCNC: 3
+[2019-01-05 17:37:26.636128]pronoun production task in sent: 428 with maxCNC: 3
+[2019-01-05 17:37:53.181948]paired priming conditions in sent: 438 with maxCNC: 3
+[2019-01-05 17:37:59.217781]scorable pronoun responses in sent: 440 with maxCNC: 3
+[2019-01-05 17:38:02.982156]scorable pronoun responses in sent: 441 with maxCNC: 3
+[2019-01-05 17:38:24.182824]non-contrasting pronouns condition in sent: 448 with maxCNC: 3
+[2019-01-05 17:38:33.668739]paired samples t-test in sent: 451 with maxCNC: 3
+[2019-01-05 17:38:37.395367]ambiguous pronouns condition in sent: 452 with maxCNC: 3
+[2019-01-05 17:38:37.395367]case pronoun productions in sent: 452 with maxCNC: 3
+[2019-01-05 17:38:41.163608]non-contrasting pronouns condition in sent: 453 with maxCNC: 3
+[2019-01-05 17:39:10.774460]binomial probability calculator in sent: 464 with maxCNC: 3
+[2019-01-05 17:39:54.524624]End of Middle
+[2019-01-05 17:42:02.333269]process input structures in sent: 529 with maxCNC: 3
+[2019-01-05 17:45:28.588450]End of Conclusion
+[2019-01-05 17:45:28.619699]words that contains CNCs(N>=3) in <Intro> are 0.011909825606125054 \% of this teil
+[2019-01-05 17:45:28.619699]words that contains CNCs(N>=3) in <Middle> are 0.024265644955300127 \% of this teil
+[2019-01-05 17:45:28.619699]words that contains CNCs(N>=3) in <Conclusion> are 0.001349527665317139 \% of this teil
+[2019-01-05 17:45:28.619699]In this document CNCs >=3 are 0.014842737660501825\% of the text.
+[2019-01-05 17:45:28.619699]Processing Childrens_use_of_evaluative_devices_in_spoken_and_written_narratives_.txt in linguistics_intros
+[2019-01-05 17:45:59.049429]audience’s knowledge state in sent: 11 with maxCNC: 3
+[2019-01-05 17:46:56.601357]understand talk about in sent: 31 with maxCNC: 3
+[2019-01-05 17:47:06.628050]development show differences in sent: 35 with maxCNC: 3
+[2019-01-05 17:49:48.240674]rapid speech production in sent: 96 with maxCNC: 3
+[2019-01-05 17:50:36.660558]reader’s imagination Purcell-Gates in sent: 113 with maxCNC: 3
+[2019-01-05 17:51:03.441447]school grade children in sent: 123 with maxCNC: 3
+[2019-01-05 17:52:07.172794]End of Introduction
+[2019-01-05 17:53:35.799716]zip code areas in sent: 180 with maxCNC: 3
+[2019-01-05 17:53:54.427546]average vocabulary ability in sent: 187 with maxCNC: 3
+[2019-01-05 17:54:21.216990]wordless picture book in sent: 197 with maxCNC: 3
+[2019-01-05 17:54:29.326194]testing narrative production in sent: 200 with maxCNC: 3
+[2019-01-05 18:00:58.443373]End of Middle
+[2019-01-05 18:01:15.374837]modality differences separately in sent: 352 with maxCNC: 3
+[2019-01-05 18:04:25.700362]sixth-grader Onderweg komt in sent: 415 with maxCNC: 3
+[2019-01-05 18:04:53.253868]Eenmaal bij het strand in sent: 423 with maxCNC: 4
+[2019-01-05 18:05:24.011353]important aspects downgrade in sent: 435 with maxCNC: 3
+[2019-01-05 18:07:13.228940]beautiful spring day in sent: 472 with maxCNC: 3
+[2019-01-05 18:08:57.086240]het aquarium doen” in sent: 508 with maxCNC: 3
+[2019-01-05 18:10:56.855711]themore complex use in sent: 553 with maxCNC: 3
+[2019-01-05 18:11:13.322869]External cues can in sent: 559 with maxCNC: 3
+[2019-01-05 18:13:10.573218]age group modality in sent: 605 with maxCNC: 3
+[2019-01-05 18:14:36.712651]status home literacy practices in sent: 638 with maxCNC: 4
+[2019-01-05 18:14:45.357250]End of Conclusion
+[2019-01-05 18:14:45.388504]words that contains CNCs(N>=3) in <Intro> are 0.0076465590484282074 \% of this teil
+[2019-01-05 18:14:45.388504]words that contains CNCs(N>=3) in <Middle> are 0.0036253776435045317 \% of this teil
+[2019-01-05 18:14:45.388504]words that contains CNCs(N>=3) in <Conclusion> are 0.007309273640931932 \% of this teil
+[2019-01-05 18:14:45.388504]In this document CNCs >=3 are 0.006174068910575582\% of the text.
+[2019-01-05 18:14:45.388504]Processing Children_perceive_speech_onsets_by_ear_and_eye_.txt in linguistics_intros
+[2019-01-05 18:14:50.159856]everyday conversations adults in sent: 2 with maxCNC: 3
+[2019-01-05 18:15:35.583218]ii adolescents preteens–teenagers in sent: 18 with maxCNC: 3
+[2019-01-05 18:17:52.077249]Speech Fill-In Effect in sent: 67 with maxCNC: 3
+[2019-01-05 18:18:02.150199]Multimodal picture–word task in sent: 70 with maxCNC: 3
+[2019-01-05 18:18:02.150199]picture word interference task Schriefers in sent: 70 with maxCNC: 5
+[2019-01-05 18:18:15.543481]picture naming times in sent: 75 with maxCNC: 3
+[2019-01-05 18:19:15.668078]Primary research questions in sent: 97 with maxCNC: 3
+[2019-01-05 18:19:18.609649]secondary research question in sent: 98 with maxCNC: 3
+[2019-01-05 18:20:54.479065]mild–moderate hearing loss in sent: 133 with maxCNC: 3
+[2019-01-05 18:21:11.335524]Recent neuroscience studies in sent: 139 with maxCNC: 3
+[2019-01-05 18:22:02.999121]task word stimuli in sent: 157 with maxCNC: 3
+[2019-01-05 18:22:24.239092]End of Introduction
+[2019-01-05 18:22:41.350407]appropriate hearing sensitivity in sent: 170 with maxCNC: 3
+[2019-01-05 18:23:53.671240]entire set ofmaterials in sent: 198 with maxCNC: 3
+[2019-01-05 18:24:19.714388]positional segment frequencies in sent: 207 with maxCNC: 3
+[2019-01-05 18:24:52.563034]Illustrative filler items in sent: 218 with maxCNC: 3
+[2019-01-05 18:25:08.217213]picture–distractor filler items in sent: 224 with maxCNC: 3
+[2019-01-05 18:25:24.945277]color video signal in sent: 230 with maxCNC: 3
+[2019-01-05 18:26:41.293452]stimulus onset asynchrony SOA in sent: 257 with maxCNC: 4
+[2019-01-05 18:28:14.286998]and vice versa in sent: 290 with maxCNC: 3
+[2019-01-05 18:28:29.103551]participant’s vocal response in sent: 295 with maxCNC: 3
+[2019-01-05 18:28:38.415166]counter timer values in sent: 298 with maxCNC: 3
+[2019-01-05 18:29:18.472631]naming practice trials in sent: 313 with maxCNC: 3
+[2019-01-05 18:29:57.011815]picture– word task in sent: 327 with maxCNC: 3
+[2019-01-05 18:30:45.734667]picture naming speed in sent: 346 with maxCNC: 3
+[2019-01-05 18:31:06.940999]primary analyses below in sent: 354 with maxCNC: 3
+[2019-01-05 18:31:26.785458]average picture naming times in sent: 361 with maxCNC: 4
+[2019-01-05 18:31:30.624918]four age groups in sent: 362 with maxCNC: 3
+[2019-01-05 18:31:38.897113]picture naming times in sent: 365 with maxCNC: 3
+[2019-01-05 18:32:02.807477]participant’s baseline naming times in sent: 374 with maxCNC: 4
+[2019-01-05 18:32:13.920552]adjusted naming times in sent: 378 with maxCNC: 3
+[2019-01-05 18:32:25.546067]four age groups in sent: 382 with maxCNC: 3
+[2019-01-05 18:32:39.440394]picture naming times in sent: 387 with maxCNC: 3
+[2019-01-05 18:33:45.516227]SPEECH EFFECT VSPE in sent: 409 with maxCNC: 3
+[2019-01-05 18:33:54.643417]% confidence intervals in sent: 412 with maxCNC: 3
+[2019-01-05 18:34:58.486692]% confidence interval in sent: 436 with maxCNC: 3
+[2019-01-05 18:35:07.531782]baseline naming time in sent: 439 with maxCNC: 3
+[2019-01-05 18:35:19.898172]% confidence intervals in sent: 443 with maxCNC: 3
+[2019-01-05 18:35:22.825515]baseline naming times in sent: 444 with maxCNC: 3
+[2019-01-05 18:35:36.250237]condition minus mean time in sent: 449 with maxCNC: 4
+[2019-01-05 18:36:02.376033]third lower-order interaction in sent: 458 with maxCNC: 3
+[2019-01-05 18:36:28.993761]Speech Fill-In Effect or in sent: 467 with maxCNC: 4
+[2019-01-05 18:36:33.133953]Speech Fill-In Effect in sent: 468 with maxCNC: 3
+[2019-01-05 18:36:58.671711]Visual Speech Fill-In Effect in sent: 476 with maxCNC: 4
+[2019-01-05 18:37:05.288174]four age groups in sent: 478 with maxCNC: 3
+[2019-01-05 18:37:22.529986]lownon-intact fidelity conditions in sent: 484 with maxCNC: 3
+[2019-01-05 18:37:35.581966]% confidence intervals in sent: 488 with maxCNC: 3
+[2019-01-05 18:40:25.547348]End of Middle
+[2019-01-05 18:41:58.800421]individuals process speech in sent: 584 with maxCNC: 3
+[2019-01-05 18:42:02.023061]talker recognition task in sent: 585 with maxCNC: 3
+[2019-01-05 18:42:29.173962]Visual Speech Fill-In Effect in sent: 595 with maxCNC: 4
+[2019-01-05 18:42:56.833145]Speech Fill-In Effect in sent: 605 with maxCNC: 3
+[2019-01-05 18:43:07.815283]End of Conclusion
+[2019-01-05 18:43:07.830909]words that contains CNCs(N>=3) in <Intro> are 0.013172751223184042 \% of this teil
+[2019-01-05 18:43:07.830909]words that contains CNCs(N>=3) in <Middle> are 0.021436848203939745 \% of this teil
+[2019-01-05 18:43:07.830909]words that contains CNCs(N>=3) in <Conclusion> are 0.012560386473429951 \% of this teil
+[2019-01-05 18:43:07.830909]In this document CNCs >=3 are 0.017925591882750846\% of the text.
+[2019-01-05 18:43:07.830909]Processing Deumert_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 18:43:17.872932]‘the rainbow nation’ in sent: 4 with maxCNC: 3
+[2019-01-05 18:45:10.899211]End of Introduction
+[2019-01-05 18:48:22.533237]discourse analysis challenge in sent: 118 with maxCNC: 3
+[2019-01-05 18:48:41.415226][the] affective elements in sent: 125 with maxCNC: 3
+[2019-01-05 18:49:32.069673]centre eThekwini/Queer visibilities in sent: 144 with maxCNC: 3
+[2019-01-05 18:49:32.069673]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsDeumert_et_al-2017-Journal_of_Sociolinguistics_144_centre eThekwini/Queer visibilities.txt
+[2019-01-05 18:51:10.897253]critical impetus notwithstanding in sent: 182 with maxCNC: 3
+[2019-01-05 18:51:39.169438]Kant positions hospitality in sent: 192 with maxCNC: 3
+[2019-01-05 18:54:23.502710]visitor share space in sent: 254 with maxCNC: 3
+[2019-01-05 19:00:54.829327]good gossip story in sent: 397 with maxCNC: 3
+[2019-01-05 19:00:54.829327]comment positions gossip in sent: 397 with maxCNC: 3
+[2019-01-05 19:04:20.875525]change indlela yomntu afuna ukuphila ngayo in sent: 463 with maxCNC: 6
+[2019-01-05 19:06:11.810905]End of Middle
+[2019-01-05 19:07:53.808181]End of Conclusion
+[2019-01-05 19:07:53.855053]words that contains CNCs(N>=3) in <Intro> are 0.003500583430571762 \% of this teil
+[2019-01-05 19:07:53.855053]words that contains CNCs(N>=3) in <Middle> are 0.004357931435212086 \% of this teil
+[2019-01-05 19:07:53.855053]words that contains CNCs(N>=3) in <Conclusion> are 0.0 \% of this teil
+[2019-01-05 19:07:53.855053]In this document CNCs >=3 are 0.003852889667250438\% of the text.
+[2019-01-05 19:07:53.855053]Processing Diversity_matters_parent_input_predicts_toddler_verb_production_.txt in linguistics_intros
+[2019-01-05 19:08:37.984027]noun phrase arguments in sent: 17 with maxCNC: 3
+[2019-01-05 19:08:46.453785]children’s language development in sent: 20 with maxCNC: 3
+[2019-01-05 19:09:32.243748]parent input quantity in sent: 36 with maxCNC: 3
+[2019-01-05 19:09:51.988564]parent input measures in sent: 43 with maxCNC: 3
+[2019-01-05 19:09:58.383313]children’s vocabulary GROWTH in sent: 45 with maxCNC: 3
+[2019-01-05 19:10:19.801293]parent input quantity in sent: 53 with maxCNC: 3
+[2019-01-05 19:10:22.776832]children’s language abilities in sent: 54 with maxCNC: 3
+[2019-01-05 19:10:30.226766]parent input quantity in sent: 57 with maxCNC: 3
+[2019-01-05 19:10:30.242390]children’s vocabulary abilities in sent: 57 with maxCNC: 3
+[2019-01-05 19:10:33.154766]Different input properties in sent: 58 with maxCNC: 3
+[2019-01-05 19:10:33.170391]children’s vocabulary scores in sent: 58 with maxCNC: 3
+[2019-01-05 19:10:51.696817]Other input studies in sent: 65 with maxCNC: 3
+[2019-01-05 19:11:38.727948]parent speech samples in sent: 82 with maxCNC: 3
+[2019-01-05 19:11:46.732766]child speech sample in sent: 85 with maxCNC: 3
+[2019-01-05 19:11:46.748390]child speech samples in sent: 85 with maxCNC: 3
+[2019-01-05 19:12:16.185820]potential parsing strategies children in sent: 94 with maxCNC: 4
+[2019-01-05 19:12:48.804774]Separate regression analyses in sent: 106 with maxCNC: 3
+[2019-01-05 19:13:05.575178]pooled speech samples in sent: 112 with maxCNC: 3
+[2019-01-05 19:13:58.060179]initial vocabulary abilities in sent: 132 with maxCNC: 3
+[2019-01-05 19:14:01.032433]children’s vocabulary abilities in sent: 133 with maxCNC: 3
+[2019-01-05 19:15:09.887363]End of Introduction
+[2019-01-05 19:15:27.549473]pressure equalization tubes in sent: 167 with maxCNC: 3
+[2019-01-05 19:15:37.832616]Spontaneous language samples in sent: 171 with maxCNC: 3
+[2019-01-05 19:15:56.311321]-hr data collection in sent: 178 with maxCNC: 3
+[2019-01-05 19:17:37.501167]action words reported in sent: 216 with maxCNC: 3
+[2019-01-05 19:17:53.637514]input speech samples in sent: 222 with maxCNC: 3
+[2019-01-05 19:18:09.669261]initial transcription pass in sent: 228 with maxCNC: 3
+[2019-01-05 19:18:31.298375]parent input variables in sent: 236 with maxCNC: 3
+[2019-01-05 19:18:45.942275]singing book reading in sent: 241 with maxCNC: 3
+[2019-01-05 19:21:06.151207]frame cue validity in sent: 294 with maxCNC: 3
+[2019-01-05 19:21:09.565231]narrow frame coding in sent: 295 with maxCNC: 3
+[2019-01-05 19:21:17.961790]broad frame coding in sent: 298 with maxCNC: 3
+[2019-01-05 19:23:22.924890]children’s language production in sent: 346 with maxCNC: 3
+[2019-01-05 19:23:33.711147]children’s vocabulary size in sent: 350 with maxCNC: 3
+[2019-01-05 19:23:42.357347]children’s vocabulary use in sent: 353 with maxCNC: 3
+[2019-01-05 19:23:58.708423]singing number counting in sent: 359 with maxCNC: 3
+[2019-01-05 19:24:46.016897]consecutive training transcripts in sent: 377 with maxCNC: 3
+[2019-01-05 19:24:54.393745]consensus transcription procedures in sent: 380 with maxCNC: 3
+[2019-01-05 19:25:18.627717]student research assistant in sent: 389 with maxCNC: 3
+[2019-01-05 19:25:18.643335]experience coding verbs in sent: 389 with maxCNC: 3
+[2019-01-05 19:25:40.573260]additional language samples in sent: 396 with maxCNC: 3
+[2019-01-05 19:26:20.250401]hierarchical regression analysis in sent: 411 with maxCNC: 3
+[2019-01-05 19:26:59.306175]parent input measures in sent: 426 with maxCNC: 3
+[2019-01-05 19:27:15.707826]significant gender differences in sent: 432 with maxCNC: 3
+[2019-01-05 19:27:42.659606]language sample measures in sent: 442 with maxCNC: 3
+[2019-01-05 19:27:48.812697]first research question in sent: 444 with maxCNC: 3
+[2019-01-05 19:28:02.638811]total words r in sent: 449 with maxCNC: 3
+[2019-01-05 19:28:23.412712]second research question in sent: 457 with maxCNC: 3
+[2019-01-05 19:29:04.846595]hierarchical regression analysis in sent: 473 with maxCNC: 3
+[2019-01-05 19:30:15.531233]End of Middle
+[2019-01-05 19:30:48.418179]previous literature documents in sent: 513 with maxCNC: 3
+[2019-01-05 19:31:35.032428]puzzles blow bubbles in sent: 528 with maxCNC: 3
+[2019-01-05 19:31:51.430184]general action label in sent: 534 with maxCNC: 3
+[2019-01-05 19:32:36.596127]children’s vocabulary size in sent: 551 with maxCNC: 3
+[2019-01-05 19:32:45.228690]children’s vocabulary abilities in sent: 554 with maxCNC: 3
+[2019-01-05 19:33:02.807436]frame diversity variable in sent: 560 with maxCNC: 3
+[2019-01-05 19:33:05.991736]pooled speech samples in sent: 561 with maxCNC: 3
+[2019-01-05 19:33:28.738935]initial vocabulary development in sent: 569 with maxCNC: 3
+[2019-01-05 19:34:12.207445]initial measurement point in sent: 586 with maxCNC: 3
+[2019-01-05 19:34:42.510011]diverse parent input in sent: 597 with maxCNC: 3
+[2019-01-05 19:34:50.308320]End of Conclusion
+[2019-01-05 19:34:50.339568]words that contains CNCs(N>=3) in <Intro> are 0.026487190620929222 \% of this teil
+[2019-01-05 19:34:50.339568]words that contains CNCs(N>=3) in <Middle> are 0.021212121212121213 \% of this teil
+[2019-01-05 19:34:50.339568]words that contains CNCs(N>=3) in <Conclusion> are 0.016366612111292964 \% of this teil
+[2019-01-05 19:34:50.339568]In this document CNCs >=3 are 0.021615612648221344\% of the text.
+[2019-01-05 19:34:50.339568]Processing Earvoice_span_and_pauses_in_intra-_and_interlingual_respeaking_An_exploratory_study_into_temporal_as.txt in linguistics_intros
+[2019-01-05 19:34:55.855223]speech recognition SR in sent: 2 with maxCNC: 3
+[2019-01-05 19:35:41.100704]error correction process in sent: 19 with maxCNC: 3
+[2019-01-05 19:38:44.692826]source text delivery rate in sent: 88 with maxCNC: 4
+[2019-01-05 19:41:02.736825]ideal respeaking unit in sent: 140 with maxCNC: 3
+[2019-01-05 19:41:08.717197]speech production process in sent: 142 with maxCNC: 3
+[2019-01-05 19:41:12.135936]regular speech production in sent: 143 with maxCNC: 3
+[2019-01-05 19:41:20.498249]source text comprehension in sent: 146 with maxCNC: 3
+[2019-01-05 19:41:58.109587]interpretation source text speed in sent: 160 with maxCNC: 4
+[2019-01-05 19:42:09.420920]source text speed in sent: 164 with maxCNC: 3
+[2019-01-05 19:42:48.083637]End of Introduction
+[2019-01-05 19:43:23.081005]interlingual respeaking task in sent: 191 with maxCNC: 3
+[2019-01-05 19:44:32.605608]ideal respeaking unit in sent: 217 with maxCNC: 3
+[2019-01-05 19:44:51.433491]participants’ eye movements in sent: 224 with maxCNC: 3
+[2019-01-05 19:45:51.282426]speech processing Benesty in sent: 246 with maxCNC: 3
+[2019-01-05 19:48:18.644943]initial study design in sent: 301 with maxCNC: 3
+[2019-01-05 19:52:59.590752]entertainment chat show in sent: 410 with maxCNC: 3
+[2019-01-05 19:53:16.577156]political chat show in sent: 416 with maxCNC: 3
+[2019-01-05 19:53:39.674804]evening news broadcast in sent: 425 with maxCNC: 3
+[2019-01-05 19:53:42.813445]unscripted entertainment chat in sent: 426 with maxCNC: 3
+[2019-01-05 20:01:45.182437]output pause length ratio in sent: 619 with maxCNC: 4
+[2019-01-05 20:02:39.181651]pause length data in sent: 640 with maxCNC: 3
+[2019-01-05 20:02:50.467731]fast speech rate in sent: 644 with maxCNC: 3
+[2019-01-05 20:03:06.824555]pause ratio data in sent: 650 with maxCNC: 3
+[2019-01-05 20:03:15.641293]End of Middle
+[2019-01-05 20:03:59.858972]entertainment chat show in sent: 669 with maxCNC: 3
+[2019-01-05 20:04:25.279962]politician respeaker training in sent: 678 with maxCNC: 3
+[2019-01-05 20:05:05.173290]expectations pause length data in sent: 692 with maxCNC: 4
+[2019-01-05 20:05:08.082507]pause ratio data in sent: 693 with maxCNC: 3
+[2019-01-05 20:05:39.181410]pause length data in sent: 705 with maxCNC: 3
+[2019-01-05 20:06:16.958672]End of Conclusion
+[2019-01-05 20:06:16.989923]words that contains CNCs(N>=3) in <Intro> are 0.008909370199692781 \% of this teil
+[2019-01-05 20:06:16.989923]words that contains CNCs(N>=3) in <Middle> are 0.006651147322913203 \% of this teil
+[2019-01-05 20:06:16.989923]words that contains CNCs(N>=3) in <Conclusion> are 0.011387900355871887 \% of this teil
+[2019-01-05 20:06:16.989923]In this document CNCs >=3 are 0.007963275248266817\% of the text.
+[2019-01-05 20:06:16.989923]Processing Eckert_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 20:08:13.259784]example gender correlations in sent: 45 with maxCNC: 3
+[2019-01-05 20:09:09.547078]example gender correlations in sent: 66 with maxCNC: 3
+[2019-01-05 20:09:56.651063]End of Introduction
+[2019-01-05 20:11:27.617961]weekly bridge session in sent: 118 with maxCNC: 3
+[2019-01-05 20:12:05.038056]single speaker’s contextual in sent: 130 with maxCNC: 3
+[2019-01-05 20:13:36.701433]TOO TOE vowels in sent: 164 with maxCNC: 3
+[2019-01-05 20:17:00.461698]Social network analysis in sent: 242 with maxCNC: 3
+[2019-01-05 20:17:22.181424]Celeste’s life pattern in sent: 250 with maxCNC: 3
+[2019-01-05 20:24:40.698598]short-a word class in sent: 418 with maxCNC: 3
+[2019-01-05 20:26:29.571373]short-a word class in sent: 456 with maxCNC: 3
+[2019-01-05 20:28:49.173157]generalized feature adjustment in sent: 509 with maxCNC: 3
+[2019-01-05 20:29:32.497043]End of Middle
+[2019-01-05 20:30:06.505319]End of Conclusion
+[2019-01-05 20:30:06.552190]words that contains CNCs(N>=3) in <Intro> are 0.003468208092485549 \% of this teil
+[2019-01-05 20:30:06.552190]words that contains CNCs(N>=3) in <Middle> are 0.0031031807602792862 \% of this teil
+[2019-01-05 20:30:06.552190]words that contains CNCs(N>=3) in <Conclusion> are 0.0 \% of this teil
+[2019-01-05 20:30:06.552190]In this document CNCs >=3 are 0.0030813475760065735\% of the text.
+[2019-01-05 20:30:06.552190]Processing Hebrew_verbal_passives_in_Later_Language_Development_the_interface_of_register_and_verb_morphology_.txt in linguistics_intros
+[2019-01-05 20:31:02.371513]Language Development Berman in sent: 20 with maxCNC: 3
+[2019-01-05 20:32:05.430117]Middle voice constructions in sent: 43 with maxCNC: 3
+[2019-01-05 20:32:35.952543]testing passive formation in sent: 53 with maxCNC: 3
+[2019-01-05 20:34:06.214428]object patient ha-re’ayon in sent: 84 with maxCNC: 3
+[2019-01-05 20:35:20.054219]example root g-d-l ‘grow’ in sent: 109 with maxCNC: 4
+[2019-01-05 20:35:33.935734]Hebrew passive morphosyntax in sent: 112 with maxCNC: 3
+[2019-01-05 20:35:42.813045]is passive verbs in sent: 114 with maxCNC: 3
+[2019-01-05 20:35:48.809963]sense passive morphology in sent: 116 with maxCNC: 3
+[2019-01-05 20:36:34.713391]Hebrew passive formation in sent: 131 with maxCNC: 3
+[2019-01-05 20:37:05.064933]interactions child speech in sent: 141 with maxCNC: 3
+[2019-01-05 20:37:15.040574]mutar lexa laléxet in sent: 143 with maxCNC: 3
+[2019-01-05 20:37:26.020134]ice cream ‘They won’t in sent: 146 with maxCNC: 4
+[2019-01-05 20:38:56.862381]role passive constructions in sent: 176 with maxCNC: 3
+[2019-01-05 20:40:12.896471]End of Introduction
+[2019-01-05 20:40:18.410909]Cultivation Measure Strauss in sent: 206 with maxCNC: 3
+[2019-01-05 20:41:03.263926]adult university students in sent: 222 with maxCNC: 3
+[2019-01-05 20:42:15.318655]person agreement marking in sent: 249 with maxCNC: 3
+[2019-01-05 20:42:49.010888]active-sentence object NP in sent: 262 with maxCNC: 3
+[2019-01-05 20:46:25.804679]Erroneous passive responses in sent: 335 with maxCNC: 3
+[2019-01-05 20:46:48.639797]Erroneous passive responses in sent: 342 with maxCNC: 3
+[2019-01-05 20:47:10.660344]End of Middle
+[2019-01-05 20:49:11.490162]target Nif’al verbs in sent: 390 with maxCNC: 3
+[2019-01-05 20:51:45.470111]Hebrew passive morphology in sent: 444 with maxCNC: 3
+[2019-01-05 20:52:18.195771]End of Conclusion
+[2019-01-05 20:52:18.227022]words that contains CNCs(N>=3) in <Intro> are 0.010421962379257754 \% of this teil
+[2019-01-05 20:52:18.227022]words that contains CNCs(N>=3) in <Middle> are 0.007758620689655172 \% of this teil
+[2019-01-05 20:52:18.227022]words that contains CNCs(N>=3) in <Conclusion> are 0.002962962962962963 \% of this teil
+[2019-01-05 20:52:18.227022]In this document CNCs >=3 are 0.007851189757217054\% of the text.
+[2019-01-05 20:52:18.227022]Processing How_do_language-specific_characteristics_affect_the_acquisition_of_different_relative_clause_types_E.txt in linguistics_intros
+[2019-01-05 20:52:23.609871]language acquisition research in sent: 2 with maxCNC: 3
+[2019-01-05 20:52:36.358679]difficulty children experience in sent: 6 with maxCNC: 3
+[2019-01-05 20:54:21.602198]instance acquisition studies in sent: 45 with maxCNC: 3
+[2019-01-05 20:56:00.214672]hit-past-sg[SUBJ] ‘The dog in sent: 76 with maxCNC: 3
+[2019-01-05 20:56:00.230293]fall-past-sg‘The sofa from/oﬀ in sent: 76 with maxCNC: 3
+[2019-01-05 20:56:00.230293]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsHow_do_language-specific_characteristics_affect_the_acquisition_of_different_relative_clause_types_E_76_fall-past-sg‘The sofa from/oﬀ.txt
+[2019-01-05 20:56:18.641454]naturalistic corpus analysis in sent: 83 with maxCNC: 3
+[2019-01-05 20:58:14.848020]ich getanzt habe in sent: 125 with maxCNC: 3
+[2019-01-05 20:58:44.505081]End of Introduction
+[2019-01-05 21:00:00.572200]CHAT software MacWhinney in sent: 162 with maxCNC: 3
+[2019-01-05 21:00:29.480544]marked word forms in sent: 173 with maxCNC: 3
+[2019-01-05 21:01:16.709612]relative pronoun forms in sent: 184 with maxCNC: 3
+[2019-01-05 21:04:00.982458]children’s language experience in sent: 244 with maxCNC: 3
+[2019-01-05 21:04:13.234773]affect children’s comprehension in sent: 248 with maxCNC: 3
+[2019-01-05 21:04:22.675977]children’s language acquisition in sent: 251 with maxCNC: 3
+[2019-01-05 21:05:25.118124]relativizer sentences oblique in sent: 274 with maxCNC: 3
+[2019-01-05 21:05:44.884858]subject– object asymmetry in sent: 279 with maxCNC: 3
+[2019-01-05 21:07:40.460367]target sentence type in sent: 320 with maxCNC: 3
+[2019-01-05 21:09:33.274668]Random slope parameters in sent: 363 with maxCNC: 3
+[2019-01-05 21:09:50.430510]sentence types children in sent: 369 with maxCNC: 3
+[2019-01-05 21:10:20.926175]subject– object asymmetry in sent: 379 with maxCNC: 3
+[2019-01-05 21:10:39.445225]target sentence type in sent: 386 with maxCNC: 3
+[2019-01-05 21:10:50.526762]only sentence type in sent: 390 with maxCNC: 3
+[2019-01-05 21:10:50.545267]target head noun in sent: 390 with maxCNC: 3
+[2019-01-05 21:10:53.445197]only sentence type in sent: 391 with maxCNC: 3
+[2019-01-05 21:11:15.696804]only structure type in sent: 399 with maxCNC: 3
+[2019-01-05 21:12:21.428526]Finnish comprehension data in sent: 424 with maxCNC: 3
+[2019-01-05 21:19:49.868970]incorrect word order in sent: 595 with maxCNC: 3
+[2019-01-05 21:21:14.070631]Random slope parameters in sent: 625 with maxCNC: 3
+[2019-01-05 21:21:39.683157]same analysis strategy in sent: 634 with maxCNC: 3
+[2019-01-05 21:22:40.942490]Detailed error analysis in sent: 656 with maxCNC: 3
+[2019-01-05 21:24:00.505722]target object referent in sent: 686 with maxCNC: 3
+[2019-01-05 21:24:08.960141]inanimate object RCs in sent: 689 with maxCNC: 3
+[2019-01-05 21:24:30.736716]object relativizer mitä-PART in sent: 696 with maxCNC: 3
+[2019-01-05 21:24:49.008306]further % N=/ in sent: 701 with maxCNC: 3
+[2019-01-05 21:24:49.008306]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsHow_do_language-specific_characteristics_affect_the_acquisition_of_different_relative_clause_types_E_701_further % N=/.txt
+[2019-01-05 21:25:13.983220]children’s repetition accuracy in sent: 707 with maxCNC: 3
+[2019-01-05 21:25:20.029928]common error type in sent: 708 with maxCNC: 3
+[2019-01-05 21:25:48.425822]kaa ‘with whom’ in sent: 717 with maxCNC: 3
+[2019-01-05 21:26:44.973964]Relative pronoun case errors in sent: 736 with maxCNC: 4
+[2019-01-05 21:26:54.523829]relativizer case errors in sent: 739 with maxCNC: 3
+[2019-01-05 21:26:57.801536]object relativizer case errors in sent: 740 with maxCNC: 4
+[2019-01-05 21:28:36.483693]End of Middle
+[2019-01-05 21:30:43.391554]corpus child’s input in sent: 823 with maxCNC: 3
+[2019-01-05 21:31:45.089242]sentence repetition task in sent: 846 with maxCNC: 3
+[2019-01-05 21:33:33.425105]children’s language development in sent: 885 with maxCNC: 3
+[2019-01-05 21:34:16.726934]End of Conclusion
+[2019-01-05 21:34:16.742562]words that contains CNCs(N>=3) in <Intro> are 0.013075965130759652 \% of this teil
+[2019-01-05 21:34:16.742562]words that contains CNCs(N>=3) in <Middle> are 0.012080867850098619 \% of this teil
+[2019-01-05 21:34:16.742562]words that contains CNCs(N>=3) in <Conclusion> are 0.004377431906614786 \% of this teil
+[2019-01-05 21:34:16.742562]In this document CNCs >=3 are 0.01087141158484797\% of the text.
+[2019-01-05 21:34:16.758183]Processing Introducing_the_Infant_Bookreading_Database_IBDb_.txt in linguistics_intros
+[2019-01-05 21:34:26.967132]children’s book experiences in sent: 4 with maxCNC: 3
+[2019-01-05 21:35:44.136227]End of Introduction
+[2019-01-05 21:36:36.657678]child’s language production in sent: 54 with maxCNC: 3
+[2019-01-05 21:36:43.691329]language production questions in sent: 56 with maxCNC: 3
+[2019-01-05 21:38:02.292439]months age group in sent: 87 with maxCNC: 3
+[2019-01-05 21:38:26.813178]language development information in sent: 96 with maxCNC: 3
+[2019-01-05 21:39:53.525122]several instances respondents in sent: 129 with maxCNC: 3
+[2019-01-05 21:40:02.358248]well-known children’s title in sent: 132 with maxCNC: 3
+[2019-01-05 21:41:10.438871]“Maisy book series” in sent: 158 with maxCNC: 3
+[2019-01-05 21:42:31.580424]top  list in sent: 189 with maxCNC: 3
+[2019-01-05 21:44:07.245329]brief breakout analysis in sent: 225 with maxCNC: 3
+[2019-01-05 21:44:11.858212]End of Middle
+[2019-01-05 21:44:39.391522]generic “Fairy tales” in sent: 236 with maxCNC: 3
+[2019-01-05 21:44:39.391522]fairy tales” once in sent: 236 with maxCNC: 3
+[2019-01-05 21:44:42.312118]various fairy tale accountings in sent: 237 with maxCNC: 4
+[2019-01-05 21:48:18.227041]End of Conclusion
+[2019-01-05 21:48:18.258292]words that contains CNCs(N>=3) in <Intro> are 0.005128205128205128 \% of this teil
+[2019-01-05 21:48:18.258292]words that contains CNCs(N>=3) in <Middle> are 0.007885514018691588 \% of this teil
+[2019-01-05 21:48:18.258292]words that contains CNCs(N>=3) in <Conclusion> are 0.005221932114882507 \% of this teil
+[2019-01-05 21:48:18.258292]In this document CNCs >=3 are 0.00675219446320054\% of the text.
+[2019-01-05 21:48:18.258292]Processing King-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 21:48:34.723637]sexuality colonial hegemony in sent: 6 with maxCNC: 3
+[2019-01-05 21:52:17.948600]field work observations in sent: 89 with maxCNC: 3
+[2019-01-05 21:52:20.966003]sexuality education classroom in sent: 90 with maxCNC: 3
+[2019-01-05 21:52:30.907368]normative sense Maori men in sent: 93 with maxCNC: 4
+[2019-01-05 21:52:30.907368]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsKing-2017-Journal_of_Sociolinguistics_93_normative sense Maori men.txt
+[2019-01-05 21:53:55.054032]transnational kinship networks in sent: 124 with maxCNC: 3
+[2019-01-05 21:54:08.604108]End of Introduction
+[2019-01-05 21:55:53.403194]sexuality education classroom discourse in sent: 169 with maxCNC: 4
+[2019-01-05 21:58:07.219451]specific data extracts in sent: 220 with maxCNC: 3
+[2019-01-05 21:58:26.187591]print media advertisements in sent: 227 with maxCNC: 3
+[2019-01-05 21:59:17.851714]sexuality education classroom in sent: 246 with maxCNC: 3
+[2019-01-05 21:59:34.218391]other transcription conventions in sent: 252 with maxCNC: 3
+[2019-01-05 22:00:16.822545]affective responses index gender in sent: 268 with maxCNC: 4
+[2019-01-05 22:01:22.235934]‘carousel’ discussion method in sent: 292 with maxCNC: 3
+[2019-01-05 22:02:23.917723]End of Middle
+[2019-01-05 22:02:34.077226]sexuality education classroom in sent: 319 with maxCNC: 3
+[2019-01-05 22:04:09.041330]End of Conclusion
+[2019-01-05 22:04:09.072583]words that contains CNCs(N>=3) in <Intro> are 0.005249343832020997 \% of this teil
+[2019-01-05 22:04:09.072583]words that contains CNCs(N>=3) in <Middle> are 0.006075013206550449 \% of this teil
+[2019-01-05 22:04:09.072583]words that contains CNCs(N>=3) in <Conclusion> are 0.003676470588235294 \% of this teil
+[2019-01-05 22:04:09.072583]In this document CNCs >=3 are 0.005490196078431373\% of the text.
+[2019-01-05 22:04:09.072583]Processing Lam_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 22:07:13.442587]material design features in sent: 70 with maxCNC: 3
+[2019-01-05 22:07:17.487490]land use MILU in sent: 71 with maxCNC: 3
+[2019-01-05 22:07:20.695528]urban development policy in sent: 72 with maxCNC: 3
+[2019-01-05 22:07:32.898795]recreational community facilities in sent: 76 with maxCNC: 3
+[2019-01-05 22:07:55.780912]interrelated design features in sent: 84 with maxCNC: 3
+[2019-01-05 22:08:59.711797]station car park in sent: 108 with maxCNC: 3
+[2019-01-05 22:09:11.645051]End of Introduction
+[2019-01-05 22:09:59.327458]material facilities employed in sent: 130 with maxCNC: 3
+[2019-01-05 22:10:21.214943]material facilities employed in sent: 138 with maxCNC: 3
+[2019-01-05 22:11:18.019733]Such design features in sent: 160 with maxCNC: 3
+[2019-01-05 22:11:53.016861]public transport interchange in sent: 173 with maxCNC: 3
+[2019-01-05 22:12:01.617259]average commuter’s experience in sent: 176 with maxCNC: 3
+[2019-01-05 22:12:15.770311]bus route signs in sent: 181 with maxCNC: 3
+[2019-01-05 22:12:50.218918]local minibus company in sent: 194 with maxCNC: 3
+[2019-01-05 22:13:01.904700]minibus sign here in sent: 198 with maxCNC: 3
+[2019-01-05 22:13:55.648313]English top–Chinese bottom in sent: 218 with maxCNC: 3
+[2019-01-05 22:14:05.313508]high-end shopping arcade in sent: 221 with maxCNC: 3
+[2019-01-05 22:14:05.329133]jewellers watch retailers in sent: 221 with maxCNC: 3
+[2019-01-05 22:14:14.548830]metro shopping area downstairs in sent: 224 with maxCNC: 4
+[2019-01-05 22:15:42.594305]office floor space in sent: 257 with maxCNC: 3
+[2019-01-05 22:16:05.168193]cards registration desks in sent: 265 with maxCNC: 3
+[2019-01-05 22:16:05.183814]lift operating control in sent: 265 with maxCNC: 3
+[2019-01-05 22:16:16.837310]End of Middle
+[2019-01-05 22:17:57.555913]podium level analysis in sent: 307 with maxCNC: 3
+[2019-01-05 22:18:17.476135]levels signs included in sent: 314 with maxCNC: 3
+[2019-01-05 22:18:42.987829]new research agenda in sent: 323 with maxCNC: 3
+[2019-01-05 22:18:45.692283]End of Conclusion
+[2019-01-05 22:18:45.754779]words that contains CNCs(N>=3) in <Intro> are 0.00683371298405467 \% of this teil
+[2019-01-05 22:18:45.754779]words that contains CNCs(N>=3) in <Middle> are 0.01160443995963673 \% of this teil
+[2019-01-05 22:18:45.754779]words that contains CNCs(N>=3) in <Conclusion> are 0.005829015544041451 \% of this teil
+[2019-01-05 22:18:45.754779]In this document CNCs >=3 are 0.008965856055023336\% of the text.
+[2019-01-05 22:18:45.754779]Processing Lawson-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 22:19:05.021750]lifestyle migration researchers in sent: 7 with maxCNC: 3
+[2019-01-05 22:19:25.550097]term lifestyle migration in sent: 14 with maxCNC: 3
+[2019-01-05 22:19:28.744609]lifestyle migration contexts in sent: 15 with maxCNC: 3
+[2019-01-05 22:20:47.928058]recent corpus analysis in sent: 45 with maxCNC: 3
+[2019-01-05 22:21:44.585919]End of Introduction
+[2019-01-05 22:22:48.979744]advice offer information in sent: 91 with maxCNC: 3
+[2019-01-05 22:23:26.028094]Free association questions in sent: 105 with maxCNC: 3
+[2019-01-05 22:27:23.366015]three-level positioning framework in sent: 197 with maxCNC: 3
+[2019-01-05 22:31:59.129769]French online site in sent: 301 with maxCNC: 3
+[2019-01-05 22:32:03.545368]French buyer called in sent: 302 with maxCNC: 3
+[2019-01-05 22:32:09.770440]English speaking forum in sent: 304 with maxCNC: 3
+[2019-01-05 22:32:29.625591]English speaking community in sent: 311 with maxCNC: 3
+[2019-01-05 22:33:23.038379]front door you’d in sent: 331 with maxCNC: 3
+[2019-01-05 22:33:26.329685]other’s house type in sent: 332 with maxCNC: 3
+[2019-01-05 22:35:27.547555]End of Middle
+[2019-01-05 22:36:32.536887]lifestyle migration narratives in sent: 403 with maxCNC: 3
+[2019-01-05 22:36:35.867963]End of Conclusion
+[2019-01-05 22:36:35.930463]words that contains CNCs(N>=3) in <Intro> are 0.007207207207207207 \% of this teil
+[2019-01-05 22:36:35.930463]words that contains CNCs(N>=3) in <Middle> are 0.00427892234548336 \% of this teil
+[2019-01-05 22:36:35.930463]words that contains CNCs(N>=3) in <Conclusion> are 0.004081632653061225 \% of this teil
+[2019-01-05 22:36:35.930463]In this document CNCs >=3 are 0.004822043628013777\% of the text.
+[2019-01-05 22:36:35.930463]Processing Lazar-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 22:36:45.199303]queer subaltern constituency in sent: 3 with maxCNC: 3
+[2019-01-05 22:37:31.454369]way discourse re in sent: 19 with maxCNC: 3
+[2019-01-05 22:37:41.234522]study power relations in sent: 22 with maxCNC: 3
+[2019-01-05 22:40:09.363529]End of Introduction
+[2019-01-05 22:40:23.999457]Underlying state pragmatism in sent: 79 with maxCNC: 3
+[2019-01-05 22:40:49.083780]change inproperty law in sent: 87 with maxCNC: 3
+[2019-01-05 22:40:55.753806]networks queer involvement in sent: 89 with maxCNC: 3
+[2019-01-05 22:40:55.769434]accepted turning arts in sent: 89 with maxCNC: 3
+[2019-01-05 22:41:50.021555]visible support base in sent: 109 with maxCNC: 3
+[2019-01-05 22:42:04.436987]new exemption rule in sent: 114 with maxCNC: 3
+[2019-01-05 22:44:21.206660]queer subaltern practice in sent: 164 with maxCNC: 3
+[2019-01-05 22:47:22.327825]utterance ‘the helicopter in sent: 232 with maxCNC: 3
+[2019-01-05 22:48:13.052109]person plural pronoun in sent: 250 with maxCNC: 3
+[2019-01-05 22:50:08.756015]subject family formation in sent: 294 with maxCNC: 3
+[2019-01-05 22:52:55.556226]present time frame in sent: 358 with maxCNC: 3
+[2019-01-05 22:55:58.794325]ethnic/religious minority member in sent: 424 with maxCNC: 3
+[2019-01-05 22:55:58.794325]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsLazar-2017-Journal_of_Sociolinguistics_424_ethnic/religious minority member.txt
+[2019-01-05 22:56:16.240901]hats glitzy pink glasses in sent: 430 with maxCNC: 4
+[2019-01-05 22:56:27.741078]only time ‘rights’ in sent: 434 with maxCNC: 3
+[2019-01-05 22:56:45.544616]End of Middle
+[2019-01-05 22:58:02.421995]End of Conclusion
+[2019-01-05 22:58:02.453246]words that contains CNCs(N>=3) in <Intro> are 0.005940594059405941 \% of this teil
+[2019-01-05 22:58:02.453246]words that contains CNCs(N>=3) in <Middle> are 0.006503327283726558 \% of this teil
+[2019-01-05 22:58:02.453246]words that contains CNCs(N>=3) in <Conclusion> are 0.0 \% of this teil
+[2019-01-05 22:58:02.453246]In this document CNCs >=3 are 0.005924575595305914\% of the text.
+[2019-01-05 22:58:02.453246]Processing Learning_words_from_speakers_with_false_beliefs_.txt in linguistics_intros
+[2019-01-05 22:59:11.816746]others’ belief states in sent: 26 with maxCNC: 3
+[2019-01-05 22:59:15.138380]False belief paradigms in sent: 27 with maxCNC: 3
+[2019-01-05 23:01:17.065287]action prediction task in sent: 73 with maxCNC: 3
+[2019-01-05 23:01:52.004809]additional task diﬀerences in sent: 85 with maxCNC: 3
+[2019-01-05 23:01:52.020435]objects hiding locations in sent: 85 with maxCNC: 3
+[2019-01-05 23:03:52.972782]false belief contents in sent: 133 with maxCNC: 3
+[2019-01-05 23:04:20.231325]word learning contexts in sent: 143 with maxCNC: 3
+[2019-01-05 23:05:53.094692]End of Introduction
+[2019-01-05 23:07:08.961020]Belief Attribution task in sent: 209 with maxCNC: 3
+[2019-01-05 23:07:12.413236]typical test story in sent: 210 with maxCNC: 3
+[2019-01-05 23:08:38.956873]Belief Attribution task in sent: 243 with maxCNC: 3
+[2019-01-05 23:09:31.361073]Preference control questions in sent: 262 with maxCNC: 3
+[2019-01-05 23:10:03.297044]Pretest story order in sent: 274 with maxCNC: 3
+[2019-01-05 23:10:40.329100]Belief word-learning tests in sent: 286 with maxCNC: 3
+[2019-01-05 23:12:04.242697]Belief Attribution task in sent: 318 with maxCNC: 3
+[2019-01-05 23:12:24.337659]Belief Attribution task in sent: 325 with maxCNC: 3
+[2019-01-05 23:13:29.692330]Belief Attribution task in sent: 351 with maxCNC: 3
+[2019-01-05 23:13:34.348549]Yates’ continuity correction in sent: 352 with maxCNC: 3
+[2019-01-05 23:14:22.993114]End of Middle
+[2019-01-05 23:16:56.995705]Belief Attribution task in sent: 430 with maxCNC: 3
+[2019-01-05 23:18:38.141048]End of Conclusion
+[2019-01-05 23:18:38.172297]words that contains CNCs(N>=3) in <Intro> are 0.007879924953095686 \% of this teil
+[2019-01-05 23:18:38.172297]words that contains CNCs(N>=3) in <Middle> are 0.01193792280143255 \% of this teil
+[2019-01-05 23:18:38.172297]words that contains CNCs(N>=3) in <Conclusion> are 0.0020833333333333333 \% of this teil
+[2019-01-05 23:18:38.172297]In this document CNCs >=3 are 0.008159564823209429\% of the text.
+[2019-01-05 23:18:38.172297]Processing Lexical_tone_variation_and_spoken_word_recognition_in_preschool_children_effects_of_perceptual_salie.txt in linguistics_intros
+[2019-01-05 23:19:14.475197]language acquisition focus in sent: 14 with maxCNC: 3
+[2019-01-05 23:20:58.767125]part mispronunciation studies in sent: 49 with maxCNC: 3
+[2019-01-05 23:22:37.902048]strong mispronunciation effects in sent: 85 with maxCNC: 3
+[2019-01-05 23:23:03.382867]difficult tone contrast in sent: 94 with maxCNC: 3
+[2019-01-05 23:23:57.940220]End of Introduction
+[2019-01-05 23:25:17.292672]tone mispronunciation effects in sent: 143 with maxCNC: 3
+[2019-01-05 23:25:29.101863]minimal pitch variation in sent: 147 with maxCNC: 3
+[2019-01-05 23:27:21.072443]prior mispronunciation studies in sent: 185 with maxCNC: 3
+[2019-01-05 23:27:40.539465]phase minus Proportion in sent: 192 with maxCNC: 3
+[2019-01-05 23:27:43.427308]computing naming effects in sent: 193 with maxCNC: 3
+[2019-01-05 23:29:00.776300]trial type F in sent: 220 with maxCNC: 3
+[2019-01-05 23:29:11.226879]higher naming effect in sent: 223 with maxCNC: 3
+[2019-01-05 23:29:58.599838]first  milliseconds in sent: 238 with maxCNC: 3
+[2019-01-05 23:30:58.349944]End of Middle
+[2019-01-05 23:31:30.039173]perceptual discrimination tasks in sent: 271 with maxCNC: 3
+[2019-01-05 23:31:33.047743]infant tone discrimination abilities in sent: 272 with maxCNC: 4
+[2019-01-05 23:32:05.001721]word recognition tasks in sent: 283 with maxCNC: 3
+[2019-01-05 23:33:42.513386]production growth trajectories in sent: 318 with maxCNC: 3
+[2019-01-05 23:34:00.195031]tone contrast involved in sent: 324 with maxCNC: 3
+[2019-01-05 23:34:06.886581]End of Conclusion
+[2019-01-05 23:34:06.933454]words that contains CNCs(N>=3) in <Intro> are 0.0067605633802816905 \% of this teil
+[2019-01-05 23:34:06.933454]words that contains CNCs(N>=3) in <Middle> are 0.010225820195994887 \% of this teil
+[2019-01-05 23:34:06.933454]words that contains CNCs(N>=3) in <Conclusion> are 0.012185833968012186 \% of this teil
+[2019-01-05 23:34:06.933454]In this document CNCs >=3 are 0.009567617295308188\% of the text.
+[2019-01-05 23:34:06.933454]Processing Listening_comprehension_of_academic_and_everyday_language_in_first_language_and_second_language_stud.txt in linguistics_intros
+[2019-01-05 23:35:31.423637]communication skills BICS in sent: 33 with maxCNC: 3
+[2019-01-05 23:38:27.279882]current research project in sent: 98 with maxCNC: 3
+[2019-01-05 23:39:49.421050]middle school students in sent: 127 with maxCNC: 3
+[2019-01-05 23:41:18.412721]academic language comprehension in sent: 160 with maxCNC: 3
+[2019-01-05 23:41:34.531992]End of Introduction
+[2019-01-05 23:43:52.308076]listening comprehension test in sent: 220 with maxCNC: 3
+[2019-01-05 23:45:36.129760]listening text features in sent: 260 with maxCNC: 3
+[2019-01-05 23:47:15.922366]Benign item DIF in sent: 299 with maxCNC: 3
+[2019-01-05 23:47:21.543044]item logit parameters in sent: 301 with maxCNC: 3
+[2019-01-05 23:48:14.207512]signiﬁcant chisquare difference in sent: 321 with maxCNC: 3
+[2019-01-05 23:48:20.444173]syntax listening comprehension in sent: 323 with maxCNC: 3
+[2019-01-05 23:48:28.595324]listening comprehension model in sent: 326 with maxCNC: 3
+[2019-01-05 23:50:49.221198]listening comprehension test in sent: 381 with maxCNC: 3
+[2019-01-05 23:51:34.703662]nested model test in sent: 398 with maxCNC: 3
+[2019-01-05 23:51:43.840524]listening comprehension scores in sent: 401 with maxCNC: 3
+[2019-01-05 23:52:20.701467]scalar measurement invariance in sent: 415 with maxCNC: 3
+[2019-01-05 23:52:34.556819]End of Middle
+[2019-01-05 23:52:50.287227]ﬁrst research question in sent: 426 with maxCNC: 3
+[2019-01-05 23:54:37.819613]syntactic knowledge measure in sent: 467 with maxCNC: 3
+[2019-01-05 23:58:31.686770]End of Conclusion
+[2019-01-05 23:58:31.718019]words that contains CNCs(N>=3) in <Intro> are 0.004029550033579583 \% of this teil
+[2019-01-05 23:58:31.718019]words that contains CNCs(N>=3) in <Middle> are 0.010509554140127388 \% of this teil
+[2019-01-05 23:58:31.718019]words that contains CNCs(N>=3) in <Conclusion> are 0.0022099447513812156 \% of this teil
+[2019-01-05 23:58:31.718019]In this document CNCs >=3 are 0.005773802785010755\% of the text.
+[2019-01-05 23:58:31.718019]Processing Mendoza-Denton_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-05 23:59:06.009883]eye tracking techniques in sent: 13 with maxCNC: 3
+[2019-01-06 00:00:22.786695]game user experience data in sent: 42 with maxCNC: 4
+[2019-01-06 00:02:54.254483]‘boys’ tree house’ in sent: 98 with maxCNC: 3
+[2019-01-06 00:03:22.284125]picture online ‘forking’ in sent: 108 with maxCNC: 3
+[2019-01-06 00:03:48.025401]video game that in sent: 117 with maxCNC: 3
+[2019-01-06 00:04:02.426872]‘boys’ tree house’ in sent: 122 with maxCNC: 3
+[2019-01-06 00:04:18.248079]merriment speakers place laughter in sent: 128 with maxCNC: 4
+[2019-01-06 00:04:43.738540]possible tomake sense in sent: 137 with maxCNC: 3
+[2019-01-06 00:06:01.790858]sudomotor nerve responses in sent: 167 with maxCNC: 3
+[2019-01-06 00:06:46.068116]End of Introduction
+[2019-01-06 00:07:23.256563]close interaction analysis in sent: 197 with maxCNC: 3
+[2019-01-06 00:07:40.556447]only woman present in sent: 203 with maxCNC: 3
+[2019-01-06 00:07:55.515851]skin temperature monitor in sent: 208 with maxCNC: 3
+[2019-01-06 00:07:55.531530]heart rate variability in sent: 208 with maxCNC: 3
+[2019-01-06 00:08:13.129806]game room section in sent: 214 with maxCNC: 3
+[2019-01-06 00:08:13.129806]college dorm room in sent: 214 with maxCNC: 3
+[2019-01-06 00:08:13.145429]screen pizza provided in sent: 214 with maxCNC: 3
+[2019-01-06 00:09:32.857434]online gaming communities in sent: 245 with maxCNC: 3
+[2019-01-06 00:10:00.689715]online videogame communities in sent: 255 with maxCNC: 3
+[2019-01-06 00:10:27.122889]first intermission period in sent: 265 with maxCNC: 3
+[2019-01-06 00:10:56.656327]electrodermal activity EDA in sent: 276 with maxCNC: 3
+[2019-01-06 00:11:02.828887]‘boys’ tree house’ in sent: 278 with maxCNC: 3
+[2019-01-06 00:11:08.461505]electrodermal activity data in sent: 280 with maxCNC: 3
+[2019-01-06 00:11:14.299637]post-game debriefing interview in sent: 282 with maxCNC: 3
+[2019-01-06 00:11:21.817351]first data set in sent: 285 with maxCNC: 3
+[2019-01-06 00:17:42.601472]friendship pair pull researchers in sent: 429 with maxCNC: 4
+[2019-01-06 00:17:58.714895]hidden-mouth gesture earlier in sent: 435 with maxCNC: 3
+[2019-01-06 00:20:01.077765]possible age effects in sent: 481 with maxCNC: 3
+[2019-01-06 00:22:41.259097]End of Middle
+[2019-01-06 00:23:47.541298]participants highlight asymmetries in sent: 563 with maxCNC: 3
+[2019-01-06 00:24:54.575763]video console games in sent: 588 with maxCNC: 3
+[2019-01-06 00:25:01.057933]breathing heart rate in sent: 590 with maxCNC: 3
+[2019-01-06 00:25:06.471033]End of Conclusion
+[2019-01-06 00:25:06.502280]words that contains CNCs(N>=3) in <Intro> are 0.009297851875601153 \% of this teil
+[2019-01-06 00:25:06.502280]words that contains CNCs(N>=3) in <Middle> are 0.012423763270838039 \% of this teil
+[2019-01-06 00:25:06.517905]words that contains CNCs(N>=3) in <Conclusion> are 0.010169491525423728 \% of this teil
+[2019-01-06 00:25:06.517905]In this document CNCs >=3 are 0.011030719962044834\% of the text.
+[2019-01-06 00:25:06.517905]Processing Morphological_awareness_Construct_and_predictive_validity_in_Arabic.txt in linguistics_intros
+[2019-01-06 00:25:45.214825]ﬂuency reading comprehension in sent: 14 with maxCNC: 3
+[2019-01-06 00:26:48.957069]root-and pattern terms in sent: 38 with maxCNC: 3
+[2019-01-06 00:26:48.972694]surface word forms in sent: 38 with maxCNC: 3
+[2019-01-06 00:30:12.411567]Arabic reading acquisition in sent: 114 with maxCNC: 3
+[2019-01-06 00:31:04.443118]different word patterns in sent: 132 with maxCNC: 3
+[2019-01-06 00:31:04.443118]adjective passive verb in sent: 132 with maxCNC: 3
+[2019-01-06 00:31:53.351147]rootword pattern structure in sent: 148 with maxCNC: 3
+[2019-01-06 00:33:04.796369]word recognition accuracy in sent: 174 with maxCNC: 3
+[2019-01-06 00:33:31.114582]example spelling accuracy in sent: 184 with maxCNC: 3
+[2019-01-06 00:33:39.466655]End of Introduction
+[2019-01-06 00:34:56.949368]second research question in sent: 217 with maxCNC: 3
+[2019-01-06 00:35:56.415111]word reading test in sent: 240 with maxCNC: 3
+[2019-01-06 00:35:59.396602]pseudoword reading test in sent: 241 with maxCNC: 3
+[2019-01-06 00:36:40.015923]word analogy task in sent: 257 with maxCNC: 3
+[2019-01-06 00:38:31.949110]broken plural items in sent: 300 with maxCNC: 3
+[2019-01-06 00:43:23.314703]consecutiveThe pseudoword reading test in sent: 411 with maxCNC: 4
+[2019-01-06 00:44:01.540911]sentence completion test in sent: 425 with maxCNC: 3
+[2019-01-06 00:44:42.859915]axis factor analysis in sent: 441 with maxCNC: 3
+[2019-01-06 00:45:27.210615]Regression factor scores in sent: 458 with maxCNC: 3
+[2019-01-06 00:46:14.889044]End of Middle
+[2019-01-06 00:48:47.697570]pseudoword reading accuracy in sent: 534 with maxCNC: 3
+[2019-01-06 00:49:12.624686]home language environment in sent: 543 with maxCNC: 3
+[2019-01-06 00:50:24.338062]important role morphology in sent: 571 with maxCNC: 3
+[2019-01-06 00:50:43.050066]End of Conclusion
+[2019-01-06 00:50:43.096941]words that contains CNCs(N>=3) in <Intro> are 0.009908256880733945 \% of this teil
+[2019-01-06 00:50:43.096941]words that contains CNCs(N>=3) in <Middle> are 0.00776483638380477 \% of this teil
+[2019-01-06 00:50:43.096941]words that contains CNCs(N>=3) in <Conclusion> are 0.005341246290801187 \% of this teil
+[2019-01-06 00:50:43.096941]In this document CNCs >=3 are 0.007984031936127744\% of the text.
+[2019-01-06 00:50:43.096941]Processing Observing_iconic_gestures_enhances_word_learning_in_typically_developing_children_and_children_with_.txt in linguistics_intros
+[2019-01-06 00:51:15.184370]iconic hand gestures in sent: 13 with maxCNC: 3
+[2019-01-06 00:52:00.386647]Limited processing capacities in sent: 30 with maxCNC: 3
+[2019-01-06 00:53:35.709890]typical word learning in sent: 65 with maxCNC: 3
+[2019-01-06 00:53:35.725515]referent word learning in sent: 65 with maxCNC: 3
+[2019-01-06 00:54:16.734507]mapping task children in sent: 79 with maxCNC: 3
+[2019-01-06 00:54:46.595709]word learning conditions in sent: 90 with maxCNC: 3
+[2019-01-06 00:54:56.739302]iconic learning condition in sent: 93 with maxCNC: 3
+[2019-01-06 00:55:11.419485]fast mapping experiment in sent: 98 with maxCNC: 3
+[2019-01-06 00:55:30.209820]End of Introduction
+[2019-01-06 00:55:45.770823]control gesture guides listeners in sent: 111 with maxCNC: 4
+[2019-01-06 00:55:54.699533]subsequent control experiment in sent: 114 with maxCNC: 3
+[2019-01-06 00:56:00.987054]main research interest in sent: 116 with maxCNC: 3
+[2019-01-06 00:56:28.422441]word learning study in sent: 127 with maxCNC: 3
+[2019-01-06 00:56:39.876158]word comprehension scores in sent: 130 with maxCNC: 3
+[2019-01-06 00:58:07.540017]speech sound disorders in sent: 160 with maxCNC: 3
+[2019-01-06 00:58:59.282563]group effect F in sent: 179 with maxCNC: 3
+[2019-01-06 00:59:02.489485]Post-hoc analyses Bonferroni in sent: 180 with maxCNC: 3
+[2019-01-06 01:00:34.556029]iconic gesture condition ICON in sent: 215 with maxCNC: 4
+[2019-01-06 01:00:44.812158]gesture-to-referent matching task in sent: 218 with maxCNC: 3
+[2019-01-06 01:01:10.253520]learning assessment T in sent: 227 with maxCNC: 3
+[2019-01-06 01:01:24.815361]training session T in sent: 232 with maxCNC: 3
+[2019-01-06 01:02:10.042171]correct comprehension response in sent: 250 with maxCNC: 3
+[2019-01-06 01:02:25.951547]Data analysis Data in sent: 256 with maxCNC: 3
+[2019-01-06 01:02:48.193893]conditions test times in sent: 264 with maxCNC: 3
+[2019-01-06 01:02:48.209514]word class effect sizes in sent: 264 with maxCNC: 4
+[2019-01-06 01:03:00.343824]Omnibus -way analyses in sent: 268 with maxCNC: 3
+[2019-01-06 01:03:20.951221]test time F·· in sent: 275 with maxCNC: 3
+[2019-01-06 01:03:40.514099]word class F in sent: 281 with maxCNC: 3
+[2019-01-06 01:03:40.529718]word class F in sent: 281 with maxCNC: 3
+[2019-01-06 01:03:53.104541]significant interaction time in sent: 285 with maxCNC: 3
+[2019-01-06 01:04:00.181247]significant interaction condition in sent: 287 with maxCNC: 3
+[2019-01-06 01:04:03.637679]significant interaction condition in sent: 288 with maxCNC: 3
+[2019-01-06 01:04:07.884051]test time F·· in sent: 289 with maxCNC: 3
+[2019-01-06 01:04:31.547846]significant interaction test time in sent: 296 with maxCNC: 4
+[2019-01-06 01:04:38.512877]interaction test time in sent: 298 with maxCNC: 3
+[2019-01-06 01:04:38.528498]word class F·· in sent: 298 with maxCNC: 3
+[2019-01-06 01:04:59.575244]interactions gesture condition in sent: 301 with maxCNC: 3
+[2019-01-06 01:04:59.590873]gesture condition ×word class in sent: 301 with maxCNC: 4
+[2019-01-06 01:05:22.022502]ICON gesture condition in sent: 309 with maxCNC: 3
+[2019-01-06 01:05:31.216040]End of Middle
+[2019-01-06 01:05:58.759825]iconic gesture advantage in sent: 323 with maxCNC: 3
+[2019-01-06 01:08:17.013082]iconic movement gestures in sent: 376 with maxCNC: 3
+[2019-01-06 01:10:04.850499]End of Conclusion
+[2019-01-06 01:10:04.881751]words that contains CNCs(N>=3) in <Intro> are 0.015453960077269801 \% of this teil
+[2019-01-06 01:10:04.881751]words that contains CNCs(N>=3) in <Middle> are 0.02858862473668372 \% of this teil
+[2019-01-06 01:10:04.881751]words that contains CNCs(N>=3) in <Conclusion> are 0.0034344590726960505 \% of this teil
+[2019-01-06 01:10:04.881751]In this document CNCs >=3 are 0.018873622225577532\% of the text.
+[2019-01-06 01:10:04.881751]Processing Ostermann-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 01:11:51.178728]sense Conversation Analysis in sent: 40 with maxCNC: 3
+[2019-01-06 01:12:23.136145]End of Introduction
+[2019-01-06 01:14:14.180927]orientation’ call takers in sent: 93 with maxCNC: 3
+[2019-01-06 01:14:47.539469]inprogress list construction in sent: 105 with maxCNC: 3
+[2019-01-06 01:17:51.294657]macro level concept in sent: 174 with maxCNC: 3
+[2019-01-06 01:23:10.929616]trouble source question in sent: 288 with maxCNC: 3
+[2019-01-06 01:24:06.189368]helpline survey question in sent: 310 with maxCNC: 3
+[2019-01-06 01:24:56.268491]lesbian ‘nor anything in sent: 327 with maxCNC: 3
+[2019-01-06 01:26:53.482215]End of Middle
+[2019-01-06 01:29:10.679711]illiteracy’ call takers in sent: 423 with maxCNC: 3
+[2019-01-06 01:29:48.948325]End of Conclusion
+[2019-01-06 01:29:48.995193]words that contains CNCs(N>=3) in <Intro> are 0.003181336161187699 \% of this teil
+[2019-01-06 01:29:48.995193]words that contains CNCs(N>=3) in <Middle> are 0.0040770101925254815 \% of this teil
+[2019-01-06 01:29:48.995193]words that contains CNCs(N>=3) in <Conclusion> are 0.0026857654431512983 \% of this teil
+[2019-01-06 01:29:48.995193]In this document CNCs >=3 are 0.0037065637065637064\% of the text.
+[2019-01-06 01:29:48.995193]Processing Pragmatic_inferences_in_context_learning_to_interpret_contrastive_prosody_.txt in linguistics_intros
+[2019-01-06 01:30:51.433642]fall–rise pitch accent in sent: 24 with maxCNC: 3
+[2019-01-06 01:34:18.394010]likely alternative expression in sent: 104 with maxCNC: 3
+[2019-01-06 01:35:19.023052]We use italics in sent: 127 with maxCNC: 3
+[2019-01-06 01:36:17.829068]adult uses mainly in sent: 149 with maxCNC: 3
+[2019-01-06 01:36:37.764451]adult speaker Karen in sent: 156 with maxCNC: 3
+[2019-01-06 01:38:22.934204]pattern biases individuals’ in sent: 197 with maxCNC: 3
+[2019-01-06 01:39:03.722374]fall–rise pitch accent in sent: 212 with maxCNC: 3
+[2019-01-06 01:39:10.162458]utterance-final boundary tone signals in sent: 214 with maxCNC: 4
+[2019-01-06 01:40:12.433088]End of Introduction
+[2019-01-06 01:41:36.190499]more animal pictures in sent: 272 with maxCNC: 3
+[2019-01-06 01:44:04.665756]two practice trials in sent: 331 with maxCNC: 3
+[2019-01-06 01:45:24.404080]first practice trial in sent: 361 with maxCNC: 3
+[2019-01-06 01:45:28.719865]second practice trial in sent: 362 with maxCNC: 3
+[2019-01-06 01:45:45.649090]demo sound clip in sent: 369 with maxCNC: 3
+[2019-01-06 01:47:38.275037]adults’ response patterns in sent: 412 with maxCNC: 3
+[2019-01-06 01:48:05.239342]mixed-effects regression analysis in sent: 422 with maxCNC: 3
+[2019-01-06 01:49:46.309221]same nursery school in sent: 460 with maxCNC: 3
+[2019-01-06 01:50:54.855594]peripheral category membership in sent: 486 with maxCNC: 3
+[2019-01-06 01:53:43.366158]Mean pitch values in sent: 551 with maxCNC: 3
+[2019-01-06 01:56:26.433522]End of Middle
+[2019-01-06 01:56:31.923208]young children’s difficulty in sent: 613 with maxCNC: 3
+[2019-01-06 01:56:38.119567]canonical accent placement in sent: 615 with maxCNC: 3
+[2019-01-06 02:00:40.007279]End of Conclusion
+[2019-01-06 02:00:40.038527]words that contains CNCs(N>=3) in <Intro> are 0.009600614439324117 \% of this teil
+[2019-01-06 02:00:40.038527]words that contains CNCs(N>=3) in <Middle> are 0.005995203836930456 \% of this teil
+[2019-01-06 02:00:40.038527]words that contains CNCs(N>=3) in <Conclusion> are 0.004633204633204633 \% of this teil
+[2019-01-06 02:00:40.038527]In this document CNCs >=3 are 0.006851623048410648\% of the text.
+[2019-01-06 02:00:40.038527]Processing Predicting_the_development_of_interrogative_forms_and_functions_in_early_years_a_corpus-based_study_.txt in linguistics_intros
+[2019-01-06 02:03:03.054115]autism spectrum disorder ASD in sent: 53 with maxCNC: 4
+[2019-01-06 02:03:15.075488]Cantonese question acquisition in sent: 57 with maxCNC: 3
+[2019-01-06 02:04:17.552679]systematic literature review in sent: 79 with maxCNC: 3
+[2019-01-06 02:05:18.586214]socioeconomic status SES in sent: 101 with maxCNC: 3
+[2019-01-06 02:05:25.645546]Home language input in sent: 103 with maxCNC: 3
+[2019-01-06 02:06:12.957380]gray/white matter volume in sent: 119 with maxCNC: 3
+[2019-01-06 02:06:12.957380]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsPredicting_the_development_of_interrogative_forms_and_functions_in_early_years_a_corpus-based_study__119_gray/white matter volume.txt
+[2019-01-06 02:06:45.320819]End of Introduction
+[2019-01-06 02:07:18.742471]parent–child conversation time in sent: 145 with maxCNC: 3
+[2019-01-06 02:07:28.273491]appliances hospital materials in sent: 148 with maxCNC: 3
+[2019-01-06 02:08:38.211169]drink water SFP ‘Do in sent: 175 with maxCNC: 4
+[2019-01-06 02:09:45.978578]book SFP ‘Do in sent: 195 with maxCNC: 3
+[2019-01-06 02:09:52.160581]more question words in sent: 197 with maxCNC: 3
+[2019-01-06 02:10:08.895303]home language environment in sent: 203 with maxCNC: 3
+[2019-01-06 02:10:08.910925]involvement language resources in sent: 203 with maxCNC: 3
+[2019-01-06 02:10:40.219051]form– function preferences in sent: 213 with maxCNC: 3
+[2019-01-06 02:11:08.168984]Significant Age effects in sent: 221 with maxCNC: 3
+[2019-01-06 02:11:12.596192]significant Gender effect in sent: 222 with maxCNC: 3
+[2019-01-06 02:11:49.957655]Significant age differences in sent: 236 with maxCNC: 3
+[2019-01-06 02:12:08.802961]significant age differences in sent: 243 with maxCNC: 3
+[2019-01-06 02:12:36.494249]significant gender difference in sent: 253 with maxCNC: 3
+[2019-01-06 02:13:04.863979]significant gender effects in sent: 262 with maxCNC: 3
+[2019-01-06 02:13:14.519012]significant age difference in sent: 265 with maxCNC: 3
+[2019-01-06 02:13:31.412010]significant gender difference in sent: 271 with maxCNC: 3
+[2019-01-06 02:14:33.649152]literacy parent–child conversation time in sent: 293 with maxCNC: 4
+[2019-01-06 02:14:52.602424]parent–child conversation time in sent: 299 with maxCNC: 3
+[2019-01-06 02:15:03.928360]parent–child conversation time in sent: 303 with maxCNC: 3
+[2019-01-06 02:15:10.109449]parent–child conversation time in sent: 305 with maxCNC: 3
+[2019-01-06 02:15:13.264570]End of Middle
+[2019-01-06 02:15:16.126385]Significant age differences in sent: 307 with maxCNC: 3
+[2019-01-06 02:16:43.512341]halfhour communication sessions in sent: 340 with maxCNC: 3
+[2019-01-06 02:17:22.008574]same research design in sent: 354 with maxCNC: 3
+[2019-01-06 02:17:44.491660]significant gender difference in sent: 362 with maxCNC: 3
+[2019-01-06 02:18:04.114233]languages communication tasks in sent: 369 with maxCNC: 3
+[2019-01-06 02:20:14.783920]early childhood years in sent: 419 with maxCNC: 3
+[2019-01-06 02:21:05.993654]End of Conclusion
+[2019-01-06 02:21:06.071772]words that contains CNCs(N>=3) in <Intro> are 0.009443339960238568 \% of this teil
+[2019-01-06 02:21:06.071772]words that contains CNCs(N>=3) in <Middle> are 0.025715470759021152 \% of this teil
+[2019-01-06 02:21:06.071772]words that contains CNCs(N>=3) in <Conclusion> are 0.008587786259541985 \% of this teil
+[2019-01-06 02:21:06.071772]In this document CNCs >=3 are 0.015186378278877128\% of the text.
+[2019-01-06 02:21:06.071772]Processing Processing_of_word-level_stress_by_Mandarin-speaking_second_language_learners_of_English.txt in linguistics_intros
+[2019-01-06 02:21:14.951298]speech learning model in sent: 3 with maxCNC: 3
+[2019-01-06 02:21:18.278811]speech perception models in sent: 4 with maxCNC: 3
+[2019-01-06 02:23:43.734756]English record noun in sent: 60 with maxCNC: 3
+[2019-01-06 02:24:08.246034]cross-modal priming experiments in sent: 69 with maxCNC: 3
+[2019-01-06 02:25:48.331785]theory speech perception in sent: 108 with maxCNC: 3
+[2019-01-06 02:27:12.553317]listeners’ word recognition in sent: 139 with maxCNC: 3
+[2019-01-06 02:27:46.776268]End of Introduction
+[2019-01-06 02:29:04.354049]signal word identity in sent: 181 with maxCNC: 3
+[2019-01-06 02:31:21.308211]average self-evaluation score in sent: 233 with maxCNC: 3
+[2019-01-06 02:33:40.091118]ﬁrst sequence-recall task in sent: 287 with maxCNC: 3
+[2019-01-06 02:33:52.052292]duration cues converged in sent: 291 with maxCNC: 3
+[2019-01-06 02:34:08.747141]language experience information in sent: 297 with maxCNC: 3
+[2019-01-06 02:34:26.008506]blank test Brown in sent: 303 with maxCNC: 3
+[2019-01-06 02:34:37.974090]particular cloze test in sent: 307 with maxCNC: 3
+[2019-01-06 02:35:30.528492]possible proﬁciency effects in sent: 327 with maxCNC: 3
+[2019-01-06 02:35:53.328462]vowel reduction cues in sent: 335 with maxCNC: 3
+[2019-01-06 02:36:20.833139]stress contrast stimuli in sent: 345 with maxCNC: 3
+[2019-01-06 02:37:49.436789]familiarization task again in sent: 378 with maxCNC: 3
+[2019-01-06 02:39:40.878169]participant test item in sent: 418 with maxCNC: 3
+[2019-01-06 02:39:53.272282]cloze test score in sent: 422 with maxCNC: 3
+[2019-01-06 02:39:53.272282]participant test item in sent: 422 with maxCNC: 3
+[2019-01-06 02:39:56.675891]participants’ sequenceencoding accuracy in sent: 423 with maxCNC: 3
+[2019-01-06 02:40:15.398333]duration cues coincide in sent: 430 with maxCNC: 3
+[2019-01-06 02:40:30.598650]best logit mixed-effects model in sent: 435 with maxCNC: 4
+[2019-01-06 02:40:57.457100]best logit mixed-effects model in sent: 445 with maxCNC: 4
+[2019-01-06 02:42:50.471537]duration cues” condition in sent: 487 with maxCNC: 3
+[2019-01-06 02:42:53.398570]duration cues condition in sent: 488 with maxCNC: 3
+[2019-01-06 02:42:56.456831]duration cue condition in sent: 489 with maxCNC: 3
+[2019-01-06 02:42:56.472455]duration cues condition in sent: 489 with maxCNC: 3
+[2019-01-06 02:43:54.151466]cue duration cue in sent: 511 with maxCNC: 3
+[2019-01-06 02:44:36.406129]participant test item in sent: 525 with maxCNC: 3
+[2019-01-06 02:44:53.998793]participant test item in sent: 531 with maxCNC: 3
+[2019-01-06 02:45:18.838416]participant test item in sent: 539 with maxCNC: 3
+[2019-01-06 02:45:27.481180]participant test item in sent: 541 with maxCNC: 3
+[2019-01-06 02:45:34.353987]participant test item in sent: 543 with maxCNC: 3
+[2019-01-06 02:45:44.488250]participant test item in sent: 545 with maxCNC: 3
+[2019-01-06 02:45:48.060179]participants’ sequenceencoding accuracy in sent: 546 with maxCNC: 3
+[2019-01-06 02:46:17.096727]duration cue condition in sent: 556 with maxCNC: 3
+[2019-01-06 02:46:26.001990]duration cue conditions in sent: 559 with maxCNC: 3
+[2019-01-06 02:46:28.871961]best logit mixed-effects model in sent: 560 with maxCNC: 4
+[2019-01-06 02:46:34.589269]duration cue condition in sent: 562 with maxCNC: 3
+[2019-01-06 02:46:34.604894]duration cues condition in sent: 562 with maxCNC: 3
+[2019-01-06 02:46:34.604894]duration cue condition in sent: 562 with maxCNC: 3
+[2019-01-06 02:46:37.840918]duration cues condition in sent: 563 with maxCNC: 3
+[2019-01-06 02:46:37.856543]duration cue condition in sent: 563 with maxCNC: 3
+[2019-01-06 02:46:54.112063]duration cue condition in sent: 569 with maxCNC: 3
+[2019-01-06 02:46:54.127688]duration cues condition in sent: 569 with maxCNC: 3
+[2019-01-06 02:46:54.143314]duration cue condition in sent: 569 with maxCNC: 3
+[2019-01-06 02:46:57.786486]duration cues condition in sent: 570 with maxCNC: 3
+[2019-01-06 02:46:57.802114]duration cue condition in sent: 570 with maxCNC: 3
+[2019-01-06 02:47:08.909939]signiﬁcant interaction effects in sent: 574 with maxCNC: 3
+[2019-01-06 02:47:08.925563]duration cues condition in sent: 574 with maxCNC: 3
+[2019-01-06 02:47:12.057667]duration cues condition in sent: 575 with maxCNC: 3
+[2019-01-06 02:47:34.896456]best logit mixed-effects model in sent: 583 with maxCNC: 4
+[2019-01-06 02:47:46.959009]best logit mixed-effects model in sent: 587 with maxCNC: 4
+[2019-01-06 02:48:06.525124]best logit mixed-effects model in sent: 594 with maxCNC: 4
+[2019-01-06 02:48:23.354144]best logit mixed-effects model in sent: 600 with maxCNC: 4
+[2019-01-06 02:50:22.330423]End of Middle
+[2019-01-06 02:50:27.661347]duration cues co-occurred in sent: 646 with maxCNC: 3
+[2019-01-06 02:50:31.110256]cue signaling stress in sent: 647 with maxCNC: 3
+[2019-01-06 02:53:05.636043]present study ﬁlls in sent: 707 with maxCNC: 3
+[2019-01-06 02:53:05.636043]speech processing models in sent: 707 with maxCNC: 3
+[2019-01-06 02:54:18.081303]End of Conclusion
+[2019-01-06 02:54:18.112554]words that contains CNCs(N>=3) in <Intro> are 0.0096514745308311 \% of this teil
+[2019-01-06 02:54:18.112554]words that contains CNCs(N>=3) in <Middle> are 0.020756213643574828 \% of this teil
+[2019-01-06 02:54:18.112554]words that contains CNCs(N>=3) in <Conclusion> are 0.009933774834437087 \% of this teil
+[2019-01-06 02:54:18.112554]In this document CNCs >=3 are 0.017580144777662874\% of the text.
+[2019-01-06 02:54:18.112554]Processing Production_and_comprehension_of_French_wh-questions_by_children_with_autism_spectrum_disorder_A_comp.txt in linguistics_intros
+[2019-01-06 02:54:52.174950]“inverse” production–comprehension dissociation in sent: 12 with maxCNC: 3
+[2019-01-06 02:57:34.079841]language comprehension/language performance in sent: 70 with maxCNC: 3
+[2019-01-06 02:57:34.079841]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsProduction_and_comprehension_of_French_wh-questions_by_children_with_autism_spectrum_disorder_A_comp_70_language comprehension/language performance.txt
+[2019-01-06 03:01:54.203380]analyzing production data in sent: 168 with maxCNC: 3
+[2019-01-06 03:02:41.975460]End of Introduction
+[2019-01-06 03:06:39.366904]wh-question production task Jakubowicz in sent: 278 with maxCNC: 4
+[2019-01-06 03:11:51.478492]wh- production strategies in sent: 401 with maxCNC: 3
+[2019-01-06 03:15:43.956288]ASD qu’est-ce que in sent: 490 with maxCNC: 3
+[2019-01-06 03:18:22.923291]Signiﬁcant group differences in sent: 549 with maxCNC: 3
+[2019-01-06 03:18:42.948229]ambiguous subject wh-questions in sent: 556 with maxCNC: 3
+[2019-01-06 03:22:46.098558]same error types in sent: 653 with maxCNC: 3
+[2019-01-06 03:26:29.297496]omission object omission in sent: 736 with maxCNC: 3
+[2019-01-06 03:27:24.349505]Most ASD-SLI differences in sent: 756 with maxCNC: 3
+[2019-01-06 03:27:38.445423]subject omission complementizer omission in sent: 760 with maxCNC: 4
+[2019-01-06 03:29:39.474405]different question types in sent: 806 with maxCNC: 3
+[2019-01-06 03:31:31.972611]wh-questions group differences in sent: 848 with maxCNC: 3
+[2019-01-06 03:32:59.013434]comprehension task results in sent: 881 with maxCNC: 3
+[2019-01-06 03:33:23.055089]information structure considerations in sent: 889 with maxCNC: 3
+[2019-01-06 03:33:38.063747]End of Middle
+[2019-01-06 03:33:46.070741]baseline language measures in sent: 897 with maxCNC: 3
+[2019-01-06 03:34:04.308875]strategies wh–in situ in sent: 903 with maxCNC: 3
+[2019-01-06 03:34:53.033789]third research question in sent: 921 with maxCNC: 3
+[2019-01-06 03:35:30.199932]“speciﬁc” language disorder in sent: 935 with maxCNC: 3
+[2019-01-06 03:36:11.920689]ASD-speciﬁc error patterns in sent: 950 with maxCNC: 3
+[2019-01-06 03:36:21.665459]many object wh-questions in sent: 953 with maxCNC: 3
+[2019-01-06 03:36:25.449715]object wh-questions persist in sent: 954 with maxCNC: 3
+[2019-01-06 03:36:25.465342]information structure considerations in sent: 954 with maxCNC: 3
+[2019-01-06 03:36:32.110507]including eye tracking in sent: 956 with maxCNC: 3
+[2019-01-06 03:36:34.984825]End of Conclusion
+[2019-01-06 03:36:35.031700]words that contains CNCs(N>=3) in <Intro> are 0.003181336161187699 \% of this teil
+[2019-01-06 03:36:35.031700]words that contains CNCs(N>=3) in <Middle> are 0.005313634007257646 \% of this teil
+[2019-01-06 03:36:35.031700]words that contains CNCs(N>=3) in <Conclusion> are 0.015358361774744027 \% of this teil
+[2019-01-06 03:36:35.031700]In this document CNCs >=3 are 0.006258636105015037\% of the text.
+[2019-01-06 03:36:35.031700]Processing Prominence_of_gender_cues_in_the_assignment_of_thematic_roles_in_German.txt in linguistics_intros
+[2019-01-06 03:37:24.757114]“supralinguistic” concept Yamamoto in sent: 19 with maxCNC: 3
+[2019-01-06 03:38:59.218298]tripartite animacy hierarchy in sent: 52 with maxCNC: 3
+[2019-01-06 03:40:01.753323]beautician role nouns in sent: 75 with maxCNC: 3
+[2019-01-06 03:41:35.014590]situation model theories in sent: 111 with maxCNC: 3
+[2019-01-06 03:42:08.364983]End of Introduction
+[2019-01-06 03:43:02.953927]Social cognition research in sent: 144 with maxCNC: 3
+[2019-01-06 03:44:29.287234]female gender cues in sent: 177 with maxCNC: 3
+[2019-01-06 03:44:56.131231]pronoun die “who/whomfeminine sg/masculine in sent: 187 with maxCNC: 4
+[2019-01-06 03:44:56.131231]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsProminence_of_gender_cues_in_the_assignment_of_thematic_roles_in_German_187_pronoun die “who/whomfeminine sg/masculine.txt
+[2019-01-06 03:48:15.479237]yes/no comprehension question in sent: 266 with maxCNC: 3
+[2019-01-06 03:48:15.479237]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsProminence_of_gender_cues_in_the_assignment_of_thematic_roles_in_German_266_yes/no comprehension question.txt
+[2019-01-06 03:49:26.675882]reading time range in sent: 291 with maxCNC: 3
+[2019-01-06 03:49:26.675882]reading time mean in sent: 291 with maxCNC: 3
+[2019-01-06 03:49:49.288102]Pairwise contrast analyses in sent: 299 with maxCNC: 3
+[2019-01-06 03:52:13.149966]regression path residuals in sent: 356 with maxCNC: 3
+[2019-01-06 03:52:47.600265]situation model approach in sent: 369 with maxCNC: 3
+[2019-01-06 03:52:50.993235]Stereotypical gender information in sent: 370 with maxCNC: 3
+[2019-01-06 03:53:47.696396]pronoun die “who/whomfeminine sg/masculine in sent: 392 with maxCNC: 4
+[2019-01-06 03:53:47.696396]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsProminence_of_gender_cues_in_the_assignment_of_thematic_roles_in_German_392_pronoun die “who/whomfeminine sg/masculine.txt
+[2019-01-06 03:55:41.671152]reading time mean in sent: 435 with maxCNC: 3
+[2019-01-06 04:02:36.483163]End of Middle
+[2019-01-06 04:03:00.305356]prominence gender cues in sent: 608 with maxCNC: 3
+[2019-01-06 04:03:24.355746]research demonstrating inﬂuences in sent: 617 with maxCNC: 3
+[2019-01-06 04:04:54.418773]contrast situation model theories in sent: 652 with maxCNC: 4
+[2019-01-06 04:05:03.577927]study gender information in sent: 655 with maxCNC: 3
+[2019-01-06 04:05:39.985783]grammatical gender effects in sent: 669 with maxCNC: 3
+[2019-01-06 04:05:59.189771]speciﬁc agent–patient combinations in sent: 676 with maxCNC: 3
+[2019-01-06 04:06:29.246126]similarity-based interference approach cannot in sent: 687 with maxCNC: 4
+[2019-01-06 04:07:29.215007]linguistic category model in sent: 710 with maxCNC: 3
+[2019-01-06 04:07:29.230627]expectancy bias Wigboldus in sent: 710 with maxCNC: 3
+[2019-01-06 04:07:41.293441]descriptive action verbs in sent: 714 with maxCNC: 3
+[2019-01-06 04:08:13.935056]social psychology masculinity in sent: 726 with maxCNC: 3
+[2019-01-06 04:09:17.800337]End of Conclusion
+[2019-01-06 04:09:17.831586]words that contains CNCs(N>=3) in <Intro> are 0.006993006993006993 \% of this teil
+[2019-01-06 04:09:17.847209]words that contains CNCs(N>=3) in <Middle> are 0.006685432793807178 \% of this teil
+[2019-01-06 04:09:17.847209]words that contains CNCs(N>=3) in <Conclusion> are 0.014861995753715499 \% of this teil
+[2019-01-06 04:09:17.847209]In this document CNCs >=3 are 0.008713480266529985\% of the text.
+[2019-01-06 04:09:17.847209]Processing Prosodic_development_in_European_Portuguese_from_childhood_to_adulthood.txt in linguistics_intros
+[2019-01-06 04:09:23.712124]Several form–meaning relations in sent: 2 with maxCNC: 3
+[2019-01-06 04:09:23.727746]sentence type distinctions in sent: 2 with maxCNC: 3
+[2019-01-06 04:11:36.499764]pitch accent placement in sent: 51 with maxCNC: 3
+[2019-01-06 04:14:35.206827]pitch accent placement in sent: 117 with maxCNC: 3
+[2019-01-06 04:14:44.787543]pitch accent type in sent: 120 with maxCNC: 3
+[2019-01-06 04:16:05.003381]End of Introduction
+[2019-01-06 04:23:56.264084]wireless microphone system in sent: 329 with maxCNC: 3
+[2019-01-06 04:25:38.795259]PEPS-C ceiling effects in sent: 367 with maxCNC: 3
+[2019-01-06 04:27:13.235847]task signiﬁcant differences in sent: 404 with maxCNC: 3
+[2019-01-06 04:27:45.203582]task age group means in sent: 416 with maxCNC: 4
+[2019-01-06 04:27:48.345884]task signiﬁcant differences in sent: 417 with maxCNC: 3
+[2019-01-06 04:28:50.714285]task signiﬁcant differences in sent: 441 with maxCNC: 3
+[2019-01-06 04:30:55.919171]task signiﬁcant differences in sent: 490 with maxCNC: 3
+[2019-01-06 04:31:32.903612]task signiﬁcant differences in sent: 503 with maxCNC: 3
+[2019-01-06 04:33:30.877207]task signiﬁcant differences in sent: 549 with maxCNC: 3
+[2019-01-06 04:34:23.936437]End of Middle
+[2019-01-06 04:36:23.274150]infant speech perception ﬁndings in sent: 616 with maxCNC: 4
+[2019-01-06 04:36:38.548198]word order cues in sent: 621 with maxCNC: 3
+[2019-01-06 04:36:42.200027]word order cues in sent: 622 with maxCNC: 3
+[2019-01-06 04:36:42.215653]sentence type distinction in sent: 622 with maxCNC: 3
+[2019-01-06 04:37:35.287158]PEPS-C focus subtest structure in sent: 641 with maxCNC: 4
+[2019-01-06 04:38:15.018170]speech discrimination task in sent: 655 with maxCNC: 3
+[2019-01-06 04:39:04.062048]as transcription skills in sent: 672 with maxCNC: 3
+[2019-01-06 04:39:20.949229]End of Conclusion
+[2019-01-06 04:39:20.980480]words that contains CNCs(N>=3) in <Intro> are 0.0066518847006651885 \% of this teil
+[2019-01-06 04:39:20.980480]words that contains CNCs(N>=3) in <Middle> are 0.0072897682895079405 \% of this teil
+[2019-01-06 04:39:20.980480]words that contains CNCs(N>=3) in <Conclusion> are 0.01108433734939759 \% of this teil
+[2019-01-06 04:39:20.980480]In this document CNCs >=3 are 0.008077346713988496\% of the text.
+[2019-01-06 04:39:20.980480]Processing Prosodic_differences_between_declaratives_and_interrogatives_in_infant-directed_speech_.txt in linguistics_intros
+[2019-01-06 04:39:28.947043]word order patterns in sent: 3 with maxCNC: 3
+[2019-01-06 04:39:57.194928]word order variations in sent: 13 with maxCNC: 3
+[2019-01-06 04:40:31.859163]word order properties in sent: 25 with maxCNC: 3
+[2019-01-06 04:40:35.318042]word order information in sent: 26 with maxCNC: 3
+[2019-01-06 04:42:41.105649]free word order in sent: 75 with maxCNC: 3
+[2019-01-06 04:42:41.105649]pitch peak alignment in sent: 75 with maxCNC: 3
+[2019-01-06 04:42:48.560547]accent pitch peaks in sent: 77 with maxCNC: 3
+[2019-01-06 04:42:57.565310]pitch peak height in sent: 80 with maxCNC: 3
+[2019-01-06 04:45:15.587411]wide age range in sent: 131 with maxCNC: 3
+[2019-01-06 04:46:52.127112]linear classification model that in sent: 165 with maxCNC: 4
+[2019-01-06 04:46:57.671914]End of Introduction
+[2019-01-06 04:47:15.559490]– week period in sent: 173 with maxCNC: 3
+[2019-01-06 04:47:39.217421]initial selection criteria in sent: 182 with maxCNC: 3
+[2019-01-06 04:47:53.618268]declarative sentence fragments in sent: 187 with maxCNC: 3
+[2019-01-06 04:49:35.027729]pitch peak alignment in sent: 225 with maxCNC: 3
+[2019-01-06 04:49:41.165243]pitch peak height in sent: 227 with maxCNC: 3
+[2019-01-06 04:49:49.869229]pitch peak location in sent: 230 with maxCNC: 3
+[2019-01-06 04:50:42.466465]pitch excursion analysis in sent: 247 with maxCNC: 3
+[2019-01-06 04:51:49.439417]rise pitch contour in sent: 269 with maxCNC: 3
+[2019-01-06 04:52:03.261471]Independent samples t-tests in sent: 273 with maxCNC: 3
+[2019-01-06 04:53:15.695323]significant Sentence Type in sent: 297 with maxCNC: 3
+[2019-01-06 04:54:36.466490]End of Middle
+[2019-01-06 04:55:13.543740]simple classification technique in sent: 339 with maxCNC: 3
+[2019-01-06 04:56:09.909946]linear classifier results in sent: 355 with maxCNC: 3
+[2019-01-06 04:57:32.545724]nuclear pitch accent in sent: 386 with maxCNC: 3
+[2019-01-06 04:58:00.376870]pitch peak PitchPeak in sent: 396 with maxCNC: 3
+[2019-01-06 04:58:14.890122]pitch peak location in sent: 401 with maxCNC: 3
+[2019-01-06 04:59:44.398670]supervised classification model in sent: 429 with maxCNC: 3
+[2019-01-06 05:00:26.273694]logistic regression model in sent: 443 with maxCNC: 3
+[2019-01-06 05:00:41.529553]Pitch Difference Score in sent: 448 with maxCNC: 3
+[2019-01-06 05:01:25.149118]pitch peak location in sent: 464 with maxCNC: 3
+[2019-01-06 05:01:46.958125]pitch peak location in sent: 472 with maxCNC: 3
+[2019-01-06 05:02:55.122704]sentence discrimination abilities in sent: 498 with maxCNC: 3
+[2019-01-06 05:02:58.526110]End of Conclusion
+[2019-01-06 05:02:58.572986]words that contains CNCs(N>=3) in <Intro> are 0.013638363396392433 \% of this teil
+[2019-01-06 05:02:58.572986]words that contains CNCs(N>=3) in <Middle> are 0.011169024571854059 \% of this teil
+[2019-01-06 05:02:58.572986]words that contains CNCs(N>=3) in <Conclusion> are 0.010122699386503068 \% of this teil
+[2019-01-06 05:02:58.572986]In this document CNCs >=3 are 0.011436914466480107\% of the text.
+[2019-01-06 05:02:58.572986]Processing Resolving_referential_ambiguity_across_ambiguous_situations_in_young_foreign_language_learners.txt in linguistics_intros
+[2019-01-06 05:03:04.843763]individual difference framework in sent: 2 with maxCNC: 3
+[2019-01-06 05:03:10.837324]pattern word boundary in sent: 4 with maxCNC: 3
+[2019-01-06 05:04:20.134506]above learning condition in sent: 30 with maxCNC: 3
+[2019-01-06 05:04:36.929610]word learning paradigm in sent: 35 with maxCNC: 3
+[2019-01-06 05:05:48.235364]example tracking information in sent: 62 with maxCNC: 3
+[2019-01-06 05:05:51.905755]learners’ memory resources in sent: 63 with maxCNC: 3
+[2019-01-06 05:06:00.455973]associative learning account in sent: 66 with maxCNC: 3
+[2019-01-06 05:06:10.942937]hypothesis testing account Medina in sent: 69 with maxCNC: 4
+[2019-01-06 05:06:55.639546]awareness exhibit difﬁculties in sent: 85 with maxCNC: 3
+[2019-01-06 05:07:16.641162]difﬁculty learning vowel in sent: 92 with maxCNC: 3
+[2019-01-06 05:07:35.495080]relevant learner variable in sent: 99 with maxCNC: 3
+[2019-01-06 05:08:15.579594]End of Introduction
+[2019-01-06 05:08:35.939874]animal name “mouse” in sent: 122 with maxCNC: 3
+[2019-01-06 05:09:56.407692]awareness sound categorization in sent: 152 with maxCNC: 3
+[2019-01-06 05:09:56.407692]phoneme segmentation deletion in sent: 152 with maxCNC: 3
+[2019-01-06 05:11:20.441398]digit span test in sent: 184 with maxCNC: 3
+[2019-01-06 05:11:20.457019]children’s memory capacity in sent: 184 with maxCNC: 3
+[2019-01-06 05:13:57.321153]children’s word mapping performance in sent: 244 with maxCNC: 4
+[2019-01-06 05:13:57.336779]target words tests in sent: 244 with maxCNC: 3
+[2019-01-06 05:14:42.576330]target referent selection in sent: 261 with maxCNC: 3
+[2019-01-06 05:15:45.454965]word mapping performance in sent: 284 with maxCNC: 3
+[2019-01-06 05:15:48.659628]referent selection scores in sent: 285 with maxCNC: 3
+[2019-01-06 05:16:35.937637]word mapping performance in sent: 303 with maxCNC: 3
+[2019-01-06 05:16:39.231689]word mapping performance in sent: 304 with maxCNC: 3
+[2019-01-06 05:16:42.271609]word mapping performance in sent: 305 with maxCNC: 3
+[2019-01-06 05:16:48.163118]target word mapping performance in sent: 307 with maxCNC: 4
+[2019-01-06 05:16:51.460591]word mapping performance in sent: 308 with maxCNC: 3
+[2019-01-06 05:17:09.860387]children’s memory capacity in sent: 315 with maxCNC: 3
+[2019-01-06 05:17:09.860387]word mapping performance in sent: 315 with maxCNC: 3
+[2019-01-06 05:17:18.607159]settings naming events in sent: 318 with maxCNC: 3
+[2019-01-06 05:17:50.265509]word mapping performance in sent: 330 with maxCNC: 3
+[2019-01-06 05:17:59.503783]learners’ memory capacity in sent: 333 with maxCNC: 3
+[2019-01-06 05:19:06.166944]referent selection test in sent: 359 with maxCNC: 3
+[2019-01-06 05:19:31.245456]target referent selection in sent: 368 with maxCNC: 3
+[2019-01-06 05:19:48.901860]target referent selection in sent: 374 with maxCNC: 3
+[2019-01-06 05:22:33.146926]End of Middle
+[2019-01-06 05:22:38.966034]word learning conditions in sent: 439 with maxCNC: 3
+[2019-01-06 05:23:42.432749]rote memory process in sent: 463 with maxCNC: 3
+[2019-01-06 05:24:27.396411]target word mapping performance in sent: 480 with maxCNC: 4
+[2019-01-06 05:24:34.883846]children’s mother tongue in sent: 482 with maxCNC: 3
+[2019-01-06 05:24:44.775008]word mapping performance in sent: 485 with maxCNC: 3
+[2019-01-06 05:25:17.453274]soundstring representations void in sent: 496 with maxCNC: 3
+[2019-01-06 05:26:13.828313]short-term learning effect in sent: 517 with maxCNC: 3
+[2019-01-06 05:26:13.828313]considered word mapping in sent: 517 with maxCNC: 3
+[2019-01-06 05:26:13.843934]word retention performance in sent: 517 with maxCNC: 3
+[2019-01-06 05:26:19.943777]End of Conclusion
+[2019-01-06 05:26:20.006278]words that contains CNCs(N>=3) in <Intro> are 0.02042042042042042 \% of this teil
+[2019-01-06 05:26:20.006278]words that contains CNCs(N>=3) in <Middle> are 0.015242593387720051 \% of this teil
+[2019-01-06 05:26:20.006278]words that contains CNCs(N>=3) in <Conclusion> are 0.014530358069538143 \% of this teil
+[2019-01-06 05:26:20.006278]In this document CNCs >=3 are 0.01612121212121212\% of the text.
+[2019-01-06 05:26:20.006278]Processing Robertson-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 05:26:31.310169]pronunciations spelling standards in sent: 4 with maxCNC: 3
+[2019-01-06 05:26:53.709543]systems script selection in sent: 12 with maxCNC: 3
+[2019-01-06 05:27:08.916000]Japanese writing system in sent: 17 with maxCNC: 3
+[2019-01-06 05:31:18.551515]End of Introduction
+[2019-01-06 05:32:46.552658]tenth bonus volume in sent: 139 with maxCNC: 3
+[2019-01-06 05:32:59.009040]manga’s mainstream nature in sent: 143 with maxCNC: 3
+[2019-01-06 05:33:08.202353]data analysis program in sent: 146 with maxCNC: 3
+[2019-01-06 05:33:52.545949]script/pronoun combination norm in sent: 163 with maxCNC: 3
+[2019-01-06 05:33:52.545949]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsRobertson-2017-Journal_of_Sociolinguistics_163_script/pronoun combination norm.txt
+[2019-01-06 05:34:17.629374]First person pronouns in sent: 172 with maxCNC: 3
+[2019-01-06 05:35:31.943118]formality use watashi in sent: 199 with maxCNC: 3
+[2019-01-06 05:36:57.502902]script/pronoun combination norms in sent: 231 with maxCNC: 3
+[2019-01-06 05:36:57.502902]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsRobertson-2017-Journal_of_Sociolinguistics_231_script/pronoun combination norms.txt
+[2019-01-06 05:38:13.446234]later dialogue Tama in sent: 260 with maxCNC: 3
+[2019-01-06 05:39:58.678659]casual pronoun atashi in sent: 297 with maxCNC: 3
+[2019-01-06 05:41:24.812840]End of Middle
+[2019-01-06 05:41:29.840785]author’s script selection in sent: 330 with maxCNC: 3
+[2019-01-06 05:42:38.769379]script language use in sent: 355 with maxCNC: 3
+[2019-01-06 05:42:58.358402]index character types in sent: 362 with maxCNC: 3
+[2019-01-06 05:43:19.052558]End of Conclusion
+[2019-01-06 05:43:19.099434]words that contains CNCs(N>=3) in <Intro> are 0.004310344827586207 \% of this teil
+[2019-01-06 05:43:19.099434]words that contains CNCs(N>=3) in <Middle> are 0.006093432633716994 \% of this teil
+[2019-01-06 05:43:19.099434]words that contains CNCs(N>=3) in <Conclusion> are 0.00891089108910891 \% of this teil
+[2019-01-06 05:43:19.099434]In this document CNCs >=3 are 0.005976889361136937\% of the text.
+[2019-01-06 05:43:19.099434]Processing Rojo_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 05:43:41.487349]Taiwan share meanings in sent: 9 with maxCNC: 3
+[2019-01-06 05:45:00.600370]stance alignment process in sent: 40 with maxCNC: 3
+[2019-01-06 05:46:11.639302]End of Introduction
+[2019-01-06 05:46:17.269927]Chinese exchange students in sent: 69 with maxCNC: 3
+[2019-01-06 05:47:07.548353]exchange program before in sent: 88 with maxCNC: 3
+[2019-01-06 05:48:58.455683]university-based student organization in sent: 131 with maxCNC: 3
+[2019-01-06 05:49:16.564067]gaze body posture in sent: 137 with maxCNC: 3
+[2019-01-06 05:49:56.319432]stance accretion process in sent: 152 with maxCNC: 3
+[2019-01-06 05:53:14.823640]stance alignment process in sent: 228 with maxCNC: 3
+[2019-01-06 05:53:29.199662]conversation changes topic in sent: 233 with maxCNC: 3
+[2019-01-06 05:57:45.489648]bullfighting case study in sent: 333 with maxCNC: 3
+[2019-01-06 05:59:02.695832]luxury brand names in sent: 360 with maxCNC: 3
+[2019-01-06 05:59:06.758490]shopping case study in sent: 361 with maxCNC: 3
+[2019-01-06 05:59:23.344466]university internationalization schemes in sent: 367 with maxCNC: 3
+[2019-01-06 05:59:32.297572]world others cannot in sent: 370 with maxCNC: 3
+[2019-01-06 05:59:40.104051]End of Middle
+[2019-01-06 06:00:07.809750]stance triangle model in sent: 384 with maxCNC: 3
+[2019-01-06 06:01:01.441620]End of Conclusion
+[2019-01-06 06:01:01.488494]words that contains CNCs(N>=3) in <Intro> are 0.005185825410544511 \% of this teil
+[2019-01-06 06:01:01.488494]words that contains CNCs(N>=3) in <Middle> are 0.006514657980456026 \% of this teil
+[2019-01-06 06:01:01.488494]words that contains CNCs(N>=3) in <Conclusion> are 0.004545454545454545 \% of this teil
+[2019-01-06 06:01:01.488494]In this document CNCs >=3 are 0.006128285441917472\% of the text.
+[2019-01-06 06:01:01.488494]Processing Second_language_acquisition_of_pragmatic_inferences_Evidence_from_the_French_cest-cleft.txt in linguistics_intros
+[2019-01-06 06:02:01.870442]cleft sentences exhaustivity in sent: 24 with maxCNC: 3
+[2019-01-06 06:02:53.345242]syntax–discourse interface phenomena in sent: 43 with maxCNC: 3
+[2019-01-06 06:06:51.158122]ofﬂine forcedchoice task in sent: 134 with maxCNC: 3
+[2019-01-06 06:11:22.677980]several interface phenomena in sent: 237 with maxCNC: 3
+[2019-01-06 06:12:15.055466]language combination spoken in sent: 256 with maxCNC: 3
+[2019-01-06 06:13:22.877296]End of Introduction
+[2019-01-06 06:15:00.579760]French control group in sent: 318 with maxCNC: 3
+[2019-01-06 06:15:33.663221]cloze test scores in sent: 329 with maxCNC: 3
+[2019-01-06 06:15:44.300952]Uniform cutoff points in sent: 332 with maxCNC: 3
+[2019-01-06 06:16:36.894155]experimental task items in sent: 352 with maxCNC: 3
+[2019-01-06 06:19:57.351605]object language group in sent: 428 with maxCNC: 3
+[2019-01-06 06:20:00.465746]predictors sentence type in sent: 429 with maxCNC: 3
+[2019-01-06 06:20:10.287100]three-level predictor language group in sent: 432 with maxCNC: 4
+[2019-01-06 06:20:18.517848]four-level predictor proﬁciency in sent: 433 with maxCNC: 3
+[2019-01-06 06:20:30.279715]model likelihood-ratio tests in sent: 437 with maxCNC: 3
+[2019-01-06 06:20:52.054642]all proﬁciency levels in sent: 445 with maxCNC: 3
+[2019-01-06 06:22:30.836464]native control groups in sent: 483 with maxCNC: 3
+[2019-01-06 06:23:26.849063]second research question in sent: 505 with maxCNC: 3
+[2019-01-06 06:23:36.485984]effects sentence type in sent: 508 with maxCNC: 3
+[2019-01-06 06:24:14.399269]third research question in sent: 523 with maxCNC: 3
+[2019-01-06 06:24:28.284373]predictors sentence type in sent: 527 with maxCNC: 3
+[2019-01-06 06:27:31.130020]End of Middle
+[2019-01-06 06:28:53.220139]highest proﬁciency learners in sent: 630 with maxCNC: 3
+[2019-01-06 06:29:57.158452]lowproﬁciency learners pattern in sent: 653 with maxCNC: 3
+[2019-01-06 06:30:17.251024]classroom university learners in sent: 659 with maxCNC: 3
+[2019-01-06 06:30:39.621314]warn “what counts in sent: 666 with maxCNC: 3
+[2019-01-06 06:31:25.643487]clefts processing limitations in sent: 683 with maxCNC: 3
+[2019-01-06 06:31:31.989143]data parallels child in sent: 685 with maxCNC: 3
+[2019-01-06 06:31:51.864004]highest proﬁciency learners in sent: 692 with maxCNC: 3
+[2019-01-06 06:32:11.214956]typical classroom input in sent: 698 with maxCNC: 3
+[2019-01-06 06:32:17.489187]proﬁciency group report in sent: 700 with maxCNC: 3
+[2019-01-06 06:32:47.119037]anonymous reviewer remarked in sent: 711 with maxCNC: 3
+[2019-01-06 06:33:07.067932]End of Conclusion
+[2019-01-06 06:33:07.114800]words that contains CNCs(N>=3) in <Intro> are 0.004080522306855278 \% of this teil
+[2019-01-06 06:33:07.114800]words that contains CNCs(N>=3) in <Middle> are 0.011938749026732417 \% of this teil
+[2019-01-06 06:33:07.114800]words that contains CNCs(N>=3) in <Conclusion> are 0.012185215272136474 \% of this teil
+[2019-01-06 06:33:07.114800]In this document CNCs >=3 are 0.009108197377639876\% of the text.
+[2019-01-06 06:33:07.114800]Processing Shaikjee_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 06:36:25.346010]drag king troupe in sent: 72 with maxCNC: 3
+[2019-01-06 06:36:37.893969]drag king performance in sent: 76 with maxCNC: 3
+[2019-01-06 06:37:05.009527]End of Introduction
+[2019-01-06 06:38:52.653592]time returns home in sent: 123 with maxCNC: 3
+[2019-01-06 06:41:28.246466]drag king persona in sent: 183 with maxCNC: 3
+[2019-01-06 06:42:39.055177]acts lip syncing in sent: 209 with maxCNC: 3
+[2019-01-06 06:42:52.113436]drag queen culture in sent: 213 with maxCNC: 3
+[2019-01-06 06:42:52.113436]drag queen performances in sent: 213 with maxCNC: 3
+[2019-01-06 06:43:23.073352]costumes songs performed in sent: 224 with maxCNC: 3
+[2019-01-06 06:44:36.694847]song drag king in sent: 251 with maxCNC: 3
+[2019-01-06 06:44:57.822596]‘right’ body shape in sent: 258 with maxCNC: 3
+[2019-01-06 06:45:46.546134]drag king performance in sent: 275 with maxCNC: 3
+[2019-01-06 06:45:55.597208]hip hop music videos in sent: 278 with maxCNC: 4
+[2019-01-06 06:46:44.894064]performance constructs Blackness in sent: 296 with maxCNC: 3
+[2019-01-06 06:46:54.605768]hip hop culture in sent: 299 with maxCNC: 3
+[2019-01-06 06:46:57.850493]hip hop hustler in sent: 300 with maxCNC: 3
+[2019-01-06 06:47:57.890691]drag king persona in sent: 321 with maxCNC: 3
+[2019-01-06 06:48:01.144124]hip hop performers in sent: 322 with maxCNC: 3
+[2019-01-06 06:50:26.525461]drag king convention in sent: 375 with maxCNC: 3
+[2019-01-06 06:50:33.475181]‘themselves’ singing songs in sent: 377 with maxCNC: 3
+[2019-01-06 06:51:57.739085]End of Middle
+[2019-01-06 06:52:57.386532]decolonial feminism cannot in sent: 430 with maxCNC: 3
+[2019-01-06 06:54:15.671847]End of Conclusion
+[2019-01-06 06:54:15.718717]words that contains CNCs(N>=3) in <Intro> are 0.0038684719535783366 \% of this teil
+[2019-01-06 06:54:15.718717]words that contains CNCs(N>=3) in <Middle> are 0.007542790832608065 \% of this teil
+[2019-01-06 06:54:15.718717]words that contains CNCs(N>=3) in <Conclusion> are 0.002737226277372263 \% of this teil
+[2019-01-06 06:54:15.718717]In this document CNCs >=3 are 0.006393459805051882\% of the text.
+[2019-01-06 06:54:15.718717]Processing Simple_morphological_spelling_rules_are_not_always_used_Individual_differences_in_children_and_adult.txt in linguistics_intros
+[2019-01-06 06:55:59.227095]overall mean rates in sent: 39 with maxCNC: 3
+[2019-01-06 06:55:59.227095]plural noun inﬂections correctly in sent: 39 with maxCNC: 4
+[2019-01-06 06:56:51.335860]regular plural inﬂected in sent: 57 with maxCNC: 3
+[2019-01-06 06:58:41.817515]plural spelling rule in sent: 96 with maxCNC: 3
+[2019-01-06 06:58:48.377938]spelling choice task in sent: 98 with maxCNC: 3
+[2019-01-06 06:59:55.980972]spelling plural noun in sent: 124 with maxCNC: 3
+[2019-01-06 06:59:58.888762]spelling choice test in sent: 125 with maxCNC: 3
+[2019-01-06 07:00:39.217637]age group tested in sent: 140 with maxCNC: 3
+[2019-01-06 07:00:48.568019]End of Introduction
+[2019-01-06 07:01:34.617742]General spelling ability in sent: 161 with maxCNC: 3
+[2019-01-06 07:04:38.006504]general spelling test in sent: 232 with maxCNC: 3
+[2019-01-06 07:04:41.692949]make spelling decisions in sent: 233 with maxCNC: 3
+[2019-01-06 07:04:45.210719]VC[z] pseudoword pairs in sent: 234 with maxCNC: 3
+[2019-01-06 07:04:51.401747]made-up words ‘pseudowords’ in sent: 236 with maxCNC: 3
+[2019-01-06 07:06:17.447664]two-option choice task in sent: 267 with maxCNC: 3
+[2019-01-06 07:06:17.463285]trials chance performance in sent: 267 with maxCNC: 3
+[2019-01-06 07:06:32.254003]potential sex differences in sent: 271 with maxCNC: 3
+[2019-01-06 07:07:33.835990]general spelling ability in sent: 294 with maxCNC: 3
+[2019-01-06 07:09:03.315403]General spelling ability in sent: 328 with maxCNC: 3
+[2019-01-06 07:09:38.086765]general spelling test in sent: 340 with maxCNC: 3
+[2019-01-06 07:09:48.863604][ks] pseudoword pairs in sent: 343 with maxCNC: 3
+[2019-01-06 07:10:14.798627][ks] pseudoword nouns in sent: 353 with maxCNC: 3
+[2019-01-06 07:10:35.655212]secondary school students in sent: 360 with maxCNC: 3
+[2019-01-06 07:11:03.693161]obvious sex differences in sent: 370 with maxCNC: 3
+[2019-01-06 07:13:16.976573]Secondary Education GCSE in sent: 422 with maxCNC: 3
+[2019-01-06 07:13:29.196536]General spelling ability in sent: 426 with maxCNC: 3
+[2019-01-06 07:14:07.067484]VC[z] pseudoword pairs in sent: 438 with maxCNC: 3
+[2019-01-06 07:14:07.067484][ks] pseudoword pairs in sent: 438 with maxCNC: 3
+[2019-01-06 07:14:37.723743]participants’ mean scores in sent: 449 with maxCNC: 3
+[2019-01-06 07:16:52.506105]End of Middle
+[2019-01-06 07:17:03.241062]age groups tested in sent: 504 with maxCNC: 3
+[2019-01-06 07:17:46.643243]overall mean scores in sent: 521 with maxCNC: 3
+[2019-01-06 07:18:18.292695]age group/education level in sent: 532 with maxCNC: 3
+[2019-01-06 07:18:18.292695]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsSimple_morphological_spelling_rules_are_not_always_used_Individual_differences_in_children_and_adult_532_age group/education level.txt
+[2019-01-06 07:21:32.172728]End of Conclusion
+[2019-01-06 07:21:32.203976]words that contains CNCs(N>=3) in <Intro> are 0.01029654036243822 \% of this teil
+[2019-01-06 07:21:32.219594]words that contains CNCs(N>=3) in <Middle> are 0.012067578439259855 \% of this teil
+[2019-01-06 07:21:32.219594]words that contains CNCs(N>=3) in <Conclusion> are 0.0045090180360721445 \% of this teil
+[2019-01-06 07:21:32.219594]In this document CNCs >=3 are 0.010004257130693913\% of the text.
+[2019-01-06 07:21:32.219594]Processing Structural_priming_during_sentence_comprehension_in_ChineseEnglish_bilinguals.txt in linguistics_intros
+[2019-01-06 07:21:44.431442]algorithms sentence comprehension in sent: 5 with maxCNC: 3
+[2019-01-06 07:23:02.998028]Structural priming taps in sent: 34 with maxCNC: 3
+[2019-01-06 07:24:03.577607]Most comprehension studies in sent: 57 with maxCNC: 3
+[2019-01-06 07:28:21.193742]word retrieval Levelt in sent: 157 with maxCNC: 3
+[2019-01-06 07:29:48.264830]comprehension priming effect in sent: 191 with maxCNC: 3
+[2019-01-06 07:30:20.287521]Cross-linguistic priming studies in sent: 202 with maxCNC: 3
+[2019-01-06 07:31:11.145032]baby die rood in sent: 220 with maxCNC: 3
+[2019-01-06 07:31:54.731056]English comprehension priming in sent: 236 with maxCNC: 3
+[2019-01-06 07:32:45.761619]ﬁrst noun phrase in sent: 253 with maxCNC: 3
+[2019-01-06 07:32:49.607761]wordThe literature review in sent: 254 with maxCNC: 3
+[2019-01-06 07:33:01.793035]End of Introduction
+[2019-01-06 07:33:09.628083]self-paced reading paradigm in sent: 261 with maxCNC: 3
+[2019-01-06 07:33:49.292855]head noun phrase in sent: 275 with maxCNC: 3
+[2019-01-06 07:33:53.408023]head noun phrase in sent: 276 with maxCNC: 3
+[2019-01-06 07:34:52.517137]verbs processing difﬁculty in sent: 297 with maxCNC: 3
+[2019-01-06 07:35:45.883872]identical word order in sent: 317 with maxCNC: 3
+[2019-01-06 07:37:10.986157]Chinese passive relative in sent: 349 with maxCNC: 3
+[2019-01-06 07:37:20.211378]passive participle analysis in sent: 352 with maxCNC: 3
+[2019-01-06 07:38:04.812083]grammaticality judgment task in sent: 369 with maxCNC: 3
+[2019-01-06 07:38:27.167703]times reﬂect processing difﬁculty in sent: 377 with maxCNC: 4
+[2019-01-06 07:38:30.499724]reading time data in sent: 378 with maxCNC: 3
+[2019-01-06 07:38:47.555282]condition reading times in sent: 384 with maxCNC: 3
+[2019-01-06 07:38:57.295701]region reading times in sent: 387 with maxCNC: 3
+[2019-01-06 07:39:15.280915]grammaticality judgment data in sent: 394 with maxCNC: 3
+[2019-01-06 07:39:38.333661]End of Middle
+[2019-01-06 07:39:56.655598]reading time difference in sent: 409 with maxCNC: 3
+[2019-01-06 07:40:38.148416]wordThe target sentences in sent: 424 with maxCNC: 3
+[2019-01-06 07:40:53.199063]speciﬁc priming effects in sent: 429 with maxCNC: 3
+[2019-01-06 07:40:59.192580]stronger comprehension priming in sent: 431 with maxCNC: 3
+[2019-01-06 07:41:19.877525]lexical boost effect in sent: 439 with maxCNC: 3
+[2019-01-06 07:42:42.571442]account argument structure in sent: 470 with maxCNC: 3
+[2019-01-06 07:42:53.800720]bilingual representation model in sent: 474 with maxCNC: 3
+[2019-01-06 07:42:59.680652]ﬁrst study demonstrating comprehension priming in sent: 476 with maxCNC: 5
+[2019-01-06 07:43:03.177211]cross-linguistic priming effect in sent: 477 with maxCNC: 3
+[2019-01-06 07:43:22.428139]subject noun phrase in sent: 484 with maxCNC: 3
+[2019-01-06 07:43:40.149463]language comprehension process in sent: 490 with maxCNC: 3
+[2019-01-06 07:43:43.088216]meaning relationship speciﬁcally in sent: 491 with maxCNC: 3
+[2019-01-06 07:44:16.163572]Function word priming in sent: 503 with maxCNC: 3
+[2019-01-06 07:44:27.347613]cross-linguistic priming effect in sent: 507 with maxCNC: 3
+[2019-01-06 07:45:02.269054]structural priming effect in sent: 520 with maxCNC: 3
+[2019-01-06 07:46:20.067844]learners’ language comprehension in sent: 549 with maxCNC: 3
+[2019-01-06 07:46:37.594901]End of Conclusion
+[2019-01-06 07:46:37.626150]words that contains CNCs(N>=3) in <Intro> are 0.008936550491510277 \% of this teil
+[2019-01-06 07:46:37.626150]words that contains CNCs(N>=3) in <Middle> are 0.018656716417910446 \% of this teil
+[2019-01-06 07:46:37.626150]words that contains CNCs(N>=3) in <Conclusion> are 0.017992083483267363 \% of this teil
+[2019-01-06 07:46:37.626150]In this document CNCs >=3 are 0.014492753623188406\% of the text.
+[2019-01-06 07:46:37.626150]Processing Syllables_and_morphemes_in_German_reading_development_Evidence_from_second_graders_fourth_graders_an.txt in linguistics_intros
+[2019-01-06 07:46:50.065313]grapheme–phoneme correspondence GPC in sent: 5 with maxCNC: 3
+[2019-01-06 07:47:21.663451]letter position coding in sent: 16 with maxCNC: 3
+[2019-01-06 07:47:55.983121]lexical decision tasks in sent: 27 with maxCNC: 3
+[2019-01-06 07:48:02.673521]word recognition errors in sent: 29 with maxCNC: 3
+[2019-01-06 07:48:34.484996]response times RTs in sent: 40 with maxCNC: 3
+[2019-01-06 07:49:01.712631]Finnish eye-tracking study in sent: 49 with maxCNC: 3
+[2019-01-06 07:49:32.506548]onset principle Spencer in sent: 60 with maxCNC: 3
+[2019-01-06 07:49:46.291943]low-frequency derivations malade in sent: 64 with maxCNC: 3
+[2019-01-06 07:50:01.313410]psycholinguistic grain size theory in sent: 69 with maxCNC: 4
+[2019-01-06 07:54:21.223559]End of Introduction
+[2019-01-06 07:54:44.154629]reading ﬂuency percentile norm values in sent: 178 with maxCNC: 5
+[2019-01-06 07:54:44.170254]reading ﬂuency scale in sent: 178 with maxCNC: 3
+[2019-01-06 07:55:14.688752]childLex corpus Schroeder in sent: 189 with maxCNC: 3
+[2019-01-06 07:57:41.530882]error rate analysis in sent: 245 with maxCNC: 3
+[2019-01-06 07:59:00.702512]Group× Disruption Position interaction in sent: 275 with maxCNC: 4
+[2019-01-06 07:59:40.705573]status disruption position in sent: 290 with maxCNC: 3
+[2019-01-06 08:00:33.878630]status disruption position in sent: 310 with maxCNC: 3
+[2019-01-06 08:01:36.448886]age group only in sent: 334 with maxCNC: 3
+[2019-01-06 08:01:51.140127]End of Middle
+[2019-01-06 08:04:41.716270]example word frequencies in sent: 405 with maxCNC: 3
+[2019-01-06 08:05:34.453683]grain size theory in sent: 424 with maxCNC: 3
+[2019-01-06 08:06:10.481906]End of Conclusion
+[2019-01-06 08:06:10.528780]words that contains CNCs(N>=3) in <Intro> are 0.010007147962830594 \% of this teil
+[2019-01-06 08:06:10.528780]words that contains CNCs(N>=3) in <Middle> are 0.013712544438801422 \% of this teil
+[2019-01-06 08:06:10.528780]words that contains CNCs(N>=3) in <Conclusion> are 0.0034227039361095267 \% of this teil
+[2019-01-06 08:06:10.528780]In this document CNCs >=3 are 0.009355828220858895\% of the text.
+[2019-01-06 08:06:10.528780]Processing Tesseur-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 08:07:05.276382]relations development studies in sent: 21 with maxCNC: 3
+[2019-01-06 08:08:03.555731]material realworld changes in sent: 42 with maxCNC: 3
+[2019-01-06 08:08:18.909637]translation studies perspective in sent: 47 with maxCNC: 3
+[2019-01-06 08:09:13.460082]focus points persons in sent: 67 with maxCNC: 3
+[2019-01-06 08:09:47.100593]understanding translation policy in sent: 79 with maxCNC: 3
+[2019-01-06 08:10:18.275783]data ‘to grasp in sent: 90 with maxCNC: 3
+[2019-01-06 08:13:10.419903]first translations editor in sent: 157 with maxCNC: 3
+[2019-01-06 08:13:23.353257]End of Introduction
+[2019-01-06 08:13:50.595890]translators press officers in sent: 171 with maxCNC: 3
+[2019-01-06 08:14:26.109486]Local translation policy in sent: 184 with maxCNC: 3
+[2019-01-06 08:14:38.257525]documents translation software in sent: 188 with maxCNC: 3
+[2019-01-06 08:16:10.424392]training revision mechanisms in sent: 208 with maxCNC: 3
+[2019-01-06 08:16:22.549761]changes Amnesty Flanders’ in sent: 212 with maxCNC: 3
+[2019-01-06 08:16:46.869670]weg houdt van in sent: 219 with maxCNC: 3
+[2019-01-06 08:17:44.843689]Flemish press release in sent: 234 with maxCNC: 3
+[2019-01-06 08:18:28.737641]practice staff members in sent: 250 with maxCNC: 3
+[2019-01-06 08:20:04.489290]hadden daar duidelijk nog nooit in sent: 268 with maxCNC: 5
+[2019-01-06 08:20:08.013121]practice show that in sent: 269 with maxCNC: 3
+[2019-01-06 08:20:39.564302]bottleneck approval structure in sent: 279 with maxCNC: 3
+[2019-01-06 08:22:39.011417]Communicatie hangt heel in sent: 324 with maxCNC: 3
+[2019-01-06 08:22:50.612025]Want elke lokale context in sent: 326 with maxCNC: 4
+[2019-01-06 08:23:21.343664]bijvoorbeeld ook vaak in sent: 328 with maxCNC: 3
+[2019-01-06 08:23:21.359288]sectie die pas in sent: 328 with maxCNC: 3
+[2019-01-06 08:23:38.776286]press ofﬁcer’s interpretation in sent: 334 with maxCNC: 3
+[2019-01-06 08:24:09.828128]End of Middle
+[2019-01-06 08:25:02.382640]relations development studies in sent: 365 with maxCNC: 3
+[2019-01-06 08:25:08.254753]End of Conclusion
+[2019-01-06 08:25:08.286005]words that contains CNCs(N>=3) in <Intro> are 0.008613617719442166 \% of this teil
+[2019-01-06 08:25:08.301625]words that contains CNCs(N>=3) in <Middle> are 0.013870002719608376 \% of this teil
+[2019-01-06 08:25:08.301625]words that contains CNCs(N>=3) in <Conclusion> are 0.004213483146067416 \% of this teil
+[2019-01-06 08:25:08.301625]In this document CNCs >=3 are 0.01098579170938919\% of the text.
+[2019-01-06 08:25:08.301625]Processing The_development_of_categorical_perception_of_Mandarin_tones_in_four-_to_seven-year-old_children_.txt in linguistics_intros
+[2019-01-06 08:26:11.268024]infant tone perception in sent: 23 with maxCNC: 3
+[2019-01-06 08:27:07.638282]phonological saliency hypothesis in sent: 44 with maxCNC: 3
+[2019-01-06 08:27:37.007474]speech analysis tools in sent: 55 with maxCNC: 3
+[2019-01-06 08:28:10.739360]ForMandarin tone perception in sent: 67 with maxCNC: 3
+[2019-01-06 08:30:13.035156]tone discrimination tasks in sent: 112 with maxCNC: 3
+[2019-01-06 08:30:19.061088]prominent discrimination peaks in sent: 114 with maxCNC: 3
+[2019-01-06 08:30:56.094130]tone identification task in sent: 128 with maxCNC: 3
+[2019-01-06 08:31:16.861851]End of Introduction
+[2019-01-06 08:31:59.301251]language impairments SLI in sent: 151 with maxCNC: 3
+[2019-01-06 08:31:59.316875]child’s language ability LA in sent: 151 with maxCNC: 4
+[2019-01-06 08:32:16.794554]natural speech template in sent: 156 with maxCNC: 3
+[2019-01-06 08:32:58.495032]-ms tone stimuli in sent: 170 with maxCNC: 3
+[2019-01-06 08:34:33.783697]above twenty-nine pairs in sent: 203 with maxCNC: 3
+[2019-01-06 08:34:42.753563]next sound pair in sent: 205 with maxCNC: 3
+[2019-01-06 08:35:15.743814] discrimination trials in sent: 217 with maxCNC: 3
+[2019-01-06 08:35:25.069811]Adjacent comparison units in sent: 220 with maxCNC: 3
+[2019-01-06 08:35:58.188059]comparison units – in sent: 232 with maxCNC: 3
+[2019-01-06 08:36:21.811231]Themean boundary positions in sent: 240 with maxCNC: 3
+[2019-01-06 08:36:44.179853]age groups [F in sent: 248 with maxCNC: 3
+[2019-01-06 08:36:50.264462]average boundary widths in sent: 250 with maxCNC: 3
+[2019-01-06 08:37:39.984295]overall discrimination accuracies in sent: 269 with maxCNC: 3
+[2019-01-06 08:37:43.001442]comparison unit – in sent: 270 with maxCNC: 3
+[2019-01-06 08:37:47.877927]boundary position ·–· in sent: 271 with maxCNC: 3
+[2019-01-06 08:37:57.956414]Greenhouse–Geisser adjustment method in sent: 273 with maxCNC: 3
+[2019-01-06 08:38:00.943310]comparison unit [F in sent: 274 with maxCNC: 3
+[2019-01-06 08:38:17.819245]overall discrimination accuracies in sent: 280 with maxCNC: 3
+[2019-01-06 08:38:21.121573]discrimination accuracy Pbc in sent: 281 with maxCNC: 3
+[2019-01-06 08:38:52.742521]discrimination accuracy Pwc in sent: 292 with maxCNC: 3
+[2019-01-06 08:38:55.747603]age groups [F in sent: 293 with maxCNC: 3
+[2019-01-06 08:39:05.870344]discrimination accuracies Pbc in sent: 296 with maxCNC: 3
+[2019-01-06 08:39:10.909868]discrimination accuracy Pwc in sent: 298 with maxCNC: 3
+[2019-01-06 08:39:21.348914]within-category discrimination accuracies in sent: 301 with maxCNC: 3
+[2019-01-06 08:39:29.729549]End of Middle
+[2019-01-06 08:39:50.412572]tone language exposure in sent: 310 with maxCNC: 3
+[2019-01-06 08:40:01.459439]present identification test in sent: 313 with maxCNC: 3
+[2019-01-06 08:40:29.273324]tone language listeners in sent: 324 with maxCNC: 3
+[2019-01-06 08:40:51.919439]narrower boundary width in sent: 332 with maxCNC: 3
+[2019-01-06 08:41:37.911359]tone category information in sent: 347 with maxCNC: 3
+[2019-01-06 08:42:30.781417]tone language experience in sent: 366 with maxCNC: 3
+[2019-01-06 08:43:27.219946]End of Conclusion
+[2019-01-06 08:43:27.266818]words that contains CNCs(N>=3) in <Intro> are 0.011134676564156946 \% of this teil
+[2019-01-06 08:43:27.266818]words that contains CNCs(N>=3) in <Middle> are 0.027077151335311574 \% of this teil
+[2019-01-06 08:43:27.266818]words that contains CNCs(N>=3) in <Conclusion> are 0.011264080100125156 \% of this teil
+[2019-01-06 08:43:27.266818]In this document CNCs >=3 are 0.018122977346278317\% of the text.
+[2019-01-06 08:43:27.266818]Processing The_effect_of_shyness_on_childrens_formation_and_retention_of_novel_wordobject_mappings_.txt in linguistics_intros
+[2019-01-06 08:43:59.965279]child’s language exposure in sent: 12 with maxCNC: 3
+[2019-01-06 08:44:14.255395]language exposure impacts in sent: 16 with maxCNC: 3
+[2019-01-06 08:46:53.705680]children’s novelty preference in sent: 75 with maxCNC: 3
+[2019-01-06 08:47:35.449265]word– object mapping in sent: 89 with maxCNC: 3
+[2019-01-06 08:47:45.042732]shy children’s aversion in sent: 92 with maxCNC: 3
+[2019-01-06 08:48:18.559251]label– object mappings in sent: 105 with maxCNC: 3
+[2019-01-06 08:48:24.680265]referent selection trials in sent: 107 with maxCNC: 3
+[2019-01-06 08:48:36.514878]End of Introduction
+[2019-01-06 08:49:21.442710]Standardized Cronbach’s alpha in sent: 127 with maxCNC: 3
+[2019-01-06 08:51:36.198720]referent selection trials in sent: 176 with maxCNC: 3
+[2019-01-06 08:51:39.139026]Referent selection trials in sent: 177 with maxCNC: 3
+[2019-01-06 08:52:55.019323]referent selection trials in sent: 206 with maxCNC: 3
+[2019-01-06 08:53:30.106903]Word learning tasks in sent: 219 with maxCNC: 3
+[2019-01-06 08:53:50.307991]referent selection trials in sent: 226 with maxCNC: 3
+[2019-01-06 08:54:15.623643]selection trials t in sent: 235 with maxCNC: 3
+[2019-01-06 08:54:15.623643]selection trials t in sent: 235 with maxCNC: 3
+[2019-01-06 08:54:38.940909]retention task children in sent: 242 with maxCNC: 3
+[2019-01-06 08:54:45.874324]children’s referent selection in sent: 244 with maxCNC: 3
+[2019-01-06 08:54:45.889949]children’s referent selection in sent: 244 with maxCNC: 3
+[2019-01-06 08:55:19.047582]novel object t in sent: 255 with maxCNC: 3
+[2019-01-06 08:55:33.115950]trial type F in sent: 258 with maxCNC: 3
+[2019-01-06 08:55:40.504376]shyness group F in sent: 260 with maxCNC: 3
+[2019-01-06 08:56:13.724384]End of Middle
+[2019-01-06 08:59:35.930697]End of Conclusion
+[2019-01-06 08:59:35.977571]words that contains CNCs(N>=3) in <Intro> are 0.010584677419354838 \% of this teil
+[2019-01-06 08:59:35.977571]words that contains CNCs(N>=3) in <Middle> are 0.015578635014836795 \% of this teil
+[2019-01-06 08:59:35.977571]words that contains CNCs(N>=3) in <Conclusion> are 0.0 \% of this teil
+[2019-01-06 08:59:35.977571]In this document CNCs >=3 are 0.009578835335259236\% of the text.
+[2019-01-06 08:59:35.977571]Processing The_emergence_of_phonetic_categories_in_KoreanEnglish_bilingual_children_.txt in linguistics_intros
+[2019-01-06 08:59:49.736832]Phonetic category formation in sent: 5 with maxCNC: 3
+[2019-01-06 09:00:05.973470]phonetic category formation in sent: 10 with maxCNC: 3
+[2019-01-06 09:01:11.745707]Korean stop types in sent: 33 with maxCNC: 3
+[2019-01-06 09:04:27.206391]production accuracy studies in sent: 93 with maxCNC: 3
+[2019-01-06 09:06:04.279573]Phonetic category formation in sent: 125 with maxCNC: 3
+[2019-01-06 09:07:09.885482]speech production diﬀers in sent: 147 with maxCNC: 3
+[2019-01-06 09:07:45.727209]End of Introduction
+[2019-01-06 09:09:50.179475]language/ communication skills in sent: 190 with maxCNC: 3
+[2019-01-06 09:09:50.180474]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsThe_emergence_of_phonetic_categories_in_KoreanEnglish_bilingual_children__190_language/ communication skills.txt
+[2019-01-06 09:11:05.353522]target word productions in sent: 212 with maxCNC: 3
+[2019-01-06 09:11:37.258169]digital flash recorder in sent: 222 with maxCNC: 3
+[2019-01-06 09:11:57.369352]Computerized Speech Lab in sent: 228 with maxCNC: 3
+[2019-01-06 09:13:37.411653]target word productions in sent: 258 with maxCNC: 3
+[2019-01-06 09:13:49.652859]phoneme-by-phoneme inter-rater reliability in sent: 262 with maxCNC: 3
+[2019-01-06 09:15:23.492110]Korean fortis stops in sent: 289 with maxCNC: 3
+[2019-01-06 09:16:21.011487]children VOT values in sent: 305 with maxCNC: 3
+[2019-01-06 09:18:27.633421]Korean vowel /i/ in sent: 340 with maxCNC: 3
+[2019-01-06 09:18:27.633421]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsThe_emergence_of_phonetic_categories_in_KoreanEnglish_bilingual_children__340_Korean vowel /i/.txt
+[2019-01-06 09:19:26.513810]vowel type F in sent: 356 with maxCNC: 3
+[2019-01-06 09:19:34.820891]interaction effects F in sent: 358 with maxCNC: 3
+[2019-01-06 09:19:38.695531]vowel type F in sent: 359 with maxCNC: 3
+[2019-01-06 09:19:53.088304]vowel type F in sent: 363 with maxCNC: 3
+[2019-01-06 09:20:24.072329]End of Middle
+[2019-01-06 09:21:22.952779]diﬀerent formant values in sent: 388 with maxCNC: 3
+[2019-01-06 09:24:37.084278]sound category vowels in sent: 446 with maxCNC: 3
+[2019-01-06 09:27:23.235815]few group experiments in sent: 494 with maxCNC: 3
+[2019-01-06 09:27:50.599881]End of Conclusion
+[2019-01-06 09:27:50.670119]words that contains CNCs(N>=3) in <Intro> are 0.006355932203389831 \% of this teil
+[2019-01-06 09:27:50.670119]words that contains CNCs(N>=3) in <Middle> are 0.01132404181184669 \% of this teil
+[2019-01-06 09:27:50.670119]words that contains CNCs(N>=3) in <Conclusion> are 0.004462072384729797 \% of this teil
+[2019-01-06 09:27:50.670119]In this document CNCs >=3 are 0.007958519233088147\% of the text.
+[2019-01-06 09:27:50.670119]Processing The_moustache_sits_down_first_on_the_acquisition_of_metonymy_.txt in linguistics_intros
+[2019-01-06 09:28:33.529571]conditions metaphors Özçaliskan in sent: 12 with maxCNC: 3
+[2019-01-06 09:29:40.130484]shorthand device diﬀers in sent: 32 with maxCNC: 3
+[2019-01-06 09:30:19.335988]lexical rule Apresjan in sent: 44 with maxCNC: 3
+[2019-01-06 09:31:01.616201]primary school children in sent: 59 with maxCNC: 3
+[2019-01-06 09:31:16.653200]part–whole contiguity relations in sent: 64 with maxCNC: 3
+[2019-01-06 09:34:14.659715]End of Introduction
+[2019-01-06 09:34:21.604726]fact measuring vocabulary in sent: 121 with maxCNC: 3
+[2019-01-06 09:35:24.541891]ﬁrst elicitation task in sent: 138 with maxCNC: 3
+[2019-01-06 09:35:31.097044]second elicitation task in sent: 140 with maxCNC: 3
+[2019-01-06 09:37:03.991999]forced-choice story task in sent: 172 with maxCNC: 3
+[2019-01-06 09:38:37.327764]ﬁnal target sentence in sent: 202 with maxCNC: 3
+[2019-01-06 09:42:00.887281]Interaction odds ratio IOR in sent: 268 with maxCNC: 4
+[2019-01-06 09:44:53.827158]similar age eﬀect in sent: 324 with maxCNC: 3
+[2019-01-06 09:49:30.024069]story world ability in sent: 405 with maxCNC: 3
+[2019-01-06 09:50:13.328837]CHILDES corpus revealed in sent: 418 with maxCNC: 3
+[2019-01-06 09:53:44.782081]answer type METONYM in sent: 485 with maxCNC: 3
+[2019-01-06 09:53:49.219450]answer types METONYM in sent: 486 with maxCNC: 3
+[2019-01-06 09:54:25.553834]answer type METONYM in sent: 494 with maxCNC: 3
+[2019-01-06 09:59:58.434933]significant age effects in sent: 608 with maxCNC: 3
+[2019-01-06 10:01:33.646105]End of Middle
+[2019-01-06 10:04:24.732200]youngest children’s preference in sent: 706 with maxCNC: 3
+[2019-01-06 10:05:30.354065]literal-mindedness show signs in sent: 730 with maxCNC: 3
+[2019-01-06 10:05:40.500756]End of Conclusion
+[2019-01-06 10:05:40.578876]words that contains CNCs(N>=3) in <Intro> are 0.008379888268156424 \% of this teil
+[2019-01-06 10:05:40.578876]words that contains CNCs(N>=3) in <Middle> are 0.0050981391791995925 \% of this teil
+[2019-01-06 10:05:40.578876]words that contains CNCs(N>=3) in <Conclusion> are 0.0035885167464114833 \% of this teil
+[2019-01-06 10:05:40.578876]In this document CNCs >=3 are 0.005394411036434382\% of the text.
+[2019-01-06 10:05:40.578876]Processing The_role_of_cognitive_control_in_anaphor_resolution_in_children_with_specific_language_impairment.txt in linguistics_intros
+[2019-01-06 10:05:44.210920]language impairment SLI in sent: 1 with maxCNC: 3
+[2019-01-06 10:07:12.831727]sentence–picture veriﬁcation task in sent: 31 with maxCNC: 3
+[2019-01-06 10:07:18.698242]language control groups in sent: 33 with maxCNC: 3
+[2019-01-06 10:07:29.684495]sentence comprehension task in sent: 36 with maxCNC: 3
+[2019-01-06 10:07:40.751497]picture selection task in sent: 39 with maxCNC: 3
+[2019-01-06 10:08:04.072149]sentence comprehension differences in sent: 47 with maxCNC: 3
+[2019-01-06 10:08:18.210166]anaphor comprehension deﬁciencies in sent: 51 with maxCNC: 3
+[2019-01-06 10:08:24.324427]sentence comprehension studies in sent: 53 with maxCNC: 3
+[2019-01-06 10:09:15.026253]same clause with in sent: 70 with maxCNC: 3
+[2019-01-06 10:09:25.200857]sentence comprehension methods in sent: 73 with maxCNC: 3
+[2019-01-06 10:09:39.381499]sentence comprehension studies in sent: 78 with maxCNC: 3
+[2019-01-06 10:10:38.028366]online sentence comprehension studies in sent: 99 with maxCNC: 4
+[2019-01-06 10:11:12.195062]double match condition in sent: 111 with maxCNC: 3
+[2019-01-06 10:11:15.830430]single match condition in sent: 112 with maxCNC: 3
+[2019-01-06 10:13:30.727070]sentence comprehension performance in sent: 162 with maxCNC: 3
+[2019-01-06 10:13:39.318969]nonword repetition span in sent: 164 with maxCNC: 3
+[2019-01-06 10:13:50.315705]sentence comprehension task in sent: 168 with maxCNC: 3
+[2019-01-06 10:13:57.733675]listening span task in sent: 170 with maxCNC: 3
+[2019-01-06 10:15:36.661871]sentence processing difﬁculties in sent: 206 with maxCNC: 3
+[2019-01-06 10:16:09.045983]anaphor resolution performance in sent: 217 with maxCNC: 3
+[2019-01-06 10:16:21.739613]cognitive control abilities in sent: 221 with maxCNC: 3
+[2019-01-06 10:16:55.612621]SLI show differences in sent: 234 with maxCNC: 3
+[2019-01-06 10:16:59.053391]SLI show impairments in sent: 235 with maxCNC: 3
+[2019-01-06 10:17:23.691467]word order patterns in sent: 243 with maxCNC: 3
+[2019-01-06 10:17:43.454070]digit span task in sent: 249 with maxCNC: 3
+[2019-01-06 10:18:28.447263]anaphor interpretation abilities in sent: 265 with maxCNC: 3
+[2019-01-06 10:18:28.462885]End of Introduction
+[2019-01-06 10:19:48.921551]anaphor interpretation task in sent: 293 with maxCNC: 3
+[2019-01-06 10:19:52.256255]yes/no sentence–picture judgment task in sent: 294 with maxCNC: 4
+[2019-01-06 10:19:52.256255]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsThe_role_of_cognitive_control_in_anaphor_resolution_in_children_with_specific_language_impairment_294_yes/no sentence–picture judgment task.txt
+[2019-01-06 10:21:03.384762]antecedent mismatch condition in sent: 319 with maxCNC: 3
+[2019-01-06 10:21:13.807936]agent mismatch condition in sent: 322 with maxCNC: 3
+[2019-01-06 10:21:27.759629]different sentence types in sent: 326 with maxCNC: 3
+[2019-01-06 10:21:30.978571]picture match types in sent: 327 with maxCNC: 3
+[2019-01-06 10:22:02.097928]digit span task in sent: 337 with maxCNC: 3
+[2019-01-06 10:22:46.389662]discrimination index Pr in sent: 351 with maxCNC: 3
+[2019-01-06 10:23:57.193716]nonword repetition task children in sent: 375 with maxCNC: 4
+[2019-01-06 10:24:11.272402]last length level in sent: 379 with maxCNC: 3
+[2019-01-06 10:24:20.191706]anaphor comprehension task in sent: 382 with maxCNC: 3
+[2019-01-06 10:24:59.390054]anaphor comprehension performance in sent: 395 with maxCNC: 3
+[2019-01-06 10:27:45.197581]anaphor type factors in sent: 454 with maxCNC: 3
+[2019-01-06 10:29:59.043644]digit span task in sent: 504 with maxCNC: 3
+[2019-01-06 10:31:06.936033]cognitive control abilities in sent: 528 with maxCNC: 3
+[2019-01-06 10:31:06.951656]sentence comprehension task in sent: 528 with maxCNC: 3
+[2019-01-06 10:32:33.650536]anaphor interpretation scores in sent: 553 with maxCNC: 3
+[2019-01-06 10:33:48.524956]anaphor comprehension scores in sent: 579 with maxCNC: 3
+[2019-01-06 10:33:57.426885]sentence comprehension task in sent: 582 with maxCNC: 3
+[2019-01-06 10:34:50.881668]anaphor comprehension task in sent: 599 with maxCNC: 3
+[2019-01-06 10:34:50.881668]linear regression analysis in sent: 599 with maxCNC: 3
+[2019-01-06 10:34:54.273022]anaphor comprehension task in sent: 600 with maxCNC: 3
+[2019-01-06 10:34:58.850920]anaphor resolution performance in sent: 601 with maxCNC: 3
+[2019-01-06 10:35:10.929866]End of Middle
+[2019-01-06 10:35:17.022905]SLI show problems in sent: 607 with maxCNC: 3
+[2019-01-06 10:35:33.651360]level chance level performance in sent: 612 with maxCNC: 4
+[2019-01-06 10:35:40.407659]SLI patterns below in sent: 614 with maxCNC: 3
+[2019-01-06 10:37:33.989568]anaphor interpretation performance in sent: 651 with maxCNC: 3
+[2019-01-06 10:37:37.433692]sentence comprehension tasks in sent: 652 with maxCNC: 3
+[2019-01-06 10:37:40.648470]anaphor comprehension scores in sent: 653 with maxCNC: 3
+[2019-01-06 10:37:44.230224]anaphor comprehension scores in sent: 654 with maxCNC: 3
+[2019-01-06 10:37:55.349212]anaphor interpretation performance in sent: 657 with maxCNC: 3
+[2019-01-06 10:38:19.215079]Backward digit span in sent: 664 with maxCNC: 3
+[2019-01-06 10:38:26.429209]anaphor interpretation performance in sent: 666 with maxCNC: 3
+[2019-01-06 10:38:32.176912]anaphor interpretation difﬁculties in sent: 667 with maxCNC: 3
+[2019-01-06 10:38:42.599343]anaphor interpretation abilities in sent: 670 with maxCNC: 3
+[2019-01-06 10:38:46.005658]End of Conclusion
+[2019-01-06 10:38:46.068157]words that contains CNCs(N>=3) in <Intro> are 0.01809436555199267 \% of this teil
+[2019-01-06 10:38:46.068157]words that contains CNCs(N>=3) in <Middle> are 0.021156138259833136 \% of this teil
+[2019-01-06 10:38:46.068157]words that contains CNCs(N>=3) in <Conclusion> are 0.024167210973220117 \% of this teil
+[2019-01-06 10:38:46.068157]In this document CNCs >=3 are 0.02020966173133038\% of the text.
+[2019-01-06 10:38:46.068157]Processing The_role_of_geminates_in_infants_early_word_production_and_word-form_recognition_.txt in linguistics_intros
+[2019-01-06 10:39:29.071926]first -minute recording session in sent: 12 with maxCNC: 4
+[2019-01-06 10:40:00.863430]children gain production skills in sent: 22 with maxCNC: 4
+[2019-01-06 10:41:48.577796]and word length in sent: 59 with maxCNC: 3
+[2019-01-06 10:41:52.620987]languages child overuse in sent: 60 with maxCNC: 3
+[2019-01-06 10:41:52.630981]word shape <VCCV> in sent: 60 with maxCNC: 3
+[2019-01-06 10:41:52.630981]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsThe_role_of_geminates_in_infants_early_word_production_and_word-form_recognition__60_word shape <VCCV>.txt
+[2019-01-06 10:41:56.516272]adult target form in sent: 61 with maxCNC: 3
+[2019-01-06 10:42:49.161727]whole-word phonology model in sent: 77 with maxCNC: 3
+[2019-01-06 10:43:02.727034]whole-word phonology model in sent: 81 with maxCNC: 3
+[2019-01-06 10:43:23.940145]familiar production routines in sent: 89 with maxCNC: 3
+[2019-01-06 10:44:03.439469]last research question in sent: 103 with maxCNC: 3
+[2019-01-06 10:44:06.332972]End of Introduction
+[2019-01-06 10:44:23.276918]child word forms in sent: 109 with maxCNC: 3
+[2019-01-06 10:44:44.580405]mothers’ mean age in sent: 116 with maxCNC: 3
+[2019-01-06 10:48:43.905408]targets word types in sent: 203 with maxCNC: 3
+[2019-01-06 10:48:50.097233]child word tokens in sent: 205 with maxCNC: 3
+[2019-01-06 10:53:59.003557]preferential headturn procedure in sent: 317 with maxCNC: 3
+[2019-01-06 10:55:18.827184]NTA condenser microphone in sent: 345 with maxCNC: 3
+[2019-01-06 11:00:11.869142]familiar singleton words in sent: 454 with maxCNC: 3
+[2019-01-06 11:00:14.708056]familiar geminate words in sent: 455 with maxCNC: 3
+[2019-01-06 11:01:58.998861]End of Middle
+[2019-01-06 11:02:04.652674]child word forms in sent: 494 with maxCNC: 3
+[2019-01-06 11:03:47.961468]target word shapes in sent: 530 with maxCNC: 3
+[2019-01-06 11:03:57.719463]CVCV target words in sent: 533 with maxCNC: 3
+[2019-01-06 11:04:11.882762]<VCV> word template in sent: 536 with maxCNC: 3
+[2019-01-06 11:04:11.898383]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsThe_role_of_geminates_in_infants_early_word_production_and_word-form_recognition__536_<VCV> word template.txt
+[2019-01-06 11:06:06.147768]End of Conclusion
+[2019-01-06 11:06:06.218473]words that contains CNCs(N>=3) in <Intro> are 0.020631850419084462 \% of this teil
+[2019-01-06 11:06:06.219473]words that contains CNCs(N>=3) in <Middle> are 0.0044288614135449345 \% of this teil
+[2019-01-06 11:06:06.220472]words that contains CNCs(N>=3) in <Conclusion> are 0.007339449541284404 \% of this teil
+[2019-01-06 11:06:06.220472]In this document CNCs >=3 are 0.007902382335851249\% of the text.
+[2019-01-06 11:06:06.222470]Processing Underlying_manifestations_of_developmental_phonological_disorders_in_French-speaking_pre-schoolers_.txt in linguistics_intros
+[2019-01-06 11:06:24.091353]speech sound disorders in sent: 5 with maxCNC: 3
+[2019-01-06 11:06:48.507995]speech sound disorders in sent: 11 with maxCNC: 3
+[2019-01-06 11:07:00.306785]motor speech disorder in sent: 15 with maxCNC: 3
+[2019-01-06 11:07:15.724668]speech sound disorders in sent: 20 with maxCNC: 3
+[2019-01-06 11:07:25.584211]child’s speech deﬁcit in sent: 23 with maxCNC: 3
+[2019-01-06 11:07:31.665756]Oral motor functioning in sent: 25 with maxCNC: 3
+[2019-01-06 11:07:35.118606]speech motor control in sent: 26 with maxCNC: 3
+[2019-01-06 11:07:45.355321]motor speech disorders in sent: 29 with maxCNC: 3
+[2019-01-06 11:08:05.198344]children’s speech errors in sent: 35 with maxCNC: 3
+[2019-01-06 11:08:19.101191]speech motor control in sent: 39 with maxCNC: 3
+[2019-01-06 11:08:25.937429]speech sound disorders in sent: 41 with maxCNC: 3
+[2019-01-06 11:08:52.134017]Phonological processing impairments in sent: 48 with maxCNC: 3
+[2019-01-06 11:08:52.149642]speech sound disorder in sent: 48 with maxCNC: 3
+[2019-01-06 11:08:52.165266]surface speech errors in sent: 48 with maxCNC: 3
+[2019-01-06 11:09:00.387212]speech sound disorder in sent: 50 with maxCNC: 3
+[2019-01-06 11:09:04.041810]speech sound disorders in sent: 51 with maxCNC: 3
+[2019-01-06 11:09:14.426932]error type profiles in sent: 54 with maxCNC: 3
+[2019-01-06 11:09:17.883022]speech sound disorders in sent: 55 with maxCNC: 3
+[2019-01-06 11:09:24.019632]speech sound errors in sent: 57 with maxCNC: 3
+[2019-01-06 11:09:24.035259]speech therapy caseloads in sent: 57 with maxCNC: 3
+[2019-01-06 11:10:50.511779]End of Introduction
+[2019-01-06 11:11:11.547270]speech sound errors in sent: 82 with maxCNC: 3
+[2019-01-06 11:12:01.174152]child’s language exposure in sent: 96 with maxCNC: 3
+[2019-01-06 11:12:04.603025]child’s language exposure in sent: 97 with maxCNC: 3
+[2019-01-06 11:12:41.439042]palsy cleft palate in sent: 108 with maxCNC: 3
+[2019-01-06 11:13:04.772624]awareness articulation accuracy in sent: 115 with maxCNC: 3
+[2019-01-06 11:14:32.086997]word length characteristics in sent: 138 with maxCNC: 3
+[2019-01-06 11:15:24.309418]Oral Speech Mechanism Screening Examination in sent: 149 with maxCNC: 5
+[2019-01-06 11:16:33.228992]PowerPoint audio presentation in sent: 168 with maxCNC: 3
+[2019-01-06 11:16:36.687401]speech processing scores in sent: 169 with maxCNC: 3
+[2019-01-06 11:17:15.341515]motor planning and/ in sent: 181 with maxCNC: 3
+[2019-01-06 11:17:15.342514]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsUnderlying_manifestations_of_developmental_phonological_disorders_in_French-speaking_pre-schoolers__181_motor planning and/.txt
+[2019-01-06 11:17:34.780030]mean transcription agreement in sent: 187 with maxCNC: 3
+[2019-01-06 11:17:41.244601]Oral motor abilities in sent: 189 with maxCNC: 3
+[2019-01-06 11:17:44.743058]Certain tongue movements in sent: 190 with maxCNC: 3
+[2019-01-06 11:17:48.157604]tongue move tongue in sent: 191 with maxCNC: 3
+[2019-01-06 11:18:01.002154]motor speech disorder in sent: 194 with maxCNC: 3
+[2019-01-06 11:18:31.901063]Syllable repetition task SRT scores in sent: 203 with maxCNC: 5
+[2019-01-06 11:19:21.444614]DPD group children in sent: 218 with maxCNC: 3
+[2019-01-06 11:19:24.816345]speech processing tasks in sent: 219 with maxCNC: 3
+[2019-01-06 11:19:43.443714]articulation accuracy PCC in sent: 224 with maxCNC: 3
+[2019-01-06 11:19:58.954026]higher PCC scores in sent: 228 with maxCNC: 3
+[2019-01-06 11:20:22.264369]End of Middle
+[2019-01-06 11:20:28.813015]language reﬂect diﬀerences in sent: 236 with maxCNC: 3
+[2019-01-06 11:21:13.141531]motor speech diﬃculties in sent: 249 with maxCNC: 3
+[2019-01-06 11:21:31.613853]SRT indexing deﬁcits in sent: 254 with maxCNC: 3
+[2019-01-06 11:21:35.478981]phonological processing deﬁcits in sent: 255 with maxCNC: 3
+[2019-01-06 11:21:39.838650]speech production accuracy in sent: 256 with maxCNC: 3
+[2019-01-06 11:22:02.638822]rapid digit naming in sent: 262 with maxCNC: 3
+[2019-01-06 11:23:15.218932]Strong vocabulary scores in sent: 284 with maxCNC: 3
+[2019-01-06 11:23:31.290676]DPD repeat CVCV in sent: 288 with maxCNC: 3
+[2019-01-06 11:24:00.272415]word identification task in sent: 297 with maxCNC: 3
+[2019-01-06 11:24:07.780797]speech perception abilities in sent: 299 with maxCNC: 3
+[2019-01-06 11:24:07.794874]speech production error patterns in sent: 299 with maxCNC: 4
+[2019-01-06 11:24:31.173467]speech perception test in sent: 306 with maxCNC: 3
+[2019-01-06 11:24:55.973496]End of Conclusion
+[2019-01-06 11:24:56.025463]words that contains CNCs(N>=3) in <Intro> are 0.03838771593090211 \% of this teil
+[2019-01-06 11:24:56.026464]words that contains CNCs(N>=3) in <Middle> are 0.022307424189613106 \% of this teil
+[2019-01-06 11:24:56.026464]words that contains CNCs(N>=3) in <Conclusion> are 0.02238354506957048 \% of this teil
+[2019-01-06 11:24:56.027463]In this document CNCs >=3 are 0.026458504519309776\% of the text.
+[2019-01-06 11:24:56.028463]Processing Utilization_of_prosodic_and_linguistic_cues_during_perceptions_of_nonunderstandings_in_radio_communi.txt in linguistics_intros
+[2019-01-06 11:25:59.397176]information transfer difﬁculties in sent: 19 with maxCNC: 3
+[2019-01-06 11:26:54.997198]aviation electricity transmission control in sent: 35 with maxCNC: 4
+[2019-01-06 11:27:07.117010]air trafﬁc controller in sent: 39 with maxCNC: 3
+[2019-01-06 11:27:20.733740]air trafﬁc controller in sent: 43 with maxCNC: 3
+[2019-01-06 11:30:07.225225]unﬁlled interturn delay in sent: 101 with maxCNC: 3
+[2019-01-06 11:30:40.533272]partial readback response in sent: 112 with maxCNC: 3
+[2019-01-06 11:31:07.019812]routine pilot communication in sent: 120 with maxCNC: 3
+[2019-01-06 11:32:44.584343]electricity transmission control in sent: 153 with maxCNC: 3
+[2019-01-06 11:33:09.819362]numeric digit span recall task in sent: 161 with maxCNC: 5
+[2019-01-06 11:33:18.899883]full readback responses in sent: 164 with maxCNC: 3
+[2019-01-06 11:33:22.318785]full readback responses in sent: 165 with maxCNC: 3
+[2019-01-06 11:33:25.729874]partial readback responses in sent: 166 with maxCNC: 3
+[2019-01-06 11:33:28.720024]prosodic cue “ﬁller” hypotheses in sent: 167 with maxCNC: 4
+[2019-01-06 11:33:31.907055]full readback responses in sent: 168 with maxCNC: 3
+[2019-01-06 11:33:40.888498]Partial readback responses in sent: 170 with maxCNC: 3
+[2019-01-06 11:34:01.819008]ms interturn delay in sent: 176 with maxCNC: 3
+[2019-01-06 11:34:15.035756]power generation operators in sent: 180 with maxCNC: 3
+[2019-01-06 11:34:42.761754]End of Introduction
+[2019-01-06 11:34:45.918817]power generation magazine in sent: 189 with maxCNC: 3
+[2019-01-06 11:34:56.606876]power generation operators in sent: 192 with maxCNC: 3
+[2019-01-06 11:36:09.812537]auditory readback task in sent: 214 with maxCNC: 3
+[2019-01-06 11:36:09.822555]digit span recall task in sent: 214 with maxCNC: 4
+[2019-01-06 11:36:33.263806]auditory readback task in sent: 217 with maxCNC: 3
+[2019-01-06 11:37:02.408705]“Instruction response type” in sent: 226 with maxCNC: 3
+[2019-01-06 11:37:46.890622]power generation industry in sent: 239 with maxCNC: 3
+[2019-01-06 11:37:53.912329]editor program GarageBandTM in sent: 241 with maxCNC: 3
+[2019-01-06 11:38:10.313504]instruction response portion in sent: 246 with maxCNC: 3
+[2019-01-06 11:38:49.246662]instruction response tokens in sent: 258 with maxCNC: 3
+[2019-01-06 11:39:02.922548]readback response tokens in sent: 262 with maxCNC: 3
+[2019-01-06 11:39:06.262168]partial readback response tokens in sent: 263 with maxCNC: 4
+[2019-01-06 11:40:33.323040]interturn delay durations in sent: 290 with maxCNC: 3
+[2019-01-06 11:40:33.330051]electricity transmission domain in sent: 290 with maxCNC: 3
+[2019-01-06 11:40:59.728893]interturn delay durations in sent: 299 with maxCNC: 3
+[2019-01-06 11:41:32.245626]editor program GarageBand in sent: 308 with maxCNC: 3
+[2019-01-06 11:41:38.387391]auditory readback task in sent: 310 with maxCNC: 3
+[2019-01-06 11:41:59.342817]numeric digit span recall task in sent: 316 with maxCNC: 5
+[2019-01-06 11:42:30.948082]power generation company in sent: 325 with maxCNC: 3
+[2019-01-06 11:42:40.480517]auditory readback task in sent: 328 with maxCNC: 3
+[2019-01-06 11:42:50.597935]auditory readback task in sent: 331 with maxCNC: 3
+[2019-01-06 11:42:54.719272]digit span recall task in sent: 332 with maxCNC: 4
+[2019-01-06 11:46:41.614949]instruction response type in sent: 401 with maxCNC: 3
+[2019-01-06 11:48:04.403939]partial readback responses in sent: 433 with maxCNC: 3
+[2019-01-06 11:48:25.514676]partial readback responses in sent: 440 with maxCNC: 3
+[2019-01-06 11:48:42.296915]instruction response type in sent: 445 with maxCNC: 3
+[2019-01-06 11:48:51.928793]shorter interturn delay in sent: 448 with maxCNC: 3
+[2019-01-06 11:49:08.314627]shorter interturn delay in sent: 454 with maxCNC: 3
+[2019-01-06 11:49:26.483265]End of Middle
+[2019-01-06 11:49:34.608096]power generation operators’ in sent: 462 with maxCNC: 3
+[2019-01-06 11:49:44.084124]instruction response type in sent: 465 with maxCNC: 3
+[2019-01-06 11:50:51.443539]partial readback response in sent: 490 with maxCNC: 3
+[2019-01-06 11:51:13.896697]“trivia” game setting in sent: 497 with maxCNC: 3
+[2019-01-06 11:51:32.042174]air trafﬁc control in sent: 503 with maxCNC: 3
+[2019-01-06 11:51:35.468010]controller’s instruction increased in sent: 504 with maxCNC: 3
+[2019-01-06 11:52:06.713349]partial readback response in sent: 515 with maxCNC: 3
+[2019-01-06 11:53:48.983564]task instruction response in sent: 553 with maxCNC: 3
+[2019-01-06 11:53:48.983564]power generation operators in sent: 553 with maxCNC: 3
+[2019-01-06 11:53:58.946595]small effect sizes in sent: 556 with maxCNC: 3
+[2019-01-06 11:54:50.820298]power generation operators in sent: 575 with maxCNC: 3
+[2019-01-06 11:55:00.564613]End of Conclusion
+[2019-01-06 11:55:00.627219]words that contains CNCs(N>=3) in <Intro> are 0.015873015873015872 \% of this teil
+[2019-01-06 11:55:00.627219]words that contains CNCs(N>=3) in <Middle> are 0.02214481214232396 \% of this teil
+[2019-01-06 11:55:00.627219]words that contains CNCs(N>=3) in <Conclusion> are 0.012633996937212864 \% of this teil
+[2019-01-06 11:55:00.627219]In this document CNCs >=3 are 0.017531695721077656\% of the text.
+[2019-01-06 11:55:00.627219]Processing Validity_of_new_measures_of_implicit_knowledge_Distinguishing_implicit_knowledge_from_automatized_ex.txt in linguistics_intros
+[2019-01-06 11:55:03.492641]language acquisition SLA in sent: 1 with maxCNC: 3
+[2019-01-06 11:55:26.722959]Previous SLA studies in sent: 10 with maxCNC: 3
+[2019-01-06 11:55:47.091515]construct validation study in sent: 17 with maxCNC: 3
+[2019-01-06 11:55:54.950690]real-time comprehension tasks in sent: 19 with maxCNC: 3
+[2019-01-06 11:55:54.950690]grammaticality judgment tests GJT in sent: 19 with maxCNC: 4
+[2019-01-06 11:56:10.661656]conﬁrmatory factor analysis CFA in sent: 24 with maxCNC: 4
+[2019-01-06 11:56:30.691411]heritage learner population in sent: 30 with maxCNC: 3
+[2019-01-06 11:56:34.074147]time pressure cannot in sent: 31 with maxCNC: 3
+[2019-01-06 11:59:06.864280]Explicit learning processes in sent: 90 with maxCNC: 3
+[2019-01-06 11:59:16.359186]Implicit learning processes in sent: 93 with maxCNC: 3
+[2019-01-06 11:59:36.283053]End of Introduction
+[2019-01-06 11:59:36.283053]<Middle> NEW MEASURES in sent: 100 with maxCNC: 3
+[2019-01-06 11:59:36.283053]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsValidity_of_new_measures_of_implicit_knowledge_Distinguishing_implicit_knowledge_from_automatized_ex_100_<Middle> NEW MEASURES.txt
+[2019-01-06 11:59:44.068813]real-time grammar processing in sent: 103 with maxCNC: 3
+[2019-01-06 12:00:21.389491]reaction time RT in sent: 116 with maxCNC: 3
+[2019-01-06 12:01:13.709577]ﬁne-grained measurement technique in sent: 135 with maxCNC: 3
+[2019-01-06 12:01:13.709577]grammar processing Grüter in sent: 135 with maxCNC: 3
+[2019-01-06 12:02:05.212901]serial-reaction time task in sent: 153 with maxCNC: 3
+[2019-01-06 12:02:18.025512]stringent participants selection procedure in sent: 157 with maxCNC: 4
+[2019-01-06 12:03:25.974957]initial model speciﬁcation in sent: 182 with maxCNC: 3
+[2019-01-06 12:03:59.319111]contrast discriminant validity in sent: 194 with maxCNC: 3
+[2019-01-06 12:07:37.987102]native speakers NSs in sent: 275 with maxCNC: 3
+[2019-01-06 12:09:27.782312]location particle de in sent: 315 with maxCNC: 3
+[2019-01-06 12:09:27.797956]location particle ni in sent: 315 with maxCNC: 3
+[2019-01-06 12:09:45.598731]SR Research Osgoode in sent: 320 with maxCNC: 3
+[2019-01-06 12:12:01.564697]higher sensitivity score in sent: 367 with maxCNC: 3
+[2019-01-06 12:12:17.700988]yes/no comprehension question in sent: 372 with maxCNC: 3
+[2019-01-06 12:12:17.700988]cannot create fileC:/Users/kole021/git/Thesis/parts/linguistics_parts/linguistics_introsValidity_of_new_measures_of_implicit_knowledge_Distinguishing_implicit_knowledge_from_automatized_ex_372_yes/no comprehension question.txt
+[2019-01-06 12:12:48.355019]Sample stimulus sentences in sent: 382 with maxCNC: 3
+[2019-01-06 12:12:51.617945]self-paced reading task in sent: 383 with maxCNC: 3
+[2019-01-06 12:13:38.867905]Sample stimulus sentences in sent: 400 with maxCNC: 3
+[2019-01-06 12:13:45.966392]aural stimulus sentence in sent: 402 with maxCNC: 3
+[2019-01-06 12:14:02.535402]percentage accuracy score in sent: 408 with maxCNC: 3
+[2019-01-06 12:14:29.290068]percentage accuracy score in sent: 417 with maxCNC: 3
+[2019-01-06 12:14:56.082462]see sample items in sent: 426 with maxCNC: 3
+[2019-01-06 12:14:59.104525]syllabic hiragana character in sent: 427 with maxCNC: 3
+[2019-01-06 12:15:06.466825]percentage accuracy score in sent: 429 with maxCNC: 3
+[2019-01-06 12:15:27.448071]ﬁxed semirandom order in sent: 436 with maxCNC: 3
+[2019-01-06 12:15:39.167120]real-time comprehension tasks in sent: 440 with maxCNC: 3
+[2019-01-06 12:15:55.610766]data cleaning procedures in sent: 446 with maxCNC: 3
+[2019-01-06 12:16:07.638937]lenient time pressure in sent: 450 with maxCNC: 3
+[2019-01-06 12:16:24.557667]different percentage value in sent: 456 with maxCNC: 3
+[2019-01-06 12:17:30.237633]square root transformation in sent: 479 with maxCNC: 3
+[2019-01-06 12:18:13.702091]maximum likelihood method in sent: 494 with maxCNC: 3
+[2019-01-06 12:18:28.863778]root mean square in sent: 498 with maxCNC: 3
+[2019-01-06 12:18:32.634134]maximum likelihood estimation in sent: 499 with maxCNC: 3
+[2019-01-06 12:18:35.583417]root mean square error in sent: 500 with maxCNC: 4
+[2019-01-06 12:19:03.129467]correlated uniqueness model in sent: 509 with maxCNC: 3
+[2019-01-06 12:19:03.129467]MTMM approach Brown in sent: 509 with maxCNC: 3
+[2019-01-06 12:19:23.072354]Pearson’s correlation coefﬁcients in sent: 515 with maxCNC: 3
+[2019-01-06 12:19:23.072354]language test scores in sent: 515 with maxCNC: 3
+[2019-01-06 12:19:23.088000]group short-LOR group in sent: 515 with maxCNC: 3
+[2019-01-06 12:19:52.623505]chisquare difference test in sent: 525 with maxCNC: 3
+[2019-01-06 12:23:44.200699]trait factor loadings in sent: 612 with maxCNC: 3
+[2019-01-06 12:26:30.713786]real-time grammar processing in sent: 673 with maxCNC: 3
+[2019-01-06 12:27:37.556866]trait factor loadings in sent: 696 with maxCNC: 3
+[2019-01-06 12:28:44.722383]End of Middle
+[2019-01-06 12:28:49.903072]rigorous validation studies in sent: 722 with maxCNC: 3
+[2019-01-06 12:29:32.214499]test test takers in sent: 737 with maxCNC: 3
+[2019-01-06 12:29:49.300906]End of Conclusion
+[2019-01-06 12:29:49.332193]words that contains CNCs(N>=3) in <Intro> are 0.023633677991137372 \% of this teil
+[2019-01-06 12:29:49.332193]words that contains CNCs(N>=3) in <Middle> are 0.015160282374725147 \% of this teil
+[2019-01-06 12:29:49.332193]words that contains CNCs(N>=3) in <Conclusion> are 0.015267175572519083 \% of this teil
+[2019-01-06 12:29:49.332193]In this document CNCs >=3 are 0.016268771659607238\% of the text.
+[2019-01-06 12:29:49.332193]Processing Visual_salience_effects_on_speaker_choices_Direct_or_indirect_influences_on_linguistic_processing.txt in linguistics_intros
+[2019-01-06 12:30:33.436218]visual content inﬂuences choice in sent: 16 with maxCNC: 4
+[2019-01-06 12:31:55.455739]mechanisms scene conceptualization in sent: 45 with maxCNC: 3
+[2019-01-06 12:32:21.299844]dot directing attention in sent: 54 with maxCNC: 3
+[2019-01-06 12:32:59.117206]perceptual manipulations inﬂuence sentence production in sent: 67 with maxCNC: 5
+[2019-01-06 12:33:34.006017]End of Introduction
+[2019-01-06 12:35:32.253656]sentence preparation times in sent: 124 with maxCNC: 3
+[2019-01-06 12:35:35.306295]sentence preparation times in sent: 125 with maxCNC: 3
+[2019-01-06 12:36:05.641178]sentence production proceeding in sent: 135 with maxCNC: 3
+[2019-01-06 12:36:30.784020]voice onset times VOTs in sent: 141 with maxCNC: 4
+[2019-01-06 12:37:54.024090]eye-tracking data loss in sent: 173 with maxCNC: 3
+[2019-01-06 12:40:00.664129]nonverbal eyemovement baseline in sent: 220 with maxCNC: 3
+[2019-01-06 12:40:08.128624]attention capture method in sent: 222 with maxCNC: 3
+[2019-01-06 12:43:50.026947]eye movement data in sent: 307 with maxCNC: 3
+[2019-01-06 12:45:04.033651]eye movement data in sent: 333 with maxCNC: 3
+[2019-01-06 12:45:04.033651]growth curve analyses in sent: 333 with maxCNC: 3
+[2019-01-06 12:45:25.552749]overall time course in sent: 339 with maxCNC: 3
+[2019-01-06 12:46:09.466716]simplest model accounting in sent: 355 with maxCNC: 3
+[2019-01-06 12:48:10.839224]mixedeffects linear regression in sent: 401 with maxCNC: 3
+[2019-01-06 12:48:39.677281]growth curve analysis in sent: 411 with maxCNC: 3
+[2019-01-06 12:48:50.780367]eye movement data in sent: 414 with maxCNC: 3
+[2019-01-06 12:50:32.042944]sentence preparation times in sent: 453 with maxCNC: 3
+[2019-01-06 12:51:03.160130]inﬂuence speciﬁc aspects in sent: 464 with maxCNC: 3
+[2019-01-06 12:52:25.441572]linguistic priming conditions× in sent: 494 with maxCNC: 3
+[2019-01-06 12:53:05.723190]only differences concern in sent: 508 with maxCNC: 3
+[2019-01-06 12:54:43.067319]eye movement data in sent: 544 with maxCNC: 3
+[2019-01-06 12:56:49.321015]End of Middle
+[2019-01-06 12:58:16.859527]salience inﬂuence descriptions in sent: 624 with maxCNC: 3
+[2019-01-06 12:59:07.579096]visual salience foregrounding in sent: 641 with maxCNC: 3
+[2019-01-06 13:00:25.395946]argument assignment requirements in sent: 662 with maxCNC: 3
+[2019-01-06 13:00:35.653267]sentence preparation times in sent: 665 with maxCNC: 3
+[2019-01-06 13:02:23.862127]End of Conclusion
+[2019-01-06 13:02:23.913133]words that contains CNCs(N>=3) in <Intro> are 0.013146362839614373 \% of this teil
+[2019-01-06 13:02:23.913133]words that contains CNCs(N>=3) in <Middle> are 0.008107389686337054 \% of this teil
+[2019-01-06 13:02:23.914133]words that contains CNCs(N>=3) in <Conclusion> are 0.0061068702290076335 \% of this teil
+[2019-01-06 13:02:23.914133]In this document CNCs >=3 are 0.008278457196613359\% of the text.
+[2019-01-06 13:02:23.916133]Processing Wong_et_al-2017-Journal_of_Sociolinguistics.txt in linguistics_intros
+[2019-01-06 13:03:16.083884]dialect familiarity biases listeners’ in sent: 15 with maxCNC: 4
+[2019-01-06 13:06:38.891340]Canada’s speech communities in sent: 73 with maxCNC: 3
+[2019-01-06 13:06:48.573188]Vowel Shift participation in sent: 76 with maxCNC: 3
+[2019-01-06 13:07:23.605297]index speaker ethnicity in sent: 86 with maxCNC: 3
+[2019-01-06 13:07:48.264230]index talker ethnicity in sent: 93 with maxCNC: 3
+[2019-01-06 13:08:26.313383]turn shape self-identiﬁcations in sent: 104 with maxCNC: 3
+[2019-01-06 13:08:40.392007]speech production differences in sent: 108 with maxCNC: 3
+[2019-01-06 13:08:46.815754]End of Introduction
+[2019-01-06 13:09:54.344516]speech production elicitation methodology in sent: 129 with maxCNC: 4
+[2019-01-06 13:10:54.779109]video narration productions in sent: 148 with maxCNC: 3
+[2019-01-06 13:11:12.586976]talkers’ video narrations in sent: 154 with maxCNC: 3
+[2019-01-06 13:11:50.674098]talker ethnicity labels in sent: 166 with maxCNC: 3
+[2019-01-06 13:13:07.568425]chance identiﬁcation performance in sent: 190 with maxCNC: 3
+[2019-01-06 13:13:23.868252]listener network rank in sent: 195 with maxCNC: 3
+[2019-01-06 13:13:33.856184]identiﬁcation accuracy scores in sent: 198 with maxCNC: 3
+[2019-01-06 13:14:10.366691]Tukey test comparisons in sent: 209 with maxCNC: 3
+[2019-01-06 13:14:41.981018]identiﬁcation accuracy rates in sent: 219 with maxCNC: 3
+[2019-01-06 13:14:54.693714]models identiﬁcation accuracy in sent: 223 with maxCNC: 3
+[2019-01-06 13:15:08.817248]listener network rank in sent: 227 with maxCNC: 3
+[2019-01-06 13:15:37.122420]network listener groups in sent: 235 with maxCNC: 3
+[2019-01-06 13:15:40.645284]social network listeners in sent: 236 with maxCNC: 3
+[2019-01-06 13:15:43.805572]response bias patterns in sent: 237 with maxCNC: 3
+[2019-01-06 13:16:49.444719]listener network rank in sent: 258 with maxCNC: 3
+[2019-01-06 13:16:52.717917]listeners’ bias scores in sent: 259 with maxCNC: 3
+[2019-01-06 13:17:44.125742]bias density plot in sent: 276 with maxCNC: 3
+[2019-01-06 13:18:11.021338]participants’ bias calculations in sent: 284 with maxCNC: 3
+[2019-01-06 13:18:45.227399]response bias patterns in sent: 295 with maxCNC: 3
+[2019-01-06 13:18:48.041027]response bias patterns in sent: 296 with maxCNC: 3
+[2019-01-06 13:20:02.007604]End of Middle
+[2019-01-06 13:20:30.209901]network group’s voices in sent: 329 with maxCNC: 3
+[2019-01-06 13:21:19.207464]default reference level in sent: 344 with maxCNC: 3
+[2019-01-06 13:21:26.097283]listener network rank in sent: 346 with maxCNC: 3
+[2019-01-06 13:22:19.825617]longer voice onset times in sent: 361 with maxCNC: 4
+[2019-01-06 13:24:50.489774]essential ﬁrst step in sent: 404 with maxCNC: 3
+[2019-01-06 13:25:08.851280]network rank group in sent: 409 with maxCNC: 3
+[2019-01-06 13:25:12.341683]group membership bias in sent: 410 with maxCNC: 3
+[2019-01-06 13:25:21.999782]End of Conclusion
+[2019-01-06 13:25:22.067110]words that contains CNCs(N>=3) in <Intro> are 0.00990544799639802 \% of this teil
+[2019-01-06 13:25:22.067110]words that contains CNCs(N>=3) in <Middle> are 0.0233806055960138 \% of this teil
+[2019-01-06 13:25:22.067110]words that contains CNCs(N>=3) in <Conclusion> are 0.011452368558042686 \% of this teil
+[2019-01-06 13:25:22.067110]In this document CNCs >=3 are 0.015553251370167383\% of the text.
+[2019-01-06 13:25:22.067110]Processing _Dog_or_chien_Translation_equivalents_in_the_receptive_and_expressive_vocabularies_of_young_FrenchEn.txt in linguistics_intros
+[2019-01-06 13:26:14.864971]parent report measures in sent: 15 with maxCNC: 3
+[2019-01-06 13:26:39.678793]vocabulary size shape in sent: 23 with maxCNC: 3
+[2019-01-06 13:26:46.182339]vocabulary development literature in sent: 25 with maxCNC: 3
+[2019-01-06 13:30:29.225735]children’s vocabulary production Montanari in sent: 93 with maxCNC: 4
+[2019-01-06 13:30:35.369174]vocabulary size impact in sent: 95 with maxCNC: 3
+[2019-01-06 13:31:33.833719]End of Introduction
+[2019-01-06 13:31:48.088692]vocabulary growth play in sent: 115 with maxCNC: 3
+[2019-01-06 13:32:14.912499]vocabulary size shape in sent: 123 with maxCNC: 3
+[2019-01-06 13:35:22.690284]parent report vocabulary checklist in sent: 177 with maxCNC: 4
+[2019-01-06 13:36:40.011649]exposure vocabulary size in sent: 198 with maxCNC: 3
+[2019-01-06 13:36:53.980460]End of Middle
+[2019-01-06 13:37:55.836719]language exposure ratios in sent: 218 with maxCNC: 3
+[2019-01-06 13:39:22.227794]relative vocabulary size in sent: 245 with maxCNC: 3
+[2019-01-06 13:42:08.435935]Word diﬃculty level in sent: 297 with maxCNC: 3
+[2019-01-06 13:45:38.317680]parent report measures in sent: 363 with maxCNC: 3
+[2019-01-06 13:47:28.898623]children’s language preferences in sent: 397 with maxCNC: 3
+[2019-01-06 13:47:38.383295]children’s vocabulary development in sent: 400 with maxCNC: 3
+[2019-01-06 13:48:20.271951]CCT target images in sent: 413 with maxCNC: 3
+[2019-01-06 13:48:27.221032]infants’ vocabulary comprehension in sent: 415 with maxCNC: 3
+[2019-01-06 13:49:32.896463]children’s word knowledge in sent: 435 with maxCNC: 3
+[2019-01-06 13:49:58.690615]small sample size in sent: 443 with maxCNC: 3
+[2019-01-06 13:50:01.568639]parent report discrepancy in sent: 444 with maxCNC: 3
+[2019-01-06 13:50:04.310999]End of Conclusion
+[2019-01-06 13:50:04.357891]words that contains CNCs(N>=3) in <Intro> are 0.010031347962382446 \% of this teil
+[2019-01-06 13:50:04.357891]words that contains CNCs(N>=3) in <Middle> are 0.009984639016897081 \% of this teil
+[2019-01-06 13:50:04.357891]words that contains CNCs(N>=3) in <Conclusion> are 0.007294429708222812 \% of this teil
+[2019-01-06 13:50:04.373521]In this document CNCs >=3 are 0.008354669182050937\% of the text.
