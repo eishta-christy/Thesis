@@ -157,6 +157,8 @@ shapiro.test(ps_lab_data_58each$NounsToWords)
 #####ANOVA#####
 ps_lab_data_58each$Subcorpus <- ordered(ps_lab_data_58each$Subcorpus,
                          levels = c("economics_intros", "biology_intros", "linguistics_intros"))
+ps_lab_data_58each$Teil <- ordered(ps_lab_data_58each$Teil,
+                                        levels = c("<Intro>", "<Middle>", "<Conclusion>"))
 library(dplyr)
 group_by(ps_lab_data_58each, Subcorpus) %>%
   summarise(
@@ -176,6 +178,12 @@ TukeyHSD(res.aovCNCtoNouns)
 res.aovPerTeil <- aov(NounsToWords ~ Subcorpus, data = ps_lab_data_58each)
 summary(res.aovPerTeil)
 TukeyHSD(res.aovPerTeil)
+
+res.aovEFull <- aov(NounsToWords ~ Subcorpus*Teil, data = ps_lab_data_58each)
+summary(res.aovEFull)
+TukeyHSD((res.aovEFull))
+
+
 
 #####ANOVAs for each sub-corpus####
 res.aivEconomicsW <- aov(NounsToWords ~ Teil, data = subE)
@@ -213,6 +221,7 @@ TukeyHSD(res.aovCNCtoNouns)
 
 
 ####graphs####
+library(ggplot2)
 ggboxplot(ps_lab_data_58each, x = "Subcorpus", y = "NounsToWords", 
           color = "Subcorpus", palette = c("#00AFBB", "#E7B800", "#FC4E07"),
           order = c("economics_intros", "biology_intros", "linguistics_intros"),
@@ -257,6 +266,19 @@ p + geom_boxplot(notch = TRUE, outlier.colour = "black", outlier.shape = 1, outl
   scale_y_continuous(name = "Nouns per 1000 words",
                      breaks = seq(225, 375, 25),
                      limits=c(210, 380)) +
+  #ggtitle("Do we need it here?")+
+  theme_bw()+
+  theme(text = element_text(size = 12, family = "Times"),
+        axis.title = element_text(face="bold"),
+        axis.text.x=element_text(size = 11)) +
+  scale_x_discrete(name = "Part of the article")
+######TODO GRAPH#####
+p2 <- ggplot(ps_lab_data_58each, aes(x = Teil, y= CNCtoNouns, fill=Subcorpus))
+p2 + geom_boxplot(notch = FALSE, outlier.colour = "black", outlier.shape = 1, outlier.alpha = 0.3) +
+  scale_fill_manual(values= c(rgb(0.8, 0.255, 0.255, 0.3), rgb(0.3, 0.8, 0.2, 0.3), rgb(0.2, 0.2, 0.7, 0.3))) +
+  scale_y_continuous(name = "Nouns per 1000 words",
+                     breaks = seq(5, 30, 2),
+                     limits=c(5, 30)) +
   #ggtitle("Do we need it here?")+
   theme_bw()+
   theme(text = element_text(size = 12, family = "Times"),
