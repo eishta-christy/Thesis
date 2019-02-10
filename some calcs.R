@@ -3,7 +3,10 @@ setwd("C:/Users/kole021/git/Thesis/")
 ps_lab_data_58each <-read.table("df_nouns_and_all_words_counts_whole_corpus_58each.csv", quote = "", fill = TRUE, header = TRUE, sep = "\t")
 ps_lab_data_58each$NounsToWords <- ps_lab_data_58each$NounsN/ps_lab_data_58each$WordsN*1000
 ps_lab_data_58each$CNCtoNouns <- ps_lab_data_58each$CNCsNounsN/ps_lab_data_58each$NounsN*1000
+ps_lab_data_58each$CNCtoWords <- ps_lab_data_58each$CNCsNounsN/ps_lab_data_58each$WordsN*1000
+
 #ps_lab_data_58each$CNCtoWords
+######other data####
 ps_lab_data_all <-read.table("df_nouns_and_all_words_counts_whole_corpus_all.csv", quote = "", fill = TRUE, header = TRUE, sep = "\t")
 ps_lab_data_all$NounsToWords <- ps_lab_data_all$NounsN/ps_lab_data_all$WordsN
 ps_lab_data_all$CNCtoNouns <- ps_lab_data_all$CNCsNounsN/ps_lab_data_all$NounsN
@@ -35,7 +38,7 @@ library(dplyr)
 p_58each <- summary(ps_lab_data_58each %>% 
   select(WordsN, NounsN, Subcorpus, Teil))
 pivot_58each <- ps_lab_data_58each %>%
-  select(Subcorpus, Teil, WordsN, NounsN, NounsToWords, CNCtoNouns, CNCsNounsN) %>%
+  select(Subcorpus, Teil, WordsN, NounsN, NounsToWords, CNCtoNouns, CNCsNounsN, CNCtoWords) %>%
   group_by (Subcorpus, Teil) %>%
   summarise(MeanWordsN = mean(WordsN),
             #SDWordsN = sd(WordsN),
@@ -43,7 +46,7 @@ pivot_58each <- ps_lab_data_58each %>%
             MeanNounsN = mean(NounsN),
             MeanNounsToWords = mean(NounsToWords, na.rm = TRUE),
             MeanCNCtoNouns = mean(CNCtoNouns, na.rm = TRUE),
-            CNCstoWords = mean(CNCsNounsN,na.rm = TRUE)/mean(WordsN,na.rm = TRUE))
+            CNCstoWords = mean(CNCtoWords, na.rm=TRUE))
 
 pivot2_58each <- ps_lab_data_58each %>%
   select(Subcorpus, WordsN) %>%
@@ -154,11 +157,14 @@ shapiro.test(ps_lab_data_58each$NounsToWords[ps_lab_data_58each$Teil == "<Middle
 #all three test show that distibition is not non-normal
 shapiro.test(ps_lab_data_58each$NounsToWords)
 ###but them all together are non-normal distributed!!
-#####ANOVA#####
+########ordered####
 ps_lab_data_58each$Subcorpus <- ordered(ps_lab_data_58each$Subcorpus,
-                         levels = c("economics_intros", "biology_intros", "linguistics_intros"))
+                         levels = c("economics_intros", "biology_intros", "linguistics_intros"),
+                         labels = c("Economics", "Biology", "Linguistics"))
 ps_lab_data_58each$Teil <- ordered(ps_lab_data_58each$Teil,
-                                        levels = c("<Intro>", "<Middle>", "<Conclusion>"))
+                                        levels = c("<Intro>", "<Middle>", "<Conclusion>"),
+                                   labels = c("Introduction","Middle part","Conclusion"))
+#####ANOVA#####
 library(dplyr)
 group_by(ps_lab_data_58each, Subcorpus) %>%
   summarise(
@@ -271,20 +277,24 @@ p + geom_boxplot(notch = TRUE, outlier.colour = "black", outlier.shape = 1, outl
   theme(text = element_text(size = 12, family = "Times"),
         axis.title = element_text(face="bold"),
         axis.text.x=element_text(size = 11)) +
-  scale_x_discrete(name = "Part of the article")
+  scale_x_discrete(name = "Part of the article")+
+  stat_summary_bin(fun.y=mean, geom="point", shape=18,
+                   size=3, color="red", position=position_dodge(width=0.75))
 ######TODO GRAPH#####
-p2 <- ggplot(ps_lab_data_58each, aes(x = Teil, y= CNCtoNouns, fill=Subcorpus))
-p2 + geom_boxplot(notch = FALSE, outlier.colour = "black", outlier.shape = 1, outlier.alpha = 0.3) +
+gr2 <- ggplot(ps_lab_data_58each, aes(x = Teil, y= CNCtoNouns, fill=Subcorpus))
+gr2 + geom_boxplot(notch = TRUE, outlier.colour = "black", outlier.shape = 1, outlier.alpha = 0.3) +
   scale_fill_manual(values= c(rgb(0.8, 0.255, 0.255, 0.3), rgb(0.3, 0.8, 0.2, 0.3), rgb(0.2, 0.2, 0.7, 0.3))) +
-  scale_y_continuous(name = "Nouns per 1000 words",
-                     breaks = seq(5, 30, 2),
-                     limits=c(5, 30)) +
+  scale_y_continuous(name = "CNCs per 1000 nouns",
+                     breaks = seq(5, 100, 5),
+                     limits=c(0, 100)) +
   #ggtitle("Do we need it here?")+
   theme_bw()+
   theme(text = element_text(size = 12, family = "Times"),
         axis.title = element_text(face="bold"),
         axis.text.x=element_text(size = 11)) +
-  scale_x_discrete(name = "Part of the article")
+  scale_x_discrete(name = "Part of the article")+
+  stat_summary_bin(fun.y=mean, geom="point", shape=18,
+               size=3, color="red", position=position_dodge(width=0.75))
 
 ######citationsss######
 citations <- function(includeURL = TRUE, includeRStudio = TRUE) {
