@@ -186,11 +186,12 @@ summary(res.aovPerTeil)
 TukeyHSD(res.aovPerTeil)
 
 res.aovEFull <- aov(NounsToWords ~ Subcorpus*Teil, data = ps_lab_data_58each)
-summary(res.aovEFull)
+summa = summary(res.aovEFull)
 TukeyHSD((res.aovEFull))
 
-
-
+sink("summary.txt")
+TukeyHSD((res.aovEFull))
+sink()
 #####ANOVAs for each sub-corpus####
 res.aivEconomicsW <- aov(NounsToWords ~ Teil, data = subE)
 summary(res.aivEconomicsW)

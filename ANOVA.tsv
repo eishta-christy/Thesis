@@ -1,0 +1,51 @@
+$Subcorpus
+	diff	lwr	upr	p adj
+Economics-Biology	13.68056	7.885856	19.47527	1e-07
+Linguistics-Biology	-20.59812	-26.417103	-14.77914	0e+00
+Linguistics-Economics	-34.27868	-40.021904	-28.53546	0e+00
+
+$Teil
+	diff	lwr	upr	p adj
+<Intro>-<Conclusion>	-6.770009	-12.55437	-0.985651	0.0169006
+<Middle>-<Conclusion>	-16.009779	-21.79414	-10.225422	0.0000000
+<Middle>-<Intro>	-9.239771	-15.02413	-3.455413	0.0005664
+
+$`Subcorpus:Teil`
+	diff	lwr	upr	p adj
+Economics:<Conclusion>-Biology:<Conclusion>	21.5135404	8.2120854	34.8149953	0.0000230
+Linguistics:<Conclusion>-Biology:<Conclusion>	-20.8437534	-34.2009298	-7.4865769	0.0000543
+Biology:<Intro>-Biology:<Conclusion>	0.5671901	-12.9066452	14.0410253	1.0000000
+Economics:<Intro>-Biology:<Conclusion>	8.9736808	-4.3277742	22.2751358	0.4733281
+Linguistics:<Intro>-Biology:<Conclusion>	-28.8286233	-42.1857998	-15.4714469	0.0000000
+Biology:<Middle>-Biology:<Conclusion>	-15.5799437	-29.0537790	-2.1061085	0.0103844
+Economics:<Middle>-Biology:<Conclusion>	-4.4582866	-17.7597416	8.8431684	0.9813151
+Linguistics:<Middle>-Biology:<Conclusion>	-27.1347393	-40.4919158	-13.7775629	0.0000000
+Linguistics:<Conclusion>-Economics:<Conclusion>	-42.3572937	-55.5405646	-29.1740228	0.0000000
+Biology:<Intro>-Economics:<Conclusion>	-20.9463503	-34.2478053	-7.6448953	0.0000439
+Economics:<Intro>-Economics:<Conclusion>	-12.5398595	-25.6666708	0.5869517	0.0742385
+Linguistics:<Intro>-Economics:<Conclusion>	-50.3421637	-63.5254346	-37.1588928	0.0000000
+Biology:<Middle>-Economics:<Conclusion>	-37.0934841	-50.3949391	-23.7920291	0.0000000
+Economics:<Middle>-Economics:<Conclusion>	-25.9718270	-39.0986382	-12.8450158	0.0000001
+Linguistics:<Middle>-Economics:<Conclusion>	-48.6482797	-61.8315506	-35.4650088	0.0000000
+Biology:<Intro>-Linguistics:<Conclusion>	21.4109435	8.0537670	34.7681199	0.0000286
+Economics:<Intro>-Linguistics:<Conclusion>	29.8174342	16.6341633	43.0007051	0.0000000
+Linguistics:<Intro>-Linguistics:<Conclusion>	-7.9848700	-21.2243598	5.2546198	0.6287656
+Biology:<Middle>-Linguistics:<Conclusion>	5.2638096	-8.0933669	18.6209861	0.9501838
+Economics:<Middle>-Linguistics:<Conclusion>	16.3854667	3.2021958	29.5687376	0.0038635
+Linguistics:<Middle>-Linguistics:<Conclusion>	-6.2909860	-19.5304758	6.9485038	0.8644537
+Economics:<Intro>-Biology:<Intro>	8.4064907	-4.8949643	21.7079457	0.5659836
+Linguistics:<Intro>-Biology:<Intro>	-29.3958134	-42.7529899	-16.0386370	0.0000000
+Biology:<Middle>-Biology:<Intro>	-16.1471338	-29.6209691	-2.6732986	0.0064859
+Economics:<Middle>-Biology:<Intro>	-5.0254767	-18.3269317	8.2759783	0.9610572
+Linguistics:<Middle>-Biology:<Intro>	-27.7019294	-41.0591059	-14.3447530	0.0000000
+Linguistics:<Intro>-Economics:<Intro>	-37.8023042	-50.9855751	-24.6190333	0.0000000
+Biology:<Middle>-Economics:<Intro>	-24.5536246	-37.8550796	-11.2521696	0.0000005
+Economics:<Middle>-Economics:<Intro>	-13.4319675	-26.5587787	-0.3051562	0.0403113
+Linguistics:<Middle>-Economics:<Intro>	-36.1084202	-49.2916911	-22.9251493	0.0000000
+Biology:<Middle>-Linguistics:<Intro>	13.2486796	-0.1084969	26.6058561	0.0538231
+Economics:<Middle>-Linguistics:<Intro>	24.3703367	11.1870658	37.5536076	0.0000005
+Linguistics:<Middle>-Linguistics:<Intro>	1.6938840	-11.5456058	14.9333738	0.9999824
+Economics:<Middle>-Biology:<Middle>	11.1216571	-2.1797979	24.4231121	0.1871345
+Linguistics:<Middle>-Biology:<Middle>	-11.5547956	-24.9119721	1.8023809	0.1521953
+Linguistics:<Middle>-Economics:<Middle>	-22.6764527	-35.8597236	-9.4931818	0.0000045
+
